@@ -1,0 +1,64 @@
+name: 블로그 빌드 & 배포
+
+# 자동화 트리거
+#  1) money-blog 내용이 바뀌어 push 되면 자동 빌드
+#  2) 매일 오전 8시(KST)에 큐에서 새 글 초안 생성 후 빌드 (수동 발행 전 단계)
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'money-blog/**'
+  schedule:
+    - cron: '0 23 * * *'   # UTC 23:00 = KST 08:00
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 예약 실행 시 새 글 초안 생성
+        if: github.event_name == 'schedule'
+        run: |
+          cd money-blog/automation
+          python3 new_post.py || echo "대기 주제 없음 - 건너뜀"
+
+      - name: 사이트 빌드
+        run: |
+          cd money-blog/automation
+          python3 build.py
+
+      - name: 변경분 커밋 (초안/빌드 결과)
+        if: github.event_name == 'schedule'
+        run: |
+          git config user.name "blog-bot"
+          git config user.email "actions@github.com"
+          git add money-blog/
+          git commit -m "chore: 일일 초안 생성 및 사이트 빌드" || echo "변경 없음"
+          git push || echo "push 생략"
+
+      - name: GitHub Pages 아티팩트 업로드
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: money-blog/site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: GitHub Pages 배포
+        id: deployment
+        uses: actions/deploy-pages@v4
