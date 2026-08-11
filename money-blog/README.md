@@ -43,7 +43,15 @@ python3 build.py               # site/ 에 HTML·sitemap 등 생성
 # 4) site/ 폴더를 정적 호스팅(GitHub Pages, Netlify 등)에 배포
 ```
 
-`.github/workflows/blog-build.yml` 이 push·매일 예약·수동 실행 시 자동으로 빌드하고 GitHub Pages로 배포합니다.
+`.github/workflows/blog-build.yml` 이 push·매시 예약·수동 실행 시 자동으로 빌드하고 GitHub Pages로 배포합니다.
+
+### 발행 시각을 매일 다르게 (봇처럼 보이지 않도록)
+
+매일 정각(예: 08:00)에 딱 맞춰 올라오면 자동화 티가 나기 쉽습니다. 그래서 워크플로우는
+**매시 정각에 깨어나기만 하고**, `automation/publish_gate.py` 가 그날의 발행 시각을
+07:00~23:00(KST) 사이에서 날짜 기반으로 무작위로 정해 그 시각에만 실제로 글을 발행합니다.
+같은 시각을 반복하지 않도록 날짜마다 다른 시:분이 나오며, 목표 분(分)까지는 추가로
+랜덤 대기 후 커밋하므로 실제 발행 시각도 정각에서 벗어납니다.
 
 ## 애드센스 승인 체크리스트
 
