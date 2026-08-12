@@ -1,0 +1,432 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>꽁폰 | 이번 달 최저가는 카카오톡 안에 있습니다</title>
+<meta name="description" content="부산 휴대폰 성지 꽁폰. 실제 지원금은 카카오톡 채널 1:1 상담으로 확인하세요.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Song+Myung&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css">
+<style>
+  :root {
+    --paper: #F6F2E9;
+    --paper-raised: #FFFFFF;
+    --ink: #1C1811;
+    --ink-soft: #6B6455;
+    --line: #E1D9C7;
+    --kakao: #FEE500;
+    --kakao-ink: #391B1B;
+    --stamp: #B03A2E;
+    --font-display: 'Song Myung', 'Nanum Myeongjo', Batang, serif;
+    --font-body: 'Pretendard Variable', Pretendard, -apple-system, 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif;
+    --font-mono: 'JetBrains Mono', ui-monospace, 'SFMono-Regular', monospace;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --paper: #14100A;
+      --paper-raised: #1E1911;
+      --ink: #F2ECDE;
+      --ink-soft: #B2A78F;
+      --line: #362D1F;
+    }
+  }
+  :root[data-theme="dark"] {
+    --paper: #14100A;
+    --paper-raised: #1E1911;
+    --ink: #F2ECDE;
+    --ink-soft: #B2A78F;
+    --line: #362D1F;
+  }
+
+  * { box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+  body {
+    margin: 0;
+    background: var(--paper);
+    color: var(--ink);
+    font-family: var(--font-body);
+    font-size: 16px;
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+    overflow-x: hidden;
+  }
+  img, svg { max-width: 100%; display: block; }
+  a { color: inherit; }
+  .wrap {
+    max-width: 1120px;
+    margin: 0 auto;
+    padding: 0 24px;
+  }
+  section { padding: 88px 0; border-bottom: 1px solid var(--line); }
+  section:last-of-type { border-bottom: none; }
+  h1, h2, h3 { font-family: var(--font-display); font-weight: 400; margin: 0; text-wrap: balance; }
+  .eyebrow {
+    font-family: var(--font-mono);
+    font-size: 12px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--ink-soft);
+    margin: 0 0 18px;
+  }
+  .eyebrow::before { content: '— '; }
+
+  /* header */
+  header {
+    position: sticky; top: 0; z-index: 50;
+    background: color-mix(in srgb, var(--paper) 88%, transparent);
+    backdrop-filter: blur(8px);
+    border-bottom: 1px solid var(--line);
+  }
+  header .bar {
+    max-width: 1120px; margin: 0 auto; padding: 16px 24px;
+    display: flex; align-items: center; justify-content: space-between;
+  }
+  .logo { font-family: var(--font-display); font-size: 22px; letter-spacing: 0.02em; }
+  .logo b { color: var(--stamp); font-weight: 400; }
+
+  /* buttons */
+  .btn-kakao {
+    display: inline-flex; align-items: center; gap: 8px;
+    background: var(--kakao); color: var(--kakao-ink);
+    font-family: var(--font-body); font-weight: 600; font-size: 15px;
+    padding: 12px 22px; border-radius: 999px; border: none;
+    text-decoration: none; cursor: pointer;
+    transition: transform 180ms ease, box-shadow 180ms ease;
+    white-space: nowrap;
+  }
+  .btn-kakao:hover { transform: translateY(-2px); box-shadow: 0 10px 24px -8px color-mix(in srgb, var(--kakao) 70%, black 10%); }
+  .btn-kakao svg { width: 18px; height: 18px; flex: none; }
+  .btn-kakao.small { padding: 9px 16px; font-size: 13px; }
+  .btn-kakao.big { padding: 18px 34px; font-size: 17px; }
+  @media (prefers-reduced-motion: reduce) { .btn-kakao { transition: none; } }
+
+  /* hero */
+  .hero { padding-top: 72px; padding-bottom: 96px; }
+  .hero h1 {
+    font-size: clamp(34px, 6vw, 64px);
+    line-height: 1.22;
+    letter-spacing: -0.01em;
+  }
+  .hero .lede {
+    margin: 28px 0 0; max-width: 46ch;
+    color: var(--ink-soft); font-size: 17px;
+  }
+  .price-line {
+    display: inline-flex; align-items: center; gap: 10px; margin-top: 8px;
+    font-family: var(--font-mono); font-size: clamp(20px, 3vw, 28px); font-weight: 500;
+  }
+  .redact {
+    position: relative; display: inline-block;
+    background: var(--ink); color: var(--paper);
+    padding: 4px 14px; cursor: pointer; user-select: none;
+    transition: transform 220ms cubic-bezier(.4,0,.2,1);
+  }
+  .redact .digits { opacity: 0; transition: opacity 150ms ease; }
+  .redact .tag {
+    font-family: var(--font-mono); font-size: 10px; letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+  .redact.peek { transform: skewX(-6deg) translateY(-2px); }
+  .redact.peek .digits { opacity: 1; }
+  .redact.peek .tag { opacity: 0; }
+  @media (prefers-reduced-motion: reduce) { .redact { transition: none; } }
+
+  .hero-actions { margin-top: 40px; display: flex; align-items: center; gap: 18px; flex-wrap: wrap; }
+  .hero-note { font-size: 13px; color: var(--ink-soft); }
+
+  /* trust bar */
+  .trust {
+    display: flex; flex-wrap: wrap; gap: 12px 40px;
+    font-family: var(--font-mono); font-size: 12.5px; color: var(--ink-soft);
+    padding: 28px 0; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line);
+  }
+  .trust span b { color: var(--ink); font-weight: 500; }
+
+  /* why section */
+  .why-grid { display: grid; grid-template-columns: 1fr; gap: 48px; margin-top: 40px; }
+  @media (min-width: 860px) { .why-grid { grid-template-columns: 1.1fr 1fr; gap: 64px; } }
+  .why h2 { font-size: clamp(26px, 3.4vw, 38px); max-width: 18ch; }
+  .fact-list { list-style: none; margin: 0; padding: 0; display: grid; gap: 22px; }
+  .fact-list li {
+    display: grid; grid-template-columns: 28px 1fr; gap: 14px;
+    padding-bottom: 22px; border-bottom: 1px solid var(--line);
+  }
+  .fact-list li:last-child { border-bottom: none; padding-bottom: 0; }
+  .fact-bar {
+    width: 28px; height: 10px; margin-top: 6px; background: var(--ink);
+  }
+  .fact-list strong { display: block; font-weight: 600; margin-bottom: 4px; }
+  .fact-list p { margin: 0; color: var(--ink-soft); font-size: 14.5px; }
+
+  /* principles */
+  .principle-grid { display: grid; grid-template-columns: 1fr; gap: 1px; background: var(--line); margin-top: 40px; border: 1px solid var(--line); }
+  @media (min-width: 760px) { .principle-grid { grid-template-columns: repeat(3, 1fr); } }
+  .principle {
+    background: var(--paper-raised); padding: 36px 28px;
+  }
+  .principle .mark { font-family: var(--font-display); font-size: 32px; color: var(--stamp); margin-bottom: 18px; display: block; }
+  .principle h3 { font-size: 19px; margin-bottom: 10px; }
+  .principle p { margin: 0; color: var(--ink-soft); font-size: 14.5px; }
+
+  /* steps */
+  .steps { margin-top: 44px; display: grid; gap: 0; }
+  .step {
+    display: grid; grid-template-columns: 64px 1fr; gap: 24px;
+    padding: 30px 0; border-top: 1px solid var(--line);
+    align-items: start;
+  }
+  .step:last-child { border-bottom: 1px solid var(--line); }
+  .step .num { font-family: var(--font-mono); font-size: 13px; color: var(--stamp); padding-top: 4px; }
+  .step h3 { font-size: 20px; margin-bottom: 8px; font-family: var(--font-body); font-weight: 600; }
+  .step p { margin: 0 0 14px; color: var(--ink-soft); font-size: 14.5px; max-width: 56ch; }
+
+  /* placeholder proof */
+  .proof-grid { display: grid; grid-template-columns: 1fr; gap: 16px; margin-top: 40px; }
+  @media (min-width: 760px) { .proof-grid { grid-template-columns: repeat(3, 1fr); } }
+  .proof-card {
+    border: 1px dashed var(--line); padding: 26px; min-height: 150px;
+    display: flex; flex-direction: column; justify-content: space-between;
+    font-size: 13.5px; color: var(--ink-soft);
+  }
+  .proof-card .stub { font-family: var(--font-mono); font-size: 11px; letter-spacing: 0.06em; text-transform: uppercase; }
+
+  /* final cta */
+  .final {
+    background: var(--ink); color: var(--paper);
+    border-radius: 0; text-align: left;
+  }
+  .final .wrap { display: flex; flex-direction: column; align-items: flex-start; gap: 28px; }
+  .final h2 { font-size: clamp(28px, 4.6vw, 46px); color: var(--paper); max-width: 16ch; }
+  .final p.sub { color: color-mix(in srgb, var(--paper) 65%, transparent); max-width: 42ch; margin: 0; }
+  .final-alt { font-size: 13px; color: color-mix(in srgb, var(--paper) 55%, transparent); }
+
+  /* footer */
+  footer { padding: 56px 0 120px; }
+  .foot-grid { display: grid; gap: 8px; font-size: 13px; color: var(--ink-soft); }
+  .foot-links { margin-top: 20px; display: flex; gap: 18px; font-size: 13px; }
+  .foot-links a { text-decoration: underline; text-underline-offset: 3px; }
+  .foot-copy { margin-top: 28px; font-family: var(--font-mono); font-size: 11.5px; color: var(--ink-soft); }
+
+  /* floating kakao */
+  .floating {
+    position: fixed; right: 20px; bottom: 20px; z-index: 60;
+  }
+  .floating .btn-kakao { box-shadow: 0 8px 20px -6px rgba(0,0,0,0.35); }
+
+  .reveal { opacity: 0; transform: translateY(14px); transition: opacity 600ms ease, transform 600ms ease; }
+  .reveal.in { opacity: 1; transform: none; }
+  @media (prefers-reduced-motion: reduce) { .reveal { opacity: 1; transform: none; transition: none; } }
+
+  :focus-visible { outline: 2px solid var(--stamp); outline-offset: 3px; }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="bar">
+    <div class="logo">꽁<b>·</b>폰</div>
+    <a class="btn-kakao small" href="https://pf.kakao.com/_xdjAxfX" target="_blank" rel="noopener">
+      <svg viewBox="0 0 24 24" fill="none"><path d="M12 3C6.48 3 2 6.58 2 11c0 2.8 1.85 5.27 4.66 6.69-.2.74-.73 2.7-.84 3.12-.13.52.19.51.4.37.16-.1 2.6-1.77 3.65-2.49.7.1 1.42.16 2.13.16 5.52 0 10-3.58 10-8s-4.48-8-10-8Z" fill="currentColor"/></svg>
+      채널 추가
+    </a>
+  </div>
+</header>
+
+<main>
+  <section class="hero">
+    <div class="wrap">
+      <p class="eyebrow">부산 · 휴대폰 성지 꽁폰</p>
+      <h1>이번 달 가장 낮은 가격은,<br>사이트가 아니라<br>카카오톡 안에 있습니다.</h1>
+      <p class="lede">휴대전화 유통법상 실제 지원금은 온라인에 표시할 수 없어요. 그래서 꽁폰은 가격을 숨기는 대신, 채널 상담으로 정확한 금액을 1:1로 알려드립니다.</p>
+      <p class="price-line">이번 주 최저가
+        <span class="redact" tabindex="0" role="button" aria-label="가격 확인하려면 카카오톡 채널로 이동">
+          <span class="tag">카톡에서 공개</span>
+          <span class="digits" aria-hidden="true">₩ 2█,███</span>
+        </span>
+      </p>
+      <div class="hero-actions">
+        <a class="btn-kakao big" href="https://pf.kakao.com/_xdjAxfX/chat" target="_blank" rel="noopener">
+          <svg viewBox="0 0 24 24" fill="none"><path d="M12 3C6.48 3 2 6.58 2 11c0 2.8 1.85 5.27 4.66 6.69-.2.74-.73 2.7-.84 3.12-.13.52.19.51.4.37.16-.1 2.6-1.77 3.65-2.49.7.1 1.42.16 2.13.16 5.52 0 10-3.58 10-8s-4.48-8-10-8Z" fill="currentColor"/></svg>
+          카카오톡으로 가격 확인하기
+        </a>
+        <span class="hero-note">채널 추가 없이도 상담 가능 · 부산 전 지점 동일 상담</span>
+      </div>
+    </div>
+    <div class="wrap trust" style="margin-top:64px;">
+      <span>사업자등록번호 <b>174-85-03343</b></span>
+      <span>대표 <b>성효은</b></span>
+      <span>취급 통신사 <b>SKT · KT · LG U+</b></span>
+      <span>거점 <b>부산 진구 · 금정구</b></span>
+    </div>
+  </section>
+
+  <section class="why reveal">
+    <div class="wrap why-grid">
+      <div>
+        <p class="eyebrow">왜 가격이 가려져 있나요</p>
+        <h2>정가를 공개하지 않는 건,<br>속이기 위해서가 아닙니다.</h2>
+      </div>
+      <ul class="fact-list">
+        <li>
+          <span class="fact-bar"></span>
+          <div><strong>법으로 정해진 방식입니다</strong><p>이동통신 단말장치 유통법상 실제 지원금·할인 조건은 온라인에 게시할 수 없습니다. 매장·채널마다 표시가 다르다면 오히려 그쪽을 의심해야 합니다.</p></div>
+        </li>
+        <li>
+          <span class="fact-bar"></span>
+          <div><strong>상담은 곧 맞춤 견적입니다</strong><p>기기, 통신사, 요금제, 결합 여부에 따라 최종 금액이 달라져 페이지 하나로는 정확히 안내할 수 없습니다. 채널에서 조건을 알려주시면 바로 계산해 드립니다.</p></div>
+        </li>
+        <li>
+          <span class="fact-bar"></span>
+          <div><strong>기록이 남는 채널로만 안내합니다</strong><p>전화나 구두 안내 대신 카카오톡 채널 대화로 조건을 남겨, 안내받은 내용과 실제 개통 조건이 다르지 않도록 합니다.</p></div>
+        </li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="principles reveal">
+    <div class="wrap">
+      <p class="eyebrow">우리의 원칙</p>
+      <h2 style="font-size:clamp(26px,3.4vw,38px); max-width:20ch;">가려진 건 가격뿐, 원칙은 숨기지 않습니다.</h2>
+      <div class="principle-grid">
+        <div class="principle">
+          <span class="mark">일</span>
+          <h3>상담 후 가격 변동 없음</h3>
+          <p>채널에서 안내한 조건과 실제 개통 시 조건이 다르면 그 자리에서 알려드립니다.</p>
+        </div>
+        <div class="principle">
+          <span class="mark">이</span>
+          <h3>지점 무관, 동일 상담</h3>
+          <p>어느 지점 채널로 문의해도 같은 기준으로 안내합니다. 지점마다 가격이 갈리지 않습니다.</p>
+        </div>
+        <div class="principle">
+          <span class="mark">삼</span>
+          <h3>개통 후에도 채널 유지</h3>
+          <p>상담이 끝났다고 채널을 닫지 않습니다. 개통 이후 문의도 같은 창구에서 받습니다.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="how reveal">
+    <div class="wrap">
+      <p class="eyebrow">이용 방법 · 순서대로 진행됩니다</p>
+      <h2 style="font-size:clamp(26px,3.4vw,38px);">채널 추가부터 개통까지, 세 단계.</h2>
+      <div class="steps">
+        <div class="step">
+          <span class="num">01</span>
+          <div>
+            <h3>채널 추가</h3>
+            <p>버튼 하나로 꽁폰 카카오톡 채널을 추가합니다. 전화번호를 남길 필요 없이 대화창이 바로 열립니다.</p>
+            <a class="btn-kakao small" href="https://pf.kakao.com/_xdjAxfX" target="_blank" rel="noopener">
+              <svg viewBox="0 0 24 24" fill="none"><path d="M12 3C6.48 3 2 6.58 2 11c0 2.8 1.85 5.27 4.66 6.69-.2.74-.73 2.7-.84 3.12-.13.52.19.51.4.37.16-.1 2.6-1.77 3.65-2.49.7.1 1.42.16 2.13.16 5.52 0 10-3.58 10-8s-4.48-8-10-8Z" fill="currentColor"/></svg>
+              지금 채널 추가하기
+            </a>
+          </div>
+        </div>
+        <div class="step">
+          <span class="num">02</span>
+          <div>
+            <h3>기종 · 통신사 상담</h3>
+            <p>원하는 기기와 통신사, 현재 요금제를 알려주시면 실제 지원금이 반영된 금액을 안내받습니다.</p>
+          </div>
+        </div>
+        <div class="step">
+          <span class="num">03</span>
+          <div>
+            <h3>방문 또는 택배 개통</h3>
+            <p>부산 지점 방문 개통, 또는 전국 택배 개통 중 편한 방식을 선택합니다.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="proof reveal">
+    <div class="wrap">
+      <p class="eyebrow">확인된 후기</p>
+      <h2 style="font-size:clamp(24px,3vw,32px);">이 자리는 실제 후기로 채워질 예정입니다.</h2>
+      <div class="proof-grid">
+        <div class="proof-card"><span class="stub">후기 001</span><span>상담 채널 스크린샷 또는 리뷰 링크를 전달해 주시면 이 카드에 실제 내용을 채워 넣습니다.</span></div>
+        <div class="proof-card"><span class="stub">후기 002</span><span>네이버 플레이스 · 카카오맵 리뷰 등 실제 출처가 있는 후기만 사용합니다.</span></div>
+        <div class="proof-card"><span class="stub">후기 003</span><span>고객 동의 없이 후기를 임의로 작성하지 않습니다.</span></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="final reveal">
+    <div class="wrap">
+      <p class="eyebrow" style="color:color-mix(in srgb, var(--paper) 55%, transparent);">지금 확인 가능</p>
+      <h2>가격이 궁금하신가요?<br>채널에서 바로 알려드립니다.</h2>
+      <p class="sub">버튼을 누르면 꽁폰 카카오톡 채널 대화창이 바로 열립니다. 채널 추가 없이도 상담을 시작할 수 있습니다.</p>
+      <a class="btn-kakao big" href="https://pf.kakao.com/_xdjAxfX/chat" target="_blank" rel="noopener">
+        <svg viewBox="0 0 24 24" fill="none"><path d="M12 3C6.48 3 2 6.58 2 11c0 2.8 1.85 5.27 4.66 6.69-.2.74-.73 2.7-.84 3.12-.13.52.19.51.4.37.16-.1 2.6-1.77 3.65-2.49.7.1 1.42.16 2.13.16 5.52 0 10-3.58 10-8s-4.48-8-10-8Z" fill="currentColor"/></svg>
+        카카오톡 상담 시작하기
+      </a>
+      <p class="final-alt">PC에서 보고 계신가요? 카카오톡 검색창에 <strong style="color:var(--paper);">꽁폰</strong>을 검색해도 채널을 찾을 수 있습니다.</p>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap">
+    <div class="foot-grid">
+      <div class="logo" style="font-size:18px; margin-bottom:8px;">꽁·폰</div>
+      <span>㈜휴대폰성지 꽁폰</span>
+      <span>사업자등록번호 174-85-03343 · 대표이사 성효은</span>
+      <span>호스팅제공자 : ㈜휴대폰성지 꽁폰 · 제 2026-부산금정-0371 호</span>
+      <span>부산광역시 부산진구 동평로 407, 1층</span>
+      <span>꽁폰 온라인센터 : 부산광역시 금정구 온천장로125번길 48, 제비이동 601-7호 태진팰리스</span>
+      <span>부산광역시 금정구 중앙대로 1614, 삼정그린코아 22층</span>
+      <span>부산광역시 금정구 장전온천천로 51, 테라스파크 1층</span>
+    </div>
+    <div class="foot-links">
+      <a href="#">회사소개</a>
+      <a href="#">이용약관</a>
+      <a href="#">개인정보처리방침</a>
+      <a href="https://pf.kakao.com/_xdjAxfX" target="_blank" rel="noopener">카카오채널</a>
+    </div>
+    <p class="foot-copy">© 2026 ㈜휴대폰성지 꽁폰, All Rights Reserved</p>
+  </div>
+</footer>
+
+<div class="floating">
+  <a class="btn-kakao small" href="https://pf.kakao.com/_xdjAxfX/chat" target="_blank" rel="noopener" aria-label="카카오톡 상담 시작하기">
+    <svg viewBox="0 0 24 24" fill="none"><path d="M12 3C6.48 3 2 6.58 2 11c0 2.8 1.85 5.27 4.66 6.69-.2.74-.73 2.7-.84 3.12-.13.52.19.51.4.37.16-.1 2.6-1.77 3.65-2.49.7.1 1.42.16 2.13.16 5.52 0 10-3.58 10-8s-4.48-8-10-8Z" fill="currentColor"/></svg>
+    상담하기
+  </a>
+</div>
+
+<script>
+  (function () {
+    var redact = document.querySelector('.redact');
+    if (redact) {
+      var toggle = function () { redact.classList.toggle('peek'); };
+      redact.addEventListener('click', toggle);
+      redact.addEventListener('keydown', function (e) {
+        if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); toggle(); }
+      });
+      redact.addEventListener('mouseenter', function () { redact.classList.add('peek'); });
+      redact.addEventListener('mouseleave', function () { redact.classList.remove('peek'); });
+    }
+
+    var reveals = document.querySelectorAll('.reveal');
+    if ('IntersectionObserver' in window && reveals.length) {
+      var io = new IntersectionObserver(function (entries) {
+        entries.forEach(function (entry) {
+          if (entry.isIntersecting) {
+            entry.target.classList.add('in');
+            io.unobserve(entry.target);
+          }
+        });
+      }, { threshold: 0.12 });
+      reveals.forEach(function (el) { io.observe(el); });
+    } else {
+      reveals.forEach(function (el) { el.classList.add('in'); });
+    }
+  })();
+</script>
+</body>
+</html>
