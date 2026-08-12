@@ -7,7 +7,7 @@
 <meta name="description" content="부산 휴대폰 성지 꽁폰. 실제 지원금은 카카오톡 채널 1:1 상담으로 확인하세요.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Song+Myung&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css">
 <style>
   :root {
@@ -19,7 +19,7 @@
     --kakao: #FEE500;
     --kakao-ink: #391B1B;
     --stamp: #B03A2E;
-    --font-display: 'Song Myung', 'Nanum Myeongjo', Batang, serif;
+    --font-display: 'Pretendard Variable', Pretendard, -apple-system, 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif;
     --font-body: 'Pretendard Variable', Pretendard, -apple-system, 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif;
     --font-mono: 'JetBrains Mono', ui-monospace, 'SFMono-Regular', monospace;
   }
@@ -62,7 +62,7 @@
   }
   section { padding: 88px 0; border-bottom: 1px solid var(--line); }
   section:last-of-type { border-bottom: none; }
-  h1, h2, h3 { font-family: var(--font-display); font-weight: 400; margin: 0; text-wrap: balance; }
+  h1, h2, h3 { font-family: var(--font-display); font-weight: 800; letter-spacing: -0.02em; margin: 0; text-wrap: balance; }
   .eyebrow {
     font-family: var(--font-mono);
     font-size: 12px;
@@ -84,8 +84,8 @@
     max-width: 1120px; margin: 0 auto; padding: 16px 24px;
     display: flex; align-items: center; justify-content: space-between;
   }
-  .logo { font-family: var(--font-display); font-size: 22px; letter-spacing: 0.02em; }
-  .logo b { color: var(--stamp); font-weight: 400; }
+  .logo { font-family: var(--font-display); font-weight: 800; font-size: 22px; letter-spacing: -0.01em; }
+  .logo b { color: var(--stamp); font-weight: 800; }
 
   /* buttons */
   .btn-kakao {
@@ -105,11 +105,25 @@
 
   /* hero */
   .hero { padding-top: 72px; padding-bottom: 96px; }
+  .hero-grid { display: grid; grid-template-columns: 1fr; gap: 40px; align-items: center; }
+  @media (min-width: 960px) { .hero-grid { grid-template-columns: 1.15fr 1fr; gap: 56px; } }
   .hero h1 {
-    font-size: clamp(34px, 6vw, 64px);
-    line-height: 1.22;
-    letter-spacing: -0.01em;
+    font-size: clamp(36px, 6.6vw, 68px);
+    font-weight: 900;
+    line-height: 1.14;
+    letter-spacing: -0.03em;
   }
+  .placeholder-box {
+    border: 1px dashed var(--line);
+    border-radius: 4px;
+    background: repeating-linear-gradient(135deg, transparent, transparent 9px, color-mix(in srgb, var(--ink) 5%, transparent) 9px, color-mix(in srgb, var(--ink) 5%, transparent) 10px);
+    display: flex; align-items: center; justify-content: center; text-align: center; padding: 20px;
+  }
+  .placeholder-box span {
+    font-family: var(--font-mono); font-size: 11px; letter-spacing: 0.08em; text-transform: uppercase;
+    color: var(--ink-soft); line-height: 1.6;
+  }
+  .hero-visual.placeholder-box { aspect-ratio: 4 / 5; width: 100%; }
   .hero .lede {
     margin: 28px 0 0; max-width: 46ch;
     color: var(--ink-soft); font-size: 17px;
@@ -144,6 +158,13 @@
     padding: 28px 0; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line);
   }
   .trust span b { color: var(--ink); font-weight: 500; }
+
+  /* model gallery */
+  .model-grid { display: grid; grid-template-columns: 1fr; gap: 16px; margin-top: 40px; }
+  @media (min-width: 760px) { .model-grid { grid-template-columns: repeat(3, 1fr); } }
+  .model-card .placeholder-box { aspect-ratio: 3 / 4; margin-bottom: 14px; }
+  .model-card h3 { font-size: 17px; margin-bottom: 4px; }
+  .model-card p { margin: 0; color: var(--ink-soft); font-size: 13.5px; }
 
   /* why section */
   .why-grid { display: grid; grid-template-columns: 1fr; gap: 48px; margin-top: 40px; }
@@ -237,22 +258,27 @@
 
 <main>
   <section class="hero">
-    <div class="wrap">
-      <p class="eyebrow">부산 · 휴대폰 성지 꽁폰</p>
-      <h1>이번 달 가장 낮은 가격은,<br>사이트가 아니라<br>카카오톡 안에 있습니다.</h1>
-      <p class="lede">휴대전화 유통법상 실제 지원금은 온라인에 표시할 수 없어요. 그래서 꽁폰은 가격을 숨기는 대신, 채널 상담으로 정확한 금액을 1:1로 알려드립니다.</p>
-      <p class="price-line">이번 주 최저가
-        <span class="redact" tabindex="0" role="button" aria-label="가격 확인하려면 카카오톡 채널로 이동">
-          <span class="tag">카톡에서 공개</span>
-          <span class="digits" aria-hidden="true">₩ 2█,███</span>
-        </span>
-      </p>
-      <div class="hero-actions">
-        <a class="btn-kakao big" href="https://pf.kakao.com/_xdjAxfX/chat" target="_blank" rel="noopener">
-          <svg viewBox="0 0 24 24" fill="none"><path d="M12 3C6.48 3 2 6.58 2 11c0 2.8 1.85 5.27 4.66 6.69-.2.74-.73 2.7-.84 3.12-.13.52.19.51.4.37.16-.1 2.6-1.77 3.65-2.49.7.1 1.42.16 2.13.16 5.52 0 10-3.58 10-8s-4.48-8-10-8Z" fill="currentColor"/></svg>
-          카카오톡으로 가격 확인하기
-        </a>
-        <span class="hero-note">채널 추가 없이도 상담 가능 · 부산 전 지점 동일 상담</span>
+    <div class="wrap hero-grid">
+      <div>
+        <p class="eyebrow">부산 · 휴대폰 성지 꽁폰</p>
+        <h1>이번 달 가장 낮은 가격은,<br>사이트가 아니라<br>카카오톡 안에 있습니다.</h1>
+        <p class="lede">휴대전화 유통법상 실제 지원금은 온라인에 표시할 수 없어요. 그래서 꽁폰은 가격을 숨기는 대신, 채널 상담으로 정확한 금액을 1:1로 알려드립니다.</p>
+        <p class="price-line">이번 주 최저가
+          <span class="redact" tabindex="0" role="button" aria-label="가격 확인하려면 카카오톡 채널로 이동">
+            <span class="tag">카톡에서 공개</span>
+            <span class="digits" aria-hidden="true">₩ 2█,███</span>
+          </span>
+        </p>
+        <div class="hero-actions">
+          <a class="btn-kakao big" href="https://pf.kakao.com/_xdjAxfX/chat" target="_blank" rel="noopener">
+            <svg viewBox="0 0 24 24" fill="none"><path d="M12 3C6.48 3 2 6.58 2 11c0 2.8 1.85 5.27 4.66 6.69-.2.74-.73 2.7-.84 3.12-.13.52.19.51.4.37.16-.1 2.6-1.77 3.65-2.49.7.1 1.42.16 2.13.16 5.52 0 10-3.58 10-8s-4.48-8-10-8Z" fill="currentColor"/></svg>
+            카카오톡으로 가격 확인하기
+          </a>
+          <span class="hero-note">채널 추가 없이도 상담 가능 · 부산 전 지점 동일 상담</span>
+        </div>
+      </div>
+      <div class="hero-visual placeholder-box" role="img" aria-label="히어로 이미지 자리, 실제 이미지로 교체 예정">
+        <span>이미지 자리<br>1080×1350 권장<br>(실사진으로 교체)</span>
       </div>
     </div>
     <div class="wrap trust" style="margin-top:64px;">
@@ -260,6 +286,30 @@
       <span>대표 <b>성효은</b></span>
       <span>취급 통신사 <b>SKT · KT · LG U+</b></span>
       <span>거점 <b>부산 진구 · 금정구</b></span>
+    </div>
+  </section>
+
+  <section class="models reveal">
+    <div class="wrap">
+      <p class="eyebrow">지금 상담 많은 기종</p>
+      <h2 style="font-size:clamp(24px,3vw,32px);">어떤 기종이든, 상담은 채널에서.</h2>
+      <div class="model-grid">
+        <div class="model-card">
+          <div class="placeholder-box"><span>아이폰 이미지 자리<br>(교체 예정)</span></div>
+          <h3>아이폰 시리즈</h3>
+          <p>최신 모델부터 자급제까지, 채널에서 실시간 가격을 안내합니다.</p>
+        </div>
+        <div class="model-card">
+          <div class="placeholder-box"><span>갤럭시 이미지 자리<br>(교체 예정)</span></div>
+          <h3>갤럭시 시리즈</h3>
+          <p>플립·폴드 포함 전 모델 상담 가능합니다.</p>
+        </div>
+        <div class="model-card">
+          <div class="placeholder-box"><span>매장·자급제 이미지 자리<br>(교체 예정)</span></div>
+          <h3>자급제 · 매장 안내</h3>
+          <p>방문 상담을 원하시면 지점 사진으로 이 자리를 채워주세요.</p>
+        </div>
+      </div>
     </div>
   </section>
 
