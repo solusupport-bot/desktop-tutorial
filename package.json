@@ -7,7 +7,10 @@
     "ingest": "node scripts/ingest.js",
     "curate-and-schedule": "node scripts/curate-and-schedule.js",
     "schedule": "node scripts/schedule-post.js",
-    "run-scheduler": "node scripts/run-scheduler.js"
+    "run-scheduler": "node scripts/run-scheduler.js",
+    "benchmark": "bash benchmark.sh --run",
+    "benchmark:setup": "bash benchmark.sh",
+    "benchmark:check": "source ~/.agent-reach-venv/bin/activate && agent-reach doctor"
   },
   "dependencies": {
     "@google/generative-ai": "^0.24.1",
