@@ -1,0 +1,17 @@
+{
+  "name": "sns-auto-publisher",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Meta 공식 API(Threads/Facebook/Instagram) 기반 트렌드 큐레이션 및 예약 발행 파이프라인",
+  "scripts": {
+    "ingest": "node scripts/ingest.js",
+    "curate-and-schedule": "node scripts/curate-and-schedule.js",
+    "schedule": "node scripts/schedule-post.js",
+    "run-scheduler": "node scripts/run-scheduler.js"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "axios": "^1.13.6",
+    "dotenv": "^17.3.1"
+  }
+}
