@@ -3,7 +3,10 @@
     "id": "5a55305b-fa65-4a40-8fa3-6e4488076200",
     "text": "First time in Seoul? Grab a T-money card at any convenience store or subway station before you head out. It works on the subway, buses, and even taxis — just tap in, tap out. Skip the ticket machines and get moving. 🚇🇰🇷",
     "imageUrl": "https://3000-ipf4rafm1ff65em6hejiu-9d796d59.sg1.manus.computer/manus-storage/land-in-korea-arrival-test-card_86230b84.png",
-    "platforms": ["facebook", "threads"],
+    "platforms": [
+      "facebook",
+      "threads"
+    ],
     "scheduledAt": "2026-08-22T06:31:03.679Z",
     "status": "published",
     "results": {
@@ -17,5 +20,29 @@
       }
     },
     "createdAt": "2026-08-22T06:31:03.693Z"
+  },
+  {
+    "id": "2ac9d4d6-2d77-46ef-bcd5-ee3cbc92afe9",
+    "text": "T-money is a rechargeable transit card sold at convenience stores (GS25, CU, 7-Eleven) and subway station kiosks. It works on subway, city buses, and even most taxis — tap in, tap out, and transfers within the window are discounted. Recharge with cash or card at any station machi",
+    "imageUrl": "https://d8j0ntlcm91z4.cloudfront.net/user_3Fo4ThsH9a12FnQnrCDVGFESZ8E/hf_20260822_115024_e35a612a-cede-4a12-b4b2-1816d70a0103.png",
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-08-22T12:02:13.111Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-08-22T12:02:13.128Z"
+  },
+  {
+    "id": "b737c134-7408-4fda-865c-6af40c0724c2",
+    "text": "T-money is a rechargeable transit card sold at convenience stores (GS25, CU, 7-Eleven) and subway station kiosks. It works on subway, city buses, and even most taxis — tap in, tap out, and transfers within the window are discounted. Recharge with cash or card at any station machi",
+    "imageUrl": "https://d8j0ntlcm91z4.cloudfront.net/user_3Fo4ThsH9a12FnQnrCDVGFESZ8E/hf_20260822_115024_e35a612a-cede-4a12-b4b2-1816d70a0103.png",
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-08-22T12:02:13.129Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-08-22T12:02:13.129Z"
   }
 ]
