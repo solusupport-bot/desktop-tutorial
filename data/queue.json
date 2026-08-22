@@ -2,11 +2,8 @@
   {
     "id": "5a55305b-fa65-4a40-8fa3-6e4488076200",
     "text": "First time in Seoul? Grab a T-money card at any convenience store or subway station before you head out. It works on the subway, buses, and even taxis — just tap in, tap out. Skip the ticket machines and get moving. 🚇🇰🇷",
-    "imageUrl": null,
-    "platforms": [
-      "facebook",
-      "threads"
-    ],
+    "imageUrl": "https://3000-ipf4rafm1ff65em6hejiu-9d796d59.sg1.manus.computer/manus-storage/land-in-korea-arrival-test-card_86230b84.png",
+    "platforms": ["facebook", "threads"],
     "scheduledAt": "2026-08-22T06:31:03.679Z",
     "status": "pending",
     "results": {},
