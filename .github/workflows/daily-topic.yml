@@ -1,0 +1,42 @@
+name: Land in Korea Daily Topic
+
+# 매일 1회, 사람 개입 없이 다음 주제를 골라 이미지와 함께 발행 큐에 등록합니다.
+# 실제 Facebook/Threads 발행은 SNS Scheduler(scheduler.yml, 15분 간격)가 이어서 처리합니다.
+on:
+  schedule:
+    - cron: '0 0 * * *'   # 매일 00:00 UTC (KST 09:00)
+  workflow_dispatch:
+
+concurrency:
+  group: land-in-korea-daily-topic
+  cancel-in-progress: false
+
+jobs:
+  queue-daily-topic:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - run: npm ci
+
+      - name: Pick topic, fetch image, queue post
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+        run: node scripts/daily-auto-post.js
+
+      - name: Commit queued post and topic state
+        run: |
+          git config user.name "sns-automation-bot"
+          git config user.email "actions@github.com"
+          git add data/queue.json data/topic_state.json
+          git diff --cached --quiet || git commit -m "chore: queue daily Land in Korea topic"
+          git diff --cached --quiet || git push origin "HEAD:${GITHUB_REF_NAME}"
