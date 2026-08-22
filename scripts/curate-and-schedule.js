@@ -5,6 +5,7 @@ require('dotenv').config();
 const log = require('../lib/logger');
 const { curateContent } = require('../lib/curation/curate');
 const { addPost } = require('../lib/scheduler/queue');
+const { TOPIC_IMAGES } = require('../lib/ingestion/topic_images');
 
 const parseArgs = () => {
   const args = process.argv.slice(2);
@@ -23,17 +24,21 @@ const main = async () => {
   }
 
   const platforms = opts.platforms.split(',');
+  const source = opts.source || 'Manual';
   const curated = await curateContent({
-    source: opts.source || 'Manual',
+    source,
     author: opts.author || 'me',
     content: opts.content,
     url: opts.url || ''
   }, platforms);
 
+  // --image가 없으면 주제(source)에 맞는 대표 이미지를 자동으로 붙입니다.
+  const imageUrl = opts.image || TOPIC_IMAGES[source];
+
   for (const platform of platforms) {
     const item = addPost({
       text: curated[platform],
-      imageUrl: opts.image,
+      imageUrl,
       platforms: [platform],
       scheduledAt: opts.at
     });
