@@ -18,7 +18,7 @@ const parseArgs = () => {
 const main = async () => {
   const opts = parseArgs();
   if (!opts.content || !opts.platforms) {
-    log.err('사용법: node scripts/curate-and-schedule.js --content "원문 내용" --source X --author me --url https://... --platforms threads,facebook,instagram --image https://... --at 2026-08-21T09:00:00Z');
+    log.err('사용법: node scripts/curate-and-schedule.js --content "원문 내용" --source X --author me --url https://... --platforms threads,facebook --image https://... --at 2026-08-21T09:00:00Z');
     process.exit(1);
   }
 
