@@ -6,28 +6,30 @@ const log = require('../lib/logger');
 const { fetchKoreaTravelTopics } = require('../lib/ingestion/korea_travel');
 const { fetchTopicImage } = require('../lib/ingestion/pexels_image');
 const { TOPIC_IMAGES } = require('../lib/ingestion/topic_images');
-const { loadState } = require('../lib/scheduler/topic_rotation');
+const { loadState, getRecentImageUrls } = require('../lib/scheduler/topic_rotation');
 const { curateContent } = require('../lib/curation/curate');
 
 const PLATFORMS = ['threads', 'facebook'];
 
-const resolveImage = async (topic) => {
-  const live = await fetchTopicImage(topic);
-  if (live) return { url: live, source: 'Pexels (실시간)' };
-  if (TOPIC_IMAGES[topic]) return { url: TOPIC_IMAGES[topic], source: '기존 대표 이미지 (Higgsfield)' };
+const resolveImage = async (topicName) => {
+  const recent = getRecentImageUrls();
+  const live = await fetchTopicImage(topicName, recent);
+  if (live) return { url: live, source: 'Pexels (실시간, 중복 회피 적용)' };
+  if (TOPIC_IMAGES[topicName]) return { url: TOPIC_IMAGES[topicName], source: '기존 대표 이미지 (Higgsfield)' };
   return { url: null, source: '없음' };
 };
 
 const main = async () => {
-  log.section('오늘의 자동 발행 미리보기 (큐에 저장하지 않음)');
+  log.section('오늘의 자동 발행 미리보기 (큐/상태를 저장하지 않음)');
 
   const topics = await fetchKoreaTravelTopics();
   const state = loadState();
   const nextIndex = (state.lastIndex + 1) % topics.length;
   const item = topics[nextIndex];
+  const seed = state.history.length;
 
   const image = await resolveImage(item.source);
-  const curated = await curateContent(item, PLATFORMS);
+  const curated = await curateContent(item, PLATFORMS, seed);
 
   console.log('\n════════════════════════════════════════════════');
   console.log(`주제: ${item.source}`);
