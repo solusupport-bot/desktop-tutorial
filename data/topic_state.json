@@ -1,10 +1,30 @@
 {
-  "lastIndex": 0,
+  "lastIndex": 3,
   "history": [
     {
       "index": 0,
       "topic": "eSIM & mobile data",
       "at": "2026-08-22T15:35:08.814Z"
+    },
+    {
+      "index": 1,
+      "topic": "T-money transit card",
+      "at": "2026-08-22T16:37:55.859Z"
+    },
+    {
+      "index": 2,
+      "topic": "Tax refund (Tax Free) shopping",
+      "at": "2026-08-22T16:37:55.879Z"
+    },
+    {
+      "index": 3,
+      "topic": "Travel advisories & safety notices",
+      "at": "2026-08-22T16:37:55.880Z"
     }
+  ],
+  "recentImageUrls": [
+    "https://d8j0ntlcm91z4.cloudfront.net/user_3Fo4ThsH9a12FnQnrCDVGFESZ8E/hf_20260822_115024_e35a612a-cede-4a12-b4b2-1816d70a0103.png",
+    "https://d8j0ntlcm91z4.cloudfront.net/user_3Fo4ThsH9a12FnQnrCDVGFESZ8E/hf_20260822_115023_6b520b0b-25db-411e-bcf3-83199d72c30f.png",
+    "https://d8j0ntlcm91z4.cloudfront.net/user_3Fo4ThsH9a12FnQnrCDVGFESZ8E/hf_20260822_115024_b3a9c9c9-4bbf-44a1-92fd-d3aca9220fc4.png"
   ]
 }

@@ -71,6 +71,22 @@ agent-reach install --env=auto --system --channels=<channel_name>
 
 ---
 
+## 📌 Instagram 향후 계획 (꼭 기억할 것)
+
+- Instagram은 아직 자동 발행 대상이 아님 (현재는 Threads + Facebook만 자동 발행).
+- **나중에 Instagram을 추가할 때는 카드뉴스(멀티 슬라이드 캐러셀) 형식으로 만들 것** — 단일 이미지 피드 포스트가 아님.
+- 레이아웃/디자인 기준은 `CARD_DESIGN_SPEC.md` 참고 (9슬라이드 구조, NAVY/CORAL/GOLD/CREAM/BLUE 팔레트, Space Grotesk/Inter 폰트, 1080×1350 캔버스, 세트당 이미지 최대 3장).
+- 이 항목은 사용자가 "꼭 기억해줘"라고 명시적으로 요청한 사항이므로, Instagram 관련 작업을 시작하기 전에 반드시 이 규칙을 먼저 확인할 것.
+
+---
+
+## 🚫 하지 않기로 결정한 것
+
+- 다른 계정 게시물에 대한 자동 좋아요/댓글/리트윗(랜덤 타이밍으로 사람처럼 보이게 하는 방식 포함)은 구현하지 않음.
+  탐지 회피를 목적으로 한 가짜 참여(fake engagement) 자동화이며 Meta/Threads·X 이용약관 위반 및 계정 정지 리스크가 크기 때문에 명시적으로 거절함.
+
+---
+
 ## 📁 프로젝트 구조 참고
 
 - `scripts/ingest.js` — API 기반 트렌드 수집 (Apify 등, 선택적)
