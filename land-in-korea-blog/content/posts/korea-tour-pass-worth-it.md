@@ -4,6 +4,7 @@ date: 2026-08-23
 category: Money-saving
 description: Attraction passes only pay off past a certain number of visits. Here's the quick math to run before buying one instead of paying per attraction.
 image_query: gyeongbokgung palace seoul tourists
+image: https://images.pexels.com/photos/19751382/pexels-photo-19751382.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
 ---
 
 Attraction passes (bundled tickets covering palaces, towers, museums, sometimes transit) get recommended constantly — but nobody tells you when they're actually a bad deal. The answer isn't "always" or "never," it's a threshold you can check in thirty seconds.
