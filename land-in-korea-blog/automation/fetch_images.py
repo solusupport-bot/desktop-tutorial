@@ -42,7 +42,7 @@ def search_pexels(api_key, query, page):
     return data.get("photos", [])
 
 
-def find_korea_photo(api_key, raw_query):
+def find_korea_photo(api_key, raw_query, used_urls):
     query = f"{raw_query} south korea"
 
     for require_alt_match in (True, False):
@@ -53,12 +53,15 @@ def find_korea_photo(api_key, raw_query):
             for photo in photos:
                 if photo["width"] < MIN_ORIGINAL_WIDTH:
                     continue
+                url = photo["src"]["large2x"]
+                if url in used_urls:
+                    continue
                 alt = photo.get("alt") or ""
                 if require_alt_match and not (KOREA_SIGNAL.search(alt) or KOREA_SIGNAL.search(photo.get("url", ""))):
                     continue
                 print(f"  -> found ({'Korea-confirmed' if require_alt_match else 'relevance-only'}, "
                       f"{photo['width']}px, alt=\"{alt}\"): {photo['url']}")
-                return photo["src"]["large2x"]
+                return url
     return None
 
 
@@ -82,6 +85,17 @@ def main():
         print("PEXELS_API_KEY not set — skipping image fetch.")
         return
 
+    # Dedupe within this run so two different posts don't end up with the
+    # identical photo (already-used image: values from previous runs also
+    # count, so re-running doesn't collide with posts fetched earlier).
+    used_urls = set()
+    for fn in sorted(os.listdir(POSTS_SRC)):
+        if fn.endswith(".md"):
+            with open(os.path.join(POSTS_SRC, fn), encoding="utf-8") as f:
+                existing_meta, _ = parse_front_matter(f.read())
+            if existing_meta.get("image"):
+                used_urls.add(existing_meta["image"])
+
     for fn in sorted(os.listdir(POSTS_SRC)):
         if not fn.endswith(".md"):
             continue
@@ -94,7 +108,7 @@ def main():
 
         print(f"{fn}: searching \"{meta['image_query']}\"")
         try:
-            url = find_korea_photo(api_key, meta["image_query"])
+            url = find_korea_photo(api_key, meta["image_query"], used_urls)
         except Exception as err:  # one post's failure shouldn't block the rest
             print(f"  !! search failed for {fn}: {err}")
             continue
@@ -102,6 +116,7 @@ def main():
             print(f"  !! no Korea-confirmed image found for {fn}, leaving as text-only for now")
             continue
 
+        used_urls.add(url)
         end = raw.find("\n---", 3)
         new_raw = f"{raw[:end]}\nimage: {url}{raw[end:]}"
         with open(path, "w", encoding="utf-8") as f:
