@@ -1,0 +1,49 @@
+name: Manual Fix Queue Image
+
+# 이미 큐에 등록된 항목의 본문-이미지가 서로 맞지 않을 때 수동으로 바로잡기 위한
+# 워크플로우입니다. 사람이 발견해서 트리거하며, 자동 스케줄에는 포함되지 않습니다.
+on:
+  workflow_dispatch:
+    inputs:
+      queue_ids:
+        description: '교체할 큐 항목 ID (쉼표로 구분, 여러 개 가능)'
+        required: true
+      pexels_query:
+        description: '새로 찾을 이미지의 Pexels 검색어'
+        required: true
+
+jobs:
+  patch-image:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - run: npm ci
+
+      - name: Patch queue image
+        env:
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+          QUEUE_IDS: ${{ inputs.queue_ids }}
+          PEXELS_QUERY: ${{ inputs.pexels_query }}
+        run: node scripts/patch-queue-image.js
+
+      - name: Commit patched queue
+        run: |
+          if git diff --quiet -- data/queue.json data/topic_state.json; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git config user.name "sns-automation-bot"
+          git config user.email "actions@github.com"
+          git add data/queue.json data/topic_state.json
+          git commit -m "fix: replace mismatched queue image"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
