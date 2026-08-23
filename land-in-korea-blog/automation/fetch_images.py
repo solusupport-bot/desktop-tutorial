@@ -30,7 +30,13 @@ KOREA_SIGNAL = re.compile(r"korea|korean|seoul|incheon|busan|hanok", re.IGNORECA
 
 def search_pexels(api_key, query, page):
     params = urllib.parse.urlencode({"query": query, "per_page": 6, "page": page, "orientation": "landscape"})
-    req = urllib.request.Request(f"{SEARCH_URL}?{params}", headers={"Authorization": api_key})
+    # Pexels rejects Python's default "Python-urllib/x.y" User-Agent with a 403,
+    # so a normal browser-ish UA is required alongside the Authorization header.
+    headers = {
+        "Authorization": api_key,
+        "User-Agent": "Mozilla/5.0 (compatible; LandInKoreaBlogBot/1.0)",
+    }
+    req = urllib.request.Request(f"{SEARCH_URL}?{params}", headers=headers)
     with urllib.request.urlopen(req, timeout=15) as res:
         data = json.loads(res.read().decode("utf-8"))
     return data.get("photos", [])
@@ -87,7 +93,11 @@ def main():
             continue
 
         print(f"{fn}: searching \"{meta['image_query']}\"")
-        url = find_korea_photo(api_key, meta["image_query"])
+        try:
+            url = find_korea_photo(api_key, meta["image_query"])
+        except Exception as err:  # one post's failure shouldn't block the rest
+            print(f"  !! search failed for {fn}: {err}")
+            continue
         if not url:
             print(f"  !! no Korea-confirmed image found for {fn}, leaving as text-only for now")
             continue
