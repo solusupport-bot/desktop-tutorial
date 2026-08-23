@@ -204,9 +204,14 @@
       "threads"
     ],
     "scheduledAt": "2026-08-23T21:33:38.126Z",
-    "status": "pending",
-    "results": {},
-    "createdAt": "2026-08-23T03:29:50.717Z"
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18071176103461917"
+      }
+    },
+    "createdAt": "2026-08-23T03:29:50.717Z",
+    "processedAt": "2026-08-23T21:36:07.492Z"
   },
   {
     "id": "1e3de241-1450-4eeb-b97e-dc169ef1cea1",
