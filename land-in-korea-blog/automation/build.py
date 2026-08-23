@@ -164,6 +164,9 @@ def page(cfg, title, description, body, canonical, is_post=False):
 <title>{html.escape(title)} | {html.escape(cfg['site_name'])}</title>
 <meta name="description" content="{html.escape(description)}">
 <link rel="canonical" href="{canonical}">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Nanum+Myeongjo:wght@400;700;800&family=Inter:wght@400;500;600;700&display=swap">
 <link rel="stylesheet" href="/desktop-tutorial/land-in-korea-blog/site/style.css">
 </head>
 <body>
@@ -237,7 +240,7 @@ def build():
             hero = f'<img class="hero-img" src="{html.escape(p["image"])}" alt="{html.escape(p["title"])}">'
         article = (
             f'<article>'
-            f'<p class="meta"><span class="cat">{html.escape(p["category"])}</span>'
+            f'<p class="meta"><span class="cat" data-cat="{re.sub(r"[^a-z0-9]+", "-", p["category"].lower()).strip("-")}">{html.escape(p["category"])}</span>'
             f' · {p["date"]} · {p["_reading"]} min read</p>'
             f'<h1>{html.escape(p["title"])}</h1>'
             f'{hero}'
@@ -250,20 +253,22 @@ def build():
         with open(os.path.join(POSTS_OUT, f'{p["slug"]}.html'), "w", encoding="utf-8") as f:
             f.write(out)
 
+    cat_slug = lambda c: re.sub(r"[^a-z0-9]+", "-", c.lower()).strip("-")
+
     cards = ""
     for p in posts:
         thumb = f'<img class="card-thumb" src="{html.escape(p["image"])}" alt="{html.escape(p["title"])}">' if p.get("image") else ""
         cards += (
             f'<a class="card" href="/desktop-tutorial/land-in-korea-blog/site/posts/{p["slug"]}.html">'
             f'{thumb}'
-            f'<span class="cat">{html.escape(p["category"])}</span>'
+            f'<span class="cat" data-cat="{cat_slug(p["category"])}">{html.escape(p["category"])}</span>'
             f'<h2>{html.escape(p["title"])}</h2>'
             f'<p>{html.escape(p["description"])}</p>'
             f'<span class="date">{p["date"]}</span>'
             f'</a>'
         )
     intro = (f'<section class="hero"><h1>{html.escape(cfg["site_name"])}</h1>'
-             f'<p>{html.escape(cfg["site_tagline"])}</p></section>'
+             f'<p>Pick the situation you\'re actually facing — every guide below runs the real comparison, not another list of tips.</p></section>'
              f'<section class="grid">{cards or "<p>No guides yet.</p>"}</section>')
     with open(os.path.join(SITE, "index.html"), "w", encoding="utf-8") as f:
         f.write(page(cfg, "Home", cfg["site_tagline"], intro, f"{base}/index.html"))
@@ -357,14 +362,18 @@ def write_css():
     # accents used sparingly for links, category chips, and headings.
     css = """:root{
   --fg:#221f1a;--muted:#7a7264;--bg:#f4efe3;--soft:#ece4d3;--card:#faf7ef;
-  --gold:#b8923f;--red:#a63a35;--blue:#274b6d;--line:#ddd2ba
+  --gold:#b8923f;--red:#a63a35;--blue:#274b6d;--green:#3f6b45;--line:#ddd2ba;
+  --font-display:'Nanum Myeongjo',Georgia,'Times New Roman',serif;
+  --font-body:'Inter',-apple-system,'Segoe UI',sans-serif
 }
 *{box-sizing:border-box}
-body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;color:var(--fg);background:var(--bg);line-height:1.75}
+body{margin:0;font-family:var(--font-body);color:var(--fg);background:var(--bg);line-height:1.75}
+h1,h2,h3{font-family:var(--font-display)}
 a{color:var(--blue);text-decoration:none}
 a:hover{text-decoration:underline}
+a:focus-visible,button:focus-visible,.card:focus-visible{outline:2px solid var(--blue);outline-offset:3px;border-radius:2px}
 .site-header{border-bottom:2px solid var(--gold);padding:30px 20px;text-align:center;background:var(--card)}
-.brand{font-size:1.6rem;font-weight:800;color:var(--fg);display:inline-flex;align-items:center;gap:10px}
+.brand{font-family:var(--font-display);font-size:1.6rem;font-weight:800;color:var(--fg);display:inline-flex;align-items:center;gap:10px}
 .brand-mark{display:inline-flex;align-items:center;justify-content:center;width:34px;height:34px;border-radius:8px;
   background:linear-gradient(180deg,var(--red),var(--blue));color:#f4efe3;font-size:1.1rem}
 .brand-logo{height:44px;width:auto;display:block}
@@ -383,7 +392,12 @@ main{max-width:760px;margin:0 auto;padding:28px 20px}
 .card h2{font-size:1.12rem;margin:12px 0 8px}
 .card p{color:var(--muted);font-size:.94rem;margin:6px 0}
 .card .date{display:block;padding-bottom:16px}
-.cat{display:inline-block;font-size:.75rem;font-weight:700;color:#fff;background:var(--red);padding:3px 10px;border-radius:999px;margin-top:16px}
+.cat{display:inline-block;font-size:.75rem;font-weight:700;color:#fff;background:var(--blue);padding:3px 10px;border-radius:999px;margin-top:16px}
+.cat[data-cat="comparisons"]{background:var(--blue)}
+.cat[data-cat="money-saving"]{background:var(--green)}
+.cat[data-cat="etiquette-mistakes"]{background:var(--red)}
+.cat[data-cat="airport-transit"]{background:var(--gold);color:var(--fg)}
+.post .meta .cat{margin-top:0}
 .date{font-size:.8rem;color:var(--muted)}
 .hero-img{width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:12px;margin:16px 0 8px}
 .post h1{font-size:1.7rem;line-height:1.35;color:var(--fg)}
@@ -392,8 +406,17 @@ main{max-width:760px;margin:0 auto;padding:28px 20px}
 .post table{width:100%;border-collapse:collapse;margin:1.2em 0}
 .post th,.post td{border:1px solid var(--line);padding:9px 11px;text-align:left}
 .post th{background:var(--soft);color:var(--fg)}
+.post tbody tr:nth-child(even){background:var(--soft)}
 blockquote{border-left:4px solid var(--gold);margin:1.2em 0;padding:4px 16px;color:var(--muted);background:var(--soft)}
 .back{margin-top:32px}
+
+/* 제휴/외부 링크(CTA)는 본문 텍스트 링크와 다르게, 실제 클릭해야 할 버튼처럼 보이게 처리 */
+.post p a[rel~="sponsored"]{
+  display:inline-block;background:var(--red);color:#fff;font-weight:600;font-size:.92rem;
+  padding:9px 16px;border-radius:6px;margin:4px 6px 4px 0
+}
+.post p a[rel~="sponsored"]:hover{background:var(--gold);text-decoration:none}
+.post p a[rel~="sponsored"]:focus-visible{outline:2px solid var(--blue);outline-offset:2px}
 .site-footer{border-top:2px solid var(--gold);margin-top:40px;padding:24px 20px;text-align:center;color:var(--muted);font-size:.82rem;background:var(--card)}
 .site-footer a{color:var(--muted)}
 """
