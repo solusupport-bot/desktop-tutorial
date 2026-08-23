@@ -11,11 +11,13 @@ const { curateContent } = require('../lib/curation/curate');
 
 const PLATFORMS = ['threads', 'facebook'];
 
-const resolveImage = async (topicName) => {
+const pickAngle = (content, seed) => (Array.isArray(content) ? content[seed % content.length] : content);
+
+const resolveImage = async (topicName, seed) => {
   const recent = getRecentImageUrls();
-  const live = await fetchTopicImage(topicName, recent);
-  if (live) return { url: live, source: 'Pexels (실시간, 중복 회피 적용)' };
-  if (TOPIC_IMAGES[topicName]) return { url: TOPIC_IMAGES[topicName], source: '기존 대표 이미지 (Higgsfield)' };
+  const live = await fetchTopicImage(topicName, recent, seed);
+  if (live) return { url: live, source: 'Pexels (실시간, 고화질/중복 회피 적용)' };
+  if (TOPIC_IMAGES[topicName]) return { url: TOPIC_IMAGES[topicName], source: '기존 대표 이미지 (Higgsfield, 최후 폴백)' };
   return { url: null, source: '없음' };
 };
 
@@ -25,10 +27,10 @@ const main = async () => {
   const topics = await fetchKoreaTravelTopics();
   const state = loadState();
   const nextIndex = (state.lastIndex + 1) % topics.length;
-  const item = topics[nextIndex];
   const seed = state.history.length;
+  const item = { ...topics[nextIndex], content: pickAngle(topics[nextIndex].content, seed) };
 
-  const image = await resolveImage(item.source);
+  const image = await resolveImage(item.source, seed);
   const curated = await curateContent(item, PLATFORMS, seed);
 
   console.log('\n════════════════════════════════════════════════');

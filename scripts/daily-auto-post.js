@@ -32,9 +32,9 @@ const randomTimeInWindow = (baseTime, [startH, endH]) => {
 // 같은 주제라도 플랫폼마다 발행 시각을 다르게 만들기 위한 지터(최대 ±45분).
 const withPlatformJitter = (time) => new Date(time.getTime() + (Math.random() * 90 - 45) * 60 * 1000);
 
-const resolveImage = async (topicName) => {
+const resolveImage = async (topicName, seed) => {
   const recent = getRecentImageUrls();
-  const live = await fetchTopicImage(topicName, recent);
+  const live = await fetchTopicImage(topicName, recent, seed);
   if (live) return live;
 
   const fallback = TOPIC_IMAGES[topicName];
@@ -54,7 +54,7 @@ const queueOneTopic = async (topics, window) => {
   const { topic: item, seed } = pickNextTopic(topics);
   log.ok(`주제 선택: ${item.source} (구간 ${window[0]}~${window[1]}시)`);
 
-  const imageUrl = await resolveImage(item.source);
+  const imageUrl = await resolveImage(item.source, seed);
   if (imageUrl) recordImageUrl(imageUrl);
 
   const curated = await curateContent(item, PLATFORMS, seed);
