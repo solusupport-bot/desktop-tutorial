@@ -130,8 +130,25 @@ def md_to_html(md):
     return "\n".join(out)
 
 
+LOGO_ASSET_PATH = os.path.join("assets", "logo.png")
+
+
+def logo_markup():
+    """
+    Uses the real logo file at site/assets/logo.png once it's been dropped in
+    (see automation/assets/logo.png -> copied by build()). Until then, falls
+    back to a small CSS-drawn gate mark in the same palette so the header
+    isn't blank.
+    """
+    real_logo = os.path.join(SITE, LOGO_ASSET_PATH)
+    if os.path.exists(real_logo):
+        return f'<img class="brand-logo" src="/desktop-tutorial/land-in-korea-blog/site/{LOGO_ASSET_PATH}" alt="Land in Korea logo">'
+    return '<span class="brand-mark" aria-hidden="true">⌂</span>'
+
+
 # ---------- shared layout ----------
 def page(cfg, title, description, body, canonical, is_post=False):
+    logo_html = logo_markup()
     nav = (
         '<a href="/desktop-tutorial/land-in-korea-blog/site/index.html">Home</a>'
         '<a href="/desktop-tutorial/land-in-korea-blog/site/about.html">About</a>'
@@ -151,7 +168,9 @@ def page(cfg, title, description, body, canonical, is_post=False):
 </head>
 <body>
 <header class="site-header">
-  <a class="brand" href="/desktop-tutorial/land-in-korea-blog/site/index.html">🇰🇷 {html.escape(cfg['site_name'])}</a>
+  <a class="brand" href="/desktop-tutorial/land-in-korea-blog/site/index.html">
+    {logo_html}{html.escape(cfg['site_name'])}
+  </a>
   <p class="tagline">{html.escape(cfg['site_tagline'])}</p>
   <nav>{nav}</nav>
 </header>
@@ -194,18 +213,34 @@ def read_posts(cfg):
     return posts
 
 
+def copy_logo_asset():
+    """Copies automation/assets/logo.png -> site/assets/logo.png when the real file has been added."""
+    src = os.path.join(AUTO, "assets", "logo.png")
+    if not os.path.exists(src):
+        return
+    dst_dir = os.path.join(SITE, "assets")
+    os.makedirs(dst_dir, exist_ok=True)
+    with open(src, "rb") as fsrc, open(os.path.join(dst_dir, "logo.png"), "wb") as fdst:
+        fdst.write(fsrc.read())
+
+
 def build():
     cfg = load_config()
     os.makedirs(POSTS_OUT, exist_ok=True)
+    copy_logo_asset()
     posts = read_posts(cfg)
     base = cfg["base_url"].rstrip("/")
 
     for p in posts:
+        hero = ""
+        if p.get("image"):
+            hero = f'<img class="hero-img" src="{html.escape(p["image"])}" alt="{html.escape(p["title"])}">'
         article = (
             f'<article>'
             f'<p class="meta"><span class="cat">{html.escape(p["category"])}</span>'
             f' · {p["date"]} · {p["_reading"]} min read</p>'
             f'<h1>{html.escape(p["title"])}</h1>'
+            f'{hero}'
             f'{p["_body_html"]}'
             f'</article>'
             f'<p class="back"><a href="/desktop-tutorial/land-in-korea-blog/site/index.html">← Back to all guides</a></p>'
@@ -217,8 +252,10 @@ def build():
 
     cards = ""
     for p in posts:
+        thumb = f'<img class="card-thumb" src="{html.escape(p["image"])}" alt="{html.escape(p["title"])}">' if p.get("image") else ""
         cards += (
             f'<a class="card" href="/desktop-tutorial/land-in-korea-blog/site/posts/{p["slug"]}.html">'
+            f'{thumb}'
             f'<span class="cat">{html.escape(p["category"])}</span>'
             f'<h2>{html.escape(p["title"])}</h2>'
             f'<p>{html.escape(p["description"])}</p>'
@@ -315,35 +352,49 @@ def write_robots(base):
 
 
 def write_css():
-    css = """:root{--fg:#1a1a2e;--muted:#6b7280;--bg:#ffffff;--soft:#f7f7fb;--brand:#be123c;--brand2:#1d4ed8;--line:#e5e7eb}
+    # Palette pulled from the Land in Korea logo: cream/ivory paper background,
+    # near-black ink for text and the hanok-gate mark, gold/red/blue dancheong
+    # accents used sparingly for links, category chips, and headings.
+    css = """:root{
+  --fg:#221f1a;--muted:#7a7264;--bg:#f4efe3;--soft:#ece4d3;--card:#faf7ef;
+  --gold:#b8923f;--red:#a63a35;--blue:#274b6d;--line:#ddd2ba
+}
 *{box-sizing:border-box}
 body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;color:var(--fg);background:var(--bg);line-height:1.75}
-a{color:var(--brand2);text-decoration:none}
+a{color:var(--blue);text-decoration:none}
 a:hover{text-decoration:underline}
-.site-header{border-bottom:1px solid var(--line);padding:28px 20px;text-align:center}
-.brand{font-size:1.6rem;font-weight:800;color:var(--fg)}
-.tagline{color:var(--muted);margin:6px 0 14px;max-width:480px;margin-left:auto;margin-right:auto}
-nav a{margin:0 10px;font-weight:600;font-size:.92rem}
+.site-header{border-bottom:2px solid var(--gold);padding:30px 20px;text-align:center;background:var(--card)}
+.brand{font-size:1.6rem;font-weight:800;color:var(--fg);display:inline-flex;align-items:center;gap:10px}
+.brand-mark{display:inline-flex;align-items:center;justify-content:center;width:34px;height:34px;border-radius:8px;
+  background:linear-gradient(180deg,var(--red),var(--blue));color:#f4efe3;font-size:1.1rem}
+.brand-logo{height:44px;width:auto;display:block}
+.tagline{color:var(--muted);margin:8px 0 14px;max-width:480px;margin-left:auto;margin-right:auto}
+nav a{margin:0 10px;font-weight:600;font-size:.92rem;color:var(--fg)}
+nav a:hover{color:var(--red)}
 main{max-width:760px;margin:0 auto;padding:28px 20px}
 .hero{text-align:center;padding:24px 0 8px}
-.hero h1{font-size:1.9rem;margin:.2em 0}
+.hero h1{font-size:1.9rem;margin:.2em 0;color:var(--fg)}
 .grid{display:grid;grid-template-columns:1fr;gap:16px;margin-top:20px}
 @media(min-width:640px){.grid{grid-template-columns:1fr 1fr}}
-.card{display:block;border:1px solid var(--line);border-radius:14px;padding:18px;background:var(--soft);transition:.15s}
-.card:hover{transform:translateY(-2px);text-decoration:none;box-shadow:0 6px 20px rgba(0,0,0,.06)}
-.card h2{font-size:1.12rem;margin:8px 0}
+.card{display:block;border:1px solid var(--line);border-radius:14px;overflow:hidden;background:var(--card);transition:.15s}
+.card:hover{transform:translateY(-2px);text-decoration:none;box-shadow:0 8px 22px rgba(34,31,26,.12)}
+.card-thumb{width:100%;aspect-ratio:16/10;object-fit:cover;display:block}
+.card h2,.card p,.card .cat,.card .date{padding-left:18px;padding-right:18px}
+.card h2{font-size:1.12rem;margin:12px 0 8px}
 .card p{color:var(--muted);font-size:.94rem;margin:6px 0}
-.cat{display:inline-block;font-size:.75rem;font-weight:700;color:var(--brand);background:#fde2e7;padding:3px 9px;border-radius:999px}
+.card .date{display:block;padding-bottom:16px}
+.cat{display:inline-block;font-size:.75rem;font-weight:700;color:#fff;background:var(--red);padding:3px 10px;border-radius:999px;margin-top:16px}
 .date{font-size:.8rem;color:var(--muted)}
-.post h1{font-size:1.7rem;line-height:1.35}
-.post h2{margin-top:1.6em;border-left:4px solid var(--brand);padding-left:10px}
+.hero-img{width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:12px;margin:16px 0 8px}
+.post h1{font-size:1.7rem;line-height:1.35;color:var(--fg)}
+.post h2{margin-top:1.6em;border-left:4px solid var(--gold);padding-left:10px;color:var(--fg)}
 .post .meta{color:var(--muted);font-size:.88rem}
 .post table{width:100%;border-collapse:collapse;margin:1.2em 0}
 .post th,.post td{border:1px solid var(--line);padding:9px 11px;text-align:left}
-.post th{background:var(--soft)}
-blockquote{border-left:4px solid var(--line);margin:1.2em 0;padding:4px 16px;color:var(--muted);background:var(--soft)}
+.post th{background:var(--soft);color:var(--fg)}
+blockquote{border-left:4px solid var(--gold);margin:1.2em 0;padding:4px 16px;color:var(--muted);background:var(--soft)}
 .back{margin-top:32px}
-.site-footer{border-top:1px solid var(--line);margin-top:40px;padding:24px 20px;text-align:center;color:var(--muted);font-size:.82rem}
+.site-footer{border-top:2px solid var(--gold);margin-top:40px;padding:24px 20px;text-align:center;color:var(--muted);font-size:.82rem;background:var(--card)}
 .site-footer a{color:var(--muted)}
 """
     with open(os.path.join(SITE, "style.css"), "w", encoding="utf-8") as f:

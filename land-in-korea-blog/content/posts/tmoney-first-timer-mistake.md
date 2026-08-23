@@ -3,6 +3,7 @@ title: The One T-money Mistake That Actually Costs First-Timers Money
 date: 2026-08-23
 category: Etiquette & mistakes
 description: Not "how T-money works" — the one specific mistake that quietly costs first-time visitors real money, and the two-second habit that avoids it.
+image_query: seoul city bus street
 ---
 
 You already know T-money exists: tap in, tap out, works on subway/bus/taxi. That's not the part that trips people up. The part that actually costs money is this:

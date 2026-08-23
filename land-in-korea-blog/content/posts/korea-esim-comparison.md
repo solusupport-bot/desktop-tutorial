@@ -3,6 +3,7 @@ title: Korea eSIM vs. Physical SIM vs. Pocket Wi-Fi — What's Actually Worth It
 date: 2026-08-23
 category: Comparisons
 description: eSIM, physical SIM, and pocket Wi-Fi all work in Korea. The right one depends on your trip length and group size, not which option is trendiest.
+image_query: traveler using smartphone incheon airport arrival
 ---
 
 Almost every Korea travel guide tells you "get an eSIM" and moves on. That's fine advice for a solo 5-day trip — and the wrong advice for a lot of other trips. Here's what actually changes the answer.
