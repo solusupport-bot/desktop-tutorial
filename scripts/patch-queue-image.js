@@ -6,12 +6,11 @@
 require('dotenv').config();
 const fs = require('fs');
 const path = require('path');
-const axios = require('axios');
 const log = require('../lib/logger');
 const { getRecentImageUrls, recordImageUrl } = require('../lib/scheduler/topic_rotation');
+const { findKoreaPhoto } = require('../lib/ingestion/pexels_image');
 
 const QUEUE_PATH = path.join(__dirname, '..', 'data', 'queue.json');
-const MIN_ORIGINAL_WIDTH = 3000;
 
 const main = async () => {
   const ids = (process.env.QUEUE_IDS || '').split(',').map((s) => s.trim()).filter(Boolean);
@@ -28,24 +27,7 @@ const main = async () => {
   }
 
   const recent = getRecentImageUrls();
-  let picked = null;
-
-  for (let page = 1; page <= 5 && !picked; page += 1) {
-    const res = await axios.get('https://api.pexels.com/v1/search', {
-      headers: { Authorization: apiKey },
-      params: { query, per_page: 5, page, orientation: 'landscape' },
-      timeout: 10000
-    });
-    const photos = res.data?.photos || [];
-    if (!photos.length) break;
-    for (const photo of photos) {
-      if (photo.width < MIN_ORIGINAL_WIDTH) continue;
-      if (recent.includes(photo.src.large2x)) continue;
-      picked = photo.src.large2x;
-      log.ok(`새 이미지 확보: "${query}" (${photo.width}px) -> ${photo.url}`);
-      break;
-    }
-  }
+  const picked = await findKoreaPhoto(apiKey, query, recent);
 
   if (!picked) {
     log.err(`"${query}"로 적합한 고화질 이미지를 찾지 못했습니다.`);
