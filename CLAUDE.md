@@ -80,6 +80,15 @@ agent-reach install --env=auto --system --channels=<channel_name>
 
 ---
 
+## 🔧 참고 리소스: Claude Code 플러그인 마켓플레이스
+
+- **`davepoon/buildwithclaude`** (https://github.com/davepoon/buildwithclaude) — Claude Code용 에이전트(117개)·커맨드(175개)·훅(28개)·스킬(26개)·플러그인(51개) 모음 마켓플레이스.
+- 이미지·웹앱까지 포함해 용량이 크고 계속 업데이트되는 저장소라, **통째로 복사해서 저장하지 않음** — 대신 필요할 때 `git clone --depth 1 https://github.com/davepoon/buildwithclaude`로 매번 최신 상태를 받아서 씀 (오래된 사본을 안 만드는 게 목적).
+- 이 저장소 작업 중 "이런 걸 자동화해주는 에이전트/스킬/커맨드 없나?" 싶은 상황이 오면, 사용자가 먼저 물어보지 않아도 이 마켓플레이스를 clone해서 관련 있는 게 있는지 확인하고 활용할 것 (예: 이번에 `frontend-design-pro`, `agents-design-experience` 플러그인 확인에 사용함).
+- 참고: Claude Code 세션 자체에 설치 가능한 공식 플러그인 카탈로그(`ListPlugins`/`SearchPlugins`)와는 별개의 외부 GitHub 마켓플레이스임 — 겹치는 기능이 공식 카탈로그에 이미 있다면 그쪽을 우선 사용.
+
+---
+
 ## 🚫 하지 않기로 결정한 것
 
 - 다른 계정 게시물에 대한 자동 좋아요/댓글/리트윗(랜덤 타이밍으로 사람처럼 보이게 하는 방식 포함)은 구현하지 않음.
