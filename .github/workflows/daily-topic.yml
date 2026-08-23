@@ -35,8 +35,13 @@ jobs:
 
       - name: Commit queued post and topic state
         run: |
+          if git diff --quiet -- data/queue.json data/topic_state.json; then
+            echo "No new topic queued; no commit required."
+            exit 0
+          fi
+
           git config user.name "sns-automation-bot"
           git config user.email "actions@github.com"
           git add data/queue.json data/topic_state.json
-          git diff --cached --quiet || git commit -m "chore: queue daily Land in Korea topic"
-          git diff --cached --quiet || git push origin "HEAD:${GITHUB_REF_NAME}"
+          git commit -m "chore: queue daily Land in Korea topic"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
