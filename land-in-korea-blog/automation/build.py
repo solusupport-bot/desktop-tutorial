@@ -130,25 +130,27 @@ def md_to_html(md):
     return "\n".join(out)
 
 
-LOGO_ASSET_PATH = os.path.join("assets", "logo.png")
+LOGO_ASSET_PATH = os.path.join("assets", "logo.jpg")
 
 
-def logo_markup():
+def brand_markup(cfg):
     """
-    Uses the real logo file at site/assets/logo.png once it's been dropped in
-    (see automation/assets/logo.png -> copied by build()). Until then, falls
-    back to a small CSS-drawn gate mark in the same palette so the header
-    isn't blank.
+    Uses the real logo file at site/assets/logo.jpg once it's been dropped in
+    (see automation/assets/logo.jpg -> copied by build()). The real logo
+    already has the "Land in Korea" wordmark baked into the artwork, so when
+    it's present the header shows ONLY the image (no separate text, which
+    would otherwise duplicate the name). Until the real file exists, falls
+    back to a small CSS-drawn gate mark plus the site name as text.
     """
     real_logo = os.path.join(SITE, LOGO_ASSET_PATH)
     if os.path.exists(real_logo):
-        return f'<img class="brand-logo" src="/desktop-tutorial/land-in-korea-blog/site/{LOGO_ASSET_PATH}" alt="Land in Korea logo">'
-    return '<span class="brand-mark" aria-hidden="true">⌂</span>'
+        return f'<img class="brand-logo" src="/desktop-tutorial/land-in-korea-blog/site/{LOGO_ASSET_PATH}" alt="{html.escape(cfg["site_name"])}">'
+    return f'<span class="brand-mark" aria-hidden="true">⌂</span>{html.escape(cfg["site_name"])}'
 
 
 # ---------- shared layout ----------
 def page(cfg, title, description, body, canonical, is_post=False):
-    logo_html = logo_markup()
+    brand_html = brand_markup(cfg)
     nav = (
         '<a href="/desktop-tutorial/land-in-korea-blog/site/index.html">Home</a>'
         '<a href="/desktop-tutorial/land-in-korea-blog/site/about.html">About</a>'
@@ -172,7 +174,7 @@ def page(cfg, title, description, body, canonical, is_post=False):
 <body>
 <header class="site-header">
   <a class="brand" href="/desktop-tutorial/land-in-korea-blog/site/index.html">
-    {logo_html}{html.escape(cfg['site_name'])}
+    {brand_html}
   </a>
   <p class="tagline">{html.escape(cfg['site_tagline'])}</p>
   <nav>{nav}</nav>
@@ -217,13 +219,13 @@ def read_posts(cfg):
 
 
 def copy_logo_asset():
-    """Copies automation/assets/logo.png -> site/assets/logo.png when the real file has been added."""
-    src = os.path.join(AUTO, "assets", "logo.png")
+    """Copies automation/assets/logo.jpg -> site/assets/logo.jpg when the real file has been added."""
+    src = os.path.join(AUTO, "assets", "logo.jpg")
     if not os.path.exists(src):
         return
     dst_dir = os.path.join(SITE, "assets")
     os.makedirs(dst_dir, exist_ok=True)
-    with open(src, "rb") as fsrc, open(os.path.join(dst_dir, "logo.png"), "wb") as fdst:
+    with open(src, "rb") as fsrc, open(os.path.join(dst_dir, "logo.jpg"), "wb") as fdst:
         fdst.write(fsrc.read())
 
 
@@ -376,7 +378,7 @@ a:focus-visible,button:focus-visible,.card:focus-visible{outline:2px solid var(-
 .brand{font-family:var(--font-display);font-size:1.6rem;font-weight:800;color:var(--fg);display:inline-flex;align-items:center;gap:10px}
 .brand-mark{display:inline-flex;align-items:center;justify-content:center;width:34px;height:34px;border-radius:8px;
   background:linear-gradient(180deg,var(--red),var(--blue));color:#f4efe3;font-size:1.1rem}
-.brand-logo{height:44px;width:auto;display:block}
+.brand-logo{height:64px;width:auto;display:block;border-radius:6px}
 .tagline{color:var(--muted);margin:8px 0 14px;max-width:480px;margin-left:auto;margin-right:auto}
 nav a{margin:0 10px;font-weight:600;font-size:.92rem;color:var(--fg)}
 nav a:hover{color:var(--red)}
