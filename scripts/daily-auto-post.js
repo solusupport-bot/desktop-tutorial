@@ -11,6 +11,7 @@ const { TOPIC_IMAGES } = require('../lib/ingestion/topic_images');
 const { pickNextTopic, getRecentImageUrls, recordImageUrl } = require('../lib/scheduler/topic_rotation');
 const { curateContent } = require('../lib/curation/curate');
 const { addPost } = require('../lib/scheduler/queue');
+const { getBlogLinkForTopic, withUtm } = require('../lib/ingestion/topic_blog_links');
 
 const PLATFORMS = ['threads', 'facebook']; // Instagram 추가 시 이미지 그대로 재사용 예정 (카드뉴스 전환은 별도 작업)
 const POSTS_PER_DAY = 3;
@@ -58,13 +59,15 @@ const queueOneTopic = async (topics, window) => {
   if (imageUrl) recordImageUrl(imageUrl);
 
   const curated = await curateContent(item, PLATFORMS, seed);
+  const blogUrl = getBlogLinkForTopic(item.source);
   const now = new Date();
   const baseTime = randomTimeInWindow(now, window);
 
   for (const platform of PLATFORMS) {
     const scheduledAt = withPlatformJitter(baseTime).toISOString();
+    const text = `${curated[platform]}\n\n📖 Full comparison: ${withUtm(blogUrl, platform)}`;
     const queued = addPost({
-      text: curated[platform],
+      text,
       imageUrl,
       platforms: [platform],
       scheduledAt
