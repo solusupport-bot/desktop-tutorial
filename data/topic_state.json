@@ -1,5 +1,5 @@
 {
-  "lastIndex": 3,
+  "lastIndex": 6,
   "history": [
     {
       "index": 0,
@@ -20,11 +20,29 @@
       "index": 3,
       "topic": "Travel advisories & safety notices",
       "at": "2026-08-22T16:37:55.880Z"
+    },
+    {
+      "index": 4,
+      "topic": "Airport transfer options",
+      "at": "2026-08-23T03:29:50.331Z"
+    },
+    {
+      "index": 5,
+      "topic": "First-timer etiquette & common mistakes",
+      "at": "2026-08-23T03:29:50.522Z"
+    },
+    {
+      "index": 6,
+      "topic": "Currency & card payments",
+      "at": "2026-08-23T03:29:50.610Z"
     }
   ],
   "recentImageUrls": [
     "https://d8j0ntlcm91z4.cloudfront.net/user_3Fo4ThsH9a12FnQnrCDVGFESZ8E/hf_20260822_115024_e35a612a-cede-4a12-b4b2-1816d70a0103.png",
     "https://d8j0ntlcm91z4.cloudfront.net/user_3Fo4ThsH9a12FnQnrCDVGFESZ8E/hf_20260822_115023_6b520b0b-25db-411e-bcf3-83199d72c30f.png",
-    "https://d8j0ntlcm91z4.cloudfront.net/user_3Fo4ThsH9a12FnQnrCDVGFESZ8E/hf_20260822_115024_b3a9c9c9-4bbf-44a1-92fd-d3aca9220fc4.png"
+    "https://d8j0ntlcm91z4.cloudfront.net/user_3Fo4ThsH9a12FnQnrCDVGFESZ8E/hf_20260822_115024_b3a9c9c9-4bbf-44a1-92fd-d3aca9220fc4.png",
+    "https://images.pexels.com/photos/26919330/pexels-photo-26919330.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/20325767/pexels-photo-20325767.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/12935093/pexels-photo-12935093.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
   ]
 }
