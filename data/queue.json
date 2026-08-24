@@ -326,8 +326,14 @@
       "facebook"
     ],
     "scheduledAt": "2026-08-24T22:00:36.471Z",
-    "status": "pending",
-    "results": {},
-    "createdAt": "2026-08-24T00:44:31.421Z"
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "122104652949446391",
+        "post_id": "1288453561012463_122104652985446391"
+      }
+    },
+    "createdAt": "2026-08-24T00:44:31.421Z",
+    "processedAt": "2026-08-24T22:14:15.444Z"
   }
 ]
