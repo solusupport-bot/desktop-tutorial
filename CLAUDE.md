@@ -80,6 +80,14 @@ agent-reach install --env=auto --system --channels=<channel_name>
 
 ---
 
+## 📊 상태 확인 시 조회수도 항상 같이 보고할 것
+
+- 사용자가 "오늘 잘 발행됐는지 확인해줘" 등 SNS/블로그 상태를 물어보면, 발행 성공 여부와 함께 **블로그 조회수도 항상 같이 보고**할 것 (사용자가 "앞으로 물어보면 조회수도 같이 알려줘"라고 명시적으로 요청함).
+- 조회수는 GoatCounter로 확인 (`land-in-korea-blog/automation/config.json`의 `goatcounter_code` 설정 후 사용 가능 — 무료, 쿠키 없음, goatcounter.com에서 가입).
+- `goatcounter_code`가 아직 비어있다면 조회수를 지어내지 말고, "아직 애널리틱스 계정 연결이 안 되어 있다"고 솔직히 말할 것.
+
+---
+
 ## 🔧 참고 리소스: Claude Code 플러그인 마켓플레이스
 
 - **`davepoon/buildwithclaude`** (https://github.com/davepoon/buildwithclaude) — Claude Code용 에이전트(117개)·커맨드(175개)·훅(28개)·스킬(26개)·플러그인(51개) 모음 마켓플레이스.
