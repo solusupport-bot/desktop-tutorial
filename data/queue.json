@@ -286,9 +286,15 @@
       "facebook"
     ],
     "scheduledAt": "2026-08-24T16:38:59.886Z",
-    "status": "pending",
-    "results": {},
-    "createdAt": "2026-08-24T00:44:30.882Z"
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "122104448613446391",
+        "post_id": "1288453561012463_122104448643446391"
+      }
+    },
+    "createdAt": "2026-08-24T00:44:30.882Z",
+    "processedAt": "2026-08-24T16:53:29.052Z"
   },
   {
     "id": "ebeb8dd7-b015-4249-999b-0bef3c63039f",
