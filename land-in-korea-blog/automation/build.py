@@ -148,6 +148,22 @@ def brand_markup(cfg):
     return f'<span class="brand-mark" aria-hidden="true">⌂</span>{html.escape(cfg["site_name"])}'
 
 
+def goatcounter_script(cfg):
+    """
+    GoatCounter is a free, cookieless page-view counter. Blank until the
+    user creates a free account at goatcounter.com and sets
+    automation/config.json's goatcounter_code (the "yourcode" part of
+    yourcode.goatcounter.com) — no signup means no tracking, not a broken page.
+    """
+    code = cfg.get("goatcounter_code", "").strip()
+    if not code:
+        return ""
+    return (
+        f'<script data-goatcounter="https://{code}.goatcounter.com/count" '
+        f'async src="//gc.zgo.at/count.js"></script>\n'
+    )
+
+
 # ---------- shared layout ----------
 def page(cfg, title, description, body, canonical, is_post=False):
     brand_html = brand_markup(cfg)
@@ -170,7 +186,7 @@ def page(cfg, title, description, body, canonical, is_post=False):
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Nanum+Myeongjo:wght@400;700;800&family=Inter:wght@400;500;600;700&display=swap">
 <link rel="stylesheet" href="/desktop-tutorial/land-in-korea-blog/site/style.css">
-</head>
+{goatcounter_script(cfg)}</head>
 <body>
 <header class="site-header">
   <a class="brand" href="/desktop-tutorial/land-in-korea-blog/site/index.html">
