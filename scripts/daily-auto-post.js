@@ -65,7 +65,13 @@ const queueOneTopic = async (topics, window) => {
 
   for (const platform of PLATFORMS) {
     const scheduledAt = withPlatformJitter(baseTime).toISOString();
-    const text = `${curated[platform]}\n\n📖 Full comparison: ${withUtm(blogUrl, platform)}`;
+    // Facebook 2026: 링크가 본문에 있으면 도달률이 순수 이미지 게시물의 절반 이하로 떨어짐
+    // (~5-6% vs ~11%), 댓글에 숨기는 우회법도 이미 막혀 트래픽이 0에 수렴함.
+    // 반대로 Threads는 2024년의 링크 페널티가 철회되어 링크가 있어도 도달에 불이익이 없음.
+    // 그래서 블로그 링크는 Threads에만 붙이고 Facebook은 링크 없이 그 자체로 완결되게 둔다.
+    const text = platform === 'threads'
+      ? `${curated[platform]}\n\n📖 Full comparison: ${withUtm(blogUrl, platform)}`
+      : curated[platform];
     const queued = addPost({
       text,
       imageUrl,
