@@ -17,6 +17,8 @@ Both apps show real-time subway and bus arrival times, platform-level transfer d
 
 Papago handles Korean translation more naturally than general-purpose translation apps for this specific context, including camera translation for menus and street signs — genuinely useful when a menu has no English at all.
 
+{{gallery:person using smartphone subway}}
+
 ## Kakao T, for taxis
 
 Kakao T is the go-to app for calling a taxi reliably in Korea, especially late at night or in areas where flagging one down from the street is difficult. Fares are estimated upfront in the app before you confirm.

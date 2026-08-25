@@ -80,6 +80,8 @@ ${angles.map((a, i) => `Angle ${i + 1}: ${a}`).join('\n\n')}
 Structure: a hook opening (a specific claim, a mistake framing, or a contrarian angle) -> ## headed sections with the real substance -> a practical close.
 Only include an affiliate mention using literally {{klook}}, {{tripcom}}, or {{getyourguide}} as a markdown link target if there's a genuine, specific product tie-in (e.g. a bookable tour, transfer, or SIM/pass) — never force one in.
 
+Where (and only where) a section describes a concrete, photographable object or scene (a specific card, sign, counter, device, food, building — not an abstract idea like "notify your bank"), you may drop a standalone line with exactly this token format: {{gallery:2-5 word concrete visual search query}}. Use 0-2 of these per post. A pipeline step resolves each into a real photo only if an accurate, Korea-confirmed match exists, and silently drops the ones that don't — so it is fine, and expected, for some or all posts to get zero of these. Never add one just to hit a quota.
+
 Respond ONLY with this JSON shape (no explanation, no code fences):
 {"title": "...", "description": "...(under 160 chars, no quotes)", "body": "...(the markdown body, starting from the hook, no title heading)", "image_query": "...(2-5 words, a concrete visual scene)"}`;
 

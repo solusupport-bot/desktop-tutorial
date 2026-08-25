@@ -27,6 +27,8 @@ If your realistic list already costs more than the pass, buy the pass. If it's c
 
 Groups or families doing a dense 2-3 day sightseeing block hitting palaces + a tower + a museum back to back — that's the profile where the math almost always works in the pass's favor.
 
+{{gallery:namsan seoul tower view}}
+
 ## Check current pass pricing and inclusions
 
 Passes and included attractions change over time — see current Seoul pass options on [GetYourGuide]({{getyourguide}}) or bundled tour/attraction combos on [Klook]({{klook}}), and run the math above against your actual itinerary before buying.

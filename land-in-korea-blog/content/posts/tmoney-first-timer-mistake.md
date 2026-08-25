@@ -15,6 +15,8 @@ On the subway, skipping the tap-out is obvious — the gate won't open. On a bus
 
 Multiply that by every bus ride on a week-long trip and it's a real, avoidable cost — not because the fare is expensive, but because it happens without you noticing, ride after ride.
 
+{{gallery:t-money card reader bus}}
+
 ## The habit that fixes it
 
 Tap out at the front or back door reader every single time you get off a bus, even when it feels unnecessary. That's it — this alone is the difference between paying transfer rates and paying full fare on every connecting ride for your entire trip.
@@ -26,3 +28,5 @@ Unused T-money balance can be partially refunded before you leave Korea, in cash
 ## Where to get a card if you haven't yet
 
 T-money cards are sold at convenience stores and station kiosks on arrival — no need to pre-book. If you'd rather sort out transit before you land, [Klook]({{klook}}) and [Trip.com]({{tripcom}}) also list Korea transit card bundles.
+
+{{gallery:subway station ticket gate}}

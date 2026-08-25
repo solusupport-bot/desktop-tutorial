@@ -13,6 +13,8 @@ CU, GS25, and 7-Eleven are open 24/7 almost everywhere in Korea, and most touris
 
 A convenience store coffee and a toast or sandwich combo is a fast, genuinely cheap breakfast option for the early mornings when nothing else nearby is open. Most locations also have microwaves and hot water at the counter or a small seating area, so instant noodles and heat-and-eat meals are an actual sit-down option, not just a snack.
 
+{{gallery:convenience store interior aisle}}
+
 ## Mini pharmacy, ATM, and delivery counter, all in one
 
 Many locations sell single-dose medicine (painkillers, cold medicine) — useful given how limited Korean pharmacy hours can be, though selection is basic. Most have an ATM (a foreign-card withdrawal fee usually applies — check your banking app rather than assuming it's free). Some counters also process bill payments, concert or show ticket purchases, and even parcel shipping.
@@ -20,6 +22,8 @@ Many locations sell single-dose medicine (painkillers, cold medicine) — useful
 ## The discount stickers worth actually checking
 
 Look for 1+1 or 2+1 stickers, especially on drinks and snacks — these are real bundle discounts, not a pricing trick, and they add up over a week-long trip if you're grabbing drinks and snacks daily anyway.
+
+{{gallery:drinks fridge convenience store}}
 
 ## When it's genuinely the better option over a restaurant
 

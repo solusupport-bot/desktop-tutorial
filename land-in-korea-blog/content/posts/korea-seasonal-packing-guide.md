@@ -21,6 +21,10 @@ Prioritize clothing you can peel off and stuff in a bag over clothing that's sim
 
 Korean cities involve a lot of walking and stairs, and not every subway station has elevators. Comfortable walking shoes matter more than what you'd normally pack for a city trip elsewhere.
 
+{{gallery:seoul winter snow street}}
+
 ## If you're traveling during monsoon season (July)
 
 Quick-dry fabric beats cotton, both for comfort and for not smelling faintly of a sudden downpour for the rest of the day. A compact umbrella is more useful than a heavy rain jacket for the short, intense bursts typical of Korean summer rain.
+
+{{gallery:seoul summer rain street}}

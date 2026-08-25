@@ -21,6 +21,8 @@ For anything beyond a pharmacy visit, large hospitals in Seoul — Severance Hos
 
 24-hour convenience stores are everywhere in Korea. 24-hour pharmacies are not — they're far less common, and most travelers only discover this at the worst possible time. Look for a green cross sign, and if you can't find one open, ask hotel front desk staff — they'll usually know the nearest late-night option.
 
+{{gallery:pharmacy green cross sign}}
+
 ## Two small things that make a pharmacy visit faster
 
 Over-the-counter medicine names differ from Western brands, so showing the pharmacist a translated symptom list (Papago's camera translation works well for this) speeds things up considerably. And if you don't already have travel insurance, get it before you land — Korean hospitals generally require upfront payment, with reimbursement handled afterward through your insurer, not at the point of care.

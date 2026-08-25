@@ -82,6 +82,12 @@ def md_to_html(md):
             out.append("<hr>")
             i += 1
             continue
+        img_m = re.match(r"^!\[(.*?)\]\((.*?)\)$", s)
+        if img_m:
+            alt, src = img_m.groups()
+            out.append(f'<img class="post-img" loading="lazy" src="{html.escape(src)}" alt="{html.escape(alt)}">')
+            i += 1
+            continue
         m = re.match(r"^(#{1,4})\s+(.*)$", s)
         if m:
             lvl = len(m.group(1))
@@ -394,7 +400,7 @@ a:focus-visible,button:focus-visible,.card:focus-visible{outline:2px solid var(-
 .brand{font-family:var(--font-display);font-size:1.6rem;font-weight:800;color:var(--fg);display:inline-flex;align-items:center;gap:10px}
 .brand-mark{display:inline-flex;align-items:center;justify-content:center;width:34px;height:34px;border-radius:8px;
   background:linear-gradient(180deg,var(--red),var(--blue));color:#f4efe3;font-size:1.1rem}
-.brand-logo{height:64px;width:auto;display:block;border-radius:6px}
+.brand-logo{height:96px;width:auto;display:block;border-radius:12px;box-shadow:0 6px 18px rgba(34,31,26,.16)}
 .tagline{color:var(--muted);margin:8px 0 14px;max-width:480px;margin-left:auto;margin-right:auto}
 nav a{margin:0 10px;font-weight:600;font-size:.92rem;color:var(--fg)}
 nav a:hover{color:var(--red)}
@@ -419,6 +425,7 @@ main{max-width:760px;margin:0 auto;padding:28px 20px}
 .post .meta .cat{margin-top:0}
 .date{font-size:.8rem;color:var(--muted)}
 .hero-img{width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:12px;margin:16px 0 8px}
+.post-img{width:100%;aspect-ratio:16/10;object-fit:cover;border-radius:12px;margin:1.4em 0}
 .post h1{font-size:1.7rem;line-height:1.35;color:var(--fg)}
 .post h2{margin-top:1.6em;border-left:4px solid var(--gold);padding-left:10px;color:var(--fg)}
 .post .meta{color:var(--muted);font-size:.88rem}
