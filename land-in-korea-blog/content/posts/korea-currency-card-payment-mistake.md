@@ -21,13 +21,15 @@ Small traditional markets, some rural areas, and a handful of older independent 
 
 Look for ATMs marked "Global" or with a foreign card logo — Woori, KEB Hana, and 7-Eleven ATMs are generally the most reliable for foreign card acceptance. Notify your bank of your travel dates before you leave, since an unannounced overseas card attempt is a common reason for a first-use freeze.
 
-{{gallery:atm machine convenience store}}
+![atm machine convenience store](https://images.pexels.com/photos/32133697/pexels-photo-32133697.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
+
 
 ## Better exchange rates, if you're converting cash
 
 Currency exchange counters near Myeongdong and Hongdae typically beat airport kiosk rates by a noticeable margin. Exchange only what covers your first day or two at the airport, then top up in the city once you've found a better rate.
 
-{{gallery:currency exchange counter myeongdong}}
+![currency exchange counter myeongdong](https://images.pexels.com/photos/13679285/pexels-photo-13679285.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
+
 
 ## Mobile pay isn't the shortcut it looks like
 

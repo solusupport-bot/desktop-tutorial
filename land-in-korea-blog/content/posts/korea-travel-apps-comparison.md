@@ -17,7 +17,8 @@ Both apps show real-time subway and bus arrival times, platform-level transfer d
 
 Papago handles Korean translation more naturally than general-purpose translation apps for this specific context, including camera translation for menus and street signs — genuinely useful when a menu has no English at all.
 
-{{gallery:person using smartphone subway}}
+![person using smartphone subway](https://images.pexels.com/photos/36621878/pexels-photo-36621878.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
+
 
 ## Kakao T, for taxis
 

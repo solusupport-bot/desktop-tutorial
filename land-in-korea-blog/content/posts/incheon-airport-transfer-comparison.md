@@ -15,7 +15,8 @@ Every "how to get from Incheon to Seoul" post lists the same three options and s
 2. **Airport limousine bus** — drops you closer to specific neighborhoods and hotels.
 3. **Private transfer** — booked in advance (this is where a service like [Klook]({{klook}}) or [Trip.com]({{tripcom}}) comes in), a driver meets you at arrivals.
 
-{{gallery:incheon airport train platform}}
+![incheon airport train platform](https://images.pexels.com/photos/32211611/pexels-photo-32211611.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
+
 
 ## What actually decides it for you
 
@@ -30,7 +31,8 @@ Every "how to get from Incheon to Seoul" post lists the same three options and s
 
 Booking a private transfer for the *return* trip too. On the way home you already know the city, you're not jet-lagged, and you're not stressed about instructions in a foreign language — AREX or the bus is almost always the better value on the way out. Save the private transfer for the arrival, when the convenience is actually worth paying for.
 
-{{gallery:airport limousine bus}}
+![airport limousine bus](https://images.pexels.com/photos/31768209/pexels-photo-31768209.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
+
 
 ## If you want the private transfer option
 

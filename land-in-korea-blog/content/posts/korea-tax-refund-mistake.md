@@ -21,7 +21,8 @@ Keep anything you're claiming Tax Free on in your carry-on (or hold it separatel
 
 Not every store with Korean-tourist-friendly pricing actually participates in Tax Free. Look for the Tax Free / Tax Refund sticker at the register *before* you buy — asking after the fact doesn't help if the store isn't affiliated. Keep your passport on you while shopping; it's required to issue the form at checkout.
 
-{{gallery:department store shopping bags}}
+![department store shopping bags](https://images.pexels.com/photos/37027428/pexels-photo-37027428.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
+
 
 ## One more thing: the minimum spend is per receipt, not per trip
 

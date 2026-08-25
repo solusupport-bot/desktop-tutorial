@@ -13,7 +13,8 @@ Most travel-safety advice for Korea focuses on crime, and by that measure Korea 
 
 Typhoons (summer through early fall) and heavy snow (winter) can disrupt trains and flights with very little warning. This is the disruption that actually derails itineraries — not crime, not scams, just a canceled train or a delayed flight with no buffer day built in to absorb it.
 
-{{gallery:seoul street rain umbrella}}
+![seoul street rain umbrella](https://images.pexels.com/photos/31858129/pexels-photo-31858129.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
+
 
 ## The fix: one buffer day if you're traveling in typhoon or snow season
 

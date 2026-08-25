@@ -21,6 +21,7 @@ Handing over cash, a card, or an item to someone — especially someone older �
 - **Shared meals**: it's common to pour drinks for others at the table rather than pouring your own, and to wait for the eldest person or host to start eating first.
 - **Phone calls on transit**: loud calls on the subway or bus are frowned upon — most locals keep calls short or step off first.
 
-{{gallery:hanok guesthouse shoes entrance}}
+![hanok guesthouse shoes entrance](https://images.pexels.com/photos/37436295/pexels-photo-37436295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
+
 
 None of these are rules with real consequences if you miss one — Koreans generally extend first-timers plenty of grace. They're just the difference between blending in a little and standing out as visibly unfamiliar with the room you're in.

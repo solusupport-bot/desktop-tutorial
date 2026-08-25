@@ -21,13 +21,15 @@ Every guide mentions coin lockers for luggage in Korea. Fewer mention that they 
 
 If you have a late flight after checkout and need your bags held for most of a day, a storage counter near a major station or neighborhood is the more dependable option — you're paying a flat rate specifically for the certainty a coin locker can't guarantee on a busy day.
 
-{{gallery:subway station coin locker}}
+![subway station coin locker](https://images.pexels.com/photos/8799349/pexels-photo-8799349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
+
 
 ## The option most travelers don't know exists: same-day forwarding
 
 Same-day luggage forwarding sends your bags from your hotel straight to the airport (or to another hotel), so your last day in Korea can be spent sightseeing instead of dragging a suitcase through crowded transit before an early flight. The catch is timing — book at least a day in advance, since same-day requests aren't always guaranteed depending on the service and how close to a public holiday you're traveling.
 
-{{gallery:traveler suitcase airport}}
+![traveler suitcase airport](https://images.pexels.com/photos/31680641/pexels-photo-31680641.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
+
 
 ## The option that costs nothing, if it applies to you
 

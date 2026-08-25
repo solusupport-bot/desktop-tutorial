@@ -27,7 +27,8 @@ If your realistic list already costs more than the pass, buy the pass. If it's c
 
 Groups or families doing a dense 2-3 day sightseeing block hitting palaces + a tower + a museum back to back — that's the profile where the math almost always works in the pass's favor.
 
-{{gallery:namsan seoul tower view}}
+![namsan seoul tower view](https://images.pexels.com/photos/18041009/pexels-photo-18041009.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
+
 
 ## Check current pass pricing and inclusions
 

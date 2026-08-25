@@ -15,7 +15,8 @@ Almost every Korea travel guide tells you "get an eSIM" and moves on. That's fin
 - **Physical SIM**: pick up at an airport counter, swaps out your existing SIM. Works on phones without eSIM support.
 - **Pocket Wi-Fi (Wi-Fi egg)**: one device, rented for the trip, an entire group connects to it. You return the device before you fly out.
 
-{{gallery:pocket wifi egg rental counter}}
+![pocket wifi egg rental counter](https://images.pexels.com/photos/18936020/pexels-photo-18936020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
+
 
 ## Where each one wins
 
