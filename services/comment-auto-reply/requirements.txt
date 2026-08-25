@@ -2,3 +2,4 @@ Flask==3.0.0
 requests==2.31.0
 langdetect==1.0.4
 anthropic==0.30.0
+gunicorn==22.0.0
