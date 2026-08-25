@@ -415,6 +415,7 @@ main{max-width:760px;margin:0 auto;padding:28px 20px}
 .cat[data-cat="money-saving"]{background:var(--green)}
 .cat[data-cat="etiquette-mistakes"]{background:var(--red)}
 .cat[data-cat="airport-transit"]{background:var(--gold);color:var(--fg)}
+.cat[data-cat="practical-info"]{background:var(--muted)}
 .post .meta .cat{margin-top:0}
 .date{font-size:.8rem;color:var(--muted)}
 .hero-img{width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:12px;margin:16px 0 8px}
