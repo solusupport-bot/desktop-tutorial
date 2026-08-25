@@ -1,5 +1,5 @@
 {
-  "lastIndex": 9,
+  "lastIndex": 0,
   "history": [
     {
       "index": 0,
@@ -50,6 +50,21 @@
       "index": 9,
       "topic": "Convenience store hacks",
       "at": "2026-08-24T00:44:30.882Z"
+    },
+    {
+      "index": 10,
+      "topic": "Seasonal packing & weather tips",
+      "at": "2026-08-25T00:44:10.614Z"
+    },
+    {
+      "index": 11,
+      "topic": "Luggage storage & forwarding services",
+      "at": "2026-08-25T00:44:11.011Z"
+    },
+    {
+      "index": 0,
+      "topic": "eSIM & mobile data",
+      "at": "2026-08-25T00:44:11.386Z"
     }
   ],
   "recentImageUrls": [
@@ -65,6 +80,9 @@
     "https://images.pexels.com/photos/31768194/pexels-photo-31768194.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://images.pexels.com/photos/17554845/pexels-photo-17554845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://images.pexels.com/photos/19271594/pexels-photo-19271594.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://images.pexels.com/photos/31735910/pexels-photo-31735910.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "https://images.pexels.com/photos/31735910/pexels-photo-31735910.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/21011587/pexels-photo-21011587.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/31680641/pexels-photo-31680641.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/32211611/pexels-photo-32211611.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
   ]
 }
