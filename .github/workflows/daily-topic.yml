@@ -33,15 +33,20 @@ jobs:
           PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
         run: node scripts/daily-auto-post.js
 
-      - name: Commit queued post and topic state
+      - name: Write blog posts for any SNS topic that doesn't have one yet
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: node scripts/sync-blog-posts.js
+
+      - name: Commit queued post, topic state, and any new blog posts
         run: |
-          if git diff --quiet -- data/queue.json data/topic_state.json; then
+          if git diff --quiet -- data/queue.json data/topic_state.json data/topic_blog_links.json land-in-korea-blog/content/posts; then
             echo "No new topic queued; no commit required."
             exit 0
           fi
 
           git config user.name "sns-automation-bot"
           git config user.email "actions@github.com"
-          git add data/queue.json data/topic_state.json
+          git add data/queue.json data/topic_state.json data/topic_blog_links.json land-in-korea-blog/content/posts
           git commit -m "chore: queue daily Land in Korea topic"
           git push origin "HEAD:${GITHUB_REF_NAME}"
