@@ -4,6 +4,7 @@ date: 2026-08-25
 category: Practical info
 description: Korea's crime stats beat most Western capitals — but that's not the risk that actually catches travelers off guard. Here's the one that is.
 image_query: seoul city skyline rain
+image: https://images.pexels.com/photos/19271600/pexels-photo-19271600.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
 ---
 
 Most travel-safety advice for Korea focuses on crime, and by that measure Korea is genuinely one of the safer destinations you can pick — low violent crime even late at night in major cities. Standard precautions still apply (watch for pickpockets in crowded markets, keep an eye on drinks in nightlife areas), but that's not where trips actually go wrong.

@@ -4,6 +4,7 @@ date: 2026-08-25
 category: Money-saving
 description: The VAT refund mistake that has nothing to do with paperwork — it's about when you pack the item, not what form you fill out.
 image_query: myeongdong shopping street
+image: https://images.pexels.com/photos/33019190/pexels-photo-33019190.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
 ---
 
 Everyone tells you to "ask for the Tax Free form" when shopping in Korea. That's the easy part. The part that actually loses people their refund happens later, and it's not about paperwork at all.

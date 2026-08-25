@@ -4,6 +4,7 @@ date: 2026-08-25
 category: Practical info
 description: 112 and 119 both work in English in Korea — but neither is the number most travelers actually need first.
 image_query: seoul pharmacy street sign
+image: https://images.pexels.com/photos/38837823/pexels-photo-38837823.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
 ---
 
 112 (police) and 119 (fire, ambulance, medical emergencies) both have English-language phone support in Korea, and most travel guides stop there. But most of what actually goes wrong on a trip isn't a 112-or-119 situation — it's smaller than that, and there's a better number for it.

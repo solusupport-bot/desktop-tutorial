@@ -4,6 +4,7 @@ date: 2026-08-25
 category: Money-saving
 description: CU, GS25, and 7-Eleven do a lot more than sell snacks — most tourists use maybe 10% of what's actually available at the counter.
 image_query: cu gs25 convenience store korea
+image: https://images.pexels.com/photos/20124001/pexels-photo-20124001.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
 ---
 
 CU, GS25, and 7-Eleven are open 24/7 almost everywhere in Korea, and most tourists treat them as a snack stop and nothing more. That's a fraction of what they're actually built to do.

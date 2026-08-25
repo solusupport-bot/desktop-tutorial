@@ -4,6 +4,7 @@ date: 2026-08-25
 category: Airport & transit
 description: Coin lockers at Korean subway stations look like the easy answer for luggage — until you try to find an empty one on a weekend.
 image_query: seoul station luggage travelers
+image: https://images.pexels.com/photos/19271594/pexels-photo-19271594.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
 ---
 
 Every guide mentions coin lockers for luggage in Korea. Fewer mention that they fill up fast on weekends and holidays — meaning "there's a locker at the station" isn't a plan you can rely on for your specific travel day without a backup.

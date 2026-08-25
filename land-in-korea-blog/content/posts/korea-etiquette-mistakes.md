@@ -4,6 +4,7 @@ date: 2026-08-25
 category: Etiquette & mistakes
 description: Everyone knows not to tip in Korea. The gesture that actually reads as rude to older Koreans is smaller and easier to miss.
 image_query: korean traditional market people
+image: https://images.pexels.com/photos/19271596/pexels-photo-19271596.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
 ---
 
 Tipping is the etiquette tip every guide leads with: it's not expected in Korea, and offering one can genuinely confuse service staff rather than please them. That part's well known by now. The gesture that actually causes quiet offense is smaller, and most first-timers do it without realizing.

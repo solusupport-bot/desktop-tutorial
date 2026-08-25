@@ -4,6 +4,7 @@ date: 2026-08-25
 category: Practical info
 description: Packing for Korea's weather outside isn't the hard part — it's the indoor heating and AC swings that wreck most people's layering plan.
 image_query: seoul street autumn season
+image: https://images.pexels.com/photos/19271535/pexels-photo-19271535.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
 ---
 
 Most packing advice for Korea focuses on the season outside: hot, humid summers with a July monsoon; dry, cold winters with occasional heavy snow outside Seoul; comfortable but crowded spring and fall. That's real, and worth planning around — but it's not what actually catches people off guard.

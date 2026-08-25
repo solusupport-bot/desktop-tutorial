@@ -4,6 +4,7 @@ date: 2026-08-25
 category: Comparisons
 description: Google Maps quietly stops being useful the moment you land in Korea — here's which app actually replaces it, and why.
 image_query: seoul subway map smartphone
+image: https://images.pexels.com/photos/31768194/pexels-photo-31768194.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
 ---
 
 Google Maps works fine for getting to Korea. It's noticeably weaker once you're actually navigating inside it — Google's local transit and walking-direction data in Korea has real gaps that most first-timers don't discover until they're already lost.
