@@ -13,7 +13,10 @@ const { curateContent } = require('../lib/curation/curate');
 const { addPost } = require('../lib/scheduler/queue');
 const { getBlogLinkForTopic, withUtm } = require('../lib/ingestion/topic_blog_links');
 
-const PLATFORMS = ['threads', 'facebook', 'instagram'];
+// Instagram 파이프라인(API 연결, curate.js, publish-now.js)은 이미 붙어있지만,
+// 카드뉴스 vs 단일 이미지 포맷 결정이 아직 안 나서 실제 자동발행 대상에서는 잠시 뺐습니다.
+// 결정되면 이 배열에 'instagram'만 다시 추가하면 됩니다.
+const PLATFORMS = ['threads', 'facebook'];
 const POSTS_PER_DAY = 3;
 
 const DAY_WINDOWS_HOURS = [
