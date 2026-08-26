@@ -12,6 +12,7 @@ const { graphPost, instagramGraphPost, instagramGraphGet, INSTAGRAM_GRAPH_API_BA
 const { publishToInstagram } = require('../lib/publishing/instagram');
 const { publishToFacebook } = require('../lib/publishing/facebook');
 const { publishToThreads } = require('../lib/publishing/threads');
+const { getPermalink } = require('../lib/publishing/permalink');
 
 const THREADS_API_BASE = 'https://graph.threads.com/v1.0';
 
@@ -128,6 +129,16 @@ const main = async () => {
     if (target.platform === 'instagram') result = await fixInstagram(target);
     else if (target.platform === 'threads') result = await fixThreads(target);
     else if (target.platform === 'facebook') result = await fixFacebook(target);
+
+    // API로 편집/삭제가 안 되는 플랫폼이면, 사람이 앱에서 직접 지우도록 실제 링크를 알려준다.
+    if (result.action === 'failed') {
+      try {
+        const permalinkData = await getPermalink(target.platform, target.id);
+        result.permalink = permalinkData.permalink || permalinkData.permalink_url || null;
+      } catch (linkErr) {
+        log.warn(`[${target.platform} ${target.id}] permalink 조회도 실패: ${linkErr.response?.data?.error?.message || linkErr.message}`);
+      }
+    }
     results.push({ ...target, ...result });
   }
   console.log('FIX_RESULTS_JSON=' + JSON.stringify(results));
