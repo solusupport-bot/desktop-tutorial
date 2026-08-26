@@ -6,7 +6,7 @@
 require('dotenv').config();
 const log = require('../lib/logger');
 const { fetchKoreaTravelTopics } = require('../lib/ingestion/korea_travel');
-const { fetchTopicImage } = require('../lib/ingestion/pexels_image');
+const { fetchTopicImage, fetchTopicImages } = require('../lib/ingestion/pexels_image');
 const { TOPIC_IMAGES } = require('../lib/ingestion/topic_images');
 const { pickNextTopic, getRecentImageUrls, recordImageUrl } = require('../lib/scheduler/topic_rotation');
 const { curateContent } = require('../lib/curation/curate');
@@ -51,12 +51,28 @@ const resolveImage = async (topicName, seed) => {
   return null;
 };
 
+// Threads는 캐로셀(2장)로 발행합니다 — 벤치마킹한 고성과 게시물들의 공통 구조인
+// "1장에 정보를 다 담지 않고 2장째로 스와이프하게 만드는 것"을 반영한 것입니다.
+// 실사 이미지를 2장 못 구하면(Pexels 실패 등) 있는 만큼(1장 또는 0장)만 씁니다 —
+// 억지로 대표 이미지를 중복해서 2장을 채우지 않습니다.
+const resolveThreadsImages = async (topicName, seed) => {
+  const recent = getRecentImageUrls();
+  const live = await fetchTopicImages(topicName, recent, seed, 2);
+  if (live.length > 0) return live;
+
+  const fallback = await resolveImage(topicName, seed);
+  return fallback ? [fallback] : [];
+};
+
 const queueOneTopic = async (topics, window) => {
   const { topic: item, seed } = pickNextTopic(topics);
   log.ok(`주제 선택: ${item.source} (구간 ${window[0]}~${window[1]}시)`);
 
-  const imageUrl = await resolveImage(item.source, seed);
-  if (imageUrl) recordImageUrl(imageUrl);
+  const threadsImages = await resolveThreadsImages(item.source, seed);
+  threadsImages.forEach(recordImageUrl);
+  // Facebook/Instagram은 캐로셀이 필요 없으니 Threads용으로 구한 것 중 첫 장을 재사용합니다
+  // (같은 주제에 대해 별도로 Pexels를 또 호출하지 않기 위함).
+  const imageUrl = threadsImages[0] || null;
 
   const curated = await curateContent(item, PLATFORMS, seed);
   const blogUrl = getBlogLinkForTopic(item.source);
@@ -76,10 +92,11 @@ const queueOneTopic = async (topics, window) => {
     const queued = addPost({
       text,
       imageUrl,
+      imageUrls: platform === 'threads' ? threadsImages : undefined,
       platforms: [platform],
       scheduledAt
     });
-    log.ok(`[${platform}] 큐 등록: ${queued.id} (예약 ${scheduledAt})`);
+    log.ok(`[${platform}] 큐 등록: ${queued.id} (예약 ${scheduledAt}${platform === 'threads' && threadsImages.length > 1 ? `, 캐로셀 ${threadsImages.length}장` : ''})`);
   }
 };
 
