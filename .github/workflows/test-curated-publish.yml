@@ -1,0 +1,39 @@
+name: Test Curated Multi-Platform Publish
+
+# 실제 curateContent 큐레이션 파이프라인으로 Threads/Facebook/Instagram에
+# 동시에, 플랫폼별로 다르게 재가공된 글을 즉시 발행하고 실제 URL까지 확인합니다.
+on:
+  workflow_dispatch:
+    inputs:
+      topic:
+        description: '주제명 (lib/ingestion/korea_travel.js의 topic 값)'
+        required: false
+        default: 'T-money transit card'
+        type: string
+      seed:
+        description: '각도/훅 회전용 seed'
+        required: false
+        default: '0'
+        type: string
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm ci
+      - name: Publish curated topic to all platforms
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+          THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+          THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
+          FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+        run: node scripts/publish-curated-topic.js --topic "${{ inputs.topic }}" --seed "${{ inputs.seed }}"
+        shell: bash
