@@ -13,11 +13,9 @@ const { curateContent } = require('../lib/curation/curate');
 const { addPost } = require('../lib/scheduler/queue');
 const { getBlogLinkForTopic, withUtm } = require('../lib/ingestion/topic_blog_links');
 
-const PLATFORMS = ['threads', 'facebook']; // Instagram 추가 시 이미지 그대로 재사용 예정 (카드뉴스 전환은 별도 작업)
+const PLATFORMS = ['threads', 'facebook', 'instagram'];
 const POSTS_PER_DAY = 3;
 
-// 하루(24시간)를 3구간으로 나눠 각 구간에서 하나씩 랜덤 시각을 뽑습니다.
-// 완전 무작위로만 뽑으면 우연히 다 몰릴 수 있어, 최소한의 분산을 보장합니다.
 const DAY_WINDOWS_HOURS = [
   [0, 8],
   [8, 16],
@@ -30,7 +28,6 @@ const randomTimeInWindow = (baseTime, [startH, endH]) => {
   return new Date(startMs + Math.random() * (endMs - startMs));
 };
 
-// 같은 주제라도 플랫폼마다 발행 시각을 다르게 만들기 위한 지터(최대 ±45분).
 const withPlatformJitter = (time) => new Date(time.getTime() + (Math.random() * 90 - 45) * 60 * 1000);
 
 const resolveImage = async (topicName, seed) => {
@@ -64,11 +61,12 @@ const queueOneTopic = async (topics, window) => {
   const baseTime = randomTimeInWindow(now, window);
 
   for (const platform of PLATFORMS) {
+    if (platform === 'instagram' && !imageUrl) {
+      log.warn('[instagram] 공개 이미지가 없어 큐 등록을 건너뜁니다.');
+      continue;
+    }
+
     const scheduledAt = withPlatformJitter(baseTime).toISOString();
-    // Facebook 2026: 링크가 본문에 있으면 도달률이 순수 이미지 게시물의 절반 이하로 떨어짐
-    // (~5-6% vs ~11%), 댓글에 숨기는 우회법도 이미 막혀 트래픽이 0에 수렴함.
-    // 반대로 Threads는 2024년의 링크 페널티가 철회되어 링크가 있어도 도달에 불이익이 없음.
-    // 그래서 블로그 링크는 Threads에만 붙이고 Facebook은 링크 없이 그 자체로 완결되게 둔다.
     const text = platform === 'threads'
       ? `${curated[platform]}\n\n📖 Full comparison: ${withUtm(blogUrl, platform)}`
       : curated[platform];
@@ -90,7 +88,7 @@ const main = async () => {
     await queueOneTopic(topics, DAY_WINDOWS_HOURS[i % DAY_WINDOWS_HOURS.length]);
   }
 
-  log.ok(`오늘 ${POSTS_PER_DAY}개 주제(플랫폼별 총 ${POSTS_PER_DAY * PLATFORMS.length}건)가 하루 안에서 랜덤 시각으로 예약되었습니다.`);
+  log.ok(`오늘 ${POSTS_PER_DAY}개 주제를 ${PLATFORMS.join(', ')} 채널에 하루 안에서 랜덤 시각으로 예약했습니다.`);
 };
 
 main().catch((err) => {
