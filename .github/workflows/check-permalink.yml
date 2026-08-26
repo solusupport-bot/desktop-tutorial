@@ -1,0 +1,30 @@
+name: Check Post Permalink
+
+on:
+  workflow_dispatch:
+    inputs:
+      platform:
+        description: '플랫폼: instagram, facebook, threads'
+        required: true
+        type: string
+      media_id:
+        description: '발행 응답에서 받은 Media ID 또는 Post ID'
+        required: true
+        type: string
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm ci
+      - name: Get permalink
+        env:
+          THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+          FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+        run: node scripts/get-permalink.js --platform "${{ inputs.platform }}" --id "${{ inputs.media_id }}"
+        shell: bash
