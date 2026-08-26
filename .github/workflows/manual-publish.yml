@@ -42,4 +42,4 @@ jobs:
       - name: Summary
         env:
           TARGET_PLATFORMS: ${{ inputs.platforms }}
-        run: echo "Requested platforms: $TARGET_PLATFORMS" >> "$GITHUB_STEP_SUMMARY"
+        run: 'echo "Requested platforms: $TARGET_PLATFORMS" >> "$GITHUB_STEP_SUMMARY"'
