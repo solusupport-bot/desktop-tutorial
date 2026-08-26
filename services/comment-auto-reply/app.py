@@ -174,7 +174,7 @@ def call_claude(comment_text, lang, matched_topics):
     try:
         client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
         msg = client.messages.create(
-            model="claude-3-5-sonnet-20241022",
+            model="claude-opus-5",
             max_tokens=250,
             temperature=0.7,
             system=system,
