@@ -70,7 +70,10 @@ const main = async () => {
     // Graph API가 permalink를 바로 내려주지 않는 경우가 있어 잠깐 대기 후 조회.
     try {
       await wait(3000);
-      const permalinkData = await getPermalink(platform, res.id);
+      // Facebook 사진 게시글은 res.id가 사진 ID이고, 실제 페이지 게시글 permalink는
+      // res.post_id(페이지ID_게시글ID)로 조회해야 한다 — res.id로는 field가 없다고 나온다.
+      const lookupId = (platform === 'facebook' && res.post_id) ? res.post_id : res.id;
+      const permalinkData = await getPermalink(platform, lookupId);
       results[platform].permalink = permalinkData.permalink || permalinkData.permalink_url || null;
       log.ok(`${platform} 실제 URL: ${results[platform].permalink}`);
     } catch (err) {
