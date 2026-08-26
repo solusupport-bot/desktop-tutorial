@@ -1,0 +1,33 @@
+name: Reply To Threads Comment
+
+on:
+  workflow_dispatch:
+    inputs:
+      shortcode:
+        description: '답글 달 게시물의 permalink shortcode (예: IZOyhR0qZ)'
+        required: true
+        type: string
+      needle:
+        description: '찾을 원 댓글의 일부 텍스트'
+        required: true
+        type: string
+      reply:
+        description: '달 답글 내용'
+        required: true
+        type: string
+
+jobs:
+  reply:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm ci
+      - name: Reply to comment
+        env:
+          THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+          THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
+        run: node scripts/reply-to-thread.js --shortcode "${{ inputs.shortcode }}" --needle "${{ inputs.needle }}" --reply "${{ inputs.reply }}"
+        shell: bash
