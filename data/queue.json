@@ -484,9 +484,14 @@
       "threads"
     ],
     "scheduledAt": "2026-08-26T11:50:38.347Z",
-    "status": "pending",
-    "results": {},
-    "createdAt": "2026-08-26T00:44:57.157Z"
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18137208649582098"
+      }
+    },
+    "createdAt": "2026-08-26T00:44:57.157Z",
+    "processedAt": "2026-08-26T11:53:58.513Z"
   },
   {
     "id": "8f67fed7-a9a0-4f7e-889a-4819f7d751ca",
@@ -496,9 +501,15 @@
       "facebook"
     ],
     "scheduledAt": "2026-08-26T11:48:34.717Z",
-    "status": "pending",
-    "results": {},
-    "createdAt": "2026-08-26T00:44:57.158Z"
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "122105993109446391",
+        "post_id": "1288453561012463_122105993139446391"
+      }
+    },
+    "createdAt": "2026-08-26T00:44:57.158Z",
+    "processedAt": "2026-08-26T11:54:03.455Z"
   },
   {
     "id": "20a25278-bd47-46ca-a0df-3dc96073eee8",
