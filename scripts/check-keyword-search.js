@@ -17,7 +17,13 @@ const main = async () => {
 
   try {
     const res = await axios.get(`${THREADS_API_BASE}/keyword_search`, {
-      params: { q: keyword, search_type: 'RECENT', access_token: accessToken },
+      params: {
+        q: keyword,
+        search_mode: 'KEYWORD',
+        search_type: 'TOP',
+        fields: 'id,text,media_type,permalink,timestamp,username,has_replies,is_quote_post,is_reply',
+        access_token: accessToken
+      },
       timeout: 15000
     });
     const posts = res.data?.data || [];
