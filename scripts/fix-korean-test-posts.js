@@ -43,11 +43,19 @@ const TEST_IMAGE_URL = 'https://images.unsplash.com/photo-1500534623283-312aade4
 
 const fixInstagram = async (target) => {
   const accessToken = process.env.IG_ACCESS_TOKEN;
-  // 1) 캡션 편집 시도 (공개적으로 지원되지 않는 걸로 알려져 있지만 실제로 확인)
+  // 1) 캡션 편집 시도. 이전 시도에서 "comment_enabled 파라미터 필요" 에러가 났었는데,
+  //    그게 caption 자체를 거부한 게 아니라 이 엔드포인트가 요청마다 comment_enabled를
+  //    필수로 요구하는 것뿐일 수 있어서, 그걸 같이 넣고 실제로 caption도 바뀌는지 확인한다.
   try {
-    await instagramGraphPost(`/${target.id}`, { caption: target.englishText }, accessToken);
-    log.ok(`[instagram ${target.id}] 캡션 편집 성공`);
-    return { action: 'edited' };
+    const res = await instagramGraphPost(`/${target.id}`, { caption: target.englishText, comment_enabled: true }, accessToken);
+    log.ok(`[instagram ${target.id}] 편집 요청 성공 응답: ${JSON.stringify(res)}`);
+    const check = await instagramGraphGet(`/${target.id}`, { fields: 'caption' }, accessToken);
+    log.ok(`[instagram ${target.id}] 편집 후 실제 caption 확인: ${JSON.stringify(check)}`);
+    if (check.caption === target.englishText) {
+      log.ok(`[instagram ${target.id}] 캡션 편집 성공 (실제 반영 확인됨)`);
+      return { action: 'edited' };
+    }
+    log.warn(`[instagram ${target.id}] 편집 요청은 성공했지만 caption이 실제로 안 바뀜 — comment_enabled만 반영되고 caption은 무시된 것으로 보임`);
   } catch (editErr) {
     log.warn(`[instagram ${target.id}] 캡션 편집 실패: ${editErr.response?.data?.error?.message || editErr.message}`);
   }
