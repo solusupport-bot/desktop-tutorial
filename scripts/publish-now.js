@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 // GitHub Actions에서 워크플로우 입력값을 받아 즉시 발행하는 스크립트.
-// Instagram은 브랜드 운영 방침에 따라 의도적으로 제외한다.
+// Facebook, Threads, Instagram에 즉시 발행할 수 있습니다.
 require('dotenv').config();
 const log = require('../lib/logger');
 const { PLATFORMS } = require('../lib/publishing');
@@ -17,11 +17,11 @@ const parseArgs = () => {
 const main = async () => {
   const opts = parseArgs();
   if (!opts.text) {
-    log.err('사용법: node scripts/publish-now.js --text "게시글 내용" --platforms facebook,threads [--image https://...]');
+    log.err('사용법: node scripts/publish-now.js --text "게시글 내용" --platforms facebook,threads,instagram [--image https://...]');
     process.exit(1);
   }
 
-  const platforms = (opts.platforms || 'facebook,threads').split(',');
+  const platforms = (opts.platforms || 'facebook,threads,instagram').split(',');
 
   for (const platform of platforms) {
     const entry = PLATFORMS[platform];
