@@ -1,0 +1,45 @@
+name: Manual SNS Publish
+
+on:
+  workflow_dispatch:
+    inputs:
+      text:
+        description: '게시할 본문'
+        required: true
+        type: string
+      image:
+        description: '공개 이미지 URL (Instagram 필수)'
+        required: false
+        type: string
+      platforms:
+        description: '발행 채널: 기본값은 Instagram이며 필요할 때만 변경'
+        required: true
+        default: 'instagram'
+        type: string
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm ci
+      - name: Publish now
+        env:
+          POST_TEXT: ${{ inputs.text }}
+          IMAGE_URL: ${{ inputs.image }}
+          TARGET_PLATFORMS: ${{ inputs.platforms }}
+          THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+          THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
+          FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+        run: node scripts/publish-now.js --text "$POST_TEXT" --platforms "$TARGET_PLATFORMS" --image "$IMAGE_URL"
+        shell: bash
+      - name: Summary
+        env:
+          TARGET_PLATFORMS: ${{ inputs.platforms }}
+        run: echo "Requested platforms: $TARGET_PLATFORMS" >> "$GITHUB_STEP_SUMMARY"
