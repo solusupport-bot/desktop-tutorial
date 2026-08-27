@@ -5,7 +5,7 @@
 require('dotenv').config();
 const axios = require('axios');
 const log = require('../lib/logger');
-const { normalizeServiceKey } = require('../lib/ingestion/tourism_api');
+const { normalizeServiceKey } = require('../lib/ingestion/tour_service_key');
 
 const common = (extra = {}) => ({
   MobileOS: 'ETC',
