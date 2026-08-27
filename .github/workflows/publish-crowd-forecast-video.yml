@@ -1,0 +1,33 @@
+name: Publish Crowd Forecast Video (TourAPI live data)
+
+on:
+  workflow_dispatch:
+    inputs:
+      seed:
+        description: '각도(0=붐빔 경고, 1=한산함 대비) 회전용 seed'
+        required: false
+        default: '0'
+        type: string
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm ci
+      - name: Publish crowd-forecast video to all platforms
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+          TOUR_VISITOR_FORECAST_API_KEY: ${{ secrets.TOUR_VISITOR_FORECAST_API_KEY }}
+          THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+          THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
+          FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+        run: node scripts/publish-crowd-forecast-video.js "${{ inputs.seed }}"
+        shell: bash
