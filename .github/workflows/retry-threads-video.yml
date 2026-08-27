@@ -1,0 +1,29 @@
+name: Retry Threads Video Publish
+
+on:
+  workflow_dispatch:
+    inputs:
+      videoUrl:
+        description: '영상 URL'
+        required: true
+        type: string
+      text:
+        description: '본문'
+        required: true
+        type: string
+
+jobs:
+  retry:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm ci
+      - name: Retry Threads video
+        env:
+          THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+          THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
+        run: node scripts/retry-threads-video.js "${{ inputs.videoUrl }}" "${{ inputs.text }}"
+        shell: bash
