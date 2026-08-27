@@ -35,17 +35,14 @@ const main = async () => {
     }
 
     // 오늘 이미 큐에 들어간 같은 주제의 facebook 항목에서 imageUrl을 재사용한다.
-    // daily-auto-post.js는 한 주제를 고르는 즉시 그 주제의 threads/facebook 큐 항목을
-    // 같은 실행 안에서 바로 만들기 때문에, createdAt이 history 기록 시각(entry.at)과
-    // 가장 가까운 facebook 항목이 바로 이 주제의 항목이다.
+    // createdAt 근접도로 매칭했더니 여러 주제가 거의 동시에 큐잉될 때 한 칸씩 밀려서
+    // 엉뚱한 이미지가 매칭되는 버그가 있었다 — 대신 facebook 글의 첫 문장(reshapeByTemplate의
+    // intro = sentences[0])이 이 주제의 원본 content 첫 문장과 정확히 일치하는 항목을 찾는다.
     const matchingContent = Array.isArray(item.content) ? item.content[seedAtCall % item.content.length] : item.content;
-    const entryTime = new Date(entry.at).getTime();
-    const fbCandidates = queue.filter((q) => q.platforms.includes('facebook') && q.createdAt);
-    const fbEntry = fbCandidates.reduce((closest, q) => {
-      const diff = Math.abs(new Date(q.createdAt).getTime() - entryTime);
-      return (!closest || diff < closest.diff) ? { q, diff } : closest;
-    }, null)?.q;
-    const reusedImage = (fbEntry && Math.abs(new Date(fbEntry.createdAt).getTime() - entryTime) < 60000) ? fbEntry.imageUrl : null;
+    const firstSentenceMatch = matchingContent.match(/[^.!?]+[.!?]*/);
+    const firstSentence = (firstSentenceMatch ? firstSentenceMatch[0] : matchingContent).trim();
+    const fbEntry = queue.find((q) => q.platforms.includes('facebook') && q.text && q.text.startsWith(firstSentence));
+    const reusedImage = fbEntry?.imageUrl || null;
 
     const rawItem = { source: item.source, author: item.author, url: item.url, content: matchingContent };
     const curated = await curateContent(rawItem, ['instagram'], seedAtCall);
