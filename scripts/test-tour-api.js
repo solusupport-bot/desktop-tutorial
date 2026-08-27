@@ -5,6 +5,7 @@
 require('dotenv').config();
 const axios = require('axios');
 const log = require('../lib/logger');
+const { normalizeServiceKey } = require('../lib/ingestion/tourism_api');
 
 const common = (extra = {}) => ({
   MobileOS: 'ETC',
@@ -37,29 +38,29 @@ const main = async () => {
   // 1) 연관 관광지 정보 - 지역기반 (서울 종로구=11110 예시)
   await call(
     '연관 관광지 정보 (TarRlteTarService1/areaBasedList1)',
-    'http://apis.data.go.kr/B551011/TarRlteTarService1/areaBasedList1',
-    common({ serviceKey: process.env.TOUR_RELATED_ATTRACTIONS_API_KEY, baseYm: '202504', areaCd: '11', signguCd: '11110' })
+    'https://apis.data.go.kr/B551011/TarRlteTarService1/areaBasedList1',
+    common({ serviceKey: normalizeServiceKey(process.env.TOUR_RELATED_ATTRACTIONS_API_KEY), baseYm: '202504', areaCd: '11', signguCd: '11110' })
   );
 
   // 2) 기초지자체 중심 관광지 정보 - 지역기반
   await call(
     '기초지자체 중심 관광지 정보 (LocgoHubTarService1/areaBasedList1)',
-    'http://apis.data.go.kr/B551011/LocgoHubTarService1/areaBasedList1',
-    common({ serviceKey: process.env.TOUR_CORE_ATTRACTIONS_API_KEY, baseYm: '202504', areaCd: '11', signguCd: '11110' })
+    'https://apis.data.go.kr/B551011/LocgoHubTarService1/areaBasedList1',
+    common({ serviceKey: normalizeServiceKey(process.env.TOUR_CORE_ATTRACTIONS_API_KEY), baseYm: '202504', areaCd: '11', signguCd: '11110' })
   );
 
   // 3) 관광지 집중률 방문자 추이 예측 정보
   await call(
     '관광지 집중률 방문자 추이 예측 (TatsCnctrRateService/tatsCnctrRatedList)',
-    'http://apis.data.go.kr/B551011/TatsCnctrRateService/tatsCnctrRatedList',
-    common({ serviceKey: process.env.TOUR_VISITOR_FORECAST_API_KEY, areaCd: '11', signguCd: '11110' })
+    'https://apis.data.go.kr/B551011/TatsCnctrRateService/tatsCnctrRatedList',
+    common({ serviceKey: normalizeServiceKey(process.env.TOUR_VISITOR_FORECAST_API_KEY), areaCd: '11', signguCd: '11110' })
   );
 
   // 4) 오디오 가이드 정보 - 키워드 검색 (경복궁)
   await call(
     '오디오 가이드 정보 (Odii/themeSearchList, keyword=경복궁)',
-    'http://apis.data.go.kr/B551011/Odii/themeSearchList',
-    common({ serviceKey: process.env.TOUR_AUDIO_GUIDE_API_KEY, keyword: '경복궁', langCode: 'ko' })
+    'https://apis.data.go.kr/B551011/Odii/themeSearchList',
+    common({ serviceKey: normalizeServiceKey(process.env.TOUR_AUDIO_GUIDE_API_KEY), keyword: '경복궁', langCode: 'ko' })
   );
 
   if (hadFailure) process.exitCode = 1;
