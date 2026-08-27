@@ -519,9 +519,14 @@
       "threads"
     ],
     "scheduledAt": "2026-08-27T01:01:34.683Z",
-    "status": "pending",
-    "results": {},
-    "createdAt": "2026-08-26T00:44:57.432Z"
+    "status": "partial",
+    "results": {
+      "threads": {
+        "error": "publish failed"
+      }
+    },
+    "createdAt": "2026-08-26T00:44:57.432Z",
+    "processedAt": "2026-08-27T05:20:25.611Z"
   },
   {
     "id": "11a87c66-6fed-4657-bacc-b89fbefbf661",
@@ -531,9 +536,15 @@
       "facebook"
     ],
     "scheduledAt": "2026-08-27T01:15:41.613Z",
-    "status": "pending",
-    "results": {},
-    "createdAt": "2026-08-26T00:44:57.432Z"
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "122106319935446391",
+        "post_id": "1288453561012463_122106319959446391"
+      }
+    },
+    "createdAt": "2026-08-26T00:44:57.432Z",
+    "processedAt": "2026-08-27T05:20:29.434Z"
   },
   {
     "id": "4629c99e-4718-4b9f-958d-dff61513b333",
@@ -627,9 +638,14 @@
       "instagram"
     ],
     "scheduledAt": "2026-08-27T05:19:17.328Z",
-    "status": "pending",
-    "results": {},
-    "createdAt": "2026-08-27T05:19:17.330Z"
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "17904829026544220"
+      }
+    },
+    "createdAt": "2026-08-27T05:19:17.330Z",
+    "processedAt": "2026-08-27T05:20:43.359Z"
   },
   {
     "id": "a07aa75c-f6ca-46d8-9366-b737566419a7",
@@ -639,9 +655,14 @@
       "instagram"
     ],
     "scheduledAt": "2026-08-27T05:19:17.331Z",
-    "status": "pending",
-    "results": {},
-    "createdAt": "2026-08-27T05:19:17.331Z"
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "18330652276274216"
+      }
+    },
+    "createdAt": "2026-08-27T05:19:17.331Z",
+    "processedAt": "2026-08-27T05:20:56.891Z"
   },
   {
     "id": "0f841b82-b84f-40cb-b147-eef70c29bc9f",
@@ -651,8 +672,13 @@
       "instagram"
     ],
     "scheduledAt": "2026-08-27T05:19:17.332Z",
-    "status": "pending",
-    "results": {},
-    "createdAt": "2026-08-27T05:19:17.333Z"
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "18143986321563193"
+      }
+    },
+    "createdAt": "2026-08-27T05:19:17.333Z",
+    "processedAt": "2026-08-27T05:21:09.499Z"
   }
 ]
