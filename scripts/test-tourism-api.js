@@ -23,4 +23,4 @@ const output = path.join(__dirname, '..', 'data', 'tourism-api-samples.json');
 })().catch((error) => {
   console.error(`관광 API 샘플 수집 실패: ${error.message}`);
   process.exit(1);
-})();
+});
