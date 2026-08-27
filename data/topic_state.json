@@ -1,5 +1,5 @@
 {
-  "lastIndex": 3,
+  "lastIndex": 6,
   "history": [
     {
       "index": 0,
@@ -80,10 +80,24 @@
       "index": 3,
       "topic": "Travel advisories & safety notices",
       "at": "2026-08-26T00:44:57.158Z"
+    },
+    {
+      "index": 4,
+      "topic": "Airport transfer options",
+      "at": "2026-08-27T05:17:38.080Z"
+    },
+    {
+      "index": 5,
+      "topic": "First-timer etiquette & common mistakes",
+      "at": "2026-08-27T05:17:38.239Z"
+    },
+    {
+      "index": 6,
+      "topic": "Currency & card payments",
+      "at": "2026-08-27T05:17:38.278Z"
     }
   ],
   "recentImageUrls": [
-    "https://d8j0ntlcm91z4.cloudfront.net/user_3Fo4ThsH9a12FnQnrCDVGFESZ8E/hf_20260822_115024_e35a612a-cede-4a12-b4b2-1816d70a0103.png",
     "https://d8j0ntlcm91z4.cloudfront.net/user_3Fo4ThsH9a12FnQnrCDVGFESZ8E/hf_20260822_115023_6b520b0b-25db-411e-bcf3-83199d72c30f.png",
     "https://d8j0ntlcm91z4.cloudfront.net/user_3Fo4ThsH9a12FnQnrCDVGFESZ8E/hf_20260822_115024_b3a9c9c9-4bbf-44a1-92fd-d3aca9220fc4.png",
     "https://images.pexels.com/photos/26919330/pexels-photo-26919330.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -101,6 +115,12 @@
     "https://images.pexels.com/photos/32211611/pexels-photo-32211611.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://images.pexels.com/photos/35609580/pexels-photo-35609580.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://images.pexels.com/photos/31649603/pexels-photo-31649603.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://images.pexels.com/photos/19271600/pexels-photo-19271600.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "https://images.pexels.com/photos/19271600/pexels-photo-19271600.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/31768209/pexels-photo-31768209.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/37821288/pexels-photo-37821288.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/5059930/pexels-photo-5059930.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/7237170/pexels-photo-7237170.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/38837823/pexels-photo-38837823.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/18936011/pexels-photo-18936011.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
   ]
 }
