@@ -15,6 +15,12 @@ const common = (extra = {}) => ({
   ...extra
 });
 
+// 이전 버전은 실패해도 catch에서 로그만 찍고 넘어가서, 4개가 전부 실패해도
+// 프로세스 종료 코드가 0이 되어 GitHub Actions 화면에 "success"로 잘못 표시됐다.
+// (실제로 이것 때문에 다른 세션이 실패한 실행을 "성공"으로 오인한 적이 있음.)
+// 이제 하나라도 실패하면 exitCode를 1로 남겨 화면의 성공/실패가 실제와 일치하게 한다.
+let hadFailure = false;
+
 const call = async (label, url, params) => {
   log.section(label);
   try {
@@ -22,6 +28,7 @@ const call = async (label, url, params) => {
     console.log(JSON.stringify(res.data, null, 2).slice(0, 2000));
     log.ok(`${label} 성공`);
   } catch (err) {
+    hadFailure = true;
     log.err(`${label} 실패: ${err.response?.status} ${JSON.stringify(err.response?.data || err.message).slice(0, 500)}`);
   }
 };
@@ -54,6 +61,8 @@ const main = async () => {
     'http://apis.data.go.kr/B551011/Odii/themeSearchList',
     common({ serviceKey: process.env.TOUR_AUDIO_GUIDE_API_KEY, keyword: '경복궁', langCode: 'ko' })
   );
+
+  if (hadFailure) process.exitCode = 1;
 };
 
 main();
