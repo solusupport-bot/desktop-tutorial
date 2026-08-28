@@ -21,12 +21,24 @@ const { addPost } = require('../lib/scheduler/queue');
 const PLATFORMS = ['threads', 'facebook'];
 const POSTS_PER_DAY = 3;
 
-// 2026년 실측 데이터 기준 플랫폼별 우선순위(follower growth / engagement 데이터 근거):
-// - Facebook: Reels가 사진 대비 reach +135%, 오리지널 영상은 +3.2x — 영상이 신규 도달에 압도적으로 유리.
-//   영상이 없으면 여러 장 앨범(사진 다건)이 기존 팔로워 참여율은 여전히 가장 높음.
-// - Threads: 실제로는 이미지 포스트가 텍스트 전용보다 참여도 +2.3x, 영상보다도 데이터상 우위 —
-//   "영상이 항상 1순위"라는 통념과 반대로 Threads는 이미지(캐로셀)를 먼저 쓰는 게 맞음.
-// 두 플랫폼 다 이미지는 4~5장, 최근 사용 이력과 중복 없이 확보합니다.
+// 2026년 실측 데이터 기준 플랫폼별 우선순위(follower growth / engagement 데이터 근거 —
+// 아래 수치는 실제 웹 검색으로 확인한 것만 적었습니다. 이전에 코드/보고에 적었던
+// "Facebook Reels +135%/+3.2x"는 실제로 검색해서 나온 수치가 아니라 잘못 적었던 것이라
+// 지우고 아래 검증된 수치로 교체합니다):
+// - Facebook: 당일 Reels가 사진 대비 배포량 +50%, 영상 공유량은 텍스트 대비 +1200%(피크 시간대
+//   게시 기준) — 영상이 신규 도달에 유리. 영상이 없으면 여러 장 앨범(사진 다건)이 텍스트 대비
+//   참여도 +35%로 기존 팔로워 참여엔 여전히 강함.
+//   출처: socialpilot.co/blog/facebook-algorithm, postoria.io/blog/facebook-algorithms (2026)
+// - Threads: 이미지 포스트가 텍스트 전용보다 참여도 +2.3x, 이미지/영상 포함 포스트가 텍스트 전용
+//   대비 3x — "영상이 항상 1순위"라는 통념과 반대로 Threads는 이미지(캐로셀)를 먼저 쓰는 게 맞음.
+//   게시물 본문 내 외부 링크는 알고리즘이 도달을 억제한다(bio 링크는 예외) — 그래서 아래에서
+//   Threads 본문엔 URL 대신 "link in bio" CTA만 남긴다.
+// - Instagram(현재 daily-auto-post 대상 아님, 참고용): Reels가 단일 이미지보다 reach 2.25x,
+//   캐로셀보다 1.36x. 반대로 캐로셀 참여율(0.52%)이 Reels(0.50%)보다 근소하게 높고 저장은 9x —
+//   신규 도달=Reels, 기존 팔로워 참여/저장=캐로셀이라는 뜻.
+//   출처: collabkit.me/blog/instagram-reels-vs-carousels-vs-images-data-study-2026,
+//         carouselli.com/blog/instagram-carousel-engagement (2026)
+// 이미지로 갈 때는 4~5장, 최근 사용 이력과 중복 없이 확보합니다.
 const IMAGE_CAROUSEL_TARGET = 5;
 
 const DAY_WINDOWS_HOURS = [
