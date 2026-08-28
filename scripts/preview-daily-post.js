@@ -4,21 +4,23 @@
 require('dotenv').config();
 const log = require('../lib/logger');
 const { fetchKoreaTravelTopics } = require('../lib/ingestion/korea_travel');
-const { fetchTopicImage } = require('../lib/ingestion/pexels_image');
+const { fetchTopicImages } = require('../lib/ingestion/pexels_image');
+const { findKoreaVideo } = require('../lib/ingestion/pexels_video');
 const { TOPIC_IMAGES } = require('../lib/ingestion/topic_images');
-const { loadState, getRecentImageUrls } = require('../lib/scheduler/topic_rotation');
+const { loadState, getRecentImageUrls, getRecentVideoUrls } = require('../lib/scheduler/topic_rotation');
 const { curateContent } = require('../lib/curation/curate');
 
 const PLATFORMS = ['threads', 'facebook'];
+const IMAGE_CAROUSEL_TARGET = 5;
 
 const pickAngle = (content, seed) => (Array.isArray(content) ? content[seed % content.length] : content);
 
-const resolveImage = async (topicName, seed) => {
+const resolveImages = async (topicName, seed) => {
   const recent = getRecentImageUrls();
-  const live = await fetchTopicImage(topicName, recent, seed);
-  if (live) return { url: live, source: 'Pexels (실시간, 고화질/중복 회피 적용)' };
-  if (TOPIC_IMAGES[topicName]) return { url: TOPIC_IMAGES[topicName], source: '기존 대표 이미지 (Higgsfield, 최후 폴백)' };
-  return { url: null, source: '없음' };
+  const live = await fetchTopicImages(topicName, recent, seed, IMAGE_CAROUSEL_TARGET);
+  if (live.length > 0) return { urls: live, source: `Pexels 실시간 ${live.length}장 (고화질/중복 회피 적용)` };
+  if (TOPIC_IMAGES[topicName]) return { urls: [TOPIC_IMAGES[topicName]], source: '기존 대표 이미지 (최후 폴백, 1장)' };
+  return { urls: [], source: '없음' };
 };
 
 const main = async () => {
@@ -30,13 +32,22 @@ const main = async () => {
   const seed = state.history.length;
   const item = { ...topics[nextIndex], content: pickAngle(topics[nextIndex].content, seed) };
 
-  const image = await resolveImage(item.source, seed);
+  const images = await resolveImages(item.source, seed);
+  const videoQuery = item.source.replace(/\(.*?\)/g, '').trim();
+  const video = await findKoreaVideo(process.env.PEXELS_API_KEY, videoQuery, getRecentVideoUrls());
   const curated = await curateContent(item, PLATFORMS, seed);
+
+  // Facebook = 영상 우선(없으면 이미지 앨범), Threads = 이미지 우선(없으면 영상) — daily-auto-post.js와 동일한 규칙.
+  const mediaSummary = (platform) => {
+    if (platform === 'facebook') return video ? `영상 (${video})` : `${images.source} — ${images.urls.join(', ') || '없음'}`;
+    return images.urls.length > 0 ? `${images.source} — ${images.urls.join(', ')}` : (video ? `영상 폴백 (${video})` : '없음');
+  };
 
   console.log('\n════════════════════════════════════════════════');
   console.log(`주제: ${item.source}`);
   console.log(`출처: ${item.url}`);
-  console.log(`이미지(${image.source}): ${image.url || '없음'}`);
+  console.log(`[facebook] 미디어: ${mediaSummary('facebook')}`);
+  console.log(`[threads]  미디어: ${mediaSummary('threads')}`);
   console.log('════════════════════════════════════════════════');
   PLATFORMS.forEach((p) => {
     console.log(`\n[${p}]\n${curated[p]}`);

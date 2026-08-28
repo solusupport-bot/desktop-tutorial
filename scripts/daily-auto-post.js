@@ -6,18 +6,28 @@
 require('dotenv').config();
 const log = require('../lib/logger');
 const { fetchKoreaTravelTopics } = require('../lib/ingestion/korea_travel');
-const { fetchTopicImage, fetchTopicImages } = require('../lib/ingestion/pexels_image');
+const { fetchTopicImages } = require('../lib/ingestion/pexels_image');
+const { findKoreaVideo } = require('../lib/ingestion/pexels_video');
 const { TOPIC_IMAGES } = require('../lib/ingestion/topic_images');
-const { pickNextTopic, getRecentImageUrls, recordImageUrl } = require('../lib/scheduler/topic_rotation');
+const {
+  pickNextTopic, getRecentImageUrls, recordImageUrl, getRecentVideoUrls, recordVideoUrl
+} = require('../lib/scheduler/topic_rotation');
 const { curateContent } = require('../lib/curation/curate');
 const { addPost } = require('../lib/scheduler/queue');
-const { getBlogLinkForTopic, withUtm } = require('../lib/ingestion/topic_blog_links');
 
-// Instagram 파이프라인(API 연결, curate.js, publish-now.js)은 이미 붙어있지만,
-// 카드뉴스 vs 단일 이미지 포맷 결정이 아직 안 나서 실제 자동발행 대상에서는 잠시 뺐습니다.
-// 결정되면 이 배열에 'instagram'만 다시 추가하면 됩니다.
+// Instagram 카드뉴스(9슬라이드 디자인, CARD_DESIGN_SPEC.md)는 아직 실제로 만들어지지
+// 않았습니다 — 이번 변경으로 만든 실사진 캐로셀 발행 기능(instagram.js)은 카드뉴스와
+// 별개이니, 디자인된 카드뉴스가 나오기 전까지는 Instagram을 여기 넣지 않습니다.
 const PLATFORMS = ['threads', 'facebook'];
 const POSTS_PER_DAY = 3;
+
+// 2026년 실측 데이터 기준 플랫폼별 우선순위(follower growth / engagement 데이터 근거):
+// - Facebook: Reels가 사진 대비 reach +135%, 오리지널 영상은 +3.2x — 영상이 신규 도달에 압도적으로 유리.
+//   영상이 없으면 여러 장 앨범(사진 다건)이 기존 팔로워 참여율은 여전히 가장 높음.
+// - Threads: 실제로는 이미지 포스트가 텍스트 전용보다 참여도 +2.3x, 영상보다도 데이터상 우위 —
+//   "영상이 항상 1순위"라는 통념과 반대로 Threads는 이미지(캐로셀)를 먼저 쓰는 게 맞음.
+// 두 플랫폼 다 이미지는 4~5장, 최근 사용 이력과 중복 없이 확보합니다.
+const IMAGE_CAROUSEL_TARGET = 5;
 
 const DAY_WINDOWS_HOURS = [
   [0, 8],
@@ -33,70 +43,80 @@ const randomTimeInWindow = (baseTime, [startH, endH]) => {
 
 const withPlatformJitter = (time) => new Date(time.getTime() + (Math.random() * 90 - 45) * 60 * 1000);
 
-const resolveImage = async (topicName, seed) => {
+/**
+ * 실사 이미지를 최대 count장까지 중복 없이 확보합니다(기본 목표 5장 — 2026년 실측 데이터
+ * 기준 Facebook 앨범/Threads 캐로셀 모두 사진 여러 장이 참여율에 가장 유리하다는 근거).
+ * Pexels에서 하나도 못 구하면 과거의 고정 대표 이미지 1장으로 대체하고, 그마저 최근에
+ * 이미 쓴 것이면 중복을 감수하고 씁니다(이미지 없이 텍스트만 발행하는 것보다는 낫다는 판단).
+ */
+const resolveImages = async (topicName, seed, count) => {
   const recent = getRecentImageUrls();
-  const live = await fetchTopicImage(topicName, recent, seed);
-  if (live) return live;
-
-  const fallback = TOPIC_IMAGES[topicName];
-  if (fallback && !recent.includes(fallback)) {
-    log.warn(`Pexels 실패 → 기존 대표 이미지로 대체: ${topicName}`);
-    return fallback;
-  }
-  if (fallback) {
-    log.warn(`기존 대표 이미지도 최근에 이미 사용됨 → 중복을 감수하고 사용: ${topicName}`);
-    return fallback;
-  }
-  log.warn(`이미지 없이 텍스트만 발행합니다: ${topicName}`);
-  return null;
-};
-
-// Threads는 캐로셀(2장)로 발행합니다 — 벤치마킹한 고성과 게시물들의 공통 구조인
-// "1장에 정보를 다 담지 않고 2장째로 스와이프하게 만드는 것"을 반영한 것입니다.
-// 실사 이미지를 2장 못 구하면(Pexels 실패 등) 있는 만큼(1장 또는 0장)만 씁니다 —
-// 억지로 대표 이미지를 중복해서 2장을 채우지 않습니다.
-const resolveThreadsImages = async (topicName, seed) => {
-  const recent = getRecentImageUrls();
-  const live = await fetchTopicImages(topicName, recent, seed, 2);
+  const live = await fetchTopicImages(topicName, recent, seed, count);
   if (live.length > 0) return live;
 
-  const fallback = await resolveImage(topicName, seed);
-  return fallback ? [fallback] : [];
+  const fallback = TOPIC_IMAGES[topicName];
+  if (!fallback) {
+    log.warn(`이미지를 하나도 못 구했습니다: ${topicName}`);
+    return [];
+  }
+  if (recent.includes(fallback)) {
+    log.warn(`기존 대표 이미지도 최근에 이미 사용됨 → 중복을 감수하고 사용: ${topicName}`);
+  } else {
+    log.warn(`Pexels 실패 → 기존 대표 이미지로 대체: ${topicName}`);
+  }
+  return [fallback];
 };
 
 const queueOneTopic = async (topics, window) => {
   const { topic: item, seed } = pickNextTopic(topics);
   log.ok(`주제 선택: ${item.source} (구간 ${window[0]}~${window[1]}시)`);
 
-  const threadsImages = await resolveThreadsImages(item.source, seed);
-  threadsImages.forEach(recordImageUrl);
-  // Facebook/Instagram은 캐로셀이 필요 없으니 Threads용으로 구한 것 중 첫 장을 재사용합니다
-  // (같은 주제에 대해 별도로 Pexels를 또 호출하지 않기 위함).
-  const imageUrl = threadsImages[0] || null;
+  const images = await resolveImages(item.source, seed, IMAGE_CAROUSEL_TARGET);
+  images.forEach(recordImageUrl);
+
+  const videoQuery = item.source.replace(/\(.*?\)/g, '').trim();
+  const video = await findKoreaVideo(process.env.PEXELS_API_KEY, videoQuery, getRecentVideoUrls());
+  if (video) recordVideoUrl(video);
 
   const curated = await curateContent(item, PLATFORMS, seed);
-  const blogUrl = getBlogLinkForTopic(item.source);
   const now = new Date();
   const baseTime = randomTimeInWindow(now, window);
 
+  // 우선순위는 플랫폼마다 다릅니다(실측 데이터 근거는 파일 상단 주석 참고):
+  // Facebook = 영상 우선(없으면 이미지 앨범), Threads = 이미지 우선(없으면 영상).
+  const mediaByPlatform = {
+    facebook: video ? { videoUrl: video } : { imageUrls: images },
+    threads: images.length > 0 ? { imageUrls: images } : (video ? { videoUrl: video } : {})
+  };
+
   for (const platform of PLATFORMS) {
-    if (platform === 'instagram' && !imageUrl) {
-      log.warn('[instagram] 공개 이미지가 없어 큐 등록을 건너뜁니다.');
+    const media = mediaByPlatform[platform] || {};
+    if (!(media.imageUrls && media.imageUrls.length) && !media.videoUrl) {
+      log.warn(`[${platform}] 사용할 미디어가 없어 큐 등록을 건너뜁니다: ${item.source}`);
       continue;
     }
 
     const scheduledAt = withPlatformJitter(baseTime).toISOString();
+    // Threads 본문에 실제 URL을 넣으면 Threads 알고리즘이 그 포스트의 도달을 적극적으로
+    // 억제한다(2026년 실측 — bio 링크는 예외). 그래서 본문엔 URL 대신 "링크는 bio에"
+    // CTA만 남긴다 — 트레이드오프로 플랫폼별 UTM 클릭 추적은 더 이상 안 된다(bio 링크는
+    // 계정 공통이라 게시물 단위로 구분이 안 됨). Threads 프로필 bio에 블로그 링크가 실제로
+    // 걸려있는지는 별도로 확인 필요.
     const text = platform === 'threads'
-      ? `${curated[platform]}\n\n📖 Full comparison: ${withUtm(blogUrl, platform)}`
+      ? `${curated[platform]}\n\n📖 More on the blog — link in bio.`
       : curated[platform];
+
     const queued = addPost({
       text,
-      imageUrl,
-      imageUrls: platform === 'threads' ? threadsImages : undefined,
+      imageUrls: media.imageUrls,
+      videoUrl: media.videoUrl,
       platforms: [platform],
       scheduledAt
     });
-    log.ok(`[${platform}] 큐 등록: ${queued.id} (예약 ${scheduledAt}${platform === 'threads' && threadsImages.length > 1 ? `, 캐로셀 ${threadsImages.length}장` : ''})`);
+    const mediaLabel = media.videoUrl
+      ? '영상'
+      : media.imageUrls.length > 1 ? `이미지 ${media.imageUrls.length}장` : '단일 이미지';
+    log.ok(`[${platform}] 큐 등록: ${queued.id} (예약 ${scheduledAt}, ${mediaLabel})`);
   }
 };
 
