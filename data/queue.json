@@ -636,9 +636,14 @@
       "threads"
     ],
     "scheduledAt": "2026-08-28T05:56:40.429Z",
-    "status": "pending",
-    "results": {},
-    "createdAt": "2026-08-27T05:17:38.301Z"
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18009023588971586"
+      }
+    },
+    "createdAt": "2026-08-27T05:17:38.301Z",
+    "processedAt": "2026-08-28T12:36:28.501Z"
   },
   {
     "id": "da899443-665e-4f74-8d36-90147a7577c2",
@@ -648,9 +653,15 @@
       "facebook"
     ],
     "scheduledAt": "2026-08-28T05:44:26.441Z",
-    "status": "pending",
-    "results": {},
-    "createdAt": "2026-08-27T05:17:38.302Z"
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "122106953709446391",
+        "post_id": "1288453561012463_122106953733446391"
+      }
+    },
+    "createdAt": "2026-08-27T05:17:38.302Z",
+    "processedAt": "2026-08-28T12:36:32.822Z"
   },
   {
     "id": "ee875298-e186-4b98-a6b9-823ccf8fc8d0",
@@ -793,9 +804,14 @@
       "threads"
     ],
     "scheduledAt": "2026-08-28T04:37:58.728Z",
-    "status": "pending",
-    "results": {},
-    "createdAt": "2026-08-27T05:54:56.952Z"
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18425111404196143"
+      }
+    },
+    "createdAt": "2026-08-27T05:54:56.952Z",
+    "processedAt": "2026-08-28T12:36:51.852Z"
   },
   {
     "id": "3af54d55-3207-4f9f-b510-fe84a28e0088",
@@ -805,9 +821,15 @@
       "facebook"
     ],
     "scheduledAt": "2026-08-28T04:53:50.404Z",
-    "status": "pending",
-    "results": {},
-    "createdAt": "2026-08-27T05:54:56.952Z"
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "122106953961446391",
+        "post_id": "1288453561012463_122106953991446391"
+      }
+    },
+    "createdAt": "2026-08-27T05:54:56.952Z",
+    "processedAt": "2026-08-28T12:36:55.859Z"
   },
   {
     "id": "462b010e-4332-4176-88a5-ef15a8411a4a",
@@ -824,9 +846,14 @@
       "threads"
     ],
     "scheduledAt": "2026-08-28T12:04:06.206Z",
-    "status": "pending",
-    "results": {},
-    "createdAt": "2026-08-28T07:38:04.941Z"
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18129730366672760"
+      }
+    },
+    "createdAt": "2026-08-28T07:38:04.941Z",
+    "processedAt": "2026-08-28T12:37:36.511Z"
   },
   {
     "id": "4e3f376c-e595-45e7-9054-be7cbd8eb715",
@@ -837,9 +864,14 @@
       "facebook"
     ],
     "scheduledAt": "2026-08-28T11:10:27.762Z",
-    "status": "pending",
-    "results": {},
-    "createdAt": "2026-08-28T07:38:04.942Z"
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "1172315281884828"
+      }
+    },
+    "createdAt": "2026-08-28T07:38:04.942Z",
+    "processedAt": "2026-08-28T12:37:42.606Z"
   },
   {
     "id": "6b728b8e-0ab8-440a-aab1-91392dbf2ca1",
