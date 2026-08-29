@@ -13,10 +13,13 @@ const log = require('../lib/logger');
 const { fetchKoreaTravelTopics } = require('../lib/ingestion/korea_travel');
 const { curateContent } = require('../lib/curation/curate');
 const { fetchTopicImages } = require('../lib/ingestion/pexels_image');
+const { findKoreaVideo } = require('../lib/ingestion/pexels_video');
 const { PLATFORMS } = require('../lib/publishing');
 const { getPermalink } = require('../lib/publishing/permalink');
 const { getBlogLinkForTopic, withUtm } = require('../lib/ingestion/topic_blog_links');
-const { getRecentImageUrls, recordImageUrl } = require('../lib/scheduler/topic_rotation');
+const {
+  getRecentImageUrls, recordImageUrl, getRecentVideoUrls, recordVideoUrl
+} = require('../lib/scheduler/topic_rotation');
 
 const wait = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
@@ -59,6 +62,13 @@ const main = async () => {
   threadsImages.forEach(recordImageUrl);
   const singleImage = threadsImages[0] || null;
 
+  // 관광공사(TourAPI) 4개 서비스 중 영상 원본을 제공하는 건 없습니다(Odii도 이미지+오디오+
+  // 스크립트일 뿐 영상이 아님 — 2026-08-27 확인). 그래서 영상은 Pexels 무료 영상으로 확보합니다
+  // (daily-auto-post.js와 동일한 우선순위: Facebook/Instagram = 영상 우선, 없으면 이미지).
+  const videoQuery = item.source.replace(/\(.*?\)/g, '').trim();
+  const video = await findKoreaVideo(process.env.PEXELS_API_KEY, videoQuery, getRecentVideoUrls());
+  if (video) recordVideoUrl(video);
+
   const results = {};
   const blogUrl = withUtm(getBlogLinkForTopic(item.source), 'facebook');
 
@@ -67,9 +77,14 @@ const main = async () => {
     const text = platform === 'facebook' ? `${curated[platform]}\n\n📖 Full breakdown: ${blogUrl}` : curated[platform];
     log.section(`${platform} 발행`);
     log.ok(text);
-    const payload = platform === 'threads'
-      ? { text, imageUrls: threadsImages }
-      : { text, imageUrl: singleImage };
+    let payload;
+    if (platform === 'threads') {
+      payload = { text, imageUrls: threadsImages };
+    } else if (video) {
+      payload = { text, videoUrl: video };
+    } else {
+      payload = { text, imageUrl: singleImage };
+    }
     const res = await handler.publish(payload);
     results[platform] = res || { error: 'publish failed' };
     if (!res) {
