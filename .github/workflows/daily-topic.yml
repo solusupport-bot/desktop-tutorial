@@ -32,12 +32,14 @@ jobs:
       - name: Pick topic, fetch image, queue post
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ANTHROPIC_WORKSPACE_ID: ${{ secrets.ANTHROPIC_WORKSPACE_ID }}
           PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
         run: node scripts/daily-auto-post.js
 
       - name: Write blog posts for any SNS topic that doesn't have one yet
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ANTHROPIC_WORKSPACE_ID: ${{ secrets.ANTHROPIC_WORKSPACE_ID }}
           BLOG_REPO_PAT: ${{ secrets.BLOG_REPO_PAT }}
         run: node scripts/sync-blog-posts.js
 
