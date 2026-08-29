@@ -14,7 +14,7 @@ const { fetchKoreaTravelTopics } = require('../lib/ingestion/korea_travel');
 const { curateContent } = require('../lib/curation/curate');
 const { fetchTopicImages } = require('../lib/ingestion/pexels_image');
 const { findKoreaVideo } = require('../lib/ingestion/pexels_video');
-const { findPopularMusic } = require('../lib/ingestion/jamendo_music');
+const { findMusic } = require('../lib/ingestion/openverse_music');
 const { attachMusicToVideo, cleanupMergedVideo } = require('../lib/media/mix_audio');
 const { uploadMergedVideoAsset } = require('../lib/publishing/github_asset_host');
 const { PLATFORMS } = require('../lib/publishing');
@@ -78,7 +78,7 @@ const main = async () => {
   // 인기 랭킹(popularity_total) 순으로 고릅니다 — 2026-08-29 사용자에게 설명 후 합의.
   let musicAttribution = null;
   if (video) {
-    const music = await findPopularMusic(process.env.JAMENDO_CLIENT_ID, 'upbeat travel', getRecentMusicUrls());
+    const music = await findMusic('upbeat travel', getRecentMusicUrls());
     if (music) {
       log.section('배경음악 합성');
       const mergedPath = await attachMusicToVideo(video, music.url);
@@ -88,7 +88,7 @@ const main = async () => {
           video = await uploadMergedVideoAsset('solusupport-bot/desktop-tutorial', process.env.GITHUB_TOKEN, mergedPath, assetName);
           recordMusicUrl(music.url);
           // CC BY/BY-SA는 저작자 표시가 조건이라, 캡션에 곡명/아티스트를 반드시 표시합니다.
-          musicAttribution = `🎵 "${music.name}" by ${music.artist} (CC BY, via Jamendo)`;
+          musicAttribution = `🎵 ${music.attribution}`;
         } finally {
           cleanupMergedVideo(mergedPath);
         }
