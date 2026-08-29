@@ -14,11 +14,15 @@ const { fetchKoreaTravelTopics } = require('../lib/ingestion/korea_travel');
 const { curateContent } = require('../lib/curation/curate');
 const { fetchTopicImages } = require('../lib/ingestion/pexels_image');
 const { findKoreaVideo } = require('../lib/ingestion/pexels_video');
+const { findPopularMusic } = require('../lib/ingestion/jamendo_music');
+const { attachMusicToVideo, cleanupMergedVideo } = require('../lib/media/mix_audio');
+const { uploadMergedVideoAsset } = require('../lib/publishing/github_asset_host');
 const { PLATFORMS } = require('../lib/publishing');
 const { getPermalink } = require('../lib/publishing/permalink');
 const { getBlogLinkForTopic, withUtm } = require('../lib/ingestion/topic_blog_links');
 const {
-  getRecentImageUrls, recordImageUrl, getRecentVideoUrls, recordVideoUrl
+  getRecentImageUrls, recordImageUrl, getRecentVideoUrls, recordVideoUrl,
+  getRecentMusicUrls, recordMusicUrl
 } = require('../lib/scheduler/topic_rotation');
 
 const wait = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
@@ -66,8 +70,28 @@ const main = async () => {
   // 스크립트일 뿐 영상이 아님 — 2026-08-27 확인). 그래서 영상은 Pexels 무료 영상으로 확보합니다
   // (daily-auto-post.js와 동일한 우선순위: Facebook/Instagram = 영상 우선, 없으면 이미지).
   const videoQuery = item.source.replace(/\(.*?\)/g, '').trim();
-  const video = await findKoreaVideo(process.env.PEXELS_API_KEY, videoQuery, getRecentVideoUrls());
+  let video = await findKoreaVideo(process.env.PEXELS_API_KEY, videoQuery, getRecentVideoUrls());
   if (video) recordVideoUrl(video);
+
+  // 영상에 배경음악을 붙입니다. 실제 차트 인기곡은 저작권 문제로 못 쓰므로(Meta 저작권
+  // 매칭에 걸려 음소거/삭제/계정 정지 위험), 합법 CC 카탈로그(Jamendo) 안에서 실제
+  // 인기 랭킹(popularity_total) 순으로 고릅니다 — 2026-08-29 사용자에게 설명 후 합의.
+  if (video) {
+    const music = await findPopularMusic(process.env.JAMENDO_CLIENT_ID, 'upbeat travel', getRecentMusicUrls());
+    if (music) {
+      log.section('배경음악 합성');
+      const mergedPath = await attachMusicToVideo(video, music.url);
+      if (mergedPath) {
+        try {
+          const assetName = `${item.source.replace(/[^a-z0-9]+/gi, '-').toLowerCase()}-${seed}.mp4`;
+          video = await uploadMergedVideoAsset('solusupport-bot/desktop-tutorial', process.env.GITHUB_TOKEN, mergedPath, assetName);
+          recordMusicUrl(music.url);
+        } finally {
+          cleanupMergedVideo(mergedPath);
+        }
+      }
+    }
+  }
 
   const results = {};
   const blogUrl = withUtm(getBlogLinkForTopic(item.source), 'facebook');
