@@ -19,8 +19,12 @@ on:
 jobs:
   publish:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
@@ -37,3 +41,16 @@ jobs:
           IG_USER_ID: ${{ secrets.IG_USER_ID }}
         run: node scripts/publish-curated-topic.js --topic "${{ inputs.topic }}" --seed "${{ inputs.seed }}"
         shell: bash
+
+      - name: Commit updated recent-image dedupe state
+        run: |
+          if git diff --quiet -- data/topic_state.json; then
+            echo "No dedupe state change; no commit required."
+            exit 0
+          fi
+
+          git config user.name "sns-automation-bot"
+          git config user.email "actions@github.com"
+          git add data/topic_state.json
+          git commit -m "chore: record images used by manual curated test-publish"
+          git push origin "HEAD:${GITHUB_REF_NAME}"

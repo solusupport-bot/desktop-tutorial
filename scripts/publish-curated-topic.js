@@ -16,6 +16,7 @@ const { fetchTopicImages } = require('../lib/ingestion/pexels_image');
 const { PLATFORMS } = require('../lib/publishing');
 const { getPermalink } = require('../lib/publishing/permalink');
 const { getBlogLinkForTopic, withUtm } = require('../lib/ingestion/topic_blog_links');
+const { getRecentImageUrls, recordImageUrl } = require('../lib/scheduler/topic_rotation');
 
 const wait = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
@@ -49,7 +50,13 @@ const main = async () => {
   log.section(`큐레이션: ${topicName} (seed=${seed})`);
   const curated = await curateContent(rawItem, ['threads', 'facebook', 'instagram'], seed);
 
-  const threadsImages = await fetchTopicImages(item.source, [], seed, 2);
+  // 실제 발행 파이프라인(daily-auto-post.js)이 기록한 "최근 사용 이미지" 목록을 그대로
+  // 존중해야 진짜로 새 사진이 나옵니다 — 이전엔 빈 배열을 넘겨서 매번 같은 상위 결과가
+  // 나왔습니다(2026-08-29 실측 버그). 이번에 고른 사진도 기록해 다음 실행이 또 겹치지
+  // 않게 합니다.
+  const recentImages = getRecentImageUrls();
+  const threadsImages = await fetchTopicImages(item.source, recentImages, seed, 2);
+  threadsImages.forEach(recordImageUrl);
   const singleImage = threadsImages[0] || null;
 
   const results = {};
