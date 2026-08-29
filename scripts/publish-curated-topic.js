@@ -15,6 +15,7 @@ const { curateContent } = require('../lib/curation/curate');
 const { fetchTopicImages } = require('../lib/ingestion/pexels_image');
 const { PLATFORMS } = require('../lib/publishing');
 const { getPermalink } = require('../lib/publishing/permalink');
+const { getBlogLinkForTopic, withUtm } = require('../lib/ingestion/topic_blog_links');
 
 const wait = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
@@ -52,9 +53,11 @@ const main = async () => {
   const singleImage = threadsImages[0] || null;
 
   const results = {};
+  const blogUrl = withUtm(getBlogLinkForTopic(item.source), 'facebook');
+
   for (const platform of ['threads', 'facebook', 'instagram']) {
     const handler = PLATFORMS[platform];
-    const text = curated[platform];
+    const text = platform === 'facebook' ? `${curated[platform]}\n\n📖 Full breakdown: ${blogUrl}` : curated[platform];
     log.section(`${platform} 발행`);
     log.ok(text);
     const payload = platform === 'threads'
