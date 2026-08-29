@@ -76,6 +76,7 @@ const main = async () => {
   // 영상에 배경음악을 붙입니다. 실제 차트 인기곡은 저작권 문제로 못 쓰므로(Meta 저작권
   // 매칭에 걸려 음소거/삭제/계정 정지 위험), 합법 CC 카탈로그(Jamendo) 안에서 실제
   // 인기 랭킹(popularity_total) 순으로 고릅니다 — 2026-08-29 사용자에게 설명 후 합의.
+  let musicAttribution = null;
   if (video) {
     const music = await findPopularMusic(process.env.JAMENDO_CLIENT_ID, 'upbeat travel', getRecentMusicUrls());
     if (music) {
@@ -86,6 +87,8 @@ const main = async () => {
           const assetName = `${item.source.replace(/[^a-z0-9]+/gi, '-').toLowerCase()}-${seed}.mp4`;
           video = await uploadMergedVideoAsset('solusupport-bot/desktop-tutorial', process.env.GITHUB_TOKEN, mergedPath, assetName);
           recordMusicUrl(music.url);
+          // CC BY/BY-SA는 저작자 표시가 조건이라, 캡션에 곡명/아티스트를 반드시 표시합니다.
+          musicAttribution = `🎵 "${music.name}" by ${music.artist} (CC BY, via Jamendo)`;
         } finally {
           cleanupMergedVideo(mergedPath);
         }
@@ -98,7 +101,8 @@ const main = async () => {
 
   for (const platform of ['threads', 'facebook', 'instagram']) {
     const handler = PLATFORMS[platform];
-    const text = platform === 'facebook' ? `${curated[platform]}\n\n📖 Full breakdown: ${blogUrl}` : curated[platform];
+    let text = platform === 'facebook' ? `${curated[platform]}\n\n📖 Full breakdown: ${blogUrl}` : curated[platform];
+    if (video && musicAttribution && platform !== 'threads') text = `${text}\n\n${musicAttribution}`;
     log.section(`${platform} 발행`);
     log.ok(text);
     let payload;
