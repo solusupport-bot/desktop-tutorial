@@ -930,9 +930,14 @@
       "threads"
     ],
     "scheduledAt": "2026-08-29T03:06:23.466Z",
-    "status": "pending",
-    "results": {},
-    "createdAt": "2026-08-28T07:38:09.041Z"
+    "status": "partial",
+    "results": {
+      "threads": {
+        "error": "publish failed"
+      }
+    },
+    "createdAt": "2026-08-28T07:38:09.041Z",
+    "processedAt": "2026-08-29T09:21:14.891Z"
   },
   {
     "id": "5a807685-265b-4d4a-8f19-b3a8b78a6331",
@@ -943,9 +948,14 @@
       "facebook"
     ],
     "scheduledAt": "2026-08-29T03:21:13.099Z",
-    "status": "pending",
-    "results": {},
-    "createdAt": "2026-08-28T07:38:09.042Z"
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "3558809957616654"
+      }
+    },
+    "createdAt": "2026-08-28T07:38:09.042Z",
+    "processedAt": "2026-08-29T09:21:20.427Z"
   },
   {
     "id": "664d25bd-faca-41f9-bbba-48a61b0b829f",
@@ -962,9 +972,14 @@
       "threads"
     ],
     "scheduledAt": "2026-08-29T05:03:54.283Z",
-    "status": "pending",
-    "results": {},
-    "createdAt": "2026-08-29T02:56:49.818Z"
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "17869935192637612"
+      }
+    },
+    "createdAt": "2026-08-29T02:56:49.818Z",
+    "processedAt": "2026-08-29T09:22:03.765Z"
   },
   {
     "id": "9700b6a4-3d93-4cf0-841d-c483a399a095",
@@ -975,9 +990,14 @@
       "facebook"
     ],
     "scheduledAt": "2026-08-29T05:17:12.477Z",
-    "status": "pending",
-    "results": {},
-    "createdAt": "2026-08-29T02:56:49.819Z"
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "1043435534982559"
+      }
+    },
+    "createdAt": "2026-08-29T02:56:49.819Z",
+    "processedAt": "2026-08-29T09:22:09.573Z"
   },
   {
     "id": "0e66e596-99ef-4df5-a5a7-1878e58f90ec",
@@ -988,9 +1008,14 @@
       "instagram"
     ],
     "scheduledAt": "2026-08-29T04:43:57.512Z",
-    "status": "pending",
-    "results": {},
-    "createdAt": "2026-08-29T02:56:49.820Z"
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "18091800950130612"
+      }
+    },
+    "createdAt": "2026-08-29T02:56:49.820Z",
+    "processedAt": "2026-08-29T09:23:25.079Z"
   },
   {
     "id": "74c2b016-00f5-4475-8bda-77f5f177e6e9",
