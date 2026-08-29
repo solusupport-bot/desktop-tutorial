@@ -16,9 +16,11 @@ const { curateContent } = require('../lib/curation/curate');
 const { addPost } = require('../lib/scheduler/queue');
 
 // Instagram 카드뉴스(9슬라이드 디자인, CARD_DESIGN_SPEC.md)는 아직 실제로 만들어지지
-// 않았습니다 — 이번 변경으로 만든 실사진 캐로셀 발행 기능(instagram.js)은 카드뉴스와
-// 별개이니, 디자인된 카드뉴스가 나오기 전까지는 Instagram을 여기 넣지 않습니다.
-const PLATFORMS = ['threads', 'facebook'];
+// 않았지만, 계정 자체 인사이트 데이터(단일 이미지 1~4회 노출 vs 영상 42~110회 노출)와
+// 2026년 실측 알고리즘 데이터(Reels가 단일 이미지 대비 reach 2.25x)가 일치해서, 카드뉴스
+// 디자인을 기다리지 않고 Reels(영상) 우선으로 먼저 활성화합니다. 카드뉴스는 저장/참여용
+// 포맷으로 나중에 별도 추가 예정 — Reels가 없는 주제만 이미지 캐로셀로 대체 발행됩니다.
+const PLATFORMS = ['threads', 'facebook', 'instagram'];
 const POSTS_PER_DAY = 3;
 
 // 2026년 실측 데이터 기준 플랫폼별 우선순위(follower growth / engagement 데이터 근거 —
@@ -95,10 +97,12 @@ const queueOneTopic = async (topics, window) => {
   const baseTime = randomTimeInWindow(now, window);
 
   // 우선순위는 플랫폼마다 다릅니다(실측 데이터 근거는 파일 상단 주석 참고):
-  // Facebook = 영상 우선(없으면 이미지 앨범), Threads = 이미지 우선(없으면 영상).
+  // Facebook/Instagram = 영상(Reels) 우선(없으면 이미지 앨범/캐로셀), Threads = 이미지 우선(없으면 영상).
+  // Facebook과 Instagram은 같은 video를 재사용합니다 — Pexels 쿼리를 두 번 하지 않기 위함.
   const mediaByPlatform = {
     facebook: video ? { videoUrl: video } : { imageUrls: images },
-    threads: images.length > 0 ? { imageUrls: images } : (video ? { videoUrl: video } : {})
+    threads: images.length > 0 ? { imageUrls: images } : (video ? { videoUrl: video } : {}),
+    instagram: video ? { videoUrl: video } : { imageUrls: images }
   };
 
   for (const platform of PLATFORMS) {
