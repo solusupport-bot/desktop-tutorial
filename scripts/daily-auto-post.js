@@ -43,15 +43,37 @@ const POSTS_PER_DAY = 3;
 // 이미지로 갈 때는 4~5장, 최근 사용 이력과 중복 없이 확보합니다.
 const IMAGE_CAROUSEL_TARGET = 5;
 
+// 실제 UTC 시각 기준 고정 윈도우입니다 — "스크립트 실행 시점" 기준 상대 오프셋이 아닙니다.
+// 이전엔 baseTime = new Date()(실행 시점)에 시간을 더하는 방식이라, 크론이 지연되거나
+// 같은 날 여러 번 수동 재실행되면(2026-08-29 실측 사례) 그때마다 새 윈도우가 잡혀
+// 예약 시각들이 한 군데로 몰리는 문제가 있었습니다. 콘텐츠가 영어라 미국과 아시아
+// 두 독자층을 다 노리도록 시간대를 섞습니다:
+// - 아시아 낮 시간(한국/싱가포르/필리핀 등 UTC+8~+9 오전~정오): UTC 01:00-05:00
+// - 미국 동부 업무 시간(여행 리서치 타이밍): UTC 13:00-17:00
+// - 미국 동부 저녁(여행 드리밍 타임) + 아시아 심야: UTC 23:00-03:00(자정을 넘어감, 27=다음날 03시)
 const DAY_WINDOWS_HOURS = [
-  [0, 8],
-  [8, 16],
-  [16, 24]
+  [1, 5],
+  [13, 17],
+  [23, 27]
 ];
 
-const randomTimeInWindow = (baseTime, [startH, endH]) => {
-  const startMs = baseTime.getTime() + startH * 3600 * 1000;
-  const endMs = baseTime.getTime() + endH * 3600 * 1000;
+/**
+ * window를 "오늘 UTC 자정" 기준 고정 시각으로 해석합니다. 오늘 그 구간이 이미 다
+ * 지났으면(크론 지연/수동 재실행 등으로 실행 시점이 구간을 지나친 경우) 내일로 넘겨서,
+ * 실행 시점과 무관하게 항상 실제 목표 시간대에 예약되도록 합니다.
+ */
+const randomTimeInWindow = (now, [startH, endH]) => {
+  const todayMidnightUTC = Date.UTC(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate());
+  let startMs = todayMidnightUTC + startH * 3600 * 1000;
+  let endMs = todayMidnightUTC + endH * 3600 * 1000;
+  if (endMs <= now.getTime()) {
+    // 오늘 이 구간이 이미 다 지났으면 내일로 넘김
+    startMs += 24 * 3600 * 1000;
+    endMs += 24 * 3600 * 1000;
+  } else if (startMs < now.getTime()) {
+    // 지금이 구간 안이면(크론 지연 등) 과거 시각이 나오지 않도록 시작점을 지금으로 당김
+    startMs = now.getTime();
+  }
   return new Date(startMs + Math.random() * (endMs - startMs));
 };
 
