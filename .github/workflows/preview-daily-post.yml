@@ -1,0 +1,22 @@
+name: Preview Daily Post (dry run)
+
+# preview-daily-post.js는 큐/상태를 전혀 건드리지 않는 미리보기 전용 스크립트입니다.
+# Claude/Gemini API 키가 실제로 작동하는지, 오늘 콘텐츠가 어떻게 나올지 부작용 없이
+# 확인하고 싶을 때 수동으로 돌립니다.
+on:
+  workflow_dispatch: {}
+
+jobs:
+  preview:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm ci
+      - name: Preview today's content
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+        run: node scripts/preview-daily-post.js
