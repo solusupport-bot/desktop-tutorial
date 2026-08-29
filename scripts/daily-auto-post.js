@@ -1,7 +1,9 @@
 #!/usr/bin/env node
 // 매일 1회 실행되는 완전 자동 파이프라인.
 // 사람의 승인 없이: 오늘의 주제 3개 선택 -> 중복되지 않는 실사 이미지 확보
-// -> 플랫폼별 재가공 -> 24시간 안에서 플랫폼마다 다른 랜덤 시간으로 발행 큐 등록.
+// -> 플랫폼별 재가공(Facebook엔 같은 주제의 블로그 글 링크 포함 — topic_blog_links.json이
+// 주제<->블로그 글 slug를 관리하고, sync-blog-posts.js가 매일 빠진 글을 채웁니다)
+// -> 24시간 안에서 플랫폼마다 다른 랜덤 시간으로 발행 큐 등록.
 // 실제 발행은 scheduler.yml(15분 간격)이 예약 시각이 된 항목을 이어서 처리합니다.
 require('dotenv').config();
 const log = require('../lib/logger');
@@ -14,6 +16,7 @@ const {
 } = require('../lib/scheduler/topic_rotation');
 const { curateContent } = require('../lib/curation/curate');
 const { addPost } = require('../lib/scheduler/queue');
+const { getBlogLinkForTopic, withUtm, BLOG_HOME_URL } = require('../lib/ingestion/topic_blog_links');
 
 // Instagram 카드뉴스(9슬라이드 디자인, CARD_DESIGN_SPEC.md)는 아직 실제로 만들어지지
 // 않았지만, 계정 자체 인사이트 데이터(단일 이미지 1~4회 노출 vs 영상 42~110회 노출)와
@@ -118,6 +121,13 @@ const queueOneTopic = async (topics, window) => {
   const now = new Date();
   const baseTime = randomTimeInWindow(now, window);
 
+  // SNS는 훅/요약만, 상세 비교와 근거는 블로그가 담당하는 순환 구조입니다. 오늘 이 주제의
+  // 블로그 글 slug는 topic_blog_links.json에 이미 있거나(기존 12개 주제는 다 있음),
+  // 없으면 sync-blog-posts.js가 같은 daily-topic.yml 실행 안에서 새로 써서 채웁니다 —
+  // 이 스크립트는 그 결과를 읽기만 하고, 매핑이 아직 없으면 블로그 홈으로 대체합니다.
+  const blogUrl = withUtm(getBlogLinkForTopic(item.source), 'facebook');
+  const hasSpecificPost = blogUrl !== withUtm(BLOG_HOME_URL, 'facebook');
+
   // 우선순위는 플랫폼마다 다릅니다(실측 데이터 근거는 파일 상단 주석 참고):
   // Facebook/Instagram = 영상(Reels) 우선(없으면 이미지 앨범/캐로셀), Threads = 이미지 우선(없으면 영상).
   // Facebook과 Instagram은 같은 video를 재사용합니다 — Pexels 쿼리를 두 번 하지 않기 위함.
@@ -138,11 +148,17 @@ const queueOneTopic = async (topics, window) => {
     // Threads 본문에 실제 URL을 넣으면 Threads 알고리즘이 그 포스트의 도달을 적극적으로
     // 억제한다(2026년 실측 — bio 링크는 예외). 그래서 본문엔 URL 대신 "링크는 bio에"
     // CTA만 남긴다 — 트레이드오프로 플랫폼별 UTM 클릭 추적은 더 이상 안 된다(bio 링크는
-    // 계정 공통이라 게시물 단위로 구분이 안 됨). Threads 프로필 bio에 블로그 링크가 실제로
-    // 걸려있는지는 별도로 확인 필요.
-    const text = platform === 'threads'
-      ? `${curated[platform]}\n\n📖 More on the blog — link in bio.`
-      : curated[platform];
+    // 계정 공통이라 게시물 단위로 구분이 안 됨). Threads/Instagram bio는 landinkorea.com으로
+    // 이미 연결되어 있습니다(2026-08-29 확인). Facebook은 링크 억제 이슈가 없으므로, 오늘
+    // 같은 주제의 블로그 글 slug가 있으면(topic_blog_links.json) 그 구체적인 글 주소를
+    // 바로 캡션에 넣어 SNS -> 블로그 -> (다시 SNS) 순환이 생기게 합니다. 아직 매핑이 없으면
+    // (아직 sync-blog-posts.js가 못 채운 새 주제) 블로그 홈 링크로 대체합니다.
+    let text = curated[platform];
+    if (platform === 'threads') {
+      text = `${text}\n\n📖 More on the blog — link in bio.`;
+    } else if (platform === 'facebook') {
+      text = `${text}\n\n📖 ${hasSpecificPost ? 'Full breakdown' : 'More on the blog'}: ${blogUrl}`;
+    }
 
     const queued = addPost({
       text,
