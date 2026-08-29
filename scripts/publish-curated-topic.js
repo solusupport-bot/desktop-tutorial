@@ -17,6 +17,7 @@ const { findKoreaVideo } = require('../lib/ingestion/pexels_video');
 const { findMusic } = require('../lib/ingestion/openverse_music');
 const { attachMusicToVideo, cleanupMergedVideo } = require('../lib/media/mix_audio');
 const { uploadMergedVideoAsset } = require('../lib/publishing/github_asset_host');
+const { watermarkAndHostImages } = require('../lib/media/watermark_images');
 const { PLATFORMS } = require('../lib/publishing');
 const { getPermalink } = require('../lib/publishing/permalink');
 const { getBlogLinkForTopic, withUtm } = require('../lib/ingestion/topic_blog_links');
@@ -62,8 +63,12 @@ const main = async () => {
   // 나왔습니다(2026-08-29 실측 버그). 이번에 고른 사진도 기록해 다음 실행이 또 겹치지
   // 않게 합니다.
   const recentImages = getRecentImageUrls();
-  const threadsImages = await fetchTopicImages(item.source, recentImages, seed, 2);
-  threadsImages.forEach(recordImageUrl);
+  const rawThreadsImages = await fetchTopicImages(item.source, recentImages, seed, 2);
+  rawThreadsImages.forEach(recordImageUrl); // 중복 체크는 항상 원본 Pexels URL 기준
+
+  // 무료 스톡 사진은 다른 계정도 그대로 쓰므로 Meta의 "실질적 편집 없는 재사용 콘텐츠"
+  // 단속(2026-05~) 대상이 될 수 있다 — 브랜드 배지를 합성해 그래픽 추가 신호를 남긴다.
+  const threadsImages = await watermarkAndHostImages(rawThreadsImages, 'solusupport-bot/desktop-tutorial', process.env.GITHUB_TOKEN);
   const singleImage = threadsImages[0] || null;
 
   // 관광공사(TourAPI) 4개 서비스 중 영상 원본을 제공하는 건 없습니다(Odii도 이미지+오디오+

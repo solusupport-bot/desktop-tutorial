@@ -11,6 +11,7 @@ const { fetchKoreaTravelTopics } = require('../lib/ingestion/korea_travel');
 const { fetchTopicImages } = require('../lib/ingestion/pexels_image');
 const { findKoreaVideo } = require('../lib/ingestion/pexels_video');
 const { TOPIC_IMAGES } = require('../lib/ingestion/topic_images');
+const { watermarkAndHostImages } = require('../lib/media/watermark_images');
 const {
   pickNextTopic, getRecentImageUrls, recordImageUrl, getRecentVideoUrls, recordVideoUrl
 } = require('../lib/scheduler/topic_rotation');
@@ -111,7 +112,13 @@ const queueOneTopic = async (topics, window) => {
   log.ok(`주제 선택: ${item.source} (구간 ${window[0]}~${window[1]}시)`);
 
   const images = await resolveImages(item.source, seed, IMAGE_CAROUSEL_TARGET);
-  images.forEach(recordImageUrl);
+  images.forEach(recordImageUrl); // 중복 체크는 항상 원본 Pexels URL 기준 — 워터마크 자산 URL은 매번 새로 생겨 의미가 없음
+
+  // Meta가 2026-05부터 사진/캐로셀에도 "실질적 편집 없는 재사용 콘텐츠" 단속을 확대함
+  // (컴퓨터 비전 기반 구조적 유사성 탐지, 30일 10건 이상이면 추천 노출 전체 배제).
+  // 무료 스톡 사진은 다른 계정들도 그대로 쓰므로, 브랜드 배지를 실제 이미지 픽셀에
+  // 합성해 "그래픽 추가"라는 실질적 편집 신호를 남긴다(2026-08-29 사용자 요청).
+  const watermarkedImages = await watermarkAndHostImages(images, 'solusupport-bot/desktop-tutorial', process.env.GITHUB_TOKEN);
 
   const videoQuery = item.source.replace(/\(.*?\)/g, '').trim();
   const video = await findKoreaVideo(process.env.PEXELS_API_KEY, videoQuery, getRecentVideoUrls());
@@ -132,9 +139,9 @@ const queueOneTopic = async (topics, window) => {
   // Facebook/Instagram = 영상(Reels) 우선(없으면 이미지 앨범/캐로셀), Threads = 이미지 우선(없으면 영상).
   // Facebook과 Instagram은 같은 video를 재사용합니다 — Pexels 쿼리를 두 번 하지 않기 위함.
   const mediaByPlatform = {
-    facebook: video ? { videoUrl: video } : { imageUrls: images },
-    threads: images.length > 0 ? { imageUrls: images } : (video ? { videoUrl: video } : {}),
-    instagram: video ? { videoUrl: video } : { imageUrls: images }
+    facebook: video ? { videoUrl: video } : { imageUrls: watermarkedImages },
+    threads: watermarkedImages.length > 0 ? { imageUrls: watermarkedImages } : (video ? { videoUrl: video } : {}),
+    instagram: video ? { videoUrl: video } : { imageUrls: watermarkedImages }
   };
 
   for (const platform of PLATFORMS) {
