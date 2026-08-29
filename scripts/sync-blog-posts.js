@@ -17,6 +17,7 @@ const log = require('../lib/logger');
 const { fetchKoreaTravelTopics } = require('../lib/ingestion/korea_travel');
 const { loadTopicSlugs, saveTopicSlugs } = require('../lib/ingestion/topic_blog_links');
 const { pushBlogPost } = require('../lib/publishing/blog_repo');
+const { askClaudeForJSON } = require('../lib/ai/claude');
 
 // 알려진 12개 주제의 카테고리는 사람이 직접 정한 값을 그대로 쓰고, 앞으로
 // korea_travel.js에 새 주제가 추가되면 키워드 기반으로 적당한 카테고리를 추정합니다.
@@ -63,8 +64,7 @@ const buildFallbackPost = (topic) => {
   };
 };
 
-const buildWithGemini = async (topic, apiKey) => {
-  const { GoogleGenerativeAI } = require('@google/generative-ai');
+const buildWithClaude = async (topic) => {
   const angles = Array.isArray(topic.content) ? topic.content : [topic.content];
   const prompt = `You write for "Land in Korea", an English-language blog for first-time visitors and foreign residents in Korea. Its brand promise is real comparisons and honest specifics, never generic listicles.
 
@@ -79,11 +79,7 @@ Only include an affiliate mention using literally {{klook}}, {{tripcom}}, or {{g
 Respond ONLY with this JSON shape (no explanation, no code fences):
 {"title": "...", "description": "...(under 160 chars, no quotes)", "body": "...(the markdown body, starting from the hook, no title heading)", "image_query": "...(2-5 words, a concrete visual scene)"}`;
 
-  const genAI = new GoogleGenerativeAI(apiKey);
-  const model = genAI.getGenerativeModel({ model: 'gemini-2.5-flash' });
-  const result = await model.startChat({ history: [] }).sendMessage(prompt);
-  const text = result.response.text().trim().replace(/^```json\s*|```$/g, '');
-  return JSON.parse(text);
+  return askClaudeForJSON(prompt);
 };
 
 const buildMarkdown = (slug, category, generated) => {
@@ -105,7 +101,6 @@ const main = async () => {
   log.section('Land in Korea 블로그 글 동기화 (SNS 주제 <-> 블로그 글)');
   const topics = await fetchKoreaTravelTopics();
   const slugs = loadTopicSlugs();
-  const apiKey = process.env.GEMINI_API_KEY;
   let created = 0;
 
   for (const topic of topics) {
@@ -116,14 +111,14 @@ const main = async () => {
     const category = guessCategory(topic.source);
 
     let generated;
-    if (apiKey) {
-      try {
-        generated = await buildWithGemini(topic, apiKey);
-      } catch (err) {
-        log.err(`Gemini 글 생성 실패 (${topic.source}): ${err.message}. 템플릿으로 대체합니다.`);
+    try {
+      generated = await buildWithClaude(topic);
+      if (!generated) {
+        log.warn('ANTHROPIC_API_KEY가 없어 템플릿으로 대체합니다.');
         generated = buildFallbackPost(topic);
       }
-    } else {
+    } catch (err) {
+      log.err(`Claude 글 생성 실패 (${topic.source}): ${err.message}. 템플릿으로 대체합니다.`);
       generated = buildFallbackPost(topic);
     }
 

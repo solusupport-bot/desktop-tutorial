@@ -17,6 +17,7 @@
     "setup:meta:github": "echo '📝 GitHub Actions에 다음 Secrets을 추가하세요:' && echo '   FB_PAGE_ACCESS_TOKEN' && echo '   FB_PAGE_ID' && echo '   IG_ACCESS_TOKEN' && echo '   IG_USER_ID' && echo '   THREADS_ACCESS_TOKEN' && echo '   THREADS_USER_ID' && open 'https://github.com/solusupport-bot/desktop-tutorial/settings/secrets/actions'"
   },
   "dependencies": {
+    "@anthropic-ai/sdk": "^0.122.0",
     "@google/generative-ai": "^0.24.1",
     "axios": "^1.13.6",
     "dotenv": "^17.3.1"

@@ -31,13 +31,13 @@ jobs:
 
       - name: Pick topic, fetch image, queue post
         env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
         run: node scripts/daily-auto-post.js
 
       - name: Write blog posts for any SNS topic that doesn't have one yet
         env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           BLOG_REPO_PAT: ${{ secrets.BLOG_REPO_PAT }}
         run: node scripts/sync-blog-posts.js
 
