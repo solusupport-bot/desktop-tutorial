@@ -29,6 +29,8 @@ jobs:
         with:
           node-version: '22'
       - run: npm ci
+      - name: Install ffmpeg (배경음악 합성용 — ubuntu-latest 기본 이미지에 없음, 2026-08-29 실측)
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg
       - name: Publish curated topic to all platforms
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
