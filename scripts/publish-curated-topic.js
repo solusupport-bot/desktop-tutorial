@@ -17,7 +17,7 @@ const { findKoreaVideo } = require('../lib/ingestion/pexels_video');
 const { findKoreaVideoPixabay } = require('../lib/ingestion/pixabay_video');
 const { findMusic } = require('../lib/ingestion/openverse_music');
 const { attachMusicToVideo, cleanupMergedVideo } = require('../lib/media/mix_audio');
-const { uploadMergedVideoAsset } = require('../lib/publishing/github_asset_host');
+const { uploadMediaFile } = require('../lib/publishing/github_raw_host');
 const { watermarkAndHostImages } = require('../lib/media/watermark_images');
 const { PLATFORMS } = require('../lib/publishing');
 const { getPermalink } = require('../lib/publishing/permalink');
@@ -94,8 +94,9 @@ const main = async () => {
       const mergedPath = await attachMusicToVideo(video, music.url);
       if (mergedPath) {
         try {
-          const assetName = `${item.source.replace(/[^a-z0-9]+/gi, '-').toLowerCase()}-${seed}.mp4`;
-          video = await uploadMergedVideoAsset('solusupport-bot/desktop-tutorial', process.env.GITHUB_TOKEN, mergedPath, assetName);
+          const assetName = `videos/${item.source.replace(/[^a-z0-9]+/gi, '-').toLowerCase()}-${seed}-${Date.now()}.mp4`;
+          const fs = require('fs');
+          video = await uploadMediaFile('solusupport-bot/desktop-tutorial', process.env.GITHUB_TOKEN, fs.readFileSync(mergedPath), assetName);
           recordMusicUrl(music.url);
           // CC BY/BY-SA는 저작자 표시가 조건이라, 캡션에 곡명/아티스트를 반드시 표시합니다.
           musicAttribution = `🎵 ${music.attribution}`;
