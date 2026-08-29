@@ -14,6 +14,7 @@ const { fetchKoreaTravelTopics } = require('../lib/ingestion/korea_travel');
 const { curateContent } = require('../lib/curation/curate');
 const { fetchTopicImages } = require('../lib/ingestion/pexels_image');
 const { findKoreaVideo } = require('../lib/ingestion/pexels_video');
+const { findKoreaVideoPixabay } = require('../lib/ingestion/pixabay_video');
 const { findMusic } = require('../lib/ingestion/openverse_music');
 const { attachMusicToVideo, cleanupMergedVideo } = require('../lib/media/mix_audio');
 const { uploadMergedVideoAsset } = require('../lib/publishing/github_asset_host');
@@ -75,7 +76,11 @@ const main = async () => {
   // 스크립트일 뿐 영상이 아님 — 2026-08-27 확인). 그래서 영상은 Pexels 무료 영상으로 확보합니다
   // (daily-auto-post.js와 동일한 우선순위: Facebook/Instagram = 영상 우선, 없으면 이미지).
   const videoQuery = item.source.replace(/\(.*?\)/g, '').trim();
-  let video = await findKoreaVideo(process.env.PEXELS_API_KEY, videoQuery, getRecentVideoUrls());
+  const recentVideos = getRecentVideoUrls();
+  let video = await findKoreaVideo(process.env.PEXELS_API_KEY, videoQuery, recentVideos);
+  if (!video && process.env.PIXABAY_API_KEY) {
+    video = await findKoreaVideoPixabay(process.env.PIXABAY_API_KEY, videoQuery, recentVideos);
+  }
   if (video) recordVideoUrl(video);
 
   // 영상에 배경음악을 붙입니다. 실제 차트 인기곡은 저작권 문제로 못 쓰므로(Meta 저작권

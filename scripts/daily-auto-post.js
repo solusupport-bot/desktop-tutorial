@@ -8,8 +8,10 @@
 require('dotenv').config();
 const log = require('../lib/logger');
 const { fetchKoreaTravelTopics } = require('../lib/ingestion/korea_travel');
-const { fetchTopicImages } = require('../lib/ingestion/pexels_image');
+const { fetchTopicImages, TOPIC_QUERIES } = require('../lib/ingestion/pexels_image');
 const { findKoreaVideo } = require('../lib/ingestion/pexels_video');
+const { findKoreaPhotoPixabay } = require('../lib/ingestion/pixabay_image');
+const { findKoreaVideoPixabay } = require('../lib/ingestion/pixabay_video');
 const { TOPIC_IMAGES } = require('../lib/ingestion/topic_images');
 const { watermarkAndHostImages } = require('../lib/media/watermark_images');
 const {
@@ -86,12 +88,27 @@ const withPlatformJitter = (time) => new Date(time.getTime() + (Math.random() * 
 /**
  * 실사 이미지를 최대 count장까지 중복 없이 확보합니다(기본 목표 5장 — 2026년 실측 데이터
  * 기준 Facebook 앨범/Threads 캐로셀 모두 사진 여러 장이 참여율에 가장 유리하다는 근거).
- * Pexels에서 하나도 못 구하면 과거의 고정 대표 이미지 1장으로 대체하고, 그마저 최근에
+ * Pexels만으로 count를 못 채우면 Pixabay(완전히 별개 카탈로그)로 부족분을 보충합니다
+ * (2026-08-29 사용자 요청 — 후보 풀 자체를 늘려 반복 문제를 근본적으로 줄임).
+ * 그래도 하나도 못 구하면 과거의 고정 대표 이미지 1장으로 대체하고, 그마저 최근에
  * 이미 쓴 것이면 중복을 감수하고 씁니다(이미지 없이 텍스트만 발행하는 것보다는 낫다는 판단).
  */
 const resolveImages = async (topicName, seed, count) => {
   const recent = getRecentImageUrls();
   const live = await fetchTopicImages(topicName, recent, seed, count);
+
+  if (live.length < count && process.env.PIXABAY_API_KEY) {
+    const used = [...recent, ...live];
+    const variants = TOPIC_QUERIES[topicName] || [];
+    for (let i = live.length; i < count && variants.length; i += 1) {
+      const query = variants[i % variants.length];
+      const url = await findKoreaPhotoPixabay(process.env.PIXABAY_API_KEY, query, used);
+      if (!url) continue;
+      live.push(url);
+      used.push(url);
+    }
+  }
+
   if (live.length > 0) return live;
 
   const fallback = TOPIC_IMAGES[topicName];
@@ -121,7 +138,13 @@ const queueOneTopic = async (topics, window) => {
   const watermarkedImages = await watermarkAndHostImages(images, 'solusupport-bot/desktop-tutorial', process.env.GITHUB_TOKEN);
 
   const videoQuery = item.source.replace(/\(.*?\)/g, '').trim();
-  const video = await findKoreaVideo(process.env.PEXELS_API_KEY, videoQuery, getRecentVideoUrls());
+  const recentVideos = getRecentVideoUrls();
+  let video = await findKoreaVideo(process.env.PEXELS_API_KEY, videoQuery, recentVideos);
+  // Pexels 영상은 주제당 검색어가 1개뿐이라 후보 풀이 가장 얇다 — Pixabay로 보충
+  // (2026-08-29 사용자 요청, 이미지와 동일한 근거).
+  if (!video && process.env.PIXABAY_API_KEY) {
+    video = await findKoreaVideoPixabay(process.env.PIXABAY_API_KEY, videoQuery, recentVideos);
+  }
   if (video) recordVideoUrl(video);
 
   const curated = await curateContent(item, PLATFORMS, seed);
