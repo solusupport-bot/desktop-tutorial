@@ -34,6 +34,26 @@ const findPostByShortcode = async (userId, accessToken, shortcode) => {
   return null;
 };
 
+/**
+ * threads.com/share/... 링크는 실제 게시물 permalink와 다른 별도 코드를 써서
+ * shortcode로 못 찾는 경우가 있다(2026-08-30 실측) — 그럴 때 원 게시물 "본문"의
+ * 일부로 대신 찾는다.
+ */
+const findPostByTextMatch = async (userId, accessToken, needle) => {
+  let url = `${THREADS_API_BASE}/${userId}/threads`;
+  let params = { fields: 'id,permalink,text', limit: 25, access_token: accessToken };
+  for (let page = 0; page < 8; page += 1) {
+    const res = await axios.get(url, { params, timeout: 15000 });
+    const match = (res.data?.data || []).find((p) => p.text && p.text.includes(needle));
+    if (match) return match;
+    const next = res.data?.paging?.next;
+    if (!next) break;
+    url = next;
+    params = undefined;
+  }
+  return null;
+};
+
 const findCommentContaining = async (postId, accessToken, needle) => {
   const res = await axios.get(`${THREADS_API_BASE}/${postId}/replies`, {
     params: { fields: 'id,text,username,permalink', access_token: accessToken },
@@ -66,15 +86,33 @@ const main = async () => {
     log.err('THREADS_ACCESS_TOKEN 또는 THREADS_USER_ID가 없습니다.');
     process.exit(1);
   }
-  if (!opts.shortcode || !opts.needle || !opts.reply) {
-    log.err('사용법: node scripts/reply-to-thread.js --shortcode <permalink shortcode> --needle "<원 댓글 일부>" --reply "<답글 내용>"');
+  // --list: 최근 게시물 id/permalink/본문 미리보기를 출력하고 끝낸다 — 공유 링크
+  // 코드가 실제 permalink와 안 맞을 때 육안으로 대상 게시물을 찾기 위함.
+  if (opts.list) {
+    let url = `${THREADS_API_BASE}/${userId}/threads`;
+    let params = { fields: 'id,permalink,text,timestamp', limit: 25, access_token: accessToken };
+    for (let page = 0; page < 4; page += 1) {
+      const res = await axios.get(url, { params, timeout: 15000 });
+      (res.data?.data || []).forEach((p) => log.ok(`[${p.timestamp}] ${p.id} ${p.permalink} :: ${(p.text || '').slice(0, 90)}`));
+      const next = res.data?.paging?.next;
+      if (!next) break;
+      url = next;
+      params = undefined;
+    }
+    return;
+  }
+
+  if ((!opts.shortcode && !opts.postneedle) || !opts.needle || !opts.reply) {
+    log.err('사용법: node scripts/reply-to-thread.js (--shortcode <permalink shortcode> | --postneedle "<원 게시물 본문 일부>") --needle "<원 댓글 일부>" --reply "<답글 내용>"\n또는: node scripts/reply-to-thread.js --list  (최근 게시물 목록만 출력)');
     process.exit(1);
   }
 
-  log.section(`shortcode ${opts.shortcode}로 게시물 찾는 중`);
-  const post = await findPostByShortcode(userId, accessToken, opts.shortcode);
+  log.section(opts.shortcode ? `shortcode ${opts.shortcode}로 게시물 찾는 중` : `본문 "${opts.postneedle}"로 게시물 찾는 중`);
+  const post = opts.shortcode
+    ? await findPostByShortcode(userId, accessToken, opts.shortcode)
+    : await findPostByTextMatch(userId, accessToken, opts.postneedle);
   if (!post) {
-    log.err(`shortcode "${opts.shortcode}"와 일치하는 게시물을 우리 계정에서 못 찾았습니다.`);
+    log.err(`일치하는 게시물을 우리 계정에서 못 찾았습니다.`);
     process.exit(1);
   }
   log.ok(`게시물 찾음: ${post.id} (${post.permalink})`);

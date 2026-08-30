@@ -3,17 +3,27 @@ name: Reply To Threads Comment
 on:
   workflow_dispatch:
     inputs:
+      mode:
+        description: 'list = 최근 게시물 목록만 출력 / reply = 실제 답글 발행'
+        required: false
+        type: choice
+        options: ['reply', 'list']
+        default: 'reply'
       shortcode:
-        description: '답글 달 게시물의 permalink shortcode (예: IZOyhR0qZ)'
-        required: true
+        description: '답글 달 게시물의 permalink shortcode (예: IZOyhR0qZ) — postneedle과 둘 중 하나'
+        required: false
+        type: string
+      postneedle:
+        description: '공유 링크 코드가 안 맞을 때, 원 게시물 본문의 일부로 대신 찾기'
+        required: false
         type: string
       needle:
-        description: '찾을 원 댓글의 일부 텍스트'
-        required: true
+        description: '찾을 원 댓글의 일부 텍스트 (mode=reply일 때 필수)'
+        required: false
         type: string
       reply:
-        description: '달 답글 내용'
-        required: true
+        description: '달 답글 내용 (mode=reply일 때 필수)'
+        required: false
         type: string
 
 jobs:
@@ -25,9 +35,17 @@ jobs:
         with:
           node-version: '22'
       - run: npm ci
-      - name: Reply to comment
+      - name: List recent posts
+        if: inputs.mode == 'list'
         env:
           THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
           THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
-        run: node scripts/reply-to-thread.js --shortcode "${{ inputs.shortcode }}" --needle "${{ inputs.needle }}" --reply "${{ inputs.reply }}"
+        run: node scripts/reply-to-thread.js --list
+        shell: bash
+      - name: Reply to comment
+        if: inputs.mode != 'list'
+        env:
+          THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+          THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
+        run: node scripts/reply-to-thread.js --shortcode "${{ inputs.shortcode }}" --postneedle "${{ inputs.postneedle }}" --needle "${{ inputs.needle }}" --reply "${{ inputs.reply }}"
         shell: bash
