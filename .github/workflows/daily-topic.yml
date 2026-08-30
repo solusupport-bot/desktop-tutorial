@@ -30,16 +30,17 @@ jobs:
       - run: npm ci
 
       - name: Pick topic, fetch image, queue post
+        # ANTHROPIC_API_KEY를 의도적으로 넣지 않는다 — 캡션은 미리 써둔
+        # data/sns_content_queue.json을 쓰거나(우선), 없으면 무료 규칙 기반
+        # 템플릿으로 대체된다(2026-08-30, 자동 실행 중 유료 API 호출 금지).
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          ANTHROPIC_WORKSPACE_ID: ${{ secrets.ANTHROPIC_WORKSPACE_ID }}
           PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
         run: node scripts/daily-auto-post.js
 
       - name: Write blog posts for any SNS topic that doesn't have one yet
+        # 마찬가지로 ANTHROPIC_API_KEY 없이 실행 — data/blog_content_queue.json에
+        # 미리 써둔 글이 있으면 그걸 쓰고, 없으면 템플릿으로 대체된다.
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          ANTHROPIC_WORKSPACE_ID: ${{ secrets.ANTHROPIC_WORKSPACE_ID }}
           BLOG_REPO_PAT: ${{ secrets.BLOG_REPO_PAT }}
         run: node scripts/sync-blog-posts.js
 
