@@ -8,9 +8,12 @@
 require('dotenv').config();
 const log = require('../lib/logger');
 const { fetchKoreaTravelTopics } = require('../lib/ingestion/korea_travel');
-const { fetchTopicImages } = require('../lib/ingestion/pexels_image');
+const { fetchTopicImages, TOPIC_QUERIES } = require('../lib/ingestion/pexels_image');
 const { findKoreaVideo } = require('../lib/ingestion/pexels_video');
+const { findKoreaPhotoPixabay } = require('../lib/ingestion/pixabay_image');
+const { findKoreaVideoPixabay } = require('../lib/ingestion/pixabay_video');
 const { TOPIC_IMAGES } = require('../lib/ingestion/topic_images');
+const { watermarkAndHostImages } = require('../lib/media/watermark_images');
 const {
   pickNextTopic, getRecentImageUrls, recordImageUrl, getRecentVideoUrls, recordVideoUrl
 } = require('../lib/scheduler/topic_rotation');
@@ -85,12 +88,27 @@ const withPlatformJitter = (time) => new Date(time.getTime() + (Math.random() * 
 /**
  * 실사 이미지를 최대 count장까지 중복 없이 확보합니다(기본 목표 5장 — 2026년 실측 데이터
  * 기준 Facebook 앨범/Threads 캐로셀 모두 사진 여러 장이 참여율에 가장 유리하다는 근거).
- * Pexels에서 하나도 못 구하면 과거의 고정 대표 이미지 1장으로 대체하고, 그마저 최근에
+ * Pexels만으로 count를 못 채우면 Pixabay(완전히 별개 카탈로그)로 부족분을 보충합니다
+ * (2026-08-29 사용자 요청 — 후보 풀 자체를 늘려 반복 문제를 근본적으로 줄임).
+ * 그래도 하나도 못 구하면 과거의 고정 대표 이미지 1장으로 대체하고, 그마저 최근에
  * 이미 쓴 것이면 중복을 감수하고 씁니다(이미지 없이 텍스트만 발행하는 것보다는 낫다는 판단).
  */
 const resolveImages = async (topicName, seed, count) => {
   const recent = getRecentImageUrls();
   const live = await fetchTopicImages(topicName, recent, seed, count);
+
+  if (live.length < count && process.env.PIXABAY_API_KEY) {
+    const used = [...recent, ...live];
+    const variants = TOPIC_QUERIES[topicName] || [];
+    for (let i = live.length; i < count && variants.length; i += 1) {
+      const query = variants[i % variants.length];
+      const url = await findKoreaPhotoPixabay(process.env.PIXABAY_API_KEY, query, used);
+      if (!url) continue;
+      live.push(url);
+      used.push(url);
+    }
+  }
+
   if (live.length > 0) return live;
 
   const fallback = TOPIC_IMAGES[topicName];
@@ -111,10 +129,22 @@ const queueOneTopic = async (topics, window) => {
   log.ok(`주제 선택: ${item.source} (구간 ${window[0]}~${window[1]}시)`);
 
   const images = await resolveImages(item.source, seed, IMAGE_CAROUSEL_TARGET);
-  images.forEach(recordImageUrl);
+  images.forEach(recordImageUrl); // 중복 체크는 항상 원본 Pexels URL 기준 — 워터마크 자산 URL은 매번 새로 생겨 의미가 없음
+
+  // Meta가 2026-05부터 사진/캐로셀에도 "실질적 편집 없는 재사용 콘텐츠" 단속을 확대함
+  // (컴퓨터 비전 기반 구조적 유사성 탐지, 30일 10건 이상이면 추천 노출 전체 배제).
+  // 무료 스톡 사진은 다른 계정들도 그대로 쓰므로, 브랜드 배지를 실제 이미지 픽셀에
+  // 합성해 "그래픽 추가"라는 실질적 편집 신호를 남긴다(2026-08-29 사용자 요청).
+  const watermarkedImages = await watermarkAndHostImages(images, 'solusupport-bot/desktop-tutorial', process.env.GITHUB_TOKEN);
 
   const videoQuery = item.source.replace(/\(.*?\)/g, '').trim();
-  const video = await findKoreaVideo(process.env.PEXELS_API_KEY, videoQuery, getRecentVideoUrls());
+  const recentVideos = getRecentVideoUrls();
+  let video = await findKoreaVideo(process.env.PEXELS_API_KEY, videoQuery, recentVideos);
+  // Pexels 영상은 주제당 검색어가 1개뿐이라 후보 풀이 가장 얇다 — Pixabay로 보충
+  // (2026-08-29 사용자 요청, 이미지와 동일한 근거).
+  if (!video && process.env.PIXABAY_API_KEY) {
+    video = await findKoreaVideoPixabay(process.env.PIXABAY_API_KEY, videoQuery, recentVideos);
+  }
   if (video) recordVideoUrl(video);
 
   const curated = await curateContent(item, PLATFORMS, seed);
@@ -132,9 +162,9 @@ const queueOneTopic = async (topics, window) => {
   // Facebook/Instagram = 영상(Reels) 우선(없으면 이미지 앨범/캐로셀), Threads = 이미지 우선(없으면 영상).
   // Facebook과 Instagram은 같은 video를 재사용합니다 — Pexels 쿼리를 두 번 하지 않기 위함.
   const mediaByPlatform = {
-    facebook: video ? { videoUrl: video } : { imageUrls: images },
-    threads: images.length > 0 ? { imageUrls: images } : (video ? { videoUrl: video } : {}),
-    instagram: video ? { videoUrl: video } : { imageUrls: images }
+    facebook: video ? { videoUrl: video } : { imageUrls: watermarkedImages },
+    threads: watermarkedImages.length > 0 ? { imageUrls: watermarkedImages } : (video ? { videoUrl: video } : {}),
+    instagram: video ? { videoUrl: video } : { imageUrls: watermarkedImages }
   };
 
   for (const platform of PLATFORMS) {
