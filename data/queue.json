@@ -1152,9 +1152,14 @@
       "threads"
     ],
     "scheduledAt": "2026-08-30T03:43:37.647Z",
-    "status": "pending",
-    "results": {},
-    "createdAt": "2026-08-29T06:55:48.022Z"
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "17874154743562039"
+      }
+    },
+    "createdAt": "2026-08-29T06:55:48.022Z",
+    "processedAt": "2026-08-30T05:54:48.237Z"
   },
   {
     "id": "b7155924-acb6-4aec-8c31-ae33fc2888c1",
@@ -1165,9 +1170,14 @@
       "facebook"
     ],
     "scheduledAt": "2026-08-30T03:40:42.256Z",
-    "status": "pending",
-    "results": {},
-    "createdAt": "2026-08-29T06:55:48.023Z"
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "2305231893577696"
+      }
+    },
+    "createdAt": "2026-08-29T06:55:48.023Z",
+    "processedAt": "2026-08-30T05:54:59.084Z"
   },
   {
     "id": "8dbe8da8-de44-4657-8340-e504e40c6e3f",
@@ -1178,9 +1188,14 @@
       "instagram"
     ],
     "scheduledAt": "2026-08-30T03:57:22.242Z",
-    "status": "pending",
-    "results": {},
-    "createdAt": "2026-08-29T06:55:48.024Z"
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "17978969684903456"
+      }
+    },
+    "createdAt": "2026-08-29T06:55:48.024Z",
+    "processedAt": "2026-08-30T05:55:59.679Z"
   },
   {
     "id": "55f26c78-5010-4719-9c11-700c05cf4cdc",
@@ -1317,9 +1332,14 @@
       "threads"
     ],
     "scheduledAt": "2026-08-30T03:59:10.508Z",
-    "status": "pending",
-    "results": {},
-    "createdAt": "2026-08-29T07:11:02.679Z"
+    "status": "partial",
+    "results": {
+      "threads": {
+        "error": "publish failed"
+      }
+    },
+    "createdAt": "2026-08-29T07:11:02.679Z",
+    "processedAt": "2026-08-30T05:56:29.984Z"
   },
   {
     "id": "09f0f1d0-0930-482e-947e-efdec6b1e560",
@@ -1330,9 +1350,14 @@
       "facebook"
     ],
     "scheduledAt": "2026-08-30T03:10:14.849Z",
-    "status": "pending",
-    "results": {},
-    "createdAt": "2026-08-29T07:11:02.681Z"
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "1064294122669158"
+      }
+    },
+    "createdAt": "2026-08-29T07:11:02.681Z",
+    "processedAt": "2026-08-30T05:56:35.025Z"
   },
   {
     "id": "f0d15b74-c43b-432a-bf07-1f20e887d464",
@@ -1343,9 +1368,14 @@
       "instagram"
     ],
     "scheduledAt": "2026-08-30T04:26:36.933Z",
-    "status": "pending",
-    "results": {},
-    "createdAt": "2026-08-29T07:11:02.682Z"
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "18116827975939898"
+      }
+    },
+    "createdAt": "2026-08-29T07:11:02.682Z",
+    "processedAt": "2026-08-30T05:57:08.482Z"
   },
   {
     "id": "e61e40a6-32fc-4835-b453-f1ef5274ea84",
@@ -1422,9 +1452,14 @@
       "threads"
     ],
     "scheduledAt": "2026-08-30T01:06:58.449Z",
-    "status": "pending",
-    "results": {},
-    "createdAt": "2026-08-29T07:11:05.509Z"
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "17941996875342119"
+      }
+    },
+    "createdAt": "2026-08-29T07:11:05.509Z",
+    "processedAt": "2026-08-30T05:57:47.474Z"
   },
   {
     "id": "5615551c-76a7-459e-afc1-0614ad2107ac",
@@ -1435,9 +1470,14 @@
       "facebook"
     ],
     "scheduledAt": "2026-08-30T01:50:14.847Z",
-    "status": "pending",
-    "results": {},
-    "createdAt": "2026-08-29T07:11:05.511Z"
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "1604107957970497"
+      }
+    },
+    "createdAt": "2026-08-29T07:11:05.511Z",
+    "processedAt": "2026-08-30T05:57:51.130Z"
   },
   {
     "id": "d1350475-b919-4d7d-8a4f-5b37a73d9860",
@@ -1448,9 +1488,14 @@
       "instagram"
     ],
     "scheduledAt": "2026-08-30T01:09:48.751Z",
-    "status": "pending",
-    "results": {},
-    "createdAt": "2026-08-29T07:11:05.513Z"
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "18025690154899981"
+      }
+    },
+    "createdAt": "2026-08-29T07:11:05.513Z",
+    "processedAt": "2026-08-30T05:58:24.920Z"
   },
   {
     "id": "41578114-98aa-4fce-afb7-3a5e00ca4ea5",
