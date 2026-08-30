@@ -1583,9 +1583,14 @@
       "instagram"
     ],
     "scheduledAt": "2026-08-30T15:04:41.426Z",
-    "status": "pending",
-    "results": {},
-    "createdAt": "2026-08-30T05:12:04.037Z"
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "17905419645519926"
+      }
+    },
+    "createdAt": "2026-08-30T05:12:04.037Z",
+    "processedAt": "2026-08-30T15:29:36.916Z"
   },
   {
     "id": "d3cab280-6c9d-42d1-b86d-295ecd8081cd",
