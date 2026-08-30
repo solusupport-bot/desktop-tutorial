@@ -22,10 +22,9 @@ webhook events in real time.
      `IG_ACCESS_TOKEN` already used by `scheduler.yml` may already carry this
      scope — check under **Graph API Explorer → Permissions** before reusing
      it; if not, regenerate one with that scope added.
-   - `GEMINI_API_KEY` — a free-tier key from https://aistudio.google.com/apikey
-     (Google account, no billing required for the default rate limits).
-     Without it, the bot still replies correctly using the fact-lookup
-     fallback in `app.py`, just without Gemini's paraphrasing.
+   - `ANTHROPIC_API_KEY` — a separate key for this service (Console →
+     API Keys). Without it, the bot still replies correctly using the
+     fact-lookup fallback in `app.py`, just without Claude's paraphrasing.
 4. Deploy. Render gives you a public URL like
    `https://land-in-korea-comment-bot.onrender.com`.
 
