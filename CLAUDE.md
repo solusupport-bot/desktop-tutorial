@@ -88,6 +88,22 @@ agent-reach install --env=auto --system --channels=<channel_name>
 
 ---
 
+## 📝 블로그 글 작성 = SNS 게시물과 동일한 기준 (2026-08-30 규칙, 사용자가 명시적으로 지시)
+
+**블로그 글도 SNS 캡션과 완전히 똑같은 원칙을 따른다.** 별도 저장소(`land-in-korea-blog`)라고 예외를 두지 않는다.
+
+- **자동화 실행 중 유료 API 호출 금지**: `daily-topic.yml`의 블로그 글 작성 단계(`scripts/sync-blog-posts.js`)는
+  `ANTHROPIC_API_KEY` 없이 돈다. 우선순위는 SNS 캡션과 동일하게 (1) `data/blog_content_queue.json`에
+  미리 써둔 글 → (2) 무료 규칙 기반 템플릿(`buildFallbackPost`) 순이다 (`lib/scheduler/prewritten_content.js`
+  의 `blogContentQueue` 참고). 새 주제가 추가돼 블로그 글이 필요해지면, Claude Code 세션(API 과금 없는
+  경로)에서 미리 써서 큐에 채워두는 걸 SNS 캡션 사전작성과 동일하게 우선한다.
+- **사실 근거 원칙도 동일**: "다른 계정 댓글 자동 답장" 규칙(아래 섹션)과 마찬가지로, 블로그 글도
+  `lib/ingestion/korea_travel.js`에 있는 실제 facts만 근거로 쓰고 지어내지 않는다.
+- 이 규칙은 SNS 자동화 쪽에서 지출 이중화 문제를 해결한 것과 정확히 같은 이유(자동 실행 중 예상 못 한
+  API 과금 방지)로 도입됐다 — 앞으로 블로그 파이프라인을 건드릴 때마다 이 기준을 먼저 확인할 것.
+
+---
+
 ## 🔧 참고 리소스: Claude Code 플러그인 마켓플레이스
 
 - **`davepoon/buildwithclaude`** (https://github.com/davepoon/buildwithclaude) — Claude Code용 에이전트(117개)·커맨드(175개)·훅(28개)·스킬(26개)·플러그인(51개) 모음 마켓플레이스.
