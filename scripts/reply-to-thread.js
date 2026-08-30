@@ -54,13 +54,28 @@ const findPostByTextMatch = async (userId, accessToken, needle) => {
   return null;
 };
 
+/**
+ * 댓글 목록도 게시물 목록처럼 페이지네이션이 있을 수 있는데, 예전 버전은 첫
+ * 페이지만 봐서 뒷페이지에 있는 댓글을 놓쳤을 수 있다(2026-08-30 — 정확히 이
+ * 문제인지 확인하려고 못 찾은 경우 실제로 받은 댓글 목록을 로그로 남긴다).
+ */
 const findCommentContaining = async (postId, accessToken, needle) => {
-  const res = await axios.get(`${THREADS_API_BASE}/${postId}/replies`, {
-    params: { fields: 'id,text,username,permalink', access_token: accessToken },
-    timeout: 15000
-  });
-  const comments = res.data?.data || [];
-  return comments.find((c) => (c.text || '').includes(needle)) || null;
+  let url = `${THREADS_API_BASE}/${postId}/replies`;
+  let params = { fields: 'id,text,username,permalink', access_token: accessToken };
+  const seen = [];
+  for (let page = 0; page < 5; page += 1) {
+    const res = await axios.get(url, { params, timeout: 15000 });
+    const comments = res.data?.data || [];
+    seen.push(...comments);
+    const match = comments.find((c) => (c.text || '').includes(needle));
+    if (match) return match;
+    const next = res.data?.paging?.next;
+    if (!next) break;
+    url = next;
+    params = undefined;
+  }
+  log.warn(`못 찾음 — 실제로 조회된 댓글 ${seen.length}건: ${seen.map((c) => `@${c.username}: "${(c.text || '').slice(0, 60)}"`).join(' | ') || '(없음)'}`);
+  return null;
 };
 
 const waitForThreadsContainer = async (creationId, accessToken) => {
