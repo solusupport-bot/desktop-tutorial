@@ -17,6 +17,10 @@ on:
         description: '공유 링크 코드가 안 맞을 때, 원 게시물 본문의 일부로 대신 찾기'
         required: false
         type: string
+      replyshortcode:
+        description: '댓글 자체의 permalink shortcode (threads.com/@댓글작성자/post/CODE) — 원 게시물을 몰라도 이걸로 바로 찾음'
+        required: false
+        type: string
       needle:
         description: '찾을 원 댓글의 일부 텍스트 (mode=reply일 때 필수)'
         required: false
@@ -47,5 +51,5 @@ jobs:
         env:
           THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
           THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
-        run: node scripts/reply-to-thread.js --shortcode "${{ inputs.shortcode }}" --postneedle "${{ inputs.postneedle }}" --needle "${{ inputs.needle }}" --reply "${{ inputs.reply }}"
+        run: node scripts/reply-to-thread.js --shortcode "${{ inputs.shortcode }}" --postneedle "${{ inputs.postneedle }}" --replyshortcode "${{ inputs.replyshortcode }}" --needle "${{ inputs.needle }}" --reply "${{ inputs.reply }}"
         shell: bash
