@@ -13,5 +13,5 @@ services:
         sync: false
       - key: VERIFY_TOKEN
         sync: false
-      - key: GEMINI_API_KEY
+      - key: ANTHROPIC_API_KEY
         sync: false

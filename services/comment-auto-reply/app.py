@@ -16,6 +16,12 @@ except ImportError:
     def detect(_x):
         return "ko"
 
+try:
+    import anthropic
+    ANTHROPIC_AVAILABLE = True
+except ImportError:
+    ANTHROPIC_AVAILABLE = False
+
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
 log = logging.getLogger("comment-auto-reply")
 
@@ -24,12 +30,10 @@ app = Flask(__name__)
 ACCESS_TOKEN = os.getenv("ACCESS_TOKEN", "")           # Page/IG Graph API access token, used to actually post replies
 APP_SECRET = os.getenv("APP_SECRET", "")               # Meta app secret, used to verify webhook signatures
 VERIFY_TOKEN = os.getenv("VERIFY_TOKEN", "landinkorea_verify")
-# 원문 SNS 글은 사람(Claude Code 세션)이 미리 써두는 방식으로 바꿨지만, 댓글 답장은 실시간으로
-# 와야 해서 자동화가 계속 필요하다 — 유료 Claude API 대신 무료 티어가 있는 Gemini를 쓴다
-# (2026-08-30 사용자 요청: 원문 작성 + 댓글 답장 둘 다 유료 API면 비용이 이중으로 나감).
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "")
-GEMINI_MODEL = os.getenv("GEMINI_MODEL", "gemini-2.5-flash")
-GEMINI_API_BASE = "https://generativelanguage.googleapis.com/v1beta"
+# Gemini로 전환을 시도했으나 이 계정의 Google Cloud 결제 계정 설정이 막혀있어(2026-08-30
+# 실측 — 새 프로젝트를 3번 만들어도 동일하게 "project denied" 오류) 리스크 없이 바로 쓸 수
+# 있는 기존 Claude API로 되돌림 — 사용자가 이미 충전해둔 크레딧을 쓰는 쪽을 선택함.
+ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY", "")
 GRAPH_API_BASE = os.getenv("GRAPH_API_BASE", "https://graph.facebook.com/v21.0")
 
 BLOG_BASE = "https://solusupport-bot.github.io/desktop-tutorial/land-in-korea-blog/site"
@@ -109,7 +113,7 @@ PROCESSED_COMMENTS = set()
 LAST_REPLY_BY_USER = {}
 USER_COOLDOWN_SECONDS = 120  # 같은 사람이 짧은 시간 안에 여러 댓글을 달아도 과도하게 반복 응답하지 않도록
 HOURLY_COUNT = deque()
-HOURLY_LIMIT = 12  # Gemini/Graph API 호출 폭주 방지용 시간당 상한
+HOURLY_LIMIT = 12  # Claude/Graph API 비용 폭주 방지용 시간당 상한
 
 
 def is_rate_limited():
@@ -154,8 +158,8 @@ def build_fallback_reply(text, lang, matched_topics):
     return f"{topic['facts_ko']} 더 자세한 내용은 여기서 확인하세요: {topic['blog']}"
 
 
-def call_gemini(comment_text, lang, matched_topics):
-    if not GEMINI_API_KEY:
+def call_claude(comment_text, lang, matched_topics):
+    if not (ANTHROPIC_AVAILABLE and ANTHROPIC_API_KEY):
         return build_fallback_reply(comment_text, lang, matched_topics)
 
     facts = [KNOWLEDGE_BASE[t]["facts_ko" if lang != "en" else "facts_en"] for t in matched_topics]
@@ -171,21 +175,17 @@ def call_gemini(comment_text, lang, matched_topics):
         "end with a genuine follow-up question about their trip."
     )
     try:
-        resp = requests.post(
-            f"{GEMINI_API_BASE}/models/{GEMINI_MODEL}:generateContent",
-            params={"key": GEMINI_API_KEY},
-            json={
-                "system_instruction": {"parts": [{"text": system}]},
-                "contents": [{"role": "user", "parts": [{"text": comment_text}]}],
-                "generationConfig": {"temperature": 0.7, "maxOutputTokens": 250},
-            },
-            timeout=15,
+        client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
+        msg = client.messages.create(
+            model="claude-opus-5",
+            max_tokens=250,
+            temperature=0.7,
+            system=system,
+            messages=[{"role": "user", "content": comment_text}],
         )
-        resp.raise_for_status()
-        data = resp.json()
-        return data["candidates"][0]["content"]["parts"][0]["text"].strip()
+        return msg.content[0].text
     except Exception as exc:
-        log.warning("Gemini 호출 실패, 사실 기반 폴백으로 대체: %s", exc)
+        log.warning("Claude 호출 실패, 사실 기반 폴백으로 대체: %s", exc)
         return build_fallback_reply(comment_text, lang, matched_topics)
 
 
@@ -253,7 +253,7 @@ def webhook():
 
             lang = detect_language_safe(text)
             matched_topics = find_matching_topics(text)
-            reply = call_gemini(text, lang, matched_topics)
+            reply = call_claude(text, lang, matched_topics)
 
             post_reply_to_meta(comment_id, reply)
 
