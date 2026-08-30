@@ -18,6 +18,7 @@ const { fetchKoreaTravelTopics } = require('../lib/ingestion/korea_travel');
 const { loadTopicSlugs, saveTopicSlugs } = require('../lib/ingestion/topic_blog_links');
 const { pushBlogPost } = require('../lib/publishing/blog_repo');
 const { askClaudeForJSON } = require('../lib/ai/claude');
+const { blogContentQueue } = require('../lib/scheduler/prewritten_content');
 
 // 알려진 12개 주제의 카테고리는 사람이 직접 정한 값을 그대로 쓰고, 앞으로
 // korea_travel.js에 새 주제가 추가되면 키워드 기반으로 적당한 카테고리를 추정합니다.
@@ -110,16 +111,23 @@ const main = async () => {
     const slug = slugify(topic.source);
     const category = guessCategory(topic.source);
 
-    let generated;
-    try {
-      generated = await buildWithClaude(topic);
-      if (!generated) {
-        log.warn('ANTHROPIC_API_KEY가 없어 템플릿으로 대체합니다.');
+    // 우선순위: 미리 써둔 큐(대화형 세션에서 API 과금 없이 작성) -> Claude 실시간 호출(키가
+    // 있을 때만) -> 템플릿. daily-topic.yml에는 ANTHROPIC_API_KEY를 넣지 않으므로 자동
+    // 실행 중엔 큐 아니면 템플릿만 쓰인다(2026-08-30, curate.js와 동일한 방침).
+    let generated = blogContentQueue.get(topic.source);
+    if (generated) {
+      log.ok(`사전 작성된 블로그 글 사용 (${topic.source}, API 호출 없음)`);
+    } else {
+      try {
+        generated = await buildWithClaude(topic);
+        if (!generated) {
+          log.warn('ANTHROPIC_API_KEY가 없어 템플릿으로 대체합니다.');
+          generated = buildFallbackPost(topic);
+        }
+      } catch (err) {
+        log.err(`Claude 글 생성 실패 (${topic.source}): ${err.message}. 템플릿으로 대체합니다.`);
         generated = buildFallbackPost(topic);
       }
-    } catch (err) {
-      log.err(`Claude 글 생성 실패 (${topic.source}): ${err.message}. 템플릿으로 대체합니다.`);
-      generated = buildFallbackPost(topic);
     }
 
     const markdown = buildMarkdown(slug, category, generated);
