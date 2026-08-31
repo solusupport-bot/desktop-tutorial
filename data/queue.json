@@ -1032,9 +1032,14 @@
       "threads"
     ],
     "scheduledAt": "2026-08-29T15:19:28.871Z",
-    "status": "pending",
-    "results": {},
-    "createdAt": "2026-08-29T02:56:52.138Z"
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "17957166465236053"
+      }
+    },
+    "createdAt": "2026-08-29T02:56:52.138Z",
+    "processedAt": "2026-08-29T17:52:36.613Z"
   },
   {
     "id": "55a1352a-ea23-4561-aec5-bcf665f86eb5",
@@ -1063,9 +1068,14 @@
       "instagram"
     ],
     "scheduledAt": "2026-08-29T15:42:31.180Z",
-    "status": "pending",
-    "results": {},
-    "createdAt": "2026-08-29T02:56:52.140Z"
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "18103382464958617"
+      }
+    },
+    "createdAt": "2026-08-29T02:56:52.140Z",
+    "processedAt": "2026-08-29T17:53:00.748Z"
   },
   {
     "id": "ae369500-4221-4b8b-a831-fbb0e7afd39e",
@@ -1082,9 +1092,14 @@
       "threads"
     ],
     "scheduledAt": "2026-08-29T23:44:13.016Z",
-    "status": "pending",
-    "results": {},
-    "createdAt": "2026-08-29T02:56:53.440Z"
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18091279187149905"
+      }
+    },
+    "createdAt": "2026-08-29T02:56:53.440Z",
+    "processedAt": "2026-08-30T00:40:05.676Z"
   },
   {
     "id": "57266a93-fe52-4605-828d-d314163c98fc",
@@ -1095,9 +1110,14 @@
       "facebook"
     ],
     "scheduledAt": "2026-08-29T23:51:59.599Z",
-    "status": "pending",
-    "results": {},
-    "createdAt": "2026-08-29T02:56:53.440Z"
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "4632912226944096"
+      }
+    },
+    "createdAt": "2026-08-29T02:56:53.440Z",
+    "processedAt": "2026-08-30T00:40:15.938Z"
   },
   {
     "id": "cf0d0bde-a164-4fea-8d2e-723439fb3076",
@@ -1108,9 +1128,14 @@
       "instagram"
     ],
     "scheduledAt": "2026-08-29T22:40:33.773Z",
-    "status": "pending",
-    "results": {},
-    "createdAt": "2026-08-29T02:56:53.441Z"
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "18084643517273155"
+      }
+    },
+    "createdAt": "2026-08-29T02:56:53.441Z",
+    "processedAt": "2026-08-30T00:41:14.327Z"
   },
   {
     "id": "5efeb90a-5d88-43b9-b93e-2c64c1f53b0b",
@@ -1127,9 +1152,14 @@
       "threads"
     ],
     "scheduledAt": "2026-08-30T03:43:37.647Z",
-    "status": "pending",
-    "results": {},
-    "createdAt": "2026-08-29T06:55:48.022Z"
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "17874154743562039"
+      }
+    },
+    "createdAt": "2026-08-29T06:55:48.022Z",
+    "processedAt": "2026-08-30T05:54:48.237Z"
   },
   {
     "id": "b7155924-acb6-4aec-8c31-ae33fc2888c1",
@@ -1140,9 +1170,14 @@
       "facebook"
     ],
     "scheduledAt": "2026-08-30T03:40:42.256Z",
-    "status": "pending",
-    "results": {},
-    "createdAt": "2026-08-29T06:55:48.023Z"
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "2305231893577696"
+      }
+    },
+    "createdAt": "2026-08-29T06:55:48.023Z",
+    "processedAt": "2026-08-30T05:54:59.084Z"
   },
   {
     "id": "8dbe8da8-de44-4657-8340-e504e40c6e3f",
@@ -1153,9 +1188,14 @@
       "instagram"
     ],
     "scheduledAt": "2026-08-30T03:57:22.242Z",
-    "status": "pending",
-    "results": {},
-    "createdAt": "2026-08-29T06:55:48.024Z"
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "17978969684903456"
+      }
+    },
+    "createdAt": "2026-08-29T06:55:48.024Z",
+    "processedAt": "2026-08-30T05:55:59.679Z"
   },
   {
     "id": "55f26c78-5010-4719-9c11-700c05cf4cdc",
@@ -1232,9 +1272,14 @@
       "threads"
     ],
     "scheduledAt": "2026-08-29T23:08:03.689Z",
-    "status": "pending",
-    "results": {},
-    "createdAt": "2026-08-29T06:55:52.553Z"
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18138456058719212"
+      }
+    },
+    "createdAt": "2026-08-29T06:55:52.553Z",
+    "processedAt": "2026-08-30T00:42:24.342Z"
   },
   {
     "id": "e94bacdd-35a6-48f9-84fb-964149283f82",
@@ -1245,9 +1290,14 @@
       "facebook"
     ],
     "scheduledAt": "2026-08-29T23:11:58.715Z",
-    "status": "pending",
-    "results": {},
-    "createdAt": "2026-08-29T06:55:52.555Z"
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "1589595152823128"
+      }
+    },
+    "createdAt": "2026-08-29T06:55:52.555Z",
+    "processedAt": "2026-08-30T00:42:30.734Z"
   },
   {
     "id": "b825997f-7037-49fd-9ab0-14f182485961",
@@ -1258,9 +1308,14 @@
       "instagram"
     ],
     "scheduledAt": "2026-08-29T23:05:01.021Z",
-    "status": "pending",
-    "results": {},
-    "createdAt": "2026-08-29T06:55:52.556Z"
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "18102355460627513"
+      }
+    },
+    "createdAt": "2026-08-29T06:55:52.556Z",
+    "processedAt": "2026-08-30T00:43:03.762Z"
   },
   {
     "id": "85e78d95-f15c-4aff-a996-190a0e08c612",
@@ -1277,9 +1332,14 @@
       "threads"
     ],
     "scheduledAt": "2026-08-30T03:59:10.508Z",
-    "status": "pending",
-    "results": {},
-    "createdAt": "2026-08-29T07:11:02.679Z"
+    "status": "partial",
+    "results": {
+      "threads": {
+        "error": "publish failed"
+      }
+    },
+    "createdAt": "2026-08-29T07:11:02.679Z",
+    "processedAt": "2026-08-30T05:56:29.984Z"
   },
   {
     "id": "09f0f1d0-0930-482e-947e-efdec6b1e560",
@@ -1290,9 +1350,14 @@
       "facebook"
     ],
     "scheduledAt": "2026-08-30T03:10:14.849Z",
-    "status": "pending",
-    "results": {},
-    "createdAt": "2026-08-29T07:11:02.681Z"
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "1064294122669158"
+      }
+    },
+    "createdAt": "2026-08-29T07:11:02.681Z",
+    "processedAt": "2026-08-30T05:56:35.025Z"
   },
   {
     "id": "f0d15b74-c43b-432a-bf07-1f20e887d464",
@@ -1303,9 +1368,14 @@
       "instagram"
     ],
     "scheduledAt": "2026-08-30T04:26:36.933Z",
-    "status": "pending",
-    "results": {},
-    "createdAt": "2026-08-29T07:11:02.682Z"
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "18116827975939898"
+      }
+    },
+    "createdAt": "2026-08-29T07:11:02.682Z",
+    "processedAt": "2026-08-30T05:57:08.482Z"
   },
   {
     "id": "e61e40a6-32fc-4835-b453-f1ef5274ea84",
@@ -1322,9 +1392,14 @@
       "threads"
     ],
     "scheduledAt": "2026-08-29T16:19:03.197Z",
-    "status": "pending",
-    "results": {},
-    "createdAt": "2026-08-29T07:11:03.843Z"
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "17932745430384250"
+      }
+    },
+    "createdAt": "2026-08-29T07:11:03.843Z",
+    "processedAt": "2026-08-29T17:53:42.885Z"
   },
   {
     "id": "43794e16-e7e1-4790-b774-1a5e8584d23e",
@@ -1335,9 +1410,14 @@
       "facebook"
     ],
     "scheduledAt": "2026-08-29T16:11:51.181Z",
-    "status": "pending",
-    "results": {},
-    "createdAt": "2026-08-29T07:11:03.845Z"
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "1713766706577389"
+      }
+    },
+    "createdAt": "2026-08-29T07:11:03.845Z",
+    "processedAt": "2026-08-29T17:53:47.888Z"
   },
   {
     "id": "76ef706d-9ff1-44c3-ac55-9523140f3a6b",
@@ -1348,9 +1428,14 @@
       "instagram"
     ],
     "scheduledAt": "2026-08-29T16:35:11.415Z",
-    "status": "pending",
-    "results": {},
-    "createdAt": "2026-08-29T07:11:03.847Z"
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "18125846872772808"
+      }
+    },
+    "createdAt": "2026-08-29T07:11:03.847Z",
+    "processedAt": "2026-08-29T17:54:36.784Z"
   },
   {
     "id": "7d7488cf-1757-4a74-9378-520f8d80d12e",
@@ -1367,9 +1452,14 @@
       "threads"
     ],
     "scheduledAt": "2026-08-30T01:06:58.449Z",
-    "status": "pending",
-    "results": {},
-    "createdAt": "2026-08-29T07:11:05.509Z"
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "17941996875342119"
+      }
+    },
+    "createdAt": "2026-08-29T07:11:05.509Z",
+    "processedAt": "2026-08-30T05:57:47.474Z"
   },
   {
     "id": "5615551c-76a7-459e-afc1-0614ad2107ac",
@@ -1380,9 +1470,14 @@
       "facebook"
     ],
     "scheduledAt": "2026-08-30T01:50:14.847Z",
-    "status": "pending",
-    "results": {},
-    "createdAt": "2026-08-29T07:11:05.511Z"
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "1604107957970497"
+      }
+    },
+    "createdAt": "2026-08-29T07:11:05.511Z",
+    "processedAt": "2026-08-30T05:57:51.130Z"
   },
   {
     "id": "d1350475-b919-4d7d-8a4f-5b37a73d9860",
@@ -1393,8 +1488,157 @@
       "instagram"
     ],
     "scheduledAt": "2026-08-30T01:09:48.751Z",
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "18025690154899981"
+      }
+    },
+    "createdAt": "2026-08-29T07:11:05.513Z",
+    "processedAt": "2026-08-30T05:58:24.920Z"
+  },
+  {
+    "id": "41578114-98aa-4fce-afb7-3a5e00ca4ea5",
+    "text": "July is monsoon season in Korea, and a heavy raincoat is the wrong call. Rain comes warm and heavy, so a compact umbrella wins every time. Winter outside Seoul runs colder than Seoul itself, so layers matter more than one thick coat. Rule of thumb: summer pack for humidity, winter pack for wind. Which month are you landing in?\n\n📖 More on the blog — link in bio.",
+    "imageUrl": "https://images.pexels.com/photos/21011587/pexels-photo-21011587.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "imageUrls": [
+      "https://images.pexels.com/photos/21011587/pexels-photo-21011587.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27229895/pexels-photo-27229895.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31955767/pexels-photo-31955767.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19271533/pexels-photo-19271533.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32148699/pexels-photo-32148699.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-08-31T02:30:29.172Z",
     "status": "pending",
     "results": {},
-    "createdAt": "2026-08-29T07:11:05.513Z"
+    "createdAt": "2026-08-30T05:11:43.870Z"
+  },
+  {
+    "id": "da09439b-284e-45c1-8297-4c983886e83a",
+    "text": "Packing for Korea is where a lot of first-time visitors get it wrong, so here is what actually works season by season. 🧳\n\n1. Summer (Jun-Aug): hot and humid. Light, breathable fabrics only. July brings a distinct monsoon season, so bring a compact umbrella instead of a raincoat, which just traps heat.\n\n2. Winter (Dec-Feb): dry and cold, with occasional heavy snow, especially outside Seoul. A proper coat plus layers beats one bulky jacket, since indoor heating is strong and you will be peeling layers off constantly.\n\n3. Spring and fall: the most comfortable weather for walking-heavy days, and also the most crowded. Comfortable shoes matter more than a warm coat here.\n\n4. Whatever the season, Korea travel means a lot of walking and stairs, especially in subway stations. Shoes are the item people regret most.\n\nQuick checklist: breathable layers, compact umbrella, comfortable walking shoes, one warm mid-layer if travelling Dec to Feb.\n\nSave this for your packing day. Which season are you visiting in, and what are you unsure about bringing?\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-seasonal-packing-guide.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": null,
+    "videoUrl": "https://videos.pexels.com/video-files/36384862/15430380_2160_3840_60fps.mp4",
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-08-31T01:49:33.178Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-08-30T05:11:43.872Z"
+  },
+  {
+    "id": "81e42e23-4cba-4419-9a16-7e3dae609d4c",
+    "text": "The easiest season to pack for in Korea is the one that catches people out. 🇰🇷\n\nJuly is monsoon season: skip the raincoat and bring a compact umbrella instead. Rain here is warm and heavy, and a plastic layer just traps the humidity. In winter, layers beat one thick coat, because indoor heating is stronger than you expect and snow hits harder outside Seoul.\n\nSpring and fall are the most comfortable for walking days, and the most crowded, so pack shoes you can stand in for hours.\n\nSave this before you start packing.\n\n#KoreaTravel #SeoulTrip #KoreaTravelTips #PackingTips #VisitKorea",
+    "imageUrl": null,
+    "videoUrl": "https://videos.pexels.com/video-files/36384862/15430380_2160_3840_60fps.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-08-31T01:34:42.829Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-08-30T05:11:43.873Z"
+  },
+  {
+    "id": "aca762c6-dd67-493f-af54-1eb1d882fd16",
+    "text": "Book luggage forwarding 1 day ahead — same-day isn't guaranteed. Most travelers drag bags through their whole last day not knowing this exists. Two notes: hotel to airport is the standard route, and hotel to hotel works too. Rule of thumb: never count on same-day. Where do your bags go on checkout day?\n\n📖 More on the blog — link in bio.",
+    "imageUrl": "https://images.pexels.com/photos/31680641/pexels-photo-31680641.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "imageUrls": [
+      "https://images.pexels.com/photos/31680641/pexels-photo-31680641.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31892087/pexels-photo-31892087.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36968040/pexels-photo-36968040.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31768197/pexels-photo-31768197.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19271579/pexels-photo-19271579.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-08-30T16:00:16.410Z",
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18109919429017428"
+      }
+    },
+    "createdAt": "2026-08-30T05:12:04.035Z",
+    "processedAt": "2026-08-30T18:47:06.847Z"
+  },
+  {
+    "id": "aa9a53d8-8e4c-4fe6-96d8-02d33ee68795",
+    "text": "Your last day in Korea doesn't have to be spent hauling suitcases 🧳\n\nLuggage forwarding is one of the most underused services here, and it solves the exact problem almost every visitor runs into on checkout day.\n\n1. Same-day forwarding can move your bags from your hotel straight to Incheon or Gimpo airport, so you check out and go sightseeing hands-free.\n\n2. It also works hotel-to-hotel if you're changing cities or neighborhoods mid-trip.\n\n3. It saves you from dragging bags through packed subway cars and stairs during rush hour — especially painful before an early morning flight.\n\n4. Book at least one day in advance. Same-day requests exist but are not always guaranteed, particularly in peak season.\n\n5. Confirm the cutoff time and the pickup point at your hotel front desk before you finalize anything.\n\nQuick checklist: book 1 day ahead, confirm pickup time, keep passport and valuables with you, screenshot the receipt.\n\nSave this for your last day in Seoul. What do you usually do with your bags between checkout and your flight?\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-luggage-storage-forwarding.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": null,
+    "videoUrl": "https://videos.pexels.com/video-files/36133346/15323239_1440_1920_30fps.mp4",
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-08-30T16:17:05.820Z",
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "4739503223003412"
+      }
+    },
+    "createdAt": "2026-08-30T05:12:04.036Z",
+    "processedAt": "2026-08-30T18:47:14.298Z"
+  },
+  {
+    "id": "3d64cd9b-49d6-4db9-9681-235228e7c1ee",
+    "text": "Stop dragging your suitcase around on your last day in Korea.\n\nLuggage forwarding sends your bags from your hotel straight to ICN or GMP (or to your next hotel) so you can sightsee hands-free until your flight. The catch: book at least 1 day in advance — same-day requests aren't guaranteed.\n\nSave this for checkout day. Keep your passport and valuables with you, everything else can meet you at the airport.\n\n#KoreaTravel #SeoulTrip #KoreaTravelTips #IncheonAirport #TravelKorea",
+    "imageUrl": null,
+    "videoUrl": "https://videos.pexels.com/video-files/36133346/15323239_1440_1920_30fps.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-08-30T15:04:41.426Z",
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "17905419645519926"
+      }
+    },
+    "createdAt": "2026-08-30T05:12:04.037Z",
+    "processedAt": "2026-08-30T15:29:36.916Z"
+  },
+  {
+    "id": "d3cab280-6c9d-42d1-b86d-295ecd8081cd",
+    "text": "Most first-timers book KTX to Busan without knowing SRT exists. Same speed, same route, different Seoul station. KTX leaves from Seoul Station, SRT from Suseo. Rule of thumb: pick by the station you can reach fastest, not by the train. Which side of Seoul are you staying on?\n\n📖 More on the blog — link in bio.",
+    "imageUrl": null,
+    "videoUrl": "https://videos.pexels.com/video-files/38391896/16302355_1080_1920_30fps.mp4",
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-08-31T01:43:44.424Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-08-30T05:12:25.769Z"
+  },
+  {
+    "id": "c796f503-7054-4911-9678-116c14ede702",
+    "text": "Planning a Seoul to Busan trip? The choice that actually matters isn't train vs. bus — it's which train station you can get to fastest. 🚄\n\n1. There are two high-speed rail options, not one. KTX is the famous one. SRT runs similar routes at comparable speeds, and most first-time visitors have never heard of it.\n\n2. They leave from different Seoul stations. KTX mainly departs from Seoul Station. SRT departs from Suseo Station in the southeast of the city.\n\n3. So the real question is where you're staying. If you're near Seoul Station, KTX is the easy pick. If you're south of the river, Suseo can save you a long cross-city transfer before you even board.\n\n4. Both need a booked seat and a fixed departure time. Neither works like a hop-on intercity bus, so a missed train is a missed reservation.\n\n5. The bus is still worth a look for smaller towns off the high-speed line, but for the big city-to-city runs, rail usually wins on time.\n\nChecklist before you book: which Seoul station is closest to me, what time do I actually need to arrive, and is my seat reserved? ✅\n\nSave this for your booking day — which route are you taking first?\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-ktx-vs-srt-vs-intercity-bus-for-long-distance-travel.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": null,
+    "videoUrl": "https://videos.pexels.com/video-files/38391896/16302355_1080_1920_30fps.mp4",
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-08-31T01:48:33.025Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-08-30T05:12:25.770Z"
+  },
+  {
+    "id": "0080bd0d-9bf5-4091-80be-a64f95dd1943",
+    "text": "Everyone books KTX. Almost nobody knows about SRT.\n\nBoth are high-speed trains on similar routes at similar speeds — the difference is where they leave from. KTX goes mainly from Seoul Station, SRT from Suseo Station in the southeast. Pick the one closest to where you're staying and you can save yourself an hour of cross-city transfers before you even board.\n\nOne rule: both require a reserved seat and a fixed departure time. This is not a hop-on bus — miss it and you rebook.\n\nSave this before you book your Busan trip. 🚄\n\n#KoreaTravel #SeoulTrip #KTX #BusanTravel #KoreaTravelTips",
+    "imageUrl": null,
+    "videoUrl": "https://videos.pexels.com/video-files/38391896/16302355_1080_1920_30fps.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-08-31T01:29:05.180Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-08-30T05:12:25.772Z"
   }
 ]

@@ -1,0 +1,24 @@
+name: Delete Duplicate Test Publish
+
+# 2026-08-30 취소 신호 지연으로 이미 발행돼버린 중복 테스트 게시물(T-money 주제)을
+# 실제로 삭제하는 일회성 워크플로우.
+on:
+  workflow_dispatch:
+
+jobs:
+  delete:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm ci
+      - name: Delete duplicate posts
+        env:
+          THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+          FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+        run: node scripts/delete-test-publish.js
+        shell: bash
