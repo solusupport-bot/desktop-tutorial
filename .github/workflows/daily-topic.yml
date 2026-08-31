@@ -37,6 +37,7 @@ jobs:
           PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
           PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TOUR_AUDIO_GUIDE_API_KEY: ${{ secrets.TOUR_AUDIO_GUIDE_API_KEY }}
         run: node scripts/daily-auto-post.js
 
       - name: Write blog posts for any SNS topic that doesn't have one yet

@@ -12,6 +12,7 @@ const { fetchTopicImages, TOPIC_QUERIES } = require('../lib/ingestion/pexels_ima
 const { findKoreaVideo } = require('../lib/ingestion/pexels_video');
 const { findKoreaPhotoPixabay } = require('../lib/ingestion/pixabay_image');
 const { findKoreaVideoPixabay } = require('../lib/ingestion/pixabay_video');
+const { findKoreaAttractionPhoto } = require('../lib/ingestion/tour_odii_image');
 const { TOPIC_IMAGES } = require('../lib/ingestion/topic_images');
 const { watermarkAndHostImages } = require('../lib/media/watermark_images');
 const {
@@ -93,9 +94,20 @@ const withPlatformJitter = (time) => new Date(time.getTime() + (Math.random() * 
  * 그래도 하나도 못 구하면 과거의 고정 대표 이미지 1장으로 대체하고, 그마저 최근에
  * 이미 쓴 것이면 중복을 감수하고 씁니다(이미지 없이 텍스트만 발행하는 것보다는 낫다는 판단).
  */
-const resolveImages = async (topicName, seed, count) => {
+const resolveImages = async (topicName, seed, count, placeKeyword) => {
   const recent = getRecentImageUrls();
-  const live = await fetchTopicImages(topicName, recent, seed, count);
+  const live = [];
+
+  // 관광지 스포트라이트 주제는 한국관광공사 Odii의 실제 공식 사진이 있으면
+  // 무료 스톡 사진보다 우선한다 — 진짜 그 장소 사진이라 신뢰도가 더 높다
+  // (2026-08-31 사용자 요청: "관광공사에 사진 쓸만한게 있으면 그것을 사용").
+  // 일반 팁 주제(placeKeyword 없음)에는 매칭이 없는 게 정상이라 자연스럽게 Pexels로 넘어간다.
+  if (placeKeyword) {
+    const tourPhoto = await findKoreaAttractionPhoto(placeKeyword, recent);
+    if (tourPhoto) live.push(tourPhoto);
+  }
+
+  live.push(...(await fetchTopicImages(topicName, [...recent, ...live], seed, count - live.length)));
 
   if (live.length < count && process.env.PIXABAY_API_KEY) {
     const used = [...recent, ...live];
@@ -128,7 +140,7 @@ const queueOneTopic = async (topics, window) => {
   const { topic: item, seed } = pickNextTopic(topics);
   log.ok(`주제 선택: ${item.source} (구간 ${window[0]}~${window[1]}시)`);
 
-  const images = await resolveImages(item.source, seed, IMAGE_CAROUSEL_TARGET);
+  const images = await resolveImages(item.source, seed, IMAGE_CAROUSEL_TARGET, item.placeKeyword);
   images.forEach(recordImageUrl); // 중복 체크는 항상 원본 Pexels URL 기준 — 워터마크 자산 URL은 매번 새로 생겨 의미가 없음
 
   // Meta가 2026-05부터 사진/캐로셀에도 "실질적 편집 없는 재사용 콘텐츠" 단속을 확대함
