@@ -18,7 +18,7 @@ const { TOPIC_IMAGES } = require('../lib/ingestion/topic_images');
 const { watermarkAndHostImages } = require('../lib/media/watermark_images');
 const { findMusic } = require('../lib/ingestion/openverse_music');
 const { attachMusicToVideo, cleanupMergedVideo } = require('../lib/media/mix_audio');
-const { moodForTopic } = require('../lib/media/topic_music');
+const { findMusicForTopic } = require('../lib/media/topic_music');
 const { uploadMediaFile } = require('../lib/publishing/github_raw_host');
 const {
   pickNextTopic, getRecentImageUrls, recordImageUrl, getRecentVideoUrls, recordVideoUrl,
@@ -153,7 +153,7 @@ const resolveImages = async (topicName, seed, count, placeKeyword) => {
  */
 const attachTopicMusic = async (video, item, githubToken) => {
   if (!githubToken) return null;
-  const music = await findMusic(moodForTopic(item), getRecentMusicUrls());
+  const music = await findMusicForTopic(findMusic, item, getRecentMusicUrls());
   if (!music) return null;
 
   const mergedPath = await attachMusicToVideo(video, music.url);

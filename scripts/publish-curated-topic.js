@@ -21,7 +21,7 @@ const { findKoreaAttractionPhoto } = require('../lib/ingestion/tour_odii_image')
 const { watermarkAndHostImages } = require('../lib/media/watermark_images');
 const { findMusic } = require('../lib/ingestion/openverse_music');
 const { attachMusicToVideo, cleanupMergedVideo } = require('../lib/media/mix_audio');
-const { moodForTopic } = require('../lib/media/topic_music');
+const { findMusicForTopic } = require('../lib/media/topic_music');
 const { uploadMediaFile } = require('../lib/publishing/github_raw_host');
 const { PLATFORMS } = require('../lib/publishing');
 const { getPermalink } = require('../lib/publishing/permalink');
@@ -86,7 +86,7 @@ const main = async () => {
   let instagramVideo = video;
   let instagramMusicAttribution = null;
   if (video && process.env.GITHUB_TOKEN) {
-    const music = await findMusic(moodForTopic(item), getRecentMusicUrls());
+    const music = await findMusicForTopic(findMusic, item, getRecentMusicUrls());
     if (music) {
       const mergedPath = await attachMusicToVideo(video, music.url);
       if (mergedPath) {
