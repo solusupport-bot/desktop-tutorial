@@ -133,6 +133,35 @@ agent-reach install --env=auto --system --channels=<channel_name>
 
 ---
 
+## 🎛️ 플랫폼별 발행 형식 (2026-09-01 사용자 실측 피드백 반영, 사용자가 명시적으로 지시)
+
+실제 계정 성과와 벤치마킹 스크린샷을 본 뒤 사용자가 지시한 현재 기준. 이후 세션에서
+이 파이프라인을 건드릴 때 기본값으로 삼을 것 — 되돌리지 말고, 바꾸려면 새 지시를 받을 것.
+
+- **Facebook = 이미지 앨범 고정.** 한동안 영상(Reels)을 우선했지만 실제 반응은 이미지가
+  더 좋았음 — 이론적 수치보다 실측을 우선한다. (`scripts/daily-auto-post.js`의
+  `mediaByPlatform.facebook`)
+- **Instagram = 영상(Reels) 우선 + 주제에 맞는 배경음악.** Openverse(가입/키 불필요,
+  상업적 이용+변형 가능 라이선스만)에서 주제 무드에 맞는 곡을 찾아 ffmpeg로 합성 후
+  raw.githubusercontent.com으로 호스팅, CC BY 크레딧을 캡션에 자동 추가. 무드 매핑은
+  `lib/media/topic_music.js`(관광지 스포트라이트는 시네마틱/앰비언트, 실용 팁은
+  경쾌한 여행 브이로그 계열). ffmpeg는 GitHub Actions 기본 이미지에 없어 워크플로에
+  명시적 설치 스텝이 필요함(`daily-topic.yml`, `test-curated-publish.yml`).
+- **Threads = 훅 + 답글 체인 최대 4개(총 5조각), "1/5" 구조.** 기존엔 훅+답글 1개(2단)
+  였으나, 실제 고성과 계정 벤치마킹(스크린샷의 "1/2" 구조)을 참고해 답글을 최대
+  4개까지 늘림. `lib/publishing/threads.js`가 본문을 빈 줄(문단) 기준 최대 5조각으로
+  나눠 훅=원 게시물, 나머지=이전 답글에 순서대로 이어 다는 답글 체인으로 발행한다.
+  `lib/curation/curate.js`의 PLATFORM_GUIDE와 템플릿 폴백 둘 다 이 5문단 구조로
+  캡션을 생성하도록 맞춰져 있음 — 새 캡션을 손으로 미리 쓸 때도 이 구조(훅/관찰1/
+  관찰2/주의사항/질문, 각각 빈 줄로 구분)를 따를 것.
+- **블로그 = 본문 끝에 FAQ(Q&A 3개) 섹션 필수.** 애드센스 승인에 실질적 콘텐츠로
+  도움이 된다는 이유. `scripts/sync-blog-posts.js`가 Claude 실시간 호출이든 무료
+  템플릿 폴백이든 항상 `faq` 필드(질문/답변 3쌍)를 만들어 "## Frequently Asked
+  Questions" 섹션으로 렌더링한다. 새 사실을 지어내지 않고 이미 검증된 본문 내용만
+  답변으로 재사용할 것 — land-in-korea-blog 저장소의 기존 20개 글에도 이미 소급 적용됨.
+
+---
+
 ## 📁 프로젝트 구조 참고
 
 - `scripts/ingest.js` — API 기반 트렌드 수집 (Apify 등, 선택적)
