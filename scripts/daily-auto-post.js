@@ -6,6 +6,7 @@
 // -> 24시간 안에서 플랫폼마다 다른 랜덤 시간으로 발행 큐 등록.
 // 실제 발행은 scheduler.yml(15분 간격)이 예약 시각이 된 항목을 이어서 처리합니다.
 require('dotenv').config();
+const fs = require('fs');
 const log = require('../lib/logger');
 const { fetchKoreaTravelTopics } = require('../lib/ingestion/korea_travel');
 const { fetchTopicImages, TOPIC_QUERIES } = require('../lib/ingestion/pexels_image');
@@ -15,8 +16,13 @@ const { findKoreaVideoPixabay } = require('../lib/ingestion/pixabay_video');
 const { findKoreaAttractionPhoto } = require('../lib/ingestion/tour_odii_image');
 const { TOPIC_IMAGES } = require('../lib/ingestion/topic_images');
 const { watermarkAndHostImages } = require('../lib/media/watermark_images');
+const { findMusic } = require('../lib/ingestion/openverse_music');
+const { attachMusicToVideo, cleanupMergedVideo } = require('../lib/media/mix_audio');
+const { moodForTopic } = require('../lib/media/topic_music');
+const { uploadMediaFile } = require('../lib/publishing/github_raw_host');
 const {
-  pickNextTopic, getRecentImageUrls, recordImageUrl, getRecentVideoUrls, recordVideoUrl
+  pickNextTopic, getRecentImageUrls, recordImageUrl, getRecentVideoUrls, recordVideoUrl,
+  getRecentMusicUrls, recordMusicUrl
 } = require('../lib/scheduler/topic_rotation');
 const { curateContent } = require('../lib/curation/curate');
 const { addPost } = require('../lib/scheduler/queue');
@@ -136,6 +142,38 @@ const resolveImages = async (topicName, seed, count, placeKeyword) => {
   return [fallback];
 };
 
+/**
+ * Instagram Reels(Pexels 무음 영상)에 주제에 어울리는 무드의 배경음악을 입힌다
+ * (2026-08-31 사용자 요청: "인스타에 음악이 안들어가서 허전한게 느껴저 내 주제에
+ * 맞는음악이 넣어줬으면"). Openverse(가입/키 불필요, 상업적 이용+변형 가능 라이선스만
+ * 필터링)에서 무드에 맞는 곡을 찾아 ffmpeg로 합성한 뒤 raw.githubusercontent.com으로
+ * 호스팅한다. 음원 검색/합성/호스팅 중 어느 단계든 실패하거나 GITHUB_TOKEN이 없으면
+ * null을 반환해 원본 무음 영상 그대로 발행한다 — 음악 없이 올리는 게 아예 안 올리는
+ * 것보다 낫다는 기존 원칙과 동일.
+ */
+const attachTopicMusic = async (video, item, githubToken) => {
+  if (!githubToken) return null;
+  const music = await findMusic(moodForTopic(item), getRecentMusicUrls());
+  if (!music) return null;
+
+  const mergedPath = await attachMusicToVideo(video, music.url);
+  if (!mergedPath) return null;
+
+  try {
+    const buffer = fs.readFileSync(mergedPath);
+    const hostedUrl = await uploadMediaFile(
+      'solusupport-bot/desktop-tutorial', githubToken, buffer, `videos/${Date.now()}-instagram.mp4`
+    );
+    recordMusicUrl(music.url);
+    return { videoUrl: hostedUrl, attribution: `🎵 ${music.attribution}` };
+  } catch (err) {
+    log.err(`합성 영상 호스팅 실패, 음악 없이 발행: ${err.response?.data?.message || err.message}`);
+    return null;
+  } finally {
+    cleanupMergedVideo(mergedPath);
+  }
+};
+
 const queueOneTopic = async (topics, window) => {
   const { topic: item, seed } = pickNextTopic(topics);
   log.ok(`주제 선택: ${item.source} (구간 ${window[0]}~${window[1]}시)`);
@@ -170,13 +208,25 @@ const queueOneTopic = async (topics, window) => {
   const blogUrl = withUtm(getBlogLinkForTopic(item.source), 'facebook');
   const hasSpecificPost = blogUrl !== withUtm(BLOG_HOME_URL, 'facebook');
 
-  // 우선순위는 플랫폼마다 다릅니다(실측 데이터 근거는 파일 상단 주석 참고):
-  // Facebook/Instagram = 영상(Reels) 우선(없으면 이미지 앨범/캐로셀), Threads = 이미지 우선(없으면 영상).
-  // Facebook과 Instagram은 같은 video를 재사용합니다 — Pexels 쿼리를 두 번 하지 않기 위함.
+  // Facebook은 한동안 Reels(영상)를 우선했지만, 실제 계정 성과를 직접 보니 이미지
+  // 게시물이 영상보다 반응이 더 좋았다(2026-08-31 사용자 실측 피드백) — 이론상 수치
+  // (파일 상단 주석)보다 실측을 우선해 Facebook은 이미지 앨범으로 고정한다.
+  // Threads = 이미지 우선(없으면 영상), Instagram = 영상(Reels, 있으면 배경음악 합성) 우선,
+  // 없으면 이미지 캐로셀.
+  let instagramVideo = video;
+  let instagramMusicAttribution = null;
+  if (video) {
+    const musicResult = await attachTopicMusic(video, item, process.env.GITHUB_TOKEN);
+    if (musicResult) {
+      instagramVideo = musicResult.videoUrl;
+      instagramMusicAttribution = musicResult.attribution;
+    }
+  }
+
   const mediaByPlatform = {
-    facebook: video ? { videoUrl: video } : { imageUrls: watermarkedImages },
+    facebook: { imageUrls: watermarkedImages },
     threads: watermarkedImages.length > 0 ? { imageUrls: watermarkedImages } : (video ? { videoUrl: video } : {}),
-    instagram: video ? { videoUrl: video } : { imageUrls: watermarkedImages }
+    instagram: instagramVideo ? { videoUrl: instagramVideo } : { imageUrls: watermarkedImages }
   };
 
   for (const platform of PLATFORMS) {
@@ -200,6 +250,9 @@ const queueOneTopic = async (topics, window) => {
       text = `${text}\n\n📖 More on the blog — link in bio.`;
     } else if (platform === 'facebook') {
       text = `${text}\n\n📖 ${hasSpecificPost ? 'Full breakdown' : 'More on the blog'}: ${blogUrl}`;
+    } else if (platform === 'instagram' && media.videoUrl && instagramMusicAttribution) {
+      // Openverse의 CC BY/CC BY-SA 라이선스는 아티스트 크레딧 표기가 조건이라 캡션에 남긴다.
+      text = `${text}\n\n${instagramMusicAttribution}`;
     }
 
     const queued = addPost({

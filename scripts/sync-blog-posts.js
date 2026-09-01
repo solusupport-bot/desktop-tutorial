@@ -53,6 +53,24 @@ const slugify = (topicName) => `korea-${topicName
   .replace(/[^a-z0-9]+/g, '-')
   .replace(/^-+|-+$/g, '')}`;
 
+const splitSentences = (text) => (text.match(/[^.!?]+[.!?]*/g) || [text]).map((s) => s.trim()).filter(Boolean);
+
+/**
+ * 템플릿 대체 경로에서도 실질적인 FAQ 3개를 만든다 — 새 사실을 지어내지 않고
+ * 이미 검증된 원문 문장을 그대로 답변으로 재사용한다(2026-08-31 사용자 요청: 애드센스
+ * 승인에 도움이 되도록 블로그에 Q&A 방식 추가, 질문 3개).
+ */
+const buildFallbackFaq = (topic) => {
+  const angles = Array.isArray(topic.content) ? topic.content : [topic.content];
+  const allSentences = angles.flatMap(splitSentences);
+  const mistakeSentence = allSentences.find((s) => /mistake|miss(es)?|surpris/i.test(s));
+  return [
+    { question: `What's the most common first-timer mistake with ${topic.source.toLowerCase()}?`, answer: mistakeSentence || allSentences[0] },
+    { question: `What should I know before I go?`, answer: allSentences[1] || allSentences[0] },
+    { question: `Any quick tip to remember?`, answer: allSentences[allSentences.length - 1] || allSentences[0] }
+  ];
+};
+
 const buildFallbackPost = (topic) => {
   const angles = Array.isArray(topic.content) ? topic.content : [topic.content];
   const body = angles.map((a) => a.trim()).join('\n\n');
@@ -61,7 +79,8 @@ const buildFallbackPost = (topic) => {
     title: `${topic.source}: What First-Timers Actually Need to Know`,
     description: firstSentence.slice(0, 155),
     body: `## The short version\n\n${body}`,
-    image_query: `${topic.source} travel`
+    image_query: `${topic.source} travel`,
+    faq: buildFallbackFaq(topic)
   };
 };
 
@@ -77,10 +96,21 @@ ${angles.map((a, i) => `Angle ${i + 1}: ${a}`).join('\n\n')}
 Structure: a hook opening (a specific claim, a mistake framing, or a contrarian angle) -> ## headed sections with the real substance -> a practical close.
 Only include an affiliate mention using literally {{klook}}, {{tripcom}}, or {{getyourguide}} as a markdown link target if there's a genuine, specific product tie-in (e.g. a bookable tour, transfer, or SIM/pass) — never force one in.
 
+Also write exactly 3 FAQ question/answer pairs using only the facts above (do not invent new facts) — real questions a first-timer would actually search, with a 1-2 sentence answer each.
+
 Respond ONLY with this JSON shape (no explanation, no code fences):
-{"title": "...", "description": "...(under 160 chars, no quotes)", "body": "...(the markdown body, starting from the hook, no title heading)", "image_query": "...(2-5 words, a concrete visual scene)"}`;
+{"title": "...", "description": "...(under 160 chars, no quotes)", "body": "...(the markdown body, starting from the hook, no title heading)", "image_query": "...(2-5 words, a concrete visual scene)", "faq": [{"question": "...", "answer": "..."}, {"question": "...", "answer": "..."}, {"question": "...", "answer": "..."}]}`;
 
   return askClaudeForJSON(prompt);
+};
+
+// 실제 사용자 질문에 답하는 형식의 콘텐츠는 애드센스 심사에서 "실질적인 가치가 있는
+// 콘텐츠"로 유리하게 작용한다(2026-08-31 사용자 요청). faq가 없으면(과거 글, 또는
+// 생성 실패) 섹션 자체를 생략한다 — 빈 섹션을 억지로 넣지 않는다.
+const buildFaqSection = (faq) => {
+  if (!Array.isArray(faq) || !faq.length) return '';
+  const items = faq.map((item) => `### ${item.question}\n\n${item.answer}`).join('\n\n');
+  return `\n\n## Frequently Asked Questions\n\n${items}`;
 };
 
 const buildMarkdown = (slug, category, generated) => {
@@ -95,7 +125,7 @@ const buildMarkdown = (slug, category, generated) => {
     '---',
     ''
   ].join('\n');
-  return frontMatter + generated.body.trim() + '\n';
+  return frontMatter + generated.body.trim() + buildFaqSection(generated.faq) + '\n';
 };
 
 const main = async () => {
