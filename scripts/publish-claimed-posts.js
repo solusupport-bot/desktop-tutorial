@@ -1,11 +1,11 @@
 #!/usr/bin/env node
 require('dotenv').config();
 const log = require('../lib/logger');
-const { runDuePosts } = require('../lib/scheduler/run');
+const { publishClaimedPosts } = require('../lib/scheduler/run');
 
-runDuePosts()
+publishClaimedPosts()
   .then((changed) => {
-    log.ok(changed ? '예약 발행 처리 완료 (변경사항 있음)' : '처리할 예약 게시글이 없습니다.');
+    log.ok(changed ? '예약 발행 처리 완료 (변경사항 있음)' : '발행할 claimed 게시글이 없습니다.');
     process.exit(0);
   })
   .catch((err) => {
