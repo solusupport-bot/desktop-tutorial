@@ -29,6 +29,9 @@ jobs:
 
       - run: npm ci
 
+      - name: Install ffmpeg (needed for Instagram background-music merge)
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg
+
       - name: Pick topic, fetch image, queue post
         # ANTHROPIC_API_KEY를 의도적으로 넣지 않는다 — 캡션은 미리 써둔
         # data/sns_content_queue.json을 쓰거나(우선), 없으면 무료 규칙 기반

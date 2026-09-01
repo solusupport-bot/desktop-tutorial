@@ -29,13 +29,14 @@ jobs:
         with:
           node-version: '22'
       - run: npm ci
-      - name: Install ffmpeg (배경음악 합성용 — ubuntu-latest 기본 이미지에 없음, 2026-08-29 실측)
+      - name: Install ffmpeg (needed for Instagram background-music merge)
         run: sudo apt-get update && sudo apt-get install -y ffmpeg
       - name: Publish curated topic to all platforms
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
           PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
+          TOUR_AUDIO_GUIDE_API_KEY: ${{ secrets.TOUR_AUDIO_GUIDE_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
           THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
