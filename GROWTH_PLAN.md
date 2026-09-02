@@ -16,10 +16,16 @@
 - [x] Facebook CTA 강화 — "Save this" 계열에 손실회피/구체성 추가
 - [x] Instagram 클로저 강화 — 댓글 유도 문구 추가
 - [x] Reddit 포스트 초안 3개 작성 (tax refund, arrival mistakes, eSIM)
+- [x] **2026-09-02 리서치 기반 재설계 (Tier 1, commit c6956d8)**:
+  - 모든 플랫폼 캡션을 "약속(궁금증) → 반전(구체적 사실)" 2단 훅 구조로 개편
+  - Threads 답글 체인 발행 간격을 3~8초 → 3분 간격으로 늘려 참여속도 신호를 30분 창에 분산
+  - Instagram Reels에 ffmpeg drawtext로 번인 자막 추가 (무음 시청자 80% 대응, 로컬 테스트로 필터 동작 확인 완료)
+- [x] Tier 2(higgsfield 영상) 조사: 현재 크레딧 16.76개(starter 플랜) — 영상 1개당 약 5~15크레딧 추정, 월 유지 비용 약 $49~95 추정. MCP 도구는 이 세션 전용이라 무인 자동화(GitHub Actions)에 직접 못 씀 → **사용자 결정: 일단 보류, Tier 1 결과 먼저 확인**
 
 ### ⏳ 대기 중 (사용자 확인 필요)
 - [ ] 실제 Threads 핸들 확인 → Reddit 초안의 `ACCOUNT_HANDLE_TBD` 교체
 - [ ] Facebook 페이지명 확인
+- [ ] (보류) Tier 2 진행 여부 — 반자동 배치 생성 vs 완전자동(개발자 API 키 발급) 중 선택
 
 ### 📌 사용자가 직접 실행해야 하는 것 (Claude는 Reddit API 접근 불가)
 - [ ] Day 1: r/korea에 tax-refund 포스트 게시
