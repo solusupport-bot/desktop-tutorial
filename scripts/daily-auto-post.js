@@ -16,7 +16,8 @@ const { findKoreaVideoPixabay } = require('../lib/ingestion/pixabay_video');
 const { findKoreaAttractionPhoto } = require('../lib/ingestion/tour_odii_image');
 const { TOPIC_IMAGES } = require('../lib/ingestion/topic_images');
 const { watermarkAndHostImages } = require('../lib/media/watermark_images');
-const { findMusic } = require('../lib/ingestion/openverse_music');
+const { findMusic: findOpenverseMusic } = require('../lib/ingestion/openverse_music');
+const { findMusic: findInstagramSoundLibraryMusic } = require('../lib/ingestion/instagram_sound_library');
 const { attachMusicToVideo, cleanupMergedVideo } = require('../lib/media/mix_audio');
 const { findMusicForTopic } = require('../lib/media/topic_music');
 const { uploadMediaFile } = require('../lib/publishing/github_raw_host');
@@ -153,7 +154,13 @@ const resolveImages = async (topicName, seed, count, placeKeyword) => {
  */
 const attachTopicMusic = async (video, item, githubToken) => {
   if (!githubToken) return null;
-  const music = await findMusicForTopic(findMusic, item, getRecentMusicUrls());
+  // 2026-09-02 사용자가 Instagram Reels 사운드 9곡을 직접 받아와 고정 라이브러리로
+  // 등록했다("인스타에서 사용가능한 음원들 있있든 그거 사용하라니까") — 이 고정
+  // 목록이 항상 우선이고, Openverse 검색은 혹시 모를 폴백으로만 남겨둔다(고정
+  // 목록은 검색이 아니라 로컬 파일 순환이라 사실상 항상 성공하므로 폴백이 실제로
+  // 쓰일 일은 거의 없다).
+  const music = (await findInstagramSoundLibraryMusic(null, getRecentMusicUrls()))
+    || (await findMusicForTopic(findOpenverseMusic, item, getRecentMusicUrls()));
   if (!music) return null;
 
   const mergedPath = await attachMusicToVideo(video, music.url);
@@ -165,7 +172,9 @@ const attachTopicMusic = async (video, item, githubToken) => {
       'solusupport-bot/desktop-tutorial', githubToken, buffer, `videos/${Date.now()}-instagram.mp4`
     );
     recordMusicUrl(music.url);
-    return { videoUrl: hostedUrl, attribution: `🎵 ${music.attribution}` };
+    // CC 라이선스 음원(Openverse)만 표기 의무가 있어 attribution이 채워져 온다 —
+    // 고정 Instagram 사운드 라이브러리는 attribution이 null이라 캡션에 곡명을 남기지 않는다.
+    return { videoUrl: hostedUrl, attribution: music.attribution ? `🎵 ${music.attribution}` : null };
   } catch (err) {
     log.err(`합성 영상 호스팅 실패, 음악 없이 발행: ${err.response?.data?.message || err.message}`);
     return null;
