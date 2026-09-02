@@ -25,7 +25,8 @@
 ### ⏳ 대기 중 (사용자 확인 필요)
 - [ ] 실제 Threads 핸들 확인 → Reddit 초안의 `ACCOUNT_HANDLE_TBD` 교체
 - [ ] Facebook 페이지명 확인
-- [ ] (보류) Tier 2 진행 여부 — 반자동 배치 생성 vs 완전자동(개발자 API 키 발급) 중 선택
+- [ ] (보류) Tier 2 진행 여부 — 9/5~6 체크인 때 재논의
+- [x] **2026-09-02 Tier 2 벤더 재검토**: higgsfield는 Veo/Seedance 등을 마크업 붙여 재판매하는 구조로 확인됨(영상당 약 $0.24~0.71). 진행하게 되면 **Google Veo 3.1 Lite 직접 API(Gemini API, $0.03/초)로 전환** — 월 90개 기준 약 $13~14로 higgsfield 대비 3~4배 저렴. 사용자 승인 완료(2026-09-02).
 
 ### 📌 사용자가 직접 실행해야 하는 것 (Claude는 Reddit API 접근 불가)
 - [ ] Day 1: r/korea에 tax-refund 포스트 게시
