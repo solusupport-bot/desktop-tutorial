@@ -152,7 +152,7 @@ const resolveImages = async (topicName, seed, count, placeKeyword) => {
  * null을 반환해 원본 무음 영상 그대로 발행한다 — 음악 없이 올리는 게 아예 안 올리는
  * 것보다 낫다는 기존 원칙과 동일.
  */
-const attachTopicMusic = async (video, item, githubToken) => {
+const attachTopicMusic = async (video, item, githubToken, captionText) => {
   if (!githubToken) return null;
   // 2026-09-02 사용자가 Instagram Reels 사운드 9곡을 직접 받아와 고정 라이브러리로
   // 등록했다("인스타에서 사용가능한 음원들 있있든 그거 사용하라니까") — 이 고정
@@ -163,7 +163,7 @@ const attachTopicMusic = async (video, item, githubToken) => {
     || (await findMusicForTopic(findOpenverseMusic, item, getRecentMusicUrls()));
   if (!music) return null;
 
-  const mergedPath = await attachMusicToVideo(video, music.url);
+  const mergedPath = await attachMusicToVideo(video, music.url, captionText);
   if (!mergedPath) return null;
 
   try {
@@ -225,7 +225,10 @@ const queueOneTopic = async (topics, window) => {
   let instagramVideo = video;
   let instagramMusicAttribution = null;
   if (video) {
-    const musicResult = await attachTopicMusic(video, item, process.env.GITHUB_TOKEN);
+    // Reels 첫 화면에 뜨는 번인 자막은 캡션의 첫 문단(약속형 훅)만 쓴다 — 해시태그/CTA까지
+    // 화면에 다 욱여넣으면 가독성이 무너진다(2026-09 리서치: 자막은 짧고 스캔 가능해야 함).
+    const captionText = (curated.instagram || '').split('\n\n')[0] || null;
+    const musicResult = await attachTopicMusic(video, item, process.env.GITHUB_TOKEN, captionText);
     if (musicResult) {
       instagramVideo = musicResult.videoUrl;
       instagramMusicAttribution = musicResult.attribution;

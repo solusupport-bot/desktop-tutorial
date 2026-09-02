@@ -88,7 +88,8 @@ const main = async () => {
   if (video && process.env.GITHUB_TOKEN) {
     const music = await findMusicForTopic(findMusic, item, getRecentMusicUrls());
     if (music) {
-      const mergedPath = await attachMusicToVideo(video, music.url);
+      const captionText = (curated.instagram || '').split('\n\n')[0] || null;
+      const mergedPath = await attachMusicToVideo(video, music.url, captionText);
       if (mergedPath) {
         try {
           const buffer = fs.readFileSync(mergedPath);
