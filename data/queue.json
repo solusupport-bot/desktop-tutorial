@@ -2107,7 +2107,7 @@
       "threads"
     ],
     "scheduledAt": "2026-09-02T15:15:06.534Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-02T04:15:50.688Z"
   },
@@ -2126,7 +2126,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-02T15:08:35.373Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-02T04:15:50.690Z"
   },
@@ -2265,7 +2265,7 @@
       "threads"
     ],
     "scheduledAt": "2026-09-02T15:47:01.062Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-02T13:15:55.045Z"
   },
@@ -2297,7 +2297,7 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-02T15:49:27.331Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-02T13:15:55.048Z"
   },
