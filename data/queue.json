@@ -2300,9 +2300,15 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-02T16:58:55.758Z",
-    "status": "claimed",
-    "results": {},
-    "createdAt": "2026-09-02T13:15:55.047Z"
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "1288453561012463_122108964465446391",
+        "post_supports_client_mutation_id": true
+      }
+    },
+    "createdAt": "2026-09-02T13:15:55.047Z",
+    "processedAt": "2026-09-02T17:06:47.536Z"
   },
   {
     "id": "f0d698dc-19db-4818-ae3b-4218042a106f",
