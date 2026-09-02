@@ -2040,9 +2040,14 @@
       "threads"
     ],
     "scheduledAt": "2026-09-02T05:11:00.016Z",
-    "status": "claimed",
-    "results": {},
-    "createdAt": "2026-09-02T04:15:20.063Z"
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18010758473949233"
+      }
+    },
+    "createdAt": "2026-09-02T04:15:20.063Z",
+    "processedAt": "2026-09-02T06:09:49.238Z"
   },
   {
     "id": "1d9da01c-9f52-44af-b72a-b4fd222f00e6",
@@ -2078,9 +2083,14 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-02T05:06:53.625Z",
-    "status": "claimed",
-    "results": {},
-    "createdAt": "2026-09-02T04:15:20.077Z"
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "18103084889245667"
+      }
+    },
+    "createdAt": "2026-09-02T04:15:20.077Z",
+    "processedAt": "2026-09-02T06:10:59.731Z"
   },
   {
     "id": "37e599a9-48f5-4c6d-b1c4-82883a055f66",
