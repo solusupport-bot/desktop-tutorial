@@ -62,3 +62,10 @@ jobs:
           git add data/queue.json data/topic_state.json data/topic_blog_links.json
           git commit -m "chore: queue daily Land in Korea topic"
           git push origin "HEAD:${GITHUB_REF_NAME}"
+
+      - name: Verify no duplicate media across posts
+        # 실패해도 워크플로 전체를 빨갛게 만들지 않는다 — 이건 이미 발행 큐에 들어간
+        # 것을 되돌릴 수 없으니, 조용히 놓치지 않고 로그에 남기는 감시 역할만 한다
+        # (2026-09-02 사용자 요청: "검증자 역할을 할 무언가가 필요해").
+        continue-on-error: true
+        run: node scripts/verify-no-duplicate-media.js
