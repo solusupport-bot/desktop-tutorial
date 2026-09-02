@@ -1,0 +1,39 @@
+name: Fill Topic Image Fallbacks (diagnostic)
+
+# 일회성: TOPIC_IMAGES(최후의 폴백)에 빠져 있던 15개 주제를 Pexels 실사진으로 채운다
+# (2026-09-02, verify-topic-media-alignment.js 점검 중 발견).
+on:
+  workflow_dispatch:
+
+jobs:
+  fill:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - run: npm ci
+
+      - name: Fill missing TOPIC_IMAGES entries from Pexels
+        env:
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+        run: node scripts/fill-topic-image-fallbacks.js
+
+      - name: Commit updated topic_images.js
+        run: |
+          if git diff --quiet -- lib/ingestion/topic_images.js; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git config user.name "sns-automation-bot"
+          git config user.email "actions@github.com"
+          git add lib/ingestion/topic_images.js
+          git commit -m "chore: fill missing TOPIC_IMAGES fallback entries from Pexels"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
