@@ -22,6 +22,4 @@ If you've got tax refund horror stories or missed out, reply — I'm researching
 
 ---
 
-**Following the detailed guide on Threads:** [@ACCOUNT_HANDLE_TBD](https://threads.net/@ACCOUNT_HANDLE_TBD) posts daily Korea first-timer tips. Drop by if you're arriving soon.
-
-<!-- TODO: replace ACCOUNT_HANDLE_TBD with the real Threads handle before posting -->
+**Following the detailed guide on Threads:** [@landinkorea](https://threads.net/@landinkorea) posts daily Korea first-timer tips. Drop by if you're arriving soon.

@@ -28,6 +28,4 @@ What else caught you off guard on arrival? Curious if there's a pattern I'm miss
 
 ---
 
-**Daily first-timer tips on Threads:** [@ACCOUNT_HANDLE_TBD](https://threads.net/@ACCOUNT_HANDLE_TBD)
-
-<!-- TODO: replace ACCOUNT_HANDLE_TBD with the real Threads handle before posting -->
+**Daily first-timer tips on Threads:** [@landinkorea](https://threads.net/@landinkorea)
