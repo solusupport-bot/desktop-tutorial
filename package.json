@@ -15,7 +15,7 @@
     "test:tour-api": "node scripts/test-tour-api.js",
     "setup:meta": "bash setup-meta-api.sh",
     "setup:meta:ps1": "powershell -ExecutionPolicy RemoteSigned -File .\\setup-meta-api.ps1",
-    "setup:reddit": "echo '📝 REDDIT_API_SETUP.md를 참고해 다음 환경변수를 설정하세요:' && echo '   REDDIT_CLIENT_ID' && echo '   REDDIT_CLIENT_SECRET' && echo '   REDDIT_USERNAME' && echo '   REDDIT_PASSWORD'",
+    "setup:reddit": "bash setup-reddit-api.sh",
     "setup:meta:github": "echo '📝 GitHub Actions에 다음 Secrets을 추가하세요:' && echo '   FB_PAGE_ACCESS_TOKEN' && echo '   FB_PAGE_ID' && echo '   IG_ACCESS_TOKEN' && echo '   IG_USER_ID' && echo '   THREADS_ACCESS_TOKEN' && echo '   THREADS_USER_ID' && open 'https://github.com/solusupport-bot/desktop-tutorial/settings/secrets/actions'"
   },
   "dependencies": {
