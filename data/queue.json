@@ -2174,9 +2174,14 @@
       "threads"
     ],
     "scheduledAt": "2026-09-03T00:14:14.494Z",
-    "status": "pending",
-    "results": {},
-    "createdAt": "2026-09-02T04:16:15.312Z"
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18090932204159156"
+      }
+    },
+    "createdAt": "2026-09-02T04:16:15.312Z",
+    "processedAt": "2026-09-03T01:03:33.667Z"
   },
   {
     "id": "00502c20-ac90-43a9-a2c3-ee5ddcfd1353",
@@ -2193,9 +2198,15 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-03T00:18:46.724Z",
-    "status": "pending",
-    "results": {},
-    "createdAt": "2026-09-02T04:16:15.314Z"
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "1288453561012463_122109081249446391",
+        "post_supports_client_mutation_id": true
+      }
+    },
+    "createdAt": "2026-09-02T04:16:15.314Z",
+    "processedAt": "2026-09-03T01:03:41.431Z"
   },
   {
     "id": "7fff9d60-25a0-4479-a926-17c5a7299341",
@@ -2206,9 +2217,14 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-02T23:48:26.884Z",
-    "status": "pending",
-    "results": {},
-    "createdAt": "2026-09-02T04:16:15.316Z"
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "17938368174097492"
+      }
+    },
+    "createdAt": "2026-09-02T04:16:15.316Z",
+    "processedAt": "2026-09-03T00:03:38.702Z"
   },
   {
     "id": "018b3b13-d669-4f15-b00f-7ea20d475130",
@@ -2362,9 +2378,15 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-03T01:38:19.293Z",
-    "status": "pending",
-    "results": {},
-    "createdAt": "2026-09-02T13:16:17.571Z"
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "1288453561012463_122109090171446391",
+        "post_supports_client_mutation_id": true
+      }
+    },
+    "createdAt": "2026-09-02T13:16:17.571Z",
+    "processedAt": "2026-09-03T02:03:01.741Z"
   },
   {
     "id": "ac6d8fe2-c3ef-4968-99bb-bc2316e9bf64",
@@ -2375,8 +2397,166 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-03T02:27:39.582Z",
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "18215933650344629"
+      }
+    },
+    "createdAt": "2026-09-02T13:16:17.573Z",
+    "processedAt": "2026-09-03T03:02:55.362Z"
+  },
+  {
+    "id": "bffb7b4b-6431-4ec3-8d11-a5dcde66ad33",
+    "text": "Share one Wi-Fi egg across your group and forget to return it, and the 'free' plan gets an expensive asterisk. No eSIM? Counters wait at Incheon/Gimpo — reserve online for a discount. Return it before your flight. Ever paid a late fee?\n\n📖 More on the blog — link in bio.",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788405218780-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788405218780-0.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788405218780-1.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788405218780-2.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788405218780-3.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788405218780-4.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-09-03T04:09:51.557Z",
     "status": "pending",
     "results": {},
-    "createdAt": "2026-09-02T13:16:17.573Z"
+    "createdAt": "2026-09-03T03:14:02.592Z"
+  },
+  {
+    "id": "1998e3d5-29b3-4857-ad77-6e7bac36c645",
+    "text": "Splitting one Wi-Fi egg across your group only saves money if someone actually returns it. 📶\n\n1. No eSIM support? Physical SIM or Wi-Fi egg pickup counters are at both Incheon and Gimpo arrivals.\n2. Reserving online gets you a discount and a shorter line.\n3. A pocket Wi-Fi router lets a whole group share one connection instead of buying separate SIMs.\n4. Return it at the same airport counter or a marked drop box before your flight — miss it and a late fee applies.\n\nSave this before your group trip to Korea.\nHas a rental fee ever caught you off guard?\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-esim-comparison.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788405218780-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788405218780-0.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788405218780-1.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788405218780-2.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788405218780-3.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788405218780-4.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-09-03T04:27:50.591Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-03T03:14:02.594Z"
+  },
+  {
+    "id": "fb7b7b1b-ea75-4359-8768-d15c779e084d",
+    "text": "One shared Wi-Fi egg for the whole group only pays off if it actually gets returned.\n\nReserve online for a discount, and drop it back at the airport counter before your flight to dodge the late fee.\n\nSave this before your Korea trip.\n\n#KoreaTravel #SeoulTrip #KoreaTips #TravelKorea #VisitSeoul",
+    "imageUrl": null,
+    "videoUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/videos/1788405238077-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-09-03T03:56:20.829Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-03T03:14:02.597Z"
+  },
+  {
+    "id": "c748c243-83b8-4a42-a331-6fc176104cb4",
+    "text": "There's one T-money step almost every first-timer skips, and it costs money on the last day. Tap in AND tap out for transfer discounts. Before flying home, cash out your leftover balance — most people just forget it's there.\n\n📖 More on the blog — link in bio.",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788405243908-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788405243908-0.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788405243908-1.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788405243908-2.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788405243908-3.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788405243908-4.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-09-03T14:09:57.698Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-03T03:14:18.342Z"
+  },
+  {
+    "id": "f05dca04-4955-40ac-a29f-0ddb24ecb5cf",
+    "text": "There's one T-money step most first-timers skip entirely — and it costs them money. 🚇\n\n1. Buy a T-money card at any convenience store (GS25, CU, 7-Eleven) or subway kiosk.\n2. It works on subway, city buses, and many taxis nationwide.\n3. Always tap in AND tap out — skip the tap-out and you lose the subway-to-bus transfer discount.\n4. Before flying home, cash out your unused balance at a station counter — most people just forget it's there.\n\nSave this for your last day in Korea.\nDid you remember to claim your leftover balance?\n\n📖 Full breakdown: https://landinkorea.com/posts/tmoney-first-timer-mistake.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788405243908-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788405243908-0.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788405243908-1.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788405243908-2.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788405243908-3.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788405243908-4.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-09-03T13:14:06.479Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-03T03:14:18.344Z"
+  },
+  {
+    "id": "cf4412d9-137f-4946-a2c4-82cb76108ec3",
+    "text": "There's one T-money step almost every first-timer skips — and it costs real money.\n\nCash out your leftover balance before you fly home. Most people just forget it's sitting on the card.\n\nSave this for your last day in Korea.\n\n#KoreaTravel #SeoulTrip #KoreaTips #TravelKorea #VisitSeoul",
+    "imageUrl": null,
+    "videoUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/videos/1788405256857-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-09-03T13:27:16.875Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-03T03:14:18.346Z"
+  },
+  {
+    "id": "b9294504-69cc-4a2c-aa16-4e7a879a8495",
+    "text": "Not every store with 'tax free' pricing in Korea actually processes it — check the sticker before you buy, not after. Keep your passport on you while shopping; it's needed for the form. Ever gotten stuck without it mid-shop?\n\n📖 More on the blog — link in bio.",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788405259315-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788405259315-0.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788405259315-1.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788405259315-2.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788405259315-3.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788405259315-4.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-09-03T23:20:07.444Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-03T03:14:37.908Z"
+  },
+  {
+    "id": "454f3d95-ab72-47e6-b447-49806141e8d3",
+    "text": "That 'tax free' price tag doesn't always mean what you think in Korea. 🧾\n\n1. Look for the actual Tax Free/Tax Refund sticker at the entrance or register before you buy.\n2. Keep your passport with you while shopping — it's required to issue the form at checkout.\n3. Some department stores and duty-free-adjacent malls process an instant refund at checkout, skipping the airport queue.\n4. No sticker, no refund — check before you commit to the purchase.\n\nSave this before your next shopping trip.\nHave you ever gotten stuck without your passport mid-shop?\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-tax-refund-mistake.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788405259315-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788405259315-0.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788405259315-1.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788405259315-2.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788405259315-3.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788405259315-4.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-09-03T23:26:13.820Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-03T03:14:37.909Z"
+  },
+  {
+    "id": "13aa28cb-835c-4975-b8f0-da57a8735efb",
+    "text": "Not every 'tax free' price tag in Korea actually processes a refund.\n\nCheck for the sticker at the register first, and always carry your passport while shopping.\n\nSave this before you shop in Korea.\n\n#KoreaTravel #SeoulTrip #KoreaTips #TravelKorea #VisitSeoul",
+    "imageUrl": null,
+    "videoUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/videos/1788405274830-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-09-03T23:39:00.362Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-03T03:14:37.912Z"
   }
 ]
