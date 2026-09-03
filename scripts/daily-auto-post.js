@@ -23,7 +23,7 @@ const { findMusicForTopic } = require('../lib/media/topic_music');
 const { uploadMediaFile } = require('../lib/publishing/github_raw_host');
 const {
   pickNextTopic, getRecentImageUrls, recordImageUrl, getRecentVideoUrls, recordVideoUrl,
-  getRecentMusicUrls, recordMusicUrl
+  getRecentMusicUrls, recordMusicUrl, loadState
 } = require('../lib/scheduler/topic_rotation');
 const { curateContent } = require('../lib/curation/curate');
 const { addPost } = require('../lib/scheduler/queue');
@@ -281,8 +281,24 @@ const queueOneTopic = async (topics, window) => {
   }
 };
 
+// 2026-09-03 사용자 요청: scheduler.yml처럼 daily-topic.yml도 실패 시 백업으로 재시도할
+// 필요가 생겼는데(GitHub Actions 자체의 00:07 UTC cron이 그날 조용히 스킵된 사례 확인됨),
+// scheduler.yml과 달리 이 스크립트는 claim-then-publish 락이 없어 하루에 두 번 실행되면
+// 주제가 그대로 2배로 큐잉된다. 오늘 UTC 날짜로 이미 큐잉한 기록이 history에 있으면
+// 조용히 건너뛰어, 몇 번을 재시도로 트리거해도 하루 최대 1회만 실제로 큐잉되게 한다.
+const alreadyQueuedToday = () => {
+  const { history } = loadState();
+  const today = new Date().toISOString().slice(0, 10);
+  return history.some((h) => h.at && h.at.slice(0, 10) === today);
+};
+
 const main = async () => {
   log.section(`Land in Korea 일일 자동 발행 (하루 ${POSTS_PER_DAY}건, 24시간 랜덤 분산)`);
+
+  if (alreadyQueuedToday()) {
+    log.ok('오늘(UTC) 이미 주제를 큐잉했습니다 — 백업 재실행 안전을 위해 건너뜁니다.');
+    return;
+  }
 
   const topics = await fetchKoreaTravelTopics();
   for (let i = 0; i < POSTS_PER_DAY; i += 1) {
