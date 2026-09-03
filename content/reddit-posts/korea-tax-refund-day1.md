@@ -1,3 +1,7 @@
+---
+subreddit: korea
+---
+
 # Most Tourists Lose Their Korea Tax Refund Before They Even Reach the Airport
 
 I help first-timers navigate Korea arrival mistakes, and this one is costing people hundreds. It has nothing to do with paperwork — it's about *when* you pack the item.

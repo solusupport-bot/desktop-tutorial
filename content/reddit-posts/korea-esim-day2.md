@@ -1,3 +1,7 @@
+---
+subreddit: korea
+---
+
 # The eSIM mistake that ruins your first hour in Korea
 
 Bought a Korea eSIM before your trip? Good — but there's a timing mistake that catches almost everyone.

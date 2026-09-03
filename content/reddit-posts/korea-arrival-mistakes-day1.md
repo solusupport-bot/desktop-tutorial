@@ -1,3 +1,7 @@
+---
+subreddit: korea
+---
+
 # Korea arrival day mistakes I keep seeing first-timers make
 
 Landing in Korea for the first time and don't know what to expect? I put together the mistakes that trip up almost everyone in the first 24 hours.
