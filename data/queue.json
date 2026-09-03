@@ -2265,9 +2265,14 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-03T04:56:49.716Z",
-    "status": "claimed",
-    "results": {},
-    "createdAt": "2026-09-02T13:15:20.525Z"
+    "status": "partial",
+    "results": {
+      "facebook": {
+        "error": "publish failed"
+      }
+    },
+    "createdAt": "2026-09-02T13:15:20.525Z",
+    "processedAt": "2026-09-03T05:03:50.399Z"
   },
   {
     "id": "8046e08b-1321-4a08-b41b-19948433a8cb",
@@ -2460,9 +2465,15 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-03T04:27:50.591Z",
-    "status": "claimed",
-    "results": {},
-    "createdAt": "2026-09-03T03:14:02.594Z"
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "1288453561012463_122109148539446391",
+        "post_supports_client_mutation_id": true
+      }
+    },
+    "createdAt": "2026-09-03T03:14:02.594Z",
+    "processedAt": "2026-09-03T05:04:00.440Z"
   },
   {
     "id": "fb7b7b1b-ea75-4359-8768-d15c779e084d",
