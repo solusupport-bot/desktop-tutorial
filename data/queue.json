@@ -2174,7 +2174,7 @@
       "threads"
     ],
     "scheduledAt": "2026-09-03T00:14:14.494Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-02T04:16:15.312Z"
   },
@@ -2193,7 +2193,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-03T00:18:46.724Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-02T04:16:15.314Z"
   },
