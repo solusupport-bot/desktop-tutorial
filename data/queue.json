@@ -2436,9 +2436,14 @@
       "threads"
     ],
     "scheduledAt": "2026-09-03T04:09:51.557Z",
-    "status": "claimed",
-    "results": {},
-    "createdAt": "2026-09-03T03:14:02.592Z"
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18125652562831054"
+      }
+    },
+    "createdAt": "2026-09-03T03:14:02.592Z",
+    "processedAt": "2026-09-03T04:13:50.456Z"
   },
   {
     "id": "1998e3d5-29b3-4857-ad77-6e7bac36c645",
