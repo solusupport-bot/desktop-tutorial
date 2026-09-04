@@ -2575,7 +2575,7 @@
       "threads"
     ],
     "scheduledAt": "2026-09-03T23:20:07.444Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-03T03:14:37.908Z"
   },
@@ -2594,7 +2594,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-03T23:26:13.820Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-03T03:14:37.909Z"
   },
@@ -2607,7 +2607,7 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-03T23:39:00.362Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-03T03:14:37.912Z"
   }
