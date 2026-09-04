@@ -50,7 +50,7 @@ const getRedditSubreddit = (topic, redditConfig) => {
 // 2026년 실측 알고리즘 데이터(Reels가 단일 이미지 대비 reach 2.25x)가 일치해서, 카드뉴스
 // 디자인을 기다리지 않고 Reels(영상) 우선으로 먼저 활성화합니다. 카드뉴스는 저장/참여용
 // 포맷으로 나중에 별도 추가 예정 — Reels가 없는 주제만 이미지 캐로셀로 대체 발행됩니다.
-const PLATFORMS = ['threads', 'facebook', 'instagram', 'reddit'];
+const PLATFORMS = ['threads', 'facebook', 'instagram', 'reddit', 'pinterest'];
 const POSTS_PER_DAY = 3;
 
 // 2026년 실측 데이터 기준 플랫폼별 우선순위(follower growth / engagement 데이터 근거 —
@@ -230,8 +230,13 @@ const queueOneTopic = async (topics, window) => {
   // 블로그 글 slug는 topic_blog_links.json에 이미 있거나(기존 12개 주제는 다 있음),
   // 없으면 sync-blog-posts.js가 같은 daily-topic.yml 실행 안에서 새로 써서 채웁니다 —
   // 이 스크립트는 그 결과를 읽기만 하고, 매핑이 아직 없으면 블로그 홈으로 대체합니다.
-  const blogUrl = withUtm(getBlogLinkForTopic(item.source), 'facebook');
+  const rawBlogLink = getBlogLinkForTopic(item.source);
+  const blogUrl = withUtm(rawBlogLink, 'facebook');
   const hasSpecificPost = blogUrl !== withUtm(BLOG_HOME_URL, 'facebook');
+  // 2026-09-04: reddit/pinterest가 이 blogUrl(utm_source=facebook 고정)을 그대로 써서
+  // GoatCounter 트래픽 분석에서 reddit/pinterest 유입이 facebook으로 잘못 집계될
+  // 뻔했다 — 플랫폼별로 정확한 utm_source를 붙인다.
+  const blogUrlByPlatform = (platform) => withUtm(rawBlogLink, platform);
 
   // Facebook은 한동안 Reels(영상)를 우선했지만, 실제 계정 성과를 직접 보니 이미지
   // 게시물이 영상보다 반응이 더 좋았다(2026-08-31 사용자 실측 피드백) — 이론상 수치
@@ -255,7 +260,9 @@ const queueOneTopic = async (topics, window) => {
     facebook: { imageUrls: watermarkedImages },
     threads: watermarkedImages.length > 0 ? { imageUrls: watermarkedImages } : (video ? { videoUrl: video } : {}),
     instagram: instagramVideo ? { videoUrl: instagramVideo } : { imageUrls: watermarkedImages },
-    reddit: {} // Reddit은 text 기반이므로 미디어는 선택사항
+    reddit: {}, // Reddit은 text 기반이므로 미디어는 선택사항
+    // Pinterest 핀은 이미지 1장 구조 — 워터마크된 대표 이미지 한 장만 사용
+    pinterest: watermarkedImages.length > 0 ? { imageUrls: [watermarkedImages[0]] } : {}
   };
 
   const redditConfig = loadRedditConfig();
@@ -296,8 +303,10 @@ const queueOneTopic = async (topics, window) => {
       text = `${text}\n\n${instagramMusicAttribution}`;
     } else if (platform === 'reddit') {
       // Reddit은 url 형식으로 링크를 명시적으로 표기 가능 (Threads/Instagram과 다름)
-      text = `${text}\n\n📖 Full article: ${blogUrl}`;
+      text = `${text}\n\n📖 Full article: ${blogUrlByPlatform('reddit')}`;
     }
+    // Pinterest는 캡션에 링크를 넣지 않는다 — pin의 구조화된 link 필드로 blogUrl을
+    // 따로 전달한다(핀 설명 텍스트는 검색 키워드 용도이고, 클릭은 link 필드가 담당).
 
     const postData = {
       text,
@@ -310,6 +319,12 @@ const queueOneTopic = async (topics, window) => {
     // Reddit은 subreddit 정보를 추가
     if (platform === 'reddit') {
       postData.subreddit = getRedditSubreddit(item.source, redditConfig);
+      postData.topic = item.source;
+    }
+
+    // Pinterest는 link 필드(blogUrl)와 topic을 추가 — pinterest.js가 핀의 link로 사용
+    if (platform === 'pinterest') {
+      postData.blogUrl = blogUrlByPlatform('pinterest');
       postData.topic = item.source;
     }
 
