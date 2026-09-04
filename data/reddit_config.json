@@ -1,0 +1,78 @@
+{
+  "topics": {
+    "korea-first-timer-essentials": {
+      "subreddit": "koreatravel",
+      "enabled": true,
+      "description": "Essential tips for first-time visitors"
+    },
+    "korea-arrival-tips": {
+      "subreddit": "koreatravel",
+      "enabled": true,
+      "description": "Arrival and getting around Korea"
+    },
+    "korea-transit-guide": {
+      "subreddit": "koreatravel",
+      "enabled": true,
+      "description": "Public transportation in Korea"
+    },
+    "korea-accommodation-neighborhoods": {
+      "subreddit": "koreatravel",
+      "enabled": true,
+      "description": "Where to stay in Korea"
+    },
+    "korea-expat-life": {
+      "subreddit": "expats",
+      "enabled": true,
+      "description": "Living as an expat in Korea"
+    },
+    "korea-dating-relationships": {
+      "subreddit": "expats",
+      "enabled": true,
+      "description": "Social life and relationships in Korea"
+    },
+    "korea-cost-of-living": {
+      "subreddit": "expats",
+      "enabled": true,
+      "description": "Financial life as a foreign resident"
+    },
+    "korea-work-visa": {
+      "subreddit": "expats",
+      "enabled": true,
+      "description": "Work and immigration in Korea"
+    },
+    "korea-food-dining": {
+      "subreddit": "koreatravel",
+      "enabled": true,
+      "description": "Eating and drinking in Korea"
+    },
+    "korea-shopping-culture": {
+      "subreddit": "koreatravel",
+      "enabled": true,
+      "description": "Shopping and culture in Korea"
+    },
+    "korea-attractions": {
+      "subreddit": "koreatravel",
+      "enabled": true,
+      "description": "Tourist attractions and sightseeing"
+    },
+    "korea-apps-tech": {
+      "subreddit": "koreatravel",
+      "enabled": true,
+      "description": "Apps and technology in Korea"
+    },
+    "korea-safety-emergency": {
+      "subreddit": "koreatravel",
+      "enabled": true,
+      "description": "Safety and emergency information"
+    }
+  },
+  "defaults": {
+    "maxPostsPerWeek": 2,
+    "minIntervalHours": 24
+  },
+  "postFormat": {
+    "titleTemplate": "{topic_title}",
+    "useExternalLink": true,
+    "linkText": "[Full article on Land in Korea]"
+  }
+}

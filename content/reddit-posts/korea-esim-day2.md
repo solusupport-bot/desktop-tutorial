@@ -1,3 +1,7 @@
+---
+subreddit: korea
+---
+
 # The eSIM mistake that ruins your first hour in Korea
 
 Bought a Korea eSIM before your trip? Good — but there's a timing mistake that catches almost everyone.
@@ -24,6 +28,4 @@ Anyone had their eSIM fail to activate on arrival? What did you end up doing?
 
 ---
 
-**More arrival-day tips on Threads:** [@ACCOUNT_HANDLE_TBD](https://threads.net/@ACCOUNT_HANDLE_TBD)
-
-<!-- TODO: replace ACCOUNT_HANDLE_TBD with the real Threads handle before posting -->
+**More arrival-day tips on Threads:** [@landinkorea](https://threads.net/@landinkorea)

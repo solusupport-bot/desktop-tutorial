@@ -1,3 +1,7 @@
+---
+subreddit: korea
+---
+
 # Korea arrival day mistakes I keep seeing first-timers make
 
 Landing in Korea for the first time and don't know what to expect? I put together the mistakes that trip up almost everyone in the first 24 hours.
@@ -28,6 +32,4 @@ What else caught you off guard on arrival? Curious if there's a pattern I'm miss
 
 ---
 
-**Daily first-timer tips on Threads:** [@ACCOUNT_HANDLE_TBD](https://threads.net/@ACCOUNT_HANDLE_TBD)
-
-<!-- TODO: replace ACCOUNT_HANDLE_TBD with the real Threads handle before posting -->
+**Daily first-timer tips on Threads:** [@landinkorea](https://threads.net/@landinkorea)

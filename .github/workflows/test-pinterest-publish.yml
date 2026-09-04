@@ -1,0 +1,21 @@
+name: Test Pinterest Publish
+
+# Pinterest 자격증명(PINTEREST_ACCESS_TOKEN, PINTEREST_BOARD_ID) 등록 후
+# 실제로 핀 발행이 되는지 1회성으로 확인하는 워크플로우.
+on:
+  workflow_dispatch:
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm ci
+      - name: Test Pinterest publish
+        env:
+          PINTEREST_ACCESS_TOKEN: ${{ secrets.PINTEREST_ACCESS_TOKEN }}
+          PINTEREST_BOARD_ID: ${{ secrets.PINTEREST_BOARD_ID }}
+        run: node scripts/test-pinterest-publish.js

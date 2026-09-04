@@ -1,10 +1,7 @@
 {
-  "Airport transfer options": "incheon-airport-transfer-comparison",
   "eSIM & mobile data": "korea-esim-comparison",
   "T-money transit card": "tmoney-first-timer-mistake",
   "Tax refund (Tax Free) shopping": "korea-tax-refund-mistake",
-  "Travel advisories & safety notices": "korea-safety-vs-weather-risk",
-  "First-timer etiquette & common mistakes": "korea-etiquette-mistakes",
   "Currency & card payments": "korea-currency-card-payment-mistake",
   "Emergency numbers & 24hr pharmacies": "korea-emergency-numbers-pharmacy-guide",
   "Useful travel apps": "korea-travel-apps-comparison",
@@ -17,5 +14,8 @@
   "N Seoul Tower (Namsan)": "korea-n-seoul-tower-namsan",
   "Myeongdong shopping district": "korea-myeongdong-shopping-district",
   "Busan Haeundae Beach & Gamcheon Culture Village": "korea-busan-haeundae-beach-gamcheon-culture-village",
-  "Jeju Island": "korea-jeju-island"
+  "Jeju Island": "korea-jeju-island",
+  "Travel advisories & safety notices": "korea-travel-advisories-safety-notices",
+  "Airport transfer options": "korea-airport-transfer-options",
+  "First-timer etiquette & common mistakes": "korea-first-timer-etiquette-common-mistakes"
 }
