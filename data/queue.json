@@ -2752,9 +2752,14 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-04T15:10:12.780Z",
-    "status": "claimed",
-    "results": {},
-    "createdAt": "2026-09-04T04:25:55.916Z"
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "18244056217312776"
+      }
+    },
+    "createdAt": "2026-09-04T04:25:55.916Z",
+    "processedAt": "2026-09-04T16:03:34.698Z"
   },
   {
     "id": "0c93742d-ea78-4133-9da3-d70b22d0db3d",
