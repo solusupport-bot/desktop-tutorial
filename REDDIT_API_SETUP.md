@@ -1,60 +1,72 @@
-# 🔐 Reddit API 토큰 발급 가이드
+# Reddit API 설정 가이드
 
-Reddit 자동 발행을 위한 API 토큰 발급 절차입니다.
+Reddit 자동 발행을 활성화하려면 Reddit API를 설정해야 합니다.
 
----
+## 1단계: Reddit 개발자 앱 등록
 
-## ⚡ 빠른 시작 (5분)
+1. https://www.reddit.com/prefs/apps 방문
+2. "are you a developer? create an app ..." 클릭
+3. 앱 정보 입력:
+   - **name**: "Land in Korea SNS Automation"
+   - **type**: "script" (개인용 스크립트)
+   - **redirect uri**: http://localhost:8080 (또는 아무 URL)
+4. "create app" 클릭
 
-### Step 1: Reddit 개발자 앱 등록
+## 2단계: 인증 정보 수집
 
-```
-1. https://www.reddit.com/prefs/apps 접속
-2. 하단 "create an app" 또는 "create another app" 클릭
-3. 앱 이름: "Land in Korea SNS Automation" (아무 이름 가능)
-4. 앱 타입: "script" 선택 (개인용 스크립트)
-5. 설명: "Korea travel blog SNS automation"
-6. Redirect URI: "http://localhost:8080" (필수이지만 실제로 사용 안 함)
-7. Create app 클릭
-```
+앱 생성 후:
+- **Client ID**: 앱 이름 아래 표시되는 ID (약 14자)
+- **Client Secret**: "secret" 옆의 값
 
-### Step 2: 토큰 확인
+## 3단계: GitHub Actions Secrets 추가
 
-앱 생성 후 화면에서:
-- **client_id**: "script" 라벨 아래 표시됨
-- **client_secret**: "secret" 값
-- **username**: 앱을 만든 Reddit 계정명
-- **password**: 해당 계정의 Reddit 비밀번호
+https://github.com/solusupport-bot/desktop-tutorial/settings/secrets/actions
 
-### Step 3: .env 파일에 저장
+다음 4개 secret을 추가:
 
+| Key | Value |
+|-----|-------|
+| `REDDIT_CLIENT_ID` | 2단계에서 얻은 Client ID |
+| `REDDIT_CLIENT_SECRET` | 2단계에서 얻은 Client Secret |
+| `REDDIT_USERNAME` | Reddit 계정명 |
+| `REDDIT_PASSWORD` | Reddit 비밀번호 |
+
+## 4단계: Reddit 채널 설정
+
+`data/reddit_config.json`에서 각 주제별 subreddit 매핑을 확인:
+- `koreatravel`: 한국 여행 관련 주제
+- `expats`: 한국 거주/이민 관련 주제
+
+기본 설정으로도 작동하지만, 특정 주제를 특정 subreddit으로 보내고 싶으면 여기서 수정.
+
+## 5단계: 테스트
+
+GitHub Actions 수동 실행:
 ```bash
-# .env 에 다음 추가:
-REDDIT_CLIENT_ID=your_client_id_here
-REDDIT_CLIENT_SECRET=your_client_secret_here
-REDDIT_USERNAME=your_reddit_username_here
-REDDIT_PASSWORD=your_reddit_password_here
+# daily-topic.yml 실행
+gh workflow run daily-topic.yml
+
+# scheduler.yml 실행 (발행)
+gh workflow run scheduler.yml
 ```
 
-### Step 4: 토큰 테스트
+## 트러블슈팅
 
-```bash
-npm run test:reddit
-```
+### 401 Unauthorized
+- Reddit 자격증명(username/password) 재확인
+- GitHub Secrets 값 공백 제거
 
----
+### "Subreddit not found"
+- subreddit 이름 오타 확인
+- subreddit 존재 여부 확인 (https://reddit.com/r/subreddit_name)
 
-## ⚠️ 중요 사항
+### "You are doing that too much" (Rate limit)
+- Reddit은 계정당 분당 발행 제한이 있습니다
+- 새 계정일 경우 제한이 더 엄격할 수 있습니다
+- 발행 간격을 늘리거나 하루 3개 주제 대신 1-2개로 줄일 수 있습니다
 
-1. **계정 보안**: Reddit 비밀번호는 절대 GitHub에 커밋하지 않기 (`.gitignore` 확인)
-2. **API 이용 약관**: Reddit API 약관 준수 필수
-3. **Rate Limiting**: Reddit API는 분당 요청 제한이 있음 (자동화에서 처리됨)
-4. **User-Agent**: 모든 요청에 명확한 User-Agent 필수
+## 참고
 
----
-
-## 🔗 참고 자료
-
-- [Reddit API 문서](https://www.reddit.com/dev/api)
-- [Reddit OAuth2 인증](https://github.com/reddit-archive/reddit/wiki/OAuth2)
-- [snoowrap 라이브러리](https://github.com/not-an-aardvark/snoowrap) (JavaScript Reddit API Wrapper)
+- Reddit API는 사용 약관을 준수해야 합니다 (자동화된 댓글 금지 등)
+- 자체 콘텐츠만 발행하는 것은 일반적으로 허용됩니다
+- 다른 subreddit의 규칙을 반드시 확인하세요

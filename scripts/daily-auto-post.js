@@ -29,12 +29,28 @@ const { curateContent } = require('../lib/curation/curate');
 const { addPost } = require('../lib/scheduler/queue');
 const { getBlogLinkForTopic, withUtm, BLOG_HOME_URL } = require('../lib/ingestion/topic_blog_links');
 
+const loadRedditConfig = () => {
+  try {
+    return JSON.parse(fs.readFileSync('data/reddit_config.json', 'utf8'));
+  } catch (err) {
+    log.warn('reddit_config.json을 읽을 수 없습니다 — Reddit 발행이 건너뛰어집니다.');
+    return null;
+  }
+};
+
+const getRedditSubreddit = (topic, redditConfig) => {
+  if (!redditConfig) return null;
+  const config = redditConfig.topics?.[topic];
+  if (!config || !config.enabled) return null;
+  return config.subreddit;
+};
+
 // Instagram 카드뉴스(9슬라이드 디자인, CARD_DESIGN_SPEC.md)는 아직 실제로 만들어지지
 // 않았지만, 계정 자체 인사이트 데이터(단일 이미지 1~4회 노출 vs 영상 42~110회 노출)와
 // 2026년 실측 알고리즘 데이터(Reels가 단일 이미지 대비 reach 2.25x)가 일치해서, 카드뉴스
 // 디자인을 기다리지 않고 Reels(영상) 우선으로 먼저 활성화합니다. 카드뉴스는 저장/참여용
 // 포맷으로 나중에 별도 추가 예정 — Reels가 없는 주제만 이미지 캐로셀로 대체 발행됩니다.
-const PLATFORMS = ['threads', 'facebook', 'instagram'];
+const PLATFORMS = ['threads', 'facebook', 'instagram', 'reddit'];
 const POSTS_PER_DAY = 3;
 
 // 2026년 실측 데이터 기준 플랫폼별 우선순위(follower growth / engagement 데이터 근거 —
@@ -238,14 +254,27 @@ const queueOneTopic = async (topics, window) => {
   const mediaByPlatform = {
     facebook: { imageUrls: watermarkedImages },
     threads: watermarkedImages.length > 0 ? { imageUrls: watermarkedImages } : (video ? { videoUrl: video } : {}),
-    instagram: instagramVideo ? { videoUrl: instagramVideo } : { imageUrls: watermarkedImages }
+    instagram: instagramVideo ? { videoUrl: instagramVideo } : { imageUrls: watermarkedImages },
+    reddit: {} // Reddit은 text 기반이므로 미디어는 선택사항
   };
+
+  const redditConfig = loadRedditConfig();
 
   for (const platform of PLATFORMS) {
     const media = mediaByPlatform[platform] || {};
-    if (!(media.imageUrls && media.imageUrls.length) && !media.videoUrl) {
+    // Reddit은 text 기반이므로 미디어가 없어도 발행 가능
+    if (platform !== 'reddit' && !(media.imageUrls && media.imageUrls.length) && !media.videoUrl) {
       log.warn(`[${platform}] 사용할 미디어가 없어 큐 등록을 건너뜁니다: ${item.source}`);
       continue;
+    }
+
+    // Reddit 설정 확인
+    if (platform === 'reddit') {
+      const subreddit = getRedditSubreddit(item.source, redditConfig);
+      if (!subreddit) {
+        log.warn(`[reddit] 설정된 subreddit이 없어 건너뜁니다: ${item.source}`);
+        continue;
+      }
     }
 
     const scheduledAt = withPlatformJitter(baseTime).toISOString();
@@ -265,15 +294,26 @@ const queueOneTopic = async (topics, window) => {
     } else if (platform === 'instagram' && media.videoUrl && instagramMusicAttribution) {
       // Openverse의 CC BY/CC BY-SA 라이선스는 아티스트 크레딧 표기가 조건이라 캡션에 남긴다.
       text = `${text}\n\n${instagramMusicAttribution}`;
+    } else if (platform === 'reddit') {
+      // Reddit은 url 형식으로 링크를 명시적으로 표기 가능 (Threads/Instagram과 다름)
+      text = `${text}\n\n📖 Full article: ${blogUrl}`;
     }
 
-    const queued = addPost({
+    const postData = {
       text,
       imageUrls: media.imageUrls,
       videoUrl: media.videoUrl,
       platforms: [platform],
       scheduledAt
-    });
+    };
+
+    // Reddit은 subreddit 정보를 추가
+    if (platform === 'reddit') {
+      postData.subreddit = getRedditSubreddit(item.source, redditConfig);
+      postData.topic = item.source;
+    }
+
+    const queued = addPost(postData);
     const mediaLabel = media.videoUrl
       ? '영상'
       : media.imageUrls.length > 1 ? `이미지 ${media.imageUrls.length}장` : '단일 이미지';
