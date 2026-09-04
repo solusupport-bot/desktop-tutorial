@@ -2674,9 +2674,14 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-04T04:40:53.942Z",
-    "status": "claimed",
-    "results": {},
-    "createdAt": "2026-09-04T04:25:28.305Z"
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "18110669273321509"
+      }
+    },
+    "createdAt": "2026-09-04T04:25:28.305Z",
+    "processedAt": "2026-09-04T04:47:15.738Z"
   },
   {
     "id": "de689143-d022-49b3-9381-000c39c2664e",
