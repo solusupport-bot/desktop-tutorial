@@ -2575,9 +2575,14 @@
       "threads"
     ],
     "scheduledAt": "2026-09-03T23:20:07.444Z",
-    "status": "claimed",
-    "results": {},
-    "createdAt": "2026-09-03T03:14:37.908Z"
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18147065482552379"
+      }
+    },
+    "createdAt": "2026-09-03T03:14:37.908Z",
+    "processedAt": "2026-09-04T00:24:10.602Z"
   },
   {
     "id": "454f3d95-ab72-47e6-b447-49806141e8d3",
@@ -2594,9 +2599,15 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-03T23:26:13.820Z",
-    "status": "claimed",
-    "results": {},
-    "createdAt": "2026-09-03T03:14:37.909Z"
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "1288453561012463_122109474087446391",
+        "post_supports_client_mutation_id": true
+      }
+    },
+    "createdAt": "2026-09-03T03:14:37.909Z",
+    "processedAt": "2026-09-04T00:24:23.538Z"
   },
   {
     "id": "13aa28cb-835c-4975-b8f0-da57a8735efb",
@@ -2607,8 +2618,13 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-03T23:39:00.362Z",
-    "status": "claimed",
-    "results": {},
-    "createdAt": "2026-09-03T03:14:37.912Z"
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "18115404445964898"
+      }
+    },
+    "createdAt": "2026-09-03T03:14:37.912Z",
+    "processedAt": "2026-09-04T00:25:47.349Z"
   }
 ]
