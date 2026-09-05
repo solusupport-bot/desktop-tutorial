@@ -2932,7 +2932,7 @@
       "threads"
     ],
     "scheduledAt": "2026-09-05T13:34:34.981Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-05T02:08:46.301Z"
   },
@@ -2951,7 +2951,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-05T13:30:06.973Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-05T02:08:46.303Z"
   },
@@ -2964,7 +2964,7 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-05T13:54:08.895Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-05T02:08:46.307Z"
   },
@@ -2979,7 +2979,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-05T13:32:24.921Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-05T02:08:46.309Z",
     "blogUrl": "https://landinkorea.com/posts/korea-emergency-numbers-pharmacy-guide.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
