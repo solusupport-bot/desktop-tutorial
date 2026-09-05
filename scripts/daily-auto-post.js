@@ -50,7 +50,12 @@ const getRedditSubreddit = (topic, redditConfig) => {
 // 2026년 실측 알고리즘 데이터(Reels가 단일 이미지 대비 reach 2.25x)가 일치해서, 카드뉴스
 // 디자인을 기다리지 않고 Reels(영상) 우선으로 먼저 활성화합니다. 카드뉴스는 저장/참여용
 // 포맷으로 나중에 별도 추가 예정 — Reels가 없는 주제만 이미지 캐로셀로 대체 발행됩니다.
-const PLATFORMS = ['threads', 'facebook', 'instagram', 'reddit', 'pinterest'];
+// 2026-09-05: bluesky/mastodon 추가. 둘 다 플랫폼 심사·승인 절차가 없어서(앱 비밀번호 /
+// 액세스 토큰 발급만으로 즉시 발행 가능) Meta 앱 심사나 Pinterest Standard 액세스 승인을
+// 기다리는 동안에도 항상 살아 있는 발행 경로다. 게다가 둘 다 본문 링크에 도달 페널티가
+// 없어서, Threads/Instagram처럼 "링크는 bio에"로 우회하지 않고 글 주소를 본문에 직접
+// 넣을 수 있다 — Pinterest와 함께 블로그 유입 마찰이 가장 적은 채널.
+const PLATFORMS = ['threads', 'facebook', 'instagram', 'reddit', 'pinterest', 'bluesky', 'mastodon'];
 const POSTS_PER_DAY = 3;
 
 // 2026년 실측 데이터 기준 플랫폼별 우선순위(follower growth / engagement 데이터 근거 —
@@ -262,15 +267,21 @@ const queueOneTopic = async (topics, window) => {
     instagram: instagramVideo ? { videoUrl: instagramVideo } : { imageUrls: watermarkedImages },
     reddit: {}, // Reddit은 text 기반이므로 미디어는 선택사항
     // Pinterest 핀은 이미지 1장 구조 — 워터마크된 대표 이미지 한 장만 사용
-    pinterest: watermarkedImages.length > 0 ? { imageUrls: [watermarkedImages[0]] } : {}
+    pinterest: watermarkedImages.length > 0 ? { imageUrls: [watermarkedImages[0]] } : {},
+    // bluesky/mastodon은 이미지가 있으면 붙이고 없으면 텍스트로 발행한다(둘 다 첨부
+    // 최대 4장). 아래 미디어 없음 스킵 조건에서도 제외돼 있어서, 이미지를 못 구한
+    // 날에도 이 두 채널로는 발행이 나간다.
+    bluesky: watermarkedImages.length > 0 ? { imageUrls: watermarkedImages.slice(0, 4) } : {},
+    mastodon: watermarkedImages.length > 0 ? { imageUrls: watermarkedImages.slice(0, 4) } : {}
   };
 
   const redditConfig = loadRedditConfig();
 
   for (const platform of PLATFORMS) {
     const media = mediaByPlatform[platform] || {};
-    // Reddit은 text 기반이므로 미디어가 없어도 발행 가능
-    if (platform !== 'reddit' && !(media.imageUrls && media.imageUrls.length) && !media.videoUrl) {
+    // reddit/bluesky/mastodon은 text 기반이라 미디어가 없어도 발행 가능하다.
+    const TEXT_ONLY_OK = ['reddit', 'bluesky', 'mastodon'];
+    if (!TEXT_ONLY_OK.includes(platform) && !(media.imageUrls && media.imageUrls.length) && !media.videoUrl) {
       log.warn(`[${platform}] 사용할 미디어가 없어 큐 등록을 건너뜁니다: ${item.source}`);
       continue;
     }
@@ -305,6 +316,11 @@ const queueOneTopic = async (topics, window) => {
       // Reddit은 url 형식으로 링크를 명시적으로 표기 가능 (Threads/Instagram과 다름)
       text = `${text}\n\n📖 Full article: ${blogUrlByPlatform('reddit')}`;
     }
+    // bluesky/mastodon도 링크 페널티가 없어 본문에 글 주소를 직접 넣는다. 다만 여기서
+    // 문자열로 붙이지 않고 blogUrl로 넘긴다 — 두 모듈이 본문을 답글 체인으로 나눈 뒤
+    // 마지막 조각에 링크를 붙이고, Bluesky는 추가로 facet(리치텍스트 주석)을 만들어
+    // 클릭 가능하게 해야 하기 때문이다. 여기서 미리 이어붙이면 링크가 중간 조각에
+    // 끼어 잘릴 수 있다.
     // Pinterest는 캡션에 링크를 넣지 않는다 — pin의 구조화된 link 필드로 blogUrl을
     // 따로 전달한다(핀 설명 텍스트는 검색 키워드 용도이고, 클릭은 link 필드가 담당).
 
@@ -328,10 +344,21 @@ const queueOneTopic = async (topics, window) => {
       postData.topic = item.source;
     }
 
+    // bluesky/mastodon은 본문에 링크를 직접 넣을 수 있어 blogUrl을 넘긴다(각 모듈이
+    // 답글 체인 마지막 조각에 붙이고, Bluesky는 facet까지 만든다). topic은 이미지
+    // 대체 텍스트(alt)에 쓰인다 — Mastodon은 alt 없는 이미지에 특히 민감하다.
+    if (platform === 'bluesky' || platform === 'mastodon') {
+      postData.blogUrl = blogUrlByPlatform(platform);
+      postData.topic = item.source;
+    }
+
     const queued = addPost(postData);
+    // media.imageUrls는 reddit/bluesky/mastodon처럼 미디어 없이 발행하는 채널에서
+    // undefined다 — .length를 바로 읽으면 TypeError로 그 항목의 큐 등록이 죽는다.
+    const imageCount = (media.imageUrls || []).length;
     const mediaLabel = media.videoUrl
       ? '영상'
-      : media.imageUrls.length > 1 ? `이미지 ${media.imageUrls.length}장` : '단일 이미지';
+      : imageCount > 1 ? `이미지 ${imageCount}장` : imageCount === 1 ? '단일 이미지' : '미디어 없음';
     log.ok(`[${platform}] 큐 등록: ${queued.id} (예약 ${scheduledAt}, ${mediaLabel})`);
   }
 };

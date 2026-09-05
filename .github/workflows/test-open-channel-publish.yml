@@ -1,0 +1,24 @@
+name: Test Open Channel Publish (Bluesky / Mastodon)
+
+# 승인 절차가 없는 채널(Bluesky, Mastodon)의 자격증명을 등록한 뒤 실제로 발행이
+# 되는지 1회성으로 확인하는 워크플로우. Pinterest와 달리 플랫폼 심사 대기가 없으므로,
+# 시크릿만 넣으면 바로 이 워크플로우로 검증할 수 있다.
+on:
+  workflow_dispatch:
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm ci
+      - name: Test Bluesky / Mastodon publish
+        env:
+          BLUESKY_IDENTIFIER: ${{ secrets.BLUESKY_IDENTIFIER }}
+          BLUESKY_APP_PASSWORD: ${{ secrets.BLUESKY_APP_PASSWORD }}
+          MASTODON_INSTANCE: ${{ secrets.MASTODON_INSTANCE }}
+          MASTODON_ACCESS_TOKEN: ${{ secrets.MASTODON_ACCESS_TOKEN }}
+        run: node scripts/test-open-channel-publish.js
