@@ -6,9 +6,12 @@
  *
  * Mastodon 가입은 (1) 앱 등록으로 client_id/secret 발급 -> (2) client_credentials로
  * 앱 토큰 발급 -> (3) 그 토큰으로 /api/v1/accounts에 실제 계정 등록, 3단계다.
- * 인스턴스에 따라 등록 즉시 사용 가능하거나(approval_required=false), 관리자
- * 승인이 필요할 수 있다(approval_required=true) — 후자는 API로 끝낼 수 없는
- * 부분이라 결과를 그대로 출력한다.
+ * 일부 인스턴스는 date_of_birth를 필수로 요구한다(EU 연령 규정 대응) — 만 16세
+ * 이상임을 밝히는 형식적 필드라, 실제 개인정보가 아닌 성인 연도의 임의 날짜를 쓴다.
+ *
+ * approval_required=true인 인스턴스는 API로 가입해도 관리자 승인 전까지 로그인/
+ * 발행이 안 된다 — 이건 사람이 개입해야 하는 부분이라 시도 자체를 건너뛰고
+ * 즉시 실패 처리한다(다른 인스턴스를 시도하라는 신호).
  *
  * 사용법: MASTODON_NEW_INSTANCE=... MASTODON_NEW_USERNAME=... MASTODON_NEW_EMAIL=... \
  *   MASTODON_NEW_PASSWORD=... node scripts/create-mastodon-account.js
@@ -29,11 +32,18 @@ const run = async () => {
 
   try {
     const info = await axios.get(`${instance}/api/v2/instance`, { timeout: 15000 });
+    const enabled = info.data?.registrations?.enabled;
+    const approvalRequired = info.data?.registrations?.approval_required;
     console.log('=== 인스턴스 등록 정책 ===');
-    console.log('registrations.enabled:', info.data?.registrations?.enabled);
-    console.log('registrations.approval_required:', info.data?.registrations?.approval_required);
-    if (info.data?.registrations?.enabled === false) {
+    console.log('registrations.enabled:', enabled);
+    console.log('registrations.approval_required:', approvalRequired);
+    if (enabled === false) {
       console.error('이 인스턴스는 신규 가입을 받지 않습니다. 다른 인스턴스를 시도하세요.');
+      process.exitCode = 1;
+      return;
+    }
+    if (approvalRequired === true) {
+      console.error('이 인스턴스는 관리자 승인이 필요합니다 — API만으로 즉시 사용 가능한 계정을 만들 수 없습니다. 다른 인스턴스를 시도하세요.');
       process.exitCode = 1;
       return;
     }
@@ -78,7 +88,8 @@ const run = async () => {
       email,
       password,
       agreement: true,
-      locale: 'en'
+      locale: 'en',
+      date_of_birth: '1995-01-01'
     }, {
       headers: { Authorization: `Bearer ${appToken}`, 'Content-Type': 'application/json' },
       timeout: 15000
@@ -90,7 +101,7 @@ const run = async () => {
     if (regRes.data.access_token) {
       console.log('access_token이 바로 발급됨 — 승인 대기 없이 즉시 사용 가능할 확률이 높습니다.');
     } else {
-      console.log('access_token 없음 — 이메일 인증 또는 관리자 승인이 필요할 수 있습니다.');
+      console.log('access_token 없음 — 이메일 인증이 필요할 수 있습니다.');
     }
   } catch (err) {
     console.error('=== 계정 생성 실패 ===');
