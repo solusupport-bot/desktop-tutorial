@@ -2843,7 +2843,7 @@
       "threads"
     ],
     "scheduledAt": "2026-09-05T04:15:01.008Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-05T02:08:15.541Z"
   },
@@ -2875,7 +2875,7 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-05T04:04:02.090Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-05T02:08:15.545Z"
   },
@@ -2890,7 +2890,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-05T04:27:48.174Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-05T02:08:15.547Z",
     "blogUrl": "https://landinkorea.com/posts/korea-currency-card-payment-mistake.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
