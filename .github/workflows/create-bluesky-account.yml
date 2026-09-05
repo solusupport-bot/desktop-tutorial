@@ -1,0 +1,34 @@
+name: Create Bluesky Account
+
+# 1회성 워크플로우 — Bluesky 계정을 API로 생성하고 앱 비밀번호까지 발급한다.
+# 실행 후 로그에 찍히는 BLUESKY_IDENTIFIER/BLUESKY_APP_PASSWORD를 GitHub Secrets에
+# 등록하면 이 워크플로우의 역할은 끝난다 — 계정 생성 성공 후에는 이 파일을 삭제해도
+# 무방하다(같은 handle로 재실행하면 중복 오류만 난다).
+on:
+  workflow_dispatch:
+    inputs:
+      handle:
+        description: '만들 핸들 (예: landinkorea.bsky.social)'
+        required: true
+      email:
+        description: '계정 이메일'
+        required: true
+      password:
+        description: '계정 로그인 비밀번호 (앱 비밀번호와 별개)'
+        required: true
+
+jobs:
+  create-account:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm ci
+      - name: Create Bluesky account
+        env:
+          BLUESKY_NEW_HANDLE: ${{ inputs.handle }}
+          BLUESKY_NEW_EMAIL: ${{ inputs.email }}
+          BLUESKY_NEW_PASSWORD: ${{ inputs.password }}
+        run: node scripts/create-bluesky-account.js
