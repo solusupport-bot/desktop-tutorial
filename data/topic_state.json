@@ -1,5 +1,5 @@
 {
-  "lastIndex": 11,
+  "lastIndex": 14,
   "history": [
     {
       "index": 0,
@@ -275,6 +275,21 @@
       "index": 11,
       "topic": "First-timer etiquette & common mistakes",
       "at": "2026-09-04T04:25:55.917Z"
+    },
+    {
+      "index": 12,
+      "topic": "Currency & card payments",
+      "at": "2026-09-05T02:06:28.688Z"
+    },
+    {
+      "index": 13,
+      "topic": "Emergency numbers & 24hr pharmacies",
+      "at": "2026-09-05T02:08:15.548Z"
+    },
+    {
+      "index": 14,
+      "topic": "Useful travel apps",
+      "at": "2026-09-05T02:08:46.310Z"
     }
   ],
   "recentImageUrls": [
@@ -404,7 +419,22 @@
     "https://images.pexels.com/photos/8953664/pexels-photo-8953664.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://images.pexels.com/photos/3643406/pexels-photo-3643406.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://images.pexels.com/photos/31203777/pexels-photo-31203777.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://images.pexels.com/photos/4840726/pexels-photo-4840726.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "https://images.pexels.com/photos/4840726/pexels-photo-4840726.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/28074077/pexels-photo-28074077.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/25337970/pexels-photo-25337970.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/28492779/pexels-photo-28492779.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/38837843/pexels-photo-38837843.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/5746260/pexels-photo-5746260.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/31768204/pexels-photo-31768204.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/26730892/pexels-photo-26730892.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/31842468/pexels-photo-31842468.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/31735909/pexels-photo-31735909.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/38331976/pexels-photo-38331976.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/32042547/pexels-photo-32042547.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/26732085/pexels-photo-26732085.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/31768182/pexels-photo-31768182.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/33019241/pexels-photo-33019241.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/31986900/pexels-photo-31986900.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
   ],
   "recentVideoUrls": [
     "https://videos.pexels.com/video-files/19577787/19577787-uhd_2160_3840_30fps.mp4",
@@ -441,7 +471,10 @@
     "https://videos.pexels.com/video-files/37203915/15760241_1440_1920_30fps.mp4",
     "https://videos.pexels.com/video-files/34676852/14697919_1080_1920_60fps.mp4",
     "https://videos.pexels.com/video-files/36949142/15653527_1080_1920_30fps.mp4",
-    "https://videos.pexels.com/video-files/32214386/13739071_1080_1920_30fps.mp4"
+    "https://videos.pexels.com/video-files/32214386/13739071_1080_1920_30fps.mp4",
+    "https://videos.pexels.com/video-files/29938300/12848963_2160_3840_30fps.mp4",
+    "https://videos.pexels.com/video-files/38489829/16346158_2160_3840_30fps.mp4",
+    "https://videos.pexels.com/video-files/34753853/14732848_1080_1920_30fps.mp4"
   ],
   "recentMusicUrls": [
     "https://prod-1.storage.jamendo.com/?trackid=20237&format=mp32",
@@ -453,6 +486,8 @@
     "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/main/assets/music/good-thing-instrumental.m4a",
     "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/main/assets/music/high-with-me-instrumental.m4a",
     "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/main/assets/music/my-vibe.m4a",
-    "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/main/assets/music/till-the-night-instrumental.m4a"
+    "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/main/assets/music/till-the-night-instrumental.m4a",
+    "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/main/assets/music/slow-it-down-instrumental.m4a",
+    "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/main/assets/music/merry-and-bright-photo-dump.m4a"
   ]
 }
