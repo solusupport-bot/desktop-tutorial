@@ -1,0 +1,37 @@
+name: Create Mastodon Account
+
+# 1회성 워크플로우 — Mastodon 계정을 API로 생성한다. 성공하면 로그에 찍히는
+# MASTODON_ACCESS_TOKEN을 GitHub Secrets에 등록하는 것으로 끝난다. 계정 생성
+# 성공 후에는 이 파일을 삭제해도 무방하다.
+on:
+  workflow_dispatch:
+    inputs:
+      instance:
+        description: '인스턴스 주소 (예: https://mstdn.social)'
+        required: true
+      username:
+        description: '계정 사용자명'
+        required: true
+      email:
+        description: '계정 이메일'
+        required: true
+      password:
+        description: '계정 로그인 비밀번호'
+        required: true
+
+jobs:
+  create-account:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm ci
+      - name: Create Mastodon account
+        env:
+          MASTODON_NEW_INSTANCE: ${{ inputs.instance }}
+          MASTODON_NEW_USERNAME: ${{ inputs.username }}
+          MASTODON_NEW_EMAIL: ${{ inputs.email }}
+          MASTODON_NEW_PASSWORD: ${{ inputs.password }}
+        run: node scripts/create-mastodon-account.js
