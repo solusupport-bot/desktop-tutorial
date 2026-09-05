@@ -2843,9 +2843,14 @@
       "threads"
     ],
     "scheduledAt": "2026-09-05T04:15:01.008Z",
-    "status": "claimed",
-    "results": {},
-    "createdAt": "2026-09-05T02:08:15.541Z"
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18051758873601507"
+      }
+    },
+    "createdAt": "2026-09-05T02:08:15.541Z",
+    "processedAt": "2026-09-05T05:06:52.716Z"
   },
   {
     "id": "7a9eeec6-b90e-44f1-afe2-ee1266fad608",
@@ -2875,9 +2880,14 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-05T04:04:02.090Z",
-    "status": "claimed",
-    "results": {},
-    "createdAt": "2026-09-05T02:08:15.545Z"
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "18071778407743035"
+      }
+    },
+    "createdAt": "2026-09-05T02:08:15.545Z",
+    "processedAt": "2026-09-05T05:07:52.040Z"
   },
   {
     "id": "7aa8f267-6cf4-450b-8d60-07b524255e6e",
@@ -2890,11 +2900,16 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-05T04:27:48.174Z",
-    "status": "claimed",
-    "results": {},
+    "status": "partial",
+    "results": {
+      "pinterest": {
+        "error": "publish failed"
+      }
+    },
     "createdAt": "2026-09-05T02:08:15.547Z",
     "blogUrl": "https://landinkorea.com/posts/korea-currency-card-payment-mistake.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
-    "topic": "Currency & card payments"
+    "topic": "Currency & card payments",
+    "processedAt": "2026-09-05T05:07:52.147Z"
   },
   {
     "id": "84fcc337-7f59-4da6-8b1e-70685641c9af",
