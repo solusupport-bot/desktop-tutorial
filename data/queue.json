@@ -3021,9 +3021,14 @@
       "threads"
     ],
     "scheduledAt": "2026-09-05T23:57:11.814Z",
-    "status": "claimed",
-    "results": {},
-    "createdAt": "2026-09-05T02:09:10.227Z"
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18180361129375349"
+      }
+    },
+    "createdAt": "2026-09-05T02:09:10.227Z",
+    "processedAt": "2026-09-05T23:58:52.172Z"
   },
   {
     "id": "35abf6f5-0269-4ccc-a950-4d23d70bd32a",
@@ -3040,9 +3045,15 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-05T23:55:34.126Z",
-    "status": "claimed",
-    "results": {},
-    "createdAt": "2026-09-05T02:09:10.230Z"
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "1288453561012463_122110186023446391",
+        "post_supports_client_mutation_id": true
+      }
+    },
+    "createdAt": "2026-09-05T02:09:10.230Z",
+    "processedAt": "2026-09-05T23:59:05.209Z"
   },
   {
     "id": "e9c82d39-ef1f-4730-8c15-d8753dd42834",
