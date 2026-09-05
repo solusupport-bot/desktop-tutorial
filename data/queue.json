@@ -2867,9 +2867,15 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-05T05:06:50.986Z",
-    "status": "claimed",
-    "results": {},
-    "createdAt": "2026-09-05T02:08:15.543Z"
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "1288453561012463_122109903261446391",
+        "post_supports_client_mutation_id": true
+      }
+    },
+    "createdAt": "2026-09-05T02:08:15.543Z",
+    "processedAt": "2026-09-05T05:52:14.161Z"
   },
   {
     "id": "f0c22d80-0b83-4290-980c-e09fa3d6d928",
