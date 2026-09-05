@@ -1,19 +1,22 @@
 #!/usr/bin/env node
 /**
- * 승인 절차 없는 채널(Bluesky / Mastodon)의 자격증명이 실제로 동작하는지 1회성으로
- * 확인하는 스크립트. test-pinterest-publish.js와 같은 역할이다.
+ * 승인 절차 없는 채널(Bluesky / Mastodon / Tumblr)의 자격증명이 실제로 동작하는지
+ * 1회성으로 확인하는 스크립트. test-pinterest-publish.js와 같은 역할이다.
  *
- * 두 채널 모두 플랫폼 심사가 없어서(앱 비밀번호 / 액세스 토큰 발급이 끝) 여기서
+ * 세 채널 모두 플랫폼 심사가 없어서(앱 비밀번호 / 액세스 토큰 발급이 끝) 여기서
  * 실패하면 원인은 사실상 자격증명 오타이거나 권한 범위 부족 둘 중 하나다 —
  * Pinterest처럼 "승인 대기 중이라 안 되는" 경우가 없다.
  *
  * 사용법:
  *   BLUESKY_IDENTIFIER=... BLUESKY_APP_PASSWORD=... node scripts/test-open-channel-publish.js
  *   MASTODON_INSTANCE=https://mastodon.social MASTODON_ACCESS_TOKEN=... node scripts/test-open-channel-publish.js
- *   (둘 다 넣으면 둘 다 테스트한다. 한쪽만 넣으면 그쪽만 실제 발행되고 나머지는 모의 발행.)
+ *   TUMBLR_CONSUMER_KEY=... TUMBLR_CONSUMER_SECRET=... TUMBLR_TOKEN=... TUMBLR_TOKEN_SECRET=... \
+ *     TUMBLR_BLOG_IDENTIFIER=... node scripts/test-open-channel-publish.js
+ *   (여러 개를 넣으면 넣은 만큼 실제 발행하고, 넣지 않은 나머지는 모의 발행.)
  */
 const { publishToBluesky } = require('../lib/publishing/bluesky');
 const { publishToMastodon } = require('../lib/publishing/mastodon');
+const { publishToTumblr } = require('../lib/publishing/tumblr');
 const log = require('../lib/logger');
 
 // 실제 계정 타임라인에 남는 글이므로, 테스트 티가 나면서도 계정 톤을 해치지 않는
@@ -29,11 +32,17 @@ const BLOG_URL = 'https://landinkorea.com/posts/korea-emergency-numbers-pharmacy
 const run = async () => {
   const targets = [
     { name: 'Bluesky', publish: publishToBluesky, configured: !!(process.env.BLUESKY_IDENTIFIER && process.env.BLUESKY_APP_PASSWORD) },
-    { name: 'Mastodon', publish: publishToMastodon, configured: !!(process.env.MASTODON_INSTANCE && process.env.MASTODON_ACCESS_TOKEN) }
+    { name: 'Mastodon', publish: publishToMastodon, configured: !!(process.env.MASTODON_INSTANCE && process.env.MASTODON_ACCESS_TOKEN) },
+    {
+      name: 'Tumblr',
+      publish: publishToTumblr,
+      configured: !!(process.env.TUMBLR_CONSUMER_KEY && process.env.TUMBLR_CONSUMER_SECRET
+        && process.env.TUMBLR_TOKEN && process.env.TUMBLR_TOKEN_SECRET && process.env.TUMBLR_BLOG_IDENTIFIER)
+    }
   ];
 
   if (!targets.some((t) => t.configured)) {
-    log.warn('Bluesky/Mastodon 자격증명이 하나도 없습니다 — 모의 발행만 수행합니다.');
+    log.warn('Bluesky/Mastodon/Tumblr 자격증명이 하나도 없습니다 — 모의 발행만 수행합니다.');
   }
 
   let failed = false;

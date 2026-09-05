@@ -55,7 +55,7 @@ const getRedditSubreddit = (topic, redditConfig) => {
 // 기다리는 동안에도 항상 살아 있는 발행 경로다. 게다가 둘 다 본문 링크에 도달 페널티가
 // 없어서, Threads/Instagram처럼 "링크는 bio에"로 우회하지 않고 글 주소를 본문에 직접
 // 넣을 수 있다 — Pinterest와 함께 블로그 유입 마찰이 가장 적은 채널.
-const PLATFORMS = ['threads', 'facebook', 'instagram', 'reddit', 'pinterest', 'bluesky', 'mastodon'];
+const PLATFORMS = ['threads', 'facebook', 'instagram', 'reddit', 'pinterest', 'bluesky', 'mastodon', 'tumblr'];
 const POSTS_PER_DAY = 3;
 
 // 2026년 실측 데이터 기준 플랫폼별 우선순위(follower growth / engagement 데이터 근거 —
@@ -272,15 +272,16 @@ const queueOneTopic = async (topics, window) => {
     // 최대 4장). 아래 미디어 없음 스킵 조건에서도 제외돼 있어서, 이미지를 못 구한
     // 날에도 이 두 채널로는 발행이 나간다.
     bluesky: watermarkedImages.length > 0 ? { imageUrls: watermarkedImages.slice(0, 4) } : {},
-    mastodon: watermarkedImages.length > 0 ? { imageUrls: watermarkedImages.slice(0, 4) } : {}
+    mastodon: watermarkedImages.length > 0 ? { imageUrls: watermarkedImages.slice(0, 4) } : {},
+    tumblr: watermarkedImages.length > 0 ? { imageUrls: watermarkedImages.slice(0, 4) } : {}
   };
 
   const redditConfig = loadRedditConfig();
 
   for (const platform of PLATFORMS) {
     const media = mediaByPlatform[platform] || {};
-    // reddit/bluesky/mastodon은 text 기반이라 미디어가 없어도 발행 가능하다.
-    const TEXT_ONLY_OK = ['reddit', 'bluesky', 'mastodon'];
+    // reddit/bluesky/mastodon/tumblr은 text 기반이라 미디어가 없어도 발행 가능하다.
+    const TEXT_ONLY_OK = ['reddit', 'bluesky', 'mastodon', 'tumblr'];
     if (!TEXT_ONLY_OK.includes(platform) && !(media.imageUrls && media.imageUrls.length) && !media.videoUrl) {
       log.warn(`[${platform}] 사용할 미디어가 없어 큐 등록을 건너뜁니다: ${item.source}`);
       continue;
@@ -347,7 +348,7 @@ const queueOneTopic = async (topics, window) => {
     // bluesky/mastodon은 본문에 링크를 직접 넣을 수 있어 blogUrl을 넘긴다(각 모듈이
     // 답글 체인 마지막 조각에 붙이고, Bluesky는 facet까지 만든다). topic은 이미지
     // 대체 텍스트(alt)에 쓰인다 — Mastodon은 alt 없는 이미지에 특히 민감하다.
-    if (platform === 'bluesky' || platform === 'mastodon') {
+    if (platform === 'bluesky' || platform === 'mastodon' || platform === 'tumblr') {
       postData.blogUrl = blogUrlByPlatform(platform);
       postData.topic = item.source;
     }

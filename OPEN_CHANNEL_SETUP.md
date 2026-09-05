@@ -1,15 +1,16 @@
-# 승인 절차 없는 채널 등록 가이드 (Bluesky / Mastodon)
+# 승인 절차 없는 채널 등록 가이드 (Bluesky / Mastodon / Tumblr)
 
 이 파이프라인의 기존 채널은 전부 플랫폼 심사를 통과해야 발행이 된다 —
 Threads/Facebook/Instagram은 Meta 앱 심사, Pinterest는 Standard 액세스 승인.
-**Bluesky와 Mastodon은 그 단계가 아예 없다.** 계정을 만들고 토큰을 발급받으면
-그 자리에서 발행이 된다.
+**Bluesky, Mastodon, Tumblr는 그 단계가 아예 없다.** 계정을 만들고 토큰을
+발급받으면 그 자리에서 발행이 된다(Tumblr는 앱 등록 페이지에서 "Explore API"
+버튼 하나로 토큰까지 즉시 나온다).
 
-두 채널을 고른 이유는 승인이 없다는 것 외에 하나 더 있다: **본문 링크에 도달
+세 채널을 고른 이유는 승인이 없다는 것 외에 하나 더 있다: **본문 링크에 도달
 페널티가 없다.** Threads는 본문에 URL을 넣으면 그 게시물 도달이 억제돼서 지금
 "링크는 bio에"로 우회하고 있고(`scripts/daily-auto-post.js` 주석 참고), Instagram도
-같다. Bluesky/Mastodon은 Pinterest처럼 글 주소를 본문에 그대로 넣을 수 있어
-블로그 유입 마찰이 가장 적은 축에 속한다.
+같다. Bluesky/Mastodon/Tumblr는 Pinterest처럼 글 주소를 본문에 그대로 넣을 수
+있어 블로그 유입 마찰이 가장 적은 축에 속한다.
 
 ---
 
@@ -78,10 +79,51 @@ Mastodon은 단일 서비스가 아니라 서로 연합된 서버들의 네트�
 
 ---
 
-## 3. 동작 확인
+## 3. Tumblr
 
-시크릿 등록 후 GitHub Actions에서 **"Test Open Channel Publish (Bluesky / Mastodon)"**
-워크플로우를 `Run workflow`로 실행한다.
+Tumblr API v2는 이 파이프라인의 다른 어떤 채널과도 다르게 **OAuth 1.0a**(서명
+방식)만 지원한다. 다만 발급 자체는 다음 방법으로 코드 한 줄 안 짜도 브라우저에서
+끝낼 수 있다.
+
+### 앱 등록 + 키 발급 (5분)
+
+1. Tumblr 계정을 만들고, 발행할 블로그를 하나 만들거나 고른다(블로그 이름이
+   곧 `TUMBLR_BLOG_IDENTIFIER`다 — 예: `landinkorea`이면
+   `landinkorea.tumblr.com`).
+2. https://www.tumblr.com/oauth/apps → **"+ Register application"**
+   - Application Name: `Land in Korea pipeline` (아무거나, "Tumblr" 단어만
+     피하면 됨)
+   - Application Website / Default callback URL: `https://landinkorea.com`
+     (실제로 콜백을 안 쓰므로 아무 https URL이나 넣어도 무방)
+3. 등록하면 애플리케이션 상세 페이지에 **OAuth Consumer Key**와
+   **Secret Key**가 표시된다 — 각각 `TUMBLR_CONSUMER_KEY`,
+   `TUMBLR_CONSUMER_SECRET`으로 쓴다.
+4. 같은 페이지에서 **"Explore API"** 버튼을 누른다 → 팝업에서
+   **"Allow"** 클릭 → 콘솔 페이지에서 **"Show keys"** 버튼을 누르면
+   **oauth_token**과 **oauth_token_secret**이 그 자리에서 나온다 —
+   각각 `TUMBLR_TOKEN`, `TUMBLR_TOKEN_SECRET`으로 쓴다.
+
+이 "Explore API" 경로는 3-legged OAuth 인가 화면을 직접 구현하지 않고도
+**자기 자신의 계정용** 토큰을 즉시 받는 공식 방법이다 — 다른 사람 대신
+발행하는 앱이 아니라 우리 블로그 하나에만 쓰는 봇이라 이 방법으로 충분하다.
+
+### GitHub Secrets 등록
+
+| 이름 | 값 |
+|---|---|
+| `TUMBLR_CONSUMER_KEY` | 앱 상세 페이지의 OAuth Consumer Key |
+| `TUMBLR_CONSUMER_SECRET` | 앱 상세 페이지의 Secret Key |
+| `TUMBLR_TOKEN` | Explore API에서 받은 oauth_token |
+| `TUMBLR_TOKEN_SECRET` | Explore API에서 받은 oauth_token_secret |
+| `TUMBLR_BLOG_IDENTIFIER` | 블로그 이름만 (예: `landinkorea`, `.tumblr.com` 없이) |
+
+---
+
+## 4. 동작 확인
+
+시크릿 등록 후 GitHub Actions에서
+**"Test Open Channel Publish (Bluesky / Mastodon / Tumblr)"** 워크플로우를
+`Run workflow`로 실행한다.
 
 - 자격증명이 있는 채널은 실제로 테스트 게시물을 올리고 URL을 출력한다.
 - 자격증명이 없는 채널은 모의 발행으로 넘어가고 실패하지 않는다.
@@ -92,34 +134,35 @@ Mastodon은 단일 서비스가 아니라 서로 연합된 서버들의 네트�
 
 ---
 
-## 4. 발행 동작 방식
+## 5. 발행 동작 방식
 
-두 채널 모두 기존 Threads 캡션 구조(빈 줄로 구분된 문단)를 그대로 쓴다.
+Bluesky/Mastodon은 기존 Threads 캡션 구조(빈 줄로 구분된 문단)를 답글 체인으로
+쪼개 쓰고, Tumblr는 애초에 글자 수 제한이 사실상 없어 문단을 나누지 않고
+하나의 게시물로 발행한다(발견 경로도 본문 해시태그가 아니라 게시물의
+tags 필드라서, 태그 목록을 이 파이프라인이 자동으로 붙인다).
 
-| | Bluesky | Mastodon |
-|---|---|---|
-| 글자 수 한도 | 300 그래핌 (하드) | 인스턴스 설정값, 보통 500자 (실행 시 조회) |
-| 답글 체인 | 최대 5조각 | 최대 5조각 |
-| 이미지 | 최대 4장, 장당 2MB | 최대 4장 |
-| 블로그 링크 | 마지막 조각에 삽입 + facet으로 클릭 가능 처리 | 마지막 조각에 삽입 |
-| 미디어 없을 때 | 텍스트로 발행 | 텍스트로 발행 |
+| | Bluesky | Mastodon | Tumblr |
+|---|---|---|---|
+| 글자 수 한도 | 300 그래핌 (하드) | 인스턴스 설정값, 보통 500자 (실행 시 조회) | 사실상 없음 |
+| 게시 구조 | 답글 체인 최대 5조각 | 답글 체인 최대 5조각 | 단일 게시물(문단별 블록) |
+| 이미지 | 최대 4장, 장당 2MB | 최대 4장 | 최대 4장, 업로드 없이 URL 참조 |
+| 블로그 링크 | 마지막 조각에 삽입 + facet으로 클릭 가능 처리 | 마지막 조각에 삽입 | 마지막 텍스트 블록에 인라인 링크로 삽입 |
+| 발견 경로 | 본문 해시태그 | 본문 해시태그(인스턴스 간 연합) | 게시물의 tags 필드(본문 해시태그 아님) |
+| 미디어 없을 때 | 텍스트로 발행 | 텍스트로 발행 | 텍스트로 발행 |
 
-한도를 넘는 문단은 문장 단위로 한 번 더 쪼개고, 그래도 넘치면 자른다.
-이미지가 없는 날에도 이 두 채널은 텍스트로 발행되므로, 이미지 수집이 실패한
-날에도 발행이 끊기지 않는다.
+Bluesky/Mastodon은 한도를 넘는 문단을 문장 단위로 한 번 더 쪼개고, 그래도
+넘치면 자른다. 세 채널 다 이미지가 없는 날에도 텍스트로 발행되므로, 이미지
+수집이 실패한 날에도 발행이 끊기지 않는다.
 
 ---
 
-## 5. 아직 붙이지 않은 후보들
+## 6. 아직 붙이지 않은 후보들
 
 같은 기준(승인 절차 없음)으로 검토했지만 이번에 넣지 않은 것들:
 
 | 채널 | 승인 | 넣지 않은 이유 |
 |---|---|---|
 | **Telegram 채널** | 없음 (BotFather에서 봇 토큰 즉시 발급) | 발견(discovery) 기능이 사실상 없어서 구독자를 따로 모아야 한다 — 노출 확대 목적에는 안 맞고, 나중에 "구독자 대상 채널"이 필요해지면 그때가 적기 |
-| **Tumblr** | 앱 등록 즉시 승인 | OAuth 1.0a 서명이 필요해 구현 비용이 위 둘의 몇 배. 여행 태그 트래픽은 아직 살아 있어서 다음 후보로는 유효 |
 | **Lemmy** | 없음 | Reddit과 같은 커뮤니티형이라 이미 붙인 Reddit과 성격이 겹치고, 규모가 훨씬 작다 |
 | **Nostr** | 없음 (키페어만 생성) | 여행 콘텐츠 독자층이 거의 없다 |
 | **Medium** | — | 신규 통합 토큰 발급이 막혀 있다 |
-
-Tumblr가 다음 순번으로 가장 합리적이다.
