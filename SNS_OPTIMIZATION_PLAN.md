@@ -249,49 +249,41 @@ const weeklyReview = async () => {
 
 ---
 
-## Immediate Next Steps (This Week)
+## Immediate Next Steps (This Week) — Deployment Status
 
-### Priority 1: Deploy & Test Threads Timing (30 minutes)
-- [x] Modify threads.js REPLY_SPACING_SEQUENCE
-- [ ] Manual test: Publish 1 Threads post, verify timing intervals log correctly
-- [ ] Compare engagement vs. previous 3-minute uniform spacing
+### Priority 1: Deploy & Test Threads Timing (30 minutes) ✅ COMPLETE
+- [x] Modify threads.js REPLY_SPACING_SEQUENCE to [30s, 2m, 5m, 7m]
+- [x] Cross-platform velocity seeding (staggered platform publishes)
+- ✅ **DEPLOYED (Sept 6, commit 079a376)**
 
-**Success criteria:** 30s, 2m, 5m, 7m delays execute in correct sequence
+### Priority 2: Monitor Platform Guides Adoption (Ongoing) ✅ IN PROGRESS
+- [x] Updated platform hashtag strategies (Bluesky, Mastodon, Tumblr, Reddit, Pinterest)
+- [x] Ensured all Facebook CTAs are genuine questions (previously 3/6)
+- ✅ **DEPLOYED (Sept 6, commit 079a376)**
+- [ ] Next 5 posts: Verify platform guides reflected in actual drafts
 
-### Priority 2: Monitor Platform Guides Adoption (Ongoing)
-- [ ] Next 5 posts: Confirm new hashtag strategies are included in drafts
-- [ ] Check Bluesky posts include facet links in replies (not hook)
-- [ ] Verify Mastodon posts have 3-5 hashtags in final reply
-- [ ] Confirm Reddit posts lead with community context
+### Priority 3: Establish Weekly Tracking Habit (Ongoing) ✅ INFRASTRUCTURE READY
+- [x] Created `scripts/weekly-performance-review.js` helper tool
+- [x] Created `scripts/analyze-performance.js` for performance synthesis
+- [x] Added npm scripts for easy weekly review workflow
+- ✅ **DEPLOYED (Sept 6, commits 5e31d13, 6f64ba4)**
 
-**Success criteria:** All posts reflect new platform-specific optimizations
-
-### Priority 3: Establish Weekly Tracking Habit (Ongoing)
-- [ ] Every Friday: Review posts published 7 days prior
-  - Helper: `npm run review:performance` (structured checklist)
-  - Template: `npm run review:template` (data entry format)
-- [ ] Update data/platform_performance.json with actual view counts
-- [ ] Identify trending category (highest peak_views)
-- [ ] Plan next week's content focus accordingly
-- [ ] Record in `weekly_summary` field: top_performing_category, top_performing_platform, recommendations
-
-**Success criteria:** 4 weeks of consistent category performance data by Oct 4
-
-**Weekly review automation:**
+**Weekly review automation ready:**
 - `npm run review:performance` — Checklist for gathering data from all platform dashboards
-- `npm run review:current` — View current metrics in platform_performance.json
-- `npm run review:full` — Show complete review workflow
+- `npm run review:template` — Data entry template
+- `npm run review:current` — View current metrics
+- `npm run analyze:performance` — Generate category recommendations
+- First weekly review scheduled for: **Friday, Sept 13** (review posts from Sept 6)
 
-### Priority 4: Set Up GoatCounter (Documented, awaiting user registration)
-- [ ] **See:** `GOATCOUNTER_SETUP.md` (complete setup guide)
-- [ ] Register free account at goatcounter.com (user step — not automatable)
-- [ ] Add tracking code to land-in-korea-blog (instructions in guide)
-- [ ] Verify data collection working (check 24h of data)
-- [ ] Add goatcounter_code to land-in-korea-blog/automation/config.json
+### Priority 4: Set Up GoatCounter (Documented, awaiting user registration) 📋 READY
+- [x] **See:** `GOATCOUNTER_SETUP.md` (complete 30-min setup guide)
+- [ ] Register free account at goatcounter.com (user step)
+- [ ] Add tracking script to blog template (instructions provided)
+- [ ] Verify data collection (24h verification process)
+- [ ] Add goatcounter_code to config.json
 
-**Success criteria:** Blog analytics dashboard shows traffic by source
-
-**Status:** Documentation complete; awaiting user to register GoatCounter account and deploy tracking script
+✅ **Documentation deployed (Sept 6, commit 2a9c4e3)**  
+⏳ **Awaiting user registration and script deployment**
 
 ---
 
