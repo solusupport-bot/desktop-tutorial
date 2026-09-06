@@ -282,13 +282,16 @@ const weeklyReview = async () => {
 - `npm run review:current` — View current metrics in platform_performance.json
 - `npm run review:full` — Show complete review workflow
 
-### Priority 4: Set Up GoatCounter (This weekend)
-- [ ] Register free account at goatcounter.com
-- [ ] Add tracking code to land-in-korea-blog
+### Priority 4: Set Up GoatCounter (Documented, awaiting user registration)
+- [ ] **See:** `GOATCOUNTER_SETUP.md` (complete setup guide)
+- [ ] Register free account at goatcounter.com (user step — not automatable)
+- [ ] Add tracking code to land-in-korea-blog (instructions in guide)
 - [ ] Verify data collection working (check 24h of data)
-- [ ] Add goatcounter_code to automation/config.json
+- [ ] Add goatcounter_code to land-in-korea-blog/automation/config.json
 
 **Success criteria:** Blog analytics dashboard shows traffic by source
+
+**Status:** Documentation complete; awaiting user to register GoatCounter account and deploy tracking script
 
 ---
 
