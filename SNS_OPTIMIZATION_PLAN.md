@@ -97,36 +97,40 @@ Tracks by platform × content category:
 
 ---
 
-## Phase 2: Engagement Velocity Seeding (Weeks 3-4) — Next Priority
+## Phase 2: Engagement Velocity Seeding ✅ LIVE (Week 3-4)
 
-### 2.1 Question-Ending CTR Enhancement
+### 2.1 Question-Ending CTR Enhancement ✅
 
-**Current state:** THREADS_QUESTIONS array exists, ~6 question templates  
-**Optimization:** Ensure every post ends with question, track which questions drive highest reply rates
+**Deployed:** 2026-09-06
 
-**Implementation path:**
-1. Add `question_performance.json` tracking questions that drive replies
-2. Modify `reshapeByTemplate()` to ALWAYS end with question (no exceptions)
-3. Rotate questions using seed value (already implemented)
+**Implementation:**
+1. ✅ Created `data/question_performance.json` — baseline tracking structure for Threads/Facebook/Instagram question performance
+2. ✅ Updated all FACEBOOK_CTAS to end with genuine questions (6/6 questions, previously 3/6 mixed)
+3. ✅ Expanded THREADS_QUESTIONS array with "What surprised you the most when you landed?" (now 6 questions with rotation by seed)
+4. ✅ Question rotation already implemented via `pick(THREADS_QUESTIONS, seed)` — ensures variety across same topics
 
-**High-performing questions (to prioritize):**
-- "Anyone else lose money on this mistake?"
-- "What would you add for someone landing tomorrow?"
-- "Worth knowing before you land? Reply with what surprised you."
+**Question performance tracking:** Manual weekly update process (see data/question_performance.json for structure)
 
-### 2.2 Cross-Platform Velocity Seeding
+### 2.2 Cross-Platform Velocity Seeding ✅
 
-**Publish sequence:** All within 4 hours on day of publishing
+**Deployed:** 2026-09-06
 
-```
-Hour 0:00    → Threads (primary algorithm seed)
-Hour 0:30    → Bluesky (federation boost)
-Hour 1:00    → Mastodon (hashtag discovery)
-Hour 2:00    → Reddit r/korea (early subreddit visibility)
-Hour 3:00    → Pinterest + Tumblr (discovery-phase platforms)
-```
+**Implementation:**
+- ✅ Added `PLATFORM_PUBLISH_OFFSETS` constant with per-platform delays:
+  ```
+  Threads: 0 min (primary algorithm seed)
+  Facebook: 5 min (secondary velocity, similar algorithm)
+  Instagram: 10 min (Reels algorithm variant)
+  Bluesky: 30 min (federation boost)
+  Mastodon: 60 min (hashtag discovery)
+  Reddit: 120 min (subreddit morning visibility)
+  Pinterest/Tumblr: 180 min (discovery-phase platforms)
+  ```
+- ✅ Modified `withPlatformJitter()` to accept platform parameter
+- ✅ Replaced ±45min jitter with ±3min (tighter coordination, avoids detection)
+- ✅ Updated call to `withPlatformJitter(baseTime, platform)` in post scheduling loop
 
-**Implementation:** Modify `daily-auto-post.js` to stagger platform publishes
+**Expected impact:** All posts within same day still; algorithmic velocity distributed across platforms according to their discovery mechanics rather than randomized
 
 ---
 

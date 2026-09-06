@@ -112,7 +112,33 @@ const randomTimeInWindow = (now, [startH, endH]) => {
   return new Date(startMs + Math.random() * (endMs - startMs));
 };
 
-const withPlatformJitter = (time) => new Date(time.getTime() + (Math.random() * 90 - 45) * 60 * 1000);
+// Phase 2.2 (2026-09-06): Cross-platform velocity seeding
+// Threads algorithm prioritizes early engagement velocity — seed Threads first with small jitter,
+// then stagger other platforms to boost algorithmic discovery on each while avoiding coordination detection.
+// Publish sequence within 4-hour window (all within same day):
+// - 0:00 (Threads) = primary algorithm seed, high-velocity period
+// - 0:30 (Bluesky) = federation boost within first momentum period
+// - 1:00 (Mastodon) = hashtag discovery federation
+// - 2:00 (Reddit) = early subreddit visibility, seed upvotes before US morning
+// - 3:00+ (Pinterest/Tumblr) = discovery-phase platforms, lower velocity algorithm
+const PLATFORM_PUBLISH_OFFSETS = {
+  threads: 0,
+  facebook: 5, // Secondary velocity seed (5 min after Threads, similar algorithm)
+  bluesky: 30,
+  mastodon: 60,
+  reddit: 120,
+  pinterest: 180,
+  instagram: 10, // Reels algorithm similar to Threads, seed within first 10 min
+  tumblr: 180
+};
+
+// Small jitter (±3 minutes) to avoid exact coordination detection while maintaining sequence
+const withPlatformJitter = (time, platform) => {
+  const baseOffsetMinutes = PLATFORM_PUBLISH_OFFSETS[platform] || 0;
+  const jitterMinutes = (Math.random() * 6 - 3); // ±3 minutes
+  const totalOffsetMs = (baseOffsetMinutes + jitterMinutes) * 60 * 1000;
+  return new Date(time.getTime() + totalOffsetMs);
+};
 
 /**
  * 실사 이미지를 최대 count장까지 중복 없이 확보합니다(기본 목표 5장 — 2026년 실측 데이터
@@ -296,7 +322,7 @@ const queueOneTopic = async (topics, window) => {
       }
     }
 
-    const scheduledAt = withPlatformJitter(baseTime).toISOString();
+    const scheduledAt = withPlatformJitter(baseTime, platform).toISOString();
     // Threads 본문에 실제 URL을 넣으면 Threads 알고리즘이 그 포스트의 도달을 적극적으로
     // 억제한다(2026년 실측 — bio 링크는 예외). 그래서 본문엔 URL 대신 "링크는 bio에"
     // CTA만 남긴다 — 트레이드오프로 플랫폼별 UTM 클릭 추적은 더 이상 안 된다(bio 링크는
