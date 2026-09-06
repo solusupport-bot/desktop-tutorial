@@ -3079,10 +3079,15 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-06T00:08:27.859Z",
-    "status": "claimed",
-    "results": {},
+    "status": "partial",
+    "results": {
+      "pinterest": {
+        "error": "publish failed"
+      }
+    },
     "createdAt": "2026-09-05T02:09:10.234Z",
     "blogUrl": "https://landinkorea.com/posts/korea-travel-apps-comparison.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
-    "topic": "Useful travel apps"
+    "topic": "Useful travel apps",
+    "processedAt": "2026-09-06T01:02:27.729Z"
   }
 ]
