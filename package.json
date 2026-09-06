@@ -25,7 +25,12 @@
     "review:performance": "node scripts/weekly-performance-review.js checklist",
     "review:template": "node scripts/weekly-performance-review.js template",
     "review:current": "node scripts/weekly-performance-review.js current",
-    "review:full": "node scripts/weekly-performance-review.js full"
+    "review:full": "node scripts/weekly-performance-review.js full",
+    "analyze:performance": "node scripts/analyze-performance.js full",
+    "analyze:categories": "node scripts/analyze-performance.js categories",
+    "analyze:questions": "node scripts/analyze-performance.js questions",
+    "analyze:trends": "node scripts/analyze-performance.js trends",
+    "analyze:health": "node scripts/analyze-performance.js health"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.122.0",
