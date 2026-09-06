@@ -21,7 +21,11 @@
     "test:bluesky": "node scripts/test-bluesky-connection.js",
     "test:mastodon": "node scripts/test-mastodon-connection.js",
     "test:tumblr": "node scripts/test-tumblr-connection.js",
-    "test:sns-connections": "echo '🔗 Testing SNS platform connections...' && npm run test:bluesky && npm run test:mastodon && npm run test:tumblr && echo '✅ All SNS connections verified!'"
+    "test:sns-connections": "echo '🔗 Testing SNS platform connections...' && npm run test:bluesky && npm run test:mastodon && npm run test:tumblr && echo '✅ All SNS connections verified!'",
+    "review:performance": "node scripts/weekly-performance-review.js checklist",
+    "review:template": "node scripts/weekly-performance-review.js template",
+    "review:current": "node scripts/weekly-performance-review.js current",
+    "review:full": "node scripts/weekly-performance-review.js full"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.122.0",

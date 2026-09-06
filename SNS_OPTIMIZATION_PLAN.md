@@ -268,11 +268,19 @@ const weeklyReview = async () => {
 
 ### Priority 3: Establish Weekly Tracking Habit (Ongoing)
 - [ ] Every Friday: Review posts published 7 days prior
+  - Helper: `npm run review:performance` (structured checklist)
+  - Template: `npm run review:template` (data entry format)
 - [ ] Update data/platform_performance.json with actual view counts
 - [ ] Identify trending category (highest peak_views)
 - [ ] Plan next week's content focus accordingly
+- [ ] Record in `weekly_summary` field: top_performing_category, top_performing_platform, recommendations
 
 **Success criteria:** 4 weeks of consistent category performance data by Oct 4
+
+**Weekly review automation:**
+- `npm run review:performance` — Checklist for gathering data from all platform dashboards
+- `npm run review:current` — View current metrics in platform_performance.json
+- `npm run review:full` — Show complete review workflow
 
 ### Priority 4: Set Up GoatCounter (This weekend)
 - [ ] Register free account at goatcounter.com
