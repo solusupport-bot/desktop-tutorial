@@ -3223,7 +3223,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-06T14:21:13.271Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-06T02:06:57.169Z"
   },
@@ -3256,7 +3256,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-06T14:07:02.151Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-06T02:06:57.174Z",
     "blogUrl": "https://landinkorea.com/posts/korea-seasonal-packing-guide.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
