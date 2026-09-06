@@ -3223,9 +3223,15 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-06T14:21:13.271Z",
-    "status": "claimed",
-    "results": {},
-    "createdAt": "2026-09-06T02:06:57.169Z"
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "1288453561012463_122110392975446391",
+        "post_supports_client_mutation_id": true
+      }
+    },
+    "createdAt": "2026-09-06T02:06:57.169Z",
+    "processedAt": "2026-09-06T15:03:04.062Z"
   },
   {
     "id": "9ba560e3-86f1-4894-8cd0-76073ca834f7",
@@ -3256,11 +3262,16 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-06T14:07:02.151Z",
-    "status": "claimed",
-    "results": {},
+    "status": "partial",
+    "results": {
+      "pinterest": {
+        "error": "publish failed"
+      }
+    },
     "createdAt": "2026-09-06T02:06:57.174Z",
     "blogUrl": "https://landinkorea.com/posts/korea-seasonal-packing-guide.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
-    "topic": "Seasonal packing & weather tips"
+    "topic": "Seasonal packing & weather tips",
+    "processedAt": "2026-09-06T15:03:04.202Z"
   },
   {
     "id": "70c80d5e-d408-4b6d-82fa-95e8327dc8d1",
