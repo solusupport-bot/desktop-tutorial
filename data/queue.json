@@ -2776,9 +2776,14 @@
       "threads"
     ],
     "scheduledAt": "2026-09-05T02:58:38.119Z",
-    "status": "pending",
-    "results": {},
-    "createdAt": "2026-09-04T04:26:18.684Z"
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18045988361817066"
+      }
+    },
+    "createdAt": "2026-09-04T04:26:18.684Z",
+    "processedAt": "2026-09-05T03:07:16.696Z"
   },
   {
     "id": "9719b8fb-cc52-49fc-9d26-4fb950719298",
@@ -2795,9 +2800,15 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-05T02:11:53.772Z",
-    "status": "pending",
-    "results": {},
-    "createdAt": "2026-09-04T04:26:18.686Z"
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "1288453561012463_122109832299446391",
+        "post_supports_client_mutation_id": true
+      }
+    },
+    "createdAt": "2026-09-04T04:26:18.686Z",
+    "processedAt": "2026-09-05T03:07:25.596Z"
   },
   {
     "id": "4fd8dd88-4ed3-48ea-a5bb-e66fe30713fe",
@@ -2808,8 +2819,484 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-05T02:18:23.983Z",
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "18170915221443289"
+      }
+    },
+    "createdAt": "2026-09-04T04:26:18.688Z",
+    "processedAt": "2026-09-05T03:07:58.902Z"
+  },
+  {
+    "id": "78a232c4-bc28-40c2-8d1c-e0b32c27f4df",
+    "text": "This mistake costs people real money — and they don't find out until it's too late.\n\nThe home-currency option at checkout in Korea looks convenient but quietly costs extra — that's dynamic currency conversion. Always pick won. Exchange near Myeongdong/Hongdae beats airport rates. Ever spotted a DCC charge on your statement?\n\n📖 More on the blog — link in bio.",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788573994161-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788573994161-0.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788573994161-1.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788573994161-2.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788573994161-3.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788573994161-4.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-09-05T04:15:01.008Z",
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18051758873601507"
+      }
+    },
+    "createdAt": "2026-09-05T02:08:15.541Z",
+    "processedAt": "2026-09-05T05:06:52.716Z"
+  },
+  {
+    "id": "7a9eeec6-b90e-44f1-afe2-ee1266fad608",
+    "text": "This mistake costs people real money — and they don't find out until it's too late. The checkout screen has a trap most card users fall for in Korea. 💳\n\n1. Always choose to be charged in Korean won — picking your home currency triggers dynamic currency conversion, a hidden markup.\n2. Currency exchange counters near Myeongdong and Hongdae typically beat airport kiosks.\n3. Exchange only what you need for the first day or two, then top up in the city.\n4. Samsung Pay and Naver Pay are popular locally but usually require a Korean bank account.\n\nSave this before your first purchase in Korea.\nHave you ever noticed a DCC charge on your statement?\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-currency-card-payment-mistake.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788573994161-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788573994161-0.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788573994161-1.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788573994161-2.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788573994161-3.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788573994161-4.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-09-05T05:06:50.986Z",
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "1288453561012463_122109903261446391",
+        "post_supports_client_mutation_id": true
+      }
+    },
+    "createdAt": "2026-09-05T02:08:15.543Z",
+    "processedAt": "2026-09-05T05:52:14.161Z"
+  },
+  {
+    "id": "f0c22d80-0b83-4290-980c-e09fa3d6d928",
+    "text": "This mistake costs people real money — and they don't find out until it's too late.\n\nThe 'convenient' option at checkout in Korea quietly costs you extra every time.\n\nAlways pick won, not your home currency — dynamic currency conversion adds a hidden markup.\n\nSave this before you shop in Korea.\n\n📖 More tips on the blog — link in bio.\n\n#KoreaTravel #SeoulTrip #KoreaTips #TravelKorea #VisitSeoul",
+    "imageUrl": null,
+    "videoUrl": "https://videos.pexels.com/video-files/29938300/12848963_2160_3840_30fps.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-09-05T04:04:02.090Z",
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "18071778407743035"
+      }
+    },
+    "createdAt": "2026-09-05T02:08:15.545Z",
+    "processedAt": "2026-09-05T05:07:52.040Z"
+  },
+  {
+    "id": "7aa8f267-6cf4-450b-8d60-07b524255e6e",
+    "text": "The checkout screen has a trap most card users fall for in Korea. 💳\n\n1. Always choose to be charged in Korean won — picking your home currency triggers dynamic currency conversion, a hidden markup.\n2. Currency exchange counters near Myeongdong and Hongdae typically beat airport kiosks.\n3. Exchange only what you need for the first day or two, then top up in the city.\n4. Samsung Pay and Naver Pay are popular locally but usually require a Korean bank account.\n\nSave this before your first purchase in Korea.\nHave you ever noticed a DCC charge on your statement?",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788573994161-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788573994161-0.jpg"
+    ],
+    "platforms": [
+      "pinterest"
+    ],
+    "scheduledAt": "2026-09-05T04:27:48.174Z",
+    "status": "partial",
+    "results": {
+      "pinterest": {
+        "error": "publish failed"
+      }
+    },
+    "createdAt": "2026-09-05T02:08:15.547Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-currency-card-payment-mistake.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
+    "topic": "Currency & card payments",
+    "processedAt": "2026-09-05T05:07:52.147Z"
+  },
+  {
+    "id": "84fcc337-7f59-4da6-8b1e-70685641c9af",
+    "text": "Everyone assumes this works the same as back home. It doesn't.\n\n112 and 119 work in English in Korea, but they're not always the number you actually need. The 1330 Travel Hotline gives 24/7 multilingual help for non-emergencies. Which number would you have called by default?\n\n📖 More on the blog — link in bio.",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788574096577-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788574096577-0.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788574096577-1.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788574096577-2.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788574096577-3.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788574096577-4.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-09-05T13:34:34.981Z",
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18194773006375926"
+      }
+    },
+    "createdAt": "2026-09-05T02:08:46.301Z",
+    "processedAt": "2026-09-05T14:08:27.276Z"
+  },
+  {
+    "id": "5b0988aa-0d24-4dba-9663-1497b5bd6aca",
+    "text": "Everyone assumes this works the same as back home. It doesn't. Not every Korea travel problem needs 112 or 119. 📞\n\n1. 112 is for police, 119 for fire/ambulance/medical emergencies — both have English support.\n2. For everything else — a lost passport, hospital interpretation — the 1330 Korea Travel Hotline offers 24/7 multilingual help.\n3. Large Seoul hospitals like Severance or Samsung Medical Center have dedicated international clinics.\n4. Save all three numbers before you land, not after you need one.\n\nSave this before your Korea trip.\nWhich number would you have defaulted to?\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-emergency-numbers-pharmacy-guide.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788574096577-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788574096577-0.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788574096577-1.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788574096577-2.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788574096577-3.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788574096577-4.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-09-05T13:30:06.973Z",
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "1288453561012463_122110028523446391",
+        "post_supports_client_mutation_id": true
+      }
+    },
+    "createdAt": "2026-09-05T02:08:46.303Z",
+    "processedAt": "2026-09-05T14:08:40.011Z"
+  },
+  {
+    "id": "b14ffe4f-7ef8-4d2a-866a-4743c84ba34a",
+    "text": "Everyone assumes this works the same as back home. It doesn't.\n\n112 and 119 aren't always the number you need in Korea.\n\nThe 1330 Travel Hotline handles non-emergencies 24/7 in multiple languages — save it before you land.\n\nSave this before your Korea trip.\n\n📖 More tips on the blog — link in bio.\n\n#KoreaTravel #SeoulTrip #KoreaTips #TravelKorea #VisitSeoul",
+    "imageUrl": null,
+    "videoUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/videos/1788574120064-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-09-05T13:54:08.895Z",
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "18116429362745357"
+      }
+    },
+    "createdAt": "2026-09-05T02:08:46.307Z",
+    "processedAt": "2026-09-05T14:09:15.337Z"
+  },
+  {
+    "id": "804ad7cc-1454-4574-b0f8-37590b62ce1e",
+    "text": "Not every Korea travel problem needs 112 or 119. 📞\n\n1. 112 is for police, 119 for fire/ambulance/medical emergencies — both have English support.\n2. For everything else — a lost passport, hospital interpretation — the 1330 Korea Travel Hotline offers 24/7 multilingual help.\n3. Large Seoul hospitals like Severance or Samsung Medical Center have dedicated international clinics.\n4. Save all three numbers before you land, not after you need one.\n\nSave this before your Korea trip.\nWhich number would you have defaulted to?",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788574096577-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788574096577-0.jpg"
+    ],
+    "platforms": [
+      "pinterest"
+    ],
+    "scheduledAt": "2026-09-05T13:32:24.921Z",
+    "status": "partial",
+    "results": {
+      "pinterest": {
+        "error": "publish failed"
+      }
+    },
+    "createdAt": "2026-09-05T02:08:46.309Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-emergency-numbers-pharmacy-guide.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
+    "topic": "Emergency numbers & 24hr pharmacies",
+    "processedAt": "2026-09-05T14:09:15.417Z"
+  },
+  {
+    "id": "315c535c-2e67-4b97-8063-fe40e077eee1",
+    "text": "There's one detail that trips up almost every first-timer.\n\nThe app everyone already has isn't the one that does real work in Korea. Naver Map and Papago need to be on your phone before you land — some features need a local IP or SIM active. Which app changed your trip?\n\n📖 More on the blog — link in bio.",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788574128546-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788574128546-0.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788574128546-1.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788574128546-2.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788574128546-3.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788574128546-4.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-09-05T23:57:11.814Z",
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18180361129375349"
+      }
+    },
+    "createdAt": "2026-09-05T02:09:10.227Z",
+    "processedAt": "2026-09-05T23:58:52.172Z"
+  },
+  {
+    "id": "35abf6f5-0269-4ccc-a950-4d23d70bd32a",
+    "text": "There's one detail that trips up almost every first-timer. The app you already have isn't the one that does the heavy lifting in Korea. 📱\n\n1. Naver Map and Papago should go on your phone before you land — some functions work better with a local IP or Korean SIM/eSIM active.\n2. KakaoMap and Naver Map both show real-time subway/bus arrivals down to the platform.\n3. Naver's map also folds in local review data that's often more current than international apps.\n4. Most visitors don't discover these features until well into the trip.\n\nSave this before you land in Korea.\nWhich app ended up changing your trip?\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-travel-apps-comparison.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788574128546-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788574128546-0.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788574128546-1.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788574128546-2.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788574128546-3.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788574128546-4.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-09-05T23:55:34.126Z",
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "1288453561012463_122110186023446391",
+        "post_supports_client_mutation_id": true
+      }
+    },
+    "createdAt": "2026-09-05T02:09:10.230Z",
+    "processedAt": "2026-09-05T23:59:05.209Z"
+  },
+  {
+    "id": "e9c82d39-ef1f-4730-8c15-d8753dd42834",
+    "text": "There's one detail that trips up almost every first-timer.\n\nThe app everyone already has isn't the one that actually helps in Korea.\n\nNaver Map and Papago do the real work — install both before you land.\n\nSave this before your Korea trip.\n\n📖 More tips on the blog — link in bio.\n\n#KoreaTravel #SeoulTrip #KoreaTips #TravelKorea #VisitSeoul",
+    "imageUrl": null,
+    "videoUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/videos/1788574147895-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-09-06T01:03:58.815Z",
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "18108012476165289"
+      }
+    },
+    "createdAt": "2026-09-05T02:09:10.232Z",
+    "processedAt": "2026-09-06T02:03:42.116Z"
+  },
+  {
+    "id": "2f0b3d17-4ea5-4622-9e55-f7cc666bad3e",
+    "text": "The app you already have isn't the one that does the heavy lifting in Korea. 📱\n\n1. Naver Map and Papago should go on your phone before you land — some functions work better with a local IP or Korean SIM/eSIM active.\n2. KakaoMap and Naver Map both show real-time subway/bus arrivals down to the platform.\n3. Naver's map also folds in local review data that's often more current than international apps.\n4. Most visitors don't discover these features until well into the trip.\n\nSave this before you land in Korea.\nWhich app ended up changing your trip?",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788574128546-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788574128546-0.jpg"
+    ],
+    "platforms": [
+      "pinterest"
+    ],
+    "scheduledAt": "2026-09-06T00:08:27.859Z",
+    "status": "partial",
+    "results": {
+      "pinterest": {
+        "error": "publish failed"
+      }
+    },
+    "createdAt": "2026-09-05T02:09:10.234Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-travel-apps-comparison.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
+    "topic": "Useful travel apps",
+    "processedAt": "2026-09-06T01:02:27.729Z"
+  },
+  {
+    "id": "480465a0-670c-47a1-8090-9ad20c890a19",
+    "text": "Nobody tells you this before you land.\n\nMost tourists use maybe 10% of what a Korean convenience store actually offers. CU, GS25, 7-Eleven are open 24/7 and double as a pharmacy, ATM, and hot-food counter. 1+1/2+1 stickers are real discounts. Best thing you've found there?\n\n📖 More on the blog — link in bio.",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788660372352-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788660372352-0.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788660372352-1.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788660372352-2.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788660372352-3.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788660372352-4.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-09-06T02:15:43.007Z",
     "status": "pending",
     "results": {},
-    "createdAt": "2026-09-04T04:26:18.688Z"
+    "createdAt": "2026-09-06T02:06:30.266Z"
+  },
+  {
+    "id": "40085d2d-1644-47fd-8671-fcbd995fbd24",
+    "text": "Nobody tells you this before you land. You've probably only scratched the surface of what a Korean convenience store can do. 🏪\n\n1. CU, GS25, and 7-Eleven run 24/7 and double as a mini pharmacy, ATM, and hot-food counter.\n2. Microwaves and hot water are usually available for instant noodles or heat-and-eat meals.\n3. You can pay bills, buy concert tickets, or even ship a parcel at some locations.\n4. Look for 1+1 or 2+1 stickers — those are real bundle discounts.\n\nSave this before your Korea trip.\nWhat's the best thing you've found at a Korean convenience store?\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-convenience-store-guide.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788660372352-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788660372352-0.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788660372352-1.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788660372352-2.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788660372352-3.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788660372352-4.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-09-06T02:57:04.968Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-06T02:06:30.270Z"
+  },
+  {
+    "id": "33093206-ffb1-4d12-aa6c-42ac29783a49",
+    "text": "Nobody tells you this before you land.\n\nMost tourists use maybe 10% of what a Korean convenience store actually offers.\n\nMini pharmacy, ATM, hot food, bill pay, parcel shipping — all in one 24/7 counter.\n\nSave this before you land in Korea.\n\n📖 More tips on the blog — link in bio.\n\n#KoreaTravel #SeoulTrip #KoreaTips #TravelKorea #VisitSeoul",
+    "imageUrl": null,
+    "videoUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/videos/1788660387876-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-09-06T02:17:29.186Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-06T02:06:30.273Z"
+  },
+  {
+    "id": "6d4f8e4a-b225-4a40-880b-ce21e77119fa",
+    "text": "You've probably only scratched the surface of what a Korean convenience store can do. 🏪\n\n1. CU, GS25, and 7-Eleven run 24/7 and double as a mini pharmacy, ATM, and hot-food counter.\n2. Microwaves and hot water are usually available for instant noodles or heat-and-eat meals.\n3. You can pay bills, buy concert tickets, or even ship a parcel at some locations.\n4. Look for 1+1 or 2+1 stickers — those are real bundle discounts.\n\nSave this before your Korea trip.\nWhat's the best thing you've found at a Korean convenience store?",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788660372352-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788660372352-0.jpg"
+    ],
+    "platforms": [
+      "pinterest"
+    ],
+    "scheduledAt": "2026-09-06T03:00:10.129Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-06T02:06:30.275Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-convenience-store-guide.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
+    "topic": "Convenience store hacks"
+  },
+  {
+    "id": "da6fa211-e617-4e91-9682-6da1a812a70d",
+    "text": "This looks simple until it actually happens to you.\n\nIt's not Korea's outdoor weather that wrecks your packing plan — it's the indoor heating and AC swings. Layer for both extremes. Walking shoes beat fashion here. Quick-dry fabric wins during monsoon season. Ever been caught out?\n\n📖 More on the blog — link in bio.",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788660391135-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788660391135-0.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788660391135-1.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788660391135-2.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788660391135-3.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788660391135-4.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-09-06T13:58:35.589Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-06T02:06:57.167Z"
+  },
+  {
+    "id": "00a66fe3-379e-4b86-b60b-413433dc62d5",
+    "text": "This looks simple until it actually happens to you. Indoor climate control, not the weather outside, is what actually wrecks your Korea packing plan. 🧥\n\n1. Heating and AC run strong here — layer for freezing streets and warm subways in winter.\n2. In summer it's the reverse: humid streets and cold AC indoors.\n3. Comfortable walking shoes matter more than fashion — expect a lot of walking and stairs.\n4. Traveling during monsoon season? Quick-dry fabric beats cotton.\n\nSave this before you pack for Korea.\nHas indoor AC or heating ever caught you off guard here?\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-seasonal-packing-guide.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788660391135-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788660391135-0.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788660391135-1.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788660391135-2.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788660391135-3.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788660391135-4.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-09-06T14:21:13.271Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-06T02:06:57.169Z"
+  },
+  {
+    "id": "9ba560e3-86f1-4894-8cd0-76073ca834f7",
+    "text": "This looks simple until it actually happens to you.\n\nIt's not the weather outside that wrecks your Korea packing plan — it's the indoor AC and heating swings.\n\nLayer for both extremes, and pick walking shoes over fashion.\n\nSave this before your Korea trip.\n\n📖 More tips on the blog — link in bio.\n\n#KoreaTravel #SeoulTrip #KoreaTips #TravelKorea #VisitSeoul",
+    "imageUrl": null,
+    "videoUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/videos/1788660414286-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-09-06T13:22:16.810Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-06T02:06:57.172Z"
+  },
+  {
+    "id": "3da012e2-f8c3-41ef-b08e-76e93e4cf6b5",
+    "text": "Indoor climate control, not the weather outside, is what actually wrecks your Korea packing plan. 🧥\n\n1. Heating and AC run strong here — layer for freezing streets and warm subways in winter.\n2. In summer it's the reverse: humid streets and cold AC indoors.\n3. Comfortable walking shoes matter more than fashion — expect a lot of walking and stairs.\n4. Traveling during monsoon season? Quick-dry fabric beats cotton.\n\nSave this before you pack for Korea.\nHas indoor AC or heating ever caught you off guard here?",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788660391135-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788660391135-0.jpg"
+    ],
+    "platforms": [
+      "pinterest"
+    ],
+    "scheduledAt": "2026-09-06T14:07:02.151Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-06T02:06:57.174Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-seasonal-packing-guide.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
+    "topic": "Seasonal packing & weather tips"
+  },
+  {
+    "id": "70c80d5e-d408-4b6d-82fa-95e8327dc8d1",
+    "text": "Most tourists get this wrong in their first hour.\n\nCoin lockers at Korean subway stations look reliable — until you actually need one on a weekend. They fill fast during holidays. Luggage counters near Myeongdong/Hongdae hold bags all day flat-rate. Ever come up empty on lockers?\n\n📖 More on the blog — link in bio.",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788660418469-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788660418469-0.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788660418469-1.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788660418469-2.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788660418469-3.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788660418469-4.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-09-06T22:48:00.727Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-06T02:08:17.884Z"
+  },
+  {
+    "id": "84107d4f-3111-4dd5-a791-7e446fc22b42",
+    "text": "Most tourists get this wrong in their first hour. Coin lockers aren't the guaranteed backup plan they look like in Korea. 🧳\n\n1. Available at most major stations, payable with T-money — but they fill up fast on weekends and holidays.\n2. Luggage storage counters near Myeongdong and Hongdae hold bags for a full day at a flat rate.\n3. Some hotels will hold your bags even after checkout at no extra charge.\n4. Always ask your hotel first before paying for outside storage.\n\nSave this before your last day in Seoul.\nHave you ever come up empty looking for a locker?\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-luggage-storage-forwarding.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788660418469-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788660418469-0.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788660418469-1.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788660418469-2.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788660418469-3.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788660418469-4.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-09-06T23:06:56.927Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-06T02:08:17.886Z"
+  },
+  {
+    "id": "2a194fee-df98-4630-9266-215b27dd804b",
+    "text": "Most tourists get this wrong in their first hour.\n\nCoin lockers look reliable in Korea — until the weekend crowd beats you to the last one.\n\nBackup: luggage counters near Myeongdong/Hongdae, or just ask your hotel to hold your bags.\n\nSave this for your last day in Seoul.\n\n📖 More tips on the blog — link in bio.\n\n#KoreaTravel #SeoulTrip #KoreaTips #TravelKorea #VisitSeoul",
+    "imageUrl": null,
+    "videoUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/videos/1788660491113-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-09-06T23:29:07.976Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-06T02:08:17.889Z"
+  },
+  {
+    "id": "6ba1ef95-c2e7-496a-bc4f-257368e47bb6",
+    "text": "Coin lockers aren't the guaranteed backup plan they look like in Korea. 🧳\n\n1. Available at most major stations, payable with T-money — but they fill up fast on weekends and holidays.\n2. Luggage storage counters near Myeongdong and Hongdae hold bags for a full day at a flat rate.\n3. Some hotels will hold your bags even after checkout at no extra charge.\n4. Always ask your hotel first before paying for outside storage.\n\nSave this before your last day in Seoul.\nHave you ever come up empty looking for a locker?",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788660418469-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1788660418469-0.jpg"
+    ],
+    "platforms": [
+      "pinterest"
+    ],
+    "scheduledAt": "2026-09-06T23:33:17.819Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-06T02:08:17.892Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-luggage-storage-forwarding.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
+    "topic": "Luggage storage & forwarding services"
   }
 ]
