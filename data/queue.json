@@ -3134,9 +3134,15 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-06T02:57:04.968Z",
-    "status": "claimed",
-    "results": {},
-    "createdAt": "2026-09-06T02:06:30.270Z"
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "1288453561012463_122110223661446391",
+        "post_supports_client_mutation_id": true
+      }
+    },
+    "createdAt": "2026-09-06T02:06:30.270Z",
+    "processedAt": "2026-09-06T03:04:13.995Z"
   },
   {
     "id": "33093206-ffb1-4d12-aa6c-42ac29783a49",
@@ -3167,11 +3173,16 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-06T03:00:10.129Z",
-    "status": "claimed",
-    "results": {},
+    "status": "partial",
+    "results": {
+      "pinterest": {
+        "error": "publish failed"
+      }
+    },
     "createdAt": "2026-09-06T02:06:30.275Z",
     "blogUrl": "https://landinkorea.com/posts/korea-convenience-store-guide.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
-    "topic": "Convenience store hacks"
+    "topic": "Convenience store hacks",
+    "processedAt": "2026-09-06T03:04:14.108Z"
   },
   {
     "id": "da6fa211-e617-4e91-9682-6da1a812a70d",
