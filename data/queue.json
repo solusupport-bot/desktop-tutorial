@@ -3110,7 +3110,7 @@
       "threads"
     ],
     "scheduledAt": "2026-09-06T02:15:43.007Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-06T02:06:30.266Z"
   },
@@ -3142,7 +3142,7 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-06T02:17:29.186Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-06T02:06:30.273Z"
   },
