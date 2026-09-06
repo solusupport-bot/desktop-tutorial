@@ -3134,7 +3134,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-06T02:57:04.968Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-06T02:06:30.270Z"
   },
@@ -3167,7 +3167,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-06T03:00:10.129Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-06T02:06:30.275Z",
     "blogUrl": "https://landinkorea.com/posts/korea-convenience-store-guide.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
