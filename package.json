@@ -16,7 +16,12 @@
     "setup:meta": "bash setup-meta-api.sh",
     "setup:meta:ps1": "powershell -ExecutionPolicy RemoteSigned -File .\\setup-meta-api.ps1",
     "setup:reddit": "bash setup-reddit-api.sh",
-    "setup:meta:github": "echo '📝 GitHub Actions에 다음 Secrets을 추가하세요:' && echo '   FB_PAGE_ACCESS_TOKEN' && echo '   FB_PAGE_ID' && echo '   IG_ACCESS_TOKEN' && echo '   IG_USER_ID' && echo '   THREADS_ACCESS_TOKEN' && echo '   THREADS_USER_ID' && open 'https://github.com/solusupport-bot/desktop-tutorial/settings/secrets/actions'"
+    "setup:meta:github": "echo '📝 GitHub Actions에 다음 Secrets을 추가하세요:' && echo '   FB_PAGE_ACCESS_TOKEN' && echo '   FB_PAGE_ID' && echo '   IG_ACCESS_TOKEN' && echo '   IG_USER_ID' && echo '   THREADS_ACCESS_TOKEN' && echo '   THREADS_USER_ID' && open 'https://github.com/solusupport-bot/desktop-tutorial/settings/secrets/actions'",
+    "setup:github-secrets": "node scripts/setup-github-secrets.js",
+    "test:bluesky": "node scripts/test-bluesky-connection.js",
+    "test:mastodon": "node scripts/test-mastodon-connection.js",
+    "test:tumblr": "node scripts/test-tumblr-connection.js",
+    "test:sns-connections": "echo '🔗 Testing SNS platform connections...' && npm run test:bluesky && npm run test:mastodon && npm run test:tumblr && echo '✅ All SNS connections verified!'"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.122.0",
