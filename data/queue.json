@@ -3377,9 +3377,14 @@
       "threads"
     ],
     "scheduledAt": "2026-09-07T02:43:15.934Z",
-    "status": "claimed",
-    "results": {},
-    "createdAt": "2026-09-07T02:07:02.090Z"
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18018020642726406"
+      }
+    },
+    "createdAt": "2026-09-07T02:07:02.090Z",
+    "processedAt": "2026-09-07T04:04:45.582Z"
   },
   {
     "id": "b4030419-d44a-4b5d-8d3e-7b912febdd85",
@@ -3396,9 +3401,15 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-07T01:48:20.291Z",
-    "status": "claimed",
-    "results": {},
-    "createdAt": "2026-09-07T02:07:02.092Z"
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "1288453561012463_122110621131446391",
+        "post_supports_client_mutation_id": true
+      }
+    },
+    "createdAt": "2026-09-07T02:07:02.092Z",
+    "processedAt": "2026-09-07T04:04:55.488Z"
   },
   {
     "id": "cba52591-dfb6-49c2-9a43-7c8ad02483e1",
@@ -3409,9 +3420,14 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-07T02:06:14.788Z",
-    "status": "claimed",
-    "results": {},
-    "createdAt": "2026-09-07T02:07:02.094Z"
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "18121475807480413"
+      }
+    },
+    "createdAt": "2026-09-07T02:07:02.094Z",
+    "processedAt": "2026-09-07T04:05:28.150Z"
   },
   {
     "id": "98792b3d-d5b8-434e-8147-8b6fd07a67c0",
@@ -3424,11 +3440,16 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-07T03:05:14.659Z",
-    "status": "claimed",
-    "results": {},
+    "status": "partial",
+    "results": {
+      "pinterest": {
+        "error": "publish failed"
+      }
+    },
     "createdAt": "2026-09-07T02:07:02.096Z",
     "blogUrl": "https://landinkorea.com/posts/korea-ktx-vs-srt-vs-intercity-bus-for-long-distance-travel.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
-    "topic": "KTX vs. SRT vs. intercity bus for long-distance travel"
+    "topic": "KTX vs. SRT vs. intercity bus for long-distance travel",
+    "processedAt": "2026-09-07T04:05:28.218Z"
   },
   {
     "id": "7e6bdab3-9ff2-4b39-b3c5-3a9711c947fb",
@@ -3444,11 +3465,17 @@
       "bluesky"
     ],
     "scheduledAt": "2026-09-07T01:45:38.257Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3muvmxfm3j72d",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3muvmxfm3j72d"
+      }
+    },
     "createdAt": "2026-09-07T02:07:02.098Z",
     "blogUrl": "https://landinkorea.com/posts/korea-ktx-vs-srt-vs-intercity-bus-for-long-distance-travel.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
-    "topic": "KTX vs. SRT vs. intercity bus for long-distance travel"
+    "topic": "KTX vs. SRT vs. intercity bus for long-distance travel",
+    "processedAt": "2026-09-07T04:05:33.126Z"
   },
   {
     "id": "c7c6505f-3979-4daf-9fa3-9764b0a78b4e",
@@ -3464,11 +3491,17 @@
       "mastodon"
     ],
     "scheduledAt": "2026-09-07T03:11:36.865Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "mastodon": {
+        "id": "117227778220999796",
+        "url": "https://mastodon.social/@landinkorea/117227778220999796"
+      }
+    },
     "createdAt": "2026-09-07T02:07:02.100Z",
     "blogUrl": "https://landinkorea.com/posts/korea-ktx-vs-srt-vs-intercity-bus-for-long-distance-travel.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
-    "topic": "KTX vs. SRT vs. intercity bus for long-distance travel"
+    "topic": "KTX vs. SRT vs. intercity bus for long-distance travel",
+    "processedAt": "2026-09-07T04:05:40.846Z"
   },
   {
     "id": "c9130a63-6a1c-48e7-89a4-42e1ecf9d43a",
@@ -3484,11 +3517,17 @@
       "tumblr"
     ],
     "scheduledAt": "2026-09-07T01:56:40.241Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "tumblr": {
+        "id": "827068456391278592",
+        "url": "https://landinkorea.tumblr.com/post/827068456391278592"
+      }
+    },
     "createdAt": "2026-09-07T02:07:02.102Z",
     "blogUrl": "https://landinkorea.com/posts/korea-ktx-vs-srt-vs-intercity-bus-for-long-distance-travel.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
-    "topic": "KTX vs. SRT vs. intercity bus for long-distance travel"
+    "topic": "KTX vs. SRT vs. intercity bus for long-distance travel",
+    "processedAt": "2026-09-07T04:05:45.059Z"
   },
   {
     "id": "47c0c437-f898-4a47-8076-6d5d7b94ff26",
