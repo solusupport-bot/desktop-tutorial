@@ -1,0 +1,145 @@
+{
+  "last_updated": "2026-09-06",
+  "note": "Manual tracking baseline for SNS performance by platform and content category. Update weekly after 7+ posts per platform. Views = unique viewers seeing the post in their feed/timeline.",
+  "threads": {
+    "metadata": {
+      "platform": "Threads",
+      "algorithm_primary": "Early engagement velocity + follower volume",
+      "optimal_posting_time": "6-9 AM UTC+9 (morning in Asia timezone)",
+      "sample_size_for_confidence": 10
+    },
+    "by_category": {
+      "safety_guides": {
+        "avg_views": 0,
+        "peak_views": 0,
+        "engagement_rate": 0,
+        "category_type": "high-potential",
+        "examples": [
+          "Seoul Safety for First-Timers: Scams (viral potential — targets travelers)"
+        ]
+      },
+      "practical_tips": {
+        "avg_views": 0,
+        "peak_views": 0,
+        "engagement_rate": 0,
+        "category_type": "high-engagement",
+        "examples": [
+          "Airport transfer options comparison",
+          "T-money card setup guide"
+        ]
+      },
+      "etiquette": {
+        "avg_views": 0,
+        "peak_views": 0,
+        "engagement_rate": 0,
+        "category_type": "medium",
+        "examples": [
+          "10 Mistakes Visitors Make in Korea"
+        ]
+      }
+    }
+  },
+  "bluesky": {
+    "metadata": {
+      "platform": "Bluesky",
+      "algorithm_primary": "Federation-first, no algorithmic suppression of links",
+      "optimal_posting_time": "Variable (still discovering best times)",
+      "sample_size_for_confidence": 10
+    },
+    "by_category": {
+      "safety_guides": {
+        "avg_views": 0,
+        "peak_views": 0,
+        "engagement_rate": 0,
+        "category_type": "growing"
+      },
+      "practical_tips": {
+        "avg_views": 0,
+        "peak_views": 0,
+        "engagement_rate": 0,
+        "category_type": "moderate"
+      }
+    }
+  },
+  "mastodon": {
+    "metadata": {
+      "platform": "Mastodon (ActivityPub federated)",
+      "algorithm_primary": "Hashtag timelines + federation + local instance discovery",
+      "optimal_posting_time": "Variable by instance time",
+      "sample_size_for_confidence": 5
+    },
+    "by_category": {
+      "practical_tips": {
+        "avg_views": 0,
+        "peak_views": 0,
+        "engagement_rate": 0,
+        "category_type": "moderate"
+      }
+    }
+  },
+  "reddit": {
+    "metadata": {
+      "platform": "Reddit",
+      "algorithm_primary": "Subreddit karma + upvote velocity",
+      "optimal_posting_time": "6-8 AM UTC-7 (US East morning)",
+      "sample_size_for_confidence": 5
+    },
+    "by_category": {
+      "safety_guides": {
+        "avg_views": 0,
+        "peak_views": 0,
+        "engagement_rate": 0,
+        "category_type": "high-potential"
+      },
+      "budget_breakdown": {
+        "avg_views": 0,
+        "peak_views": 0,
+        "engagement_rate": 0,
+        "category_type": "high-potential"
+      }
+    }
+  },
+  "pinterest": {
+    "metadata": {
+      "platform": "Pinterest",
+      "algorithm_primary": "Search keywords + Rich Pins + board followers",
+      "optimal_posting_time": "5-11 AM UTC-7 (US peak browsing)",
+      "sample_size_for_confidence": 5
+    },
+    "by_category": {
+      "travel_guides": {
+        "avg_views": 0,
+        "peak_views": 0,
+        "click_through_rate": 0,
+        "category_type": "discovery-driven"
+      }
+    }
+  },
+  "tumblr": {
+    "metadata": {
+      "platform": "Tumblr",
+      "algorithm_primary": "Hashtag discovery + tags field + reblog community",
+      "optimal_posting_time": "1-4 PM UTC-7 (US browsing peak)",
+      "sample_size_for_confidence": 3
+    },
+    "by_category": {
+      "travel_guides": {
+        "avg_views": 0,
+        "peak_views": 0,
+        "reblog_rate": 0,
+        "category_type": "community-driven"
+      }
+    }
+  },
+  "blog": {
+    "metadata": {
+      "platform": "Land in Korea Blog",
+      "traffic_source": "GoatCounter analytics",
+      "configuration": "Setup needed — see optimization-strategy.md Phase 4.1"
+    },
+    "daily_visitors": 0,
+    "posts_published_this_week": 0,
+    "avg_views_per_post": 0,
+    "returning_visitor_rate": 0
+  }
+}

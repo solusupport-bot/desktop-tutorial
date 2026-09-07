@@ -1,0 +1,166 @@
+{
+  "last_updated": "2026-09-06",
+  "note": "Track which questions drive highest reply rates on Threads/Bluesky/Mastodon. Update weekly after 10+ posts per question. Questions = ending CTAs that encourage comment/reply responses.",
+  "threads_questions": {
+    "metadata": {
+      "platform": "Threads",
+      "tracking_method": "Manual reply count per post (Meta Business Suite)",
+      "sample_size_for_confidence": 10,
+      "update_frequency": "Weekly"
+    },
+    "by_question": {
+      "Anyone else lose money on this mistake?": {
+        "usage_count": 0,
+        "avg_replies": 0,
+        "peak_replies": 0,
+        "reply_rate": 0,
+        "category": "Loss/experience-sharing",
+        "strength": "Social proof + cost concern"
+      },
+      "What would you add for someone landing tomorrow?": {
+        "usage_count": 0,
+        "avg_replies": 0,
+        "peak_replies": 0,
+        "reply_rate": 0,
+        "category": "Advice-seeking",
+        "strength": "Crowdsourcing + engagement from community"
+      },
+      "Worth knowing before you land? Reply with what surprised you.": {
+        "usage_count": 0,
+        "avg_replies": 0,
+        "peak_replies": 0,
+        "reply_rate": 0,
+        "category": "Experience-sharing + direct CTA",
+        "strength": "Explicit call-to-action with low friction"
+      },
+      "Did this trip you up your first time too? Drop a comment.": {
+        "usage_count": 0,
+        "avg_replies": 0,
+        "peak_replies": 0,
+        "reply_rate": 0,
+        "category": "Relatability + direct CTA",
+        "strength": "Second-person relatability"
+      },
+      "How much did this actually cost you on your trip?": {
+        "usage_count": 0,
+        "avg_replies": 0,
+        "peak_replies": 0,
+        "reply_rate": 0,
+        "category": "Cost/budget question",
+        "strength": "Budget-conscious audience engagement"
+      },
+      "Tag someone who needs to see this before booking.": {
+        "usage_count": 0,
+        "avg_replies": 0,
+        "peak_replies": 0,
+        "reply_rate": 0,
+        "category": "Social sharing + tagging",
+        "strength": "Peer-to-peer viral potential"
+      }
+    }
+  },
+  "facebook_questions": {
+    "metadata": {
+      "platform": "Facebook",
+      "tracking_method": "Manual comment count per post (Facebook Insights)",
+      "sample_size_for_confidence": 10,
+      "update_frequency": "Weekly"
+    },
+    "by_question": {
+      "Which mistake have you made? Comment below.": {
+        "usage_count": 0,
+        "avg_comments": 0,
+        "peak_comments": 0,
+        "comment_rate": 0,
+        "category": "Experience-sharing"
+      },
+      "How much did this cost you? Share your story.": {
+        "usage_count": 0,
+        "avg_comments": 0,
+        "peak_comments": 0,
+        "comment_rate": 0,
+        "category": "Budget/cost-sharing"
+      },
+      "Done any of these? Which surprised you most?": {
+        "usage_count": 0,
+        "avg_comments": 0,
+        "peak_comments": 0,
+        "comment_rate": 0,
+        "category": "Experience + reflection"
+      },
+      "What's your biggest tip for first-timers landing in Korea?": {
+        "usage_count": 0,
+        "avg_comments": 0,
+        "peak_comments": 0,
+        "comment_rate": 0,
+        "category": "Crowdsourced tips"
+      },
+      "Have you learned this the hard way? Tell your story.": {
+        "usage_count": 0,
+        "avg_comments": 0,
+        "peak_comments": 0,
+        "comment_rate": 0,
+        "category": "Experience-sharing"
+      },
+      "Which one surprised you the most? Drop a comment.": {
+        "usage_count": 0,
+        "avg_comments": 0,
+        "peak_comments": 0,
+        "comment_rate": 0,
+        "category": "Reflection + direct CTA"
+      }
+    }
+  },
+  "instagram_closers": {
+    "metadata": {
+      "platform": "Instagram",
+      "tracking_method": "Manual comment count per post (Instagram Insights)",
+      "note": "Instagram uses closers (not direct questions) due to caption character limits, but still tracked for comment engagement",
+      "sample_size_for_confidence": 10
+    },
+    "by_closer": {
+      "Save this — you'll regret it if you don't.": {
+        "usage_count": 0,
+        "avg_comments": 0,
+        "peak_comments": 0,
+        "save_rate": 0,
+        "comment_rate": 0
+      },
+      "Comment: which one surprised you the most?": {
+        "usage_count": 0,
+        "avg_comments": 0,
+        "peak_comments": 0,
+        "save_rate": 0,
+        "comment_rate": 0
+      },
+      "Screenshot this before you land in Korea.": {
+        "usage_count": 0,
+        "avg_comments": 0,
+        "peak_comments": 0,
+        "save_rate": 0,
+        "comment_rate": 0
+      },
+      "Done any of these? Comment your story below.": {
+        "usage_count": 0,
+        "avg_comments": 0,
+        "peak_comments": 0,
+        "save_rate": 0,
+        "comment_rate": 0
+      },
+      "Save this guide — trust me on this one.": {
+        "usage_count": 0,
+        "avg_comments": 0,
+        "peak_comments": 0,
+        "save_rate": 0,
+        "comment_rate": 0
+      },
+      "Which one did you NOT know? Drop a 🇰🇷": {
+        "usage_count": 0,
+        "avg_comments": 0,
+        "peak_comments": 0,
+        "save_rate": 0,
+        "comment_rate": 0
+      }
+    }
+  }
+}
