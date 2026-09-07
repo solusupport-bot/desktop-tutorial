@@ -3538,7 +3538,7 @@
       "threads"
     ],
     "scheduledAt": "2026-09-07T14:04:29.809Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-07T02:07:30.912Z"
   },
@@ -3551,7 +3551,7 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-07T14:15:34.131Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-07T02:07:30.916Z"
   },
