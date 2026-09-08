@@ -3647,9 +3647,14 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-07T23:59:29.052Z",
-    "status": "claimed",
-    "results": {},
-    "createdAt": "2026-09-07T02:07:48.770Z"
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "18103371923259209"
+      }
+    },
+    "createdAt": "2026-09-07T02:07:48.770Z",
+    "processedAt": "2026-09-08T00:03:21.480Z"
   },
   {
     "id": "54f90283-f1fe-4b9d-b023-73bcbfdb3d4d",
@@ -3673,11 +3678,17 @@
       "mastodon"
     ],
     "scheduledAt": "2026-09-07T23:42:05.383Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "mastodon": {
+        "id": "117232487761215679",
+        "url": "https://mastodon.social/@landinkorea/117232487761215679"
+      }
+    },
     "createdAt": "2026-09-07T02:07:48.774Z",
     "blogUrl": "https://landinkorea.com/posts/korea-trash-recycling-rules.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
-    "topic": "Trash and recycling rules for residents"
+    "topic": "Trash and recycling rules for residents",
+    "processedAt": "2026-09-08T00:03:22.528Z"
   },
   {
     "id": "20110a10-96a4-442d-a7f7-cbb809d187d5",
