@@ -3861,11 +3861,17 @@
       "bluesky"
     ],
     "scheduledAt": "2026-09-08T14:10:03.495Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3muzc5nv5kz2x",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3muzc5nv5kz2x"
+      }
+    },
     "createdAt": "2026-09-08T02:08:09.185Z",
     "blogUrl": "https://landinkorea.com/posts/korea-jjimjilbang-guide.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
-    "topic": "Jjimjilbang etiquette"
+    "topic": "Jjimjilbang etiquette",
+    "processedAt": "2026-09-08T15:02:50.236Z"
   },
   {
     "id": "713f3807-7d81-4d4e-9bf8-97a5f0b7e100",
@@ -3875,11 +3881,16 @@
       "mastodon"
     ],
     "scheduledAt": "2026-09-08T14:40:30.068Z",
-    "status": "claimed",
-    "results": {},
+    "status": "partial",
+    "results": {
+      "mastodon": {
+        "error": "publish failed"
+      }
+    },
     "createdAt": "2026-09-08T02:08:09.187Z",
     "blogUrl": "https://landinkorea.com/posts/korea-jjimjilbang-guide.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
-    "topic": "Jjimjilbang etiquette"
+    "topic": "Jjimjilbang etiquette",
+    "processedAt": "2026-09-08T15:02:50.564Z"
   },
   {
     "id": "3228dd39-23ce-4c4d-914d-4fd66742c763",
