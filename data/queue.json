@@ -3730,7 +3730,7 @@
       "threads"
     ],
     "scheduledAt": "2026-09-08T04:37:50.122Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-08T02:07:59.295Z"
   },
@@ -3743,7 +3743,7 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-08T04:45:09.870Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-08T02:07:59.297Z"
   },
@@ -3755,7 +3755,7 @@
       "bluesky"
     ],
     "scheduledAt": "2026-09-08T05:04:53.209Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-08T02:07:59.300Z",
     "blogUrl": "https://landinkorea.com/posts/korea-dmz-jsa-tour-guide.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
