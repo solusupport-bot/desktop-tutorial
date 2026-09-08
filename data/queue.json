@@ -3785,11 +3785,17 @@
       "mastodon"
     ],
     "scheduledAt": "2026-09-08T05:36:00.709Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "mastodon": {
+        "id": "117233871082588131",
+        "url": "https://mastodon.social/@landinkorea/117233871082588131"
+      }
+    },
     "createdAt": "2026-09-08T02:07:59.302Z",
     "blogUrl": "https://landinkorea.com/posts/korea-dmz-jsa-tour-guide.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
-    "topic": "DMZ and JSA tours"
+    "topic": "DMZ and JSA tours",
+    "processedAt": "2026-09-08T05:55:10.608Z"
   },
   {
     "id": "0c30bf6e-f7c7-4ffc-bf40-9c18a82a9e03",
