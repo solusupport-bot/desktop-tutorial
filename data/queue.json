@@ -3805,11 +3805,17 @@
       "tumblr"
     ],
     "scheduledAt": "2026-09-08T07:34:52.206Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "tumblr": {
+        "id": "827173971629916160",
+        "url": "https://landinkorea.tumblr.com/post/827173971629916160"
+      }
+    },
     "createdAt": "2026-09-08T02:07:59.305Z",
     "blogUrl": "https://landinkorea.com/posts/korea-dmz-jsa-tour-guide.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
-    "topic": "DMZ and JSA tours"
+    "topic": "DMZ and JSA tours",
+    "processedAt": "2026-09-08T08:02:52.156Z"
   },
   {
     "id": "191d57fe-d4ca-4328-a491-cc4207fe0e36",
