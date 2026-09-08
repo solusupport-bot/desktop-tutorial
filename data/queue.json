@@ -3634,9 +3634,14 @@
       "threads"
     ],
     "scheduledAt": "2026-09-08T00:19:49.947Z",
-    "status": "claimed",
-    "results": {},
-    "createdAt": "2026-09-07T02:07:48.768Z"
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18115332476087349"
+      }
+    },
+    "createdAt": "2026-09-07T02:07:48.768Z",
+    "processedAt": "2026-09-08T01:03:06.433Z"
   },
   {
     "id": "a5be9e56-6c92-4f3c-b0d4-780684c940e2",
@@ -3664,11 +3669,17 @@
       "bluesky"
     ],
     "scheduledAt": "2026-09-08T00:43:24.048Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3muxta4rwsd2v",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3muxta4rwsd2v"
+      }
+    },
     "createdAt": "2026-09-07T02:07:48.772Z",
     "blogUrl": "https://landinkorea.com/posts/korea-trash-recycling-rules.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
-    "topic": "Trash and recycling rules for residents"
+    "topic": "Trash and recycling rules for residents",
+    "processedAt": "2026-09-08T01:03:07.088Z"
   },
   {
     "id": "cd08364a-3429-4f14-9dfd-855903a92e97",
@@ -3698,10 +3709,16 @@
       "tumblr"
     ],
     "scheduledAt": "2026-09-08T00:56:38.027Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "tumblr": {
+        "id": "827147563467685889",
+        "url": "https://landinkorea.tumblr.com/post/827147563467685889"
+      }
+    },
     "createdAt": "2026-09-07T02:07:48.776Z",
     "blogUrl": "https://landinkorea.com/posts/korea-trash-recycling-rules.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
-    "topic": "Trash and recycling rules for residents"
+    "topic": "Trash and recycling rules for residents",
+    "processedAt": "2026-09-08T01:03:07.348Z"
   }
 ]
