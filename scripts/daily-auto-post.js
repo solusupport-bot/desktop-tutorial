@@ -272,7 +272,7 @@ const queueOneTopic = async (topics, window) => {
   // Facebook은 한동안 Reels(영상)를 우선했지만, 실제 계정 성과를 직접 보니 이미지
   // 게시물이 영상보다 반응이 더 좋았다(2026-08-31 사용자 실측 피드백) — 이론상 수치
   // (파일 상단 주석)보다 실측을 우선해 Facebook은 이미지 앨범으로 고정한다.
-  // Threads = 이미지 우선(없으면 영상), Instagram = 영상(Reels, 있으면 배경음악 합성) 우선,
+  // Threads = 텍스트 전용(훅 + 답글 체인 구조, CLAUDE.md 참고), Instagram = 영상(Reels, 있으면 배경음악 합성) 우선,
   // 없으면 이미지 캐로셀.
   let instagramVideo = video;
   let instagramMusicAttribution = null;
@@ -289,7 +289,7 @@ const queueOneTopic = async (topics, window) => {
 
   const mediaByPlatform = {
     facebook: { imageUrls: watermarkedImages },
-    threads: watermarkedImages.length > 0 ? { imageUrls: watermarkedImages } : (video ? { videoUrl: video } : {}),
+    threads: {}, // Threads는 텍스트 전용 (훅 + 답글 체인, CLAUDE.md 참고)
     instagram: instagramVideo ? { videoUrl: instagramVideo } : { imageUrls: watermarkedImages },
     reddit: {}, // Reddit은 text 기반이므로 미디어는 선택사항
     // Pinterest 핀은 이미지 1장 구조 — 워터마크된 대표 이미지 한 장만 사용
