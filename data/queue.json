@@ -3900,11 +3900,17 @@
       "tumblr"
     ],
     "scheduledAt": "2026-09-08T16:43:25.377Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "tumblr": {
+        "id": "827211716463099904",
+        "url": "https://landinkorea.tumblr.com/post/827211716463099904"
+      }
+    },
     "createdAt": "2026-09-08T02:08:09.190Z",
     "blogUrl": "https://landinkorea.com/posts/korea-jjimjilbang-guide.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
-    "topic": "Jjimjilbang etiquette"
+    "topic": "Jjimjilbang etiquette",
+    "processedAt": "2026-09-08T18:02:48.492Z"
   },
   {
     "id": "2f09016d-6f27-4609-87f6-4658259497d1",
