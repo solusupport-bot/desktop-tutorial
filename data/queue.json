@@ -3634,7 +3634,7 @@
       "threads"
     ],
     "scheduledAt": "2026-09-08T00:19:49.947Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-07T02:07:48.768Z"
   },
@@ -3664,7 +3664,7 @@
       "bluesky"
     ],
     "scheduledAt": "2026-09-08T00:43:24.048Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-07T02:07:48.772Z",
     "blogUrl": "https://landinkorea.com/posts/korea-trash-recycling-rules.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
@@ -3698,7 +3698,7 @@
       "tumblr"
     ],
     "scheduledAt": "2026-09-08T00:56:38.027Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-07T02:07:48.776Z",
     "blogUrl": "https://landinkorea.com/posts/korea-trash-recycling-rules.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
