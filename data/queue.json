@@ -3647,7 +3647,7 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-07T23:59:29.052Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-07T02:07:48.770Z"
   },
@@ -3673,7 +3673,7 @@
       "mastodon"
     ],
     "scheduledAt": "2026-09-07T23:42:05.383Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-07T02:07:48.774Z",
     "blogUrl": "https://landinkorea.com/posts/korea-trash-recycling-rules.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
