@@ -3927,9 +3927,14 @@
       "threads"
     ],
     "scheduledAt": "2026-09-08T23:29:28.607Z",
-    "status": "claimed",
-    "results": {},
-    "createdAt": "2026-09-08T02:08:38.854Z"
+    "status": "partial",
+    "results": {
+      "threads": {
+        "error": "publish failed"
+      }
+    },
+    "createdAt": "2026-09-08T02:08:38.854Z",
+    "processedAt": "2026-09-08T23:37:25.609Z"
   },
   {
     "id": "ed417898-87f4-4ad0-b179-0c4290a56658",
@@ -3946,9 +3951,15 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-08T23:29:39.272Z",
-    "status": "claimed",
-    "results": {},
-    "createdAt": "2026-09-08T02:08:38.857Z"
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "1288453561012463_122111326917446391",
+        "post_supports_client_mutation_id": true
+      }
+    },
+    "createdAt": "2026-09-08T02:08:38.857Z",
+    "processedAt": "2026-09-08T23:37:35.358Z"
   },
   {
     "id": "29b3ff5f-eb4d-41f7-baf7-9588b0eff6b5",
