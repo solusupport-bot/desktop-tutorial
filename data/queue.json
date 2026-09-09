@@ -4157,11 +4157,16 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-09T07:26:57.465Z",
-    "status": "claimed",
-    "results": {},
+    "status": "partial",
+    "results": {
+      "pinterest": {
+        "error": "publish failed"
+      }
+    },
     "createdAt": "2026-09-09T02:06:46.398Z",
     "blogUrl": "https://landinkorea.com/posts/korea-bukchon-hanok-village.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
-    "topic": "Bukchon Hanok Village"
+    "topic": "Bukchon Hanok Village",
+    "processedAt": "2026-09-09T08:04:00.165Z"
   },
   {
     "id": "d3b7216b-f1a7-4115-bc38-e861f20177b3",
@@ -4229,11 +4234,17 @@
       "tumblr"
     ],
     "scheduledAt": "2026-09-09T07:25:40.969Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "tumblr": {
+        "id": "827264644300341248",
+        "url": "https://landinkorea.tumblr.com/post/827264644300341248"
+      }
+    },
     "createdAt": "2026-09-09T02:06:46.406Z",
     "blogUrl": "https://landinkorea.com/posts/korea-bukchon-hanok-village.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
-    "topic": "Bukchon Hanok Village"
+    "topic": "Bukchon Hanok Village",
+    "processedAt": "2026-09-09T08:04:04.363Z"
   },
   {
     "id": "d381f2b1-1a77-491e-b721-bc3502b52d00",
