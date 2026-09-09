@@ -4324,11 +4324,16 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-09T17:13:40.821Z",
-    "status": "claimed",
-    "results": {},
+    "status": "partial",
+    "results": {
+      "pinterest": {
+        "error": "publish failed"
+      }
+    },
     "createdAt": "2026-09-09T02:07:40.228Z",
     "blogUrl": "https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
-    "topic": "N Seoul Tower (Namsan)"
+    "topic": "N Seoul Tower (Namsan)",
+    "processedAt": "2026-09-09T18:02:34.905Z"
   },
   {
     "id": "148c6a81-1faa-40a5-b650-7dd0d0fd3a2c",
@@ -4396,11 +4401,17 @@
       "tumblr"
     ],
     "scheduledAt": "2026-09-09T17:12:29.885Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "tumblr": {
+        "id": "827302305256882176",
+        "url": "https://landinkorea.tumblr.com/post/827302305256882176"
+      }
+    },
     "createdAt": "2026-09-09T02:07:40.236Z",
     "blogUrl": "https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
-    "topic": "N Seoul Tower (Namsan)"
+    "topic": "N Seoul Tower (Namsan)",
+    "processedAt": "2026-09-09T18:02:41.193Z"
   },
   {
     "id": "8e05dd72-050b-4c47-b95f-fa8bb4affbb1",
