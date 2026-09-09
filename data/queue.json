@@ -4036,11 +4036,17 @@
       "mastodon"
     ],
     "scheduledAt": "2026-09-09T00:25:45.338Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "mastodon": {
+        "id": "117238383891353353",
+        "url": "https://mastodon.social/@landinkorea/117238383891353353"
+      }
+    },
     "createdAt": "2026-09-08T02:08:38.868Z",
     "blogUrl": "https://landinkorea.com/posts/korea-gyeongbokgung-palace.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
-    "topic": "Gyeongbokgung Palace"
+    "topic": "Gyeongbokgung Palace",
+    "processedAt": "2026-09-09T01:02:50.444Z"
   },
   {
     "id": "38ca4637-6a26-449b-b514-2f11a732bfe4",
