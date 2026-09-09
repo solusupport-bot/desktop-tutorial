@@ -4304,9 +4304,14 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-09T14:22:34.603Z",
-    "status": "claimed",
-    "results": {},
-    "createdAt": "2026-09-09T02:07:40.226Z"
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "18225413698330611"
+      }
+    },
+    "createdAt": "2026-09-09T02:07:40.226Z",
+    "processedAt": "2026-09-09T15:14:38.016Z"
   },
   {
     "id": "b6cc60db-313c-4779-880f-181d06c1c51e",
@@ -4339,11 +4344,17 @@
       "bluesky"
     ],
     "scheduledAt": "2026-09-09T14:39:57.627Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mv3tbrxwdc2c",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3mv3tbrxwdc2c"
+      }
+    },
     "createdAt": "2026-09-09T02:07:40.231Z",
     "blogUrl": "https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
-    "topic": "N Seoul Tower (Namsan)"
+    "topic": "N Seoul Tower (Namsan)",
+    "processedAt": "2026-09-09T15:14:42.574Z"
   },
   {
     "id": "6bbb36ec-81e9-4ffd-a81a-a3a90f23cd8f",
@@ -4359,11 +4370,17 @@
       "mastodon"
     ],
     "scheduledAt": "2026-09-09T15:13:36.294Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "mastodon": {
+        "id": "117241733941561058",
+        "url": "https://mastodon.social/@landinkorea/117241733941561058"
+      }
+    },
     "createdAt": "2026-09-09T02:07:40.234Z",
     "blogUrl": "https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
-    "topic": "N Seoul Tower (Namsan)"
+    "topic": "N Seoul Tower (Namsan)",
+    "processedAt": "2026-09-09T15:14:48.227Z"
   },
   {
     "id": "3ded19c6-194d-42c8-ab73-a8f81776bce6",
