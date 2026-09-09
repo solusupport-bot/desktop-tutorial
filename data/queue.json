@@ -3970,9 +3970,14 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-08T23:38:11.325Z",
-    "status": "claimed",
-    "results": {},
-    "createdAt": "2026-09-08T02:08:38.860Z"
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "18131713444708925"
+      }
+    },
+    "createdAt": "2026-09-08T02:08:38.860Z",
+    "processedAt": "2026-09-09T00:04:14.439Z"
   },
   {
     "id": "5ce4b993-2a81-4d0f-92d7-5c9fc9515f92",
@@ -4005,11 +4010,17 @@
       "bluesky"
     ],
     "scheduledAt": "2026-09-08T23:58:51.440Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mv2afvecof2c",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3mv2afvecof2c"
+      }
+    },
     "createdAt": "2026-09-08T02:08:38.865Z",
     "blogUrl": "https://landinkorea.com/posts/korea-gyeongbokgung-palace.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
-    "topic": "Gyeongbokgung Palace"
+    "topic": "Gyeongbokgung Palace",
+    "processedAt": "2026-09-09T00:04:19.677Z"
   },
   {
     "id": "aa6294b4-207b-4633-9907-169387a104cb",
