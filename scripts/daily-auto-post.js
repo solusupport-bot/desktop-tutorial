@@ -356,7 +356,16 @@ const queueOneTopic = async (topics, window) => {
       imageUrls: media.imageUrls,
       videoUrl: media.videoUrl,
       platforms: [platform],
-      scheduledAt
+      scheduledAt,
+      // 워터마크 처리된 imageUrls(raw.githubusercontent.com/...)는 처리 시점 타임스탬프가
+      // 파일명에 들어가 매번 새로 생기므로, 이것만으로는 "같은 원본 사진 재사용" 여부를
+      // 검증할 수 없다(2026-09-09 사용자 지적: "중복된 사진 올리지마" — verify-no-duplicate-media.js가
+      // 실제로는 아무 것도 못 잡아내고 있었음). 원본 Pexels/Pixabay URL을 함께 기록해 그
+      // 스크립트가 진짜 중복 여부를 검증할 수 있게 한다.
+      sourceImageUrls: images,
+      // videoUrl도 Instagram은 음악 합성 후 매번 새로 호스팅된 URL이 들어가므로,
+      // 원본(Pexels/Pixabay) URL을 따로 남겨 검증 스크립트가 실제 중복을 판별하게 한다.
+      sourceVideoUrl: video || null
     };
 
     // Reddit은 subreddit 정보를 추가
