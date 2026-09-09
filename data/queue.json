@@ -3990,11 +3990,16 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-09T02:28:48.063Z",
-    "status": "claimed",
-    "results": {},
+    "status": "partial",
+    "results": {
+      "pinterest": {
+        "error": "publish failed"
+      }
+    },
     "createdAt": "2026-09-08T02:08:38.862Z",
     "blogUrl": "https://landinkorea.com/posts/korea-gyeongbokgung-palace.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
-    "topic": "Gyeongbokgung Palace"
+    "topic": "Gyeongbokgung Palace",
+    "processedAt": "2026-09-09T03:02:27.012Z"
   },
   {
     "id": "dce5c734-9c31-47ac-b6bd-6801a10ec5de",
@@ -4062,11 +4067,17 @@
       "tumblr"
     ],
     "scheduledAt": "2026-09-09T02:28:03.171Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "tumblr": {
+        "id": "827245672944336896",
+        "url": "https://landinkorea.tumblr.com/post/827245672944336896"
+      }
+    },
     "createdAt": "2026-09-08T02:08:38.870Z",
     "blogUrl": "https://landinkorea.com/posts/korea-gyeongbokgung-palace.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
-    "topic": "Gyeongbokgung Palace"
+    "topic": "Gyeongbokgung Palace",
+    "processedAt": "2026-09-09T03:02:31.886Z"
   },
   {
     "id": "b8cd2bb6-7b8a-470f-ba50-c1d9a74917f1",
