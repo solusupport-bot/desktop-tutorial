@@ -4203,11 +4203,17 @@
       "mastodon"
     ],
     "scheduledAt": "2026-09-09T05:25:31.026Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "mastodon": {
+        "id": "117239568089469420",
+        "url": "https://mastodon.social/@landinkorea/117239568089469420"
+      }
+    },
     "createdAt": "2026-09-09T02:06:46.404Z",
     "blogUrl": "https://landinkorea.com/posts/korea-bukchon-hanok-village.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
-    "topic": "Bukchon Hanok Village"
+    "topic": "Bukchon Hanok Village",
+    "processedAt": "2026-09-09T06:04:00.003Z"
   },
   {
     "id": "1676f03f-5b58-424e-9709-953a2a61cb81",
