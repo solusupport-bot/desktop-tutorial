@@ -4094,7 +4094,7 @@
       "threads"
     ],
     "scheduledAt": "2026-09-09T04:25:33.397Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-09T02:06:46.388Z"
   },
@@ -4113,7 +4113,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-09T04:34:24.022Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-09T02:06:46.392Z"
   },
@@ -4126,7 +4126,7 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-09T04:35:45.116Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-09T02:06:46.395Z"
   },
@@ -4161,7 +4161,7 @@
       "bluesky"
     ],
     "scheduledAt": "2026-09-09T04:54:31.145Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-09T02:06:46.401Z",
     "blogUrl": "https://landinkorea.com/posts/korea-bukchon-hanok-village.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
