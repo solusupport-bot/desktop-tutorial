@@ -3970,7 +3970,7 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-08T23:38:11.325Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-08T02:08:38.860Z"
   },
@@ -4005,7 +4005,7 @@
       "bluesky"
     ],
     "scheduledAt": "2026-09-08T23:58:51.440Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-08T02:08:38.865Z",
     "blogUrl": "https://landinkorea.com/posts/korea-gyeongbokgung-palace.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
