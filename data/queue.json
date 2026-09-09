@@ -4094,9 +4094,14 @@
       "threads"
     ],
     "scheduledAt": "2026-09-09T04:25:33.397Z",
-    "status": "claimed",
-    "results": {},
-    "createdAt": "2026-09-09T02:06:46.388Z"
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18113100976819596"
+      }
+    },
+    "createdAt": "2026-09-09T02:06:46.388Z",
+    "processedAt": "2026-09-09T05:14:01.718Z"
   },
   {
     "id": "0010f8e9-df62-4628-8722-29812df2728a",
@@ -4113,9 +4118,15 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-09T04:34:24.022Z",
-    "status": "claimed",
-    "results": {},
-    "createdAt": "2026-09-09T02:06:46.392Z"
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "1288453561012463_122111436231446391",
+        "post_supports_client_mutation_id": true
+      }
+    },
+    "createdAt": "2026-09-09T02:06:46.392Z",
+    "processedAt": "2026-09-09T05:14:16.984Z"
   },
   {
     "id": "8502d48d-6c7e-44ad-a1f6-4e65995fe147",
@@ -4126,9 +4137,14 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-09T04:35:45.116Z",
-    "status": "claimed",
-    "results": {},
-    "createdAt": "2026-09-09T02:06:46.395Z"
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "17913462834265656"
+      }
+    },
+    "createdAt": "2026-09-09T02:06:46.395Z",
+    "processedAt": "2026-09-09T05:14:45.930Z"
   },
   {
     "id": "0c5d28cb-224f-43a3-b8d4-1e36316ff8ab",
@@ -4161,11 +4177,17 @@
       "bluesky"
     ],
     "scheduledAt": "2026-09-09T04:54:31.145Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mv2rr6glih2s",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3mv2rr6glih2s"
+      }
+    },
     "createdAt": "2026-09-09T02:06:46.401Z",
     "blogUrl": "https://landinkorea.com/posts/korea-bukchon-hanok-village.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
-    "topic": "Bukchon Hanok Village"
+    "topic": "Bukchon Hanok Village",
+    "processedAt": "2026-09-09T05:14:51.625Z"
   },
   {
     "id": "7c95f351-a2bc-4acf-8077-019330e95f12",
