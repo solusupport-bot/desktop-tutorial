@@ -4511,11 +4511,17 @@
       "bluesky"
     ],
     "scheduledAt": "2026-09-10T01:27:18.738Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mv4xinjdyi2c",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3mv4xinjdyi2c"
+      }
+    },
     "createdAt": "2026-09-09T02:07:58.168Z",
     "blogUrl": "https://landinkorea.com/posts/korea-myeongdong-shopping-district.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
-    "topic": "Myeongdong shopping district"
+    "topic": "Myeongdong shopping district",
+    "processedAt": "2026-09-10T02:02:47.423Z"
   },
   {
     "id": "2f53a90c-5cf9-4850-ac2f-6471424b96a2",
@@ -4531,11 +4537,17 @@
       "mastodon"
     ],
     "scheduledAt": "2026-09-10T01:56:50.829Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "mastodon": {
+        "id": "117244282430244998",
+        "url": "https://mastodon.social/@landinkorea/117244282430244998"
+      }
+    },
     "createdAt": "2026-09-09T02:07:58.171Z",
     "blogUrl": "https://landinkorea.com/posts/korea-myeongdong-shopping-district.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
-    "topic": "Myeongdong shopping district"
+    "topic": "Myeongdong shopping district",
+    "processedAt": "2026-09-10T02:02:54.917Z"
   },
   {
     "id": "c2ac50ac-21c6-4504-bfbc-fddd86d7031a",
