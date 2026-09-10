@@ -4871,11 +4871,17 @@
       "mastodon"
     ],
     "scheduledAt": "2026-09-10T16:26:56.956Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "mastodon": {
+        "id": "117247822612184389",
+        "url": "https://mastodon.social/@landinkorea/117247822612184389"
+      }
+    },
     "createdAt": "2026-09-10T02:07:55.074Z",
     "blogUrl": "https://landinkorea.com/posts/korea-jeju-island.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
-    "topic": "Jeju Island"
+    "topic": "Jeju Island",
+    "processedAt": "2026-09-10T17:03:13.846Z"
   },
   {
     "id": "345f81d7-e8b3-4c23-93da-3816945c4e8e",
