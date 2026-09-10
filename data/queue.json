@@ -4491,11 +4491,16 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-10T03:55:17.513Z",
-    "status": "claimed",
-    "results": {},
+    "status": "partial",
+    "results": {
+      "pinterest": {
+        "error": "publish failed"
+      }
+    },
     "createdAt": "2026-09-09T02:07:58.165Z",
     "blogUrl": "https://landinkorea.com/posts/korea-myeongdong-shopping-district.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
-    "topic": "Myeongdong shopping district"
+    "topic": "Myeongdong shopping district",
+    "processedAt": "2026-09-10T04:02:49.680Z"
   },
   {
     "id": "5225f02f-7b9f-40bd-a808-91a9bb7680e7",
@@ -4563,11 +4568,17 @@
       "tumblr"
     ],
     "scheduledAt": "2026-09-10T04:00:27.249Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "tumblr": {
+        "id": "827340068213702656",
+        "url": "https://landinkorea.tumblr.com/post/827340068213702656"
+      }
+    },
     "createdAt": "2026-09-09T02:07:58.174Z",
     "blogUrl": "https://landinkorea.com/posts/korea-myeongdong-shopping-district.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
-    "topic": "Myeongdong shopping district"
+    "topic": "Myeongdong shopping district",
+    "processedAt": "2026-09-10T04:02:54.225Z"
   },
   {
     "id": "5de3003a-2208-456a-882b-97d6f3e8ccec",
@@ -4667,11 +4678,17 @@
       "bluesky"
     ],
     "scheduledAt": "2026-09-10T03:05:52.536Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mv567kqqws2j",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3mv567kqqws2j"
+      }
+    },
     "createdAt": "2026-09-10T02:07:12.159Z",
     "blogUrl": "https://landinkorea.com/posts/korea-busan-haeundae-beach-gamcheon-culture-village.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
-    "topic": "Busan Haeundae Beach & Gamcheon Culture Village"
+    "topic": "Busan Haeundae Beach & Gamcheon Culture Village",
+    "processedAt": "2026-09-10T04:02:58.714Z"
   },
   {
     "id": "342fdb5f-09de-4f81-a7ee-435bff7d5739",
@@ -4687,11 +4704,17 @@
       "mastodon"
     ],
     "scheduledAt": "2026-09-10T03:34:03.909Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "mastodon": {
+        "id": "117244754925115601",
+        "url": "https://mastodon.social/@landinkorea/117244754925115601"
+      }
+    },
     "createdAt": "2026-09-10T02:07:12.162Z",
     "blogUrl": "https://landinkorea.com/posts/korea-busan-haeundae-beach-gamcheon-culture-village.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
-    "topic": "Busan Haeundae Beach & Gamcheon Culture Village"
+    "topic": "Busan Haeundae Beach & Gamcheon Culture Village",
+    "processedAt": "2026-09-10T04:03:04.772Z"
   },
   {
     "id": "316f8c9b-1c9b-4c6f-8985-a8eb1b515f38",
