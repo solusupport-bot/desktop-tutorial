@@ -4762,7 +4762,7 @@
       "threads"
     ],
     "scheduledAt": "2026-09-10T15:23:15.662Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-10T02:07:55.058Z"
   },
@@ -4781,7 +4781,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-10T15:27:56.940Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-10T02:07:55.062Z"
   },
@@ -4794,7 +4794,7 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-10T15:34:19.063Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-10T02:07:55.065Z"
   },
@@ -4829,7 +4829,7 @@
       "bluesky"
     ],
     "scheduledAt": "2026-09-10T15:53:50.623Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-10T02:07:55.071Z",
     "blogUrl": "https://landinkorea.com/posts/korea-jeju-island.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
