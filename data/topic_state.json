@@ -1,21 +1,6 @@
 {
-  "lastIndex": 3,
+  "lastIndex": 6,
   "history": [
-    {
-      "index": 10,
-      "topic": "Seasonal packing & weather tips",
-      "at": "2026-08-25T00:44:10.614Z"
-    },
-    {
-      "index": 11,
-      "topic": "Luggage storage & forwarding services",
-      "at": "2026-08-25T00:44:11.011Z"
-    },
-    {
-      "index": 0,
-      "topic": "eSIM & mobile data",
-      "at": "2026-08-25T00:44:11.386Z"
-    },
     {
       "index": 1,
       "topic": "T-money transit card",
@@ -300,6 +285,21 @@
       "index": 3,
       "topic": "Myeongdong shopping district",
       "at": "2026-09-09T02:07:40.238Z"
+    },
+    {
+      "index": 4,
+      "topic": "Busan Haeundae Beach & Gamcheon Culture Village",
+      "at": "2026-09-10T02:06:20.266Z"
+    },
+    {
+      "index": 5,
+      "topic": "Jeju Island",
+      "at": "2026-09-10T02:07:12.166Z"
+    },
+    {
+      "index": 6,
+      "topic": "eSIM & mobile data",
+      "at": "2026-09-10T02:07:55.078Z"
     }
   ],
   "recentImageUrls": [
@@ -484,7 +484,22 @@
     "https://images.pexels.com/photos/32014932/pexels-photo-32014932.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://images.pexels.com/photos/33019200/pexels-photo-33019200.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://images.pexels.com/photos/3871071/pexels-photo-3871071.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://images.pexels.com/photos/32014934/pexels-photo-32014934.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "https://images.pexels.com/photos/32014934/pexels-photo-32014934.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/29188029/pexels-photo-29188029.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/37448899/pexels-photo-37448899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/29188038/pexels-photo-29188038.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/31743214/pexels-photo-31743214.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/29188040/pexels-photo-29188040.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/8850965/pexels-photo-8850965.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/34350147/pexels-photo-34350147.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/30966649/pexels-photo-30966649.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/29269787/pexels-photo-29269787.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/13502680/pexels-photo-13502680.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/31925335/pexels-photo-31925335.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/32133700/pexels-photo-32133700.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/8372631/pexels-photo-8372631.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/37957393/pexels-photo-37957393.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/8372629/pexels-photo-8372629.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
   ],
   "recentVideoUrls": [
     "https://videos.pexels.com/video-files/19577787/19577787-uhd_2160_3840_30fps.mp4",
@@ -536,7 +551,10 @@
     "https://videos.pexels.com/video-files/37155493/15740343_1080_1920_30fps.mp4",
     "https://videos.pexels.com/video-files/39245493/16699868_1080_1920_30fps.mp4",
     "https://videos.pexels.com/video-files/32242945/13751016_2160_3840_60fps.mp4",
-    "https://videos.pexels.com/video-files/31727226/13518312_1080_1920_30fps.mp4"
+    "https://videos.pexels.com/video-files/31727226/13518312_1080_1920_30fps.mp4",
+    "https://videos.pexels.com/video-files/36107674/15312581_1080_1920_60fps.mp4",
+    "https://videos.pexels.com/video-files/37208144/15762142_1080_1920_30fps.mp4",
+    "https://videos.pexels.com/video-files/36849357/15612519_1080_1920_30fps.mp4"
   ],
   "recentMusicUrls": [
     "https://prod-1.storage.jamendo.com/?trackid=20237&format=mp32",
@@ -559,6 +577,8 @@
     "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/main/assets/music/my-vibe.m4a",
     "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/main/assets/music/till-the-night-instrumental.m4a",
     "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/main/assets/music/slow-it-down-instrumental.m4a",
-    "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/main/assets/music/merry-and-bright-photo-dump.m4a"
+    "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/main/assets/music/merry-and-bright-photo-dump.m4a",
+    "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/main/assets/music/melt.m4a",
+    "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/main/assets/music/do-you.m4a"
   ]
 }
