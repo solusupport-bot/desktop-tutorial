@@ -4825,11 +4825,16 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-10T18:26:29.171Z",
-    "status": "claimed",
-    "results": {},
+    "status": "partial",
+    "results": {
+      "pinterest": {
+        "error": "publish failed"
+      }
+    },
     "createdAt": "2026-09-10T02:07:55.068Z",
     "blogUrl": "https://landinkorea.com/posts/korea-jeju-island.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
-    "topic": "Jeju Island"
+    "topic": "Jeju Island",
+    "processedAt": "2026-09-10T19:02:57.682Z"
   },
   {
     "id": "b136688b-e101-4228-973d-bff32097538c",
@@ -4897,11 +4902,17 @@
       "tumblr"
     ],
     "scheduledAt": "2026-09-10T18:25:11.572Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "tumblr": {
+        "id": "827396700667789312",
+        "url": "https://landinkorea.tumblr.com/post/827396700667789312"
+      }
+    },
     "createdAt": "2026-09-10T02:07:55.077Z",
     "blogUrl": "https://landinkorea.com/posts/korea-jeju-island.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
-    "topic": "Jeju Island"
+    "topic": "Jeju Island",
+    "processedAt": "2026-09-10T19:03:03.306Z"
   },
   {
     "id": "a7cde167-1361-44e5-ae2b-4e4d04feb3f3",
