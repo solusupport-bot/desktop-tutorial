@@ -4762,9 +4762,14 @@
       "threads"
     ],
     "scheduledAt": "2026-09-10T15:23:15.662Z",
-    "status": "claimed",
-    "results": {},
-    "createdAt": "2026-09-10T02:07:55.058Z"
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "17896669659599254"
+      }
+    },
+    "createdAt": "2026-09-10T02:07:55.058Z",
+    "processedAt": "2026-09-10T16:04:50.853Z"
   },
   {
     "id": "c8711e75-5eb7-4a5f-ae76-196d24f32eb8",
@@ -4781,9 +4786,15 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-10T15:27:56.940Z",
-    "status": "claimed",
-    "results": {},
-    "createdAt": "2026-09-10T02:07:55.062Z"
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "1288453561012463_122112035625446391",
+        "post_supports_client_mutation_id": true
+      }
+    },
+    "createdAt": "2026-09-10T02:07:55.062Z",
+    "processedAt": "2026-09-10T16:05:00.254Z"
   },
   {
     "id": "f825017d-8cba-499f-8b3a-34d684c2bc1f",
@@ -4794,9 +4805,14 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-10T15:34:19.063Z",
-    "status": "claimed",
-    "results": {},
-    "createdAt": "2026-09-10T02:07:55.065Z"
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "18102498074255929"
+      }
+    },
+    "createdAt": "2026-09-10T02:07:55.065Z",
+    "processedAt": "2026-09-10T16:05:38.834Z"
   },
   {
     "id": "88a59d8d-8df3-43b1-8aa7-262ff7456e15",
@@ -4829,11 +4845,17 @@
       "bluesky"
     ],
     "scheduledAt": "2026-09-10T15:53:50.623Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mv6glvqykx2d",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3mv6glvqykx2d"
+      }
+    },
     "createdAt": "2026-09-10T02:07:55.071Z",
     "blogUrl": "https://landinkorea.com/posts/korea-jeju-island.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
-    "topic": "Jeju Island"
+    "topic": "Jeju Island",
+    "processedAt": "2026-09-10T16:05:42.551Z"
   },
   {
     "id": "baec4f6c-747d-4a1a-a74f-639f89b2b74e",
