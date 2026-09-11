@@ -1,0 +1,29 @@
+name: Check SNS Account Stats
+
+# 실제 Threads/Facebook/Instagram 계정의 팔로워 수/최근 게시물 조회수를 Meta Graph
+# API로 직접 조회해 workflow 로그에 남깁니다. 수동 실행 전용 — 정기 스케줄 없음
+# (2026-09-11 사용자 요청: "너가 내 sns계정 확인을해봐, 조회수나 팔로우가 늘어나질않아").
+on:
+  workflow_dispatch:
+
+jobs:
+  check-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - run: npm ci
+
+      - name: Query Threads/Facebook/Instagram account stats
+        env:
+          THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+          THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
+          FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+        run: node scripts/check-sns-stats.js
