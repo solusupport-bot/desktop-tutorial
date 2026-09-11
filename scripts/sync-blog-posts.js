@@ -128,14 +128,28 @@ const buildMarkdown = (slug, category, generated) => {
   return frontMatter + generated.body.trim() + buildFaqSection(generated.faq) + '\n';
 };
 
+// 2026-09-11 사용자 요청: "매일 블로그 글이 중복없이 올라가도록" — 한 번의 실행에서
+// 블로그 글 없는 주제를 발견하는 대로 전부 다 써버리면(예: 새 주제 8개를 한꺼번에
+// 추가한 경우), 그 날 하루에 8건이 몰리고 그 다음엔 며칠~몇 주씩 새 글이 하나도
+// 안 나가는 불규칙한 패턴이 생긴다. 하루 실행당 딱 1건만 쓰도록 캡을 둬서, 새 주제를
+// 한꺼번에 추가해도 매일 꾸준히 1건씩 나가게 한다.
+const MAX_NEW_POSTS_PER_RUN = 1;
+
+// 최소 이 개수 밑으로 "아직 블로그 글 없는 주제"가 줄어들면, 매일 발행이 곧 끊긴다는
+// 뜻이므로 다음 실행 로그에서 눈에 띄게 경고한다 — 다음 세션에서 korea_travel.js에
+// 새 주제를 추가해야 한다는 신호.
+const LOW_BACKLOG_WARNING_THRESHOLD = 3;
+
 const main = async () => {
   log.section('Land in Korea 블로그 글 동기화 (SNS 주제 <-> 블로그 글)');
   const topics = await fetchKoreaTravelTopics();
   const slugs = loadTopicSlugs();
   let created = 0;
 
-  for (const topic of topics) {
-    if (slugs[topic.source]) continue;
+  const pending = topics.filter((t) => !slugs[t.source]);
+
+  for (const topic of pending) {
+    if (created >= MAX_NEW_POSTS_PER_RUN) break;
 
     log.warn(`블로그 글 없음: "${topic.source}" — 새로 작성합니다.`);
     const slug = slugify(topic.source);
@@ -174,9 +188,20 @@ const main = async () => {
   }
 
   if (created === 0) {
-    log.ok('모든 SNS 주제가 이미 블로그 글과 연결되어 있습니다. 새로 쓸 글 없음.');
+    if (pending.length === 0) {
+      log.ok('모든 SNS 주제가 이미 블로그 글과 연결되어 있습니다. 새로 쓸 글 없음.');
+    } else {
+      log.err(`블로그 글이 필요한 주제 ${pending.length}건이 있었지만 이번 실행에서 하나도 푸시하지 못했습니다 — 다음 실행에서 재시도합니다.`);
+    }
   } else {
     log.ok(`새 블로그 글 ${created}건 land-in-korea-blog에 푸시 완료 — blog-build.yml이 이어서 이미지까지 채워 배포합니다.`);
+  }
+
+  const remaining = pending.length - created;
+  if (remaining <= LOW_BACKLOG_WARNING_THRESHOLD) {
+    log.warn(`아직 블로그 글 없는 주제가 ${remaining}건밖에 안 남았습니다 — 매일 발행이 곧 끊깁니다. korea_travel.js(SOURCES)에 새 주제를 추가해야 합니다.`);
+  } else {
+    log.ok(`블로그 글 대기 중인 신규 주제 재고: ${remaining}건 (약 ${remaining}일 분량)`);
   }
 };
 
