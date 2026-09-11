@@ -5263,7 +5263,7 @@
       "threads"
     ],
     "scheduledAt": "2026-09-11T15:32:14.115Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-11T02:07:08.338Z"
   },
@@ -5282,7 +5282,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-11T15:34:07.301Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-11T02:07:08.341Z"
   },
@@ -5295,7 +5295,7 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-11T15:38:00.739Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-11T02:07:08.345Z"
   },
@@ -5330,7 +5330,7 @@
       "bluesky"
     ],
     "scheduledAt": "2026-09-11T16:02:47.590Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-11T02:07:08.351Z",
     "blogUrl": "https://landinkorea.com/posts/korea-tax-refund-mistake.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
