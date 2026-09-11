@@ -4929,9 +4929,14 @@
       "threads"
     ],
     "scheduledAt": "2026-09-11T02:13:06.143Z",
-    "status": "claimed",
-    "results": {},
-    "createdAt": "2026-09-10T02:08:18.221Z"
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18077584934375639"
+      }
+    },
+    "createdAt": "2026-09-10T02:08:18.221Z",
+    "processedAt": "2026-09-11T03:04:18.887Z"
   },
   {
     "id": "94a1f8e3-fa12-4b78-9ff7-a120960b2f78",
@@ -4948,9 +4953,15 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-11T02:17:49.363Z",
-    "status": "claimed",
-    "results": {},
-    "createdAt": "2026-09-10T02:08:18.226Z"
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "1288453561012463_122112159075446391",
+        "post_supports_client_mutation_id": true
+      }
+    },
+    "createdAt": "2026-09-10T02:08:18.226Z",
+    "processedAt": "2026-09-11T03:04:30.419Z"
   },
   {
     "id": "112567ec-fc3f-40fe-95f6-e19c0a290ceb",
@@ -4961,9 +4972,14 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-11T02:21:10.373Z",
-    "status": "claimed",
-    "results": {},
-    "createdAt": "2026-09-10T02:08:18.229Z"
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "17913879918261904"
+      }
+    },
+    "createdAt": "2026-09-10T02:08:18.229Z",
+    "processedAt": "2026-09-11T03:05:05.890Z"
   },
   {
     "id": "f0065e87-ef65-43f6-8100-b1dc108ab809",
@@ -4996,11 +5012,17 @@
       "bluesky"
     ],
     "scheduledAt": "2026-09-11T02:43:26.208Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mv7lh4zeuv2c",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3mv7lh4zeuv2c"
+      }
+    },
     "createdAt": "2026-09-10T02:08:18.235Z",
     "blogUrl": "https://landinkorea.com/posts/korea-esim-comparison.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
-    "topic": "eSIM & mobile data"
+    "topic": "eSIM & mobile data",
+    "processedAt": "2026-09-11T03:05:10.944Z"
   },
   {
     "id": "9d7c90ad-028c-4202-b3e2-bbeeab125159",
