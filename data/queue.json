@@ -5038,11 +5038,17 @@
       "mastodon"
     ],
     "scheduledAt": "2026-09-11T03:11:05.118Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "mastodon": {
+        "id": "117250416890707258",
+        "url": "https://mastodon.social/@landinkorea/117250416890707258"
+      }
+    },
     "createdAt": "2026-09-10T02:08:18.238Z",
     "blogUrl": "https://landinkorea.com/posts/korea-esim-comparison.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
-    "topic": "eSIM & mobile data"
+    "topic": "eSIM & mobile data",
+    "processedAt": "2026-09-11T04:02:59.476Z"
   },
   {
     "id": "c84a8859-d419-4d55-a856-672f59b1edb2",
@@ -5079,9 +5085,14 @@
       "threads"
     ],
     "scheduledAt": "2026-09-11T03:29:51.387Z",
-    "status": "claimed",
-    "results": {},
-    "createdAt": "2026-09-11T02:06:53.203Z"
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18110150164847347"
+      }
+    },
+    "createdAt": "2026-09-11T02:06:53.203Z",
+    "processedAt": "2026-09-11T04:04:39.744Z"
   },
   {
     "id": "df2db203-5a82-4a4e-a5ae-00116dd25c2e",
@@ -5098,9 +5109,15 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-11T03:30:52.419Z",
-    "status": "claimed",
-    "results": {},
-    "createdAt": "2026-09-11T02:06:53.206Z"
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "1288453561012463_122112174357446391",
+        "post_supports_client_mutation_id": true
+      }
+    },
+    "createdAt": "2026-09-11T02:06:53.206Z",
+    "processedAt": "2026-09-11T04:04:53.110Z"
   },
   {
     "id": "1f3c91fd-93ad-45ab-bf87-3daad5e305a5",
@@ -5111,9 +5128,14 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-11T03:40:24.893Z",
-    "status": "claimed",
-    "results": {},
-    "createdAt": "2026-09-11T02:06:53.209Z"
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "18125887571500416"
+      }
+    },
+    "createdAt": "2026-09-11T02:06:53.209Z",
+    "processedAt": "2026-09-11T04:05:42.673Z"
   },
   {
     "id": "bf036caf-c8fa-4237-a92b-8a813fd1414e",
@@ -5146,11 +5168,17 @@
       "bluesky"
     ],
     "scheduledAt": "2026-09-11T03:56:59.305Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mv7otitadz2f",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3mv7otitadz2f"
+      }
+    },
     "createdAt": "2026-09-11T02:06:53.215Z",
     "blogUrl": "https://landinkorea.com/posts/tmoney-first-timer-mistake.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
-    "topic": "T-money transit card"
+    "topic": "T-money transit card",
+    "processedAt": "2026-09-11T04:05:47.152Z"
   },
   {
     "id": "bc9e1c9c-829d-4c1f-8c3b-43b169582655",
