@@ -4929,7 +4929,7 @@
       "threads"
     ],
     "scheduledAt": "2026-09-11T02:13:06.143Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-10T02:08:18.221Z"
   },
@@ -4948,7 +4948,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-11T02:17:49.363Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-10T02:08:18.226Z"
   },
@@ -4961,7 +4961,7 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-11T02:21:10.373Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-10T02:08:18.229Z"
   },
@@ -4996,7 +4996,7 @@
       "bluesky"
     ],
     "scheduledAt": "2026-09-11T02:43:26.208Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-10T02:08:18.235Z",
     "blogUrl": "https://landinkorea.com/posts/korea-esim-comparison.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
