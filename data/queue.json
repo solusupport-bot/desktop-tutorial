@@ -5372,11 +5372,17 @@
       "mastodon"
     ],
     "scheduledAt": "2026-09-11T16:28:08.926Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "mastodon": {
+        "id": "117253484963842978",
+        "url": "https://mastodon.social/@landinkorea/117253484963842978"
+      }
+    },
     "createdAt": "2026-09-11T02:07:08.354Z",
     "blogUrl": "https://landinkorea.com/posts/korea-tax-refund-mistake.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
-    "topic": "Tax refund (Tax Free) shopping"
+    "topic": "Tax refund (Tax Free) shopping",
+    "processedAt": "2026-09-11T17:03:15.024Z"
   },
   {
     "id": "649e6725-69dc-4afa-afc7-b490e11c217e",
