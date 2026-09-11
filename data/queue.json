@@ -5263,9 +5263,14 @@
       "threads"
     ],
     "scheduledAt": "2026-09-11T15:32:14.115Z",
-    "status": "claimed",
-    "results": {},
-    "createdAt": "2026-09-11T02:07:08.338Z"
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18190133587399219"
+      }
+    },
+    "createdAt": "2026-09-11T02:07:08.338Z",
+    "processedAt": "2026-09-11T16:04:49.506Z"
   },
   {
     "id": "6c19f53d-4bb5-488f-a75d-1fd2926aa525",
@@ -5282,9 +5287,15 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-11T15:34:07.301Z",
-    "status": "claimed",
-    "results": {},
-    "createdAt": "2026-09-11T02:07:08.341Z"
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "1288453561012463_122112394269446391",
+        "post_supports_client_mutation_id": true
+      }
+    },
+    "createdAt": "2026-09-11T02:07:08.341Z",
+    "processedAt": "2026-09-11T16:05:01.456Z"
   },
   {
     "id": "a237f93b-3069-4f3c-b846-9fadd337717c",
@@ -5295,9 +5306,14 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-11T15:38:00.739Z",
-    "status": "claimed",
-    "results": {},
-    "createdAt": "2026-09-11T02:07:08.345Z"
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "18388694851167457"
+      }
+    },
+    "createdAt": "2026-09-11T02:07:08.345Z",
+    "processedAt": "2026-09-11T16:05:36.534Z"
   },
   {
     "id": "a6097987-926d-4dcf-b720-342a26181104",
@@ -5330,11 +5346,17 @@
       "bluesky"
     ],
     "scheduledAt": "2026-09-11T16:02:47.590Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mvax2smbqa2l",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3mvax2smbqa2l"
+      }
+    },
     "createdAt": "2026-09-11T02:07:08.351Z",
     "blogUrl": "https://landinkorea.com/posts/korea-tax-refund-mistake.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
-    "topic": "Tax refund (Tax Free) shopping"
+    "topic": "Tax refund (Tax Free) shopping",
+    "processedAt": "2026-09-11T16:05:41.879Z"
   },
   {
     "id": "ec321659-f1a6-4300-b14d-f3deead700a4",
