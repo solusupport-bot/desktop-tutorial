@@ -5,6 +5,13 @@
 // 같은 사진을 공유하는 건 의도된 동작이라 오탐으로 치지 않는다(createdAt이 거의
 // 같은 시각인 항목끼리는 "같은 인스턴스"로 묶어 제외).
 //
+// 2026-09-09 수정: imageUrls/videoUrl(워터마크·음악 합성 후 raw.githubusercontent.com
+// 호스팅 URL)은 처리 시점 타임스탬프가 파일명에 들어가 매번 새로 생기므로, 이 필드만
+// 비교하면 같은 원본 사진/영상을 재사용해도 절대 걸리지 않는다 — 실제로 사용자가
+// "중복된 사진 올리지마"라고 지적할 때까지 이 스크립트가 무의미한 검증만 하고 있었다.
+// daily-auto-post.js가 남긴 sourceImageUrls/sourceVideoUrl(원본 Pexels/Pixabay URL)이
+// 있으면 그것을 우선 검사하고, 없는 옛 큐 항목만 imageUrls/videoUrl로 폴백한다.
+//
 // 실행: node scripts/verify-no-duplicate-media.js
 // 종료 코드: 진짜 중복을 찾으면 1, 없으면 0 — CI/워크플로에서 게이트로도 쓸 수 있다.
 const fs = require('fs');
@@ -24,8 +31,10 @@ const main = () => {
     const key = instanceKey(item);
     imagesByInstance[key] = imagesByInstance[key] || new Set();
     videosByInstance[key] = videosByInstance[key] || new Set();
-    (item.imageUrls || []).forEach((u) => imagesByInstance[key].add(u));
-    if (item.videoUrl) videosByInstance[key].add(item.videoUrl);
+    const sourceImages = item.sourceImageUrls || item.imageUrls || [];
+    sourceImages.forEach((u) => imagesByInstance[key].add(u));
+    const sourceVideo = item.sourceVideoUrl !== undefined ? item.sourceVideoUrl : item.videoUrl;
+    if (sourceVideo) videosByInstance[key].add(sourceVideo);
   });
 
   const check = (byInstance, label) => {

@@ -272,7 +272,7 @@ const queueOneTopic = async (topics, window) => {
   // Facebook은 한동안 Reels(영상)를 우선했지만, 실제 계정 성과를 직접 보니 이미지
   // 게시물이 영상보다 반응이 더 좋았다(2026-08-31 사용자 실측 피드백) — 이론상 수치
   // (파일 상단 주석)보다 실측을 우선해 Facebook은 이미지 앨범으로 고정한다.
-  // Threads = 이미지 우선(없으면 영상), Instagram = 영상(Reels, 있으면 배경음악 합성) 우선,
+  // Threads = 이미지 캐로셀만 (영상 절대 안 함, 참여도 +2.3x), Instagram = 영상(Reels, 있으면 배경음악 합성) 우선,
   // 없으면 이미지 캐로셀.
   let instagramVideo = video;
   let instagramMusicAttribution = null;
@@ -289,7 +289,7 @@ const queueOneTopic = async (topics, window) => {
 
   const mediaByPlatform = {
     facebook: { imageUrls: watermarkedImages },
-    threads: watermarkedImages.length > 0 ? { imageUrls: watermarkedImages } : (video ? { videoUrl: video } : {}),
+    threads: watermarkedImages.length > 0 ? { imageUrls: watermarkedImages } : {}, // 이미지만 (영상 절대 안 함)
     instagram: instagramVideo ? { videoUrl: instagramVideo } : { imageUrls: watermarkedImages },
     reddit: {}, // Reddit은 text 기반이므로 미디어는 선택사항
     // Pinterest 핀은 이미지 1장 구조 — 워터마크된 대표 이미지 한 장만 사용
@@ -356,7 +356,16 @@ const queueOneTopic = async (topics, window) => {
       imageUrls: media.imageUrls,
       videoUrl: media.videoUrl,
       platforms: [platform],
-      scheduledAt
+      scheduledAt,
+      // 워터마크 처리된 imageUrls(raw.githubusercontent.com/...)는 처리 시점 타임스탬프가
+      // 파일명에 들어가 매번 새로 생기므로, 이것만으로는 "같은 원본 사진 재사용" 여부를
+      // 검증할 수 없다(2026-09-09 사용자 지적: "중복된 사진 올리지마" — verify-no-duplicate-media.js가
+      // 실제로는 아무 것도 못 잡아내고 있었음). 원본 Pexels/Pixabay URL을 함께 기록해 그
+      // 스크립트가 진짜 중복 여부를 검증할 수 있게 한다.
+      sourceImageUrls: images,
+      // videoUrl도 Instagram은 음악 합성 후 매번 새로 호스팅된 URL이 들어가므로,
+      // 원본(Pexels/Pixabay) URL을 따로 남겨 검증 스크립트가 실제 중복을 판별하게 한다.
+      sourceVideoUrl: video || null
     };
 
     // Reddit은 subreddit 정보를 추가

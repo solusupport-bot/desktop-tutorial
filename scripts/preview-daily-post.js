@@ -7,13 +7,11 @@ const { fetchKoreaTravelTopics } = require('../lib/ingestion/korea_travel');
 const { fetchTopicImages } = require('../lib/ingestion/pexels_image');
 const { findKoreaVideo } = require('../lib/ingestion/pexels_video');
 const { TOPIC_IMAGES } = require('../lib/ingestion/topic_images');
-const { loadState, getRecentImageUrls, getRecentVideoUrls } = require('../lib/scheduler/topic_rotation');
+const { loadState, getRecentImageUrls, getRecentVideoUrls, peekUpcomingTopics } = require('../lib/scheduler/topic_rotation');
 const { curateContent } = require('../lib/curation/curate');
 
 const PLATFORMS = ['threads', 'facebook'];
 const IMAGE_CAROUSEL_TARGET = 5;
-
-const pickAngle = (content, seed) => (Array.isArray(content) ? content[seed % content.length] : content);
 
 const resolveImages = async (topicName, seed) => {
   const recent = getRecentImageUrls();
@@ -27,10 +25,9 @@ const main = async () => {
   log.section('오늘의 자동 발행 미리보기 (큐/상태를 저장하지 않음)');
 
   const topics = await fetchKoreaTravelTopics();
-  const state = loadState();
-  const nextIndex = (state.lastIndex + 1) % topics.length;
-  const seed = state.history.length;
-  const item = { ...topics[nextIndex], content: pickAngle(topics[nextIndex].content, seed) };
+  const [next] = peekUpcomingTopics(topics, 1);
+  const seed = next.seed;
+  const item = { source: next.source, author: next.author, url: next.url, category: next.category, placeKeyword: next.placeKeyword, content: next.content };
 
   const images = await resolveImages(item.source, seed);
   const videoQuery = item.source.replace(/\(.*?\)/g, '').trim();
