@@ -4992,11 +4992,16 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-11T05:14:16.550Z",
-    "status": "claimed",
-    "results": {},
+    "status": "partial",
+    "results": {
+      "pinterest": {
+        "error": "publish failed"
+      }
+    },
     "createdAt": "2026-09-10T02:08:18.232Z",
     "blogUrl": "https://landinkorea.com/posts/korea-esim-comparison.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
-    "topic": "eSIM & mobile data"
+    "topic": "eSIM & mobile data",
+    "processedAt": "2026-09-11T05:49:39.716Z"
   },
   {
     "id": "8d94a7f9-70cf-4bd5-9682-9600e6cfc992",
@@ -5064,11 +5069,17 @@
       "tumblr"
     ],
     "scheduledAt": "2026-09-11T05:09:35.326Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "tumblr": {
+        "id": "827437387777998848",
+        "url": "https://landinkorea.tumblr.com/post/827437387777998848"
+      }
+    },
     "createdAt": "2026-09-10T02:08:18.241Z",
     "blogUrl": "https://landinkorea.com/posts/korea-esim-comparison.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
-    "topic": "eSIM & mobile data"
+    "topic": "eSIM & mobile data",
+    "processedAt": "2026-09-11T05:49:45.558Z"
   },
   {
     "id": "872562a9-47bc-4602-a88c-4e005105a25f",
