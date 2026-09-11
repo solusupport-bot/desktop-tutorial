@@ -5326,11 +5326,16 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-11T18:30:53.443Z",
-    "status": "claimed",
-    "results": {},
+    "status": "partial",
+    "results": {
+      "pinterest": {
+        "error": "publish failed"
+      }
+    },
     "createdAt": "2026-09-11T02:07:08.348Z",
     "blogUrl": "https://landinkorea.com/posts/korea-tax-refund-mistake.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
-    "topic": "Tax refund (Tax Free) shopping"
+    "topic": "Tax refund (Tax Free) shopping",
+    "processedAt": "2026-09-11T19:03:05.355Z"
   },
   {
     "id": "afae3fa2-eda4-4350-8096-48f816e36a11",
@@ -5398,11 +5403,17 @@
       "tumblr"
     ],
     "scheduledAt": "2026-09-11T18:32:34.295Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "tumblr": {
+        "id": "827487304677523456",
+        "url": "https://landinkorea.tumblr.com/post/827487304677523456"
+      }
+    },
     "createdAt": "2026-09-11T02:07:08.357Z",
     "blogUrl": "https://landinkorea.com/posts/korea-tax-refund-mistake.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
-    "topic": "Tax refund (Tax Free) shopping"
+    "topic": "Tax refund (Tax Free) shopping",
+    "processedAt": "2026-09-11T19:03:10.174Z"
   },
   {
     "id": "b9600d99-da64-4542-8a04-a606d0644894",
