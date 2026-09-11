@@ -5159,11 +5159,16 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-11T06:28:26.706Z",
-    "status": "claimed",
-    "results": {},
+    "status": "partial",
+    "results": {
+      "pinterest": {
+        "error": "publish failed"
+      }
+    },
     "createdAt": "2026-09-11T02:06:53.212Z",
     "blogUrl": "https://landinkorea.com/posts/tmoney-first-timer-mistake.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
-    "topic": "T-money transit card"
+    "topic": "T-money transit card",
+    "processedAt": "2026-09-11T07:15:29.782Z"
   },
   {
     "id": "8d7dc282-13c6-423d-9e35-6868a08836d2",
@@ -5231,11 +5236,17 @@
       "tumblr"
     ],
     "scheduledAt": "2026-09-11T06:26:55.728Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "tumblr": {
+        "id": "827442786883272704",
+        "url": "https://landinkorea.tumblr.com/post/827442786883272704"
+      }
+    },
     "createdAt": "2026-09-11T02:06:53.221Z",
     "blogUrl": "https://landinkorea.com/posts/tmoney-first-timer-mistake.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
-    "topic": "T-money transit card"
+    "topic": "T-money transit card",
+    "processedAt": "2026-09-11T07:15:34.360Z"
   },
   {
     "id": "6fe7cd73-5550-4d23-9099-aaba12788823",
