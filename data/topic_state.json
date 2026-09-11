@@ -1,21 +1,6 @@
 {
-  "lastIndex": 6,
+  "lastIndex": 9,
   "history": [
-    {
-      "index": 1,
-      "topic": "T-money transit card",
-      "at": "2026-08-26T00:44:55.867Z"
-    },
-    {
-      "index": 2,
-      "topic": "Tax refund (Tax Free) shopping",
-      "at": "2026-08-26T00:44:56.837Z"
-    },
-    {
-      "index": 3,
-      "topic": "Travel advisories & safety notices",
-      "at": "2026-08-26T00:44:57.158Z"
-    },
     {
       "index": 4,
       "topic": "Airport transfer options",
@@ -300,6 +285,21 @@
       "index": 6,
       "topic": "eSIM & mobile data",
       "at": "2026-09-10T02:07:55.078Z"
+    },
+    {
+      "index": 7,
+      "topic": "T-money transit card",
+      "at": "2026-09-11T02:06:17.604Z"
+    },
+    {
+      "index": 8,
+      "topic": "Tax refund (Tax Free) shopping",
+      "at": "2026-09-11T02:06:53.223Z"
+    },
+    {
+      "index": 9,
+      "topic": "Travel advisories & safety notices",
+      "at": "2026-09-11T02:07:08.359Z"
     }
   ],
   "recentImageUrls": [
@@ -499,7 +499,22 @@
     "https://images.pexels.com/photos/32133700/pexels-photo-32133700.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://images.pexels.com/photos/8372631/pexels-photo-8372631.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://images.pexels.com/photos/37957393/pexels-photo-37957393.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://images.pexels.com/photos/8372629/pexels-photo-8372629.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "https://images.pexels.com/photos/8372629/pexels-photo-8372629.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/19271602/pexels-photo-19271602.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/19271586/pexels-photo-19271586.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/32133736/pexels-photo-32133736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/11632184/pexels-photo-11632184.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/32042548/pexels-photo-32042548.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/5863413/pexels-photo-5863413.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/31925324/pexels-photo-31925324.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/32211615/pexels-photo-32211615.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/28494398/pexels-photo-28494398.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/19714663/pexels-photo-19714663.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/5183073/pexels-photo-5183073.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/19271589/pexels-photo-19271589.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/31925313/pexels-photo-31925313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/19271585/pexels-photo-19271585.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/35816143/pexels-photo-35816143.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
   ],
   "recentVideoUrls": [
     "https://videos.pexels.com/video-files/19577787/19577787-uhd_2160_3840_30fps.mp4",
@@ -554,7 +569,10 @@
     "https://videos.pexels.com/video-files/31727226/13518312_1080_1920_30fps.mp4",
     "https://videos.pexels.com/video-files/36107674/15312581_1080_1920_60fps.mp4",
     "https://videos.pexels.com/video-files/37208144/15762142_1080_1920_30fps.mp4",
-    "https://videos.pexels.com/video-files/36849357/15612519_1080_1920_30fps.mp4"
+    "https://videos.pexels.com/video-files/36849357/15612519_1080_1920_30fps.mp4",
+    "https://videos.pexels.com/video-files/37479960/15876214_1080_1920_30fps.mp4",
+    "https://videos.pexels.com/video-files/6863131/6863131-hd_1080_1920_30fps.mp4",
+    "https://videos.pexels.com/video-files/32242949/13751125_2160_3840_60fps.mp4"
   ],
   "recentMusicUrls": [
     "https://prod-1.storage.jamendo.com/?trackid=20237&format=mp32",
@@ -579,6 +597,8 @@
     "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/main/assets/music/slow-it-down-instrumental.m4a",
     "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/main/assets/music/merry-and-bright-photo-dump.m4a",
     "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/main/assets/music/melt.m4a",
-    "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/main/assets/music/do-you.m4a"
+    "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/main/assets/music/do-you.m4a",
+    "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/main/assets/music/good-thing.m4a",
+    "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/main/assets/music/good-thing-instrumental.m4a"
   ]
 }
