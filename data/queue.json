@@ -5194,11 +5194,17 @@
       "mastodon"
     ],
     "scheduledAt": "2026-09-11T04:26:28.561Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "mastodon": {
+        "id": "117250653615555799",
+        "url": "https://mastodon.social/@landinkorea/117250653615555799"
+      }
+    },
     "createdAt": "2026-09-11T02:06:53.218Z",
     "blogUrl": "https://landinkorea.com/posts/tmoney-first-timer-mistake.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
-    "topic": "T-money transit card"
+    "topic": "T-money transit card",
+    "processedAt": "2026-09-11T05:03:12.191Z"
   },
   {
     "id": "d10ff44b-492f-4fc9-8cb1-80c87d97dfa6",
