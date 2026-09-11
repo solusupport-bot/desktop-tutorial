@@ -4,6 +4,32 @@
 
 ---
 
+## 📰 블로그는 매일 1편씩, 중복 없이 자동 발행 (2026-09-11 사용자 명시 지시)
+
+**"매일 블로그 글이 중복없이 올라가도록 해줘"** — 이 지시는 영구 규칙입니다.
+
+- `scripts/sync-blog-posts.js`는 `MAX_NEW_POSTS_PER_RUN = 1`로 캡이 걸려 있어, `korea_travel.js`에
+  블로그 글 없는 주제가 몇 개가 쌓여 있든 **하루 실행당 딱 1건만** 발행합니다. 이 캡을 없애거나
+  늘리지 마세요 — 없애면 새 주제를 여러 개 추가했을 때 하루에 몰아서 나가고 그 다음 며칠은
+  하나도 안 나가는 불규칙한 패턴으로 되돌아갑니다.
+- 이 스크립트는 `korea_travel.js`(SOURCES)에서 **아직 블로그 글로 안 나간 주제**를 하나씩 꺼내
+  씁니다 — 즉 "재고"가 있어야 매일 발행이 유지됩니다. 재고가 `LOW_BACKLOG_WARNING_THRESHOLD`(3건)
+  밑으로 떨어지면 daily-topic.yml 로그에 경고가 뜹니다.
+- **재고가 줄어들면 다음 세션에서 `lib/ingestion/korea_travel.js`의 `SOURCES` 배열에 새 주제를
+  추가할 것.** 각 새 주제는 반드시: (1) 실제 사실 기반 콘텐츠 2개 각도(content 배열), (2)
+  `lib/ingestion/pexels_image.js`의 `TOPIC_QUERIES`에 동일한 순서로 이미지 검색어 2개(콘텐츠
+  각도와 1:1 대응, 한국 신호 포함) 를 함께 추가해야 합니다 — 둘 중 하나만 추가하면
+  `scripts/verify-topic-media-alignment.js`가 정렬 불일치로 잡아냅니다.
+- 새 주제를 추가한 뒤에는 **`data/topic_blog_links.json`을 절대 직접 수동으로 편집해 슬러그를
+  미리 채워넣지 말 것** — sync-blog-posts.js가 다음 실행에서 자동으로 새 글을 쓰고 슬러그를
+  기록합니다. 미리 채워넣으면 "이미 블로그 글 있음"으로 착각해 영원히 안 써집니다.
+- **이 저장소(desktop-tutorial)에서 코드를 고칠 때는 반드시 main 브랜치에도 반영이 되는지
+  확인할 것.** 실제 자동화(daily-topic.yml, scheduler.yml)는 전부 main 브랜치에서 실행되므로,
+  feature 브랜치에서만 고치고 main에 병합을 안 하면 "고쳤다"고 보고해도 실제로는 아무것도
+  달라지지 않습니다(2026-09-11 실측 — 이 실수로 며칠간 수정사항이 반영 안 된 채 방치됨).
+
+---
+
 ## 🌐 SNS 콘텐츠 작성 시 Agent Reach 필수 사용 규칙
 
 **이 저장소는 Threads/Facebook/Instagram SNS 자동 발행 파이프라인입니다.**
