@@ -5038,7 +5038,7 @@
       "mastodon"
     ],
     "scheduledAt": "2026-09-11T03:11:05.118Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-10T02:08:18.238Z",
     "blogUrl": "https://landinkorea.com/posts/korea-esim-comparison.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
@@ -5079,7 +5079,7 @@
       "threads"
     ],
     "scheduledAt": "2026-09-11T03:29:51.387Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-11T02:06:53.203Z"
   },
@@ -5098,7 +5098,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-11T03:30:52.419Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-11T02:06:53.206Z"
   },
@@ -5111,7 +5111,7 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-11T03:40:24.893Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-11T02:06:53.209Z"
   },
@@ -5146,7 +5146,7 @@
       "bluesky"
     ],
     "scheduledAt": "2026-09-11T03:56:59.305Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-11T02:06:53.215Z",
     "blogUrl": "https://landinkorea.com/posts/tmoney-first-timer-mistake.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
