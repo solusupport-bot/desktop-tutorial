@@ -5473,7 +5473,7 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-12T00:37:57.282Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-11T02:08:02.119Z"
   },
@@ -5508,7 +5508,7 @@
       "bluesky"
     ],
     "scheduledAt": "2026-09-12T00:56:44.080Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-11T02:08:02.125Z",
     "blogUrl": "https://landinkorea.com/posts/korea-travel-advisories-safety-notices.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
