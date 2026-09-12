@@ -5493,11 +5493,16 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-12T03:27:18.708Z",
-    "status": "claimed",
-    "results": {},
+    "status": "partial",
+    "results": {
+      "pinterest": {
+        "error": "publish failed"
+      }
+    },
     "createdAt": "2026-09-11T02:08:02.122Z",
     "blogUrl": "https://landinkorea.com/posts/korea-travel-advisories-safety-notices.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
-    "topic": "Travel advisories & safety notices"
+    "topic": "Travel advisories & safety notices",
+    "processedAt": "2026-09-12T04:02:47.739Z"
   },
   {
     "id": "341f3101-ef40-4f9c-ba8f-920895e4fb6f",
@@ -5565,11 +5570,17 @@
       "tumblr"
     ],
     "scheduledAt": "2026-09-12T03:26:16.257Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "tumblr": {
+        "id": "827521259666653184",
+        "url": "https://landinkorea.tumblr.com/post/827521259666653184"
+      }
+    },
     "createdAt": "2026-09-11T02:08:02.131Z",
     "blogUrl": "https://landinkorea.com/posts/korea-travel-advisories-safety-notices.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
-    "topic": "Travel advisories & safety notices"
+    "topic": "Travel advisories & safety notices",
+    "processedAt": "2026-09-12T04:02:51.885Z"
   },
   {
     "id": "7f921f4b-0ef8-4cdc-bbb4-537e75281e97",
