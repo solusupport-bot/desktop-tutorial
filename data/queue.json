@@ -5597,8 +5597,12 @@
       "threads"
     ],
     "scheduledAt": "2026-09-12T04:39:01.720Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18098786963377333"
+      }
+    },
     "createdAt": "2026-09-12T02:06:33.552Z",
     "sourceImageUrls": [
       "https://images.pexels.com/photos/19271572/pexels-photo-19271572.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -5607,7 +5611,8 @@
       "https://images.pexels.com/photos/36785235/pexels-photo-36785235.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "https://images.pexels.com/photos/37785270/pexels-photo-37785270.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     ],
-    "sourceVideoUrl": "https://videos.pexels.com/video-files/39474349/16813672_1080_1920_30fps.mp4"
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/39474349/16813672_1080_1920_30fps.mp4",
+    "processedAt": "2026-09-12T04:58:17.886Z"
   },
   {
     "id": "635707b4-d4d1-425e-8a07-a3a910b5d86b",
@@ -5624,8 +5629,13 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-12T04:41:44.967Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "1288453561012463_122112550149446391",
+        "post_supports_client_mutation_id": true
+      }
+    },
     "createdAt": "2026-09-12T02:06:33.558Z",
     "sourceImageUrls": [
       "https://images.pexels.com/photos/19271572/pexels-photo-19271572.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -5634,7 +5644,8 @@
       "https://images.pexels.com/photos/36785235/pexels-photo-36785235.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "https://images.pexels.com/photos/37785270/pexels-photo-37785270.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     ],
-    "sourceVideoUrl": "https://videos.pexels.com/video-files/39474349/16813672_1080_1920_30fps.mp4"
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/39474349/16813672_1080_1920_30fps.mp4",
+    "processedAt": "2026-09-12T04:58:28.240Z"
   },
   {
     "id": "7f8966b0-86a1-40c2-8796-dc58bfd951ad",
@@ -5645,8 +5656,12 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-12T04:48:00.091Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "17902688991568494"
+      }
+    },
     "createdAt": "2026-09-12T02:06:33.561Z",
     "sourceImageUrls": [
       "https://images.pexels.com/photos/19271572/pexels-photo-19271572.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -5655,7 +5670,8 @@
       "https://images.pexels.com/photos/36785235/pexels-photo-36785235.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "https://images.pexels.com/photos/37785270/pexels-photo-37785270.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     ],
-    "sourceVideoUrl": "https://videos.pexels.com/video-files/39474349/16813672_1080_1920_30fps.mp4"
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/39474349/16813672_1080_1920_30fps.mp4",
+    "processedAt": "2026-09-12T04:59:02.559Z"
   },
   {
     "id": "5f09a691-6002-40fb-af97-d58258491453",
