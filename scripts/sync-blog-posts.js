@@ -60,16 +60,19 @@ const splitSentences = (text) => (text.match(/[^.!?]+[.!?]*/g) || [text]).map((s
  * 이미 검증된 원문 문장을 그대로 답변으로 재사용한다(2026-08-31 사용자 요청: 애드센스
  * 승인에 도움이 되도록 블로그에 Q&A 방식 추가, 질문 3개).
  */
-const buildFallbackFaq = (topic) => {
-  const angles = Array.isArray(topic.content) ? topic.content : [topic.content];
-  const allSentences = angles.flatMap(splitSentences);
-  const mistakeSentence = allSentences.find((s) => /mistake|miss(es)?|surpris/i.test(s));
-  return [
-    { question: `What's the most common first-timer mistake with ${topic.source.toLowerCase()}?`, answer: mistakeSentence || allSentences[0] },
-    { question: `What should I know before I go?`, answer: allSentences[1] || allSentences[0] },
-    { question: `Any quick tip to remember?`, answer: allSentences[allSentences.length - 1] || allSentences[0] }
-  ];
+const pickFaqSentences = (allSentences) => {
+  const mistake = allSentences.find((s) => /mistake|miss(es)?|surpris/i.test(s)) || allSentences[0];
+  const before = allSentences.find((s) => s !== mistake) || allSentences[1] || allSentences[0];
+  const tip = [...allSentences].reverse().find((s) => s !== mistake && s !== before)
+    || allSentences[allSentences.length - 1] || allSentences[0];
+  return { mistake, before, tip };
 };
+
+const buildFallbackFaq = (topic, faqSentences) => [
+  { question: `What's the most common first-timer mistake with ${topic.source.toLowerCase()}?`, answer: faqSentences.mistake },
+  { question: `What should I know before I go?`, answer: faqSentences.before },
+  { question: `Any quick tip to remember?`, answer: faqSentences.tip }
+];
 
 // 2026-09-12: 메타 설명에 애드센스/SEO 관점의 혜택 키워드를 넣어달라는 요청 —
 // 사실을 지어내는 게 아니라 이미 검증된 firstSentence 뒤에 짧은 혜택 문구만 붙인다.
@@ -81,16 +84,47 @@ const buildBlogDescription = (firstSentence) => {
   return (withSuffix.length <= 155 ? withSuffix : firstSentence).slice(0, 155);
 };
 
+// 2026-09-13: 애드센스가 "중복 코드/콘텐츠"로 반려한 원인 두 가지를 여기서 고친다 —
+// (1) 폴백 글 16개 중 다수가 제목/소제목이 토씨 하나 안 틀리고 똑같았다(전부
+// "${topic}: What First-Timers Actually Need to Know" + "## The short version") —
+// 주제 이름으로 안정적인 해시를 내 템플릿을 고정 로테이션한다(재생성해도 같은 주제는
+// 같은 제목 유지). (2) FAQ 답변이 본문 문장을 그대로 복붙해 같은 문장이 한 페이지에
+// 두 번 나왔다 — FAQ에 쓴 문장은 본문에서 빼서 문장이 겹치지 않게 한다(새 사실을
+// 지어내진 않음, 같은 사실을 본문/FAQ에 한 번씩만 배치).
+const FALLBACK_TITLE_TEMPLATES = [
+  (t) => `${t}: What First-Timers Actually Need to Know`,
+  (t) => `${t} — The Real First-Timer's Guide`,
+  (t) => `${t}: What Actually Matters Before You Go`,
+  (t) => `${t} — What Nobody Tells First-Timers`
+];
+const FALLBACK_HEADING_TEMPLATES = [
+  'The short version', 'What you actually need to know', 'The practical rundown', 'What matters here'
+];
+const hashIndex = (str, mod) => {
+  let h = 0;
+  for (let i = 0; i < str.length; i += 1) h = (h * 31 + str.charCodeAt(i)) >>> 0;
+  return h % mod;
+};
+
 const buildFallbackPost = (topic) => {
   const angles = Array.isArray(topic.content) ? topic.content : [topic.content];
-  const body = angles.map((a) => a.trim()).join('\n\n');
+  const allSentences = angles.flatMap(splitSentences);
+  const faqSentences = pickFaqSentences(allSentences);
+  const usedInFaq = new Set(Object.values(faqSentences));
+  const bodyAngles = angles.map((angle) => {
+    const kept = splitSentences(angle).filter((s) => !usedInFaq.has(s));
+    return kept.length ? kept.join(' ') : angle.trim(); // 문단 전체가 FAQ로 빠지는 것 방지
+  });
+  const body = bodyAngles.join('\n\n');
   const firstSentence = (angles[0].match(/[^.!?]+[.!?]/) || [angles[0]])[0].trim();
+  const title = FALLBACK_TITLE_TEMPLATES[hashIndex(topic.source, FALLBACK_TITLE_TEMPLATES.length)](topic.source);
+  const heading = FALLBACK_HEADING_TEMPLATES[hashIndex(`${topic.source}:heading`, FALLBACK_HEADING_TEMPLATES.length)];
   return {
-    title: `${topic.source}: What First-Timers Actually Need to Know`,
+    title,
     description: buildBlogDescription(firstSentence),
-    body: `## The short version\n\n${body}`,
+    body: `## ${heading}\n\n${body}`,
     image_query: `${topic.source} travel`,
-    faq: buildFallbackFaq(topic)
+    faq: buildFallbackFaq(topic, faqSentences)
   };
 };
 
