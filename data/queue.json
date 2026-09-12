@@ -5907,7 +5907,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-12T16:50:22.137Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-12T02:07:12.896Z",
     "sourceImageUrls": [
@@ -6003,7 +6003,7 @@
       "tumblr"
     ],
     "scheduledAt": "2026-09-12T16:52:44.167Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-12T02:07:12.908Z",
     "sourceImageUrls": [
