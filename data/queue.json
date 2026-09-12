@@ -5820,7 +5820,7 @@
       "threads"
     ],
     "scheduledAt": "2026-09-12T13:48:29.774Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-12T02:07:12.883Z",
     "sourceImageUrls": [
@@ -5847,7 +5847,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-12T13:55:01.240Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-12T02:07:12.888Z",
     "sourceImageUrls": [
