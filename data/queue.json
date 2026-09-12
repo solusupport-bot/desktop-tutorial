@@ -5712,7 +5712,7 @@
       "bluesky"
     ],
     "scheduledAt": "2026-09-12T05:06:42.424Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-12T02:06:33.569Z",
     "sourceImageUrls": [
@@ -5740,7 +5740,7 @@
       "mastodon"
     ],
     "scheduledAt": "2026-09-12T05:37:42.104Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-12T02:06:33.573Z",
     "sourceImageUrls": [
