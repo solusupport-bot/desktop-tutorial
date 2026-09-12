@@ -5907,8 +5907,12 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-12T16:50:22.137Z",
-    "status": "claimed",
-    "results": {},
+    "status": "partial",
+    "results": {
+      "pinterest": {
+        "error": "publish failed"
+      }
+    },
     "createdAt": "2026-09-12T02:07:12.896Z",
     "sourceImageUrls": [
       "https://images.pexels.com/photos/17859980/pexels-photo-17859980.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -5919,7 +5923,8 @@
     ],
     "sourceVideoUrl": "https://videos.pexels.com/video-files/15985937/15985937-hd_1080_1920_60fps.mp4",
     "blogUrl": "https://landinkorea.com/index.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
-    "topic": "Everland vs. Lotte World theme parks"
+    "topic": "Everland vs. Lotte World theme parks",
+    "processedAt": "2026-09-12T17:02:01.734Z"
   },
   {
     "id": "4647796f-5a4a-41ed-91c5-bf0ba755c2a6",
@@ -6003,8 +6008,13 @@
       "tumblr"
     ],
     "scheduledAt": "2026-09-12T16:52:44.167Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "tumblr": {
+        "id": "827570285656080384",
+        "url": "https://landinkorea.tumblr.com/post/827570285656080384"
+      }
+    },
     "createdAt": "2026-09-12T02:07:12.908Z",
     "sourceImageUrls": [
       "https://images.pexels.com/photos/17859980/pexels-photo-17859980.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -6015,7 +6025,8 @@
     ],
     "sourceVideoUrl": "https://videos.pexels.com/video-files/15985937/15985937-hd_1080_1920_60fps.mp4",
     "blogUrl": "https://landinkorea.com/index.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
-    "topic": "Everland vs. Lotte World theme parks"
+    "topic": "Everland vs. Lotte World theme parks",
+    "processedAt": "2026-09-12T17:02:06.767Z"
   },
   {
     "id": "6093c3bf-703d-4e18-8bb1-02b288a98123",
