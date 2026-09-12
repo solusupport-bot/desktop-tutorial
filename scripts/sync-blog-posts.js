@@ -74,16 +74,6 @@ const buildFallbackFaq = (topic, faqSentences) => [
   { question: `Any quick tip to remember?`, answer: faqSentences.tip }
 ];
 
-// 2026-09-12: 메타 설명에 애드센스/SEO 관점의 혜택 키워드를 넣어달라는 요청 —
-// 사실을 지어내는 게 아니라 이미 검증된 firstSentence 뒤에 짧은 혜택 문구만 붙인다.
-// Land in Korea는 영어 콘텐츠라 문서 예시(무료/꿀팁/필수 정보)를 영어로 대응시킨다.
-// 붙였을 때 155자를 넘기면(문장이 이미 길면) 억지로 자르지 않고 원문만 쓴다.
-const BLOG_DESCRIPTION_BENEFIT_SUFFIX = ' Free, essential tips inside.';
-const buildBlogDescription = (firstSentence) => {
-  const withSuffix = `${firstSentence} ${BLOG_DESCRIPTION_BENEFIT_SUFFIX.trim()}`;
-  return (withSuffix.length <= 155 ? withSuffix : firstSentence).slice(0, 155);
-};
-
 // 2026-09-13: 애드센스가 "중복 코드/콘텐츠"로 반려한 원인 두 가지를 여기서 고친다 —
 // (1) 폴백 글 16개 중 다수가 제목/소제목이 토씨 하나 안 틀리고 똑같았다(전부
 // "${topic}: What First-Timers Actually Need to Know" + "## The short version") —
@@ -104,6 +94,16 @@ const hashIndex = (str, mod) => {
   let h = 0;
   for (let i = 0; i < str.length; i += 1) h = (h * 31 + str.charCodeAt(i)) >>> 0;
   return h % mod;
+};
+
+// 2026-09-12: 메타 설명에 애드센스/SEO 관점의 혜택 키워드를 넣어달라는 요청 —
+// 사실을 지어내는 게 아니라 이미 검증된 firstSentence 뒤에 짧은 혜택 문구만 붙인다.
+// Land in Korea는 영어 콘텐츠라 문서 예시(무료/꿀팁/필수 정보)를 영어로 대응시킨다.
+// 붙였을 때 155자를 넘기면(문장이 이미 길면) 억지로 자르지 않고 원문만 쓴다.
+const BLOG_DESCRIPTION_BENEFIT_SUFFIX = ' Free, essential tips inside.';
+const buildBlogDescription = (firstSentence) => {
+  const withSuffix = `${firstSentence} ${BLOG_DESCRIPTION_BENEFIT_SUFFIX.trim()}`;
+  return (withSuffix.length <= 155 ? withSuffix : firstSentence).slice(0, 155);
 };
 
 const buildFallbackPost = (topic) => {
