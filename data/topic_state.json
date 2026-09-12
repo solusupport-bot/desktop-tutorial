@@ -1,5 +1,5 @@
 {
-  "lastIndex": 9,
+  "lastIndex": 25,
   "history": [
     {
       "index": 4,
@@ -300,6 +300,21 @@
       "index": 9,
       "topic": "Travel advisories & safety notices",
       "at": "2026-09-11T02:07:08.359Z"
+    },
+    {
+      "index": 23,
+      "topic": "Insadong traditional culture street",
+      "at": "2026-09-12T02:05:57.524Z"
+    },
+    {
+      "index": 24,
+      "topic": "Everland vs. Lotte World theme parks",
+      "at": "2026-09-12T02:06:33.578Z"
+    },
+    {
+      "index": 25,
+      "topic": "Hongdae nightlife and youth culture district",
+      "at": "2026-09-12T02:07:12.910Z"
     }
   ],
   "recentImageUrls": [
@@ -514,7 +529,22 @@
     "https://images.pexels.com/photos/19271589/pexels-photo-19271589.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://images.pexels.com/photos/31925313/pexels-photo-31925313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://images.pexels.com/photos/19271585/pexels-photo-19271585.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://images.pexels.com/photos/35816143/pexels-photo-35816143.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "https://images.pexels.com/photos/35816143/pexels-photo-35816143.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/19271572/pexels-photo-19271572.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/29562548/pexels-photo-29562548.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/35254790/pexels-photo-35254790.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/36785235/pexels-photo-36785235.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/37785270/pexels-photo-37785270.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/17859980/pexels-photo-17859980.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/11200884/pexels-photo-11200884.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/19160308/pexels-photo-19160308.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/33056367/pexels-photo-33056367.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/28584231/pexels-photo-28584231.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/31768180/pexels-photo-31768180.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/5059929/pexels-photo-5059929.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/8692830/pexels-photo-8692830.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/8536237/pexels-photo-8536237.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/18468227/pexels-photo-18468227.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
   ],
   "recentVideoUrls": [
     "https://videos.pexels.com/video-files/19577787/19577787-uhd_2160_3840_30fps.mp4",
@@ -572,7 +602,10 @@
     "https://videos.pexels.com/video-files/36849357/15612519_1080_1920_30fps.mp4",
     "https://videos.pexels.com/video-files/37479960/15876214_1080_1920_30fps.mp4",
     "https://videos.pexels.com/video-files/6863131/6863131-hd_1080_1920_30fps.mp4",
-    "https://videos.pexels.com/video-files/32242949/13751125_2160_3840_60fps.mp4"
+    "https://videos.pexels.com/video-files/32242949/13751125_2160_3840_60fps.mp4",
+    "https://videos.pexels.com/video-files/39474349/16813672_1080_1920_30fps.mp4",
+    "https://videos.pexels.com/video-files/15985937/15985937-hd_1080_1920_60fps.mp4",
+    "https://videos.pexels.com/video-files/38522593/16360160_1080_1920_30fps.mp4"
   ],
   "recentMusicUrls": [
     "https://prod-1.storage.jamendo.com/?trackid=20237&format=mp32",
@@ -599,6 +632,9 @@
     "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/main/assets/music/melt.m4a",
     "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/main/assets/music/do-you.m4a",
     "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/main/assets/music/good-thing.m4a",
-    "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/main/assets/music/good-thing-instrumental.m4a"
+    "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/main/assets/music/good-thing-instrumental.m4a",
+    "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/main/assets/music/high-with-me-instrumental.m4a",
+    "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/main/assets/music/my-vibe.m4a",
+    "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/main/assets/music/till-the-night-instrumental.m4a"
   ]
 }
