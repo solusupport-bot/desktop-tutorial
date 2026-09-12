@@ -5820,8 +5820,12 @@
       "threads"
     ],
     "scheduledAt": "2026-09-12T13:48:29.774Z",
-    "status": "claimed",
-    "results": {},
+    "status": "partial",
+    "results": {
+      "threads": {
+        "error": "publish failed"
+      }
+    },
     "createdAt": "2026-09-12T02:07:12.883Z",
     "sourceImageUrls": [
       "https://images.pexels.com/photos/17859980/pexels-photo-17859980.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -5830,7 +5834,8 @@
       "https://images.pexels.com/photos/33056367/pexels-photo-33056367.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "https://images.pexels.com/photos/28584231/pexels-photo-28584231.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     ],
-    "sourceVideoUrl": "https://videos.pexels.com/video-files/15985937/15985937-hd_1080_1920_60fps.mp4"
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/15985937/15985937-hd_1080_1920_60fps.mp4",
+    "processedAt": "2026-09-12T14:02:41.205Z"
   },
   {
     "id": "221581e0-86fc-4251-acc9-b9c562ffca91",
@@ -5847,8 +5852,13 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-12T13:55:01.240Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "1288453561012463_122112683427446391",
+        "post_supports_client_mutation_id": true
+      }
+    },
     "createdAt": "2026-09-12T02:07:12.888Z",
     "sourceImageUrls": [
       "https://images.pexels.com/photos/17859980/pexels-photo-17859980.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -5857,7 +5867,8 @@
       "https://images.pexels.com/photos/33056367/pexels-photo-33056367.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "https://images.pexels.com/photos/28584231/pexels-photo-28584231.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     ],
-    "sourceVideoUrl": "https://videos.pexels.com/video-files/15985937/15985937-hd_1080_1920_60fps.mp4"
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/15985937/15985937-hd_1080_1920_60fps.mp4",
+    "processedAt": "2026-09-12T14:02:51.608Z"
   },
   {
     "id": "5888e2ba-5499-4eea-9a20-f9d4475f0056",
