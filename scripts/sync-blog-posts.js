@@ -71,13 +71,23 @@ const buildFallbackFaq = (topic) => {
   ];
 };
 
+// 2026-09-12: 메타 설명에 애드센스/SEO 관점의 혜택 키워드를 넣어달라는 요청 —
+// 사실을 지어내는 게 아니라 이미 검증된 firstSentence 뒤에 짧은 혜택 문구만 붙인다.
+// Land in Korea는 영어 콘텐츠라 문서 예시(무료/꿀팁/필수 정보)를 영어로 대응시킨다.
+// 붙였을 때 155자를 넘기면(문장이 이미 길면) 억지로 자르지 않고 원문만 쓴다.
+const BLOG_DESCRIPTION_BENEFIT_SUFFIX = ' Free, essential tips inside.';
+const buildBlogDescription = (firstSentence) => {
+  const withSuffix = `${firstSentence} ${BLOG_DESCRIPTION_BENEFIT_SUFFIX.trim()}`;
+  return (withSuffix.length <= 155 ? withSuffix : firstSentence).slice(0, 155);
+};
+
 const buildFallbackPost = (topic) => {
   const angles = Array.isArray(topic.content) ? topic.content : [topic.content];
   const body = angles.map((a) => a.trim()).join('\n\n');
   const firstSentence = (angles[0].match(/[^.!?]+[.!?]/) || [angles[0]])[0].trim();
   return {
     title: `${topic.source}: What First-Timers Actually Need to Know`,
-    description: firstSentence.slice(0, 155),
+    description: buildBlogDescription(firstSentence),
     body: `## The short version\n\n${body}`,
     image_query: `${topic.source} travel`,
     faq: buildFallbackFaq(topic)
@@ -97,6 +107,8 @@ Structure: a hook opening (a specific claim, a mistake framing, or a contrarian 
 Only include an affiliate mention using literally {{klook}}, {{tripcom}}, or {{getyourguide}} as a markdown link target if there's a genuine, specific product tie-in (e.g. a bookable tour, transfer, or SIM/pass) — never force one in.
 
 Also write exactly 3 FAQ question/answer pairs using only the facts above (do not invent new facts) — real questions a first-timer would actually search, with a 1-2 sentence answer each.
+
+The description must naturally include at least one benefit-oriented SEO keyword (e.g. "free", "essential", "tips", "guide") — still under 160 characters, still a real sentence, not keyword-stuffed.
 
 Respond ONLY with this JSON shape (no explanation, no code fences):
 {"title": "...", "description": "...(under 160 chars, no quotes)", "body": "...(the markdown body, starting from the hook, no title heading)", "image_query": "...(2-5 words, a concrete visual scene)", "faq": [{"question": "...", "answer": "..."}, {"question": "...", "answer": "..."}, {"question": "...", "answer": "..."}]}`;

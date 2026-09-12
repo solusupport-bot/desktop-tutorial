@@ -16,6 +16,7 @@ const { findKoreaVideoPixabay } = require('../lib/ingestion/pixabay_video');
 const { findKoreaAttractionPhoto } = require('../lib/ingestion/tour_odii_image');
 const { TOPIC_IMAGES } = require('../lib/ingestion/topic_images');
 const { watermarkAndHostImages } = require('../lib/media/watermark_images');
+const { orderByVividness } = require('../lib/media/image_vividness');
 const { findMusic: findOpenverseMusic } = require('../lib/ingestion/openverse_music');
 const { findMusic: findInstagramSoundLibraryMusic } = require('../lib/ingestion/instagram_sound_library');
 const { attachMusicToVideo, cleanupMergedVideo } = require('../lib/media/mix_audio');
@@ -234,7 +235,12 @@ const queueOneTopic = async (topics, window) => {
   const { topic: item, seed } = pickNextTopic(topics);
   log.ok(`주제 선택: ${item.source} (구간 ${window[0]}~${window[1]}시)`);
 
-  const images = await resolveImages(item.source, seed, IMAGE_CAROUSEL_TARGET, item.placeKeyword);
+  const resolvedImages = await resolveImages(item.source, seed, IMAGE_CAROUSEL_TARGET, item.placeKeyword);
+  // Facebook 앨범(attached_media)은 배열의 첫 장이 피드 커버 썸네일로 노출되므로
+  // (lib/publishing/facebook.js), 가장 밝고 대비가 강한 사진을 앞으로 옮긴다
+  // (2026-09-12 요청: "Facebook 첫 이미지 영향력 강화"). Pinterest도 이 배열의
+  // [0]번을 대표 이미지로 쓰므로 같이 혜택을 본다.
+  const images = await orderByVividness(resolvedImages);
   images.forEach(recordImageUrl); // 중복 체크는 항상 원본 Pexels URL 기준 — 워터마크 자산 URL은 매번 새로 생겨 의미가 없음
 
   // Meta가 2026-05부터 사진/캐로셀에도 "실질적 편집 없는 재사용 콘텐츠" 단속을 확대함
