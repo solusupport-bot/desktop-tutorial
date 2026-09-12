@@ -5473,9 +5473,14 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-12T00:37:57.282Z",
-    "status": "claimed",
-    "results": {},
-    "createdAt": "2026-09-11T02:08:02.119Z"
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "18106521500601400"
+      }
+    },
+    "createdAt": "2026-09-11T02:08:02.119Z",
+    "processedAt": "2026-09-12T01:03:45.567Z"
   },
   {
     "id": "f88ba1a1-84ac-4b46-882b-fb6658070041",
@@ -5508,11 +5513,17 @@
       "bluesky"
     ],
     "scheduledAt": "2026-09-12T00:56:44.080Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mvbv53mpdx2r",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3mvbv53mpdx2r"
+      }
+    },
     "createdAt": "2026-09-11T02:08:02.125Z",
     "blogUrl": "https://landinkorea.com/posts/korea-travel-advisories-safety-notices.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
-    "topic": "Travel advisories & safety notices"
+    "topic": "Travel advisories & safety notices",
+    "processedAt": "2026-09-12T01:03:51.043Z"
   },
   {
     "id": "67179a79-376c-434b-8e2c-7693541d5fd7",
