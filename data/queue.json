@@ -5539,11 +5539,17 @@
       "mastodon"
     ],
     "scheduledAt": "2026-09-12T01:24:17.002Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "mastodon": {
+        "id": "117255607017137956",
+        "url": "https://mastodon.social/@landinkorea/117255607017137956"
+      }
+    },
     "createdAt": "2026-09-11T02:08:02.128Z",
     "blogUrl": "https://landinkorea.com/posts/korea-travel-advisories-safety-notices.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
-    "topic": "Travel advisories & safety notices"
+    "topic": "Travel advisories & safety notices",
+    "processedAt": "2026-09-12T02:02:54.605Z"
   },
   {
     "id": "c80cec19-9cf0-45bf-9cfe-3f78ef2ee9ce",
