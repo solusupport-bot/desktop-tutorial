@@ -5684,8 +5684,12 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-12T07:35:52.923Z",
-    "status": "claimed",
-    "results": {},
+    "status": "partial",
+    "results": {
+      "pinterest": {
+        "error": "publish failed"
+      }
+    },
     "createdAt": "2026-09-12T02:06:33.565Z",
     "sourceImageUrls": [
       "https://images.pexels.com/photos/19271572/pexels-photo-19271572.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -5696,7 +5700,8 @@
     ],
     "sourceVideoUrl": "https://videos.pexels.com/video-files/39474349/16813672_1080_1920_30fps.mp4",
     "blogUrl": "https://landinkorea.com/index.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
-    "topic": "Insadong traditional culture street"
+    "topic": "Insadong traditional culture street",
+    "processedAt": "2026-09-12T08:02:31.728Z"
   },
   {
     "id": "636ea715-b510-48b2-a2f8-3b502302eb5f",
@@ -5780,8 +5785,13 @@
       "tumblr"
     ],
     "scheduledAt": "2026-09-12T07:35:44.380Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "tumblr": {
+        "id": "827536342719283200",
+        "url": "https://landinkorea.tumblr.com/post/827536342719283200"
+      }
+    },
     "createdAt": "2026-09-12T02:06:33.576Z",
     "sourceImageUrls": [
       "https://images.pexels.com/photos/19271572/pexels-photo-19271572.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -5792,7 +5802,8 @@
     ],
     "sourceVideoUrl": "https://videos.pexels.com/video-files/39474349/16813672_1080_1920_30fps.mp4",
     "blogUrl": "https://landinkorea.com/index.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
-    "topic": "Insadong traditional culture street"
+    "topic": "Insadong traditional culture street",
+    "processedAt": "2026-09-12T08:02:36.223Z"
   },
   {
     "id": "32a0feef-7bbd-4d72-8afa-fe513508e719",
