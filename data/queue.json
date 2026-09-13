@@ -6354,8 +6354,12 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-13T06:46:01.579Z",
-    "status": "claimed",
-    "results": {},
+    "status": "partial",
+    "results": {
+      "pinterest": {
+        "error": "publish failed"
+      }
+    },
     "createdAt": "2026-09-13T02:07:44.055Z",
     "sourceImageUrls": [
       "https://sfj608538-sfj608538.ktcdn.co.kr/file/sightImage/service/3749.jpg",
@@ -6366,7 +6370,8 @@
     ],
     "sourceVideoUrl": "https://videos.pexels.com/video-files/32257242/13756811_2160_3840_60fps.mp4",
     "blogUrl": "https://landinkorea.com/index.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
-    "topic": "Nami Island and Petite France day trip"
+    "topic": "Nami Island and Petite France day trip",
+    "processedAt": "2026-09-13T07:02:29.527Z"
   },
   {
     "id": "7ab39645-1b3f-4557-9443-f69dec6d94be",
@@ -6450,8 +6455,13 @@
       "tumblr"
     ],
     "scheduledAt": "2026-09-13T06:43:48.185Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "tumblr": {
+        "id": "827623162937229312",
+        "url": "https://landinkorea.tumblr.com/post/827623162937229312"
+      }
+    },
     "createdAt": "2026-09-13T02:07:44.066Z",
     "sourceImageUrls": [
       "https://sfj608538-sfj608538.ktcdn.co.kr/file/sightImage/service/3749.jpg",
@@ -6462,7 +6472,8 @@
     ],
     "sourceVideoUrl": "https://videos.pexels.com/video-files/32257242/13756811_2160_3840_60fps.mp4",
     "blogUrl": "https://landinkorea.com/index.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
-    "topic": "Nami Island and Petite France day trip"
+    "topic": "Nami Island and Petite France day trip",
+    "processedAt": "2026-09-13T07:02:34.490Z"
   },
   {
     "id": "4b194d10-a275-45d8-aed2-1fb5808dc87a",
