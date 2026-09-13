@@ -202,13 +202,14 @@ const resolveImages = async (topicName, seed, count, placeKeyword) => {
  */
 const attachTopicMusic = async (video, item, githubToken, captionText) => {
   if (!githubToken) return null;
-  // 2026-09-02 사용자가 Instagram Reels 사운드 9곡을 직접 받아와 고정 라이브러리로
-  // 등록했다("인스타에서 사용가능한 음원들 있있든 그거 사용하라니까") — 이 고정
-  // 목록이 항상 우선이고, Openverse 검색은 혹시 모를 폴백으로만 남겨둔다(고정
-  // 목록은 검색이 아니라 로컬 파일 순환이라 사실상 항상 성공하므로 폴백이 실제로
-  // 쓰일 일은 거의 없다).
-  const music = (await findInstagramSoundLibraryMusic(null, getRecentMusicUrls()))
-    || (await findMusicForTopic(findOpenverseMusic, item, getRecentMusicUrls()));
+  // 2026-09-13 사용자 지적("주제랑 안 어울림 + 같은 곡이 계속 반복됨 + 곡 자체가 별로"):
+  // 2026-09-02에 고정 9곡 라이브러리를 항상 최우선으로 둔 이후, 주제별 무드 매칭
+  // (topic_music.js)이 사실상 한 번도 안 쓰이고 있었다 — 모든 Reel이 주제와 무관하게
+  // 같은 팝/R&B 9곡만 순환된 게 근본 원인. 이제 주제 무드에 맞는 Openverse 검색을
+  // 먼저 시도하고, 그마저 실패할 때만(카탈로그에 그 무드가 하나도 없을 때) 고정
+  // 9곡으로 폴백한다 — "음악이 아예 없는 것보다 낫다"는 기존 원칙은 그대로 유지.
+  const music = (await findMusicForTopic(findOpenverseMusic, item, getRecentMusicUrls()))
+    || (await findInstagramSoundLibraryMusic(null, getRecentMusicUrls()));
   if (!music) return null;
 
   const mergedPath = await attachMusicToVideo(video, music.url, captionText);
