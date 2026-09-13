@@ -6202,8 +6202,13 @@
       "tumblr"
     ],
     "scheduledAt": "2026-09-13T04:24:08.629Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "tumblr": {
+        "id": "827615613783572480",
+        "url": "https://landinkorea.tumblr.com/post/827615613783572480"
+      }
+    },
     "createdAt": "2026-09-12T02:07:45.607Z",
     "sourceImageUrls": [
       "https://images.pexels.com/photos/31768180/pexels-photo-31768180.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -6214,7 +6219,8 @@
     ],
     "sourceVideoUrl": "https://videos.pexels.com/video-files/38522593/16360160_1080_1920_30fps.mp4",
     "blogUrl": "https://landinkorea.com/index.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
-    "topic": "Hongdae nightlife and youth culture district"
+    "topic": "Hongdae nightlife and youth culture district",
+    "processedAt": "2026-09-13T05:02:35.080Z"
   },
   {
     "id": "b3066f92-c92a-4eed-8828-6d51d1908568",
@@ -6227,8 +6233,12 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-13T04:24:56.008Z",
-    "status": "claimed",
-    "results": {},
+    "status": "partial",
+    "results": {
+      "pinterest": {
+        "error": "publish failed"
+      }
+    },
     "createdAt": "2026-09-12T02:07:45.596Z",
     "sourceImageUrls": [
       "https://images.pexels.com/photos/31768180/pexels-photo-31768180.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -6239,7 +6249,8 @@
     ],
     "sourceVideoUrl": "https://videos.pexels.com/video-files/38522593/16360160_1080_1920_30fps.mp4",
     "blogUrl": "https://landinkorea.com/index.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
-    "topic": "Hongdae nightlife and youth culture district"
+    "topic": "Hongdae nightlife and youth culture district",
+    "processedAt": "2026-09-13T05:02:35.224Z"
   },
   {
     "id": "9693c415-6c69-4a3f-887c-cbe24003e9e7",
@@ -6371,8 +6382,13 @@
       "bluesky"
     ],
     "scheduledAt": "2026-09-13T04:13:30.006Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mvesx2kqfc2f",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3mvesx2kqfc2f"
+      }
+    },
     "createdAt": "2026-09-13T02:07:44.058Z",
     "sourceImageUrls": [
       "https://sfj608538-sfj608538.ktcdn.co.kr/file/sightImage/service/3749.jpg",
@@ -6383,7 +6399,8 @@
     ],
     "sourceVideoUrl": "https://videos.pexels.com/video-files/32257242/13756811_2160_3840_60fps.mp4",
     "blogUrl": "https://landinkorea.com/index.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
-    "topic": "Nami Island and Petite France day trip"
+    "topic": "Nami Island and Petite France day trip",
+    "processedAt": "2026-09-13T05:02:40.037Z"
   },
   {
     "id": "a9f3e22c-e6b2-46e0-b36d-a02eddcb90e4",
@@ -6399,8 +6416,13 @@
       "mastodon"
     ],
     "scheduledAt": "2026-09-13T04:47:15.334Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "mastodon": {
+        "id": "117261976653104662",
+        "url": "https://mastodon.social/@landinkorea/117261976653104662"
+      }
+    },
     "createdAt": "2026-09-13T02:07:44.062Z",
     "sourceImageUrls": [
       "https://sfj608538-sfj608538.ktcdn.co.kr/file/sightImage/service/3749.jpg",
@@ -6411,7 +6433,8 @@
     ],
     "sourceVideoUrl": "https://videos.pexels.com/video-files/32257242/13756811_2160_3840_60fps.mp4",
     "blogUrl": "https://landinkorea.com/index.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
-    "topic": "Nami Island and Petite France day trip"
+    "topic": "Nami Island and Petite France day trip",
+    "processedAt": "2026-09-13T05:02:48.778Z"
   },
   {
     "id": "037856c2-f0bf-480f-9de5-04e92e451578",
