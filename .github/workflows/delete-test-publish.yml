@@ -20,5 +20,5 @@ jobs:
           FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
           IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
           IG_USER_ID: ${{ secrets.IG_USER_ID }}
-        run: node scripts/delete-test-publish.js
+        run: node scripts/delete-duplicate-video-test-0913.js
         shell: bash

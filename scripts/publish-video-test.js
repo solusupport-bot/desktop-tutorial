@@ -11,6 +11,7 @@ const { curateContent } = require('../lib/curation/curate');
 const { PLATFORMS } = require('../lib/publishing');
 const { getPermalink } = require('../lib/publishing/permalink');
 const { attachTopicMusic } = require('../lib/media/attach_topic_music');
+const { getRecentVideoUrls, recordVideoUrl } = require('../lib/scheduler/topic_rotation');
 
 const wait = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
@@ -29,11 +30,20 @@ const main = async () => {
   const rawItem = { source: item.source, author: item.author, url: item.url, content };
 
   log.section(`영상 소스 확보 (Pexels 폴백 — TourAPI 영상 연결 전)`);
-  const videoUrl = await findKoreaVideo(process.env.PEXELS_API_KEY, item.source.split('&')[0].split('(')[0].trim());
+  // 2026-09-13 실측 사고: 이 스크립트가 getRecentVideoUrls/recordVideoUrl 없이
+  // findKoreaVideo만 호출해서 dedup 이력을 완전히 무시했다 — 그 결과 이 테스트 스크립트로
+  // 검증 발행한 영상들이 daily-auto-post.js가 예전에 이미 쓴 것과 똑같아, 실제 계정에
+  // "같은 영상이 3번 이상 반복"되는 진짜 중복 게시물이 나갔다(사용자 신고로 확인).
+  // 프로덕션과 동일한 dedup 이력을 공유해야 이 테스트 스크립트가 실제 계정에 중복
+  // 영상을 다시 올리는 사고를 막을 수 있다.
+  const videoUrl = await findKoreaVideo(
+    process.env.PEXELS_API_KEY, item.source.split('&')[0].split('(')[0].trim(), getRecentVideoUrls()
+  );
   if (!videoUrl) {
     log.err('영상을 찾지 못해 테스트를 중단합니다.');
     process.exit(1);
   }
+  recordVideoUrl(videoUrl);
 
   const curated = await curateContent(rawItem, ['threads', 'facebook', 'instagram'], seed);
 
