@@ -3826,7 +3826,7 @@
       "threads"
     ],
     "scheduledAt": "2026-09-08T13:40:21.456Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-08T02:08:09.178Z"
   },
@@ -3839,7 +3839,7 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-08T13:50:29.355Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-08T02:08:09.182Z"
   },
@@ -3851,7 +3851,7 @@
       "bluesky"
     ],
     "scheduledAt": "2026-09-08T14:10:03.495Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-08T02:08:09.185Z",
     "blogUrl": "https://landinkorea.com/posts/korea-jjimjilbang-guide.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
@@ -3865,7 +3865,7 @@
       "mastodon"
     ],
     "scheduledAt": "2026-09-08T14:40:30.068Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-08T02:08:09.187Z",
     "blogUrl": "https://landinkorea.com/posts/korea-jjimjilbang-guide.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
@@ -3879,7 +3879,7 @@
       "tumblr"
     ],
     "scheduledAt": "2026-09-08T16:43:25.377Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-08T02:08:09.190Z",
     "blogUrl": "https://landinkorea.com/posts/korea-jjimjilbang-guide.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
@@ -3900,7 +3900,7 @@
       "threads"
     ],
     "scheduledAt": "2026-09-08T23:29:28.607Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-08T02:08:38.854Z"
   },
@@ -3919,7 +3919,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-08T23:29:39.272Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-08T02:08:38.857Z"
   },
@@ -3932,7 +3932,7 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-08T23:38:11.325Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-08T02:08:38.860Z"
   },
@@ -3947,7 +3947,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-09T02:28:48.063Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-08T02:08:38.862Z",
     "blogUrl": "https://landinkorea.com/posts/korea-gyeongbokgung-palace.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
@@ -3967,7 +3967,7 @@
       "bluesky"
     ],
     "scheduledAt": "2026-09-08T23:58:51.440Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-08T02:08:38.865Z",
     "blogUrl": "https://landinkorea.com/posts/korea-gyeongbokgung-palace.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
@@ -3987,7 +3987,7 @@
       "mastodon"
     ],
     "scheduledAt": "2026-09-09T00:25:45.338Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-08T02:08:38.868Z",
     "blogUrl": "https://landinkorea.com/posts/korea-gyeongbokgung-palace.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
@@ -4007,7 +4007,7 @@
       "tumblr"
     ],
     "scheduledAt": "2026-09-09T02:28:03.171Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-08T02:08:38.870Z",
     "blogUrl": "https://landinkorea.com/posts/korea-gyeongbokgung-palace.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
