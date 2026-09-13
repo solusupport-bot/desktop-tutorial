@@ -1,5 +1,5 @@
 {
-  "lastIndex": 25,
+  "lastIndex": 28,
   "history": [
     {
       "index": 7,
@@ -360,6 +360,21 @@
       "index": 25,
       "topic": "Hongdae nightlife and youth culture district",
       "at": "2026-09-12T02:07:12.910Z"
+    },
+    {
+      "index": 26,
+      "topic": "Nami Island and Petite France day trip",
+      "at": "2026-09-13T02:06:16.548Z"
+    },
+    {
+      "index": 27,
+      "topic": "Suwon Hwaseong Fortress",
+      "at": "2026-09-13T02:07:44.068Z"
+    },
+    {
+      "index": 28,
+      "topic": "Domestic flights vs. KTX for Jeju and long-distance trips",
+      "at": "2026-09-13T02:08:16.381Z"
     }
   ],
   "recentImageUrls": [
@@ -589,7 +604,22 @@
     "https://images.pexels.com/photos/5059929/pexels-photo-5059929.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://images.pexels.com/photos/8692830/pexels-photo-8692830.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://images.pexels.com/photos/8536237/pexels-photo-8536237.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://images.pexels.com/photos/18468227/pexels-photo-18468227.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "https://images.pexels.com/photos/18468227/pexels-photo-18468227.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://sfj608538-sfj608538.ktcdn.co.kr/file/sightImage/service/3749.jpg",
+    "https://images.pexels.com/photos/6399717/pexels-photo-6399717.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/33268308/pexels-photo-33268308.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/15062395/pexels-photo-15062395.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/37448894/pexels-photo-37448894.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/38581306/pexels-photo-38581306.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://sfj608538-sfj608538.ktcdn.co.kr/file/sightImage/service/2827.jpg",
+    "https://images.pexels.com/photos/10422378/pexels-photo-10422378.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/35396663/pexels-photo-35396663.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/31955748/pexels-photo-31955748.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/32278990/pexels-photo-32278990.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/39488322/pexels-photo-39488322.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/39471473/pexels-photo-39471473.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/37041175/pexels-photo-37041175.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/39488321/pexels-photo-39488321.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
   ],
   "recentVideoUrls": [
     "https://videos.pexels.com/video-files/19577787/19577787-uhd_2160_3840_30fps.mp4",
@@ -650,7 +680,10 @@
     "https://videos.pexels.com/video-files/32242949/13751125_2160_3840_60fps.mp4",
     "https://videos.pexels.com/video-files/39474349/16813672_1080_1920_30fps.mp4",
     "https://videos.pexels.com/video-files/15985937/15985937-hd_1080_1920_60fps.mp4",
-    "https://videos.pexels.com/video-files/38522593/16360160_1080_1920_30fps.mp4"
+    "https://videos.pexels.com/video-files/38522593/16360160_1080_1920_30fps.mp4",
+    "https://videos.pexels.com/video-files/32257242/13756811_2160_3840_60fps.mp4",
+    "https://videos.pexels.com/video-files/36387948/15431203_1080_1920_30fps.mp4",
+    "https://videos.pexels.com/video-files/36533873/15492414_2160_3840_30fps.mp4"
   ],
   "recentMusicUrls": [
     "https://prod-1.storage.jamendo.com/?trackid=20237&format=mp32",
@@ -664,6 +697,8 @@
     "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/main/assets/music/my-vibe.m4a",
     "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/main/assets/music/till-the-night-instrumental.m4a",
     "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/main/assets/music/slow-it-down-instrumental.m4a",
-    "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/main/assets/music/merry-and-bright-photo-dump.m4a"
+    "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/main/assets/music/merry-and-bright-photo-dump.m4a",
+    "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/main/assets/music/melt.m4a",
+    "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/main/assets/music/do-you.m4a"
   ]
 }
