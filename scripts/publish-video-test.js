@@ -10,6 +10,7 @@ const { findKoreaVideo } = require('../lib/ingestion/pexels_video');
 const { curateContent } = require('../lib/curation/curate');
 const { PLATFORMS } = require('../lib/publishing');
 const { getPermalink } = require('../lib/publishing/permalink');
+const { attachTopicMusic } = require('../lib/media/attach_topic_music');
 
 const wait = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
@@ -39,10 +40,27 @@ const main = async () => {
   const results = {};
   for (const platform of ['threads', 'facebook', 'instagram']) {
     const handler = PLATFORMS[platform];
-    const text = curated[platform];
+    let text = curated[platform];
+    let publishVideoUrl = videoUrl;
     log.section(`${platform} 영상 발행`);
+
+    // Instagram만 주제 무드에 맞는 배경음악을 합성한다(2026-09-13 음악 수정 검증용) —
+    // daily-auto-post.js와 동일한 attachTopicMusic을 그대로 재사용해 실제 운영 로직과
+    // 다른 코드 경로로 테스트하는 실수를 막는다.
+    if (platform === 'instagram') {
+      const captionText = (text || '').split('\n\n')[0] || null;
+      const musicResult = await attachTopicMusic(videoUrl, item, process.env.GITHUB_TOKEN, captionText, []);
+      if (musicResult) {
+        publishVideoUrl = musicResult.videoUrl;
+        if (musicResult.attribution) text = `${text}\n\n${musicResult.attribution}`;
+        log.ok(`배경음악 합성 완료: ${musicResult.musicUrl}`);
+      } else {
+        log.warn('배경음악 합성 실패 또는 GITHUB_TOKEN 없음 — 무음 영상 그대로 발행합니다.');
+      }
+    }
+
     log.ok(text);
-    const res = await handler.publish({ text, videoUrl });
+    const res = await handler.publish({ text, videoUrl: publishVideoUrl });
     results[platform] = res || { error: 'publish failed' };
     if (!res) { process.exitCode = 1; continue; }
 

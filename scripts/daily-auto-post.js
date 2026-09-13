@@ -17,11 +17,7 @@ const { findKoreaAttractionPhoto } = require('../lib/ingestion/tour_odii_image')
 const { TOPIC_IMAGES } = require('../lib/ingestion/topic_images');
 const { watermarkAndHostImages } = require('../lib/media/watermark_images');
 const { orderByVividness } = require('../lib/media/image_vividness');
-const { findMusic: findOpenverseMusic } = require('../lib/ingestion/openverse_music');
-const { findMusic: findInstagramSoundLibraryMusic } = require('../lib/ingestion/instagram_sound_library');
-const { attachMusicToVideo, cleanupMergedVideo } = require('../lib/media/mix_audio');
-const { findMusicForTopic } = require('../lib/media/topic_music');
-const { uploadMediaFile } = require('../lib/publishing/github_raw_host');
+const { attachTopicMusic } = require('../lib/media/attach_topic_music');
 const {
   pickNextTopic, getRecentImageUrls, recordImageUrl, getRecentVideoUrls, recordVideoUrl,
   getRecentMusicUrls, recordMusicUrl, loadState
@@ -191,47 +187,6 @@ const resolveImages = async (topicName, seed, count, placeKeyword) => {
   return [fallback];
 };
 
-/**
- * Instagram Reels(Pexels 무음 영상)에 주제에 어울리는 무드의 배경음악을 입힌다
- * (2026-08-31 사용자 요청: "인스타에 음악이 안들어가서 허전한게 느껴저 내 주제에
- * 맞는음악이 넣어줬으면"). Openverse(가입/키 불필요, 상업적 이용+변형 가능 라이선스만
- * 필터링)에서 무드에 맞는 곡을 찾아 ffmpeg로 합성한 뒤 raw.githubusercontent.com으로
- * 호스팅한다. 음원 검색/합성/호스팅 중 어느 단계든 실패하거나 GITHUB_TOKEN이 없으면
- * null을 반환해 원본 무음 영상 그대로 발행한다 — 음악 없이 올리는 게 아예 안 올리는
- * 것보다 낫다는 기존 원칙과 동일.
- */
-const attachTopicMusic = async (video, item, githubToken, captionText) => {
-  if (!githubToken) return null;
-  // 2026-09-13 사용자 지적("주제랑 안 어울림 + 같은 곡이 계속 반복됨 + 곡 자체가 별로"):
-  // 2026-09-02에 고정 9곡 라이브러리를 항상 최우선으로 둔 이후, 주제별 무드 매칭
-  // (topic_music.js)이 사실상 한 번도 안 쓰이고 있었다 — 모든 Reel이 주제와 무관하게
-  // 같은 팝/R&B 9곡만 순환된 게 근본 원인. 이제 주제 무드에 맞는 Openverse 검색을
-  // 먼저 시도하고, 그마저 실패할 때만(카탈로그에 그 무드가 하나도 없을 때) 고정
-  // 9곡으로 폴백한다 — "음악이 아예 없는 것보다 낫다"는 기존 원칙은 그대로 유지.
-  const music = (await findMusicForTopic(findOpenverseMusic, item, getRecentMusicUrls()))
-    || (await findInstagramSoundLibraryMusic(null, getRecentMusicUrls()));
-  if (!music) return null;
-
-  const mergedPath = await attachMusicToVideo(video, music.url, captionText);
-  if (!mergedPath) return null;
-
-  try {
-    const buffer = fs.readFileSync(mergedPath);
-    const hostedUrl = await uploadMediaFile(
-      'solusupport-bot/desktop-tutorial', githubToken, buffer, `videos/${Date.now()}-instagram.mp4`
-    );
-    recordMusicUrl(music.url);
-    // CC 라이선스 음원(Openverse)만 표기 의무가 있어 attribution이 채워져 온다 —
-    // 고정 Instagram 사운드 라이브러리는 attribution이 null이라 캡션에 곡명을 남기지 않는다.
-    return { videoUrl: hostedUrl, attribution: music.attribution ? `🎵 ${music.attribution}` : null };
-  } catch (err) {
-    log.err(`합성 영상 호스팅 실패, 음악 없이 발행: ${err.response?.data?.message || err.message}`);
-    return null;
-  } finally {
-    cleanupMergedVideo(mergedPath);
-  }
-};
-
 const queueOneTopic = async (topics, window) => {
   const { topic: item, seed } = pickNextTopic(topics);
   log.ok(`주제 선택: ${item.source} (구간 ${window[0]}~${window[1]}시)`);
@@ -294,10 +249,11 @@ const queueOneTopic = async (topics, window) => {
     // Reels 첫 화면에 뜨는 번인 자막은 캡션의 첫 문단(약속형 훅)만 쓴다 — 해시태그/CTA까지
     // 화면에 다 욱여넣으면 가독성이 무너진다(2026-09 리서치: 자막은 짧고 스캔 가능해야 함).
     const captionText = (curated.instagram || '').split('\n\n')[0] || null;
-    const musicResult = await attachTopicMusic(video, item, process.env.GITHUB_TOKEN, captionText);
+    const musicResult = await attachTopicMusic(video, item, process.env.GITHUB_TOKEN, captionText, getRecentMusicUrls());
     if (musicResult) {
       instagramVideo = musicResult.videoUrl;
       instagramMusicAttribution = musicResult.attribution;
+      recordMusicUrl(musicResult.musicUrl);
     }
   }
 
