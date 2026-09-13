@@ -6256,8 +6256,12 @@
       "threads"
     ],
     "scheduledAt": "2026-09-13T03:46:23.006Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18334490512261696"
+      }
+    },
     "createdAt": "2026-09-13T02:07:44.042Z",
     "sourceImageUrls": [
       "https://sfj608538-sfj608538.ktcdn.co.kr/file/sightImage/service/3749.jpg",
@@ -6266,7 +6270,8 @@
       "https://images.pexels.com/photos/15062395/pexels-photo-15062395.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "https://images.pexels.com/photos/37448894/pexels-photo-37448894.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     ],
-    "sourceVideoUrl": "https://videos.pexels.com/video-files/32257242/13756811_2160_3840_60fps.mp4"
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/32257242/13756811_2160_3840_60fps.mp4",
+    "processedAt": "2026-09-13T04:03:48.264Z"
   },
   {
     "id": "9e2d81ac-c261-445a-b797-c00656d08c54",
@@ -6283,8 +6288,13 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-13T03:47:40.807Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "1288453561012463_122112926115446391",
+        "post_supports_client_mutation_id": true
+      }
+    },
     "createdAt": "2026-09-13T02:07:44.047Z",
     "sourceImageUrls": [
       "https://sfj608538-sfj608538.ktcdn.co.kr/file/sightImage/service/3749.jpg",
@@ -6293,7 +6303,8 @@
       "https://images.pexels.com/photos/15062395/pexels-photo-15062395.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "https://images.pexels.com/photos/37448894/pexels-photo-37448894.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     ],
-    "sourceVideoUrl": "https://videos.pexels.com/video-files/32257242/13756811_2160_3840_60fps.mp4"
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/32257242/13756811_2160_3840_60fps.mp4",
+    "processedAt": "2026-09-13T04:03:58.889Z"
   },
   {
     "id": "1f3c1f66-e16e-4301-bb0d-7eada9bd37ed",
@@ -6304,8 +6315,12 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-13T03:55:17.696Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "18219097999340703"
+      }
+    },
     "createdAt": "2026-09-13T02:07:44.051Z",
     "sourceImageUrls": [
       "https://sfj608538-sfj608538.ktcdn.co.kr/file/sightImage/service/3749.jpg",
@@ -6314,7 +6329,8 @@
       "https://images.pexels.com/photos/15062395/pexels-photo-15062395.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "https://images.pexels.com/photos/37448894/pexels-photo-37448894.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     ],
-    "sourceVideoUrl": "https://videos.pexels.com/video-files/32257242/13756811_2160_3840_60fps.mp4"
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/32257242/13756811_2160_3840_60fps.mp4",
+    "processedAt": "2026-09-13T04:05:30.528Z"
   },
   {
     "id": "29350ea5-e017-48e8-a0dd-39e66a6dec38",
