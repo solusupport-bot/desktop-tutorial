@@ -6168,8 +6168,13 @@
       "mastodon"
     ],
     "scheduledAt": "2026-09-13T02:24:09.761Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "mastodon": {
+        "id": "117261503855969102",
+        "url": "https://mastodon.social/@landinkorea/117261503855969102"
+      }
+    },
     "createdAt": "2026-09-12T02:07:45.604Z",
     "sourceImageUrls": [
       "https://images.pexels.com/photos/31768180/pexels-photo-31768180.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -6180,7 +6185,8 @@
     ],
     "sourceVideoUrl": "https://videos.pexels.com/video-files/38522593/16360160_1080_1920_30fps.mp4",
     "blogUrl": "https://landinkorea.com/index.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
-    "topic": "Hongdae nightlife and youth culture district"
+    "topic": "Hongdae nightlife and youth culture district",
+    "processedAt": "2026-09-13T03:02:33.606Z"
   },
   {
     "id": "d24d3da8-562f-4a3c-b09e-e4380d8fb0d9",
