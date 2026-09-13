@@ -6576,8 +6576,12 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-13T19:37:39.220Z",
-    "status": "claimed",
-    "results": {},
+    "status": "partial",
+    "results": {
+      "pinterest": {
+        "error": "publish failed"
+      }
+    },
     "createdAt": "2026-09-13T02:08:16.365Z",
     "sourceImageUrls": [
       "https://images.pexels.com/photos/38581306/pexels-photo-38581306.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -6588,7 +6592,8 @@
     ],
     "sourceVideoUrl": "https://videos.pexels.com/video-files/36387948/15431203_1080_1920_30fps.mp4",
     "blogUrl": "https://landinkorea.com/index.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
-    "topic": "Suwon Hwaseong Fortress"
+    "topic": "Suwon Hwaseong Fortress",
+    "processedAt": "2026-09-13T19:52:36.362Z"
   },
   {
     "id": "1f314576-f645-4629-a28b-bc9c29a5d32d",
@@ -6672,8 +6677,12 @@
       "tumblr"
     ],
     "scheduledAt": "2026-09-13T19:35:39.341Z",
-    "status": "claimed",
-    "results": {},
+    "status": "partial",
+    "results": {
+      "tumblr": {
+        "error": "publish failed"
+      }
+    },
     "createdAt": "2026-09-13T02:08:16.379Z",
     "sourceImageUrls": [
       "https://images.pexels.com/photos/38581306/pexels-photo-38581306.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -6684,7 +6693,8 @@
     ],
     "sourceVideoUrl": "https://videos.pexels.com/video-files/36387948/15431203_1080_1920_30fps.mp4",
     "blogUrl": "https://landinkorea.com/index.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
-    "topic": "Suwon Hwaseong Fortress"
+    "topic": "Suwon Hwaseong Fortress",
+    "processedAt": "2026-09-13T19:52:41.285Z"
   },
   {
     "id": "0a8fe64d-00e3-4d0f-818d-9f5641c2dffc",
