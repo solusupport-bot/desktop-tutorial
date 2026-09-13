@@ -249,11 +249,18 @@ const queueOneTopic = async (topics, window) => {
   // 합성해 "그래픽 추가"라는 실질적 편집 신호를 남긴다(2026-08-29 사용자 요청).
   const watermarkedImages = await watermarkAndHostImages(images, 'solusupport-bot/desktop-tutorial', process.env.GITHUB_TOKEN);
 
-  const videoQuery = item.source.replace(/\(.*?\)/g, '').trim();
+  // 2026-09-13: 영상 검색어가 주제당 1개 고정이라 같은 주제가 재등장할 때마다 매번
+  // 똑같은 검색을 반복해 진짜 후보 풀이 금방 바닥나고(=반복 노출로 체감), 그 바닥난
+  // 상태에서 예전엔 "한국 미확인" 완화 재시도가 채워넣던 것도 방금 제거했다 — 이미지처럼
+  // TOPIC_QUERIES의 angle0/angle1을 seed로 순환시켜 검색어 자체를 다양화한다. 등록 안 된
+  // 주제(TOPIC_QUERIES에 없는 경우)만 기존처럼 주제명 그대로를 검색어로 쓴다.
+  const videoQueryVariants = TOPIC_QUERIES[item.source];
+  const videoQuery = videoQueryVariants
+    ? videoQueryVariants[seed % videoQueryVariants.length]
+    : item.source.replace(/\(.*?\)/g, '').trim();
   const recentVideos = getRecentVideoUrls();
   let video = await findKoreaVideo(process.env.PEXELS_API_KEY, videoQuery, recentVideos);
-  // Pexels 영상은 주제당 검색어가 1개뿐이라 후보 풀이 가장 얇다 — Pixabay로 보충
-  // (2026-08-29 사용자 요청, 이미지와 동일한 근거).
+  // Pexels만으론 부족할 수 있어 Pixabay로 보충 (2026-08-29 사용자 요청, 이미지와 동일한 근거).
   if (!video && process.env.PIXABAY_API_KEY) {
     video = await findKoreaVideoPixabay(process.env.PIXABAY_API_KEY, videoQuery, recentVideos);
   }
