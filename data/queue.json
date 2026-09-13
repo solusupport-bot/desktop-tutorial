@@ -6044,8 +6044,12 @@
       "threads"
     ],
     "scheduledAt": "2026-09-13T01:27:14.131Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18118225165821857"
+      }
+    },
     "createdAt": "2026-09-12T02:07:45.582Z",
     "sourceImageUrls": [
       "https://images.pexels.com/photos/31768180/pexels-photo-31768180.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -6054,7 +6058,8 @@
       "https://images.pexels.com/photos/8536237/pexels-photo-8536237.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "https://images.pexels.com/photos/18468227/pexels-photo-18468227.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     ],
-    "sourceVideoUrl": "https://videos.pexels.com/video-files/38522593/16360160_1080_1920_30fps.mp4"
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/38522593/16360160_1080_1920_30fps.mp4",
+    "processedAt": "2026-09-13T02:04:31.011Z"
   },
   {
     "id": "24545e3d-74a6-47ff-a73a-c4bd0c874fe8",
@@ -6071,8 +6076,13 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-13T01:29:48.198Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "1288453561012463_122112887229446391",
+        "post_supports_client_mutation_id": true
+      }
+    },
     "createdAt": "2026-09-12T02:07:45.588Z",
     "sourceImageUrls": [
       "https://images.pexels.com/photos/31768180/pexels-photo-31768180.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -6081,7 +6091,8 @@
       "https://images.pexels.com/photos/8536237/pexels-photo-8536237.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "https://images.pexels.com/photos/18468227/pexels-photo-18468227.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     ],
-    "sourceVideoUrl": "https://videos.pexels.com/video-files/38522593/16360160_1080_1920_30fps.mp4"
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/38522593/16360160_1080_1920_30fps.mp4",
+    "processedAt": "2026-09-13T02:04:44.673Z"
   },
   {
     "id": "9308d405-bbc4-4fb7-b7a0-59d58de5708d",
@@ -6092,8 +6103,12 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-13T01:37:15.602Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "17973648662934819"
+      }
+    },
     "createdAt": "2026-09-12T02:07:45.592Z",
     "sourceImageUrls": [
       "https://images.pexels.com/photos/31768180/pexels-photo-31768180.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -6102,7 +6117,8 @@
       "https://images.pexels.com/photos/8536237/pexels-photo-8536237.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "https://images.pexels.com/photos/18468227/pexels-photo-18468227.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     ],
-    "sourceVideoUrl": "https://videos.pexels.com/video-files/38522593/16360160_1080_1920_30fps.mp4"
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/38522593/16360160_1080_1920_30fps.mp4",
+    "processedAt": "2026-09-13T02:05:30.194Z"
   },
   {
     "id": "9990b38a-08c6-4de0-8bb7-17eccaa482b0",
@@ -6118,8 +6134,13 @@
       "bluesky"
     ],
     "scheduledAt": "2026-09-13T01:55:07.474Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mvej2f2mua2r",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3mvej2f2mua2r"
+      }
+    },
     "createdAt": "2026-09-12T02:07:45.600Z",
     "sourceImageUrls": [
       "https://images.pexels.com/photos/31768180/pexels-photo-31768180.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -6130,7 +6151,8 @@
     ],
     "sourceVideoUrl": "https://videos.pexels.com/video-files/38522593/16360160_1080_1920_30fps.mp4",
     "blogUrl": "https://landinkorea.com/index.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
-    "topic": "Hongdae nightlife and youth culture district"
+    "topic": "Hongdae nightlife and youth culture district",
+    "processedAt": "2026-09-13T02:05:34.408Z"
   },
   {
     "id": "44551161-aadb-44bc-bbd4-487e00e01f73",
