@@ -6202,7 +6202,7 @@
       "tumblr"
     ],
     "scheduledAt": "2026-09-13T04:24:08.629Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-12T02:07:45.607Z",
     "sourceImageUrls": [
@@ -6227,7 +6227,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-13T04:24:56.008Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-12T02:07:45.596Z",
     "sourceImageUrls": [
@@ -6371,7 +6371,7 @@
       "bluesky"
     ],
     "scheduledAt": "2026-09-13T04:13:30.006Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-13T02:07:44.058Z",
     "sourceImageUrls": [
@@ -6399,7 +6399,7 @@
       "mastodon"
     ],
     "scheduledAt": "2026-09-13T04:47:15.334Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-13T02:07:44.062Z",
     "sourceImageUrls": [
