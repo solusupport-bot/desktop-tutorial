@@ -2886,7 +2886,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-05T04:27:48.174Z",
-    "status": "partial",
+    "status": "claimed",
     "results": {
       "pinterest": {
         "error": "publish failed"
@@ -2896,7 +2896,7 @@
     "blogUrl": "https://landinkorea.com/posts/korea-currency-card-payment-mistake.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
     "topic": "Currency & card payments",
     "processedAt": "2026-09-14T00:04:03.353Z",
-    "retryCount": 2
+    "retryCount": 3
   },
   {
     "id": "7a9eeec6-b90e-44f1-afe2-ee1266fad608",
@@ -2959,7 +2959,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-05T13:32:24.921Z",
-    "status": "partial",
+    "status": "claimed",
     "results": {
       "pinterest": {
         "error": "publish failed"
@@ -2969,7 +2969,7 @@
     "blogUrl": "https://landinkorea.com/posts/korea-emergency-numbers-pharmacy-guide.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
     "topic": "Emergency numbers & 24hr pharmacies",
     "processedAt": "2026-09-14T00:04:03.377Z",
-    "retryCount": 2
+    "retryCount": 3
   },
   {
     "id": "84fcc337-7f59-4da6-8b1e-70685641c9af",
@@ -3073,7 +3073,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-06T00:08:27.859Z",
-    "status": "partial",
+    "status": "claimed",
     "results": {
       "pinterest": {
         "error": "publish failed"
@@ -3083,7 +3083,7 @@
     "blogUrl": "https://landinkorea.com/posts/korea-travel-apps-comparison.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
     "topic": "Useful travel apps",
     "processedAt": "2026-09-14T00:04:03.405Z",
-    "retryCount": 2
+    "retryCount": 3
   },
   {
     "id": "e9c82d39-ef1f-4730-8c15-d8753dd42834",
@@ -3181,7 +3181,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-06T03:00:10.129Z",
-    "status": "partial",
+    "status": "claimed",
     "results": {
       "pinterest": {
         "error": "publish failed"
@@ -3191,7 +3191,7 @@
     "blogUrl": "https://landinkorea.com/posts/korea-convenience-store-guide.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
     "topic": "Convenience store hacks",
     "processedAt": "2026-09-14T00:04:03.438Z",
-    "retryCount": 2
+    "retryCount": 3
   },
   {
     "id": "9ba560e3-86f1-4894-8cd0-76073ca834f7",
@@ -3246,7 +3246,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-06T14:07:02.151Z",
-    "status": "partial",
+    "status": "claimed",
     "results": {
       "pinterest": {
         "error": "publish failed"
@@ -3256,7 +3256,7 @@
     "blogUrl": "https://landinkorea.com/posts/korea-seasonal-packing-guide.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
     "topic": "Seasonal packing & weather tips",
     "processedAt": "2026-09-14T00:04:03.481Z",
-    "retryCount": 2
+    "retryCount": 3
   },
   {
     "id": "00a66fe3-379e-4b86-b60b-413433dc62d5",
@@ -3361,7 +3361,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-06T23:33:17.819Z",
-    "status": "partial",
+    "status": "claimed",
     "results": {
       "pinterest": {
         "error": "publish failed"
@@ -3371,7 +3371,7 @@
     "blogUrl": "https://landinkorea.com/posts/korea-luggage-storage-forwarding.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
     "topic": "Luggage storage & forwarding services",
     "processedAt": "2026-09-14T00:04:03.499Z",
-    "retryCount": 2
+    "retryCount": 3
   },
   {
     "id": "7e6bdab3-9ff2-4b39-b3c5-3a9711c947fb",
@@ -3503,7 +3503,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-07T03:05:14.659Z",
-    "status": "partial",
+    "status": "claimed",
     "results": {
       "pinterest": {
         "error": "publish failed"
@@ -3513,7 +3513,7 @@
     "blogUrl": "https://landinkorea.com/posts/korea-ktx-vs-srt-vs-intercity-bus-for-long-distance-travel.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
     "topic": "KTX vs. SRT vs. intercity bus for long-distance travel",
     "processedAt": "2026-09-14T00:04:03.517Z",
-    "retryCount": 2
+    "retryCount": 3
   },
   {
     "id": "c7c6505f-3979-4daf-9fa3-9764b0a78b4e",
@@ -4081,7 +4081,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-09T02:28:48.063Z",
-    "status": "partial",
+    "status": "claimed",
     "results": {
       "pinterest": {
         "error": "publish failed"
@@ -4091,7 +4091,7 @@
     "blogUrl": "https://landinkorea.com/posts/korea-gyeongbokgung-palace.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
     "topic": "Gyeongbokgung Palace",
     "processedAt": "2026-09-14T00:04:03.535Z",
-    "retryCount": 2
+    "retryCount": 3
   },
   {
     "id": "b8cd2bb6-7b8a-470f-ba50-c1d9a74917f1",
@@ -4249,7 +4249,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-09T07:26:57.465Z",
-    "status": "partial",
+    "status": "claimed",
     "results": {
       "pinterest": {
         "error": "publish failed"
@@ -4259,7 +4259,7 @@
     "blogUrl": "https://landinkorea.com/posts/korea-bukchon-hanok-village.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
     "topic": "Bukchon Hanok Village",
     "processedAt": "2026-09-14T00:04:03.559Z",
-    "retryCount": 2
+    "retryCount": 3
   },
   {
     "id": "d381f2b1-1a77-491e-b721-bc3502b52d00",
@@ -4417,7 +4417,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-09T17:13:40.821Z",
-    "status": "partial",
+    "status": "claimed",
     "results": {
       "pinterest": {
         "error": "publish failed"
@@ -4427,7 +4427,7 @@
     "blogUrl": "https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
     "topic": "N Seoul Tower (Namsan)",
     "processedAt": "2026-09-14T00:04:03.582Z",
-    "retryCount": 2
+    "retryCount": 3
   },
   {
     "id": "8e05dd72-050b-4c47-b95f-fa8bb4affbb1",
@@ -4678,7 +4678,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-10T03:55:17.513Z",
-    "status": "partial",
+    "status": "claimed",
     "results": {
       "pinterest": {
         "error": "publish failed"
@@ -4688,7 +4688,7 @@
     "blogUrl": "https://landinkorea.com/posts/korea-myeongdong-shopping-district.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
     "topic": "Myeongdong shopping district",
     "processedAt": "2026-09-14T00:04:03.597Z",
-    "retryCount": 2
+    "retryCount": 3
   },
   {
     "id": "c2ac50ac-21c6-4504-bfbc-fddd86d7031a",
@@ -4727,7 +4727,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-10T05:34:56.528Z",
-    "status": "partial",
+    "status": "claimed",
     "results": {
       "pinterest": {
         "error": "publish failed"
@@ -4737,7 +4737,7 @@
     "blogUrl": "https://landinkorea.com/posts/korea-busan-haeundae-beach-gamcheon-culture-village.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
     "topic": "Busan Haeundae Beach & Gamcheon Culture Village",
     "processedAt": "2026-09-14T00:04:03.615Z",
-    "retryCount": 2
+    "retryCount": 3
   },
   {
     "id": "316f8c9b-1c9b-4c6f-8985-a8eb1b515f38",
@@ -4921,7 +4921,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-10T18:26:29.171Z",
-    "status": "partial",
+    "status": "claimed",
     "results": {
       "pinterest": {
         "error": "publish failed"
@@ -4931,7 +4931,7 @@
     "blogUrl": "https://landinkorea.com/posts/korea-jeju-island.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
     "topic": "Jeju Island",
     "processedAt": "2026-09-14T00:04:03.631Z",
-    "retryCount": 2
+    "retryCount": 3
   },
   {
     "id": "a7cde167-1361-44e5-ae2b-4e4d04feb3f3",
@@ -5208,7 +5208,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-11T05:14:16.550Z",
-    "status": "partial",
+    "status": "claimed",
     "results": {
       "pinterest": {
         "error": "publish failed"
@@ -5218,7 +5218,7 @@
     "blogUrl": "https://landinkorea.com/posts/korea-esim-comparison.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
     "topic": "eSIM & mobile data",
     "processedAt": "2026-09-14T00:04:03.647Z",
-    "retryCount": 2
+    "retryCount": 3
   },
   {
     "id": "d10ff44b-492f-4fc9-8cb1-80c87d97dfa6",
@@ -5257,7 +5257,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-11T06:28:26.706Z",
-    "status": "partial",
+    "status": "claimed",
     "results": {
       "pinterest": {
         "error": "publish failed"
@@ -5267,7 +5267,7 @@
     "blogUrl": "https://landinkorea.com/posts/tmoney-first-timer-mistake.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
     "topic": "T-money transit card",
     "processedAt": "2026-09-14T00:04:03.664Z",
-    "retryCount": 2
+    "retryCount": 3
   },
   {
     "id": "6fe7cd73-5550-4d23-9099-aaba12788823",
@@ -5399,7 +5399,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-11T18:30:53.443Z",
-    "status": "partial",
+    "status": "claimed",
     "results": {
       "pinterest": {
         "error": "publish failed"
@@ -5409,7 +5409,7 @@
     "blogUrl": "https://landinkorea.com/posts/korea-tax-refund-mistake.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
     "topic": "Tax refund (Tax Free) shopping",
     "processedAt": "2026-09-14T00:04:03.725Z",
-    "retryCount": 2
+    "retryCount": 3
   },
   {
     "id": "649e6725-69dc-4afa-afc7-b490e11c217e",
@@ -5593,7 +5593,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-12T03:27:18.708Z",
-    "status": "partial",
+    "status": "claimed",
     "results": {
       "pinterest": {
         "error": "publish failed"
@@ -5603,7 +5603,7 @@
     "blogUrl": "https://landinkorea.com/posts/korea-travel-advisories-safety-notices.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
     "topic": "Travel advisories & safety notices",
     "processedAt": "2026-09-14T00:04:03.741Z",
-    "retryCount": 2
+    "retryCount": 3
   },
   {
     "id": "7f921f4b-0ef8-4cdc-bbb4-537e75281e97",
@@ -5809,7 +5809,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-12T07:35:52.923Z",
-    "status": "partial",
+    "status": "claimed",
     "results": {
       "pinterest": {
         "error": "publish failed"
@@ -5827,7 +5827,7 @@
     "blogUrl": "https://landinkorea.com/index.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
     "topic": "Insadong traditional culture street",
     "processedAt": "2026-09-14T00:04:03.762Z",
-    "retryCount": 2
+    "retryCount": 3
   },
   {
     "id": "32a0feef-7bbd-4d72-8afa-fe513508e719",
@@ -6000,7 +6000,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-12T16:50:22.137Z",
-    "status": "partial",
+    "status": "claimed",
     "results": {
       "pinterest": {
         "error": "publish failed"
@@ -6018,7 +6018,7 @@
     "blogUrl": "https://landinkorea.com/index.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
     "topic": "Everland vs. Lotte World theme parks",
     "processedAt": "2026-09-14T00:04:03.781Z",
-    "retryCount": 2
+    "retryCount": 3
   },
   {
     "id": "7070d5e4-ad49-46ff-a530-2e1ecbdcc3b8",
@@ -6258,7 +6258,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-13T04:24:56.008Z",
-    "status": "partial",
+    "status": "claimed",
     "results": {
       "pinterest": {
         "error": "publish failed"
@@ -6276,7 +6276,7 @@
     "blogUrl": "https://landinkorea.com/index.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
     "topic": "Hongdae nightlife and youth culture district",
     "processedAt": "2026-09-14T00:04:03.799Z",
-    "retryCount": 2
+    "retryCount": 3
   },
   {
     "id": "9693c415-6c69-4a3f-887c-cbe24003e9e7",
@@ -6380,7 +6380,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-13T06:46:01.579Z",
-    "status": "partial",
+    "status": "claimed",
     "results": {
       "pinterest": {
         "error": "publish failed"
@@ -6398,7 +6398,7 @@
     "blogUrl": "https://landinkorea.com/index.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
     "topic": "Nami Island and Petite France day trip",
     "processedAt": "2026-09-14T00:04:03.817Z",
-    "retryCount": 2
+    "retryCount": 3
   },
   {
     "id": "7ab39645-1b3f-4557-9443-f69dec6d94be",
@@ -6516,7 +6516,7 @@
       "threads"
     ],
     "scheduledAt": "2026-09-13T16:36:59.088Z",
-    "status": "partial",
+    "status": "claimed",
     "results": {
       "threads": {
         "error": "publish failed"
@@ -6532,7 +6532,7 @@
     ],
     "sourceVideoUrl": "https://videos.pexels.com/video-files/36387948/15431203_1080_1920_30fps.mp4",
     "processedAt": "2026-09-14T00:04:34.153Z",
-    "retryCount": 2
+    "retryCount": 3
   },
   {
     "id": "aefbb01a-7084-45ad-86d6-737ef9438717",
@@ -6605,7 +6605,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-13T19:37:39.220Z",
-    "status": "partial",
+    "status": "claimed",
     "results": {
       "pinterest": {
         "error": "publish failed"
@@ -6623,7 +6623,7 @@
     "blogUrl": "https://landinkorea.com/index.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
     "topic": "Suwon Hwaseong Fortress",
     "processedAt": "2026-09-14T00:04:45.066Z",
-    "retryCount": 2
+    "retryCount": 3
   },
   {
     "id": "1f314576-f645-4629-a28b-bc9c29a5d32d",
