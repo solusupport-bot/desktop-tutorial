@@ -6516,10 +6516,10 @@
       "threads"
     ],
     "scheduledAt": "2026-09-13T16:36:59.088Z",
-    "status": "claimed",
+    "status": "published",
     "results": {
       "threads": {
-        "error": "publish failed"
+        "id": "17866118643663428"
       }
     },
     "createdAt": "2026-09-13T02:08:16.348Z",
@@ -6531,7 +6531,7 @@
       "https://images.pexels.com/photos/31955748/pexels-photo-31955748.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     ],
     "sourceVideoUrl": "https://videos.pexels.com/video-files/36387948/15431203_1080_1920_30fps.mp4",
-    "processedAt": "2026-09-14T01:02:54.970Z",
+    "processedAt": "2026-09-14T02:04:47.764Z",
     "retryCount": 1
   },
   {
