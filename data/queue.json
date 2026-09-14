@@ -7069,8 +7069,13 @@
       "bluesky"
     ],
     "scheduledAt": "2026-09-14T05:06:58.658Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mvhdwaanow2v",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3mvhdwaanow2v"
+      }
+    },
     "createdAt": "2026-09-14T02:06:42.982Z",
     "sourceImageUrls": [
       "https://images.pexels.com/photos/33019230/pexels-photo-33019230.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -7081,7 +7086,8 @@
     ],
     "sourceVideoUrl": "https://videos.pexels.com/video-files/35196990/14911400_1080_1920_30fps.mp4",
     "blogUrl": "https://landinkorea.com/index.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
-    "topic": "Seoul attraction pass comparison"
+    "topic": "Seoul attraction pass comparison",
+    "processedAt": "2026-09-14T05:11:45.489Z"
   },
   {
     "id": "74e722a4-5f04-42c3-8c6e-31c633885b4f",
