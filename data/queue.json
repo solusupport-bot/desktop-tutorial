@@ -7277,8 +7277,12 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-14T19:44:57.943Z",
-    "status": "claimed",
-    "results": {},
+    "status": "partial",
+    "results": {
+      "pinterest": {
+        "error": "publish failed"
+      }
+    },
     "createdAt": "2026-09-14T02:07:21.546Z",
     "sourceImageUrls": [
       "https://images.pexels.com/photos/32148706/pexels-photo-32148706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -7289,7 +7293,8 @@
     ],
     "sourceVideoUrl": "https://cdn.pixabay.com/video/2019/02/01/21118-315137091_large.mp4",
     "blogUrl": "https://landinkorea.com/index.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
-    "topic": "Korean public holidays that disrupt travel plans"
+    "topic": "Korean public holidays that disrupt travel plans",
+    "processedAt": "2026-09-14T20:02:49.011Z"
   },
   {
     "id": "c743d5a8-c9ab-4815-ac61-ba7fcb29d58a",
@@ -7373,8 +7378,13 @@
       "tumblr"
     ],
     "scheduledAt": "2026-09-14T19:46:43.277Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "tumblr": {
+        "id": "827762853559910400",
+        "url": "https://landinkorea.tumblr.com/post/827762853559910400"
+      }
+    },
     "createdAt": "2026-09-14T02:07:21.558Z",
     "sourceImageUrls": [
       "https://images.pexels.com/photos/32148706/pexels-photo-32148706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -7385,7 +7395,8 @@
     ],
     "sourceVideoUrl": "https://cdn.pixabay.com/video/2019/02/01/21118-315137091_large.mp4",
     "blogUrl": "https://landinkorea.com/index.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
-    "topic": "Korean public holidays that disrupt travel plans"
+    "topic": "Korean public holidays that disrupt travel plans",
+    "processedAt": "2026-09-14T20:02:53.815Z"
   },
   {
     "id": "ff10406e-5f2b-4502-a8f0-c5d29789d0fa",
