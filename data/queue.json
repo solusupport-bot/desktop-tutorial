@@ -6516,7 +6516,7 @@
       "threads"
     ],
     "scheduledAt": "2026-09-13T16:36:59.088Z",
-    "status": "partial",
+    "status": "claimed",
     "results": {
       "threads": {
         "error": "publish failed"
@@ -6532,7 +6532,7 @@
     ],
     "sourceVideoUrl": "https://videos.pexels.com/video-files/36387948/15431203_1080_1920_30fps.mp4",
     "processedAt": "2026-09-14T01:02:54.970Z",
-    "retryCount": 0
+    "retryCount": 1
   },
   {
     "id": "aefbb01a-7084-45ad-86d6-737ef9438717",
