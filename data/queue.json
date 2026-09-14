@@ -7305,8 +7305,13 @@
       "bluesky"
     ],
     "scheduledAt": "2026-09-14T17:13:49.098Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mvioyc5d4e2c",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3mvioyc5d4e2c"
+      }
+    },
     "createdAt": "2026-09-14T02:07:21.550Z",
     "sourceImageUrls": [
       "https://images.pexels.com/photos/32148706/pexels-photo-32148706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -7317,7 +7322,8 @@
     ],
     "sourceVideoUrl": "https://cdn.pixabay.com/video/2019/02/01/21118-315137091_large.mp4",
     "blogUrl": "https://landinkorea.com/index.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
-    "topic": "Korean public holidays that disrupt travel plans"
+    "topic": "Korean public holidays that disrupt travel plans",
+    "processedAt": "2026-09-14T18:02:25.959Z"
   },
   {
     "id": "10236e08-294a-4ac1-a3bc-08c5c8f2d885",
@@ -7333,8 +7339,13 @@
       "mastodon"
     ],
     "scheduledAt": "2026-09-14T17:43:29.731Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "mastodon": {
+        "id": "117270705113944242",
+        "url": "https://mastodon.social/@landinkorea/117270705113944242"
+      }
+    },
     "createdAt": "2026-09-14T02:07:21.554Z",
     "sourceImageUrls": [
       "https://images.pexels.com/photos/32148706/pexels-photo-32148706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -7345,7 +7356,8 @@
     ],
     "sourceVideoUrl": "https://cdn.pixabay.com/video/2019/02/01/21118-315137091_large.mp4",
     "blogUrl": "https://landinkorea.com/index.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
-    "topic": "Korean public holidays that disrupt travel plans"
+    "topic": "Korean public holidays that disrupt travel plans",
+    "processedAt": "2026-09-14T18:02:34.018Z"
   },
   {
     "id": "8c8b7193-5acf-4e2d-8e87-5f0287bcf17d",
