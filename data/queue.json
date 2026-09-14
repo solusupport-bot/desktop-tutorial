@@ -6857,8 +6857,13 @@
       "bluesky"
     ],
     "scheduledAt": "2026-09-14T03:06:16.972Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mvha2np2wj2f",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3mvha2np2wj2f"
+      }
+    },
     "createdAt": "2026-09-13T02:09:29.072Z",
     "sourceImageUrls": [
       "https://images.pexels.com/photos/32278990/pexels-photo-32278990.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -6869,7 +6874,8 @@
     ],
     "sourceVideoUrl": "https://videos.pexels.com/video-files/36533873/15492414_2160_3840_30fps.mp4",
     "blogUrl": "https://landinkorea.com/index.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
-    "topic": "Domestic flights vs. KTX for Jeju and long-distance trips"
+    "topic": "Domestic flights vs. KTX for Jeju and long-distance trips",
+    "processedAt": "2026-09-14T04:02:38.781Z"
   },
   {
     "id": "54f90f30-dda7-4b21-b37f-2807e6fbe95e",
@@ -6885,8 +6891,13 @@
       "mastodon"
     ],
     "scheduledAt": "2026-09-14T03:39:07.102Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "mastodon": {
+        "id": "117267402829839197",
+        "url": "https://mastodon.social/@landinkorea/117267402829839197"
+      }
+    },
     "createdAt": "2026-09-13T02:09:29.076Z",
     "sourceImageUrls": [
       "https://images.pexels.com/photos/32278990/pexels-photo-32278990.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -6897,7 +6908,8 @@
     ],
     "sourceVideoUrl": "https://videos.pexels.com/video-files/36533873/15492414_2160_3840_30fps.mp4",
     "blogUrl": "https://landinkorea.com/index.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
-    "topic": "Domestic flights vs. KTX for Jeju and long-distance trips"
+    "topic": "Domestic flights vs. KTX for Jeju and long-distance trips",
+    "processedAt": "2026-09-14T04:02:44.177Z"
   },
   {
     "id": "6acf6df6-5361-4654-8508-2a789898b4db",
