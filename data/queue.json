@@ -6829,7 +6829,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-14T05:38:43.133Z",
-    "status": "partial",
+    "status": "claimed",
     "results": {
       "pinterest": {
         "error": "publish failed"
@@ -6847,7 +6847,7 @@
     "blogUrl": "https://landinkorea.com/index.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
     "topic": "Domestic flights vs. KTX for Jeju and long-distance trips",
     "processedAt": "2026-09-14T07:15:12.024Z",
-    "retryCount": 1
+    "retryCount": 2
   },
   {
     "id": "7b243376-574f-44c7-95c2-35ebd7b29c79",
@@ -7053,7 +7053,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-14T07:35:43.378Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-14T02:06:42.977Z",
     "sourceImageUrls": [
@@ -7149,7 +7149,7 @@
       "tumblr"
     ],
     "scheduledAt": "2026-09-14T07:40:15.052Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-14T02:06:42.990Z",
     "sourceImageUrls": [
