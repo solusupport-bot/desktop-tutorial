@@ -6829,7 +6829,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-14T05:38:43.133Z",
-    "status": "partial",
+    "status": "claimed",
     "results": {
       "pinterest": {
         "error": "publish failed"
@@ -6847,7 +6847,7 @@
     "blogUrl": "https://landinkorea.com/index.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
     "topic": "Domestic flights vs. KTX for Jeju and long-distance trips",
     "processedAt": "2026-09-14T08:03:15.524Z",
-    "retryCount": 2
+    "retryCount": 3
   },
   {
     "id": "7b243376-574f-44c7-95c2-35ebd7b29c79",
@@ -7053,7 +7053,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-14T07:35:43.378Z",
-    "status": "partial",
+    "status": "claimed",
     "results": {
       "pinterest": {
         "error": "publish failed"
@@ -7070,7 +7070,8 @@
     "sourceVideoUrl": "https://videos.pexels.com/video-files/35196990/14911400_1080_1920_30fps.mp4",
     "blogUrl": "https://landinkorea.com/index.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
     "topic": "Seoul attraction pass comparison",
-    "processedAt": "2026-09-14T08:03:15.573Z"
+    "processedAt": "2026-09-14T08:03:15.573Z",
+    "retryCount": 1
   },
   {
     "id": "bafc963f-c29c-45e8-ac06-f496b06e902f",
