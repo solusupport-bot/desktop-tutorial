@@ -6742,7 +6742,7 @@
       "threads"
     ],
     "scheduledAt": "2026-09-14T02:36:09.798Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-13T02:09:29.049Z",
     "sourceImageUrls": [
@@ -6769,7 +6769,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-14T02:44:26.872Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-13T02:09:29.056Z",
     "sourceImageUrls": [
@@ -6790,7 +6790,7 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-14T02:47:34.290Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-13T02:09:29.062Z",
     "sourceImageUrls": [
