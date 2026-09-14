@@ -7277,7 +7277,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-14T19:44:57.943Z",
-    "status": "partial",
+    "status": "claimed",
     "results": {
       "pinterest": {
         "error": "publish failed"
@@ -7295,7 +7295,7 @@
     "blogUrl": "https://landinkorea.com/index.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
     "topic": "Korean public holidays that disrupt travel plans",
     "processedAt": "2026-09-14T21:03:29.004Z",
-    "retryCount": 1
+    "retryCount": 2
   },
   {
     "id": "c743d5a8-c9ab-4815-ac61-ba7fcb29d58a",
