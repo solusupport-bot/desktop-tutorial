@@ -6829,7 +6829,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-14T05:38:43.133Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-13T02:09:29.067Z",
     "sourceImageUrls": [
@@ -6925,7 +6925,7 @@
       "tumblr"
     ],
     "scheduledAt": "2026-09-14T05:37:34.210Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-13T02:09:29.081Z",
     "sourceImageUrls": [
@@ -7103,7 +7103,7 @@
       "mastodon"
     ],
     "scheduledAt": "2026-09-14T05:37:20.619Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-14T02:06:42.986Z",
     "sourceImageUrls": [
