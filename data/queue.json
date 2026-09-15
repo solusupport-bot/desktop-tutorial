@@ -7894,8 +7894,13 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-15T16:03:43.402Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "1288453561012463_122113908855446391",
+        "post_supports_client_mutation_id": true
+      }
+    },
     "createdAt": "2026-09-15T02:09:12.692Z",
     "sourceImageUrls": [
       "https://pixabay.com/get/g4f66da0681a98e36b1864217db86b025137b1e7a0b5906e9f57745d13b1be11a09e59e3fb129f8a7b2b240a8128f4167326e3ea0314ad799998b15c1281f32a0_1280.jpg",
@@ -7904,7 +7909,8 @@
       "https://pixabay.com/get/gc19aa11b536728c3a11664d9b987be1c9144a0af5ee94a137053a43e0050c2747e215f3bb9cfa481604e907feb1ae502824d9155fb2b4f8ab2fc9077a1562bf0_1280.jpg",
       "https://pixabay.com/get/gecfd259761f36125c7d148651019edc03c5f7753fca7b54f4a3c3a8e6e3458e0b091677bb54eb0c217370cc2b284b49818c069be8dae295d30eff88b56ed7774_1280.jpg"
     ],
-    "sourceVideoUrl": "https://cdn.pixabay.com/video/2026/03/02/337459_large.mp4"
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2026/03/02/337459_large.mp4",
+    "processedAt": "2026-09-15T17:02:38.872Z"
   },
   {
     "id": "acfcf86a-b85f-4677-a9f6-28241f045315",
@@ -7915,8 +7921,12 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-15T16:08:48.412Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "17871001989638684"
+      }
+    },
     "createdAt": "2026-09-15T02:09:12.697Z",
     "sourceImageUrls": [
       "https://pixabay.com/get/g4f66da0681a98e36b1864217db86b025137b1e7a0b5906e9f57745d13b1be11a09e59e3fb129f8a7b2b240a8128f4167326e3ea0314ad799998b15c1281f32a0_1280.jpg",
@@ -7925,7 +7935,8 @@
       "https://pixabay.com/get/gc19aa11b536728c3a11664d9b987be1c9144a0af5ee94a137053a43e0050c2747e215f3bb9cfa481604e907feb1ae502824d9155fb2b4f8ab2fc9077a1562bf0_1280.jpg",
       "https://pixabay.com/get/gecfd259761f36125c7d148651019edc03c5f7753fca7b54f4a3c3a8e6e3458e0b091677bb54eb0c217370cc2b284b49818c069be8dae295d30eff88b56ed7774_1280.jpg"
     ],
-    "sourceVideoUrl": "https://cdn.pixabay.com/video/2026/03/02/337459_large.mp4"
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2026/03/02/337459_large.mp4",
+    "processedAt": "2026-09-15T17:04:02.370Z"
   },
   {
     "id": "0dd25f8b-829d-423c-a114-a96659af4caf",
@@ -7966,8 +7977,13 @@
       "bluesky"
     ],
     "scheduledAt": "2026-09-15T16:31:06.139Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mvl46wnhcp2x",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3mvl46wnhcp2x"
+      }
+    },
     "createdAt": "2026-09-15T02:09:12.707Z",
     "sourceImageUrls": [
       "https://pixabay.com/get/g4f66da0681a98e36b1864217db86b025137b1e7a0b5906e9f57745d13b1be11a09e59e3fb129f8a7b2b240a8128f4167326e3ea0314ad799998b15c1281f32a0_1280.jpg",
@@ -7978,7 +7994,8 @@
     ],
     "sourceVideoUrl": "https://cdn.pixabay.com/video/2026/03/02/337459_large.mp4",
     "blogUrl": "https://landinkorea.com/posts/korea-currency-card-payments.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
-    "topic": "Currency & card payments"
+    "topic": "Currency & card payments",
+    "processedAt": "2026-09-15T17:04:06.791Z"
   },
   {
     "id": "6b3f1179-1c78-4cea-98c1-d3d947f28c9a",
@@ -7994,8 +8011,13 @@
       "mastodon"
     ],
     "scheduledAt": "2026-09-15T16:56:51.242Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "mastodon": {
+        "id": "117276138118488364",
+        "url": "https://mastodon.social/@landinkorea/117276138118488364"
+      }
+    },
     "createdAt": "2026-09-15T02:09:12.711Z",
     "sourceImageUrls": [
       "https://pixabay.com/get/g4f66da0681a98e36b1864217db86b025137b1e7a0b5906e9f57745d13b1be11a09e59e3fb129f8a7b2b240a8128f4167326e3ea0314ad799998b15c1281f32a0_1280.jpg",
@@ -8006,7 +8028,8 @@
     ],
     "sourceVideoUrl": "https://cdn.pixabay.com/video/2026/03/02/337459_large.mp4",
     "blogUrl": "https://landinkorea.com/posts/korea-currency-card-payments.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
-    "topic": "Currency & card payments"
+    "topic": "Currency & card payments",
+    "processedAt": "2026-09-15T17:04:17.063Z"
   },
   {
     "id": "3ab9e9c2-53a9-4013-8e29-737e047075c5",
