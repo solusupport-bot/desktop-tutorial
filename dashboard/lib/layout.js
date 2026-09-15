@@ -9,6 +9,7 @@ const escapeHtml = (s) => String(s ?? '').replace(/[&<>"']/g, (c) => ({
 const NAV = [
   { href: '/', label: '개요' },
   { href: '/planning', label: '기획' },
+  { href: '/benchmark', label: '벤치마킹' },
   { href: '/factcheck', label: '정보확인' },
   { href: '/review', label: '검수' },
   { href: '/publish', label: '발행' },

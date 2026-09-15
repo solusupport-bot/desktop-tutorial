@@ -19,6 +19,7 @@ app.use((req, res, next) => {
 
 app.use(require('./routes/overview'));
 app.use(require('./routes/planning'));
+app.use(require('./routes/benchmark'));
 app.use(require('./routes/factcheck'));
 app.use(require('./routes/review'));
 app.use(require('./routes/publish'));

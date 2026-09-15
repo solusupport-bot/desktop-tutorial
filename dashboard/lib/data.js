@@ -34,6 +34,7 @@ const getUpcomingTopicPreview = (account, count = 5) => {
 
 const getPlatformPerformance = (account) => readJson(path.join(account.repoPath, 'data/platform_performance.json'), {});
 const getQuestionPerformance = (account) => readJson(path.join(account.repoPath, 'data/question_performance.json'), {});
+const getCollectedInsights = (account) => readJson(path.join(account.repoPath, 'data/collected_insights.json'), {});
 
 // 큐 항목을 "같은 실행에서 나온 같은 주제"로 묶는다 — verify-no-duplicate-media.js가
 // 쓰는 것과 동일한 규칙(createdAt을 초 단위까지 잘라 같은 인스턴스로 취급).
@@ -66,5 +67,5 @@ const getBlogPosts = (account) => {
 
 module.exports = {
   getQueue, getTopicBank, getTopicState, getUpcomingTopicPreview,
-  getPlatformPerformance, getQuestionPerformance, groupQueueByBatch, getBlogPosts
+  getPlatformPerformance, getQuestionPerformance, getCollectedInsights, groupQueueByBatch, getBlogPosts
 };
