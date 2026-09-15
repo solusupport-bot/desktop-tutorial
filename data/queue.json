@@ -7949,7 +7949,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-15T18:55:21.666Z",
-    "status": "claimed",
+    "status": "partial",
     "results": {
       "pinterest": {
         "error": "publish failed"
@@ -7968,7 +7968,7 @@
     "topic": "Currency & card payments",
     "verifyStatus": "passed",
     "approved": true,
-    "processedAt": "2026-09-15T19:02:30.829Z",
+    "processedAt": "2026-09-15T20:03:00.951Z",
     "retryCount": 1
   },
   {
