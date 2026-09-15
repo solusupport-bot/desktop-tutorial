@@ -7501,7 +7501,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-15T04:28:30.824Z",
-    "status": "partial",
+    "status": "claimed",
     "results": {
       "pinterest": {
         "error": "publish failed"
@@ -7519,7 +7519,7 @@
     "blogUrl": "https://landinkorea.com/posts/korea-airport-transfer-options.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
     "topic": "Airport transfer options",
     "processedAt": "2026-09-15T06:15:29.368Z",
-    "retryCount": 1
+    "retryCount": 2
   },
   {
     "id": "fff6ca53-5386-4744-b306-8ec22941ca10",
@@ -7725,7 +7725,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-15T06:41:00.488Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-15T02:08:01.086Z",
     "sourceImageUrls": [
@@ -7821,7 +7821,7 @@
       "tumblr"
     ],
     "scheduledAt": "2026-09-15T06:43:56.703Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-15T02:08:01.101Z",
     "sourceImageUrls": [
