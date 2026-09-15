@@ -7,10 +7,10 @@ const path = require('path');
 
 const lastRuns = {};
 
-const runScript = (account, key, scriptRelPath) => {
+const runScript = (account, key, scriptRelPath, args = []) => {
   const fullKey = `${account.id}:${key}`;
   try {
-    const output = execFileSync(process.execPath, [path.join(account.repoPath, scriptRelPath)], {
+    const output = execFileSync(process.execPath, [path.join(account.repoPath, scriptRelPath), ...args], {
       cwd: account.repoPath, encoding: 'utf8', stdio: ['ignore', 'pipe', 'pipe']
     });
     lastRuns[fullKey] = { ok: true, output, at: new Date().toISOString() };
