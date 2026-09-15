@@ -7725,7 +7725,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-15T06:41:00.488Z",
-    "status": "partial",
+    "status": "claimed",
     "results": {
       "pinterest": {
         "error": "publish failed"
@@ -7743,7 +7743,7 @@
     "blogUrl": "https://landinkorea.com/posts/korea-first-timer-etiquette-common-mistakes.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
     "topic": "First-timer etiquette & common mistakes",
     "processedAt": "2026-09-15T08:02:49.299Z",
-    "retryCount": 1
+    "retryCount": 2
   },
   {
     "id": "269764de-4b7d-4aa5-9af5-cdf1d99892d8",
