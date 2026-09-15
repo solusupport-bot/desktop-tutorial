@@ -7529,8 +7529,13 @@
       "bluesky"
     ],
     "scheduledAt": "2026-09-15T01:57:27.215Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mvjjtatza22v",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3mvjjtatza22v"
+      }
+    },
     "createdAt": "2026-09-14T02:08:29.291Z",
     "sourceImageUrls": [
       "https://images.pexels.com/photos/21011589/pexels-photo-21011589.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -7541,7 +7546,8 @@
     ],
     "sourceVideoUrl": "https://cdn.pixabay.com/video/2026/02/26/336755_large.mp4",
     "blogUrl": "https://landinkorea.com/posts/korea-airport-transfer-options.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
-    "topic": "Airport transfer options"
+    "topic": "Airport transfer options",
+    "processedAt": "2026-09-15T02:02:47.556Z"
   },
   {
     "id": "8816d67a-6d14-4e23-8dd4-79502dc3582d",
