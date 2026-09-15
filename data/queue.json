@@ -7862,8 +7862,12 @@
       "threads"
     ],
     "scheduledAt": "2026-09-15T16:00:20.313Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18419300452156233"
+      }
+    },
     "createdAt": "2026-09-15T02:09:12.686Z",
     "sourceImageUrls": [
       "https://pixabay.com/get/g4f66da0681a98e36b1864217db86b025137b1e7a0b5906e9f57745d13b1be11a09e59e3fb129f8a7b2b240a8128f4167326e3ea0314ad799998b15c1281f32a0_1280.jpg",
@@ -7872,7 +7876,8 @@
       "https://pixabay.com/get/gc19aa11b536728c3a11664d9b987be1c9144a0af5ee94a137053a43e0050c2747e215f3bb9cfa481604e907feb1ae502824d9155fb2b4f8ab2fc9077a1562bf0_1280.jpg",
       "https://pixabay.com/get/gecfd259761f36125c7d148651019edc03c5f7753fca7b54f4a3c3a8e6e3458e0b091677bb54eb0c217370cc2b284b49818c069be8dae295d30eff88b56ed7774_1280.jpg"
     ],
-    "sourceVideoUrl": "https://cdn.pixabay.com/video/2026/03/02/337459_large.mp4"
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2026/03/02/337459_large.mp4",
+    "processedAt": "2026-09-15T16:04:49.914Z"
   },
   {
     "id": "8038acb8-7371-4041-8c87-84023ab0f48e",
