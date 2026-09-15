@@ -7949,7 +7949,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-15T18:55:21.666Z",
-    "status": "partial",
+    "status": "claimed",
     "results": {
       "pinterest": {
         "error": "publish failed"
@@ -7969,7 +7969,7 @@
     "verifyStatus": "passed",
     "approved": true,
     "processedAt": "2026-09-15T21:02:59.943Z",
-    "retryCount": 2
+    "retryCount": 3
   },
   {
     "id": "a6a88b15-d79e-4177-8123-e44292e1a687",
