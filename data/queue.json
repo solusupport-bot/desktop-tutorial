@@ -7894,7 +7894,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-15T16:03:43.402Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-15T02:09:12.692Z",
     "sourceImageUrls": [
@@ -7915,7 +7915,7 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-15T16:08:48.412Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-15T02:09:12.697Z",
     "sourceImageUrls": [
@@ -7966,7 +7966,7 @@
       "bluesky"
     ],
     "scheduledAt": "2026-09-15T16:31:06.139Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-15T02:09:12.707Z",
     "sourceImageUrls": [
@@ -7994,7 +7994,7 @@
       "mastodon"
     ],
     "scheduledAt": "2026-09-15T16:56:51.242Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-15T02:09:12.711Z",
     "sourceImageUrls": [
