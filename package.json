@@ -30,13 +30,15 @@
     "analyze:categories": "node scripts/analyze-performance.js categories",
     "analyze:questions": "node scripts/analyze-performance.js questions",
     "analyze:trends": "node scripts/analyze-performance.js trends",
-    "analyze:health": "node scripts/analyze-performance.js health"
+    "analyze:health": "node scripts/analyze-performance.js health",
+    "dashboard": "node dashboard/server.js"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.122.0",
     "@google/generative-ai": "^0.24.1",
     "axios": "^1.13.6",
     "dotenv": "^17.3.1",
+    "express": "^4.22.3",
     "js-yaml": "^4.1.0",
     "sharp": "^0.35.4",
     "tweetsodium": "^0.0.4"

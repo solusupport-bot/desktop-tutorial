@@ -17,6 +17,7 @@
 const fs = require('fs');
 const path = require('path');
 const log = require('../lib/logger');
+const { applyVerifyStatus } = require('../lib/scheduler/verify_status');
 
 const QUEUE_PATH = path.join(__dirname, '..', 'data', 'queue.json');
 
@@ -54,6 +55,12 @@ const main = () => {
 
   const imageDups = check(imagesByInstance, '이미지');
   const videoDups = check(videosByInstance, '영상');
+
+  // 검증 하드 게이트: 중복으로 걸린 인스턴스(같은 초 단위 createdAt으로 묶인 배치)에
+  // 속한 pending 항목만 verifyStatus='failed'로 기록한다(run.js가 읽어 발행을 막는다).
+  const failedInstances = new Set();
+  [...imageDups, ...videoDups].forEach((d) => d.instances.forEach((k) => failedInstances.add(k)));
+  applyVerifyStatus((item) => failedInstances.has(instanceKey(item)));
 
   if (!imageDups.length && !videoDups.length) {
     log.ok('중복 검증 통과 — 서로 다른 발행 건 사이에 재사용된 이미지/영상 없음.');

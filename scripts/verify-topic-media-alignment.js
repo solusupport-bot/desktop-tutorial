@@ -17,9 +17,11 @@
 const log = require('../lib/logger');
 const { SOURCES } = require('../lib/ingestion/korea_travel');
 const { TOPIC_QUERIES } = require('../lib/ingestion/pexels_image');
+const { applyVerifyStatus } = require('../lib/scheduler/verify_status');
 
 const main = () => {
   const problems = [];
+  const affectedTopics = new Set();
 
   SOURCES.forEach((source) => {
     const topicName = source.topic;
@@ -28,6 +30,7 @@ const main = () => {
 
     if (!queries) {
       problems.push(`"${topicName}": TOPIC_QUERIES에 항목이 없음 — 이 주제는 이미지 없이 발행됨(관광지면 Odii 폴백만 의존).`);
+      affectedTopics.add(topicName);
       return;
     }
     if (queries.length !== contentCount) {
@@ -35,8 +38,14 @@ const main = () => {
         `"${topicName}": 콘텐츠 각도 ${contentCount}개인데 이미지 검색어는 ${queries.length}개 — `
         + `seed % ${contentCount}(본문)와 seed % ${queries.length}(이미지)가 어긋나 본문과 안 맞는 사진이 나올 수 있음.`
       );
+      affectedTopics.add(topicName);
     }
   });
+
+  // 검증 하드 게이트: 문제가 있는 주제에서 나온 pending 큐 항목만 verifyStatus='failed'로
+  // 기록한다(run.js의 claimDuePosts가 읽어 발행을 막는다) — 대시보드 /verify 화면의
+  // "지금 실행"도 이 경로를 그대로 탄다.
+  applyVerifyStatus((item) => affectedTopics.has(item.topic));
 
   if (!problems.length) {
     log.ok(`주제-이미지 정렬 검증 통과 — ${SOURCES.length}개 주제 전부 본문 각도 수와 이미지 검색어 수가 일치.`);

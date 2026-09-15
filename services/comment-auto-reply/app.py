@@ -114,6 +114,9 @@ LAST_REPLY_BY_USER = {}
 USER_COOLDOWN_SECONDS = 120  # 같은 사람이 짧은 시간 안에 여러 댓글을 달아도 과도하게 반복 응답하지 않도록
 HOURLY_COUNT = deque()
 HOURLY_LIMIT = 12  # Claude/Graph API 비용 폭주 방지용 시간당 상한
+# 대시보드(dashboard/)의 댓글 단계가 폴링할 최근 활동 로그 — HOURLY_COUNT와 같은
+# in-memory deque 패턴 재사용. Render 재시작 시 초기화되지만, "최근" 목적엔 충분하다.
+RECENT_ACTIVITY = deque(maxlen=50)
 
 
 def is_rate_limited():
@@ -257,11 +260,25 @@ def webhook():
 
             post_reply_to_meta(comment_id, reply)
 
+            RECENT_ACTIVITY.append({
+                "comment_id": comment_id,
+                "matched_topics": matched_topics,
+                "lang": lang,
+                "reply_preview": reply[:200],
+                "dry_run": not bool(ACCESS_TOKEN),
+                "at": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
+            })
+
             PROCESSED_COMMENTS.add(comment_id)
             LAST_REPLY_BY_USER[commenter_id] = time.time()
             HOURLY_COUNT.append(time.time())
 
     return jsonify({"status": "ok"}), 200
+
+
+@app.route("/recent-activity", methods=["GET"])
+def recent_activity():
+    return jsonify({"events": list(RECENT_ACTIVITY)}), 200
 
 
 if __name__ == "__main__":
