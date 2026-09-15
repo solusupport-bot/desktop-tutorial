@@ -338,24 +338,26 @@ const queueOneTopic = async (topics, window) => {
       sourceVideoUrl: video || null
     };
 
+    // 대시보드(dashboard/)의 정보확인/검수 화면이 같은 주제의 8개 플랫폼 초안을
+    // 하나의 배치로 묶어 보여주려면 모든 플랫폼에 topic이 있어야 한다 — 이전엔
+    // reddit/pinterest/bluesky/mastodon/tumblr에서만 아래 개별 분기로 설정돼
+    // threads/facebook/instagram엔 빠져 있었다.
+    postData.topic = item.source;
+
     // Reddit은 subreddit 정보를 추가
     if (platform === 'reddit') {
       postData.subreddit = getRedditSubreddit(item.source, redditConfig);
-      postData.topic = item.source;
     }
 
-    // Pinterest는 link 필드(blogUrl)와 topic을 추가 — pinterest.js가 핀의 link로 사용
+    // Pinterest는 link 필드(blogUrl)를 추가 — pinterest.js가 핀의 link로 사용
     if (platform === 'pinterest') {
       postData.blogUrl = blogUrlByPlatform('pinterest');
-      postData.topic = item.source;
     }
 
     // bluesky/mastodon은 본문에 링크를 직접 넣을 수 있어 blogUrl을 넘긴다(각 모듈이
-    // 답글 체인 마지막 조각에 붙이고, Bluesky는 facet까지 만든다). topic은 이미지
-    // 대체 텍스트(alt)에 쓰인다 — Mastodon은 alt 없는 이미지에 특히 민감하다.
+    // 답글 체인 마지막 조각에 붙이고, Bluesky는 facet까지 만든다).
     if (platform === 'bluesky' || platform === 'mastodon' || platform === 'tumblr') {
       postData.blogUrl = blogUrlByPlatform(platform);
-      postData.topic = item.source;
     }
 
     const queued = addPost(postData);
