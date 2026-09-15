@@ -7949,8 +7949,12 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-15T18:55:21.666Z",
-    "status": "claimed",
-    "results": {},
+    "status": "partial",
+    "results": {
+      "pinterest": {
+        "error": "publish failed"
+      }
+    },
     "createdAt": "2026-09-15T02:09:12.702Z",
     "sourceImageUrls": [
       "https://pixabay.com/get/g4f66da0681a98e36b1864217db86b025137b1e7a0b5906e9f57745d13b1be11a09e59e3fb129f8a7b2b240a8128f4167326e3ea0314ad799998b15c1281f32a0_1280.jpg",
@@ -7963,7 +7967,8 @@
     "blogUrl": "https://landinkorea.com/posts/korea-currency-card-payments.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
     "topic": "Currency & card payments",
     "verifyStatus": "passed",
-    "approved": true
+    "approved": true,
+    "processedAt": "2026-09-15T19:02:30.829Z"
   },
   {
     "id": "a6a88b15-d79e-4177-8123-e44292e1a687",
@@ -8047,8 +8052,13 @@
       "tumblr"
     ],
     "scheduledAt": "2026-09-15T18:56:27.257Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "tumblr": {
+        "id": "827849655655268352",
+        "url": "https://landinkorea.tumblr.com/post/827849655655268352"
+      }
+    },
     "createdAt": "2026-09-15T02:09:12.716Z",
     "sourceImageUrls": [
       "https://pixabay.com/get/g4f66da0681a98e36b1864217db86b025137b1e7a0b5906e9f57745d13b1be11a09e59e3fb129f8a7b2b240a8128f4167326e3ea0314ad799998b15c1281f32a0_1280.jpg",
@@ -8061,7 +8071,8 @@
     "blogUrl": "https://landinkorea.com/posts/korea-currency-card-payments.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
     "topic": "Currency & card payments",
     "verifyStatus": "passed",
-    "approved": true
+    "approved": true,
+    "processedAt": "2026-09-15T19:02:34.749Z"
   },
   {
     "id": "78675c4e-ef87-46ac-bdde-907493ed77b0",
