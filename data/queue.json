@@ -7563,8 +7563,13 @@
       "mastodon"
     ],
     "scheduledAt": "2026-09-15T02:32:57.060Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "mastodon": {
+        "id": "117272831760691182",
+        "url": "https://mastodon.social/@landinkorea/117272831760691182"
+      }
+    },
     "createdAt": "2026-09-14T02:08:29.295Z",
     "sourceImageUrls": [
       "https://images.pexels.com/photos/21011589/pexels-photo-21011589.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -7575,7 +7580,8 @@
     ],
     "sourceVideoUrl": "https://cdn.pixabay.com/video/2026/02/26/336755_large.mp4",
     "blogUrl": "https://landinkorea.com/posts/korea-airport-transfer-options.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
-    "topic": "Airport transfer options"
+    "topic": "Airport transfer options",
+    "processedAt": "2026-09-15T03:03:23.249Z"
   },
   {
     "id": "01ee3824-e02b-4495-b20a-7d20309779ed",
