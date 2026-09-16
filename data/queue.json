@@ -9289,8 +9289,12 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-16T20:38:30.990Z",
-    "status": "claimed",
-    "results": {},
+    "status": "partial",
+    "results": {
+      "pinterest": {
+        "error": "publish failed"
+      }
+    },
     "createdAt": "2026-09-16T17:16:57.239Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -9307,7 +9311,8 @@
       "model": "claude",
       "checkedAt": "2026-09-16T17:16:57.199Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-t-money-transit-card.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-t-money-transit-card.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-09-16T21:02:48.895Z"
   },
   {
     "id": "55739f00-2431-42a7-b1dd-7ecc005e480e",
@@ -9395,8 +9400,13 @@
       "tumblr"
     ],
     "scheduledAt": "2026-09-16T20:38:55.040Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "tumblr": {
+        "id": "827947821256802304",
+        "url": "https://landinkorea.tumblr.com/post/827947821256802304"
+      }
+    },
     "createdAt": "2026-09-16T17:16:57.268Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -9413,6 +9423,7 @@
       "model": "claude",
       "checkedAt": "2026-09-16T17:16:57.199Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-t-money-transit-card.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-t-money-transit-card.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-09-16T21:02:52.682Z"
   }
 ]
