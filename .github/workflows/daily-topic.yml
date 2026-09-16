@@ -33,25 +33,29 @@ jobs:
         run: sudo apt-get update && sudo apt-get install -y ffmpeg
 
       - name: Pick topic, fetch image, queue post
-        # ANTHROPIC_API_KEY를 의도적으로 넣지 않는다 — 캡션은 미리 써둔
-        # data/sns_content_queue.json을 쓰거나(우선), 없으면 무료 규칙 기반
-        # 템플릿으로 대체된다(2026-08-30, 자동 실행 중 유료 API 호출 금지). 같은
-        # 이유로 lib/scheduler/quality_gate.js(발행 전 자동 품질 검증, 2026-09-17)도
-        # 여기서는 조용히 스킵되고 기존처럼 사람이 /review에서 승인한다 — 로컬
-        # 대시보드에서 "새 주제 추가" 폼을 쓸 때만(이미 ANTHROPIC_API_KEY 로드)
-        # 자동 검증/승인이 실제로 동작한다.
+        # 2026-09-17까지는 ANTHROPIC_API_KEY를 의도적으로 뺐었다(자동 실행 중
+        # 유료 API 호출 금지, 캡션은 미리 써둔 data/sns_content_queue.json 우선
+        # 사용 -> 없으면 무료 템플릿). 사용자가 "무조건 자동"을 명시적으로
+        # 선택해 이제부터는 넣는다 — 이미 다른 워크플로(preview-daily-post.yml,
+        # test-curated-publish.yml)가 쓰는 같은 저장소 시크릿을 재사용하므로
+        # 새로 설정할 필요 없음. 이걸로 두 가지가 실제로 켜진다: (1) 캐시에 없는
+        # 주제는 템플릿 대신 Claude가 실시간으로 캡션을 만들고, (2) 캡션 생성 직후
+        # lib/scheduler/quality_gate.js가 발행 가능 여부를 검증해 통과하면
+        # approved:true로 등록돼 사람 검수(/review) 없이 그대로 발행된다.
         env:
           PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
           PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           TOUR_AUDIO_GUIDE_API_KEY: ${{ secrets.TOUR_AUDIO_GUIDE_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: node scripts/daily-auto-post.js
 
       - name: Write blog posts for any SNS topic that doesn't have one yet
-        # 마찬가지로 ANTHROPIC_API_KEY 없이 실행 — data/blog_content_queue.json에
-        # 미리 써둔 글이 있으면 그걸 쓰고, 없으면 템플릿으로 대체된다.
+        # 위와 같은 이유로 ANTHROPIC_API_KEY 추가(2026-09-17) — 캐시에 없는
+        # 블로그 글도 이제 템플릿 대신 Claude가 실시간으로 작성한다.
         env:
           BLOG_REPO_PAT: ${{ secrets.BLOG_REPO_PAT }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: node scripts/sync-blog-posts.js
 
       - name: Commit queued post and topic state
