@@ -9320,7 +9320,7 @@
       "bluesky"
     ],
     "scheduledAt": "2026-09-16T18:12:19.543Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-16T17:16:57.249Z",
     "approved": true,
@@ -9351,7 +9351,7 @@
       "mastodon"
     ],
     "scheduledAt": "2026-09-16T18:38:35.938Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-16T17:16:57.258Z",
     "approved": true,
