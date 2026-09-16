@@ -3,6 +3,7 @@ const path = require('path');
 const { page, escapeHtml, withAccount } = require('../lib/layout');
 const { fmtDate } = require('../lib/format');
 const { syncAndCommit } = require('../lib/git_sync');
+const { runScript } = require('../lib/runner');
 const data = require('../lib/data');
 
 const router = express.Router();
@@ -17,6 +18,12 @@ const renderReview = (req, res, flash) => {
     const ids = items.map((i) => i.id).join(',');
     const factCheck = first.factCheckStatus || 'pending';
     const warn = factCheck !== 'passed' ? `<span class="badge flagged">정보확인 미완료</span>` : '';
+    const igItem = items.find((i) => i.platforms.includes('instagram') && i.sourceVideoUrl);
+    const musicBtn = igItem ? `
+        <form class="inline" method="post" action="${withAccount('/review/reroll-music', account.id)}" style="margin-left:6px">
+          <input type="hidden" name="id" value="${escapeHtml(igItem.id)}">
+          <button type="submit">🎵 다른 음악으로</button>
+        </form>` : '';
     return `<tr>
       <td>${escapeHtml(first.topic || first.source || '(주제 없음)')} ${warn}</td>
       <td>${escapeHtml((first.text || '').slice(0, 80))}${(first.text || '').length > 80 ? '…' : ''}</td>
@@ -30,7 +37,7 @@ const renderReview = (req, res, flash) => {
         <form class="inline" method="post" action="${withAccount('/review/reject', account.id)}" style="margin-left:6px">
           <input type="hidden" name="ids" value="${escapeHtml(ids)}">
           <button class="danger" type="submit">반려</button>
-        </form>
+        </form>${musicBtn}
       </td>
     </tr>`;
   }).join('');
@@ -82,6 +89,23 @@ router.post('/review/reject', (req, res) => {
     res.redirect(withAccount('/review', account.id) + '&ok=1');
   } catch (err) {
     renderReview(req, res, { ok: false, message: err.message });
+  }
+});
+
+router.post('/review/reroll-music', (req, res) => {
+  const { account } = req;
+  const id = req.body.id;
+  try {
+    // syncAndCommit은 pull --rebase 이후에 mutate()를 실행하는 게 계약이라(작업
+    // 트리가 깨끗한 상태에서 pull이 끝난 뒤에만 파일을 고쳐야 함), 스크립트 실행
+    // 자체를 mutate() 안에 넣는다 — runScript는 execFileSync라 동기적으로 끝난다.
+    syncAndCommit(account, ['data/queue.json'], `dashboard: 음악 교체 (${id})`, () => {
+      const scriptResult = runScript(account, `reroll-music:${id}`, 'scripts/reroll-music.js', ['--id', id]);
+      if (!scriptResult.ok) throw new Error(scriptResult.output.slice(-500) || '음악 교체 스크립트 실패');
+    });
+    res.redirect(withAccount('/review', account.id) + '&ok=1');
+  } catch (err) {
+    renderReview(req, res, { ok: false, message: `음악 교체 실패 — ${err.message}` });
   }
 });
 

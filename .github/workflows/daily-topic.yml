@@ -36,11 +36,16 @@ jobs:
         # ANTHROPIC_API_KEY를 의도적으로 넣지 않는다 — 캡션은 미리 써둔
         # data/sns_content_queue.json을 쓰거나(우선), 없으면 무료 규칙 기반
         # 템플릿으로 대체된다(2026-08-30, 자동 실행 중 유료 API 호출 금지).
+        # GEMINI_API_KEY는 이미 다른 워크플로(test-video-publish.yml 등)가 쓰는
+        # 같은 저장소 시크릿을 재사용한다 — queueOneTopic이 캡션 생성과 다른 AI로
+        # 발행 전 품질 검증(lib/scheduler/quality_gate.js)을 하는 데 쓴다(2026-09-17,
+        # 사람 검수 없이 자동 승인할지 여기서 결정됨).
         env:
           PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
           PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           TOUR_AUDIO_GUIDE_API_KEY: ${{ secrets.TOUR_AUDIO_GUIDE_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: node scripts/daily-auto-post.js
 
       - name: Write blog posts for any SNS topic that doesn't have one yet

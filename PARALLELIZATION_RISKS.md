@@ -86,8 +86,8 @@ Node.js는 싱글 스레드라 **완전히 동기적인 함수는 실행 도중�
 
 ## 3. "다른 AI를 붙여도 된다"는 부분 — 지금 구조에서 어떻게 들어갈 수 있는지
 
-- 이미 `package.json`에 `@anthropic-ai/sdk`와 `@google/generative-ai`(Gemini) 둘 다 의존성으로 있다. 다만 실제로 코드에서 쓰는 건 Claude(`lib/ai/claude.js`)뿐이고 Gemini는 현재 어디서도 호출되지 않는다.
-- "역할별로 다른 AI"를 붙이려면 자연스러운 지점은 이미지 선정/영상 선정처럼 지금 규칙 기반(밝기/대비 점수 등)으로 하는 부분에 비전 모델을 추가하는 것, 또는 문구 생성에서 Claude/Gemini를 A/B로 나누는 것 정도다. 이건 순수 추가라 안전하지만, 아직 구체적으로 "어느 역할에 어느 모델"인지 정해진 게 없어 지금은 설계만 짚어두고 실제 구현은 다음 단계로 미룬다.
+- (업데이트, 2026-09-17) 이 문서가 짚어둔 확장 지점이 실제로 구현됐다: `lib/ai/gemini.js`(신규, `askGeminiForJSON`)가 `@google/generative-ai`를 처음으로 실제 호출한다. 역할은 "콘텐츠 생성 AI(Claude)와 다른 AI(Gemini)로 발행 전 품질 검증" — `lib/scheduler/quality_gate.js`가 `queueOneTopic`(`lib/scheduler/queue_topic.js`) 안에서 캡션 생성 직후 호출되고, 통과하면 그 배치가 `approved:true`로 등록돼 사람 검수(`/review`)를 건너뛴다. `GEMINI_API_KEY`가 없으면 기존처럼 항상 사람 검수로 남는다(안전한 기본값). `.github/workflows/daily-topic.yml`에도 `GEMINI_API_KEY` 시크릿을 넘기도록 추가함(다른 워크플로가 이미 쓰던 같은 저장소 시크릿 재사용).
+- 이미지 선정/영상 선정에 비전 모델을 붙이는 것은 여전히 미구현 — 다음 단계 후보로 남겨둔다.
 
 ---
 
