@@ -9183,7 +9183,7 @@
       "threads"
     ],
     "scheduledAt": "2026-09-16T17:40:22.450Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-16T17:16:57.211Z",
     "approved": true,
@@ -9213,7 +9213,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-16T17:45:07.804Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-16T17:16:57.219Z",
     "approved": true,
@@ -9243,7 +9243,7 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-16T17:49:25.078Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-16T17:16:57.230Z",
     "approved": true,
