@@ -8300,5 +8300,650 @@
     "topic": "Emergency numbers & 24hr pharmacies",
     "verifyStatus": "passed",
     "approved": true
+  },
+  {
+    "id": "a24158a3-6d1c-4324-9a5d-ab173af18c10",
+    "text": "There's one detail that trips up almost every first-timer.\n\nMost visitors spend 20 minutes at Gyeongbokgung and miss the free part worth waiting for — the royal guard-changing ceremony runs on a schedule, not continuously. Rent a hanbok nearby and entry is free too. Bukchon Hanok Village is a short walk after. Have you timed the guard ceremony right?\n\n📖 More on the blog — link in bio.",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524391430-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524391430-0.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524391430-1.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524391430-2.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524391430-3.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524391430-4.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-09-16T03:37:45.530Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-16T02:07:25.523Z",
+    "approved": false,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/32042530/pexels-photo-32042530.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31986903/pexels-photo-31986903.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31811689/pexels-photo-31811689.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32014943/pexels-photo-32014943.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31892077/pexels-photo-31892077.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2018/01/31/14037-254146876_large.mp4",
+    "topic": "Useful travel apps"
+  },
+  {
+    "id": "8cc8554a-d3da-40cc-a073-7f6bb3d92ad2",
+    "text": "There's one detail that trips up almost every first-timer. 20 minutes at Gyeongbokgung isn't enough — you'd miss the best free part. 🏯\n\n1. The royal guard-changing ceremony runs at set times in the main courtyard, not continuously — check the schedule before you go.\n2. Renting a hanbok nearby gets you free entry to the palace, and better photos than street clothes.\n3. Bukchon Hanok Village is a short walk away, so the two pair naturally into one afternoon.\n4. It's Seoul's largest palace, so budget more time than a quick photo stop.\n\nSave this before your Gyeongbokgung visit.\nHave you caught the guard-changing ceremony?\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-useful-travel-apps.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524391430-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524391430-0.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524391430-1.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524391430-2.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524391430-3.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524391430-4.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-09-16T03:42:29.826Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-16T02:07:25.527Z",
+    "approved": false,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/32042530/pexels-photo-32042530.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31986903/pexels-photo-31986903.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31811689/pexels-photo-31811689.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32014943/pexels-photo-32014943.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31892077/pexels-photo-31892077.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2018/01/31/14037-254146876_large.mp4",
+    "topic": "Useful travel apps"
+  },
+  {
+    "id": "c39833fd-2d96-4c98-b6be-40aed1815bda",
+    "text": "There's one detail that trips up almost every first-timer.\n\nMost people rush through Gyeongbokgung and miss the best free part.\n\nThe royal guard-changing ceremony runs on a schedule — check before you go. Rent a hanbok nearby for free palace entry.\n\nSave this before your Seoul trip.\n\n📖 More tips on the blog — link in bio.\n\n#KoreaTravel #SeoulTrip #Gyeongbokgung #TravelKorea #VisitSeoul\n\n🎵 \"Set Sail\" by Densle is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/.",
+    "imageUrl": null,
+    "videoUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/videos/1789524438656-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-09-16T03:49:31.558Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-16T02:07:25.533Z",
+    "approved": false,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/32042530/pexels-photo-32042530.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31986903/pexels-photo-31986903.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31811689/pexels-photo-31811689.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32014943/pexels-photo-32014943.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31892077/pexels-photo-31892077.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2018/01/31/14037-254146876_large.mp4",
+    "topic": "Useful travel apps"
+  },
+  {
+    "id": "ddcec312-b1c9-4d66-bb87-fc04b2232ac6",
+    "text": "20 minutes at Gyeongbokgung isn't enough — you'd miss the best free part. 🏯\n\n1. The royal guard-changing ceremony runs at set times in the main courtyard, not continuously — check the schedule before you go.\n2. Renting a hanbok nearby gets you free entry to the palace, and better photos than street clothes.\n3. Bukchon Hanok Village is a short walk away, so the two pair naturally into one afternoon.\n4. It's Seoul's largest palace, so budget more time than a quick photo stop.\n\nSave this before your Gyeongbokgung visit.\nHave you caught the guard-changing ceremony?",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524391430-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524391430-0.jpg"
+    ],
+    "platforms": [
+      "pinterest"
+    ],
+    "scheduledAt": "2026-09-16T06:36:56.517Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-16T02:07:25.537Z",
+    "approved": false,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/32042530/pexels-photo-32042530.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31986903/pexels-photo-31986903.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31811689/pexels-photo-31811689.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32014943/pexels-photo-32014943.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31892077/pexels-photo-31892077.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2018/01/31/14037-254146876_large.mp4",
+    "topic": "Useful travel apps",
+    "blogUrl": "https://landinkorea.com/posts/korea-useful-travel-apps.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "96c1606e-1da0-40ac-8687-75e4108314c4",
+    "text": "There's one detail that trips up almost every first-timer.\n\nMost visitors spend 20 minutes at Gyeongbokgung and miss the free part worth waiting for — the royal guard-changing ceremony runs on a schedule, not continuously. Rent a hanbok nearby and entry is free too. Bukchon Hanok Village is a short walk after. Have you timed the guard ceremony right?",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524391430-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524391430-0.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524391430-1.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524391430-2.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524391430-3.jpg"
+    ],
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-09-16T04:10:47.026Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-16T02:07:25.543Z",
+    "approved": false,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/32042530/pexels-photo-32042530.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31986903/pexels-photo-31986903.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31811689/pexels-photo-31811689.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32014943/pexels-photo-32014943.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31892077/pexels-photo-31892077.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2018/01/31/14037-254146876_large.mp4",
+    "topic": "Useful travel apps",
+    "blogUrl": "https://landinkorea.com/posts/korea-useful-travel-apps.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "b2089d1b-c4b0-47b5-92ed-0ccc0b3b6978",
+    "text": "There's one detail that trips up almost every first-timer.\n\nMost visitors spend 20 minutes at Gyeongbokgung and miss the free part worth waiting for — the royal guard-changing ceremony runs on a schedule, not continuously. Rent a hanbok nearby and entry is free too. Bukchon Hanok Village is a short walk after. Have you timed the guard ceremony right?",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524391430-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524391430-0.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524391430-1.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524391430-2.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524391430-3.jpg"
+    ],
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-09-16T04:37:22.420Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-16T02:07:25.548Z",
+    "approved": false,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/32042530/pexels-photo-32042530.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31986903/pexels-photo-31986903.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31811689/pexels-photo-31811689.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32014943/pexels-photo-32014943.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31892077/pexels-photo-31892077.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2018/01/31/14037-254146876_large.mp4",
+    "topic": "Useful travel apps",
+    "blogUrl": "https://landinkorea.com/posts/korea-useful-travel-apps.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "fbe18b81-88a3-432e-869f-e137011adad0",
+    "text": "20 minutes at Gyeongbokgung isn't enough — you'd miss the best free part. 🏯\n\n1. The royal guard-changing ceremony runs at set times in the main courtyard, not continuously — check the schedule before you go.\n2. Renting a hanbok nearby gets you free entry to the palace, and better photos than street clothes.\n3. Bukchon Hanok Village is a short walk away, so the two pair naturally into one afternoon.\n4. It's Seoul's largest palace, so budget more time than a quick photo stop.\n\nSave this before your Gyeongbokgung visit.\nHave you caught the guard-changing ceremony?",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524391430-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524391430-0.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524391430-1.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524391430-2.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524391430-3.jpg"
+    ],
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-09-16T06:38:17.640Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-16T02:07:25.552Z",
+    "approved": false,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/32042530/pexels-photo-32042530.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31986903/pexels-photo-31986903.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31811689/pexels-photo-31811689.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32014943/pexels-photo-32014943.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31892077/pexels-photo-31892077.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2018/01/31/14037-254146876_large.mp4",
+    "topic": "Useful travel apps",
+    "blogUrl": "https://landinkorea.com/posts/korea-useful-travel-apps.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "f870c5d6-0695-4088-96b1-4cdffc40873e",
+    "text": "Nobody tells you this before you land.\n\nBukchon Hanok Village is a real residential neighborhood, not a museum — people actually live in those hanok houses. Some alleys post 'quiet please' signs after hours out of respect. The best photo spot near Gahoe-dong gets crowded fast in the morning. Did you know people still lived there?\n\n📖 More on the blog — link in bio.",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524449401-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524449401-0.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524449401-1.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524449401-2.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524449401-3.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524449401-4.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-09-16T13:47:30.750Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-16T02:08:16.947Z",
+    "approved": false,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31909200/pexels-photo-31909200.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31858134/pexels-photo-31858134.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31782996/pexels-photo-31782996.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31680626/pexels-photo-31680626.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5067480/pexels-photo-5067480.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/37763965/16018183_1080_1920_60fps.mp4",
+    "topic": "Convenience store hacks"
+  },
+  {
+    "id": "553cfc32-8386-4f32-967e-98b8940a2f5c",
+    "text": "Nobody tells you this before you land. Bukchon Hanok Village isn't a museum — real families live there. 🏘️\n\n1. People still live in these traditional hanok houses, so some alleys post 'quiet please' signs after certain hours.\n2. The famous photo spot down the sloped alley near Gahoe-dong gets crowded fast in the morning.\n3. It sits between Gyeongbokgung and Changdeokgung, making it an easy add-on to either palace visit.\n4. Keep your voice down — it's someone's actual neighborhood.\n\nSave this before you visit Bukchon.\nDid you know people still lived in those hanok houses?\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-convenience-store-hacks.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524449401-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524449401-0.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524449401-1.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524449401-2.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524449401-3.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524449401-4.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-09-16T13:53:52.889Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-16T02:08:16.952Z",
+    "approved": false,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31909200/pexels-photo-31909200.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31858134/pexels-photo-31858134.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31782996/pexels-photo-31782996.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31680626/pexels-photo-31680626.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5067480/pexels-photo-5067480.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/37763965/16018183_1080_1920_60fps.mp4",
+    "topic": "Convenience store hacks"
+  },
+  {
+    "id": "2d197942-7f96-4afe-a0f5-b5ea1f771baa",
+    "text": "Nobody tells you this before you land.\n\nBukchon Hanok Village isn't a museum — it's a real neighborhood where people still live.\n\nSome alleys post quiet-hours signs out of respect. Visit early to beat the crowd at the famous Gahoe-dong photo spot.\n\nSave this before your Seoul trip.\n\n📖 More tips on the blog — link in bio.\n\n#KoreaTravel #SeoulTrip #Bukchon #TravelKorea #VisitSeoul\n\n🎵 \"Moskow, See Ya!\" by Ellis band is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/.",
+    "imageUrl": null,
+    "videoUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/videos/1789524492049-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-09-16T13:59:58.029Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-16T02:08:16.957Z",
+    "approved": false,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31909200/pexels-photo-31909200.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31858134/pexels-photo-31858134.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31782996/pexels-photo-31782996.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31680626/pexels-photo-31680626.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5067480/pexels-photo-5067480.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/37763965/16018183_1080_1920_60fps.mp4",
+    "topic": "Convenience store hacks"
+  },
+  {
+    "id": "b93b335f-c302-4c78-add3-bd4ba73ee36c",
+    "text": "Bukchon Hanok Village isn't a museum — real families live there. 🏘️\n\n1. People still live in these traditional hanok houses, so some alleys post 'quiet please' signs after certain hours.\n2. The famous photo spot down the sloped alley near Gahoe-dong gets crowded fast in the morning.\n3. It sits between Gyeongbokgung and Changdeokgung, making it an easy add-on to either palace visit.\n4. Keep your voice down — it's someone's actual neighborhood.\n\nSave this before you visit Bukchon.\nDid you know people still lived in those hanok houses?",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524449401-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524449401-0.jpg"
+    ],
+    "platforms": [
+      "pinterest"
+    ],
+    "scheduledAt": "2026-09-16T16:47:25.845Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-16T02:08:16.962Z",
+    "approved": false,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31909200/pexels-photo-31909200.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31858134/pexels-photo-31858134.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31782996/pexels-photo-31782996.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31680626/pexels-photo-31680626.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5067480/pexels-photo-5067480.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/37763965/16018183_1080_1920_60fps.mp4",
+    "topic": "Convenience store hacks",
+    "blogUrl": "https://landinkorea.com/posts/korea-convenience-store-hacks.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "cc8370ff-5d6e-48ac-8041-9a6e53be7d0a",
+    "text": "Nobody tells you this before you land.\n\nBukchon Hanok Village is a real residential neighborhood, not a museum — people actually live in those hanok houses. Some alleys post 'quiet please' signs after hours out of respect. The best photo spot near Gahoe-dong gets crowded fast in the morning. Did you know people still lived there?",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524449401-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524449401-0.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524449401-1.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524449401-2.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524449401-3.jpg"
+    ],
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-09-16T14:20:55.476Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-16T02:08:16.967Z",
+    "approved": false,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31909200/pexels-photo-31909200.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31858134/pexels-photo-31858134.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31782996/pexels-photo-31782996.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31680626/pexels-photo-31680626.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5067480/pexels-photo-5067480.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/37763965/16018183_1080_1920_60fps.mp4",
+    "topic": "Convenience store hacks",
+    "blogUrl": "https://landinkorea.com/posts/korea-convenience-store-hacks.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "fb0f8287-43c9-4486-9ca1-adf9da90e334",
+    "text": "Nobody tells you this before you land.\n\nBukchon Hanok Village is a real residential neighborhood, not a museum — people actually live in those hanok houses. Some alleys post 'quiet please' signs after hours out of respect. The best photo spot near Gahoe-dong gets crowded fast in the morning. Did you know people still lived there?",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524449401-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524449401-0.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524449401-1.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524449401-2.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524449401-3.jpg"
+    ],
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-09-16T14:51:59.280Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-16T02:08:16.972Z",
+    "approved": false,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31909200/pexels-photo-31909200.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31858134/pexels-photo-31858134.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31782996/pexels-photo-31782996.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31680626/pexels-photo-31680626.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5067480/pexels-photo-5067480.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/37763965/16018183_1080_1920_60fps.mp4",
+    "topic": "Convenience store hacks",
+    "blogUrl": "https://landinkorea.com/posts/korea-convenience-store-hacks.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "88e14bbf-82f3-4d1e-99e6-f85186b2438f",
+    "text": "Bukchon Hanok Village isn't a museum — real families live there. 🏘️\n\n1. People still live in these traditional hanok houses, so some alleys post 'quiet please' signs after certain hours.\n2. The famous photo spot down the sloped alley near Gahoe-dong gets crowded fast in the morning.\n3. It sits between Gyeongbokgung and Changdeokgung, making it an easy add-on to either palace visit.\n4. Keep your voice down — it's someone's actual neighborhood.\n\nSave this before you visit Bukchon.\nDid you know people still lived in those hanok houses?",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524449401-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524449401-0.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524449401-1.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524449401-2.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524449401-3.jpg"
+    ],
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-09-16T16:50:04.715Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-16T02:08:16.977Z",
+    "approved": false,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31909200/pexels-photo-31909200.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31858134/pexels-photo-31858134.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31782996/pexels-photo-31782996.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31680626/pexels-photo-31680626.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5067480/pexels-photo-5067480.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/37763965/16018183_1080_1920_60fps.mp4",
+    "topic": "Convenience store hacks",
+    "blogUrl": "https://landinkorea.com/posts/korea-convenience-store-hacks.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "d70e8be2-3250-42bd-b5a9-59145203f703",
+    "text": "This looks simple until it actually happens to you.\n\nMost tourists pay for the N Seoul Tower elevator without knowing the hike up Namsan is free and takes less time than you'd think. From Myeongdong, the trail is about 30-40 minutes, mostly stairs. The free plaza view already beats most of the skyline. Hike or elevator — which do you pick?\n\n📖 More on the blog — link in bio.",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524498718-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524498718-0.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524498718-1.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524498718-2.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524498718-3.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524498718-4.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-09-16T23:38:38.773Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-16T02:09:19.055Z",
+    "approved": false,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/32087666/pexels-photo-32087666.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/21011608/pexels-photo-21011608.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35811025/pexels-photo-35811025.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32196410/pexels-photo-32196410.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19271539/pexels-photo-19271539.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2019/05/03/23258-334228230_large.mp4",
+    "topic": "Seasonal packing & weather tips"
+  },
+  {
+    "id": "92c5fe8c-5f35-4d6c-bcb3-3cdcce24adf4",
+    "text": "This looks simple until it actually happens to you. You don't need to pay to get a great view from Namsan. 🗼\n\n1. A marked hiking trail from Myeongdong reaches the top in about 30-40 minutes, mostly stairs and paved path.\n2. The free plaza around N Seoul Tower already sits above most of the city skyline.\n3. The paid observation deck adds height, but it's optional, not required for a good view.\n4. Go at sunset if you don't mind the crowd, or early morning for the view without one.\n\nSave this before your Namsan visit.\nHave you done the hike, or taken the cable car?\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-seasonal-packing-weather-tips.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524498718-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524498718-0.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524498718-1.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524498718-2.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524498718-3.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524498718-4.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-09-16T23:39:32.736Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-16T02:09:19.061Z",
+    "approved": false,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/32087666/pexels-photo-32087666.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/21011608/pexels-photo-21011608.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35811025/pexels-photo-35811025.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32196410/pexels-photo-32196410.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19271539/pexels-photo-19271539.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2019/05/03/23258-334228230_large.mp4",
+    "topic": "Seasonal packing & weather tips"
+  },
+  {
+    "id": "d0e3cac4-e79a-441c-85e6-695d16c49e2a",
+    "text": "This looks simple until it actually happens to you.\n\nYou don't need to pay for the N Seoul Tower elevator to get a great view.\n\nThe hike from Myeongdong takes just 30-40 minutes, and the free plaza view already beats most of the skyline.\n\nSave this before your Seoul trip.\n\n📖 More tips on the blog — link in bio.\n\n#KoreaTravel #SeoulTrip #NSeoulTower #TravelKorea #VisitSeoul",
+    "imageUrl": null,
+    "videoUrl": "https://cdn.pixabay.com/video/2019/05/03/23258-334228230_large.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-09-16T23:50:18.519Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-16T02:09:19.066Z",
+    "approved": false,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/32087666/pexels-photo-32087666.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/21011608/pexels-photo-21011608.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35811025/pexels-photo-35811025.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32196410/pexels-photo-32196410.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19271539/pexels-photo-19271539.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2019/05/03/23258-334228230_large.mp4",
+    "topic": "Seasonal packing & weather tips"
+  },
+  {
+    "id": "a9abdca5-cd86-48eb-9bc5-363287d2f0aa",
+    "text": "You don't need to pay to get a great view from Namsan. 🗼\n\n1. A marked hiking trail from Myeongdong reaches the top in about 30-40 minutes, mostly stairs and paved path.\n2. The free plaza around N Seoul Tower already sits above most of the city skyline.\n3. The paid observation deck adds height, but it's optional, not required for a good view.\n4. Go at sunset if you don't mind the crowd, or early morning for the view without one.\n\nSave this before your Namsan visit.\nHave you done the hike, or taken the cable car?",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524498718-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524498718-0.jpg"
+    ],
+    "platforms": [
+      "pinterest"
+    ],
+    "scheduledAt": "2026-09-17T02:36:03.780Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-16T02:09:19.071Z",
+    "approved": false,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/32087666/pexels-photo-32087666.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/21011608/pexels-photo-21011608.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35811025/pexels-photo-35811025.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32196410/pexels-photo-32196410.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19271539/pexels-photo-19271539.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2019/05/03/23258-334228230_large.mp4",
+    "topic": "Seasonal packing & weather tips",
+    "blogUrl": "https://landinkorea.com/posts/korea-seasonal-packing-weather-tips.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "50f41028-472c-4fee-8f8d-43907654600b",
+    "text": "This looks simple until it actually happens to you.\n\nMost tourists pay for the N Seoul Tower elevator without knowing the hike up Namsan is free and takes less time than you'd think. From Myeongdong, the trail is about 30-40 minutes, mostly stairs. The free plaza view already beats most of the skyline. Hike or elevator — which do you pick?",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524498718-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524498718-0.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524498718-1.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524498718-2.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524498718-3.jpg"
+    ],
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-09-17T00:06:52.201Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-16T02:09:19.076Z",
+    "approved": false,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/32087666/pexels-photo-32087666.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/21011608/pexels-photo-21011608.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35811025/pexels-photo-35811025.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32196410/pexels-photo-32196410.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19271539/pexels-photo-19271539.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2019/05/03/23258-334228230_large.mp4",
+    "topic": "Seasonal packing & weather tips",
+    "blogUrl": "https://landinkorea.com/posts/korea-seasonal-packing-weather-tips.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "2fbe2c2c-6d20-4477-b7c3-a6270442a9b2",
+    "text": "This looks simple until it actually happens to you.\n\nMost tourists pay for the N Seoul Tower elevator without knowing the hike up Namsan is free and takes less time than you'd think. From Myeongdong, the trail is about 30-40 minutes, mostly stairs. The free plaza view already beats most of the skyline. Hike or elevator — which do you pick?",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524498718-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524498718-0.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524498718-1.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524498718-2.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524498718-3.jpg"
+    ],
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-09-17T00:36:58.498Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-16T02:09:19.082Z",
+    "approved": false,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/32087666/pexels-photo-32087666.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/21011608/pexels-photo-21011608.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35811025/pexels-photo-35811025.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32196410/pexels-photo-32196410.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19271539/pexels-photo-19271539.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2019/05/03/23258-334228230_large.mp4",
+    "topic": "Seasonal packing & weather tips",
+    "blogUrl": "https://landinkorea.com/posts/korea-seasonal-packing-weather-tips.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "66d97bca-bcb8-4f5f-91ca-98640d5b52b3",
+    "text": "You don't need to pay to get a great view from Namsan. 🗼\n\n1. A marked hiking trail from Myeongdong reaches the top in about 30-40 minutes, mostly stairs and paved path.\n2. The free plaza around N Seoul Tower already sits above most of the city skyline.\n3. The paid observation deck adds height, but it's optional, not required for a good view.\n4. Go at sunset if you don't mind the crowd, or early morning for the view without one.\n\nSave this before your Namsan visit.\nHave you done the hike, or taken the cable car?",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524498718-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524498718-0.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524498718-1.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524498718-2.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789524498718-3.jpg"
+    ],
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-09-17T02:38:07.074Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-16T02:09:19.086Z",
+    "approved": false,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/32087666/pexels-photo-32087666.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/21011608/pexels-photo-21011608.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35811025/pexels-photo-35811025.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32196410/pexels-photo-32196410.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19271539/pexels-photo-19271539.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2019/05/03/23258-334228230_large.mp4",
+    "topic": "Seasonal packing & weather tips",
+    "blogUrl": "https://landinkorea.com/posts/korea-seasonal-packing-weather-tips.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
   }
 ]

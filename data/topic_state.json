@@ -1,5 +1,5 @@
 {
-  "lastIndex": 13,
+  "lastIndex": 16,
   "history": [
     {
       "index": 7,
@@ -405,6 +405,21 @@
       "index": 13,
       "topic": "Emergency numbers & 24hr pharmacies",
       "at": "2026-09-15T02:09:12.718Z"
+    },
+    {
+      "index": 14,
+      "topic": "Useful travel apps",
+      "at": "2026-09-16T02:06:27.319Z"
+    },
+    {
+      "index": 15,
+      "topic": "Convenience store hacks",
+      "at": "2026-09-16T02:07:25.555Z"
+    },
+    {
+      "index": 16,
+      "topic": "Seasonal packing & weather tips",
+      "at": "2026-09-16T02:08:16.980Z"
     }
   ],
   "recentImageUrls": [
@@ -679,7 +694,22 @@
     "https://images.pexels.com/photos/20850028/pexels-photo-20850028.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://images.pexels.com/photos/17555008/pexels-photo-17555008.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://images.pexels.com/photos/13679429/pexels-photo-13679429.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://images.pexels.com/photos/32211612/pexels-photo-32211612.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "https://images.pexels.com/photos/32211612/pexels-photo-32211612.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/32042530/pexels-photo-32042530.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/31986903/pexels-photo-31986903.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/31811689/pexels-photo-31811689.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/32014943/pexels-photo-32014943.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/31892077/pexels-photo-31892077.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/31909200/pexels-photo-31909200.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/31858134/pexels-photo-31858134.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/31782996/pexels-photo-31782996.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/31680626/pexels-photo-31680626.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/5067480/pexels-photo-5067480.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/32087666/pexels-photo-32087666.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/21011608/pexels-photo-21011608.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/35811025/pexels-photo-35811025.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/32196410/pexels-photo-32196410.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/19271539/pexels-photo-19271539.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
   ],
   "recentVideoUrls": [
     "https://videos.pexels.com/video-files/19577787/19577787-uhd_2160_3840_30fps.mp4",
@@ -749,7 +779,10 @@
     "https://cdn.pixabay.com/video/2026/02/26/336755_large.mp4",
     "https://videos.pexels.com/video-files/37905785/16083284_2160_3840_30fps.mp4",
     "https://cdn.pixabay.com/video/2026/03/02/337459_large.mp4",
-    "https://videos.pexels.com/video-files/19223713/19223713-uhd_2160_3840_30fps.mp4"
+    "https://videos.pexels.com/video-files/19223713/19223713-uhd_2160_3840_30fps.mp4",
+    "https://cdn.pixabay.com/video/2018/01/31/14037-254146876_large.mp4",
+    "https://videos.pexels.com/video-files/37763965/16018183_1080_1920_60fps.mp4",
+    "https://cdn.pixabay.com/video/2019/05/03/23258-334228230_large.mp4"
   ],
   "recentMusicUrls": [
     "https://prod-1.storage.jamendo.com/?trackid=20237&format=mp32",
@@ -770,6 +803,8 @@
     "https://prod-1.storage.jamendo.com/?trackid=1740735&format=mp32",
     "https://prod-1.storage.jamendo.com/?trackid=1739522&format=mp32",
     "https://prod-1.storage.jamendo.com/?trackid=1135855&format=mp32",
-    "https://prod-1.storage.jamendo.com/?trackid=1670594&format=mp32"
+    "https://prod-1.storage.jamendo.com/?trackid=1670594&format=mp32",
+    "https://prod-1.storage.jamendo.com/?trackid=1200112&format=mp32",
+    "https://prod-1.storage.jamendo.com/?trackid=1193424&format=mp32"
   ]
 }
