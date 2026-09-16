@@ -86,7 +86,8 @@ Node.js는 싱글 스레드라 **완전히 동기적인 함수는 실행 도중�
 
 ## 3. "다른 AI를 붙여도 된다"는 부분 — 지금 구조에서 어떻게 들어갈 수 있는지
 
-- (업데이트, 2026-09-17) 이 문서가 짚어둔 확장 지점이 실제로 구현됐다: `lib/ai/gemini.js`(신규, `askGeminiForJSON`)가 `@google/generative-ai`를 처음으로 실제 호출한다. 역할은 "콘텐츠 생성 AI(Claude)와 다른 AI(Gemini)로 발행 전 품질 검증" — `lib/scheduler/quality_gate.js`가 `queueOneTopic`(`lib/scheduler/queue_topic.js`) 안에서 캡션 생성 직후 호출되고, 통과하면 그 배치가 `approved:true`로 등록돼 사람 검수(`/review`)를 건너뛴다. `GEMINI_API_KEY`가 없으면 기존처럼 항상 사람 검수로 남는다(안전한 기본값). `.github/workflows/daily-topic.yml`에도 `GEMINI_API_KEY` 시크릿을 넘기도록 추가함(다른 워크플로가 이미 쓰던 같은 저장소 시크릿 재사용).
+- (업데이트, 2026-09-17) 이 문서가 짚어둔 확장 지점 중 "발행 전 품질 검증"이 구현됐다: `lib/scheduler/quality_gate.js`가 `queueOneTopic`(`lib/scheduler/queue_topic.js`) 안에서 캡션 생성 직후 호출되고, 통과하면 그 배치가 `approved:true`로 등록돼 사람 검수(`/review`)를 건너뛴다. `ANTHROPIC_API_KEY`가 없으면 기존처럼 항상 사람 검수로 남는다(안전한 기본값).
+  - 원래 계획은 콘텐츠 생성(Claude)과 다른 AI(Gemini)로 자기검증 편향을 피하는 것이었고 `lib/ai/gemini.js`까지 작성했으나, 시험해본 Google AI Studio 프로젝트 2곳(landinkorea/threads-auto, 무료·유료 둘 다) 모두 선불 크레딧이 소진돼 있어 당장 호출이 불가능했다. 사용자가 이미 작동 확인된 `ANTHROPIC_API_KEY`로 전환하기로 해 `lib/ai/gemini.js`는 삭제했다 — Gemini 크레딧을 충전하면 `lib/ai/claude.js`와 동일한 패턴으로 다시 작성하면 된다.
 - 이미지 선정/영상 선정에 비전 모델을 붙이는 것은 여전히 미구현 — 다음 단계 후보로 남겨둔다.
 
 ---
