@@ -8183,7 +8183,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-16T04:00:34.038Z",
-    "status": "partial",
+    "status": "claimed",
     "results": {
       "pinterest": {
         "error": "publish failed"
@@ -8203,7 +8203,7 @@
     "verifyStatus": "passed",
     "approved": true,
     "processedAt": "2026-09-16T05:02:44.256Z",
-    "retryCount": 1
+    "retryCount": 2
   },
   {
     "id": "8db620a3-4a66-4e57-8f18-475d0088d016",
