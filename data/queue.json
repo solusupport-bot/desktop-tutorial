@@ -8090,7 +8090,7 @@
       "threads"
     ],
     "scheduledAt": "2026-09-16T01:01:54.735Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-15T02:10:15.382Z",
     "sourceImageUrls": [
@@ -8119,7 +8119,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-16T01:02:46.307Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-15T02:10:15.388Z",
     "sourceImageUrls": [
