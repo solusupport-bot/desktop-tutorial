@@ -9289,7 +9289,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-16T20:38:30.990Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-16T17:16:57.239Z",
     "approved": true,
@@ -9395,7 +9395,7 @@
       "tumblr"
     ],
     "scheduledAt": "2026-09-16T20:38:55.040Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-16T17:16:57.268Z",
     "approved": true,
