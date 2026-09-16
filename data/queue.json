@@ -8183,8 +8183,12 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-16T04:00:34.038Z",
-    "status": "claimed",
-    "results": {},
+    "status": "partial",
+    "results": {
+      "pinterest": {
+        "error": "publish failed"
+      }
+    },
     "createdAt": "2026-09-15T02:10:15.399Z",
     "sourceImageUrls": [
       "https://images.pexels.com/photos/35491897/pexels-photo-35491897.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -8197,7 +8201,8 @@
     "blogUrl": "https://landinkorea.com/posts/korea-emergency-numbers-24hr-pharmacies.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
     "topic": "Emergency numbers & 24hr pharmacies",
     "verifyStatus": "passed",
-    "approved": true
+    "approved": true,
+    "processedAt": "2026-09-16T04:02:52.862Z"
   },
   {
     "id": "8db620a3-4a66-4e57-8f18-475d0088d016",
@@ -8285,8 +8290,13 @@
       "tumblr"
     ],
     "scheduledAt": "2026-09-16T04:00:10.408Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "tumblr": {
+        "id": "827883653233360896",
+        "url": "https://landinkorea.tumblr.com/post/827883653233360896"
+      }
+    },
     "createdAt": "2026-09-15T02:10:15.414Z",
     "sourceImageUrls": [
       "https://images.pexels.com/photos/35491897/pexels-photo-35491897.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -8299,7 +8309,8 @@
     "blogUrl": "https://landinkorea.com/posts/korea-emergency-numbers-24hr-pharmacies.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
     "topic": "Emergency numbers & 24hr pharmacies",
     "verifyStatus": "passed",
-    "approved": true
+    "approved": true,
+    "processedAt": "2026-09-16T04:02:57.268Z"
   },
   {
     "id": "a24158a3-6d1c-4324-9a5d-ab173af18c10",
