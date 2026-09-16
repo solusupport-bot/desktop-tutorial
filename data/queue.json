@@ -9289,7 +9289,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-16T20:38:30.990Z",
-    "status": "claimed",
+    "status": "partial",
     "results": {
       "pinterest": {
         "error": "publish failed"
@@ -9312,7 +9312,7 @@
       "checkedAt": "2026-09-16T17:16:57.199Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-t-money-transit-card.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
-    "processedAt": "2026-09-16T21:02:48.895Z",
+    "processedAt": "2026-09-16T22:02:32.024Z",
     "retryCount": 1
   },
   {
