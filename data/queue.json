@@ -9320,8 +9320,13 @@
       "bluesky"
     ],
     "scheduledAt": "2026-09-16T18:12:19.543Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mvntcgme2s2s",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3mvntcgme2s2s"
+      }
+    },
     "createdAt": "2026-09-16T17:16:57.249Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -9338,7 +9343,8 @@
       "model": "claude",
       "checkedAt": "2026-09-16T17:16:57.199Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-t-money-transit-card.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-t-money-transit-card.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-09-16T19:02:59.702Z"
   },
   {
     "id": "3a521633-2281-47cf-b09b-020d59eba773",
@@ -9351,8 +9357,12 @@
       "mastodon"
     ],
     "scheduledAt": "2026-09-16T18:38:35.938Z",
-    "status": "claimed",
-    "results": {},
+    "status": "partial",
+    "results": {
+      "mastodon": {
+        "error": "publish failed"
+      }
+    },
     "createdAt": "2026-09-16T17:16:57.258Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -9369,7 +9379,8 @@
       "model": "claude",
       "checkedAt": "2026-09-16T17:16:57.199Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-t-money-transit-card.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-t-money-transit-card.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-09-16T19:03:04.796Z"
   },
   {
     "id": "ff01ae42-1d30-483a-9133-6bee6290e370",
