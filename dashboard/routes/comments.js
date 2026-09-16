@@ -25,15 +25,16 @@ router.get('/comments', async (req, res) => {
       <td>${escapeHtml(e.at)}</td>
       <td>${escapeHtml((e.matched_topics || []).join(', ') || '(미매칭)')}</td>
       <td>${escapeHtml(e.lang)}</td>
+      <td>${e.scheduled_delay_seconds != null ? `${Math.round(e.scheduled_delay_seconds / 60 * 10) / 10}분` : '-'}</td>
       <td>${e.dry_run ? '<span class="badge pending">dry-run</span>' : '<span class="badge published">전송됨</span>'}</td>
       <td>${escapeHtml(e.reply_preview || '')}</td>
     </tr>`).join('');
 
     body = `
       <h1>댓글</h1>
-      <p class="sub">최근 답글 활동 ${events.length}건 (읽기 전용, ${escapeHtml(baseUrl)})</p>
+      <p class="sub">최근 답글 활동 ${events.length}건 (읽기 전용, ${escapeHtml(baseUrl)}) — 봇처럼 보이지 않도록 1~5분 지연 후 게시됩니다.</p>
       <div class="card">
-        ${events.length ? `<table><tr><th>시각</th><th>매칭 주제</th><th>언어</th><th>상태</th><th>답글 미리보기</th></tr>${rows}</table>` : '<div class="empty">최근 활동이 없습니다.</div>'}
+        ${events.length ? `<table><tr><th>시각</th><th>매칭 주제</th><th>언어</th><th>지연</th><th>상태</th><th>답글 미리보기</th></tr>${rows}</table>` : '<div class="empty">최근 활동이 없습니다.</div>'}
       </div>
     `;
   } catch (err) {

@@ -5,6 +5,7 @@ import hmac
 import hashlib
 import random
 import logging
+import threading
 from collections import deque
 
 import requests
@@ -112,6 +113,14 @@ KNOWLEDGE_BASE = {
 PROCESSED_COMMENTS = set()
 LAST_REPLY_BY_USER = {}
 USER_COOLDOWN_SECONDS = 120  # 같은 사람이 짧은 시간 안에 여러 댓글을 달아도 과도하게 반복 응답하지 않도록
+# 2026-09-16 사용자 지적("바로 달지 말고 1~5분 사이가 좋겠다" — 즉답은 봇처럼 보임):
+# 웹훅 자체엔 빠르게 200을 돌려주고, 실제 Graph API 답글 게시는 threading.Timer로
+# 1~5분 랜덤 지연시킨다. 알려진 한계: Render 무료 플랜은 15분간 요청이 없으면
+# 슬립하는데, 이 지연은 그보다 훨씬 짧아 안전하지만, 슬립 직전에 예약된 타이머는
+# 프로세스가 내려가면 같이 유실된다(재시도 없음) — 트래픽이 늘면 지연 큐를 DB/Redis
+# 등 프로세스 밖에 영속화하는 걸 고려.
+REPLY_DELAY_MIN_SECONDS = 60
+REPLY_DELAY_MAX_SECONDS = 300
 HOURLY_COUNT = deque()
 HOURLY_LIMIT = 12  # Claude/Graph API 비용 폭주 방지용 시간당 상한
 # 대시보드(dashboard/)의 댓글 단계가 폴링할 최근 활동 로그 — HOURLY_COUNT와 같은
@@ -258,7 +267,8 @@ def webhook():
             matched_topics = find_matching_topics(text)
             reply = call_claude(text, lang, matched_topics)
 
-            post_reply_to_meta(comment_id, reply)
+            delay = random.uniform(REPLY_DELAY_MIN_SECONDS, REPLY_DELAY_MAX_SECONDS)
+            threading.Timer(delay, post_reply_to_meta, args=(comment_id, reply)).start()
 
             RECENT_ACTIVITY.append({
                 "comment_id": comment_id,
@@ -266,6 +276,7 @@ def webhook():
                 "lang": lang,
                 "reply_preview": reply[:200],
                 "dry_run": not bool(ACCESS_TOKEN),
+                "scheduled_delay_seconds": round(delay),
                 "at": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
             })
 

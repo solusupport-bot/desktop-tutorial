@@ -3,3 +3,5 @@ node_modules/
 output/
 .venv/
 __pycache__/
+ops/local-cron/trigger.log
+dashboard_log.txt
