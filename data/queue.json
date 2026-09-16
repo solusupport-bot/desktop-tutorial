@@ -9357,10 +9357,11 @@
       "mastodon"
     ],
     "scheduledAt": "2026-09-16T18:38:35.938Z",
-    "status": "claimed",
+    "status": "published",
     "results": {
       "mastodon": {
-        "error": "publish failed"
+        "id": "117282486344235901",
+        "url": "https://mastodon.social/@landinkorea/117282486344235901"
       }
     },
     "createdAt": "2026-09-16T17:16:57.258Z",
@@ -9380,7 +9381,7 @@
       "checkedAt": "2026-09-16T17:16:57.199Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-t-money-transit-card.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
-    "processedAt": "2026-09-16T19:03:04.796Z",
+    "processedAt": "2026-09-16T19:58:42.434Z",
     "retryCount": 1
   },
   {
