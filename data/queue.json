@@ -9442,8 +9442,12 @@
       "threads"
     ],
     "scheduledAt": "2026-09-17T02:24:30.314Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18105268103626138"
+      }
+    },
     "createdAt": "2026-09-17T02:09:49.569Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -9464,7 +9468,8 @@
       "model": "claude",
       "checkedAt": "2026-09-17T02:09:49.538Z"
     },
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-09-17T03:11:52.804Z"
   },
   {
     "id": "06b3c701-b7d6-4fee-9c0a-2882416b7215",
@@ -9481,8 +9486,13 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-17T02:30:28.924Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "1288453561012463_122114484699446391",
+        "post_supports_client_mutation_id": true
+      }
+    },
     "createdAt": "2026-09-17T02:09:49.582Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -9503,7 +9513,8 @@
       "model": "claude",
       "checkedAt": "2026-09-17T02:09:49.538Z"
     },
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-09-17T03:12:03.010Z"
   },
   {
     "id": "0d7a69bb-9721-4003-825d-8796979b632c",
@@ -9520,8 +9531,12 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-17T02:38:38.909Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "18368937118241800"
+      }
+    },
     "createdAt": "2026-09-17T02:09:49.594Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -9542,7 +9557,8 @@
       "model": "claude",
       "checkedAt": "2026-09-17T02:09:49.538Z"
     },
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-09-17T03:13:08.543Z"
   },
   {
     "id": "6e27cdf4-cb66-490b-87bd-8eb20ddf47bc",
@@ -9594,8 +9610,13 @@
       "bluesky"
     ],
     "scheduledAt": "2026-09-17T02:54:40.564Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mvooozxm3q2c",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3mvooozxm3q2c"
+      }
+    },
     "createdAt": "2026-09-17T02:09:49.610Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -9617,7 +9638,8 @@
       "checkedAt": "2026-09-17T02:09:49.538Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-namdaemun-market.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-09-17T03:13:14.303Z"
   },
   {
     "id": "0a3d51f3-e11c-47ab-a80d-1cf57f06ca58",
