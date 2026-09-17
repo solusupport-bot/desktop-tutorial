@@ -9900,7 +9900,8 @@
       "model": "claude",
       "checkedAt": "2026-09-17T04:12:50.583Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
   },
   {
     "id": "2ac699a6-0178-49d3-92d3-c0450f979534",
@@ -10026,7 +10027,8 @@
       "model": "claude",
       "checkedAt": "2026-09-17T04:12:50.583Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
   },
   {
     "id": "42aa3cd6-b653-45fc-9ce6-f0493744202b",
@@ -10191,7 +10193,8 @@
       "model": "claude",
       "checkedAt": "2026-09-17T04:36:26.818Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
   },
   {
     "id": "63d020ea-9bc3-4c56-9e38-766dfcd2e5c8",
@@ -10317,7 +10320,8 @@
       "model": "claude",
       "checkedAt": "2026-09-17T04:36:26.818Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
   },
   {
     "id": "e897e62a-47d5-466c-98da-5188ceca1534",
@@ -10353,7 +10357,8 @@
       "reason": "출구 번호와 환승 동선은 잘 다뤘으나 제목에 명시된 급행열차(express trains)와 막차(last train) 내용이 전혀 없어 주제 커버리지가 불완전하다.",
       "model": "claude",
       "checkedAt": "2026-09-17T04:42:04.663Z"
-    }
+    },
+    "verifyStatus": "passed"
   },
   {
     "id": "bb9059cd-1d7b-4af0-9421-a2bc60b46f18",
@@ -10389,7 +10394,8 @@
       "reason": "출구 번호와 환승 동선은 잘 다뤘으나 제목에 명시된 급행열차(express trains)와 막차(last train) 내용이 전혀 없어 주제 커버리지가 불완전하다.",
       "model": "claude",
       "checkedAt": "2026-09-17T04:42:04.663Z"
-    }
+    },
+    "verifyStatus": "passed"
   },
   {
     "id": "607af344-6f76-4f2e-9a9a-de60d20fd5b8",
@@ -10420,7 +10426,8 @@
       "reason": "출구 번호와 환승 동선은 잘 다뤘으나 제목에 명시된 급행열차(express trains)와 막차(last train) 내용이 전혀 없어 주제 커버리지가 불완전하다.",
       "model": "claude",
       "checkedAt": "2026-09-17T04:42:04.663Z"
-    }
+    },
+    "verifyStatus": "passed"
   },
   {
     "id": "6badff75-0b2e-47b2-9814-84b9a9a4e212",
@@ -10454,7 +10461,8 @@
       "model": "claude",
       "checkedAt": "2026-09-17T04:42:04.663Z"
     },
-    "blogUrl": "https://landinkorea.com/index.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
   },
   {
     "id": "d5842740-9d16-4374-99b2-a4fb80906528",
@@ -10491,7 +10499,8 @@
       "model": "claude",
       "checkedAt": "2026-09-17T04:42:04.663Z"
     },
-    "blogUrl": "https://landinkorea.com/index.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
   },
   {
     "id": "d20bbcf2-e9d7-4faf-b45e-257a1d41b67b",
@@ -10528,7 +10537,8 @@
       "model": "claude",
       "checkedAt": "2026-09-17T04:42:04.663Z"
     },
-    "blogUrl": "https://landinkorea.com/index.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
   },
   {
     "id": "0dc33ad8-642a-4eac-8d27-1f48850dfabd",
@@ -10565,6 +10575,7 @@
       "model": "claude",
       "checkedAt": "2026-09-17T04:42:04.663Z"
     },
-    "blogUrl": "https://landinkorea.com/index.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
   }
 ]

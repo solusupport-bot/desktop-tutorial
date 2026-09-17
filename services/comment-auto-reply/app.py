@@ -108,6 +108,40 @@ KNOWLEDGE_BASE = {
         "facts_en": "Subway coin lockers fill up fast on weekends and holidays. Major areas like Myeongdong and Hongdae have all-day luggage storage counters, and some hotels hold bags for free after checkout. Same-day luggage forwarding is worth it if you want your last day hands-free.",
         "blog": f"{BLOG_BASE}/index.html",
     },
+    # 2026-09-17 사용자 지적("조회수/팔로우 저조, 댓글에 더 적극 반응"): 오늘 자동생성한
+    # 새 주제 5개가 여기 없어서 관련 댓글이 전부 "모르는 질문" 폴백으로 빠지고 있었다 —
+    # topic_bank.json의 content를 재료로 채운다. generate-topics.js가 앞으로도 계속
+    # 새 주제를 추가하므로, 이 파일은 주기적으로 다시 동기화해야 한다(자동화 아님).
+    "taxi": {
+        "keywords": ["taxi", "택시", "kakao t", "카카오t", "카카오택시", "uber", "deluxe cab", "모범택시"],
+        "facts_ko": "카카오T 앱으로 부르는 택시가 가장 잡기 쉽고 목적지도 미리 입력돼서 편해요. 길거리에서 손 흔들어 잡아도 되지만 심야에는 잘 안 잡힐 수 있어요. 공항 '모범/디럭스' 택시는 일반 택시보다 비싸지만 더 넓고 확실히 잡혀요.",
+        "facts_en": "Kakao T is the easiest way to get a taxi — you enter your destination in the app beforehand. Street-hailing works too but can be hard late at night. Airport 'deluxe' taxis cost more than regular ones but are roomier and more reliable to catch.",
+        "blog": f"{BLOG_BASE}/index.html",
+    },
+    "navigation": {
+        "keywords": ["google map", "구글맵", "address", "주소", "navigation", "길찾기", "도로명"],
+        "facts_ko": "구글맵은 한국에서 길찾기가 제한적이라 네이버맵이나 카카오맵을 쓰는 게 훨씬 정확해요. 한국 주소는 도로명 방식(도로 이름 + 건물번호)이라 예전 지번 주소랑 헷갈리지 않게 확인하는 게 좋아요.",
+        "facts_en": "Google Maps has limited walking/transit data in Korea — Naver Map or KakaoMap work much better. Korean addresses use a road-name system (street name + building number), which can differ from the older lot-number addresses, so double-check which format you're looking at.",
+        "blog": f"{BLOG_BASE}/index.html",
+    },
+    "subway_details": {
+        "keywords": ["exit number", "출구", "환승", "transfer", "last train", "막차", "express train", "급행"],
+        "facts_ko": "지하철은 역 이름보다 출구 번호가 더 중요해요 — 큰 역은 출구가 10개 넘게 흩어져 있어서 잘못 나가면 한참 걸어야 해요. 네이버맵/카카오맵이 몇 번째 칸, 몇 번 출구로 나가야 하는지도 알려줘요. 막차 시간은 노선마다 다르니 꼭 미리 확인하세요.",
+        "facts_en": "The exit number matters more than the station name — big stations can have a dozen+ exits spread across several blocks. Naver Map/KakaoMap tell you which car and exit to use. Last-train times vary by line, so check ahead rather than assuming.",
+        "blog": f"{BLOG_BASE}/index.html",
+    },
+    "housing": {
+        "keywords": ["goshiwon", "고시원", "officetel", "오피스텔", "deposit", "보증금", "guesthouse", "숙소"],
+        "facts_ko": "단기 여행자는 게스트하우스/호텔이 편하고, 몇 달 머무는 경우 오피스텔(원룸형 아파트)이 흔한 선택이에요. 한국 임대는 보증금 제도가 있어서 계약 전에 보증금·월세 구조를 꼭 확인하세요.",
+        "facts_en": "Short-term visitors usually go with guesthouses/hotels; for a longer stay, an officetel (studio-style apartment) is common. Korean rentals typically involve a deposit system, so confirm the deposit/monthly rent structure before signing anything.",
+        "blog": f"{BLOG_BASE}/index.html",
+    },
+    "bank_account": {
+        "keywords": ["bank account", "은행계좌", "arc", "외국인등록증", "계좌개설", "open account"],
+        "facts_ko": "외국인이 한국 은행 계좌를 열려면 보통 외국인등록증(ARC)이 먼저 있어야 하고, 본인 명의 한국 휴대폰 번호도 필요해요. 여권만으로 제한적인 계좌를 열어주는 은행도 있지만 송금 한도 등이 걸릴 수 있어요.",
+        "facts_en": "Opening a Korean bank account as a foreigner usually requires an Alien Registration Card (ARC) first, plus a Korean phone number in your name. Some banks offer a limited passport-only account, but transfers and features may be capped until you have an ARC.",
+        "blog": f"{BLOG_BASE}/index.html",
+    },
 }
 
 PROCESSED_COMMENTS = set()
