@@ -9571,8 +9571,12 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-17T05:28:42.084Z",
-    "status": "claimed",
-    "results": {},
+    "status": "partial",
+    "results": {
+      "pinterest": {
+        "error": "publish failed"
+      }
+    },
     "createdAt": "2026-09-17T02:09:49.602Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -9594,7 +9598,8 @@
       "checkedAt": "2026-09-17T02:09:49.538Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-namdaemun-market.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-09-17T05:35:43.414Z"
   },
   {
     "id": "44252162-1031-44be-b21d-7c4c9d476f30",
@@ -9700,8 +9705,13 @@
       "tumblr"
     ],
     "scheduledAt": "2026-09-17T05:26:13.019Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "tumblr": {
+        "id": "827980090194493441",
+        "url": "https://landinkorea.tumblr.com/post/827980090194493441"
+      }
+    },
     "createdAt": "2026-09-17T02:09:49.627Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -9723,7 +9733,8 @@
       "checkedAt": "2026-09-17T02:09:49.538Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-namdaemun-market.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-09-17T05:35:46.772Z"
   },
   {
     "id": "99f16a26-0870-41b3-bcb9-19330e240415",
@@ -9904,8 +9915,13 @@
       "bluesky"
     ],
     "scheduledAt": "2026-09-17T05:07:57.569Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mvowo2vdio23",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3mvowo2vdio23"
+      }
+    },
     "createdAt": "2026-09-17T04:12:50.734Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -9926,7 +9942,8 @@
       "model": "claude",
       "checkedAt": "2026-09-17T04:12:50.583Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-09-17T05:35:51.137Z"
   },
   {
     "id": "638adacb-cd44-4b76-beb6-a01745216ba8",
@@ -10183,8 +10200,13 @@
       "bluesky"
     ],
     "scheduledAt": "2026-09-17T05:15:39.782Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mvowo7hhh32l",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3mvowo7hhh32l"
+      }
+    },
     "createdAt": "2026-09-17T04:36:26.923Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -10205,7 +10227,8 @@
       "model": "claude",
       "checkedAt": "2026-09-17T04:36:26.818Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-09-17T05:35:55.980Z"
   },
   {
     "id": "15b51da9-c11a-4bde-a5d9-385624e3a313",
