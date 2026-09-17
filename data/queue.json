@@ -9571,7 +9571,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-17T05:28:42.084Z",
-    "status": "claimed",
+    "status": "partial",
     "results": {
       "pinterest": {
         "error": "publish failed"
@@ -9599,7 +9599,7 @@
     },
     "blogUrl": "https://landinkorea.com/posts/korea-namdaemun-market.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
     "verifyStatus": "passed",
-    "processedAt": "2026-09-17T07:02:58.700Z",
+    "processedAt": "2026-09-17T08:03:12.250Z",
     "retryCount": 3
   },
   {
@@ -9878,8 +9878,12 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-17T07:38:33.227Z",
-    "status": "claimed",
-    "results": {},
+    "status": "partial",
+    "results": {
+      "pinterest": {
+        "error": "publish failed"
+      }
+    },
     "createdAt": "2026-09-17T04:12:50.719Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -9901,7 +9905,8 @@
       "checkedAt": "2026-09-17T04:12:50.583Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-09-17T08:03:12.285Z"
   },
   {
     "id": "2ac699a6-0178-49d3-92d3-c0450f979534",
@@ -10005,8 +10010,13 @@
       "tumblr"
     ],
     "scheduledAt": "2026-09-17T07:37:47.348Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "tumblr": {
+        "id": "827989369896976384",
+        "url": "https://landinkorea.tumblr.com/post/827989369896976384"
+      }
+    },
     "createdAt": "2026-09-17T04:12:50.766Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -10028,7 +10038,8 @@
       "checkedAt": "2026-09-17T04:12:50.583Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-09-17T08:03:16.625Z"
   },
   {
     "id": "42aa3cd6-b653-45fc-9ce6-f0493744202b",
@@ -10171,8 +10182,12 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-17T07:41:02.938Z",
-    "status": "claimed",
-    "results": {},
+    "status": "partial",
+    "results": {
+      "pinterest": {
+        "error": "publish failed"
+      }
+    },
     "createdAt": "2026-09-17T04:36:26.905Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -10194,7 +10209,8 @@
       "checkedAt": "2026-09-17T04:36:26.818Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-09-17T08:03:16.636Z"
   },
   {
     "id": "63d020ea-9bc3-4c56-9e38-766dfcd2e5c8",
@@ -10298,8 +10314,13 @@
       "tumblr"
     ],
     "scheduledAt": "2026-09-17T07:44:40.734Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "tumblr": {
+        "id": "827989374062985216",
+        "url": "https://landinkorea.tumblr.com/post/827989374062985216"
+      }
+    },
     "createdAt": "2026-09-17T04:36:26.956Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -10321,7 +10342,8 @@
       "checkedAt": "2026-09-17T04:36:26.818Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-09-17T08:03:21.071Z"
   },
   {
     "id": "e897e62a-47d5-466c-98da-5188ceca1534",
@@ -10337,8 +10359,12 @@
       "threads"
     ],
     "scheduledAt": "2026-09-17T04:46:40.073Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18161938990489643"
+      }
+    },
     "createdAt": "2026-09-17T04:42:46.512Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -10358,7 +10384,8 @@
       "model": "claude",
       "checkedAt": "2026-09-17T04:42:04.663Z"
     },
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-09-17T08:07:43.653Z"
   },
   {
     "id": "bb9059cd-1d7b-4af0-9421-a2bc60b46f18",
@@ -10374,8 +10401,13 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-17T04:47:57.063Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "1288453561012463_122114544045446391",
+        "post_supports_client_mutation_id": true
+      }
+    },
     "createdAt": "2026-09-17T04:42:46.526Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -10395,7 +10427,8 @@
       "model": "claude",
       "checkedAt": "2026-09-17T04:42:04.663Z"
     },
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-09-17T08:07:59.480Z"
   },
   {
     "id": "607af344-6f76-4f2e-9a9a-de60d20fd5b8",
@@ -10406,8 +10439,12 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-17T04:58:31.582Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "18026996411886890"
+      }
+    },
     "createdAt": "2026-09-17T04:42:46.539Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -10427,7 +10464,8 @@
       "model": "claude",
       "checkedAt": "2026-09-17T04:42:04.663Z"
     },
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-09-17T08:08:32.379Z"
   },
   {
     "id": "6badff75-0b2e-47b2-9814-84b9a9a4e212",
@@ -10440,8 +10478,12 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-17T07:45:10.234Z",
-    "status": "claimed",
-    "results": {},
+    "status": "partial",
+    "results": {
+      "pinterest": {
+        "error": "publish failed"
+      }
+    },
     "createdAt": "2026-09-17T04:42:46.555Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -10462,7 +10504,8 @@
       "checkedAt": "2026-09-17T04:42:04.663Z"
     },
     "blogUrl": "https://landinkorea.com/index.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-09-17T08:08:32.421Z"
   },
   {
     "id": "d5842740-9d16-4374-99b2-a4fb80906528",
@@ -10478,8 +10521,13 @@
       "bluesky"
     ],
     "scheduledAt": "2026-09-17T05:13:59.369Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mvp77ahb6j2v",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3mvp77ahb6j2v"
+      }
+    },
     "createdAt": "2026-09-17T04:42:46.568Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -10500,7 +10548,8 @@
       "checkedAt": "2026-09-17T04:42:04.663Z"
     },
     "blogUrl": "https://landinkorea.com/index.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-09-17T08:08:37.057Z"
   },
   {
     "id": "d20bbcf2-e9d7-4faf-b45e-257a1d41b67b",
@@ -10516,8 +10565,13 @@
       "mastodon"
     ],
     "scheduledAt": "2026-09-17T05:43:28.811Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "mastodon": {
+        "id": "117285357047080910",
+        "url": "https://mastodon.social/@landinkorea/117285357047080910"
+      }
+    },
     "createdAt": "2026-09-17T04:42:46.582Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -10538,7 +10592,8 @@
       "checkedAt": "2026-09-17T04:42:04.663Z"
     },
     "blogUrl": "https://landinkorea.com/index.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-09-17T08:08:45.146Z"
   },
   {
     "id": "0dc33ad8-642a-4eac-8d27-1f48850dfabd",
@@ -10554,8 +10609,13 @@
       "tumblr"
     ],
     "scheduledAt": "2026-09-17T07:44:31.597Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "tumblr": {
+        "id": "827989718680616960",
+        "url": "https://landinkorea.tumblr.com/post/827989718680616960"
+      }
+    },
     "createdAt": "2026-09-17T04:42:46.594Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -10576,6 +10636,7 @@
       "checkedAt": "2026-09-17T04:42:04.663Z"
     },
     "blogUrl": "https://landinkorea.com/index.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-09-17T08:08:49.241Z"
   }
 ]
