@@ -32,6 +32,14 @@ jobs:
       - name: Install ffmpeg (needed for Instagram background-music merge)
         run: sudo apt-get update && sudo apt-get install -y ffmpeg
 
+      - name: Top up topic bank if running low (2026-09-17, "주제가 떨어지면 자동생성")
+        # topic_bank.json이 목표치(50개)보다 작으면 Claude로 "뾰족한"(결정/실수회피형)
+        # 새 주제를 채운다 — 오늘 로테이션이 고르기 전에 실행해야 방금 만든 주제도
+        # 바로 후보에 들어간다. 이미 충분하면 조용히 아무 것도 안 한다.
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: node scripts/generate-topics.js
+
       - name: Pick topic, fetch image, queue post
         # 2026-09-17까지는 ANTHROPIC_API_KEY를 의도적으로 뺐었다(자동 실행 중
         # 유료 API 호출 금지, 캡션은 미리 써둔 data/sns_content_queue.json 우선
@@ -60,14 +68,14 @@ jobs:
 
       - name: Commit queued post and topic state
         run: |
-          if git diff --quiet -- data/queue.json data/topic_state.json data/topic_blog_links.json; then
+          if git diff --quiet -- data/queue.json data/topic_state.json data/topic_blog_links.json data/topic_bank.json; then
             echo "No new topic queued; no commit required."
             exit 0
           fi
 
           git config user.name "sns-automation-bot"
           git config user.email "actions@github.com"
-          git add data/queue.json data/topic_state.json data/topic_blog_links.json
+          git add data/queue.json data/topic_state.json data/topic_blog_links.json data/topic_bank.json
           git commit -m "chore: queue daily Land in Korea topic"
           git push origin "HEAD:${GITHUB_REF_NAME}"
 

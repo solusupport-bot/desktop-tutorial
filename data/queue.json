@@ -9463,7 +9463,8 @@
       "reason": "남대문시장이라는 주제에 부합하고 문장이 자연스럽게 완결돼 있으며, 1414년경 개설·명동 도보 10분·최대 규모 전통시장·야간 도매 영업·흥정과 현금 사용·일요일 한산함 등 사실 주장이 통상 알려진 정보 범위 내로 과장이 없고 여행 정보로서 유용하다(첫 문장의 '두 동네'가 명동을 뒤에 언급해 다소 모호하나 발행에 지장을 줄 수준은 아님).",
       "model": "claude",
       "checkedAt": "2026-09-17T02:09:49.538Z"
-    }
+    },
+    "verifyStatus": "passed"
   },
   {
     "id": "06b3c701-b7d6-4fee-9c0a-2882416b7215",
@@ -9501,7 +9502,8 @@
       "reason": "남대문시장이라는 주제에 부합하고 문장이 자연스럽게 완결돼 있으며, 1414년경 개설·명동 도보 10분·최대 규모 전통시장·야간 도매 영업·흥정과 현금 사용·일요일 한산함 등 사실 주장이 통상 알려진 정보 범위 내로 과장이 없고 여행 정보로서 유용하다(첫 문장의 '두 동네'가 명동을 뒤에 언급해 다소 모호하나 발행에 지장을 줄 수준은 아님).",
       "model": "claude",
       "checkedAt": "2026-09-17T02:09:49.538Z"
-    }
+    },
+    "verifyStatus": "passed"
   },
   {
     "id": "0d7a69bb-9721-4003-825d-8796979b632c",
@@ -9539,7 +9541,8 @@
       "reason": "남대문시장이라는 주제에 부합하고 문장이 자연스럽게 완결돼 있으며, 1414년경 개설·명동 도보 10분·최대 규모 전통시장·야간 도매 영업·흥정과 현금 사용·일요일 한산함 등 사실 주장이 통상 알려진 정보 범위 내로 과장이 없고 여행 정보로서 유용하다(첫 문장의 '두 동네'가 명동을 뒤에 언급해 다소 모호하나 발행에 지장을 줄 수준은 아님).",
       "model": "claude",
       "checkedAt": "2026-09-17T02:09:49.538Z"
-    }
+    },
+    "verifyStatus": "passed"
   },
   {
     "id": "6e27cdf4-cb66-490b-87bd-8eb20ddf47bc",
@@ -9574,7 +9577,8 @@
       "model": "claude",
       "checkedAt": "2026-09-17T02:09:49.538Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-namdaemun-market.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-namdaemun-market.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
   },
   {
     "id": "44252162-1031-44be-b21d-7c4c9d476f30",
@@ -9612,7 +9616,8 @@
       "model": "claude",
       "checkedAt": "2026-09-17T02:09:49.538Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-namdaemun-market.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-namdaemun-market.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
   },
   {
     "id": "0a3d51f3-e11c-47ab-a80d-1cf57f06ca58",
@@ -9650,7 +9655,8 @@
       "model": "claude",
       "checkedAt": "2026-09-17T02:09:49.538Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-namdaemun-market.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-namdaemun-market.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
   },
   {
     "id": "ac033c61-d281-429a-b453-b8d58eb05eb2",
@@ -9688,6 +9694,7 @@
       "model": "claude",
       "checkedAt": "2026-09-17T02:09:49.538Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-namdaemun-market.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-namdaemun-market.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
   }
 ]
