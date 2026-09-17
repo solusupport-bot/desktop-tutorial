@@ -16,7 +16,7 @@ require('dotenv').config();
 const log = require('../lib/logger');
 const { fetchKoreaTravelTopics } = require('../lib/ingestion/korea_travel');
 const { loadTopicSlugs, saveTopicSlugs } = require('../lib/ingestion/topic_blog_links');
-const { pushBlogPost } = require('../lib/publishing/blog_repo');
+const { pushBlogPost, listExistingSlugs } = require('../lib/publishing/blog_repo');
 const { askClaudeForJSON } = require('../lib/ai/claude');
 const { blogContentQueue } = require('../lib/scheduler/prewritten_content');
 
@@ -192,7 +192,18 @@ const main = async () => {
   const slugs = loadTopicSlugs();
   let created = 0;
 
-  const pending = topics.filter((t) => !slugs[t.source]);
+  // 링크 맵에 slug가 있다고 실제 파일이 있다는 보장이 없다(유령 링크 버그, 위
+  // blog_repo.js 주석 참고) — GitHub API로 진짜 파일 목록을 확인해 교차 검증한다.
+  // API 조회 자체가 실패하면(오프라인 등) 기존처럼 링크 맵만 믿는다.
+  const existingSlugs = await listExistingSlugs();
+  const pending = topics.filter((t) => {
+    if (!slugs[t.source]) return true;
+    if (existingSlugs && !existingSlugs.has(slugify(t.source))) {
+      log.warn(`"${t.source}"는 링크(${slugs[t.source]})만 있고 실제 글 파일이 없습니다 — 다시 씁니다.`);
+      return true;
+    }
+    return false;
+  });
 
   for (const topic of pending) {
     if (created >= MAX_NEW_POSTS_PER_RUN) break;
