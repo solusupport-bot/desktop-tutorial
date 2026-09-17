@@ -9571,7 +9571,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-17T05:28:42.084Z",
-    "status": "partial",
+    "status": "claimed",
     "results": {
       "pinterest": {
         "error": "publish failed"
@@ -9600,7 +9600,7 @@
     "blogUrl": "https://landinkorea.com/posts/korea-namdaemun-market.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
     "verifyStatus": "passed",
     "processedAt": "2026-09-17T07:02:58.700Z",
-    "retryCount": 2
+    "retryCount": 3
   },
   {
     "id": "44252162-1031-44be-b21d-7c4c9d476f30",
@@ -9878,7 +9878,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-17T07:38:33.227Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-17T04:12:50.719Z",
     "approved": true,
@@ -10005,7 +10005,7 @@
       "tumblr"
     ],
     "scheduledAt": "2026-09-17T07:37:47.348Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-17T04:12:50.766Z",
     "approved": true,
@@ -10171,7 +10171,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-17T07:41:02.938Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-17T04:36:26.905Z",
     "approved": true,
@@ -10298,7 +10298,7 @@
       "tumblr"
     ],
     "scheduledAt": "2026-09-17T07:44:40.734Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-17T04:36:26.956Z",
     "approved": true,
@@ -10337,7 +10337,7 @@
       "threads"
     ],
     "scheduledAt": "2026-09-17T04:46:40.073Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-17T04:42:46.512Z",
     "approved": true,
@@ -10374,7 +10374,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-17T04:47:57.063Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-17T04:42:46.526Z",
     "approved": true,
@@ -10406,7 +10406,7 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-17T04:58:31.582Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-17T04:42:46.539Z",
     "approved": true,
@@ -10440,7 +10440,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-17T07:45:10.234Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-17T04:42:46.555Z",
     "approved": true,
@@ -10478,7 +10478,7 @@
       "bluesky"
     ],
     "scheduledAt": "2026-09-17T05:13:59.369Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-17T04:42:46.568Z",
     "approved": true,
@@ -10516,7 +10516,7 @@
       "mastodon"
     ],
     "scheduledAt": "2026-09-17T05:43:28.811Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-17T04:42:46.582Z",
     "approved": true,
@@ -10554,7 +10554,7 @@
       "tumblr"
     ],
     "scheduledAt": "2026-09-17T07:44:31.597Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-17T04:42:46.594Z",
     "approved": true,
