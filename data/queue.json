@@ -9740,7 +9740,7 @@
       "threads"
     ],
     "scheduledAt": "2026-09-17T04:36:40.165Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-17T04:12:50.643Z",
     "approved": true,
@@ -9778,7 +9778,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-17T04:45:20.234Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-17T04:12:50.676Z",
     "approved": true,
@@ -9816,7 +9816,7 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-17T04:49:57.534Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-17T04:12:50.697Z",
     "approved": true,
@@ -10003,7 +10003,7 @@
       "threads"
     ],
     "scheduledAt": "2026-09-17T04:46:41.921Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-17T04:36:26.854Z",
     "approved": true,
@@ -10041,7 +10041,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-17T04:50:07.033Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-17T04:36:26.873Z",
     "approved": true,
@@ -10079,7 +10079,7 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-17T04:53:23.988Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-17T04:36:26.887Z",
     "approved": true,
