@@ -9655,8 +9655,13 @@
       "mastodon"
     ],
     "scheduledAt": "2026-09-17T03:26:42.712Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "mastodon": {
+        "id": "117284390333395979",
+        "url": "https://mastodon.social/@landinkorea/117284390333395979"
+      }
+    },
     "createdAt": "2026-09-17T02:09:49.619Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -9678,7 +9683,8 @@
       "checkedAt": "2026-09-17T02:09:49.538Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-namdaemun-market.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-09-17T04:02:55.098Z"
   },
   {
     "id": "ac033c61-d281-429a-b453-b8d58eb05eb2",
