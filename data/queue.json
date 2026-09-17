@@ -9740,8 +9740,12 @@
       "threads"
     ],
     "scheduledAt": "2026-09-17T04:36:40.165Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18113749667516571"
+      }
+    },
     "createdAt": "2026-09-17T04:12:50.643Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -9761,7 +9765,8 @@
       "reason": "주제와 정확히 일치하고 문장이 자연스러우며, 무료 전망 플라자와 유료 전망대 구분·명동 도보 30~40분·일몰 혼잡 등 제시된 정보가 과장 없이 검증 가능한 수준이라 실용성도 충분함.",
       "model": "claude",
       "checkedAt": "2026-09-17T04:12:50.583Z"
-    }
+    },
+    "processedAt": "2026-09-17T05:12:20.517Z"
   },
   {
     "id": "842c979d-9372-4797-8f82-901abe53ce74",
@@ -9778,8 +9783,13 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-17T04:45:20.234Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "1288453561012463_122114511105446391",
+        "post_supports_client_mutation_id": true
+      }
+    },
     "createdAt": "2026-09-17T04:12:50.676Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -9799,7 +9809,8 @@
       "reason": "주제와 정확히 일치하고 문장이 자연스러우며, 무료 전망 플라자와 유료 전망대 구분·명동 도보 30~40분·일몰 혼잡 등 제시된 정보가 과장 없이 검증 가능한 수준이라 실용성도 충분함.",
       "model": "claude",
       "checkedAt": "2026-09-17T04:12:50.583Z"
-    }
+    },
+    "processedAt": "2026-09-17T05:12:30.829Z"
   },
   {
     "id": "bc7c19ee-823c-4f87-95e3-24706afb4d4c",
@@ -9816,8 +9827,12 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-17T04:49:57.534Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "18045226220817322"
+      }
+    },
     "createdAt": "2026-09-17T04:12:50.697Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -9837,7 +9852,8 @@
       "reason": "주제와 정확히 일치하고 문장이 자연스러우며, 무료 전망 플라자와 유료 전망대 구분·명동 도보 30~40분·일몰 혼잡 등 제시된 정보가 과장 없이 검증 가능한 수준이라 실용성도 충분함.",
       "model": "claude",
       "checkedAt": "2026-09-17T04:12:50.583Z"
-    }
+    },
+    "processedAt": "2026-09-17T05:13:32.871Z"
   },
   {
     "id": "ce8f2e7c-d76a-4542-a3e8-eaf9a58fd74d",
@@ -10003,8 +10019,12 @@
       "threads"
     ],
     "scheduledAt": "2026-09-17T04:46:41.921Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18146719237513033"
+      }
+    },
     "createdAt": "2026-09-17T04:36:26.854Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -10024,7 +10044,8 @@
       "reason": "주제인 남산 N서울타워에 정확히 부합하고 문장이 자연스러우며, 광장 무료·전망대 별도 유료·명동에서 도보 30~40분·케이블카 선택 가능·일몰 혼잡 같은 정보가 일반적으로 알려진 사실 범위 내에서 구체적 가격 없이 서술돼 있어 발행 가능하다.",
       "model": "claude",
       "checkedAt": "2026-09-17T04:36:26.818Z"
-    }
+    },
+    "processedAt": "2026-09-17T05:23:05.232Z"
   },
   {
     "id": "e22ecaa2-b9b8-44ba-b9b3-ec88cfd92492",
@@ -10041,8 +10062,13 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-17T04:50:07.033Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "1288453561012463_122114513337446391",
+        "post_supports_client_mutation_id": true
+      }
+    },
     "createdAt": "2026-09-17T04:36:26.873Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -10062,7 +10088,8 @@
       "reason": "주제인 남산 N서울타워에 정확히 부합하고 문장이 자연스러우며, 광장 무료·전망대 별도 유료·명동에서 도보 30~40분·케이블카 선택 가능·일몰 혼잡 같은 정보가 일반적으로 알려진 사실 범위 내에서 구체적 가격 없이 서술돼 있어 발행 가능하다.",
       "model": "claude",
       "checkedAt": "2026-09-17T04:36:26.818Z"
-    }
+    },
+    "processedAt": "2026-09-17T05:23:16.308Z"
   },
   {
     "id": "7a731d98-8727-4d2e-99f1-ee461a853a00",
@@ -10079,8 +10106,12 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-17T04:53:23.988Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "17946916287328098"
+      }
+    },
     "createdAt": "2026-09-17T04:36:26.887Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -10100,7 +10131,8 @@
       "reason": "주제인 남산 N서울타워에 정확히 부합하고 문장이 자연스러우며, 광장 무료·전망대 별도 유료·명동에서 도보 30~40분·케이블카 선택 가능·일몰 혼잡 같은 정보가 일반적으로 알려진 사실 범위 내에서 구체적 가격 없이 서술돼 있어 발행 가능하다.",
       "model": "claude",
       "checkedAt": "2026-09-17T04:36:26.818Z"
-    }
+    },
+    "processedAt": "2026-09-17T05:24:05.286Z"
   },
   {
     "id": "34263c12-c091-4890-8b40-6007b98f0c9b",
