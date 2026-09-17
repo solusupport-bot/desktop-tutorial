@@ -9959,7 +9959,7 @@
       "mastodon"
     ],
     "scheduledAt": "2026-09-17T05:35:45.281Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-17T04:12:50.749Z",
     "approved": true,
@@ -10244,7 +10244,7 @@
       "mastodon"
     ],
     "scheduledAt": "2026-09-17T05:45:39.839Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-17T04:36:26.940Z",
     "approved": true,
