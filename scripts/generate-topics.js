@@ -16,6 +16,13 @@ const fs = require('fs');
 const path = require('path');
 const log = require('../lib/logger');
 const { askClaudeForJSON } = require('../lib/ai/claude');
+const { getHotPostTitles } = require('../lib/research/reddit_research');
+
+// 2026-09-17: r/koreatravel 등에서 실제 요즘 여행자들이 뭘 묻는지 긁어와 프롬프트에
+// 재료로 넣는다 — Claude의 일반 지식만으로 "뾰족한" 주제를 짜내는 것보다 실제 수요를
+// 반영한 주제가 나올 확률이 높다. REDDIT_CLIENT_ID/SECRET이 없으면 조용히 스킵되고
+// 기존처럼 일반 지식만으로 생성한다(안전한 폴백, lib/research/reddit_research.js 참고).
+const RESEARCH_SUBREDDITS = ['koreatravel', 'korea', 'Seoul'];
 
 const TOPIC_BANK_PATH = path.join(__dirname, '..', 'data', 'topic_bank.json');
 const TOPIC_QUERIES_PATH = path.join(__dirname, '..', 'lib', 'ingestion', 'pexels_image.js');
@@ -28,8 +35,8 @@ const DEFAULT_URL = 'https://english.visitkorea.or.kr';
 // (video 검색과 달리 주제명으로 폴백하지 않고) 이미지 없이 빈 배열을 반환한다
 // (verify-topic-media-alignment.js가 이걸 실제로 잡아냈다: 생성된 5개 전부 "이미지
 // 없이 발행됨"). content 각도와 1:1 대응하는 검색어를 같이 생성해서 반드시 같이 채운다.
-const GENERATE_PROMPT = (existingTopics, count) => `You write topic ideas for "Land in Korea", an English-language social account helping first-time visitors and foreign residents navigate practical life in Korea.
-
+const GENERATE_PROMPT = (existingTopics, count, researchNotes) => `You write topic ideas for "Land in Korea", an English-language social account helping first-time visitors and foreign residents navigate practical life in Korea.
+${researchNotes ? `\nReal questions/discussions from r/koreatravel, r/korea, r/Seoul right now (use these to ground topics in real current demand, but don't just restate a thread title as a topic):\n${researchNotes}\n` : ''}
 Generate exactly ${count} NEW topic ideas. Requirements:
 - Sharp and specific, not a generic single-attraction name. Model these three existing topics: "KTX vs. SRT vs. intercity bus for long-distance travel", "Seoul attraction pass comparison", "Korean public holidays that disrupt travel plans" — each frames a real decision, trade-off, or mistake first-timers make, not just "here's a place".
 - Must NOT duplicate or closely overlap any of these existing topics:
@@ -75,7 +82,15 @@ const main = async () => {
   const count = Math.min(needed, MAX_NEW_PER_RUN);
   log.section(`새 주제 생성 (현재 ${bank.length}개, 목표 ${TARGET_POOL_SIZE}개, 이번에 ${count}개)`);
 
-  const result = await askClaudeForJSON(GENERATE_PROMPT(bank.map((t) => t.topic), count));
+  const researchPosts = (await Promise.all(
+    RESEARCH_SUBREDDITS.map((sr) => getHotPostTitles(sr, 8))
+  )).flat();
+  if (researchPosts.length) log.ok(`Reddit 리서치 ${researchPosts.length}건 확보`);
+  const researchNotes = researchPosts.length
+    ? researchPosts.map((p) => `- "${p.title}" (r/, ${p.score} upvotes, ${p.numComments} comments)`).join('\n')
+    : null;
+
+  const result = await askClaudeForJSON(GENERATE_PROMPT(bank.map((t) => t.topic), count, researchNotes));
   if (!result || !Array.isArray(result.topics)) {
     log.err('주제 생성 응답 형식이 올바르지 않습니다.');
     return;

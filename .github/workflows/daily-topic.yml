@@ -36,8 +36,13 @@ jobs:
         # topic_bank.json이 목표치(50개)보다 작으면 Claude로 "뾰족한"(결정/실수회피형)
         # 새 주제를 채운다 — 오늘 로테이션이 고르기 전에 실행해야 방금 만든 주제도
         # 바로 후보에 들어간다. 이미 충분하면 조용히 아무 것도 안 한다.
+        # REDDIT_CLIENT_ID/SECRET은 이미 있는 발행용 시크릿을 읽기 전용(client_credentials
+        # 앱 전용 OAuth, lib/research/reddit_research.js)으로만 재사용한다 — 발행 계정
+        # 로그인은 필요 없고 계정 정지 위험도 없다.
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+          REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
         run: node scripts/generate-topics.js
 
       - name: Pick topic, fetch image, queue post
