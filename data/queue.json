@@ -9878,7 +9878,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-17T07:38:33.227Z",
-    "status": "partial",
+    "status": "claimed",
     "results": {
       "pinterest": {
         "error": "publish failed"
@@ -9907,7 +9907,7 @@
     "blogUrl": "https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
     "verifyStatus": "passed",
     "processedAt": "2026-09-17T10:03:12.073Z",
-    "retryCount": 2
+    "retryCount": 3
   },
   {
     "id": "2ac699a6-0178-49d3-92d3-c0450f979534",
@@ -10183,7 +10183,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-17T07:41:02.938Z",
-    "status": "partial",
+    "status": "claimed",
     "results": {
       "pinterest": {
         "error": "publish failed"
@@ -10212,7 +10212,7 @@
     "blogUrl": "https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
     "verifyStatus": "passed",
     "processedAt": "2026-09-17T10:03:12.097Z",
-    "retryCount": 2
+    "retryCount": 3
   },
   {
     "id": "63d020ea-9bc3-4c56-9e38-766dfcd2e5c8",
@@ -10480,7 +10480,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-17T07:45:10.234Z",
-    "status": "partial",
+    "status": "claimed",
     "results": {
       "pinterest": {
         "error": "publish failed"
@@ -10508,7 +10508,7 @@
     "blogUrl": "https://landinkorea.com/index.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
     "verifyStatus": "passed",
     "processedAt": "2026-09-17T10:03:12.127Z",
-    "retryCount": 2
+    "retryCount": 3
   },
   {
     "id": "d5842740-9d16-4374-99b2-a4fb80906528",
