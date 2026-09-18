@@ -1,5 +1,5 @@
 {
-  "lastIndex": 16,
+  "lastIndex": 33,
   "history": [
     {
       "index": 7,
@@ -420,6 +420,21 @@
       "index": 16,
       "topic": "Seasonal packing & weather tips",
       "at": "2026-09-16T02:08:16.980Z"
+    },
+    {
+      "index": 31,
+      "topic": "Hailing a taxi in Korea: Kakao T vs. street taxis vs. airport 'deluxe' cabs",
+      "at": "2026-09-18T02:07:58.099Z"
+    },
+    {
+      "index": 32,
+      "topic": "Why Google Maps fails in Korea and how the road-name address system actually works",
+      "at": "2026-09-18T02:10:03.039Z"
+    },
+    {
+      "index": 33,
+      "topic": "Seoul subway details nobody tells you: exit numbers, transfer walks, express trains, and the last train",
+      "at": "2026-09-18T02:11:40.941Z"
     }
   ],
   "recentImageUrls": [
@@ -729,7 +744,22 @@
     "https://images.pexels.com/photos/32001105/pexels-photo-32001105.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://images.pexels.com/photos/39134186/pexels-photo-39134186.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://images.pexels.com/photos/11687641/pexels-photo-11687641.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://images.pexels.com/photos/39471476/pexels-photo-39471476.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "https://images.pexels.com/photos/39471476/pexels-photo-39471476.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/31629024/pexels-photo-31629024.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/31649612/pexels-photo-31649612.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/19271583/pexels-photo-19271583.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/5051600/pexels-photo-5051600.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/31613718/pexels-photo-31613718.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/38902917/pexels-photo-38902917.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/35551373/pexels-photo-35551373.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/8851664/pexels-photo-8851664.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/19271534/pexels-photo-19271534.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/19706252/pexels-photo-19706252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/6672770/pexels-photo-6672770.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/31872706/pexels-photo-31872706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/31955769/pexels-photo-31955769.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/31680676/pexels-photo-31680676.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://pixabay.com/get/g2a2bc69a7f4d686f1008a2bb4052067b35f941eeb928ebd807a66abfc4ae3aef957dd9413934a397412d3671d667dcc51b017fc793d66bc4db644d4bd80a1092_1280.jpg"
   ],
   "recentVideoUrls": [
     "https://videos.pexels.com/video-files/19577787/19577787-uhd_2160_3840_30fps.mp4",
@@ -803,7 +833,10 @@
     "https://cdn.pixabay.com/video/2018/01/31/14037-254146876_large.mp4",
     "https://videos.pexels.com/video-files/37763965/16018183_1080_1920_60fps.mp4",
     "https://cdn.pixabay.com/video/2019/05/03/23258-334228230_large.mp4",
-    "https://videos.pexels.com/video-files/13685491/13685491-uhd_1728_3840_30fps.mp4"
+    "https://videos.pexels.com/video-files/13685491/13685491-uhd_1728_3840_30fps.mp4",
+    "https://cdn.pixabay.com/video/2022/09/13/131195-749706805_large.mp4",
+    "https://cdn.pixabay.com/video/2016/07/19/3888-175500385_large.mp4",
+    "https://cdn.pixabay.com/video/2017/01/20/7461-200336856_large.mp4"
   ],
   "recentMusicUrls": [
     "https://prod-1.storage.jamendo.com/?trackid=20237&format=mp32",
@@ -827,6 +860,9 @@
     "https://prod-1.storage.jamendo.com/?trackid=1670594&format=mp32",
     "https://prod-1.storage.jamendo.com/?trackid=1200112&format=mp32",
     "https://prod-1.storage.jamendo.com/?trackid=1193424&format=mp32",
-    "https://prod-1.storage.jamendo.com/?trackid=665946&format=mp32"
+    "https://prod-1.storage.jamendo.com/?trackid=665946&format=mp32",
+    "https://prod-1.storage.jamendo.com/?trackid=1015339&format=mp32",
+    "https://prod-1.storage.jamendo.com/?trackid=695414&format=mp32",
+    "https://prod-1.storage.jamendo.com/?trackid=1114668&format=mp32"
   ]
 }

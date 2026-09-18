@@ -10641,5 +10641,776 @@
     "blogUrl": "https://landinkorea.com/index.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
     "verifyStatus": "passed",
     "processedAt": "2026-09-17T08:08:49.241Z"
+  },
+  {
+    "id": "81978c04-d731-446f-8691-e19578623a13",
+    "text": "Most first-timers lose their first taxi ride before the car even moves, and it has nothing to do with the fare.\n\nKakao T is what Koreans actually use: you set pickup and drop-off as pins on a map, so your destination reaches the driver already written in Korean.\n\nIt works with most foreign phone numbers, and you can either register a card for automatic payment or just pay the driver at the end.\n\nStreet hailing is still fine in busy areas, but late at night in nightlife districts you're competing with a crowd, and drivers sometimes pick whoever is heading their way.\n\nWhat's the hardest Korean address you've ever tried to pronounce out loud to a driver?\n\n📖 More on the blog — link in bio.",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697284113-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697284113-0.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697284113-1.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697284113-2.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697284113-3.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697284113-4.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-09-18T03:15:56.948Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-18T02:10:02.999Z",
+    "approved": false,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31629024/pexels-photo-31629024.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31649612/pexels-photo-31649612.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19271583/pexels-photo-19271583.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5051600/pexels-photo-5051600.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31613718/pexels-photo-31613718.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/09/13/131195-749706805_large.mp4",
+    "topic": "Hailing a taxi in Korea: Kakao T vs. street taxis vs. airport 'deluxe' cabs",
+    "qualityGate": {
+      "pass": false,
+      "reason": "문장은 자연스럽고 사실 주장도 무난하지만, 제목에서 예고한 세 축 중 공항 '모범택시(deluxe cab)' 관련 내용이 전혀 다뤄지지 않아 주제 커버리지가 불완전합니다.",
+      "model": "claude",
+      "checkedAt": "2026-09-18T02:09:09.335Z"
+    }
+  },
+  {
+    "id": "0e68c1c0-69b1-4d31-a0f7-810f6c89f175",
+    "text": "You don't actually need to pronounce a single Korean address to take a taxi here — Kakao T lets you drop pickup and drop-off pins on a map, and the driver sees your destination already written in Korean. 🚕\n\n1. Kakao T is the default for most Koreans. Street hailing hasn't disappeared, it's just no longer how people usually get a car.\n2. The app works with a foreign phone number in most cases, so you can set it up before or after you land.\n3. Payment is flexible — register a card for automatic charging, or pay the driver directly at the end of the ride.\n4. The real win is language. Your destination is entered in Korean from the start, which removes the single most common friction point for visitors.\n5. Street hailing still works well in busy areas during normal hours.\n\nQuick checklist: app installed → pickup pin set → drop-off pin set → payment method decided.\n\nOne thing to know before a late night out: in nightlife districts after hours you're competing with a lot of people for the same cars, and drivers sometimes choose the passenger heading in their preferred direction. Worth saving this before your first Friday night in Seoul.\n\nWhich has tripped you up more — hailing the car, or explaining where you're going?\n\n📖 More on the blog: https://landinkorea.com/index.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697284113-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697284113-0.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697284113-1.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697284113-2.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697284113-3.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697284113-4.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-09-18T03:22:44.152Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-18T02:10:03.005Z",
+    "approved": false,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31629024/pexels-photo-31629024.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31649612/pexels-photo-31649612.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19271583/pexels-photo-19271583.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5051600/pexels-photo-5051600.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31613718/pexels-photo-31613718.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/09/13/131195-749706805_large.mp4",
+    "topic": "Hailing a taxi in Korea: Kakao T vs. street taxis vs. airport 'deluxe' cabs",
+    "qualityGate": {
+      "pass": false,
+      "reason": "문장은 자연스럽고 사실 주장도 무난하지만, 제목에서 예고한 세 축 중 공항 '모범택시(deluxe cab)' 관련 내용이 전혀 다뤄지지 않아 주제 커버리지가 불완전합니다.",
+      "model": "claude",
+      "checkedAt": "2026-09-18T02:09:09.335Z"
+    }
+  },
+  {
+    "id": "de869ae0-7306-48e1-9b0f-438fc383ddfe",
+    "text": "You're about to make your first Korean taxi ride way harder than it needs to be.\n\nHere's the fix: most Koreans don't flag cabs on the street anymore. They use Kakao T, where you set pickup and drop-off as pins on a map — so your destination reaches the driver already written in Korean. No pronunciation, no pointing at a screenshot. It works with a foreign number in most cases, and you can register a card or just pay the driver at the end.\n\nStreet hailing still works in busy areas, but late at night in nightlife districts you're up against a crowd, and drivers sometimes pick whoever's going their direction.\n\nSave this before your first night out in Seoul.\n\n📖 More tips on the blog — link in bio.\n\n#KoreaTravel #SeoulTrip #KakaoT #KoreaTravelTips #FirstTimeInKorea\n\n🎵 \"I want you (pop rock remix)\" by Lollita is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+    "imageUrl": null,
+    "videoUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/videos/1789697398324-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-09-18T03:27:19.624Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-18T02:10:03.011Z",
+    "approved": false,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31629024/pexels-photo-31629024.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31649612/pexels-photo-31649612.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19271583/pexels-photo-19271583.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5051600/pexels-photo-5051600.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31613718/pexels-photo-31613718.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/09/13/131195-749706805_large.mp4",
+    "topic": "Hailing a taxi in Korea: Kakao T vs. street taxis vs. airport 'deluxe' cabs",
+    "qualityGate": {
+      "pass": false,
+      "reason": "문장은 자연스럽고 사실 주장도 무난하지만, 제목에서 예고한 세 축 중 공항 '모범택시(deluxe cab)' 관련 내용이 전혀 다뤄지지 않아 주제 커버리지가 불완전합니다.",
+      "model": "claude",
+      "checkedAt": "2026-09-18T02:09:09.335Z"
+    }
+  },
+  {
+    "id": "550a5a79-4ce5-4de3-8b1c-563dccc383bb",
+    "text": "Korea taxi tips: how to take a cab without speaking Korean\n\nFirst-time visitors to Seoul often struggle to pronounce Korean addresses for taxi drivers. Here's how locals actually get around, and what to do late at night.\n\n1. Use Kakao T instead of street hailing — most Koreans do. You set pickup and drop-off as pins on a map, so the driver receives your destination already written in Korean.\n2. Sign up with a foreign phone number (works in most cases), then choose your payment: register a card for automatic payment, or pay the driver directly at the end of the ride.\n3. Street hailing still works in busy areas during the day, but in nightlife districts late at night you'll be competing with a crowd, and drivers sometimes pick the passenger heading their preferred direction.\n\nRead the full Korea taxi guide — Kakao T vs street taxis vs airport deluxe cabs — on the blog: https://english.visitseoul.net/transportation\n\nAlt text: Yellow and white Korean taxis waiting on a Seoul street at night with neon signs behind them, overlaid with the text \"Korea taxi guide: Kakao T vs street hailing\".",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697284113-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697284113-0.jpg"
+    ],
+    "platforms": [
+      "pinterest"
+    ],
+    "scheduledAt": "2026-09-18T06:17:44.473Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-18T02:10:03.017Z",
+    "approved": false,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31629024/pexels-photo-31629024.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31649612/pexels-photo-31649612.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19271583/pexels-photo-19271583.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5051600/pexels-photo-5051600.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31613718/pexels-photo-31613718.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/09/13/131195-749706805_large.mp4",
+    "topic": "Hailing a taxi in Korea: Kakao T vs. street taxis vs. airport 'deluxe' cabs",
+    "qualityGate": {
+      "pass": false,
+      "reason": "문장은 자연스럽고 사실 주장도 무난하지만, 제목에서 예고한 세 축 중 공항 '모범택시(deluxe cab)' 관련 내용이 전혀 다뤄지지 않아 주제 커버리지가 불완전합니다.",
+      "model": "claude",
+      "checkedAt": "2026-09-18T02:09:09.335Z"
+    },
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "827a6c39-7d1d-4647-9a3e-407d1b67ca7f",
+    "text": "There's a step most visitors skip on their first Korean taxi ride, and it's the reason the ride goes badly.\n\nKakao T is what Koreans actually use now. You set pickup and drop-off as pins on a map, and the driver gets your destination already written in Korean — no pronouncing an address. #KoreaTravel\n\nIt works with a foreign phone number in most cases. You can register a card for automatic payment, or skip that and just pay the driver at the end.\n\nStreet hailing is fine in busy areas. Late at night in nightlife districts it's a different story: you're competing with a crowd, and drivers sometimes take whoever is heading their preferred direction. #SeoulTrip\n\nIf you've used it with a foreign number recently, did signup go through without trouble?",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697284113-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697284113-0.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697284113-1.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697284113-2.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697284113-3.jpg"
+    ],
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-09-18T03:43:25.644Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-18T02:10:03.023Z",
+    "approved": false,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31629024/pexels-photo-31629024.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31649612/pexels-photo-31649612.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19271583/pexels-photo-19271583.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5051600/pexels-photo-5051600.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31613718/pexels-photo-31613718.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/09/13/131195-749706805_large.mp4",
+    "topic": "Hailing a taxi in Korea: Kakao T vs. street taxis vs. airport 'deluxe' cabs",
+    "qualityGate": {
+      "pass": false,
+      "reason": "문장은 자연스럽고 사실 주장도 무난하지만, 제목에서 예고한 세 축 중 공항 '모범택시(deluxe cab)' 관련 내용이 전혀 다뤄지지 않아 주제 커버리지가 불완전합니다.",
+      "model": "claude",
+      "checkedAt": "2026-09-18T02:09:09.335Z"
+    },
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "8594bc51-6cdd-4f16-a624-6ace6850f8ed",
+    "text": "There's one step that decides whether your first taxi ride in Korea is easy or miserable, and it happens before you get in the car.\n\nMost Koreans don't flag taxis on the street anymore. They use Kakao T, where you set pickup and drop-off as points on a map. The driver receives your destination already written in Korean, which removes the most common friction point for visitors — trying to pronounce an address you've only ever seen romanized.\n\nThe app works with a foreign phone number in most cases. Payment is flexible: register a card for automatic charging, or ignore that and pay the driver directly when you arrive.\n\nStreet hailing still works fine in busy areas. The exception is late-night hours in nightlife districts, where you're competing with a lot of people for the same cars and drivers sometimes pick the passenger heading in their preferred direction.\n\nFor people who've been in Korea recently: did the foreign-number signup work for you on the first try, or did it take some fiddling?\n\n#KoreaTravel #TravelTips #Seoul #Korea",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697284113-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697284113-0.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697284113-1.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697284113-2.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697284113-3.jpg"
+    ],
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-09-18T04:17:12.807Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-18T02:10:03.029Z",
+    "approved": false,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31629024/pexels-photo-31629024.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31649612/pexels-photo-31649612.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19271583/pexels-photo-19271583.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5051600/pexels-photo-5051600.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31613718/pexels-photo-31613718.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/09/13/131195-749706805_large.mp4",
+    "topic": "Hailing a taxi in Korea: Kakao T vs. street taxis vs. airport 'deluxe' cabs",
+    "qualityGate": {
+      "pass": false,
+      "reason": "문장은 자연스럽고 사실 주장도 무난하지만, 제목에서 예고한 세 축 중 공항 '모범택시(deluxe cab)' 관련 내용이 전혀 다뤄지지 않아 주제 커버리지가 불완전합니다.",
+      "model": "claude",
+      "checkedAt": "2026-09-18T02:09:09.335Z"
+    },
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "9817089f-2e98-4b46-b393-60f749c34629",
+    "text": "You don't have to pronounce a single Korean address to take a taxi here — Kakao T lets you set both pickup and drop-off as pins on a map, and the driver receives your destination already written in Korean.\n\n1. Kakao T is the default, not a tourist workaround. Most Koreans stopped flagging taxis on the street a while ago. The app works with a foreign phone number in most cases, so you can set it up on arrival.\n\n2. Payment is your choice. Register a card for automatic payment, or leave it unregistered and hand the fare to the driver at the end like you would in any street cab.\n\n3. Street hailing is still fine — with one exception. In busy areas during normal hours you'll get a car. Late at night in nightlife districts, you're competing with a crowd, and drivers sometimes pick the passenger heading in their preferred direction.\n\nThe map pin is doing the translating for you, which is why the app beats a memorized address every time.",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697284113-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697284113-0.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697284113-1.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697284113-2.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697284113-3.jpg"
+    ],
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-09-18T06:17:28.966Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-18T02:10:03.035Z",
+    "approved": false,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31629024/pexels-photo-31629024.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31649612/pexels-photo-31649612.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19271583/pexels-photo-19271583.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5051600/pexels-photo-5051600.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31613718/pexels-photo-31613718.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/09/13/131195-749706805_large.mp4",
+    "topic": "Hailing a taxi in Korea: Kakao T vs. street taxis vs. airport 'deluxe' cabs",
+    "qualityGate": {
+      "pass": false,
+      "reason": "문장은 자연스럽고 사실 주장도 무난하지만, 제목에서 예고한 세 축 중 공항 '모범택시(deluxe cab)' 관련 내용이 전혀 다뤄지지 않아 주제 커버리지가 불완전합니다.",
+      "model": "claude",
+      "checkedAt": "2026-09-18T02:09:09.335Z"
+    },
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "ca9dda89-cfd1-4795-81e7-a3e1c40714c9",
+    "text": "Most first-timers blame Google Maps for getting them lost in Seoul. The real problem is something else.\n\nKorea runs two address systems at once: road-name addresses adopted in the 2010s, and the older jibun lot numbers taxi drivers still know.\n\nCopy the Korean-language address straight into your map app instead of reading it aloud. Paste beats pronunciation every time.\n\nDon't expect a building number at street level. Your cafe is often on the 3rd or 5th floor, marked only by a small vertical sign column.\n\nWhat's the hardest place you've ever tried to find here, and what finally got you there?\n\n📖 More on the blog — link in bio.",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697406262-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697406262-0.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697406262-1.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697406262-2.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697406262-3.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697406262-4.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-09-18T14:00:45.108Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-18T02:11:40.900Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/38902917/pexels-photo-38902917.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35551373/pexels-photo-35551373.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8851664/pexels-photo-8851664.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19271534/pexels-photo-19271534.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19706252/pexels-photo-19706252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2016/07/19/3888-175500385_large.mp4",
+    "topic": "Why Google Maps fails in Korea and how the road-name address system actually works",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주소 체계(도로명·지번)와 지도 앱 활용이라는 주제에서 벗어나지 않고 문장도 완결돼 있으며, 검증 불가한 가격·운영시간 주장 없이 '한글 주소 복사·붙여넣기', '건물 층수 확인' 등 실용 정보를 담고 있어 그대로 발행 가능하다.",
+      "model": "claude",
+      "checkedAt": "2026-09-18T02:11:26.619Z"
+    }
+  },
+  {
+    "id": "ad180c1c-978f-4b3a-bc83-5d6dbc33a045",
+    "text": "If your map app keeps dropping you on the wrong block in Seoul, it's not broken — Korea uses two address systems at the same time, and your pin may be reading the wrong one. 🗺️\n\n1. Korea switched to road-name addresses in the 2010s: road name + building number + city district.\n2. The older jibun (lot-based) numbers never fully disappeared. Older signage, long-running businesses, and many taxi drivers still think in jibun.\n3. Because of that overlap, copying the exact Korean-language address into your map app works far better than trying to say it out loud.\n4. Street-level building numbers are often missing or tiny, and the place you want is frequently on the 3rd or 5th floor — look for the thin vertical sign column beside the entrance.\n5. When Koreans give directions to a friend or a delivery driver, they anchor to the nearest subway station exit number. It's the most reliable landmark in any Korean city.\n\nChecklist to remember: paste the Korean address, check the floor, find the exit number.\n\nWhich one has thrown you off more — the two address systems, or buildings with no visible number? Worth saving this one before your next trip. 📌\n\n📖 More on the blog: https://landinkorea.com/index.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697406262-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697406262-0.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697406262-1.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697406262-2.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697406262-3.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697406262-4.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-09-18T14:04:41.348Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-18T02:11:40.906Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/38902917/pexels-photo-38902917.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35551373/pexels-photo-35551373.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8851664/pexels-photo-8851664.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19271534/pexels-photo-19271534.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19706252/pexels-photo-19706252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2016/07/19/3888-175500385_large.mp4",
+    "topic": "Why Google Maps fails in Korea and how the road-name address system actually works",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주소 체계(도로명·지번)와 지도 앱 활용이라는 주제에서 벗어나지 않고 문장도 완결돼 있으며, 검증 불가한 가격·운영시간 주장 없이 '한글 주소 복사·붙여넣기', '건물 층수 확인' 등 실용 정보를 담고 있어 그대로 발행 가능하다.",
+      "model": "claude",
+      "checkedAt": "2026-09-18T02:11:26.619Z"
+    }
+  },
+  {
+    "id": "f6431074-380d-4a0d-bc42-5823e8d87098",
+    "text": "You're not bad at directions. Korea is just running two address systems at once.\n\nRoad-name addresses (road + building number + district) replaced the old jibun lot numbers in the 2010s — but jibun never left. Older signage and many taxi drivers still use it. So: copy the Korean-language address and paste it into your map app instead of reading it aloud. And when you arrive, look up — businesses are often on the 3rd or 5th floor with only a narrow vertical sign column at the door.\n\nThe move locals actually use: give and take directions by subway station exit number. It's the one landmark that never fails.\n\nSave this before your next trip so you're not circling the same block twice.\n\n📖 More tips on the blog — link in bio.\n\n#KoreaTravel #SeoulTrip #KoreaTips #TravelKorea #FirstTimeInKorea\n\n🎵 \"Tantos años (ROCK-POP-DANCE VERSIÓN)\" by Gabriel Gorce is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+    "imageUrl": null,
+    "videoUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/videos/1789697498355-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-09-18T14:12:49.790Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-18T02:11:40.913Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/38902917/pexels-photo-38902917.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35551373/pexels-photo-35551373.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8851664/pexels-photo-8851664.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19271534/pexels-photo-19271534.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19706252/pexels-photo-19706252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2016/07/19/3888-175500385_large.mp4",
+    "topic": "Why Google Maps fails in Korea and how the road-name address system actually works",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주소 체계(도로명·지번)와 지도 앱 활용이라는 주제에서 벗어나지 않고 문장도 완결돼 있으며, 검증 불가한 가격·운영시간 주장 없이 '한글 주소 복사·붙여넣기', '건물 층수 확인' 등 실용 정보를 담고 있어 그대로 발행 가능하다.",
+      "model": "claude",
+      "checkedAt": "2026-09-18T02:11:26.619Z"
+    }
+  },
+  {
+    "id": "323a729b-3350-4766-a852-4d24451d34f7",
+    "text": "Why Google Maps fails in Korea — and the address trick that fixes it\n\nKorea uses two address systems at the same time, which is why your pin lands a block away. Here's how to read a Korean address correctly on your first trip to Seoul.\n\n1. Road-name addresses replaced lot-based jibun numbers in the 2010s: a modern Korean address reads road name + building number + city district. Older signage, long-running shops and many taxi drivers still use the old jibun number, so both versions exist for the same place.\n2. Copy the Korean-language address and paste it into your map app instead of reading it aloud — pasting removes any confusion about which system you're quoting.\n3. Look up when you arrive. Building numbers are often not displayed at street level, and businesses are frequently on the 3rd or 5th floor, marked only by a slim vertical sign column at the entrance.\n4. Give and take directions by subway station exit number — that's the landmark Koreans use with friends and delivery drivers, and it's the most reliable one in any Korean city.\n\nLook up any Korean address in both systems on the official government address site: https://www.juso.go.kr/openEngPage.do — save this pin for your Seoul itinerary planning.\n\nAlt text: Infographic of a Seoul street corner with a vertical building sign column and a subway exit number sign, labeled \"Korea road-name address vs jibun address — how to find any building.\"\n\nKeywords: Korea travel tips, Seoul travel guide, Korean address system, road name address Korea, jibun address, Google Maps Korea, first time in Seoul, Korea trip planning.",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697406262-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697406262-0.jpg"
+    ],
+    "platforms": [
+      "pinterest"
+    ],
+    "scheduledAt": "2026-09-18T16:59:46.556Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-18T02:11:40.919Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/38902917/pexels-photo-38902917.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35551373/pexels-photo-35551373.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8851664/pexels-photo-8851664.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19271534/pexels-photo-19271534.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19706252/pexels-photo-19706252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2016/07/19/3888-175500385_large.mp4",
+    "topic": "Why Google Maps fails in Korea and how the road-name address system actually works",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주소 체계(도로명·지번)와 지도 앱 활용이라는 주제에서 벗어나지 않고 문장도 완결돼 있으며, 검증 불가한 가격·운영시간 주장 없이 '한글 주소 복사·붙여넣기', '건물 층수 확인' 등 실용 정보를 담고 있어 그대로 발행 가능하다.",
+      "model": "claude",
+      "checkedAt": "2026-09-18T02:11:26.619Z"
+    },
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "8b78feb4-a0b3-4e68-933d-74f949a9ba27",
+    "text": "If your map app keeps sending you to the wrong block in Seoul, the app isn't the problem. #KoreaTravel\n\nKorea runs two address systems at once: road-name addresses (road + building number + district) brought in during the 2010s, and the older jibun lot numbers that taxi drivers and older signage still use.\n\nPaste the Korean-language address into your map app rather than reading a romanized version aloud. It removes the guesswork about which system you're quoting.\n\nDon't assume you're lost if you can't see a building number — plenty of buildings don't show one at street level, and your destination may be on the 3rd or 5th floor behind a thin vertical sign column.\n\nDoes anyone here give directions by anything other than the nearest subway exit number? #SeoulTrip",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697406262-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697406262-0.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697406262-1.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697406262-2.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697406262-3.jpg"
+    ],
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-09-18T14:32:53.627Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-18T02:11:40.925Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/38902917/pexels-photo-38902917.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35551373/pexels-photo-35551373.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8851664/pexels-photo-8851664.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19271534/pexels-photo-19271534.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19706252/pexels-photo-19706252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2016/07/19/3888-175500385_large.mp4",
+    "topic": "Why Google Maps fails in Korea and how the road-name address system actually works",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주소 체계(도로명·지번)와 지도 앱 활용이라는 주제에서 벗어나지 않고 문장도 완결돼 있으며, 검증 불가한 가격·운영시간 주장 없이 '한글 주소 복사·붙여넣기', '건물 층수 확인' 등 실용 정보를 담고 있어 그대로 발행 가능하다.",
+      "model": "claude",
+      "checkedAt": "2026-09-18T02:11:26.619Z"
+    },
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "5a211cc0-7602-4de1-8ead-703341d80ada",
+    "text": "There's a reason foreign visitors to Korea end up circling the same block with a map app open, and it isn't the app.\n\nKorea moved to road-name addresses in the 2010s — road name, then building number, then city district. The older jibun lot-number system never fully went away. Older signage, long-established businesses and a lot of taxi drivers still think in jibun, so the same place has two valid-looking addresses.\n\nThe practical fix: copy the Korean-language address as text and paste it into your map app instead of reading it out. Pasting sidesteps both the romanization and the question of which system you're quoting.\n\nWorth knowing before you decide you're on the wrong street: many buildings don't display their number at street level, and businesses are often on the 3rd or 5th floor, listed only on a narrow vertical sign column by the entrance. Look up before you give up.\n\nKoreans giving directions to a friend or a delivery driver anchor everything to the nearest subway station exit number. Is there a city you've been to where the local landmark convention is that consistent?\n\n#KoreaTravel #TravelTips #Seoul #Korea",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697406262-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697406262-0.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697406262-1.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697406262-2.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697406262-3.jpg"
+    ],
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-09-18T15:02:02.888Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-18T02:11:40.932Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/38902917/pexels-photo-38902917.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35551373/pexels-photo-35551373.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8851664/pexels-photo-8851664.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19271534/pexels-photo-19271534.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19706252/pexels-photo-19706252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2016/07/19/3888-175500385_large.mp4",
+    "topic": "Why Google Maps fails in Korea and how the road-name address system actually works",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주소 체계(도로명·지번)와 지도 앱 활용이라는 주제에서 벗어나지 않고 문장도 완결돼 있으며, 검증 불가한 가격·운영시간 주장 없이 '한글 주소 복사·붙여넣기', '건물 층수 확인' 등 실용 정보를 담고 있어 그대로 발행 가능하다.",
+      "model": "claude",
+      "checkedAt": "2026-09-18T02:11:26.619Z"
+    },
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "210afd2c-5309-4f00-8678-66fa4a97553d",
+    "text": "Your map app keeps dropping you a block away from your destination in Seoul because Korea runs two address systems at the same time — road-name addresses, introduced in the 2010s, and the older lot-based jibun numbers that never really left.\n\n1. A modern Korean address reads as road name + building number + city district. The jibun version of the same place is still in circulation on older signage, at long-standing businesses, and with plenty of taxi drivers. Neither is wrong; they just don't line up. This is why copying the exact Korean-language address into your map app beats reading a romanized version aloud to anyone.\n\n2. Building numbers often aren't displayed anywhere obvious at street level, and the place you're looking for is frequently on the 3rd or 5th floor — the only evidence is a narrow vertical column of small signs beside the entrance. If you're standing where the pin says and see nothing, look up rather than walking on.\n\n3. When Koreans give directions to a friend or a delivery driver, they anchor to the nearest subway station exit number. It's the single most reliable landmark in any Korean city, and it's the format people actually expect to receive.\n\nNext time someone sends you a Korean address, ask them for the exit number too — that one extra line saves the twenty minutes of walking in a circle.\n\n(The government runs an English address lookup that shows both the road-name and jibun versions of any address, which is worth bookmarking before a trip.)",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697406262-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697406262-0.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697406262-1.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697406262-2.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697406262-3.jpg"
+    ],
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-09-18T17:01:37.946Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-18T02:11:40.938Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/38902917/pexels-photo-38902917.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35551373/pexels-photo-35551373.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8851664/pexels-photo-8851664.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19271534/pexels-photo-19271534.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19706252/pexels-photo-19706252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2016/07/19/3888-175500385_large.mp4",
+    "topic": "Why Google Maps fails in Korea and how the road-name address system actually works",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주소 체계(도로명·지번)와 지도 앱 활용이라는 주제에서 벗어나지 않고 문장도 완결돼 있으며, 검증 불가한 가격·운영시간 주장 없이 '한글 주소 복사·붙여넣기', '건물 층수 확인' 등 실용 정보를 담고 있어 그대로 발행 가능하다.",
+      "model": "claude",
+      "checkedAt": "2026-09-18T02:11:26.619Z"
+    },
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "f3ace32b-4fc4-484d-a0fc-dc9d88fd9c98",
+    "text": "Most first-timers plan the perfect subway route and still arrive in the wrong place. The station isn't the problem.\n\nBig Seoul stations can have a dozen or more exits spread across several blocks — wrong one, and you're walking ten minutes back underground.\n\nNaver and Kakao Map both name the exit you want, and many routes even tell you which car and door to board so you surface next to the stairs.\n\nFewer transfers usually beats a technically shorter route. Jongno 3-ga and Gongdeok transfers are long corridors, not a step across the platform.\n\nWhich exit has tricked you? I once came up on the wrong side of a road with no crosswalk in sight.\n\n📖 More on the blog — link in bio.",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697513596-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697513596-0.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697513596-1.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697513596-2.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697513596-3.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697513596-4.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-09-19T00:14:48.323Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-18T02:13:15.437Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/6672770/pexels-photo-6672770.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31872706/pexels-photo-31872706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31955769/pexels-photo-31955769.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31680676/pexels-photo-31680676.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://pixabay.com/get/g2a2bc69a7f4d686f1008a2bb4052067b35f941eeb928ebd807a66abfc4ae3aef957dd9413934a397412d3671d667dcc51b017fc793d66bc4db644d4bd80a1092_1280.jpg"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2017/01/20/7461-200336856_large.mp4",
+    "topic": "Seoul subway details nobody tells you: exit numbers, transfer walks, express trains, and the last train",
+    "qualityGate": {
+      "pass": true,
+      "reason": "출구 번호·환승 동선 등 주제 범위 내 내용으로 구성되고 문장이 자연스러우며, 앱 안내나 환승 통로 길이 등 사실 주장도 과장 없이 검증 가능한 수준이어서 실용성이 충분하다(급행·막차 언급은 빠졌으나 주제 이탈은 아님).",
+      "model": "claude",
+      "checkedAt": "2026-09-18T02:13:01.422Z"
+    }
+  },
+  {
+    "id": "55f896a9-bb97-4426-90bd-37bfb427cf1d",
+    "text": "Here's the part nobody warns you about: choosing the right subway exit matters more than choosing the right station — large Seoul stations have a dozen or more exits spread over several blocks 🚇\n\n1. Come up at the wrong exit and you can lose ten minutes walking back underground, or worse, standing across a major road with no crosswalk.\n2. Naver Map and Kakao Map both tell you which exit number to use. That line is easy to skim past, and it's the most useful line on the screen.\n3. Many routes also tell you which car and which door to board, so you step off right next to the transfer stairs.\n4. Not all transfers are equal. Some are a cross-platform step. Others — Jongno 3-ga, Gongdeok — mean long connecting corridors.\n5. So a route with fewer transfers often beats the one that looks faster on paper.\n\nQuick checklist before you tap out: exit number, car number, transfer count.\n\nWhich station's exits confused you the most on your first trip? Worth saving this one before your next ride.\n\n📖 More on the blog: https://landinkorea.com/index.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697513596-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697513596-0.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697513596-1.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697513596-2.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697513596-3.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697513596-4.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-09-19T00:22:59.696Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-18T02:13:15.443Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/6672770/pexels-photo-6672770.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31872706/pexels-photo-31872706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31955769/pexels-photo-31955769.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31680676/pexels-photo-31680676.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://pixabay.com/get/g2a2bc69a7f4d686f1008a2bb4052067b35f941eeb928ebd807a66abfc4ae3aef957dd9413934a397412d3671d667dcc51b017fc793d66bc4db644d4bd80a1092_1280.jpg"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2017/01/20/7461-200336856_large.mp4",
+    "topic": "Seoul subway details nobody tells you: exit numbers, transfer walks, express trains, and the last train",
+    "qualityGate": {
+      "pass": true,
+      "reason": "출구 번호·환승 동선 등 주제 범위 내 내용으로 구성되고 문장이 자연스러우며, 앱 안내나 환승 통로 길이 등 사실 주장도 과장 없이 검증 가능한 수준이어서 실용성이 충분하다(급행·막차 언급은 빠졌으나 주제 이탈은 아님).",
+      "model": "claude",
+      "checkedAt": "2026-09-18T02:13:01.422Z"
+    }
+  },
+  {
+    "id": "2b7d775d-2849-4955-bb3d-a7ce6560c4f8",
+    "text": "You got off at the right station. So why are you still ten minutes away? 🤔\n\nBecause the exit is the real decision. Big Seoul stations can have a dozen or more exits spread over several blocks — surface at the wrong one and you're hiking back underground, or stuck across a road with no crosswalk.\n\nNaver and Kakao Map both tell you the exit number. Many routes also tell you which car and door to board so you land right by the transfer stairs. And skip the \"shorter\" route with more transfers — Jongno 3-ga and Gongdeok mean long corridors, not a quick step across.\n\nSave this for the first morning you ride Line 2 in rush hour.\n\n📖 More tips on the blog — link in bio.\n\n#KoreaTravel #SeoulTrip #SeoulSubway #KoreaTravelTips #FirstTimeInKorea\n\n🎵 \"New pop song (instrumental)\" by Kate Orange is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+    "imageUrl": null,
+    "videoUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/videos/1789697591271-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-09-19T00:25:16.823Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-18T02:13:15.450Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/6672770/pexels-photo-6672770.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31872706/pexels-photo-31872706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31955769/pexels-photo-31955769.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31680676/pexels-photo-31680676.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://pixabay.com/get/g2a2bc69a7f4d686f1008a2bb4052067b35f941eeb928ebd807a66abfc4ae3aef957dd9413934a397412d3671d667dcc51b017fc793d66bc4db644d4bd80a1092_1280.jpg"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2017/01/20/7461-200336856_large.mp4",
+    "topic": "Seoul subway details nobody tells you: exit numbers, transfer walks, express trains, and the last train",
+    "qualityGate": {
+      "pass": true,
+      "reason": "출구 번호·환승 동선 등 주제 범위 내 내용으로 구성되고 문장이 자연스러우며, 앱 안내나 환승 통로 길이 등 사실 주장도 과장 없이 검증 가능한 수준이어서 실용성이 충분하다(급행·막차 언급은 빠졌으나 주제 이탈은 아님).",
+      "model": "claude",
+      "checkedAt": "2026-09-18T02:13:01.422Z"
+    }
+  },
+  {
+    "id": "9a8b4672-50cf-499f-b072-0ec9bd2fcf73",
+    "text": "Seoul subway exits explained: why the exit number matters more than the station. A practical guide for first-time visitors using Naver Map and Kakao Map to navigate the Seoul Metro.\n\n1. Large Seoul stations have a dozen or more exits spread across several blocks — the wrong exit can cost you a ten-minute walk back underground or a detour to find a crosswalk.\n2. Naver Map and Kakao Map both tell you the exit number, and many routes also tell you which train car and door to board so you arrive beside the transfer stairs.\n3. Transfers vary: some are a single step across the platform, while Jongno 3-ga and Gongdeok involve long corridors — so fewer transfers often beats a technically shorter route.\n\nRead the full Seoul subway guide, including express trains and last train timing: https://www.seoulmetro.co.kr/en/\n\nAlt text: Seoul subway station concourse with numbered exit signs in Korean and English, overlaid with the text \"Seoul Subway: pick the right exit, not just the right station.\"",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697513596-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697513596-0.jpg"
+    ],
+    "platforms": [
+      "pinterest"
+    ],
+    "scheduledAt": "2026-09-19T03:14:10.412Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-18T02:13:15.457Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/6672770/pexels-photo-6672770.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31872706/pexels-photo-31872706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31955769/pexels-photo-31955769.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31680676/pexels-photo-31680676.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://pixabay.com/get/g2a2bc69a7f4d686f1008a2bb4052067b35f941eeb928ebd807a66abfc4ae3aef957dd9413934a397412d3671d667dcc51b017fc793d66bc4db644d4bd80a1092_1280.jpg"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2017/01/20/7461-200336856_large.mp4",
+    "topic": "Seoul subway details nobody tells you: exit numbers, transfer walks, express trains, and the last train",
+    "qualityGate": {
+      "pass": true,
+      "reason": "출구 번호·환승 동선 등 주제 범위 내 내용으로 구성되고 문장이 자연스러우며, 앱 안내나 환승 통로 길이 등 사실 주장도 과장 없이 검증 가능한 수준이어서 실용성이 충분하다(급행·막차 언급은 빠졌으나 주제 이탈은 아님).",
+      "model": "claude",
+      "checkedAt": "2026-09-18T02:13:01.422Z"
+    },
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "a10f3761-513f-4734-a904-65158f585392",
+    "text": "The subway mistake that isn't about picking the wrong train, or even the wrong station.\n\nIt's the exit. Large Seoul stations have a dozen or more, spread over several blocks — come up at the wrong one and you're walking ten minutes back underground. #KoreaTravel\n\nNaver and Kakao Map both name the exit in your route, and many will tell you which car and door to board so you land next to the transfer stairs.\n\nTransfers are not equal. Jongno 3-ga and Gongdeok mean long corridors, so a route with fewer transfers often beats the one that looks shorter. #SeoulTrip\n\nAnyone actually use the car-and-door guidance, or do you just get on and hope?",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697513596-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697513596-0.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697513596-1.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697513596-2.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697513596-3.jpg"
+    ],
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-09-19T00:45:41.627Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-18T02:13:15.463Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/6672770/pexels-photo-6672770.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31872706/pexels-photo-31872706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31955769/pexels-photo-31955769.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31680676/pexels-photo-31680676.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://pixabay.com/get/g2a2bc69a7f4d686f1008a2bb4052067b35f941eeb928ebd807a66abfc4ae3aef957dd9413934a397412d3671d667dcc51b017fc793d66bc4db644d4bd80a1092_1280.jpg"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2017/01/20/7461-200336856_large.mp4",
+    "topic": "Seoul subway details nobody tells you: exit numbers, transfer walks, express trains, and the last train",
+    "qualityGate": {
+      "pass": true,
+      "reason": "출구 번호·환승 동선 등 주제 범위 내 내용으로 구성되고 문장이 자연스러우며, 앱 안내나 환승 통로 길이 등 사실 주장도 과장 없이 검증 가능한 수준이어서 실용성이 충분하다(급행·막차 언급은 빠졌으나 주제 이탈은 아님).",
+      "model": "claude",
+      "checkedAt": "2026-09-18T02:13:01.422Z"
+    },
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "bbf74909-6b78-437f-a237-b460dd5676a8",
+    "text": "There's a Seoul subway detail that trips up almost every visitor, and it has nothing to do with reading the line map.\n\nIt's the exit number. Large stations can have a dozen or more exits spread across several blocks, so surfacing at the wrong one often means a ten-minute walk back underground, or a hunt for a crosswalk on a road you can't cross.\n\nBoth Naver Map and Kakao Map tell you which exit your route needs, and many routes go further and tell you which train car and door to board so you step off beside the transfer stairs.\n\nWorth knowing: transfers vary enormously. Some are a step across the same platform. Jongno 3-ga and Gongdeok involve long connecting corridors, which is why a route with fewer transfers frequently beats one that's technically shorter.\n\nDo you route around a particular transfer station on purpose? I'd like to know which ones people have quietly written off.\n\n#KoreaTravel #TravelTips #Seoul #PublicTransport",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697513596-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697513596-0.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697513596-1.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697513596-2.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697513596-3.jpg"
+    ],
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-09-19T01:16:18.832Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-18T02:13:15.470Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/6672770/pexels-photo-6672770.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31872706/pexels-photo-31872706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31955769/pexels-photo-31955769.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31680676/pexels-photo-31680676.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://pixabay.com/get/g2a2bc69a7f4d686f1008a2bb4052067b35f941eeb928ebd807a66abfc4ae3aef957dd9413934a397412d3671d667dcc51b017fc793d66bc4db644d4bd80a1092_1280.jpg"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2017/01/20/7461-200336856_large.mp4",
+    "topic": "Seoul subway details nobody tells you: exit numbers, transfer walks, express trains, and the last train",
+    "qualityGate": {
+      "pass": true,
+      "reason": "출구 번호·환승 동선 등 주제 범위 내 내용으로 구성되고 문장이 자연스러우며, 앱 안내나 환승 통로 길이 등 사실 주장도 과장 없이 검증 가능한 수준이어서 실용성이 충분하다(급행·막차 언급은 빠졌으나 주제 이탈은 아님).",
+      "model": "claude",
+      "checkedAt": "2026-09-18T02:13:01.422Z"
+    },
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "a4217aac-c649-4841-8946-9a538a8ebcc1",
+    "text": "The thing nobody tells you about the Seoul subway is that the exit number matters more than the station — big stations have a dozen or more exits spread over several blocks, and the wrong one can mean a ten-minute walk back underground or a detour to find a crosswalk.\n\n1. Read the exit number in your route result. Naver Map and Kakao Map both give it to you, and it's the line people skim past fastest.\n\n2. Many routes also tell you which train car and which door to board, so you get off standing next to the transfer stairs instead of at the far end of the platform. Genuinely useful with a suitcase.\n\n3. Transfers are not interchangeable. Some are a single step across the platform. Jongno 3-ga and Gongdeok are long corridors — which is why a route with fewer transfers often beats the one that's technically shorter.\n\nRight station, wrong exit is the most common way to lose ten minutes in Seoul, and it's the easiest one to fix.",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697513596-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697513596-0.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697513596-1.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697513596-2.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789697513596-3.jpg"
+    ],
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-09-19T03:18:12.921Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-18T02:13:15.476Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/6672770/pexels-photo-6672770.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31872706/pexels-photo-31872706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31955769/pexels-photo-31955769.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31680676/pexels-photo-31680676.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://pixabay.com/get/g2a2bc69a7f4d686f1008a2bb4052067b35f941eeb928ebd807a66abfc4ae3aef957dd9413934a397412d3671d667dcc51b017fc793d66bc4db644d4bd80a1092_1280.jpg"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2017/01/20/7461-200336856_large.mp4",
+    "topic": "Seoul subway details nobody tells you: exit numbers, transfer walks, express trains, and the last train",
+    "qualityGate": {
+      "pass": true,
+      "reason": "출구 번호·환승 동선 등 주제 범위 내 내용으로 구성되고 문장이 자연스러우며, 앱 안내나 환승 통로 길이 등 사실 주장도 과장 없이 검증 가능한 수준이어서 실용성이 충분하다(급행·막차 언급은 빠졌으나 주제 이탈은 아님).",
+      "model": "claude",
+      "checkedAt": "2026-09-18T02:13:01.422Z"
+    },
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
   }
 ]
