@@ -1,7 +1,8 @@
 #!/usr/bin/env node
-// 1회성 회귀 확인: 검수/검증 하드 게이트(run.js의 claimDuePosts)가 실제로 approved:false
-// 또는 verifyStatus:'failed' 항목을 클레임하지 않는지 assert한다. data/queue.json을
-// 백업했다가 합성 항목 2개로 테스트한 뒤 원본으로 복원한다 — 실제 큐를 절대 건드리지 않는다.
+// 1회성 회귀 확인: 2026-09-18부로 verifyStatus 하드 게이트는 제거됐다(완전 자동 발행
+// 결정) — 남은 건 approved 게이트뿐이고, queue.js 기본값이 true라 사실상 항상 통과한다.
+// 이 스크립트는 approved:false만 여전히 클레임을 막는지 확인한다. data/queue.json을
+// 백업했다가 합성 항목으로 테스트한 뒤 원본으로 복원한다 — 실제 큐를 절대 건드리지 않는다.
 //
 // 실행: node scripts/test-claim-gate.js
 const fs = require('fs');
@@ -34,7 +35,7 @@ const main = () => {
     const checks = [
       [byId(approvedId).status === 'claimed', 'approved:true 항목은 claimed로 바뀌어야 함'],
       [byId(unapprovedId).status === 'pending', 'approved:false 항목은 pending에 그대로 남아야 함 (검수 게이트)'],
-      [byId(failedVerifyId).status === 'pending', "verifyStatus:'failed' 항목은 pending에 그대로 남아야 함 (검증 게이트)"]
+      [byId(failedVerifyId).status === 'claimed', "verifyStatus:'failed'여도 claimed로 바뀌어야 함 (검증 게이트 제거됨, 2026-09-18)"]
     ];
 
     const failed = checks.filter(([pass]) => !pass);
@@ -44,7 +45,7 @@ const main = () => {
       return;
     }
 
-    log.ok('검수/검증 하드 게이트 검증 통과 (approved / verifyStatus 모두 정상 차단).');
+    log.ok('claim 게이트 검증 통과 (approved만 차단, verifyStatus는 더 이상 차단하지 않음).');
   } finally {
     if (backup !== null) fs.writeFileSync(QUEUE_PATH, backup, 'utf8');
   }
