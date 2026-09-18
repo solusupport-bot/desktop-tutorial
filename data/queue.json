@@ -10997,7 +10997,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-18T14:04:41.348Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-18T02:11:40.906Z",
     "approved": true,
@@ -11029,7 +11029,7 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-18T14:12:49.790Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-18T02:11:40.913Z",
     "approved": true,
