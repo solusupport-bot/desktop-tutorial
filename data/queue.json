@@ -10657,8 +10657,12 @@
       "threads"
     ],
     "scheduledAt": "2026-09-18T03:15:56.948Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18127323133846107"
+      }
+    },
     "createdAt": "2026-09-18T02:10:02.999Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -10678,7 +10682,8 @@
       "reason": "문장은 자연스럽고 사실 주장도 무난하지만, 제목에서 예고한 세 축 중 공항 '모범택시(deluxe cab)' 관련 내용이 전혀 다뤄지지 않아 주제 커버리지가 불완전합니다.",
       "model": "claude",
       "checkedAt": "2026-09-18T02:09:09.335Z"
-    }
+    },
+    "processedAt": "2026-09-18T07:54:48.218Z"
   },
   {
     "id": "0e68c1c0-69b1-4d31-a0f7-810f6c89f175",
@@ -10695,8 +10700,13 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-18T03:22:44.152Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "1288453561012463_122114883213446391",
+        "post_supports_client_mutation_id": true
+      }
+    },
     "createdAt": "2026-09-18T02:10:03.005Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -10716,7 +10726,8 @@
       "reason": "문장은 자연스럽고 사실 주장도 무난하지만, 제목에서 예고한 세 축 중 공항 '모범택시(deluxe cab)' 관련 내용이 전혀 다뤄지지 않아 주제 커버리지가 불완전합니다.",
       "model": "claude",
       "checkedAt": "2026-09-18T02:09:09.335Z"
-    }
+    },
+    "processedAt": "2026-09-18T07:54:56.595Z"
   },
   {
     "id": "de869ae0-7306-48e1-9b0f-438fc383ddfe",
@@ -10727,8 +10738,12 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-18T03:27:19.624Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "18114265025089509"
+      }
+    },
     "createdAt": "2026-09-18T02:10:03.011Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -10748,7 +10763,8 @@
       "reason": "문장은 자연스럽고 사실 주장도 무난하지만, 제목에서 예고한 세 축 중 공항 '모범택시(deluxe cab)' 관련 내용이 전혀 다뤄지지 않아 주제 커버리지가 불완전합니다.",
       "model": "claude",
       "checkedAt": "2026-09-18T02:09:09.335Z"
-    }
+    },
+    "processedAt": "2026-09-18T07:55:51.783Z"
   },
   {
     "id": "550a5a79-4ce5-4de3-8b1c-563dccc383bb",
@@ -10761,8 +10777,12 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-18T06:17:44.473Z",
-    "status": "claimed",
-    "results": {},
+    "status": "partial",
+    "results": {
+      "pinterest": {
+        "error": "publish failed"
+      }
+    },
     "createdAt": "2026-09-18T02:10:03.017Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -10783,7 +10803,8 @@
       "model": "claude",
       "checkedAt": "2026-09-18T02:09:09.335Z"
     },
-    "blogUrl": "https://landinkorea.com/index.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-09-18T07:55:51.933Z"
   },
   {
     "id": "827a6c39-7d1d-4647-9a3e-407d1b67ca7f",
@@ -10799,8 +10820,13 @@
       "bluesky"
     ],
     "scheduledAt": "2026-09-18T03:43:25.644Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mvroxix3hm2f",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3mvroxix3hm2f"
+      }
+    },
     "createdAt": "2026-09-18T02:10:03.023Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -10821,7 +10847,8 @@
       "model": "claude",
       "checkedAt": "2026-09-18T02:09:09.335Z"
     },
-    "blogUrl": "https://landinkorea.com/index.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-09-18T07:55:58.240Z"
   },
   {
     "id": "8594bc51-6cdd-4f16-a624-6ace6850f8ed",
@@ -10837,8 +10864,13 @@
       "mastodon"
     ],
     "scheduledAt": "2026-09-18T04:17:12.807Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "mastodon": {
+        "id": "117290969654402833",
+        "url": "https://mastodon.social/@landinkorea/117290969654402833"
+      }
+    },
     "createdAt": "2026-09-18T02:10:03.029Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -10859,7 +10891,8 @@
       "model": "claude",
       "checkedAt": "2026-09-18T02:09:09.335Z"
     },
-    "blogUrl": "https://landinkorea.com/index.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-09-18T07:56:06.677Z"
   },
   {
     "id": "9817089f-2e98-4b46-b393-60f749c34629",
@@ -10875,8 +10908,13 @@
       "tumblr"
     ],
     "scheduledAt": "2026-09-18T06:17:28.966Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "tumblr": {
+        "id": "828079520123863040",
+        "url": "https://landinkorea.tumblr.com/post/828079520123863040"
+      }
+    },
     "createdAt": "2026-09-18T02:10:03.035Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -10897,7 +10935,8 @@
       "model": "claude",
       "checkedAt": "2026-09-18T02:09:09.335Z"
     },
-    "blogUrl": "https://landinkorea.com/index.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-09-18T07:56:10.600Z"
   },
   {
     "id": "ca9dda89-cfd1-4795-81e7-a3e1c40714c9",
