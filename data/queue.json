@@ -11074,8 +11074,12 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-18T16:59:46.556Z",
-    "status": "claimed",
-    "results": {},
+    "status": "partial",
+    "results": {
+      "pinterest": {
+        "error": "publish failed"
+      }
+    },
     "createdAt": "2026-09-18T02:11:40.919Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -11096,7 +11100,8 @@
       "model": "claude",
       "checkedAt": "2026-09-18T02:11:26.619Z"
     },
-    "blogUrl": "https://landinkorea.com/index.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-09-18T17:02:19.227Z"
   },
   {
     "id": "8b78feb4-a0b3-4e68-933d-74f949a9ba27",
@@ -11201,8 +11206,13 @@
       "tumblr"
     ],
     "scheduledAt": "2026-09-18T17:01:37.946Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "tumblr": {
+        "id": "828113885373579264",
+        "url": "https://landinkorea.tumblr.com/post/828113885373579264"
+      }
+    },
     "createdAt": "2026-09-18T02:11:40.938Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -11223,7 +11233,8 @@
       "model": "claude",
       "checkedAt": "2026-09-18T02:11:26.619Z"
     },
-    "blogUrl": "https://landinkorea.com/index.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-09-18T17:02:23.791Z"
   },
   {
     "id": "f3ace32b-4fc4-484d-a0fc-dc9d88fd9c98",
