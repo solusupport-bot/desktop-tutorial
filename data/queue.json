@@ -10954,8 +10954,12 @@
       "threads"
     ],
     "scheduledAt": "2026-09-18T14:00:45.108Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18461099194138666"
+      }
+    },
     "createdAt": "2026-09-18T02:11:40.900Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -10975,7 +10979,8 @@
       "reason": "주소 체계(도로명·지번)와 지도 앱 활용이라는 주제에서 벗어나지 않고 문장도 완결돼 있으며, 검증 불가한 가격·운영시간 주장 없이 '한글 주소 복사·붙여넣기', '건물 층수 확인' 등 실용 정보를 담고 있어 그대로 발행 가능하다.",
       "model": "claude",
       "checkedAt": "2026-09-18T02:11:26.619Z"
-    }
+    },
+    "processedAt": "2026-09-18T14:03:43.198Z"
   },
   {
     "id": "ad180c1c-978f-4b3a-bc83-5d6dbc33a045",
