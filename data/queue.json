@@ -11074,7 +11074,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-18T16:59:46.556Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-18T02:11:40.919Z",
     "approved": true,
@@ -11201,7 +11201,7 @@
       "tumblr"
     ],
     "scheduledAt": "2026-09-18T17:01:37.946Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-18T02:11:40.938Z",
     "approved": true,
