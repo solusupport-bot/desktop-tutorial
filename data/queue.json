@@ -11846,10 +11846,10 @@
       "threads"
     ],
     "scheduledAt": "2026-09-19T15:01:49.042Z",
-    "status": "claimed",
+    "status": "published",
     "results": {
       "threads": {
-        "error": "publish failed"
+        "id": "17994331719046372"
       }
     },
     "createdAt": "2026-09-19T04:31:31.695Z",
@@ -11872,7 +11872,7 @@
       "model": "claude",
       "checkedAt": "2026-09-19T04:31:09.211Z"
     },
-    "processedAt": "2026-09-19T15:03:02.614Z",
+    "processedAt": "2026-09-19T16:04:04.987Z",
     "retryCount": 1
   },
   {
@@ -11890,8 +11890,13 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-19T15:06:57.231Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "1288453561012463_122115426975446391",
+        "post_supports_client_mutation_id": true
+      }
+    },
     "createdAt": "2026-09-19T04:31:31.700Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -11911,7 +11916,8 @@
       "reason": "ARC·휴대폰 개설 순서라는 주제에 정확히 부합하고 문장이 완결·자연스러우며, 여권 전용 계좌의 송금 제한이나 본인 명의 번호 필요 등 검증 가능한 범위의 정보로 실용성이 있어 발행 가능하다(다만 도입부의 '거의 모든 신규 거주자'라는 표현은 다소 단정적).",
       "model": "claude",
       "checkedAt": "2026-09-19T04:31:09.211Z"
-    }
+    },
+    "processedAt": "2026-09-19T16:04:26.239Z"
   },
   {
     "id": "a3c01541-86dd-4c74-b17f-3ae864dd66f9",
@@ -11922,8 +11928,12 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-19T15:12:16.228Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "18143543827576376"
+      }
+    },
     "createdAt": "2026-09-19T04:31:31.704Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -11943,7 +11953,8 @@
       "reason": "ARC·휴대폰 개설 순서라는 주제에 정확히 부합하고 문장이 완결·자연스러우며, 여권 전용 계좌의 송금 제한이나 본인 명의 번호 필요 등 검증 가능한 범위의 정보로 실용성이 있어 발행 가능하다(다만 도입부의 '거의 모든 신규 거주자'라는 표현은 다소 단정적).",
       "model": "claude",
       "checkedAt": "2026-09-19T04:31:09.211Z"
-    }
+    },
+    "processedAt": "2026-09-19T16:04:54.482Z"
   },
   {
     "id": "cf3c4ea5-f0a8-46e1-b4d4-5139f5702d3f",
@@ -11994,8 +12005,13 @@
       "bluesky"
     ],
     "scheduledAt": "2026-09-19T15:27:56.235Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mvv2qworrk2v",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3mvv2qworrk2v"
+      }
+    },
     "createdAt": "2026-09-19T04:31:31.715Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -12016,7 +12032,8 @@
       "model": "claude",
       "checkedAt": "2026-09-19T04:31:09.211Z"
     },
-    "blogUrl": "https://landinkorea.com/index.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-09-19T16:05:00.925Z"
   },
   {
     "id": "a870273a-7fa0-4e96-918a-f71b1ac113b1",
@@ -12032,8 +12049,13 @@
       "mastodon"
     ],
     "scheduledAt": "2026-09-19T15:58:44.060Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "mastodon": {
+        "id": "117298556049866987",
+        "url": "https://mastodon.social/@landinkorea/117298556049866987"
+      }
+    },
     "createdAt": "2026-09-19T04:31:31.719Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -12054,7 +12076,8 @@
       "model": "claude",
       "checkedAt": "2026-09-19T04:31:09.211Z"
     },
-    "blogUrl": "https://landinkorea.com/index.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-09-19T16:05:29.326Z"
   },
   {
     "id": "5712f2e4-a838-4671-81d7-0901355a3b6a",
