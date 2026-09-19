@@ -11252,7 +11252,7 @@
       "threads"
     ],
     "scheduledAt": "2026-09-19T00:14:48.323Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-18T02:13:15.437Z",
     "approved": true,
@@ -11290,7 +11290,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-19T00:22:59.696Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-18T02:13:15.443Z",
     "approved": true,
@@ -11322,7 +11322,7 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-19T00:25:16.823Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-18T02:13:15.450Z",
     "approved": true,
@@ -11394,7 +11394,7 @@
       "bluesky"
     ],
     "scheduledAt": "2026-09-19T00:45:41.627Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-18T02:13:15.463Z",
     "approved": true,
