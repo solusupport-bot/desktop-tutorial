@@ -11846,8 +11846,12 @@
       "threads"
     ],
     "scheduledAt": "2026-09-19T15:01:49.042Z",
-    "status": "claimed",
-    "results": {},
+    "status": "partial",
+    "results": {
+      "threads": {
+        "error": "publish failed"
+      }
+    },
     "createdAt": "2026-09-19T04:31:31.695Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -11867,7 +11871,8 @@
       "reason": "ARC·휴대폰 개설 순서라는 주제에 정확히 부합하고 문장이 완결·자연스러우며, 여권 전용 계좌의 송금 제한이나 본인 명의 번호 필요 등 검증 가능한 범위의 정보로 실용성이 있어 발행 가능하다(다만 도입부의 '거의 모든 신규 거주자'라는 표현은 다소 단정적).",
       "model": "claude",
       "checkedAt": "2026-09-19T04:31:09.211Z"
-    }
+    },
+    "processedAt": "2026-09-19T15:03:02.614Z"
   },
   {
     "id": "a6ed81f1-423f-41f4-a4d0-9d129fae30d1",
