@@ -11669,7 +11669,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-19T07:33:31.034Z",
-    "status": "claimed",
+    "status": "partial",
     "results": {
       "pinterest": {
         "error": "publish failed"
@@ -11696,7 +11696,7 @@
       "checkedAt": "2026-09-19T04:29:10.687Z"
     },
     "blogUrl": "https://landinkorea.com/index.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
-    "processedAt": "2026-09-19T10:02:30.788Z",
+    "processedAt": "2026-09-19T10:46:48.322Z",
     "retryCount": 3
   },
   {
