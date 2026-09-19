@@ -11532,5 +11532,623 @@
     },
     "blogUrl": "https://landinkorea.com/index.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
     "processedAt": "2026-09-19T04:02:25.068Z"
+  },
+  {
+    "id": "23b67af9-3c48-4e47-b092-d138219eb393",
+    "text": "Foreigners in Korea lose more money at one table than on any flight, hotel or SIM card combined.\n\nJeonse means zero monthly rent — but you hand over one enormous lump-sum deposit, returned only when you move out.\n\nAfter signing, register the lease and your move-in date at your local district office. That's what gives your deposit priority.\n\nAlways read the property registry first: check for existing mortgages and that the landlord's name matches exactly.\n\nHas anyone here done jeonse or wolse as a foreign resident — did your agent actually explain the registry to you?\n\n📖 More on the blog — link in bio.",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789792071426-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789792071426-0.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789792071426-1.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789792071426-2.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789792071426-3.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789792071426-4.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-09-19T04:31:05.506Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-19T04:29:51.688Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/27976252/pexels-photo-27976252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36178449/pexels-photo-36178449.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33565059/pexels-photo-33565059.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7466708/pexels-photo-7466708.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31593695/pexels-photo-31593695.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/08/28/129455-744370687_large.mp4",
+    "topic": "Short-term vs. long-term housing in Korea: guesthouse, goshiwon, officetel, and the deposit system",
+    "qualityGate": {
+      "pass": false,
+      "reason": "주제의 핵심인 게스트하우스·고시원·오피스텔 등 단기/장기 숙소 비교가 전혀 없이 전세·보증금 절차로만 치우쳤고, 첫 문장의 '항공·호텔·유심을 합친 것보다 더 큰 손해'라는 근거 없는 과장 주장도 검증 불가하므로 수정이 필요합니다.",
+      "model": "claude",
+      "checkedAt": "2026-09-19T04:29:10.687Z"
+    }
+  },
+  {
+    "id": "b9df7c0d-cd85-4ab4-a778-e1ce69b34949",
+    "text": "Korea has a rental system where you pay zero monthly rent — jeonse — and the catch is that you hand the landlord one very large lump-sum deposit instead. 🏠\n\nHere's how housing actually works once you move past guesthouses and goshiwons:\n\n1. Wolse = monthly rent plus a security deposit (bojeunggeum). Even the \"normal\" option involves a deposit that feels huge by international standards.\n2. Jeonse = no monthly rent at all, but a very large deposit that comes back to you at the end of the lease.\n3. Because that money sits with the landlord, tenant protection is the whole game. Residents register the lease and their move-in date at the local district office to secure priority on the deposit.\n4. Before signing, it's standard to pull the property's registry document and look for existing mortgages on it.\n5. Agents charge a commission set by a legal scale based on the contract value, and both sides pay it.\n\nQuick checklist before you sign anything: licensed agent ✅ registry document checked ✅ landlord's name matches the registry ✅ lease and move-in date registered at the district office ✅\n\nJeonse deposit-return fraud has been a real, widely reported problem, which is why first-timers are pushed toward licensed agents. Save this one for the day your guesthouse stay turns into a lease — and if you've rented here already, what did nobody warn you about?\n\n📖 More on the blog: https://landinkorea.com/index.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789792071426-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789792071426-0.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789792071426-1.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789792071426-2.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789792071426-3.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789792071426-4.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-09-19T04:33:50.440Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-19T04:29:51.693Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/27976252/pexels-photo-27976252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36178449/pexels-photo-36178449.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33565059/pexels-photo-33565059.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7466708/pexels-photo-7466708.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31593695/pexels-photo-31593695.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/08/28/129455-744370687_large.mp4",
+    "topic": "Short-term vs. long-term housing in Korea: guesthouse, goshiwon, officetel, and the deposit system",
+    "qualityGate": {
+      "pass": false,
+      "reason": "주제의 핵심인 게스트하우스·고시원·오피스텔 등 단기/장기 숙소 비교가 전혀 없이 전세·보증금 절차로만 치우쳤고, 첫 문장의 '항공·호텔·유심을 합친 것보다 더 큰 손해'라는 근거 없는 과장 주장도 검증 불가하므로 수정이 필요합니다.",
+      "model": "claude",
+      "checkedAt": "2026-09-19T04:29:10.687Z"
+    }
+  },
+  {
+    "id": "52e39806-2192-481c-8221-bd2e6d6e71b5",
+    "text": "There's a way to rent in Korea with no monthly rent at all. Most people find out about the catch too late.\n\nIt's called jeonse: you pay zero rent each month, but you hand the landlord one very large deposit that's returned when you move out. The other option, wolse, is monthly rent plus a security deposit (bojeunggeum) — still a big lump sum by international standards.\n\nWhat protects that money: registering your lease and move-in date at the local district office, and checking the property's registry document for existing mortgages before you sign. Deposit-return fraud is a real, widely reported problem, so first-timers are told to use a licensed agent and confirm the landlord's name matches the registry.\n\nSave this before your first apartment viewing — you'll want it in your pocket at the signing table.\n\n📖 More tips on the blog — link in bio.\n\n#KoreaTravel #SeoulTrip #LivingInKorea #ExpatLife #KoreaHousing",
+    "imageUrl": null,
+    "videoUrl": "https://cdn.pixabay.com/video/2022/08/28/129455-744370687_large.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-09-19T04:40:02.285Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-19T04:29:51.697Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/27976252/pexels-photo-27976252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36178449/pexels-photo-36178449.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33565059/pexels-photo-33565059.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7466708/pexels-photo-7466708.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31593695/pexels-photo-31593695.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/08/28/129455-744370687_large.mp4",
+    "topic": "Short-term vs. long-term housing in Korea: guesthouse, goshiwon, officetel, and the deposit system",
+    "qualityGate": {
+      "pass": false,
+      "reason": "주제의 핵심인 게스트하우스·고시원·오피스텔 등 단기/장기 숙소 비교가 전혀 없이 전세·보증금 절차로만 치우쳤고, 첫 문장의 '항공·호텔·유심을 합친 것보다 더 큰 손해'라는 근거 없는 과장 주장도 검증 불가하므로 수정이 필요합니다.",
+      "model": "claude",
+      "checkedAt": "2026-09-19T04:29:10.687Z"
+    }
+  },
+  {
+    "id": "1ca130a2-4338-463e-b2cd-928c2a58132d",
+    "text": "Korean rental deposits explained: how jeonse and wolse actually work before you sign\n\nMoving to Korea and confused by guesthouses, goshiwons, officetels and the deposit system? Here's the practical version for foreign residents and long-stay visitors.\n\n1. Wolse = monthly rent plus a security deposit called bojeunggeum — typically a large lump sum by international standards.\n2. Jeonse = no monthly rent at all, but a very large deposit returned to you when the lease ends.\n3. Protect the money: register your lease and move-in date at your local district office for deposit priority, and check the property registry for existing mortgages before signing. Confirm the landlord's name matches the registry and use a licensed agent — deposit-return fraud is a widely reported problem. Agent commission follows a legal scale based on contract value and both sides pay.\n\nRead the full Korea housing guide on the blog: https://global.seoul.go.kr/\n\nAlt text: Infographic titled \"Jeonse vs Wolse: Korean rental deposits explained\" showing two labeled columns for monthly rent plus deposit and no rent with a large deposit, with a checklist for district office registration and registry document checks.",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789792071426-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789792071426-0.jpg"
+    ],
+    "platforms": [
+      "pinterest"
+    ],
+    "scheduledAt": "2026-09-19T07:33:31.034Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-19T04:29:51.701Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/27976252/pexels-photo-27976252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36178449/pexels-photo-36178449.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33565059/pexels-photo-33565059.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7466708/pexels-photo-7466708.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31593695/pexels-photo-31593695.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/08/28/129455-744370687_large.mp4",
+    "topic": "Short-term vs. long-term housing in Korea: guesthouse, goshiwon, officetel, and the deposit system",
+    "qualityGate": {
+      "pass": false,
+      "reason": "주제의 핵심인 게스트하우스·고시원·오피스텔 등 단기/장기 숙소 비교가 전혀 없이 전세·보증금 절차로만 치우쳤고, 첫 문장의 '항공·호텔·유심을 합친 것보다 더 큰 손해'라는 근거 없는 과장 주장도 검증 불가하므로 수정이 필요합니다.",
+      "model": "claude",
+      "checkedAt": "2026-09-19T04:29:10.687Z"
+    },
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "639d53b2-aba6-439c-b7da-48ada137ecec",
+    "text": "The costliest mistake new arrivals in Korea make happens at a signing table, not an airport counter.\n\nJeonse means you pay no monthly rent at all — instead you hand the landlord one very large deposit, returned at the end of the lease. Wolse is monthly rent plus a big deposit called bojeunggeum. #KoreaTravel\n\nAfter signing, you register the lease and your move-in date at the local district office. That registration is what gives your deposit legal priority.\n\nPull the property's registry document before you sign: check for existing mortgages and make sure the landlord's name matches. Deposit-return fraud here is well documented. #FirstTimeInKorea\n\nIf you've rented in Korea, did anyone actually walk you through the registry check, or did you have to find out on your own?",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789792071426-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789792071426-0.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789792071426-1.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789792071426-2.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789792071426-3.jpg"
+    ],
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-09-19T05:01:15.200Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-19T04:29:51.705Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/27976252/pexels-photo-27976252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36178449/pexels-photo-36178449.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33565059/pexels-photo-33565059.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7466708/pexels-photo-7466708.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31593695/pexels-photo-31593695.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/08/28/129455-744370687_large.mp4",
+    "topic": "Short-term vs. long-term housing in Korea: guesthouse, goshiwon, officetel, and the deposit system",
+    "qualityGate": {
+      "pass": false,
+      "reason": "주제의 핵심인 게스트하우스·고시원·오피스텔 등 단기/장기 숙소 비교가 전혀 없이 전세·보증금 절차로만 치우쳤고, 첫 문장의 '항공·호텔·유심을 합친 것보다 더 큰 손해'라는 근거 없는 과장 주장도 검증 불가하므로 수정이 필요합니다.",
+      "model": "claude",
+      "checkedAt": "2026-09-19T04:29:10.687Z"
+    },
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "6c430011-650f-43b6-b19f-ea6d9c2e344c",
+    "text": "There's a housing mistake in Korea that costs far more than any flight, SIM or hotel booking, and it happens in about twenty minutes at a desk.\n\nKorea has two lease systems. Wolse is monthly rent plus a security deposit (bojeunggeum), still a large lump sum by international standards. Jeonse is no monthly rent at all — instead you hand over a very large deposit that comes back when you move out.\n\nThe step that protects that money: residents register their lease and move-in date at the local district office, which secures priority on the deposit. It's a standard part of moving in, not an optional extra.\n\nBefore signing, check the property's registry document for existing mortgages and confirm the landlord's name matches it. Jeonse deposit-return fraud has been a real and widely reported problem, so first-time renters are usually advised to go through a licensed agent. Agent commission follows a legal scale based on contract value and both sides pay it.\n\nFor anyone who's rented here — was the registry check explained to you by your agent, or did you find out about it afterwards?\n\n#KoreaTravel #TravelTips #Seoul #ExpatLife",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789792071426-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789792071426-0.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789792071426-1.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789792071426-2.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789792071426-3.jpg"
+    ],
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-09-19T05:33:02.463Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-19T04:29:51.709Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/27976252/pexels-photo-27976252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36178449/pexels-photo-36178449.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33565059/pexels-photo-33565059.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7466708/pexels-photo-7466708.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31593695/pexels-photo-31593695.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/08/28/129455-744370687_large.mp4",
+    "topic": "Short-term vs. long-term housing in Korea: guesthouse, goshiwon, officetel, and the deposit system",
+    "qualityGate": {
+      "pass": false,
+      "reason": "주제의 핵심인 게스트하우스·고시원·오피스텔 등 단기/장기 숙소 비교가 전혀 없이 전세·보증금 절차로만 치우쳤고, 첫 문장의 '항공·호텔·유심을 합친 것보다 더 큰 손해'라는 근거 없는 과장 주장도 검증 불가하므로 수정이 필요합니다.",
+      "model": "claude",
+      "checkedAt": "2026-09-19T04:29:10.687Z"
+    },
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "4c319379-b9f4-49fd-8e2d-4be409a463ce",
+    "text": "Korea has a rental system called jeonse where you pay no monthly rent at all — the catch is you hand the landlord one very large lump-sum deposit and only get it back when you move out.\n\nIf you're past the guesthouse and goshiwon stage and looking at an actual lease, here's what matters:\n\n1. The two systems. Wolse is monthly rent plus a security deposit (bojeunggeum), which is still a big lump sum by international standards. Jeonse swaps the rent entirely for a much larger deposit that's returned at the end of the lease.\n\n2. The step that protects your money. Residents register the lease and their move-in date at the local district office. That registration is what secures priority on your deposit, and it's not something to leave for later.\n\n3. What to check before you sign. Pull the property's registry document and look for existing mortgages, and make sure the landlord's name matches the registry. Jeonse deposit-return fraud has been a real and widely reported problem, which is why first-time renters are steered toward licensed agents. Agent commission is set by a legal scale based on the contract value, and both sides pay it.\n\nThe rent number is the easy part — the deposit is the part worth an afternoon of homework.",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789792071426-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789792071426-0.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789792071426-1.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789792071426-2.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789792071426-3.jpg"
+    ],
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-09-19T07:31:09.370Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-19T04:29:51.713Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/27976252/pexels-photo-27976252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36178449/pexels-photo-36178449.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33565059/pexels-photo-33565059.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7466708/pexels-photo-7466708.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31593695/pexels-photo-31593695.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/08/28/129455-744370687_large.mp4",
+    "topic": "Short-term vs. long-term housing in Korea: guesthouse, goshiwon, officetel, and the deposit system",
+    "qualityGate": {
+      "pass": false,
+      "reason": "주제의 핵심인 게스트하우스·고시원·오피스텔 등 단기/장기 숙소 비교가 전혀 없이 전세·보증금 절차로만 치우쳤고, 첫 문장의 '항공·호텔·유심을 합친 것보다 더 큰 손해'라는 근거 없는 과장 주장도 검증 불가하므로 수정이 필요합니다.",
+      "model": "claude",
+      "checkedAt": "2026-09-19T04:29:10.687Z"
+    },
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "8708c7af-f458-463a-a93e-003647c1ebe7",
+    "text": "Almost every new resident in Korea does three things in the wrong order, and the bank quietly sends them home.\n\nBranches near university districts, industrial areas and central Seoul keep foreign-customer desks — staff there process this paperwork daily.\n\nSome banks will open a passport-only account before your ARC arrives, but it can cap transfers and block overseas remittance.\n\nOnline banking verification usually fails until you hold a Korean number in your own name. Phone first, then bank.\n\nWhich branch actually got you through it without a second trip?\n\n📖 More on the blog — link in bio.",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789792199737-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789792199737-0.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789792199737-1.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789792199737-2.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789792199737-3.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789792199737-4.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-09-19T15:01:49.042Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-19T04:31:31.695Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/38837814/pexels-photo-38837814.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/21011597/pexels-photo-21011597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31663856/pexels-photo-31663856.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31925308/pexels-photo-31925308.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://pixabay.com/get/gcd96ce64f752e8aef7fe4c41b9fe1683c6823eb7044d9413d1b9b190796e5ad0ab5f21af7c89e86d1bd121607dcb1d46e6e39962544b50f836dde4a746b0570d_1280.jpg"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/31525166/13437854_1080_1920_30fps.mp4",
+    "topic": "Opening a Korean bank account as a foreigner — and why your ARC and phone number come first",
+    "qualityGate": {
+      "pass": true,
+      "reason": "ARC·휴대폰 개설 순서라는 주제에 정확히 부합하고 문장이 완결·자연스러우며, 여권 전용 계좌의 송금 제한이나 본인 명의 번호 필요 등 검증 가능한 범위의 정보로 실용성이 있어 발행 가능하다(다만 도입부의 '거의 모든 신규 거주자'라는 표현은 다소 단정적).",
+      "model": "claude",
+      "checkedAt": "2026-09-19T04:31:09.211Z"
+    }
+  },
+  {
+    "id": "a6ed81f1-423f-41f4-a4d0-9d129fae30d1",
+    "text": "The reason your bank visit failed probably isn't the bank — it's the order: ARC first, then a Korean phone number in your own name, then the account. 🏦\n\n1. The Alien Registration Card is what unlocks a fully functional account. Without it, you're usually limited to a passport-only account.\n2. That passport-only option exists for short-term visitors and brand-new arrivals, but banks may cap transfers or block overseas remittance on it until your ARC lands.\n3. Online banking and identity verification lean on a Korean mobile number registered to you, not to a friend, not to your employer.\n4. Look for branches with a dedicated foreign-customer desk — they cluster near university districts, industrial areas, and central Seoul, and the staff handle this paperwork every single day.\n\nWhat to put in your bag before you go: passport, ARC (or the ARC application receipt), proof of address or employment, and your phone.\n\nSave this one for the week your ARC arrives. Did your branch ask for anything beyond that list?\n\n📖 More on the blog: https://landinkorea.com/index.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789792199737-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789792199737-0.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789792199737-1.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789792199737-2.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789792199737-3.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789792199737-4.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-09-19T15:06:57.231Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-19T04:31:31.700Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/38837814/pexels-photo-38837814.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/21011597/pexels-photo-21011597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31663856/pexels-photo-31663856.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31925308/pexels-photo-31925308.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://pixabay.com/get/gcd96ce64f752e8aef7fe4c41b9fe1683c6823eb7044d9413d1b9b190796e5ad0ab5f21af7c89e86d1bd121607dcb1d46e6e39962544b50f836dde4a746b0570d_1280.jpg"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/31525166/13437854_1080_1920_30fps.mp4",
+    "topic": "Opening a Korean bank account as a foreigner — and why your ARC and phone number come first",
+    "qualityGate": {
+      "pass": true,
+      "reason": "ARC·휴대폰 개설 순서라는 주제에 정확히 부합하고 문장이 완결·자연스러우며, 여권 전용 계좌의 송금 제한이나 본인 명의 번호 필요 등 검증 가능한 범위의 정보로 실용성이 있어 발행 가능하다(다만 도입부의 '거의 모든 신규 거주자'라는 표현은 다소 단정적).",
+      "model": "claude",
+      "checkedAt": "2026-09-19T04:31:09.211Z"
+    }
+  },
+  {
+    "id": "a3c01541-86dd-4c74-b17f-3ae864dd66f9",
+    "text": "Your Korean bank account keeps getting rejected — and it has nothing to do with your paperwork quality. 🏦\n\nIt's the order. ARC first, then a Korean phone number registered in your own name, then the account. Banks may open a passport-only account before your ARC arrives, but it can cap transfers and block overseas remittance entirely.\n\nHead for a branch with a foreign-customer desk — they cluster near university districts, industrial areas, and central Seoul, where staff run this process daily. Bring passport, ARC or ARC application receipt, proof of address or employment, and your phone.\n\nSave this for the week your ARC lands.\n\n📖 More tips on the blog — link in bio.\n\n#KoreaTravel #SeoulLife #LivingInKorea #ExpatKorea #MovingToKorea\n\n🎵 \"Secret in Their Eyes [rock/pop electro]\" by Capashen is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/fr/.",
+    "imageUrl": null,
+    "videoUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/videos/1789792281292-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-09-19T15:12:16.228Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-19T04:31:31.704Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/38837814/pexels-photo-38837814.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/21011597/pexels-photo-21011597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31663856/pexels-photo-31663856.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31925308/pexels-photo-31925308.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://pixabay.com/get/gcd96ce64f752e8aef7fe4c41b9fe1683c6823eb7044d9413d1b9b190796e5ad0ab5f21af7c89e86d1bd121607dcb1d46e6e39962544b50f836dde4a746b0570d_1280.jpg"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/31525166/13437854_1080_1920_30fps.mp4",
+    "topic": "Opening a Korean bank account as a foreigner — and why your ARC and phone number come first",
+    "qualityGate": {
+      "pass": true,
+      "reason": "ARC·휴대폰 개설 순서라는 주제에 정확히 부합하고 문장이 완결·자연스러우며, 여권 전용 계좌의 송금 제한이나 본인 명의 번호 필요 등 검증 가능한 범위의 정보로 실용성이 있어 발행 가능하다(다만 도입부의 '거의 모든 신규 거주자'라는 표현은 다소 단정적).",
+      "model": "claude",
+      "checkedAt": "2026-09-19T04:31:09.211Z"
+    }
+  },
+  {
+    "id": "cf3c4ea5-f0a8-46e1-b4d4-5139f5702d3f",
+    "text": "Opening a Korean bank account as a foreigner: the order that actually works\n\nMost new residents in South Korea get rejected at the counter because they try to open the account before the paperwork chain is complete. Here's the sequence for expats, exchange students, and English teachers in Seoul.\n\n1. Get your Alien Registration Card (ARC) first — a fully functional Korean bank account generally depends on it.\n2. Get a Korean phone number registered in your own name — online banking and identity verification steps usually fail without one.\n3. Go to a branch with a foreign-customer desk — they cluster near university districts, industrial areas, and central Seoul, where staff handle foreigner paperwork daily.\n\nNote: some banks open a limited passport-only account for short-term visitors, but it may cap transfers and block overseas remittance until your ARC arrives. Bring passport, ARC or ARC application receipt, proof of address or employment, and your phone.\n\nRead the full banking checklist on the blog: https://www.fss.or.kr/fss/eng/main/main.jsp\n\nAlt text: Infographic titled \"Korean bank account for foreigners\" showing a three-step order — ARC card, Korean phone number, then bank account — beside a Seoul bank branch counter.",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789792199737-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789792199737-0.jpg"
+    ],
+    "platforms": [
+      "pinterest"
+    ],
+    "scheduledAt": "2026-09-19T17:58:08.960Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-19T04:31:31.711Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/38837814/pexels-photo-38837814.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/21011597/pexels-photo-21011597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31663856/pexels-photo-31663856.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31925308/pexels-photo-31925308.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://pixabay.com/get/gcd96ce64f752e8aef7fe4c41b9fe1683c6823eb7044d9413d1b9b190796e5ad0ab5f21af7c89e86d1bd121607dcb1d46e6e39962544b50f836dde4a746b0570d_1280.jpg"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/31525166/13437854_1080_1920_30fps.mp4",
+    "topic": "Opening a Korean bank account as a foreigner — and why your ARC and phone number come first",
+    "qualityGate": {
+      "pass": true,
+      "reason": "ARC·휴대폰 개설 순서라는 주제에 정확히 부합하고 문장이 완결·자연스러우며, 여권 전용 계좌의 송금 제한이나 본인 명의 번호 필요 등 검증 가능한 범위의 정보로 실용성이 있어 발행 가능하다(다만 도입부의 '거의 모든 신규 거주자'라는 표현은 다소 단정적).",
+      "model": "claude",
+      "checkedAt": "2026-09-19T04:31:09.211Z"
+    },
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "96d33133-f79b-45a0-8d5d-724a7a1a2777",
+    "text": "There's a specific order to opening a Korean bank account, and getting it wrong is why people get turned away at the counter twice.\n\nARC first, then a Korean phone number in your own name, then the account. Branches with foreign-customer desks cluster near university districts, industrial areas, and central Seoul. #KoreaTravel\n\nBring everything at once: passport, ARC or the ARC application receipt, proof of address or employment, and your phone — verification often happens on the spot.\n\nA passport-only account is possible before the ARC arrives, but it may cap transfers and block overseas remittance entirely. Worth knowing before you rely on it. #FirstTimeInKorea\n\nDid your branch ask for anything that wasn't on the standard list?",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789792199737-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789792199737-0.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789792199737-1.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789792199737-2.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789792199737-3.jpg"
+    ],
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-09-19T15:27:56.235Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-19T04:31:31.715Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/38837814/pexels-photo-38837814.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/21011597/pexels-photo-21011597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31663856/pexels-photo-31663856.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31925308/pexels-photo-31925308.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://pixabay.com/get/gcd96ce64f752e8aef7fe4c41b9fe1683c6823eb7044d9413d1b9b190796e5ad0ab5f21af7c89e86d1bd121607dcb1d46e6e39962544b50f836dde4a746b0570d_1280.jpg"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/31525166/13437854_1080_1920_30fps.mp4",
+    "topic": "Opening a Korean bank account as a foreigner — and why your ARC and phone number come first",
+    "qualityGate": {
+      "pass": true,
+      "reason": "ARC·휴대폰 개설 순서라는 주제에 정확히 부합하고 문장이 완결·자연스러우며, 여권 전용 계좌의 송금 제한이나 본인 명의 번호 필요 등 검증 가능한 범위의 정보로 실용성이 있어 발행 가능하다(다만 도입부의 '거의 모든 신규 거주자'라는 표현은 다소 단정적).",
+      "model": "claude",
+      "checkedAt": "2026-09-19T04:31:09.211Z"
+    },
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "a870273a-7fa0-4e96-918a-f71b1ac113b1",
+    "text": "A sequencing problem trips up nearly every new foreign resident in Korea, and it has nothing to do with which bank you pick.\n\nThe order is: Alien Registration Card, then a Korean phone number registered in your own name, then the bank account. Online banking and identity verification generally won't complete without that number being yours.\n\nSeek out a branch with a dedicated foreign-customer desk — they're common near university districts, industrial areas, and central Seoul, and the staff there process this paperwork daily rather than occasionally. Bring passport, ARC or ARC application receipt, proof of address or employment, and your phone.\n\nSome banks will open a limited passport-only account for short-term visitors or new arrivals. Useful, but it may cap transfers and block overseas remittance until the ARC comes through, so don't plan a big money transfer around it.\n\nFor anyone who's done this recently — did the foreign-desk branch actually make a difference, or did you have the same experience anywhere?\n\n#KoreaTravel #TravelTips #Seoul #Korea",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789792199737-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789792199737-0.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789792199737-1.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789792199737-2.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789792199737-3.jpg"
+    ],
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-09-19T15:58:44.060Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-19T04:31:31.719Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/38837814/pexels-photo-38837814.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/21011597/pexels-photo-21011597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31663856/pexels-photo-31663856.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31925308/pexels-photo-31925308.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://pixabay.com/get/gcd96ce64f752e8aef7fe4c41b9fe1683c6823eb7044d9413d1b9b190796e5ad0ab5f21af7c89e86d1bd121607dcb1d46e6e39962544b50f836dde4a746b0570d_1280.jpg"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/31525166/13437854_1080_1920_30fps.mp4",
+    "topic": "Opening a Korean bank account as a foreigner — and why your ARC and phone number come first",
+    "qualityGate": {
+      "pass": true,
+      "reason": "ARC·휴대폰 개설 순서라는 주제에 정확히 부합하고 문장이 완결·자연스러우며, 여권 전용 계좌의 송금 제한이나 본인 명의 번호 필요 등 검증 가능한 범위의 정보로 실용성이 있어 발행 가능하다(다만 도입부의 '거의 모든 신규 거주자'라는 표현은 다소 단정적).",
+      "model": "claude",
+      "checkedAt": "2026-09-19T04:31:09.211Z"
+    },
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "5712f2e4-a838-4671-81d7-0901355a3b6a",
+    "text": "The reason your Korean bank account keeps getting refused is usually order of operations: you generally need the Alien Registration Card before a bank will open a fully functional account, and a Korean phone number in your own name before online banking and identity verification will actually work.\n\n1. ARC first. Some banks will open a limited passport-only account for short-term visitors or brand-new arrivals, and that's genuinely useful for receiving a salary — but it may cap transfers and block overseas remittance until the ARC arrives.\n\n2. Phone number second, and it has to be registered to you. A friend's line or a company line will cause verification failures down the road.\n\n3. Pick the branch, not just the bank. Locations with dedicated foreign-customer desks cluster near university districts, industrial areas, and central Seoul. The staff there run this process daily, which is the difference between a twenty-minute appointment and a second trip across the city.\n\nPack it all in one go: passport, ARC or the ARC application receipt, proof of address or employment, and your phone.\n\nIf you're arriving this year, screenshot the order — it's the part nobody tells you until you've already been sent home once.",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789792199737-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789792199737-0.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789792199737-1.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789792199737-2.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1789792199737-3.jpg"
+    ],
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-09-19T18:02:43.592Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-19T04:31:31.726Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/38837814/pexels-photo-38837814.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/21011597/pexels-photo-21011597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31663856/pexels-photo-31663856.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31925308/pexels-photo-31925308.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://pixabay.com/get/gcd96ce64f752e8aef7fe4c41b9fe1683c6823eb7044d9413d1b9b190796e5ad0ab5f21af7c89e86d1bd121607dcb1d46e6e39962544b50f836dde4a746b0570d_1280.jpg"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/31525166/13437854_1080_1920_30fps.mp4",
+    "topic": "Opening a Korean bank account as a foreigner — and why your ARC and phone number come first",
+    "qualityGate": {
+      "pass": true,
+      "reason": "ARC·휴대폰 개설 순서라는 주제에 정확히 부합하고 문장이 완결·자연스러우며, 여권 전용 계좌의 송금 제한이나 본인 명의 번호 필요 등 검증 가능한 범위의 정보로 실용성이 있어 발행 가능하다(다만 도입부의 '거의 모든 신규 거주자'라는 표현은 다소 단정적).",
+      "model": "claude",
+      "checkedAt": "2026-09-19T04:31:09.211Z"
+    },
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "6264998f-09f1-4c1d-9108-1ff84100198c",
+    "text": "Everyone warns you about this one thing in Korea — and it's mostly not true. 🍚\n\nEating alone is completely normal at gimbap and bunsik chains, kalguksu shops, sundubu jjigae places, donkatsu counters, mall food courts and highway rest stops. Many have counter seating. The kiosk has an English or Chinese language button. Water, side dishes and cutlery are self-serve near the door. Press the table call bell instead of waving, and at small places you pay at the counter on your way out.\n\nSave this before your first solo dinner — future you will be hungry and grateful.\n\n📖 More tips on the blog — link in bio.\n\n#KoreaTravel #SeoulTrip #Honbap #SoloTravel #KoreanFood",
+    "imageUrl": null,
+    "videoUrl": "https://videos.pexels.com/video-files/29896995/12833967_2160_3840_60fps.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-09-20T01:07:57.265Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-19T04:34:50.999Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/29896995/12833967_2160_3840_60fps.mp4",
+    "topic": "Eating alone in Korea: which restaurants refuse solo diners and where honbap works",
+    "qualityGate": {
+      "pass": false,
+      "reason": "문장 자체는 자연스럽고 혼밥 가능한 업종 정보는 유용하나, 주제의 핵심 절반인 '1인 손님을 받지 않는 식당(고기집·삼계탕 등 2인분 이상 주문 조건)'에 대한 내용이 전혀 없고, 첫 문장의 'Most first-timers skip dinner'는 근거 없는 과장된 일반화라 수정 후 발행이 필요합니다.",
+      "model": "claude",
+      "checkedAt": "2026-09-19T04:32:26.347Z"
+    }
+  },
+  {
+    "id": "9a3b6bb9-082e-4104-93aa-efcb0c0b6037",
+    "text": "The thing visitors dread most about eating in Korea alone turns out to be a non-issue at a specific set of restaurants.\n\nSix types are built around single portions: gimbap and bunsik chains, kalguksu shops, sundubu jjigae places, donkatsu counters, mall food courts, and highway rest stops. Many have counter seating. #KoreaTravel\n\nThe kiosk usually has an English or Chinese language button. Water, side dishes and cutlery are self-serve from a station or a fridge near the door.\n\nDon't wave for a server — press the call bell on the table. At smaller places you pay at the counter on the way out, not at your seat. #FirstTimeInKorea\n\nWhat put you off eating alone abroad — the ordering, the seating, or just the looks you imagined?",
+    "imageUrl": null,
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-09-20T01:26:46.865Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-19T04:34:51.004Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/29896995/12833967_2160_3840_60fps.mp4",
+    "topic": "Eating alone in Korea: which restaurants refuse solo diners and where honbap works",
+    "qualityGate": {
+      "pass": false,
+      "reason": "문장 자체는 자연스럽고 혼밥 가능한 업종 정보는 유용하나, 주제의 핵심 절반인 '1인 손님을 받지 않는 식당(고기집·삼계탕 등 2인분 이상 주문 조건)'에 대한 내용이 전혀 없고, 첫 문장의 'Most first-timers skip dinner'는 근거 없는 과장된 일반화라 수정 후 발행이 필요합니다.",
+      "model": "claude",
+      "checkedAt": "2026-09-19T04:32:26.347Z"
+    },
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "4d009f90-5639-4588-8c2a-74850c0d8479",
+    "text": "There's one fear that keeps visitors to Korea eating convenience store food for a week, and it's based on a misunderstanding.\n\nSolo dining is completely normal at gimbap and bunsik chains, kalguksu and noodle shops, sundubu jjigae places, donkatsu counters, department store and mall food courts, and highway rest stops. Six categories, all built around single portions, many with bar-style counter seating.\n\nOrdering is often done at a touchscreen kiosk with an English or Chinese language button. Water, side dishes and cutlery are usually self-serve from a station or a fridge near the entrance, so don't wait for someone to bring them.\n\nTables have a call bell — press it rather than calling out or waving. And at smaller restaurants you pay at the counter on the way out, not at your table. If you want to check ahead, Korean map app reviews often mention whether a place suits one person.\n\nWhat's the meal you'd most want to eat alone somewhere new, without anyone across the table?\n\n#KoreaTravel #TravelTips #Seoul #SoloTravel",
+    "imageUrl": null,
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-09-20T01:53:17.056Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-19T04:34:51.008Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/29896995/12833967_2160_3840_60fps.mp4",
+    "topic": "Eating alone in Korea: which restaurants refuse solo diners and where honbap works",
+    "qualityGate": {
+      "pass": false,
+      "reason": "문장 자체는 자연스럽고 혼밥 가능한 업종 정보는 유용하나, 주제의 핵심 절반인 '1인 손님을 받지 않는 식당(고기집·삼계탕 등 2인분 이상 주문 조건)'에 대한 내용이 전혀 없고, 첫 문장의 'Most first-timers skip dinner'는 근거 없는 과장된 일반화라 수정 후 발행이 필요합니다.",
+      "model": "claude",
+      "checkedAt": "2026-09-19T04:32:26.347Z"
+    },
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "7f91a46e-b3d9-45bc-b6cd-fd9323491573",
+    "text": "People assume Korean restaurants will turn a solo diner away, but there's a whole category of places — gimbap and bunsik chains, kalguksu shops, sundubu jjigae restaurants, donkatsu counters, department store and mall food courts, highway rest stops — that are built entirely around single portions, often with bar-style counter seating.\n\n1. You may not have to speak at all. Ordering is frequently done at a touchscreen kiosk, and those kiosks usually have an English or Chinese language button on screen.\n\n2. Nobody is coming to your table with water. Water, side dishes and cutlery are typically self-serve from a station or a fridge near the door — grab them yourself on the way to your seat.\n\n3. There's a button for that. Tables have a call bell you press instead of waving someone down, and at smaller restaurants you pay at the counter on your way out rather than at your table.\n\nIf you want to vet a place first, Korean map app reviews often say straight out whether it's comfortable for one person.",
+    "imageUrl": null,
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-09-20T03:53:28.729Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-19T04:34:51.013Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/29896995/12833967_2160_3840_60fps.mp4",
+    "topic": "Eating alone in Korea: which restaurants refuse solo diners and where honbap works",
+    "qualityGate": {
+      "pass": false,
+      "reason": "문장 자체는 자연스럽고 혼밥 가능한 업종 정보는 유용하나, 주제의 핵심 절반인 '1인 손님을 받지 않는 식당(고기집·삼계탕 등 2인분 이상 주문 조건)'에 대한 내용이 전혀 없고, 첫 문장의 'Most first-timers skip dinner'는 근거 없는 과장된 일반화라 수정 후 발행이 필요합니다.",
+      "model": "claude",
+      "checkedAt": "2026-09-19T04:32:26.347Z"
+    },
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
   }
 ]
