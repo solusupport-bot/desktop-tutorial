@@ -11252,8 +11252,12 @@
       "threads"
     ],
     "scheduledAt": "2026-09-19T00:14:48.323Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "17993215857043551"
+      }
+    },
     "createdAt": "2026-09-18T02:13:15.437Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -11273,7 +11277,8 @@
       "reason": "출구 번호·환승 동선 등 주제 범위 내 내용으로 구성되고 문장이 자연스러우며, 앱 안내나 환승 통로 길이 등 사실 주장도 과장 없이 검증 가능한 수준이어서 실용성이 충분하다(급행·막차 언급은 빠졌으나 주제 이탈은 아님).",
       "model": "claude",
       "checkedAt": "2026-09-18T02:13:01.422Z"
-    }
+    },
+    "processedAt": "2026-09-19T01:12:11.239Z"
   },
   {
     "id": "55f896a9-bb97-4426-90bd-37bfb427cf1d",
@@ -11290,8 +11295,13 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-19T00:22:59.696Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "1288453561012463_122115109719446391",
+        "post_supports_client_mutation_id": true
+      }
+    },
     "createdAt": "2026-09-18T02:13:15.443Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -11311,7 +11321,8 @@
       "reason": "출구 번호·환승 동선 등 주제 범위 내 내용으로 구성되고 문장이 자연스러우며, 앱 안내나 환승 통로 길이 등 사실 주장도 과장 없이 검증 가능한 수준이어서 실용성이 충분하다(급행·막차 언급은 빠졌으나 주제 이탈은 아님).",
       "model": "claude",
       "checkedAt": "2026-09-18T02:13:01.422Z"
-    }
+    },
+    "processedAt": "2026-09-19T01:12:24.061Z"
   },
   {
     "id": "2b7d775d-2849-4955-bb3d-a7ce6560c4f8",
@@ -11322,8 +11333,12 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-19T00:25:16.823Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "18103358570581678"
+      }
+    },
     "createdAt": "2026-09-18T02:13:15.450Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -11343,7 +11358,8 @@
       "reason": "출구 번호·환승 동선 등 주제 범위 내 내용으로 구성되고 문장이 자연스러우며, 앱 안내나 환승 통로 길이 등 사실 주장도 과장 없이 검증 가능한 수준이어서 실용성이 충분하다(급행·막차 언급은 빠졌으나 주제 이탈은 아님).",
       "model": "claude",
       "checkedAt": "2026-09-18T02:13:01.422Z"
-    }
+    },
+    "processedAt": "2026-09-19T01:12:57.293Z"
   },
   {
     "id": "9a8b4672-50cf-499f-b072-0ec9bd2fcf73",
@@ -11394,8 +11410,13 @@
       "bluesky"
     ],
     "scheduledAt": "2026-09-19T00:45:41.627Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mvtivxwklj2l",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3mvtivxwklj2l"
+      }
+    },
     "createdAt": "2026-09-18T02:13:15.463Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -11416,7 +11437,8 @@
       "model": "claude",
       "checkedAt": "2026-09-18T02:13:01.422Z"
     },
-    "blogUrl": "https://landinkorea.com/index.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-09-19T01:13:03.334Z"
   },
   {
     "id": "bbf74909-6b78-437f-a237-b460dd5676a8",
