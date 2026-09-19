@@ -11846,7 +11846,7 @@
       "threads"
     ],
     "scheduledAt": "2026-09-19T15:01:49.042Z",
-    "status": "partial",
+    "status": "claimed",
     "results": {
       "threads": {
         "error": "publish failed"
@@ -11872,7 +11872,8 @@
       "model": "claude",
       "checkedAt": "2026-09-19T04:31:09.211Z"
     },
-    "processedAt": "2026-09-19T15:03:02.614Z"
+    "processedAt": "2026-09-19T15:03:02.614Z",
+    "retryCount": 1
   },
   {
     "id": "a6ed81f1-423f-41f4-a4d0-9d129fae30d1",
@@ -11889,7 +11890,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-19T15:06:57.231Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-19T04:31:31.700Z",
     "approved": true,
@@ -11921,7 +11922,7 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-19T15:12:16.228Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-19T04:31:31.704Z",
     "approved": true,
@@ -11993,7 +11994,7 @@
       "bluesky"
     ],
     "scheduledAt": "2026-09-19T15:27:56.235Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-19T04:31:31.715Z",
     "approved": true,
@@ -12031,7 +12032,7 @@
       "mastodon"
     ],
     "scheduledAt": "2026-09-19T15:58:44.060Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-19T04:31:31.719Z",
     "approved": true,
