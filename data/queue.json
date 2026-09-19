@@ -11967,7 +11967,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-19T17:58:08.960Z",
-    "status": "partial",
+    "status": "claimed",
     "results": {
       "pinterest": {
         "error": "publish failed"
@@ -11994,7 +11994,8 @@
       "checkedAt": "2026-09-19T04:31:09.211Z"
     },
     "blogUrl": "https://landinkorea.com/index.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
-    "processedAt": "2026-09-19T18:02:35.912Z"
+    "processedAt": "2026-09-19T18:02:35.912Z",
+    "retryCount": 1
   },
   {
     "id": "96d33133-f79b-45a0-8d5d-724a7a1a2777",
@@ -12098,7 +12099,7 @@
       "tumblr"
     ],
     "scheduledAt": "2026-09-19T18:02:43.592Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-19T04:31:31.726Z",
     "approved": true,
