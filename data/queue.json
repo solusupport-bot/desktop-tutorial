@@ -12138,7 +12138,7 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-20T01:07:57.265Z",
-    "status": "partial",
+    "status": "claimed",
     "results": {
       "instagram": {
         "error": "publish failed"
@@ -12159,7 +12159,7 @@
       "checkedAt": "2026-09-19T04:32:26.347Z"
     },
     "processedAt": "2026-09-20T03:02:40.668Z",
-    "retryCount": 1
+    "retryCount": 2
   },
   {
     "id": "9a3b6bb9-082e-4104-93aa-efcb0c0b6037",
@@ -12233,7 +12233,7 @@
       "tumblr"
     ],
     "scheduledAt": "2026-09-20T03:53:28.729Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-19T04:34:51.013Z",
     "approved": true,
@@ -12259,7 +12259,7 @@
       "bluesky"
     ],
     "scheduledAt": "2026-09-20T03:49:34.934Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-20T02:20:24.160Z",
     "approved": true,
