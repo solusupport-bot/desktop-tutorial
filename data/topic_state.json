@@ -1,5 +1,5 @@
 {
-  "lastIndex": 36,
+  "lastIndex": 39,
   "history": [
     {
       "index": 7,
@@ -450,6 +450,21 @@
       "index": 36,
       "topic": "Eating alone in Korea: which restaurants refuse solo diners and where honbap works",
       "at": "2026-09-19T04:31:31.728Z"
+    },
+    {
+      "index": 37,
+      "topic": "Food delivery apps in Korea: why signing up is harder than ordering",
+      "at": "2026-09-20T02:19:30.254Z"
+    },
+    {
+      "index": 38,
+      "topic": "Renting a car in Korea: when it's smart, when it's a waste, and what the rental desk will ask for",
+      "at": "2026-09-20T02:20:24.177Z"
+    },
+    {
+      "index": 39,
+      "topic": "Timing cherry blossoms and fall foliage in Korea without hitting peak crowds",
+      "at": "2026-09-20T02:21:22.663Z"
     }
   ],
   "recentImageUrls": [
@@ -864,7 +879,8 @@
     "https://cdn.pixabay.com/video/2017/01/20/7461-200336856_large.mp4",
     "https://cdn.pixabay.com/video/2022/08/28/129455-744370687_large.mp4",
     "https://videos.pexels.com/video-files/31525166/13437854_1080_1920_30fps.mp4",
-    "https://videos.pexels.com/video-files/29896995/12833967_2160_3840_60fps.mp4"
+    "https://videos.pexels.com/video-files/29896995/12833967_2160_3840_60fps.mp4",
+    "https://videos.pexels.com/video-files/32242955/13751101_2160_3840_60fps.mp4"
   ],
   "recentMusicUrls": [
     "https://prod-1.storage.jamendo.com/?trackid=20237&format=mp32",

@@ -12249,5 +12249,265 @@
       "checkedAt": "2026-09-19T04:32:26.347Z"
     },
     "blogUrl": "https://landinkorea.com/index.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "e4fe4dd9-3615-4ca7-81d3-a90ebf5d1595",
+    "text": "Food delivery in Korea is cheap and fast. Creating an account is the part that stops most newcomers cold.\n\nBaemin, Coupang Eats and Yogiyo generally require a Korean mobile number to verify you, and payment leans on Korean cards or wallets like Kakao Pay and Naver Pay. #KoreaTravel\n\nThe app interface may be in English, but the menus aren't. Holding a translation app over the screen is standard practice, not a hack.\n\nCheck the delivery fee and minimum order before confirming — both are set per restaurant. Choosing 포장 (takeout) often removes the fee completely. #FirstTimeInKorea\n\nHas anyone here had a foreign card accepted on one of the three, or is a local number still the only dependable route?",
+    "imageUrl": null,
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-09-20T03:49:34.934Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-20T02:20:24.160Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "topic": "Food delivery apps in Korea: why signing up is harder than ordering",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제인 한국 배달앱 가입 장벽(한국 휴대폰 번호 인증, 국내 카드·간편결제, 한국어 메뉴)에 정확히 부합하고 문장이 자연스럽게 완성돼 있으며, 가격·영업시간 같은 검증하기 어려운 구체적 수치 주장 없이 '일부 경우 외국 카드도 된다'처럼 여지를 두어 표현해 여행 정보로서 유용하다.",
+      "model": "claude",
+      "checkedAt": "2026-09-20T02:20:24.153Z"
+    },
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "c8682b21-8137-4ee1-b53e-a60a54d4f3b4",
+    "text": "Korean food delivery has a reputation for being effortless. The ordering is. The sign-up really isn't.\n\nThe three main apps — Baemin, Coupang Eats and Yogiyo — mostly want a Korean mobile number to verify your account, and payment typically runs through a Korean-issued card or a domestic wallet such as Kakao Pay or Naver Pay. Foreign cards do work in some cases.\n\nEven when the app interface is available in English, restaurant menus are usually still in Korean. Pointing a translation app at the screen is how a lot of people here order, residents included.\n\nOne thing worth checking before you confirm: delivery fees and minimum order amounts are set by each restaurant and shown at checkout. Selecting 포장 (takeout) instead of delivery often drops the fee entirely.\n\nIf you've lived in Korea without a local number, did you find a workable route into these apps, or did you just stick to walking in?\n\n#KoreaTravel #TravelTips #Seoul #Korea",
+    "imageUrl": null,
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-09-20T04:17:12.843Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-20T02:20:24.168Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "topic": "Food delivery apps in Korea: why signing up is harder than ordering",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제인 한국 배달앱 가입 장벽(한국 휴대폰 번호 인증, 국내 카드·간편결제, 한국어 메뉴)에 정확히 부합하고 문장이 자연스럽게 완성돼 있으며, 가격·영업시간 같은 검증하기 어려운 구체적 수치 주장 없이 '일부 경우 외국 카드도 된다'처럼 여지를 두어 표현해 여행 정보로서 유용하다.",
+      "model": "claude",
+      "checkedAt": "2026-09-20T02:20:24.153Z"
+    },
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "f3dddfc4-7063-45f0-a14f-ef66a4713bdb",
+    "text": "The hard part of Korean food delivery isn't the Korean menu — it's that Baemin, Coupang Eats and Yogiyo generally won't finish your signup without a Korean mobile number, so plenty of visitors stall before they ever see a restaurant listing.\n\n1. Verification and payment are the two gates. A Korean number gets you an account; a Korean-issued card or a domestic wallet like Kakao Pay or Naver Pay gets you through checkout. Foreign cards work in some cases, but it's not something to count on when you're hungry at midnight.\n\n2. English interface, Korean menus. Switching the app language changes the buttons, not the food. Most people — including long-term residents — just keep a translation app open and point it at the screen. It's normal, not a workaround.\n\n3. 포장 is the underrated option. Delivery fees and minimum order amounts are set per restaurant and displayed before you confirm, so you always see them. Choosing 포장 (takeout) instead of delivery often skips the fee entirely, which adds up fast if the place is around the corner anyway.\n\nThe food arrives fast and cheap once you're in — the whole battle is getting the account to exist.",
+    "imageUrl": null,
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-09-20T06:18:40.052Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-20T02:20:24.175Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "topic": "Food delivery apps in Korea: why signing up is harder than ordering",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제인 한국 배달앱 가입 장벽(한국 휴대폰 번호 인증, 국내 카드·간편결제, 한국어 메뉴)에 정확히 부합하고 문장이 자연스럽게 완성돼 있으며, 가격·영업시간 같은 검증하기 어려운 구체적 수치 주장 없이 '일부 경우 외국 카드도 된다'처럼 여지를 두어 표현해 여행 정보로서 유용하다.",
+      "model": "claude",
+      "checkedAt": "2026-09-20T02:20:24.153Z"
+    },
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "159bd4bb-85af-47dd-ac3b-1b7d749e65c3",
+    "text": "There's one document for renting a car in Korea that you cannot obtain after you arrive.\n\nIt's the International Driving Permit, issued at home before departure. Korea wants it presented with your original license and your passport — the IDP by itself isn't accepted. #KoreaTravel\n\nRental cars usually include a Hi-pass transponder, so expressway tolls bill automatically. And self-service pumps at gas stations cost less than the full-service side.\n\nGoogle Maps still can't give proper driving directions in Korea. Set up KakaoNavi, Naver Map or T-map before you leave the rental lot. Speed cameras are constant and drink-driving penalties are heavy. #FirstTimeInKorea\n\nIf you've driven here, was the rental worth it or would you take the KTX next time?",
+    "imageUrl": null,
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-09-20T16:18:46.955Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-20T02:21:22.647Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "topic": "Renting a car in Korea: when it's smart, when it's a waste, and what the rental desk will ask for",
+    "qualityGate": {
+      "pass": false,
+      "reason": "IDP·필요 서류와 내비게이션 안내는 정확하고 유용하나, 주제의 핵심인 '렌터카가 유리한 경우와 불필요한 경우'(when it's smart, when it's a waste) 판단 기준이 전혀 다루어지지 않아 주제 커버리지가 절반에 그치므로 보완 후 발행이 필요하다.",
+      "model": "claude",
+      "checkedAt": "2026-09-20T02:21:22.642Z"
+    },
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "bddcd1d2-5b5a-4f80-8b2b-ff8093021e36",
+    "text": "Most people researching a Korea road trip miss the one requirement they can't sort out after landing.\n\nIt's the International Driving Permit, issued in your home country before you leave. Korea requires it together with your original home license and your passport — the IDP on its own isn't valid, and not every country's license is covered by the driving conventions Korea recognizes.\n\nA few practical things nobody mentions: rental cars normally come with a Hi-pass transponder so expressway tolls are billed automatically, and gas stations have both full-service and cheaper self-service pumps. Rental desks also expect a credit card in the driver's name, plus minimum age and license-holding periods.\n\nWorth knowing before you pull out of the lot: Google Maps still can't give proper driving directions in Korea, so KakaoNavi, Naver Map and T-map are what everyone actually uses. Enforcement is automated and strict — speed cameras everywhere, low drink-driving limits, severe penalties.\n\nIf you've driven in Korea, did the rental earn its keep, or would you take the train and buses next time?\n\n#KoreaTravel #TravelTips #Seoul #Korea",
+    "imageUrl": null,
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-09-20T16:44:46.637Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-20T02:21:22.653Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "topic": "Renting a car in Korea: when it's smart, when it's a waste, and what the rental desk will ask for",
+    "qualityGate": {
+      "pass": false,
+      "reason": "IDP·필요 서류와 내비게이션 안내는 정확하고 유용하나, 주제의 핵심인 '렌터카가 유리한 경우와 불필요한 경우'(when it's smart, when it's a waste) 판단 기준이 전혀 다루어지지 않아 주제 커버리지가 절반에 그치므로 보완 후 발행이 필요하다.",
+      "model": "claude",
+      "checkedAt": "2026-09-20T02:21:22.642Z"
+    },
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "24530a4b-7fc0-4445-a851-c7d7aa5dc645",
+    "text": "If you want to rent a car in Korea, the International Driving Permit has to be issued in your home country before you fly — and it's only valid when shown together with your original home license and your passport.\n\n1. The IDP alone won't get you the keys. Rental desks want all three documents, plus a credit card in the driver's name, and they apply their own minimum age and minimum license-holding rules. Check first whether your country's license is even covered by the driving conventions Korea recognizes — not all are.\n\n2. Once you're driving, two small things save money and stress: rental cars normally come with a Hi-pass transponder so expressway tolls bill automatically, and gas stations have both full-service and self-service pumps, with self-service being the cheaper option.\n\n3. Navigation is not optional homework. Google Maps still can't give proper driving directions in Korea, so KakaoNavi, Naver Map or T-map is what you'll actually be using. Enforcement is automated and unforgiving — speed cameras are everywhere, and drink-driving limits are low with severe penalties attached.\n\nIn cities the subway wins outright; the rental only really pays off when you're heading somewhere the trains don't go.",
+    "imageUrl": null,
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-09-20T18:48:13.873Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-20T02:21:22.660Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "topic": "Renting a car in Korea: when it's smart, when it's a waste, and what the rental desk will ask for",
+    "qualityGate": {
+      "pass": false,
+      "reason": "IDP·필요 서류와 내비게이션 안내는 정확하고 유용하나, 주제의 핵심인 '렌터카가 유리한 경우와 불필요한 경우'(when it's smart, when it's a waste) 판단 기준이 전혀 다루어지지 않아 주제 커버리지가 절반에 그치므로 보완 후 발행이 필요하다.",
+      "model": "claude",
+      "checkedAt": "2026-09-20T02:21:22.642Z"
+    },
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "ca5f1b87-548c-4c21-b7e6-4fdbe1202dda",
+    "text": "You can book your Korea trip six months early and still miss the blossoms entirely.\n\nHere's why: the season travels. Cherry blossoms open in Jeju, Busan and Changwon around late March, then move north and reach Seoul in early April. Autumn goes the other way — Seoraksan in early-to-mid October, Seoul late October into early November, the southern provinces last.\n\nSo the fix is simple: pick your city by the calendar, not the calendar by your city. The Korea Meteorological Administration and weather companies publish bloom and foliage maps every year — check them a couple of weeks out, not months.\n\nSave this before you book flights.\n\n📖 More tips on the blog — link in bio.\n\n#KoreaTravel #SeoulTrip #CherryBlossomKorea #KoreaAutumn #TravelKorea",
+    "imageUrl": null,
+    "videoUrl": "https://videos.pexels.com/video-files/32242955/13751101_2160_3840_60fps.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-09-21T00:06:15.889Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-20T02:23:06.509Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/32242955/13751101_2160_3840_60fps.mp4",
+    "topic": "Timing cherry blossoms and fall foliage in Korea without hitting peak crowds",
+    "qualityGate": {
+      "pass": false,
+      "reason": "개화·단풍 시기 정보와 문장 완성도·사실성은 무난하나, 주제의 핵심 절반인 '피크 인파 회피(without hitting peak crowds)'에 대한 언급이 전혀 없고 '몇 주 전에 확인해 결정하라'는 조언은 성수기 항공·숙소 예약 현실과 충돌해 실용성이 떨어지므로 보완 후 발행이 필요합니다.",
+      "model": "claude",
+      "checkedAt": "2026-09-20T02:22:10.497Z"
+    }
+  },
+  {
+    "id": "bf371c8c-4f24-4937-9e82-88aa4238d10d",
+    "text": "A lot of people book Korea flights months out for blossom season and land three days after peak.\n\nThe seasons move. Cherry blossoms open in Jeju, Busan and Changwon around late March, then travel north and hit Seoul in early April. #KoreaTravel\n\nAutumn goes the other direction: Seoraksan in early-to-mid October, Seoul late October into early November, southern provinces after that.\n\nDon't plan off last year's peak dates. The Korea Meteorological Administration publishes bloom and foliage forecast maps each year — check two weeks out. #FirstTimeInKorea\n\nHas anyone actually planned a trip around those forecast maps? How close were they?",
+    "imageUrl": null,
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-09-21T00:24:38.910Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-20T02:23:06.516Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/32242955/13751101_2160_3840_60fps.mp4",
+    "topic": "Timing cherry blossoms and fall foliage in Korea without hitting peak crowds",
+    "qualityGate": {
+      "pass": false,
+      "reason": "개화·단풍 시기 정보와 문장 완성도·사실성은 무난하나, 주제의 핵심 절반인 '피크 인파 회피(without hitting peak crowds)'에 대한 언급이 전혀 없고 '몇 주 전에 확인해 결정하라'는 조언은 성수기 항공·숙소 예약 현실과 충돌해 실용성이 떨어지므로 보완 후 발행이 필요합니다.",
+      "model": "claude",
+      "checkedAt": "2026-09-20T02:22:10.497Z"
+    },
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "9a9a574e-5bcb-416e-ad33-ba471079c2f0",
+    "text": "There's a reason people fly to Korea specifically for cherry blossoms and still miss them.\n\nThe season isn't a date, it's a wave. Blossoms open in the far south first — Jeju, Busan, Changwon — around late March, then move north and usually reach Seoul in early April. Autumn does the reverse: Seoraksan in early-to-mid October, Seoul late October into early November, the southern provinces last.\n\nPractical version: match the city to your travel week rather than forcing your week onto one city. If you're locked into late March, head south. Early April, Seoul is fine.\n\nOne caution — don't plan off last year's peak dates. The Korea Meteorological Administration and several private weather companies publish bloom and foliage forecast maps each season, and they're worth checking a couple of weeks out rather than months ahead.\n\nIf you've used those forecast maps, how accurate did they turn out? Curious whether they're worth rearranging a trip around.\n\n#KoreaTravel #TravelTips #Seoul #Korea",
+    "imageUrl": null,
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-09-21T00:58:30.397Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-20T02:23:06.523Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/32242955/13751101_2160_3840_60fps.mp4",
+    "topic": "Timing cherry blossoms and fall foliage in Korea without hitting peak crowds",
+    "qualityGate": {
+      "pass": false,
+      "reason": "개화·단풍 시기 정보와 문장 완성도·사실성은 무난하나, 주제의 핵심 절반인 '피크 인파 회피(without hitting peak crowds)'에 대한 언급이 전혀 없고 '몇 주 전에 확인해 결정하라'는 조언은 성수기 항공·숙소 예약 현실과 충돌해 실용성이 떨어지므로 보완 후 발행이 필요합니다.",
+      "model": "claude",
+      "checkedAt": "2026-09-20T02:22:10.497Z"
+    },
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "844e1fcc-4aab-4eba-aca4-c3b7f5aaff8c",
+    "text": "People miss Korean cherry blossoms by a few days constantly, and it's because the season isn't a date — it moves north across the country, opening in Jeju, Busan and Changwon around late March and reaching Seoul in early April.\n\n1. Spring moves south to north. If your travel week is late March, go south. If it's early April, Seoul is the place. Same trip, different city, completely different outcome.\n\n2. Autumn runs backwards. Northern mountains like Seoraksan turn in early-to-mid October, Seoul lands roughly late October into early November, and the southern provinces finish after that.\n\n3. The forecast maps exist and are free. The Korea Meteorological Administration and several private weather companies publish bloom and foliage forecast maps each year. Checking them a couple of weeks out beats booking blind months ahead off last year's peak.\n\nPick the city to fit the week you're already flying, not the other way round.",
+    "imageUrl": null,
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-09-21T02:55:48.632Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-20T02:23:06.529Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/32242955/13751101_2160_3840_60fps.mp4",
+    "topic": "Timing cherry blossoms and fall foliage in Korea without hitting peak crowds",
+    "qualityGate": {
+      "pass": false,
+      "reason": "개화·단풍 시기 정보와 문장 완성도·사실성은 무난하나, 주제의 핵심 절반인 '피크 인파 회피(without hitting peak crowds)'에 대한 언급이 전혀 없고 '몇 주 전에 확인해 결정하라'는 조언은 성수기 항공·숙소 예약 현실과 충돌해 실용성이 떨어지므로 보완 후 발행이 필요합니다.",
+      "model": "claude",
+      "checkedAt": "2026-09-20T02:22:10.497Z"
+    },
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
   }
 ]
