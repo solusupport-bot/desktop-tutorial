@@ -12138,7 +12138,7 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-20T01:07:57.265Z",
-    "status": "partial",
+    "status": "claimed",
     "results": {
       "instagram": {
         "error": "publish failed"
@@ -12158,7 +12158,8 @@
       "model": "claude",
       "checkedAt": "2026-09-19T04:32:26.347Z"
     },
-    "processedAt": "2026-09-20T02:02:18.448Z"
+    "processedAt": "2026-09-20T02:02:18.448Z",
+    "retryCount": 1
   },
   {
     "id": "9a3b6bb9-082e-4104-93aa-efcb0c0b6037",
