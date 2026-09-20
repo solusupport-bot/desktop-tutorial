@@ -12138,8 +12138,12 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-20T01:07:57.265Z",
-    "status": "claimed",
-    "results": {},
+    "status": "partial",
+    "results": {
+      "instagram": {
+        "error": "publish failed"
+      }
+    },
     "createdAt": "2026-09-19T04:34:50.999Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -12153,7 +12157,8 @@
       "reason": "문장 자체는 자연스럽고 혼밥 가능한 업종 정보는 유용하나, 주제의 핵심 절반인 '1인 손님을 받지 않는 식당(고기집·삼계탕 등 2인분 이상 주문 조건)'에 대한 내용이 전혀 없고, 첫 문장의 'Most first-timers skip dinner'는 근거 없는 과장된 일반화라 수정 후 발행이 필요합니다.",
       "model": "claude",
       "checkedAt": "2026-09-19T04:32:26.347Z"
-    }
+    },
+    "processedAt": "2026-09-20T02:02:18.448Z"
   },
   {
     "id": "9a3b6bb9-082e-4104-93aa-efcb0c0b6037",
@@ -12163,8 +12168,13 @@
       "bluesky"
     ],
     "scheduledAt": "2026-09-20T01:26:46.865Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mvw44zs6gx2c",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3mvw44zs6gx2c"
+      }
+    },
     "createdAt": "2026-09-19T04:34:51.004Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -12179,7 +12189,8 @@
       "model": "claude",
       "checkedAt": "2026-09-19T04:32:26.347Z"
     },
-    "blogUrl": "https://landinkorea.com/index.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-09-20T02:02:19.642Z"
   },
   {
     "id": "4d009f90-5639-4588-8c2a-74850c0d8479",
@@ -12189,8 +12200,13 @@
       "mastodon"
     ],
     "scheduledAt": "2026-09-20T01:53:17.056Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "mastodon": {
+        "id": "117300903269115156",
+        "url": "https://mastodon.social/@landinkorea/117300903269115156"
+      }
+    },
     "createdAt": "2026-09-19T04:34:51.008Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -12205,7 +12221,8 @@
       "model": "claude",
       "checkedAt": "2026-09-19T04:32:26.347Z"
     },
-    "blogUrl": "https://landinkorea.com/index.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-09-20T02:02:21.293Z"
   },
   {
     "id": "7f91a46e-b3d9-45bc-b6cd-fd9323491573",
