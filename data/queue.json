@@ -12138,7 +12138,7 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-20T01:07:57.265Z",
-    "status": "partial",
+    "status": "claimed",
     "results": {
       "instagram": {
         "error": "publish failed"
@@ -12159,7 +12159,7 @@
       "checkedAt": "2026-09-19T04:32:26.347Z"
     },
     "processedAt": "2026-09-20T04:02:59.005Z",
-    "retryCount": 2
+    "retryCount": 3
   },
   {
     "id": "9a3b6bb9-082e-4104-93aa-efcb0c0b6037",
@@ -12297,7 +12297,7 @@
       "mastodon"
     ],
     "scheduledAt": "2026-09-20T04:17:12.843Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-20T02:20:24.168Z",
     "approved": true,
