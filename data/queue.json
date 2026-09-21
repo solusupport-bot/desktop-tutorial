@@ -12743,10 +12743,11 @@
       "mastodon"
     ],
     "scheduledAt": "2026-09-21T15:33:49.485Z",
-    "status": "claimed",
+    "status": "published",
     "results": {
       "mastodon": {
-        "error": "publish failed"
+        "id": "117310085748320960",
+        "url": "https://mastodon.social/@landinkorea/117310085748320960"
       }
     },
     "createdAt": "2026-09-21T02:21:51.047Z",
@@ -12764,7 +12765,7 @@
       "checkedAt": "2026-09-21T02:21:51.032Z"
     },
     "blogUrl": "https://landinkorea.com/index.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
-    "processedAt": "2026-09-21T16:02:48.919Z",
+    "processedAt": "2026-09-21T16:57:35.412Z",
     "retryCount": 1
   },
   {
