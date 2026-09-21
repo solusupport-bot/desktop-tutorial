@@ -12711,8 +12711,13 @@
       "bluesky"
     ],
     "scheduledAt": "2026-09-21T15:01:32.412Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mvzyrt5j6z2f",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3mvzyrt5j6z2f"
+      }
+    },
     "createdAt": "2026-09-21T02:21:51.038Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -12727,7 +12732,8 @@
       "model": "claude",
       "checkedAt": "2026-09-21T02:21:51.032Z"
     },
-    "blogUrl": "https://landinkorea.com/index.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-09-21T15:13:01.014Z"
   },
   {
     "id": "619a321c-a41d-486b-9a61-939e5c49592b",
