@@ -12711,7 +12711,7 @@
       "bluesky"
     ],
     "scheduledAt": "2026-09-21T15:01:32.412Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-21T02:21:51.038Z",
     "approved": true,
