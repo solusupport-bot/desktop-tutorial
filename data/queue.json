@@ -12585,7 +12585,7 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-21T04:10:26.695Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-21T02:21:14.409Z",
     "approved": true,
@@ -12610,7 +12610,7 @@
       "bluesky"
     ],
     "scheduledAt": "2026-09-21T04:26:11.470Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-21T02:21:14.417Z",
     "approved": true,
