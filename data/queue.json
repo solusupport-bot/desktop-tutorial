@@ -12458,8 +12458,12 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-21T00:06:15.889Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "18113449406321165"
+      }
+    },
     "createdAt": "2026-09-20T02:23:06.509Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -12473,7 +12477,8 @@
       "reason": "개화·단풍 시기 정보와 문장 완성도·사실성은 무난하나, 주제의 핵심 절반인 '피크 인파 회피(without hitting peak crowds)'에 대한 언급이 전혀 없고 '몇 주 전에 확인해 결정하라'는 조언은 성수기 항공·숙소 예약 현실과 충돌해 실용성이 떨어지므로 보완 후 발행이 필요합니다.",
       "model": "claude",
       "checkedAt": "2026-09-20T02:22:10.497Z"
-    }
+    },
+    "processedAt": "2026-09-21T01:03:46.314Z"
   },
   {
     "id": "bf371c8c-4f24-4937-9e82-88aa4238d10d",
@@ -12483,8 +12488,13 @@
       "bluesky"
     ],
     "scheduledAt": "2026-09-21T00:24:38.910Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mvyjdbqt6k2r",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3mvyjdbqt6k2r"
+      }
+    },
     "createdAt": "2026-09-20T02:23:06.516Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -12499,7 +12509,8 @@
       "model": "claude",
       "checkedAt": "2026-09-20T02:22:10.497Z"
     },
-    "blogUrl": "https://landinkorea.com/index.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-09-21T01:03:47.162Z"
   },
   {
     "id": "9a9a574e-5bcb-416e-ad33-ba471079c2f0",
@@ -12509,8 +12520,13 @@
       "mastodon"
     ],
     "scheduledAt": "2026-09-21T00:58:30.397Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "mastodon": {
+        "id": "117306335410675692",
+        "url": "https://mastodon.social/@landinkorea/117306335410675692"
+      }
+    },
     "createdAt": "2026-09-20T02:23:06.523Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -12525,7 +12541,8 @@
       "model": "claude",
       "checkedAt": "2026-09-20T02:22:10.497Z"
     },
-    "blogUrl": "https://landinkorea.com/index.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-09-21T01:03:49.617Z"
   },
   {
     "id": "844e1fcc-4aab-4eba-aca4-c3b7f5aaff8c",
