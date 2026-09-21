@@ -1,5 +1,5 @@
 {
-  "lastIndex": 39,
+  "lastIndex": 42,
   "history": [
     {
       "index": 7,
@@ -465,6 +465,21 @@
       "index": 39,
       "topic": "Timing cherry blossoms and fall foliage in Korea without hitting peak crowds",
       "at": "2026-09-20T02:21:22.663Z"
+    },
+    {
+      "index": 40,
+      "topic": "Learning to read Hangul in a weekend — and why romanized signs still confuse you",
+      "at": "2026-09-21T02:19:44.005Z"
+    },
+    {
+      "index": 41,
+      "topic": "Hospital vs. clinic vs. pharmacy in Korea: where to actually go when you get sick",
+      "at": "2026-09-21T02:21:14.435Z"
+    },
+    {
+      "index": 42,
+      "topic": "Cafes as workspaces in Korea: unspoken rules of study cafes, franchise chains, and 'no-laptop' signs",
+      "at": "2026-09-21T02:21:51.058Z"
     }
   ],
   "recentImageUrls": [
@@ -880,7 +895,8 @@
     "https://cdn.pixabay.com/video/2022/08/28/129455-744370687_large.mp4",
     "https://videos.pexels.com/video-files/31525166/13437854_1080_1920_30fps.mp4",
     "https://videos.pexels.com/video-files/29896995/12833967_2160_3840_60fps.mp4",
-    "https://videos.pexels.com/video-files/32242955/13751101_2160_3840_60fps.mp4"
+    "https://videos.pexels.com/video-files/32242955/13751101_2160_3840_60fps.mp4",
+    "https://cdn.pixabay.com/video/2024/04/29/209901_large.mp4"
   ],
   "recentMusicUrls": [
     "https://prod-1.storage.jamendo.com/?trackid=20237&format=mp32",
@@ -908,6 +924,7 @@
     "https://prod-1.storage.jamendo.com/?trackid=1015339&format=mp32",
     "https://prod-1.storage.jamendo.com/?trackid=695414&format=mp32",
     "https://prod-1.storage.jamendo.com/?trackid=1114668&format=mp32",
-    "https://prod-1.storage.jamendo.com/?trackid=769000&format=mp32"
+    "https://prod-1.storage.jamendo.com/?trackid=769000&format=mp32",
+    "https://prod-1.storage.jamendo.com/?trackid=131894&format=mp32"
   ]
 }
