@@ -12889,5 +12889,239 @@
       "checkedAt": "2026-09-21T02:21:51.659Z"
     },
     "blogUrl": "https://landinkorea.com/index.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "b5bb702a-fd16-4f13-99d0-a43bad1bee1c",
+    "text": "Most tourists get this wrong in their first hour.\n\nSeoul's city buses are color-coded and the colors actually mean something: blue buses run long trunk routes across the city, green buses are shorter neighborhood feeders connecting to subway stations, yellow buses circulate within a small downtown area, and red buses are wide-stop express routes out to Gyeonggi suburbs.\n\nRed buses cost noticeably more and sometimes require every passenger to be seated.\n\nOther cities use their own schemes — Busan, Daegu, and Incheon each have separate systems — so don't assume Seoul's colors apply nationwide.\n\nAnyone else lose money on this mistake?",
+    "imageUrl": null,
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-09-22T04:46:05.686Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-22T02:04:41.875Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "topic": "Bus travel inside Korean cities: color codes, tag-off transfers, and why you must flag the bus",
+    "qualityGate": {
+      "pass": false,
+      "reason": "검증 호출 실패: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfHf7Q4buaofedSDSQvU7\"}",
+      "model": "claude",
+      "checkedAt": "2026-09-22T02:04:41.871Z"
+    },
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "a3c46811-ea15-422f-8ba7-0f83725bae1b",
+    "text": "Most tourists get this wrong in their first hour.\n\nSeoul's city buses are color-coded and the colors actually mean something: blue buses run long trunk routes across the city, green buses are shorter neighborhood feeders connecting to subway stations, yellow buses circulate within a small downtown area, and red buses are wide-stop express routes out to Gyeonggi suburbs.\n\nRed buses cost noticeably more and sometimes require every passenger to be seated.\n\nOther cities use their own schemes — Busan, Daegu, and Incheon each have separate systems — so don't assume Seoul's colors apply nationwide.\n\nAnyone else lose money on this mistake?",
+    "imageUrl": null,
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-09-22T05:15:29.298Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-22T02:04:41.882Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "topic": "Bus travel inside Korean cities: color codes, tag-off transfers, and why you must flag the bus",
+    "qualityGate": {
+      "pass": false,
+      "reason": "검증 호출 실패: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfHf7Q4buaofedSDSQvU7\"}",
+      "model": "claude",
+      "checkedAt": "2026-09-22T02:04:41.871Z"
+    },
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "6d90973a-eaf7-4f9c-852d-e578e21eabab",
+    "text": "Seoul's city buses are color-coded and the colors actually mean something: blue buses run long trunk routes across the city, green buses are shorter neighborhood feeders connecting to subway stations, yellow buses circulate within a small downtown area, and red buses are wide-stop express routes out to Gyeonggi suburbs.\n\n1. Red buses cost noticeably more and sometimes require every passenger to be seated.\n2. Other cities use their own schemes — Busan, Daegu, and Incheon each have separate systems — so don't assume Seoul's colors apply nationwide.\n3. Checking the route number on a transit app before boarding is far more reliable than guessing by color alone.",
+    "imageUrl": null,
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-09-22T07:11:52.911Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-22T02:04:41.887Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "topic": "Bus travel inside Korean cities: color codes, tag-off transfers, and why you must flag the bus",
+    "qualityGate": {
+      "pass": false,
+      "reason": "검증 호출 실패: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfHf7Q4buaofedSDSQvU7\"}",
+      "model": "claude",
+      "checkedAt": "2026-09-22T02:04:41.871Z"
+    },
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "b3160927-57c7-4e58-bec5-5862a03ce0e3",
+    "text": "This mistake costs people real money — and they don't find out until it's too late.\n\nFor restaurants that don't take reservations, look for a tablet on a stand outside the door — usually Tabling or Catch Table Waiting.\n\nYou enter your party size and phone number, then get a text or app alert when your turn approaches, and you're free to wander nearby instead of standing in line.\n\nMissing your call usually means you're dropped and have to re-queue, so don't stray far.\n\nWhat would you add for someone landing tomorrow?",
+    "imageUrl": null,
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-09-22T13:49:23.655Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-22T02:04:46.903Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "topic": "Reserving restaurants and joining waitlists in Korea: Catch Table, Naver booking, and the Tabling tablet",
+    "qualityGate": {
+      "pass": false,
+      "reason": "검증 호출 실패: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfHf7mXBb44RZ38fkg6yz\"}",
+      "model": "claude",
+      "checkedAt": "2026-09-22T02:04:46.899Z"
+    },
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "72212749-2a6b-4f5a-ab2d-93149ae26d4a",
+    "text": "This mistake costs people real money — and they don't find out until it's too late.\n\nFor restaurants that don't take reservations, look for a tablet on a stand outside the door — usually Tabling or Catch Table Waiting.\n\nYou enter your party size and phone number, then get a text or app alert when your turn approaches, and you're free to wander nearby instead of standing in line.\n\nMissing your call usually means you're dropped and have to re-queue, so don't stray far.\n\nWhat would you add for someone landing tomorrow?",
+    "imageUrl": null,
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-09-22T14:20:16.192Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-22T02:04:46.909Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "topic": "Reserving restaurants and joining waitlists in Korea: Catch Table, Naver booking, and the Tabling tablet",
+    "qualityGate": {
+      "pass": false,
+      "reason": "검증 호출 실패: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfHf7mXBb44RZ38fkg6yz\"}",
+      "model": "claude",
+      "checkedAt": "2026-09-22T02:04:46.899Z"
+    },
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "da564ddc-ac25-4a32-b2d7-4c9850a611ee",
+    "text": "For restaurants that don't take reservations, look for a tablet on a stand outside the door — usually Tabling or Catch Table Waiting.\n\n1. You enter your party size and phone number, then get a text or app alert when your turn approaches, and you're free to wander nearby instead of standing in line.\n2. Missing your call usually means you're dropped and have to re-queue, so don't stray far.\n3. If you can't register a phone number, ask the staff to add you manually or check whether the tablet allows a walk-in list.",
+    "imageUrl": null,
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-09-22T16:20:50.945Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-22T02:04:46.913Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "topic": "Reserving restaurants and joining waitlists in Korea: Catch Table, Naver booking, and the Tabling tablet",
+    "qualityGate": {
+      "pass": false,
+      "reason": "검증 호출 실패: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfHf7mXBb44RZ38fkg6yz\"}",
+      "model": "claude",
+      "checkedAt": "2026-09-22T02:04:46.899Z"
+    },
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "586f0625-0c97-44c9-8e69-72641596010b",
+    "text": "Everyone assumes this works the same as back home. It doesn't.\n\nKTX gets all the attention, but Korea's slower trains are often the smarter choice for short hops.\n\nMugunghwa-ho is the cheapest and stops almost everywhere; ITX-Saemaeul and ITX-Cheongchun are mid-tier, faster, and still much cheaper than KTX.\n\nFor destinations like Chuncheon, Jeongdongjin, or towns along the Jungang line, KTX either doesn't go or doesn't save meaningful time once you factor in getting to the KTX station.\n\nWorth knowing before you land? Reply with what surprised you.",
+    "imageUrl": null,
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-09-23T03:24:04.080Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-22T02:04:47.531Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "topic": "Day-tripping from Seoul by regular train: Mugunghwa, ITX-Saemaeul, and the Gyeongui-Jungang line",
+    "qualityGate": {
+      "pass": false,
+      "reason": "검증 호출 실패: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfHf7p3zCqM6Haxs9NPk5\"}",
+      "model": "claude",
+      "checkedAt": "2026-09-22T02:04:47.526Z"
+    },
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "d4682c58-5c73-4979-b545-b9bbb23ef4b6",
+    "text": "Everyone assumes this works the same as back home. It doesn't.\n\nKTX gets all the attention, but Korea's slower trains are often the smarter choice for short hops.\n\nMugunghwa-ho is the cheapest and stops almost everywhere; ITX-Saemaeul and ITX-Cheongchun are mid-tier, faster, and still much cheaper than KTX.\n\nFor destinations like Chuncheon, Jeongdongjin, or towns along the Jungang line, KTX either doesn't go or doesn't save meaningful time once you factor in getting to the KTX station.\n\nWorth knowing before you land? Reply with what surprised you.",
+    "imageUrl": null,
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-09-23T03:55:03.920Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-22T02:04:47.535Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "topic": "Day-tripping from Seoul by regular train: Mugunghwa, ITX-Saemaeul, and the Gyeongui-Jungang line",
+    "qualityGate": {
+      "pass": false,
+      "reason": "검증 호출 실패: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfHf7p3zCqM6Haxs9NPk5\"}",
+      "model": "claude",
+      "checkedAt": "2026-09-22T02:04:47.526Z"
+    },
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "a7aaa5bb-0231-4e93-8d38-f56774174258",
+    "text": "KTX gets all the attention, but Korea's slower trains are often the smarter choice for short hops.\n\n1. Mugunghwa-ho is the cheapest and stops almost everywhere; ITX-Saemaeul and ITX-Cheongchun are mid-tier, faster, and still much cheaper than KTX.\n2. For destinations like Chuncheon, Jeongdongjin, or towns along the Jungang line, KTX either doesn't go or doesn't save meaningful time once you factor in getting to the KTX station.\n3. Tickets are booked on Korail's website or the Korail Talk app, and unlike KTX, these trains rarely sell out except around holidays.",
+    "imageUrl": null,
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-09-23T05:50:45.396Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-22T02:04:47.539Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "topic": "Day-tripping from Seoul by regular train: Mugunghwa, ITX-Saemaeul, and the Gyeongui-Jungang line",
+    "qualityGate": {
+      "pass": false,
+      "reason": "검증 호출 실패: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfHf7p3zCqM6Haxs9NPk5\"}",
+      "model": "claude",
+      "checkedAt": "2026-09-22T02:04:47.526Z"
+    },
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
   }
 ]
