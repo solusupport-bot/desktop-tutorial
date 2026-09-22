@@ -13226,8 +13226,12 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-22T03:25:07.946Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "18265283005305254"
+      }
+    },
     "createdAt": "2026-09-22T03:06:22.024Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -13247,7 +13251,8 @@
       "reason": "검증 호출 실패: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfHjkvWfy874xuqPtNfQF\"}",
       "model": "claude",
       "checkedAt": "2026-09-22T03:05:38.573Z"
-    }
+    },
+    "processedAt": "2026-09-22T03:27:00.029Z"
   },
   {
     "id": "ddc3aa90-a511-4824-a4cf-353fb21812f0",
