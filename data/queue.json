@@ -13145,8 +13145,12 @@
       "threads"
     ],
     "scheduledAt": "2026-09-22T03:13:20.058Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "17906999211487384"
+      }
+    },
     "createdAt": "2026-09-22T03:06:21.921Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -13166,7 +13170,8 @@
       "reason": "검증 호출 실패: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfHjkvWfy874xuqPtNfQF\"}",
       "model": "claude",
       "checkedAt": "2026-09-22T03:05:38.573Z"
-    }
+    },
+    "processedAt": "2026-09-22T03:20:25.604Z"
   },
   {
     "id": "eca9a75e-05a3-42da-98dd-d3d201995014",
@@ -13183,8 +13188,13 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-22T03:17:57.968Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "1288453561012463_122116390959446391",
+        "post_supports_client_mutation_id": true
+      }
+    },
     "createdAt": "2026-09-22T03:06:21.970Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -13204,7 +13214,8 @@
       "reason": "검증 호출 실패: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfHjkvWfy874xuqPtNfQF\"}",
       "model": "claude",
       "checkedAt": "2026-09-22T03:05:38.573Z"
-    }
+    },
+    "processedAt": "2026-09-22T03:20:41.983Z"
   },
   {
     "id": "02ebf006-e48e-4cae-b6aa-29e4056a151d",
