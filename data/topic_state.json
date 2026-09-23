@@ -1,5 +1,5 @@
 {
-  "lastIndex": 45,
+  "lastIndex": 48,
   "history": [
     {
       "index": 7,
@@ -495,6 +495,21 @@
       "index": 45,
       "topic": "Day-tripping from Seoul by regular train: Mugunghwa, ITX-Saemaeul, and the Gyeongui-Jungang line",
       "at": "2026-09-22T02:04:46.915Z"
+    },
+    {
+      "index": 46,
+      "topic": "Doing laundry in Korea: coin laundromats, the dryer problem, and neighborhood dry cleaners",
+      "at": "2026-09-23T02:16:08.417Z"
+    },
+    {
+      "index": 47,
+      "topic": "The closed-on-Monday trap: how Korean palaces and museums schedule their days off",
+      "at": "2026-09-23T02:16:14.893Z"
+    },
+    {
+      "index": 48,
+      "topic": "Hiking in Korea like a local: subway-accessible peaks, seasonal trail closures, and the gear culture",
+      "at": "2026-09-23T02:16:31.166Z"
     }
   ],
   "recentImageUrls": [
@@ -917,7 +932,8 @@
     "https://videos.pexels.com/video-files/29896995/12833967_2160_3840_60fps.mp4",
     "https://videos.pexels.com/video-files/32242955/13751101_2160_3840_60fps.mp4",
     "https://cdn.pixabay.com/video/2024/04/29/209901_large.mp4",
-    "https://cdn.pixabay.com/video/2022/12/13/142755-780943401_large.mp4"
+    "https://cdn.pixabay.com/video/2022/12/13/142755-780943401_large.mp4",
+    "https://videos.pexels.com/video-files/34921915/14792803_1080_1920_30fps.mp4"
   ],
   "recentMusicUrls": [
     "https://prod-1.storage.jamendo.com/?trackid=20237&format=mp32",
@@ -946,6 +962,7 @@
     "https://prod-1.storage.jamendo.com/?trackid=695414&format=mp32",
     "https://prod-1.storage.jamendo.com/?trackid=1114668&format=mp32",
     "https://prod-1.storage.jamendo.com/?trackid=769000&format=mp32",
-    "https://prod-1.storage.jamendo.com/?trackid=131894&format=mp32"
+    "https://prod-1.storage.jamendo.com/?trackid=131894&format=mp32",
+    "https://prod-1.storage.jamendo.com/?trackid=1375976&format=mp32"
   ]
 }
