@@ -13587,8 +13587,12 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-23T16:20:25.047Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "18090285005202045"
+      }
+    },
     "createdAt": "2026-09-23T02:16:31.136Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -13602,7 +13606,8 @@
       "reason": "검증 호출 실패: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfKZofHKMcvskyGFjSHn9\"}",
       "model": "claude",
       "checkedAt": "2026-09-23T02:16:18.460Z"
-    }
+    },
+    "processedAt": "2026-09-23T16:45:20.647Z"
   },
   {
     "id": "25cc8663-f03d-44b8-a484-d4b9b539cdc3",
@@ -13612,8 +13617,13 @@
       "bluesky"
     ],
     "scheduledAt": "2026-09-23T16:37:45.079Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mw76uryyq622",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3mw76uryyq622"
+      }
+    },
     "createdAt": "2026-09-23T02:16:31.146Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -13628,7 +13638,8 @@
       "model": "claude",
       "checkedAt": "2026-09-23T02:16:18.460Z"
     },
-    "blogUrl": "https://landinkorea.com/index.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-09-23T16:45:21.720Z"
   },
   {
     "id": "f499bfa5-871e-4049-9728-834aaa2dfbd8",
