@@ -13649,8 +13649,13 @@
       "mastodon"
     ],
     "scheduledAt": "2026-09-23T17:07:30.452Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "mastodon": {
+        "id": "117321496498853676",
+        "url": "https://mastodon.social/@landinkorea/117321496498853676"
+      }
+    },
     "createdAt": "2026-09-23T02:16:31.153Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -13665,7 +13670,8 @@
       "model": "claude",
       "checkedAt": "2026-09-23T02:16:18.460Z"
     },
-    "blogUrl": "https://landinkorea.com/index.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-09-23T17:19:29.421Z"
   },
   {
     "id": "d5bf709d-8301-4002-aa3a-551458945b1c",
