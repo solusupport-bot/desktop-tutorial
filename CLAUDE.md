@@ -13,8 +13,23 @@
   늘리지 마세요 — 없애면 새 주제를 여러 개 추가했을 때 하루에 몰아서 나가고 그 다음 며칠은
   하나도 안 나가는 불규칙한 패턴으로 되돌아갑니다.
 - 이 스크립트는 `korea_travel.js`(SOURCES)에서 **아직 블로그 글로 안 나간 주제**를 하나씩 꺼내
-  씁니다 — 즉 "재고"가 있어야 매일 발행이 유지됩니다. 재고가 `LOW_BACKLOG_WARNING_THRESHOLD`(3건)
-  밑으로 떨어지면 daily-topic.yml 로그에 경고가 뜹니다.
+  씁니다. **"재고" = 주제 수가 아니라 `data/blog_content_queue.json`에 품질 게이트를 통과한 사전
+  작성 글이 준비된 주제 수**입니다(2026-09-23 변경). 3건 밑으로 떨어지면 로그에 경고가 뜹니다.
+- **발행 전 하드 게이트 2단계 (2026-09-23, 템플릿 폴백 삭제):**
+  1. `lib/publishing/blog_quality.js` — 800단어 이상, 제목 50~60자, 설명 120~160자, ## 3개 이상,
+     FAQ 정확히 3개, 틀 제목 금지. (SEO_ADSENSE_CHECKLIST.md 기준을 코드로 강제)
+  2. 같은 파일의 `checkReviews()` — **독립 검수 2회** (2026-09-23 사용자 지시). 큐 항목의 `reviews`
+     배열에 서로 다른 검수자 2명이 `pass:true`로, **현재 내용의 해시(`contentHash`)**와 함께 남긴
+     기록이 있어야 한다. 검수 뒤 한 글자라도 고치면 해시가 달라져 재검수가 필요하다.
+  - 자동 실행(CI)은 글을 쓰지도, API로 검증하지도 않는다 — Claude/GPT 호출 경로 없음. 글 작성과
+    검수는 Claude Code 세션에서 한다: 작성 → 검수자 A(사실 확인, 웹 출처 대조) + 검수자 B(품질·기존 글
+    중복), 둘 다 작성자보다 상위 모델(Fable) 서브에이전트 → 둘 다 통과한 글만 해시를 찍어 큐에 넣는다.
+  - 어느 하나라도 불합격이면 그 주제는 건너뛰고, 하루 발행 0건이면 워크플로가 빨간불이 된다. 배경:
+    Anthropic 크레딧 소진으로 Claude 생성이 실패하자 템플릿 폴백이 237~290단어 글을 매일 "성공"으로
+    발행했음. **폴백 경로를 다시 만들지 말 것** — 얇은 글 1편보다 발행 안 한 하루가 애드센스에 덜 해롭다.
+  - 게이트 자체 테스트: `node lib/publishing/blog_quality.check.js`
+  - 제목에 콜론(:) 금지 — `buildMarkdown`이 ` -`로 바꿔 어색해진다. 내부 링크는
+    `https://landinkorea.com/posts/<실제 존재하는 slug>.html` 절대경로로.
 - **재고가 3건 이하로 떨어진 걸 발견하면, 사용자에게 물어보지 말고 그 자리에서 바로 새 주제를
   써서 채울 것** (2026-09-11 사용자 명시 지시: "재고 3건이하로 떨어지면 너가 물어보지말고 그냥
   발행해서 채워"). "다음에 할까요?", "몇 개 추가할까요?" 같은 확인 질문 없이 바로 진행 — 이건
@@ -133,11 +148,9 @@ agent-reach install --env=auto --system --channels=<channel_name>
 
 **블로그 글도 SNS 캡션과 완전히 똑같은 원칙을 따른다.** 별도 저장소(`land-in-korea-blog`)라고 예외를 두지 않는다.
 
-- **자동화 실행 중 유료 API 호출 금지**: `daily-topic.yml`의 블로그 글 작성 단계(`scripts/sync-blog-posts.js`)는
-  `ANTHROPIC_API_KEY` 없이 돈다. 우선순위는 SNS 캡션과 동일하게 (1) `data/blog_content_queue.json`에
-  미리 써둔 글 → (2) 무료 규칙 기반 템플릿(`buildFallbackPost`) 순이다 (`lib/scheduler/prewritten_content.js`
-  의 `blogContentQueue` 참고). 새 주제가 추가돼 블로그 글이 필요해지면, Claude Code 세션(API 과금 없는
-  경로)에서 미리 써서 큐에 채워두는 걸 SNS 캡션 사전작성과 동일하게 우선한다.
+- **글 공급 경로는 하나뿐**: `data/blog_content_queue.json`에 Claude Code 세션(API 과금 없는 경로)에서
+  미리 써서 검수 2회를 통과시킨 글. CI의 Claude 실시간 작성·GPT 검증·템플릿 폴백은 2026-09-23 전부
+  삭제됨(위 📰 섹션 하드 게이트 참고).
 - **사실 근거 원칙도 동일**: "다른 계정 댓글 자동 답장" 규칙(아래 섹션)과 마찬가지로, 블로그 글도
   `lib/ingestion/korea_travel.js`에 있는 실제 facts만 근거로 쓰고 지어내지 않는다.
 - 이 규칙은 SNS 자동화 쪽에서 지출 이중화 문제를 해결한 것과 정확히 같은 이유(자동 실행 중 예상 못 한
@@ -196,8 +209,8 @@ agent-reach install --env=auto --system --channels=<channel_name>
   캡션을 생성하도록 맞춰져 있음 — 새 캡션을 손으로 미리 쓸 때도 이 구조(훅/관찰1/
   관찰2/주의사항/질문, 각각 빈 줄로 구분)를 따를 것.
 - **블로그 = 본문 끝에 FAQ(Q&A 3개) 섹션 필수.** 애드센스 승인에 실질적 콘텐츠로
-  도움이 된다는 이유. `scripts/sync-blog-posts.js`가 Claude 실시간 호출이든 무료
-  템플릿 폴백이든 항상 `faq` 필드(질문/답변 3쌍)를 만들어 "## Frequently Asked
+  도움이 된다는 이유. `scripts/sync-blog-posts.js`는 사전 작성 큐 항목에
+  `faq` 필드(질문/답변 3쌍)가 없으면 품질 게이트에서 막고, 있으면 "## Frequently Asked
   Questions" 섹션으로 렌더링한다. 새 사실을 지어내지 않고 이미 검증된 본문 내용만
   답변으로 재사용할 것 — land-in-korea-blog 저장소의 기존 20개 글에도 이미 소급 적용됨.
 

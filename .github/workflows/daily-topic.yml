@@ -64,11 +64,12 @@ jobs:
         run: node scripts/daily-auto-post.js
 
       - name: Write blog posts for any SNS topic that doesn't have one yet
-        # 위와 같은 이유로 ANTHROPIC_API_KEY 추가(2026-09-17) — 캐시에 없는
-        # 블로그 글도 이제 템플릿 대신 Claude가 실시간으로 작성한다.
+        # 독립 검수 2회를 통과한 사전 작성 큐만 발행 — API 호출 없음. 없거나 품질 게이트
+        # (blog_quality.js) 미달이면 발행하지 않고 실패한다. 뒤의 커밋 스텝은 돌아야 하므로 여기선 넘기고, 맨 끝에서 빨간불을 낸다.
+        id: blog
+        continue-on-error: true
         env:
           BLOG_REPO_PAT: ${{ secrets.BLOG_REPO_PAT }}
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: node scripts/sync-blog-posts.js
 
       - name: Commit queued post and topic state
@@ -99,3 +100,11 @@ jobs:
         # 처음 돌렸을 때 기존 주제 하나가 이미 이 상태였던 걸 발견해서 고쳤다.
         continue-on-error: true
         run: node scripts/verify-topic-media-alignment.js
+
+      - name: Fail run if today's blog post was blocked
+        # 2026-09-23: 크레딧 소진으로 얇은 글이 5일간 나가는 동안 워크플로는 계속 초록불이었다.
+        # 막힌 날은 반드시 빨간불(=GitHub 실패 메일)이 되도록 한다.
+        if: steps.blog.outcome == 'failure'
+        run: |
+          echo "::error::블로그 글 발행이 막혔습니다 — 위 'Write blog posts' 로그 확인 (사전 작성 큐 부족 또는 품질 미달)."
+          exit 1
