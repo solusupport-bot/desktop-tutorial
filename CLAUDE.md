@@ -40,6 +40,13 @@
   동일한 순서로 이미지 검색어 2개(콘텐츠 각도와 1:1 대응, 한국 신호 포함)를 함께 추가해야 합니다
   — 둘 중 하나만 추가하면 `scripts/verify-topic-media-alignment.js`가 정렬 불일치로 잡아냅니다.
   추가 후 `node scripts/verify-topic-media-alignment.js`로 검증할 것.
+- **시즌 주제 (2026-09-24 사용자 지시: "추석이니까 추석 문구, 그달 행사를 찾아서 주제 선정")**:
+  주제를 채울 때마다 이번 달·다음 달 명절/축제를 웹에서 확인해(날짜는 매년 바뀜 — 예: 2026 서울
+  불꽃축제는 9/5로 당겨짐) 해당 주제를 `topic_bank.json`에 `season: { "from": "YYYY-MM-DD",
+  "to": "YYYY-MM-DD" }`(KST)와 함께 추가한다. 기간 안에서는 가장 먼저 뽑히고 기간 밖이면 로테이션에서
+  빠진다(`topic_rotation.js`의 `rankByLeastRecentlyUsed`). 명절 캡션에는 인사말(예: "Chuseok jal
+  bonaeseyo")을 넣는다. 주제를 끼워 넣으면 이후 seed가 밀리므로 `sns_content_queue.json`의 미래
+  캡션을 주제 기준으로 새 seed에 다시 붙여야 한다(안 하면 캐시가 전부 불일치로 버려진다).
 - **새 주제를 쓰기 전에 반드시 기존 23~31개 주제(`korea_travel.js`의 `SOURCES` 전체)와
   land-in-korea-blog에 이미 있는 글 제목/내용을 확인해서 겹치는 소재가 없는지 확인할 것**
   (2026-09-11 사용자 명시 지시: "중복사항이 있는지 확인하고 중복이 되지 않도록 작성"). 예:
