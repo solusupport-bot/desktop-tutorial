@@ -13777,8 +13777,13 @@
       "tumblr"
     ],
     "scheduledAt": "2026-09-24T04:20:29.011Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "tumblr": {
+        "id": "828610262480404480",
+        "url": "https://landinkorea.tumblr.com/post/828610262480404480"
+      }
+    },
     "createdAt": "2026-09-23T02:16:35.708Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -13793,7 +13798,8 @@
       "model": "claude",
       "checkedAt": "2026-09-23T02:16:35.685Z"
     },
-    "blogUrl": "https://landinkorea.com/index.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-09-24T04:32:05.895Z"
   },
   {
     "id": "17e34701-9438-4b68-9242-d12e48703d0a",
