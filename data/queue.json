@@ -13788,5 +13788,623 @@
       "checkedAt": "2026-09-23T02:16:35.685Z"
     },
     "blogUrl": "https://landinkorea.com/index.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "17e34701-9438-4b68-9242-d12e48703d0a",
+    "text": "Ask five people and you'll get five different answers on this.\n\nOlive Young is the drugstore chain for skincare, sunscreen, cosmetics, masks and basic over-the-counter items like hangover drinks and pain patches, and it runs frequent bundle promotions rather than everyday low pricing.\n\nSave this — you'll regret it if you don't.\n\n📖 More tips on the blog — link in bio.\n\n#KoreaTravel #SeoulTrip #KoreaTips #TravelKorea #VisitSeoul\n\n🎵 \"Pop Story\" by Denis RICHARD is licensed under CC BY-SA 2.5. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.5/.",
+    "imageUrl": null,
+    "videoUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/videos/1790216219811-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-09-24T02:51:53.237Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-24T02:17:03.002Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/39286800/16716888_2160_3840_60fps.mp4",
+    "topic": "Where Koreans actually buy everyday stuff: Daiso vs. Olive Young vs. hypermarkets vs. the traditional market",
+    "qualityGate": {
+      "pass": false,
+      "reason": "검증 호출 실패: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfMTdgPKm2BeyYWUuNKHm\"}",
+      "model": "claude",
+      "checkedAt": "2026-09-24T02:16:33.440Z"
+    }
+  },
+  {
+    "id": "c4db9887-15a3-423f-b495-04964a97a25f",
+    "text": "Ask five people and you'll get five different answers on this.\n\nFor cheap household basics — hangers, slippers, kitchen tools, phone cables, travel bottles — Daiso is the default, with fixed low price tiers and big multi-floor branches near major stations.\n\nOlive Young is the drugstore chain for skincare, sunscreen, cosmetics, masks and basic over-the-counter items like hangover drinks and pain patches, and it runs frequent bundle promotions rather than everyday low pricing.\n\nNote that actual medicines still come from a pharmacy, not a drugstore chain, so Olive Young is for toiletries rather than treatment.\n\nAnyone else lose money on this mistake?",
+    "imageUrl": null,
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-09-24T03:13:37.822Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-24T02:17:03.012Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/39286800/16716888_2160_3840_60fps.mp4",
+    "topic": "Where Koreans actually buy everyday stuff: Daiso vs. Olive Young vs. hypermarkets vs. the traditional market",
+    "qualityGate": {
+      "pass": false,
+      "reason": "검증 호출 실패: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfMTdgPKm2BeyYWUuNKHm\"}",
+      "model": "claude",
+      "checkedAt": "2026-09-24T02:16:33.440Z"
+    },
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "54492ac4-bfb7-4d6f-936b-b41813d7dd07",
+    "text": "Ask five people and you'll get five different answers on this.\n\nFor cheap household basics — hangers, slippers, kitchen tools, phone cables, travel bottles — Daiso is the default, with fixed low price tiers and big multi-floor branches near major stations.\n\nOlive Young is the drugstore chain for skincare, sunscreen, cosmetics, masks and basic over-the-counter items like hangover drinks and pain patches, and it runs frequent bundle promotions rather than everyday low pricing.\n\nNote that actual medicines still come from a pharmacy, not a drugstore chain, so Olive Young is for toiletries rather than treatment.\n\nAnyone else lose money on this mistake?",
+    "imageUrl": null,
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-09-24T03:42:33.281Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-24T02:17:03.020Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/39286800/16716888_2160_3840_60fps.mp4",
+    "topic": "Where Koreans actually buy everyday stuff: Daiso vs. Olive Young vs. hypermarkets vs. the traditional market",
+    "qualityGate": {
+      "pass": false,
+      "reason": "검증 호출 실패: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfMTdgPKm2BeyYWUuNKHm\"}",
+      "model": "claude",
+      "checkedAt": "2026-09-24T02:16:33.440Z"
+    },
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "45777f2b-6111-40e1-9546-eff41f43c1c4",
+    "text": "For cheap household basics — hangers, slippers, kitchen tools, phone cables, travel bottles — Daiso is the default, with fixed low price tiers and big multi-floor branches near major stations.\n\n1. Olive Young is the drugstore chain for skincare, sunscreen, cosmetics, masks and basic over-the-counter items like hangover drinks and pain patches, and it runs frequent bundle promotions rather than everyday low pricing.\n2. Note that actual medicines still come from a pharmacy, not a drugstore chain, so Olive Young is for toiletries rather than treatment.\n3. For anything electrical, check the plug: Korea runs 220V with round two-pin sockets, and cheap adapters are easy to find at Daiso.",
+    "imageUrl": null,
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-09-24T05:42:15.338Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-24T02:17:03.028Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/39286800/16716888_2160_3840_60fps.mp4",
+    "topic": "Where Koreans actually buy everyday stuff: Daiso vs. Olive Young vs. hypermarkets vs. the traditional market",
+    "qualityGate": {
+      "pass": false,
+      "reason": "검증 호출 실패: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfMTdgPKm2BeyYWUuNKHm\"}",
+      "model": "claude",
+      "checkedAt": "2026-09-24T02:16:33.440Z"
+    },
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "5fd9efd7-84c9-416e-8a0c-8072260ab6a8",
+    "text": "Here's what actually happens once you're standing there.\n\nMost travelers drag their bags through their entire last day in Korea without knowing forwarding services exist for exactly that problem.\n\nSame-day luggage forwarding can send your bags from your hotel straight to the airport (or another hotel) so you can spend your last day sightseeing hands-free — and avoid dragging bags through crowded transit during rush hour before an early flight.\n\nBook at least a day in advance, since same-day requests aren't always guaranteed.\n\nWhat would you add for someone landing tomorrow?\n\n📖 More on the blog — link in bio.",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1790216228203-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1790216228203-0.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1790216228203-1.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1790216228203-2.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1790216228203-3.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1790216228203-4.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-09-24T14:18:35.291Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-24T02:17:42.788Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/29608260/pexels-photo-29608260.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31925305/pexels-photo-31925305.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28874274/pexels-photo-28874274.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33781331/pexels-photo-33781331.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31842449/pexels-photo-31842449.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2019/06/23/24603-344986224_large.mp4",
+    "topic": "Luggage storage & forwarding services",
+    "qualityGate": {
+      "pass": false,
+      "reason": "검증 호출 실패: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfMThQQkehCwS84N3RTJE\"}",
+      "model": "claude",
+      "checkedAt": "2026-09-24T02:17:23.969Z"
+    }
+  },
+  {
+    "id": "2da6d1cd-9232-47cc-8203-5048d7d91a7a",
+    "text": "Here's what actually happens once you're standing there. Most travelers drag their bags through their entire last day in Korea without knowing forwarding services exist for exactly that problem.\n\n1. Same-day luggage forwarding can send your bags from your hotel straight to the airport (or another hotel) so you can spend your last day sightseeing hands-free — and avoid dragging bags through crowded transit during rush hour before an early flight.\n2. Book at least a day in advance, since same-day requests aren't always guaranteed.\n\nHow much did this cost you? Share your story.\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-luggage-storage-forwarding-services.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1790216228203-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1790216228203-0.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1790216228203-1.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1790216228203-2.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1790216228203-3.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1790216228203-4.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-09-24T14:23:20.303Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-24T02:17:42.798Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/29608260/pexels-photo-29608260.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31925305/pexels-photo-31925305.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28874274/pexels-photo-28874274.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33781331/pexels-photo-33781331.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31842449/pexels-photo-31842449.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2019/06/23/24603-344986224_large.mp4",
+    "topic": "Luggage storage & forwarding services",
+    "qualityGate": {
+      "pass": false,
+      "reason": "검증 호출 실패: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfMThQQkehCwS84N3RTJE\"}",
+      "model": "claude",
+      "checkedAt": "2026-09-24T02:17:23.969Z"
+    }
+  },
+  {
+    "id": "d4070c7b-1e29-46e9-a5c6-06e6aa0f4ddd",
+    "text": "Here's what actually happens once you're standing there.\n\nSame-day luggage forwarding can send your bags from your hotel straight to the airport (or another hotel) so you can spend your last day sightseeing hands-free — and avoid dragging bags through crowded transit during rush hour before an early flight.\n\nComment: which one surprised you the most?\n\n📖 More tips on the blog — link in bio.\n\n#KoreaTravel #SeoulTrip #KoreaTips #TravelKorea #VisitSeoul\n\n🎵 \"Pop\" by Icaro is licensed under CC BY-SA 2.5. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.5/it/.",
+    "imageUrl": null,
+    "videoUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/videos/1790216259963-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-09-24T14:26:12.781Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-24T02:17:42.806Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/29608260/pexels-photo-29608260.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31925305/pexels-photo-31925305.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28874274/pexels-photo-28874274.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33781331/pexels-photo-33781331.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31842449/pexels-photo-31842449.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2019/06/23/24603-344986224_large.mp4",
+    "topic": "Luggage storage & forwarding services",
+    "qualityGate": {
+      "pass": false,
+      "reason": "검증 호출 실패: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfMThQQkehCwS84N3RTJE\"}",
+      "model": "claude",
+      "checkedAt": "2026-09-24T02:17:23.969Z"
+    }
+  },
+  {
+    "id": "37b9f945-8ca3-43ea-b171-f2cc4106b79a",
+    "text": "Most travelers drag their bags through their entire last day in Korea without knowing forwarding services exist for exactly that problem.\n\n1. Same-day luggage forwarding can send your bags from your hotel straight to the airport (or another hotel) so you can spend your last day sightseeing hands-free — and avoid dragging bags through crowded transit during rush hour before an early flight.\n2. Book at least a day in advance, since same-day requests aren't always guaranteed.",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1790216228203-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1790216228203-0.jpg"
+    ],
+    "platforms": [
+      "pinterest"
+    ],
+    "scheduledAt": "2026-09-24T17:19:54.688Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-24T02:17:42.814Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/29608260/pexels-photo-29608260.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31925305/pexels-photo-31925305.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28874274/pexels-photo-28874274.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33781331/pexels-photo-33781331.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31842449/pexels-photo-31842449.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2019/06/23/24603-344986224_large.mp4",
+    "topic": "Luggage storage & forwarding services",
+    "qualityGate": {
+      "pass": false,
+      "reason": "검증 호출 실패: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfMThQQkehCwS84N3RTJE\"}",
+      "model": "claude",
+      "checkedAt": "2026-09-24T02:17:23.969Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-luggage-storage-forwarding-services.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "6b9e7525-e0ac-402b-99f0-1e3efd14baf7",
+    "text": "Here's what actually happens once you're standing there.\n\nMost travelers drag their bags through their entire last day in Korea without knowing forwarding services exist for exactly that problem.\n\nSame-day luggage forwarding can send your bags from your hotel straight to the airport (or another hotel) so you can spend your last day sightseeing hands-free — and avoid dragging bags through crowded transit during rush hour before an early flight.\n\nBook at least a day in advance, since same-day requests aren't always guaranteed.\n\nWhat would you add for someone landing tomorrow?",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1790216228203-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1790216228203-0.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1790216228203-1.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1790216228203-2.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1790216228203-3.jpg"
+    ],
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-09-24T14:48:40.899Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-24T02:17:42.822Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/29608260/pexels-photo-29608260.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31925305/pexels-photo-31925305.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28874274/pexels-photo-28874274.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33781331/pexels-photo-33781331.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31842449/pexels-photo-31842449.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2019/06/23/24603-344986224_large.mp4",
+    "topic": "Luggage storage & forwarding services",
+    "qualityGate": {
+      "pass": false,
+      "reason": "검증 호출 실패: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfMThQQkehCwS84N3RTJE\"}",
+      "model": "claude",
+      "checkedAt": "2026-09-24T02:17:23.969Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-luggage-storage-forwarding-services.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "f1cca254-e36b-434d-8f27-d7e87ea96629",
+    "text": "Here's what actually happens once you're standing there.\n\nMost travelers drag their bags through their entire last day in Korea without knowing forwarding services exist for exactly that problem.\n\nSame-day luggage forwarding can send your bags from your hotel straight to the airport (or another hotel) so you can spend your last day sightseeing hands-free — and avoid dragging bags through crowded transit during rush hour before an early flight.\n\nBook at least a day in advance, since same-day requests aren't always guaranteed.\n\nWhat would you add for someone landing tomorrow?",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1790216228203-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1790216228203-0.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1790216228203-1.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1790216228203-2.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1790216228203-3.jpg"
+    ],
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-09-24T15:17:44.250Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-24T02:17:42.830Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/29608260/pexels-photo-29608260.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31925305/pexels-photo-31925305.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28874274/pexels-photo-28874274.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33781331/pexels-photo-33781331.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31842449/pexels-photo-31842449.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2019/06/23/24603-344986224_large.mp4",
+    "topic": "Luggage storage & forwarding services",
+    "qualityGate": {
+      "pass": false,
+      "reason": "검증 호출 실패: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfMThQQkehCwS84N3RTJE\"}",
+      "model": "claude",
+      "checkedAt": "2026-09-24T02:17:23.969Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-luggage-storage-forwarding-services.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "fc60e3d3-ddf9-4379-b4af-2ae3a47dded0",
+    "text": "Most travelers drag their bags through their entire last day in Korea without knowing forwarding services exist for exactly that problem.\n\n1. Same-day luggage forwarding can send your bags from your hotel straight to the airport (or another hotel) so you can spend your last day sightseeing hands-free — and avoid dragging bags through crowded transit during rush hour before an early flight.\n2. Book at least a day in advance, since same-day requests aren't always guaranteed.",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1790216228203-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1790216228203-0.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1790216228203-1.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1790216228203-2.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1790216228203-3.jpg"
+    ],
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-09-24T17:15:48.197Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-24T02:17:42.837Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/29608260/pexels-photo-29608260.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31925305/pexels-photo-31925305.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28874274/pexels-photo-28874274.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33781331/pexels-photo-33781331.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31842449/pexels-photo-31842449.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2019/06/23/24603-344986224_large.mp4",
+    "topic": "Luggage storage & forwarding services",
+    "qualityGate": {
+      "pass": false,
+      "reason": "검증 호출 실패: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfMThQQkehCwS84N3RTJE\"}",
+      "model": "claude",
+      "checkedAt": "2026-09-24T02:17:23.969Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-luggage-storage-forwarding-services.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "de42b255-9fd5-4da2-a8da-5f96ba32dbb2",
+    "text": "The guidebooks skip this part entirely.\n\nFor a Seoul-to-Busan-length trip, the real choice isn't just KTX vs.\n\nthe bus — it's KTX vs.\n\nSRT, and most first-timers don't even know SRT exists.\n\nWorth knowing before you land? Reply with what surprised you.\n\n📖 More on the blog — link in bio.",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1790216267229-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1790216267229-0.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1790216267229-1.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1790216267229-2.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1790216267229-3.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1790216267229-4.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-09-24T23:24:27.924Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-24T02:18:18.473Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/35007594/pexels-photo-35007594.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/237211/pexels-photo-237211.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20663210/pexels-photo-20663210.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35396702/pexels-photo-35396702.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32133692/pexels-photo-32133692.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2018/05/02/15953-268112363_large.mp4",
+    "topic": "KTX vs. SRT vs. intercity bus for long-distance travel",
+    "qualityGate": {
+      "pass": false,
+      "reason": "검증 호출 실패: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfMTkKsV87kmw8U1QsaoT\"}",
+      "model": "claude",
+      "checkedAt": "2026-09-24T02:18:03.641Z"
+    }
+  },
+  {
+    "id": "e295b762-bfb4-4e56-87d7-4b8e6066578e",
+    "text": "The guidebooks skip this part entirely. For a Seoul-to-Busan-length trip, the real choice isn't just KTX vs.\n\n1. the bus — it's KTX vs.\n2. SRT, and most first-timers don't even know SRT exists.\n3. Both are high-speed rail on similar routes with comparable speeds, but they depart from different stations in Seoul (KTX mainly from Seoul Station, SRT from Suseo Station), so the right pick often depends on which side of the city you're starting from, not the train itself.\n\nDone any of these? Which surprised you most?\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-ktx-vs-srt-vs-intercity-bus-for-long-distance-travel.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1790216267229-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1790216267229-0.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1790216267229-1.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1790216267229-2.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1790216267229-3.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1790216267229-4.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-09-24T23:29:08.079Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-24T02:18:18.484Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/35007594/pexels-photo-35007594.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/237211/pexels-photo-237211.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20663210/pexels-photo-20663210.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35396702/pexels-photo-35396702.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32133692/pexels-photo-32133692.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2018/05/02/15953-268112363_large.mp4",
+    "topic": "KTX vs. SRT vs. intercity bus for long-distance travel",
+    "qualityGate": {
+      "pass": false,
+      "reason": "검증 호출 실패: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfMTkKsV87kmw8U1QsaoT\"}",
+      "model": "claude",
+      "checkedAt": "2026-09-24T02:18:03.641Z"
+    }
+  },
+  {
+    "id": "149d8b9b-3e20-4df8-a5a8-7b0a418891f7",
+    "text": "The guidebooks skip this part entirely.\n\nthe bus — it's KTX vs.\n\nScreenshot this before you land in Korea.\n\n📖 More tips on the blog — link in bio.\n\n#KoreaTravel #SeoulTrip #KoreaTips #TravelKorea #VisitSeoul\n\n🎵 \"Brega-pop\" by PequenasAlegrias is licensed under CC BY 2.5. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.5/br/.",
+    "imageUrl": null,
+    "videoUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/videos/1790216295287-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-09-24T23:35:44.557Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-24T02:18:18.493Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/35007594/pexels-photo-35007594.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/237211/pexels-photo-237211.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20663210/pexels-photo-20663210.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35396702/pexels-photo-35396702.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32133692/pexels-photo-32133692.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2018/05/02/15953-268112363_large.mp4",
+    "topic": "KTX vs. SRT vs. intercity bus for long-distance travel",
+    "qualityGate": {
+      "pass": false,
+      "reason": "검증 호출 실패: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfMTkKsV87kmw8U1QsaoT\"}",
+      "model": "claude",
+      "checkedAt": "2026-09-24T02:18:03.641Z"
+    }
+  },
+  {
+    "id": "b14acc30-0867-467c-a102-390e05b405a9",
+    "text": "For a Seoul-to-Busan-length trip, the real choice isn't just KTX vs.\n\n1. the bus — it's KTX vs.\n2. SRT, and most first-timers don't even know SRT exists.\n3. Both are high-speed rail on similar routes with comparable speeds, but they depart from different stations in Seoul (KTX mainly from Seoul Station, SRT from Suseo Station), so the right pick often depends on which side of the city you're starting from, not the train itself.",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1790216267229-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1790216267229-0.jpg"
+    ],
+    "platforms": [
+      "pinterest"
+    ],
+    "scheduledAt": "2026-09-25T02:27:24.267Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-24T02:18:18.503Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/35007594/pexels-photo-35007594.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/237211/pexels-photo-237211.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20663210/pexels-photo-20663210.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35396702/pexels-photo-35396702.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32133692/pexels-photo-32133692.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2018/05/02/15953-268112363_large.mp4",
+    "topic": "KTX vs. SRT vs. intercity bus for long-distance travel",
+    "qualityGate": {
+      "pass": false,
+      "reason": "검증 호출 실패: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfMTkKsV87kmw8U1QsaoT\"}",
+      "model": "claude",
+      "checkedAt": "2026-09-24T02:18:03.641Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-ktx-vs-srt-vs-intercity-bus-for-long-distance-travel.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "f31d85fd-5298-4c16-83c9-ec4706b13122",
+    "text": "The guidebooks skip this part entirely.\n\nFor a Seoul-to-Busan-length trip, the real choice isn't just KTX vs.\n\nthe bus — it's KTX vs.\n\nSRT, and most first-timers don't even know SRT exists.\n\nWorth knowing before you land? Reply with what surprised you.",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1790216267229-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1790216267229-0.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1790216267229-1.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1790216267229-2.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1790216267229-3.jpg"
+    ],
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-09-24T23:56:52.932Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-24T02:18:18.511Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/35007594/pexels-photo-35007594.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/237211/pexels-photo-237211.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20663210/pexels-photo-20663210.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35396702/pexels-photo-35396702.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32133692/pexels-photo-32133692.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2018/05/02/15953-268112363_large.mp4",
+    "topic": "KTX vs. SRT vs. intercity bus for long-distance travel",
+    "qualityGate": {
+      "pass": false,
+      "reason": "검증 호출 실패: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfMTkKsV87kmw8U1QsaoT\"}",
+      "model": "claude",
+      "checkedAt": "2026-09-24T02:18:03.641Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-ktx-vs-srt-vs-intercity-bus-for-long-distance-travel.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "461171f9-c119-4b0d-9c81-468b0f2843e4",
+    "text": "The guidebooks skip this part entirely.\n\nFor a Seoul-to-Busan-length trip, the real choice isn't just KTX vs.\n\nthe bus — it's KTX vs.\n\nSRT, and most first-timers don't even know SRT exists.\n\nWorth knowing before you land? Reply with what surprised you.",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1790216267229-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1790216267229-0.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1790216267229-1.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1790216267229-2.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1790216267229-3.jpg"
+    ],
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-09-25T00:25:30.795Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-24T02:18:18.523Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/35007594/pexels-photo-35007594.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/237211/pexels-photo-237211.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20663210/pexels-photo-20663210.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35396702/pexels-photo-35396702.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32133692/pexels-photo-32133692.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2018/05/02/15953-268112363_large.mp4",
+    "topic": "KTX vs. SRT vs. intercity bus for long-distance travel",
+    "qualityGate": {
+      "pass": false,
+      "reason": "검증 호출 실패: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfMTkKsV87kmw8U1QsaoT\"}",
+      "model": "claude",
+      "checkedAt": "2026-09-24T02:18:03.641Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-ktx-vs-srt-vs-intercity-bus-for-long-distance-travel.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "98331437-b738-4202-9917-44b023da64f9",
+    "text": "For a Seoul-to-Busan-length trip, the real choice isn't just KTX vs.\n\n1. the bus — it's KTX vs.\n2. SRT, and most first-timers don't even know SRT exists.\n3. Both are high-speed rail on similar routes with comparable speeds, but they depart from different stations in Seoul (KTX mainly from Seoul Station, SRT from Suseo Station), so the right pick often depends on which side of the city you're starting from, not the train itself.",
+    "imageUrl": "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1790216267229-0.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1790216267229-0.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1790216267229-1.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1790216267229-2.jpg",
+      "https://raw.githubusercontent.com/solusupport-bot/desktop-tutorial/media-assets/images/1790216267229-3.jpg"
+    ],
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-09-25T02:25:04.911Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-24T02:18:18.532Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/35007594/pexels-photo-35007594.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/237211/pexels-photo-237211.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20663210/pexels-photo-20663210.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35396702/pexels-photo-35396702.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32133692/pexels-photo-32133692.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2018/05/02/15953-268112363_large.mp4",
+    "topic": "KTX vs. SRT vs. intercity bus for long-distance travel",
+    "qualityGate": {
+      "pass": false,
+      "reason": "검증 호출 실패: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfMTkKsV87kmw8U1QsaoT\"}",
+      "model": "claude",
+      "checkedAt": "2026-09-24T02:18:03.641Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-ktx-vs-srt-vs-intercity-bus-for-long-distance-travel.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
   }
 ]
