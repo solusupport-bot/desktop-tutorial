@@ -22,7 +22,7 @@ const { watermarkAndHostImages } = require('../lib/media/watermark_images');
 const { findMusic } = require('../lib/ingestion/openverse_music');
 const { attachMusicToVideo, cleanupMergedVideo } = require('../lib/media/mix_audio');
 const { findMusicForTopic } = require('../lib/media/topic_music');
-const { uploadMediaFile } = require('../lib/publishing/github_raw_host');
+const { uploadMediaFile } = require('../lib/publishing/media_host');
 const { PLATFORMS } = require('../lib/publishing');
 const { getPermalink } = require('../lib/publishing/permalink');
 const { getBlogLinkForTopic, withUtm } = require('../lib/ingestion/topic_blog_links');
@@ -93,8 +93,7 @@ const main = async () => {
       if (mergedPath) {
         try {
           const buffer = fs.readFileSync(mergedPath);
-          instagramVideo = await uploadMediaFile(
-            'solusupport-bot/desktop-tutorial', process.env.GITHUB_TOKEN, buffer, `videos/${Date.now()}-instagram-test.mp4`
+          instagramVideo = await uploadMediaFile(buffer, `videos/${Date.now()}-instagram-test.mp4`
           );
           recordMusicUrl(music.url);
           instagramMusicAttribution = `🎵 ${music.attribution}`;

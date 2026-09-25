@@ -3,10 +3,8 @@ name: Land in Korea Daily Topic
 # 매일 1회, 사람 개입 없이 다음 주제를 골라 이미지와 함께 발행 큐에 등록합니다.
 # 실제 Facebook/Threads 발행은 SNS Scheduler(scheduler.yml, 15분 간격)가 이어서 처리합니다.
 on:
-  schedule:
-    # 정각(00:00)은 전 세계 크론이 몰려 GitHub Actions 예약 실행이 지연/스킵되기 쉬운
-    # 시간대라(GitHub 공식 문서 경고), 07분으로 살짝 옮겨 혼잡을 피합니다.
-    - cron: '7 0 * * *'   # 매일 00:07 UTC (KST 09:07)
+  # 2026-09-25: 계정 Actions 정지로 매일 09:07 큐 등록은 이 PC가 맡는다(ops/local-cron/run-local.ps1 -Mode daily).
+  # Actions가 복구돼도 같은 주제가 두 번 큐에 들어가지 않도록 schedule은 뺐다 — 수동 실행만 가능.
   workflow_dispatch:
 
 concurrency:
@@ -40,7 +38,7 @@ jobs:
         # 앱 전용 OAuth, lib/research/reddit_research.js)으로만 재사용한다 — 발행 계정
         # 로그인은 필요 없고 계정 정지 위험도 없다.
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
           REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
           REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
         run: node scripts/generate-topics.js
@@ -60,28 +58,29 @@ jobs:
           PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           TOUR_AUDIO_GUIDE_API_KEY: ${{ secrets.TOUR_AUDIO_GUIDE_API_KEY }}
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
         run: node scripts/daily-auto-post.js
 
       - name: Write blog posts for any SNS topic that doesn't have one yet
-        # 독립 검수 2회를 통과한 사전 작성 큐만 발행 — API 호출 없음. 없거나 품질 게이트
+        # 독립 검수 2회(Groq 무료 모델 2개, ai_review.js)를 통과한 사전 작성 큐만 발행. 없거나 품질 게이트
         # (blog_quality.js) 미달이면 발행하지 않고 실패한다. 뒤의 커밋 스텝은 돌아야 하므로 여기선 넘기고, 맨 끝에서 빨간불을 낸다.
         id: blog
         continue-on-error: true
         env:
           BLOG_REPO_PAT: ${{ secrets.BLOG_REPO_PAT }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
         run: node scripts/sync-blog-posts.js
 
       - name: Commit queued post and topic state
         run: |
-          if git diff --quiet -- data/queue.json data/topic_state.json data/topic_blog_links.json data/topic_bank.json; then
+          if git diff --quiet -- data/queue.json data/topic_state.json data/topic_blog_links.json data/topic_bank.json data/blog_content_queue.json; then
             echo "No new topic queued; no commit required."
             exit 0
           fi
 
           git config user.name "sns-automation-bot"
           git config user.email "actions@github.com"
-          git add data/queue.json data/topic_state.json data/topic_blog_links.json data/topic_bank.json
+          git add data/queue.json data/topic_state.json data/topic_blog_links.json data/topic_bank.json data/blog_content_queue.json
           git commit -m "chore: queue daily Land in Korea topic"
           git push origin "HEAD:${GITHUB_REF_NAME}"
 
