@@ -1,5 +1,5 @@
 {
-  "lastIndex": 18,
+  "lastIndex": 19,
   "history": [
     {
       "index": 7,
@@ -525,6 +525,21 @@
       "index": 18,
       "topic": "KTX vs. SRT vs. intercity bus for long-distance travel",
       "at": "2026-09-24T02:17:42.841Z"
+    },
+    {
+      "index": 50,
+      "topic": "Chuseok in Korea: free palace days, songpyeon, and how to wish someone a happy holiday",
+      "at": "2026-09-25T05:30:20.855Z"
+    },
+    {
+      "index": 51,
+      "topic": "Jinju Namgang Yudeung lantern festival: when to go and how to get there from Seoul",
+      "at": "2026-09-25T05:36:04.676Z"
+    },
+    {
+      "index": 19,
+      "topic": "Namdaemun Market",
+      "at": "2026-09-25T05:41:28.813Z"
     }
   ],
   "recentImageUrls": [
@@ -936,7 +951,22 @@
     "https://images.pexels.com/photos/31826555/pexels-photo-31826555.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://images.pexels.com/photos/32014918/pexels-photo-32014918.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://pixabay.com/get/g0f08b072bca44cf8b6286dfbebcac7dcfdb6bc4d30b79c4592de23f5b545a50f81fe884d8629aed4fa16129a279dc455_1280.jpg",
-    "https://pixabay.com/get/g889be32f22ba9f8742a2bc465f73b028f796f0c3e928c2d13c5d03b66deda017cc8c439c6a20ea3140ec95e88a406ef4673e9c9dcf06b4ff2a439d8da17226a9_1280.jpg"
+    "https://pixabay.com/get/g889be32f22ba9f8742a2bc465f73b028f796f0c3e928c2d13c5d03b66deda017cc8c439c6a20ea3140ec95e88a406ef4673e9c9dcf06b4ff2a439d8da17226a9_1280.jpg",
+    "https://pixabay.com/get/g2fb425d6e7b848f55bca0a3c5aea0d2f3e9867b51c2011a85e1cbd3fc6b37b626e2c4067dc0a92acacb60d82591294fc8c757e125962c8e0600213dce26f12de_1280.jpg",
+    "https://images.pexels.com/photos/29562553/pexels-photo-29562553.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/31851342/pexels-photo-31851342.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/29562547/pexels-photo-29562547.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/36865958/pexels-photo-36865958.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/25664945/pexels-photo-25664945.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/52547/lantern-festival-seoul-cheonggyecheon-stream-lantern-52547.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/18495182/pexels-photo-18495182.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/1119723/pexels-photo-1119723.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/9647528/pexels-photo-9647528.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/32211598/pexels-photo-32211598.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/18936020/pexels-photo-18936020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/31826561/pexels-photo-31826561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/19590472/pexels-photo-19590472.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/31680674/pexels-photo-31680674.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
   ],
   "recentVideoUrls": [
     "https://videos.pexels.com/video-files/19577787/19577787-uhd_2160_3840_30fps.mp4",
@@ -1023,7 +1053,10 @@
     "https://videos.pexels.com/video-files/34921915/14792803_1080_1920_30fps.mp4",
     "https://videos.pexels.com/video-files/39286800/16716888_2160_3840_60fps.mp4",
     "https://cdn.pixabay.com/video/2019/06/23/24603-344986224_large.mp4",
-    "https://cdn.pixabay.com/video/2018/05/02/15953-268112363_large.mp4"
+    "https://cdn.pixabay.com/video/2018/05/02/15953-268112363_large.mp4",
+    "https://videos.pexels.com/video-files/30012658/12876526_1080_1920_60fps.mp4",
+    "https://cdn.pixabay.com/video/2021/05/23/75008-554074757_large.mp4",
+    "https://cdn.pixabay.com/video/2019/06/23/24602-344986228_large.mp4"
   ],
   "recentMusicUrls": [
     "https://prod-1.storage.jamendo.com/?trackid=20237&format=mp32",
@@ -1056,6 +1089,9 @@
     "https://prod-1.storage.jamendo.com/?trackid=1375976&format=mp32",
     "https://prod-1.storage.jamendo.com/?trackid=19200&format=mp32",
     "https://prod-1.storage.jamendo.com/?trackid=114948&format=mp32",
-    "https://prod-1.storage.jamendo.com/?trackid=1105546&format=mp32"
+    "https://prod-1.storage.jamendo.com/?trackid=1105546&format=mp32",
+    "https://prod-1.storage.jamendo.com/?trackid=1270845&format=mp32",
+    "https://prod-1.storage.jamendo.com/?trackid=1322497&format=mp32",
+    "https://prod-1.storage.jamendo.com/?trackid=863139&format=mp32"
   ]
 }

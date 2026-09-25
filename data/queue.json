@@ -13964,7 +13964,8 @@
       "reason": "검증 호출 실패: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfMThQQkehCwS84N3RTJE\"}",
       "model": "claude",
       "checkedAt": "2026-09-24T02:17:23.969Z"
-    }
+    },
+    "verifyStatus": "passed"
   },
   {
     "id": "2da6d1cd-9232-47cc-8203-5048d7d91a7a",
@@ -14002,7 +14003,8 @@
       "reason": "검증 호출 실패: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfMThQQkehCwS84N3RTJE\"}",
       "model": "claude",
       "checkedAt": "2026-09-24T02:17:23.969Z"
-    }
+    },
+    "verifyStatus": "passed"
   },
   {
     "id": "d4070c7b-1e29-46e9-a5c6-06e6aa0f4ddd",
@@ -14034,7 +14036,8 @@
       "reason": "검증 호출 실패: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfMThQQkehCwS84N3RTJE\"}",
       "model": "claude",
       "checkedAt": "2026-09-24T02:17:23.969Z"
-    }
+    },
+    "verifyStatus": "passed"
   },
   {
     "id": "37b9f945-8ca3-43ea-b171-f2cc4106b79a",
@@ -14069,7 +14072,8 @@
       "model": "claude",
       "checkedAt": "2026-09-24T02:17:23.969Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-luggage-storage-forwarding-services.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-luggage-storage-forwarding-services.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
   },
   {
     "id": "6b9e7525-e0ac-402b-99f0-1e3efd14baf7",
@@ -14107,7 +14111,8 @@
       "model": "claude",
       "checkedAt": "2026-09-24T02:17:23.969Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-luggage-storage-forwarding-services.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-luggage-storage-forwarding-services.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
   },
   {
     "id": "f1cca254-e36b-434d-8f27-d7e87ea96629",
@@ -14145,7 +14150,8 @@
       "model": "claude",
       "checkedAt": "2026-09-24T02:17:23.969Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-luggage-storage-forwarding-services.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-luggage-storage-forwarding-services.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
   },
   {
     "id": "fc60e3d3-ddf9-4379-b4af-2ae3a47dded0",
@@ -14183,7 +14189,8 @@
       "model": "claude",
       "checkedAt": "2026-09-24T02:17:23.969Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-luggage-storage-forwarding-services.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-luggage-storage-forwarding-services.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
   },
   {
     "id": "de42b255-9fd5-4da2-a8da-5f96ba32dbb2",
@@ -14221,7 +14228,8 @@
       "reason": "검증 호출 실패: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfMTkKsV87kmw8U1QsaoT\"}",
       "model": "claude",
       "checkedAt": "2026-09-24T02:18:03.641Z"
-    }
+    },
+    "verifyStatus": "passed"
   },
   {
     "id": "e295b762-bfb4-4e56-87d7-4b8e6066578e",
@@ -14259,7 +14267,8 @@
       "reason": "검증 호출 실패: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfMTkKsV87kmw8U1QsaoT\"}",
       "model": "claude",
       "checkedAt": "2026-09-24T02:18:03.641Z"
-    }
+    },
+    "verifyStatus": "passed"
   },
   {
     "id": "149d8b9b-3e20-4df8-a5a8-7b0a418891f7",
@@ -14291,7 +14300,8 @@
       "reason": "검증 호출 실패: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfMTkKsV87kmw8U1QsaoT\"}",
       "model": "claude",
       "checkedAt": "2026-09-24T02:18:03.641Z"
-    }
+    },
+    "verifyStatus": "passed"
   },
   {
     "id": "b14acc30-0867-467c-a102-390e05b405a9",
@@ -14326,7 +14336,8 @@
       "model": "claude",
       "checkedAt": "2026-09-24T02:18:03.641Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-ktx-vs-srt-vs-intercity-bus-for-long-distance-travel.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-ktx-vs-srt-vs-intercity-bus-for-long-distance-travel.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
   },
   {
     "id": "f31d85fd-5298-4c16-83c9-ec4706b13122",
@@ -14364,7 +14375,8 @@
       "model": "claude",
       "checkedAt": "2026-09-24T02:18:03.641Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-ktx-vs-srt-vs-intercity-bus-for-long-distance-travel.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-ktx-vs-srt-vs-intercity-bus-for-long-distance-travel.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
   },
   {
     "id": "461171f9-c119-4b0d-9c81-468b0f2843e4",
@@ -14402,7 +14414,8 @@
       "model": "claude",
       "checkedAt": "2026-09-24T02:18:03.641Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-ktx-vs-srt-vs-intercity-bus-for-long-distance-travel.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-ktx-vs-srt-vs-intercity-bus-for-long-distance-travel.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
   },
   {
     "id": "98331437-b738-4202-9917-44b023da64f9",
@@ -14440,7 +14453,8 @@
       "model": "claude",
       "checkedAt": "2026-09-24T02:18:03.641Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-ktx-vs-srt-vs-intercity-bus-for-long-distance-travel.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-ktx-vs-srt-vs-intercity-bus-for-long-distance-travel.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
   },
   {
     "id": "1031e05f-45a5-44c2-95ba-46aee000cdaf",
@@ -14473,7 +14487,8 @@
     ],
     "sourceVideoUrl": null,
     "topic": "Eating alone in Korea: which restaurants refuse solo diners and where honbap works",
-    "backfill": "2026-09-24 image-zero bug"
+    "backfill": "2026-09-24 image-zero bug",
+    "verifyStatus": "passed"
   },
   {
     "id": "450c2ad4-d780-445c-9186-b72215a8d8cc",
@@ -14506,7 +14521,8 @@
     ],
     "sourceVideoUrl": null,
     "topic": "Eating alone in Korea: which restaurants refuse solo diners and where honbap works",
-    "backfill": "2026-09-24 image-zero bug"
+    "backfill": "2026-09-24 image-zero bug",
+    "verifyStatus": "passed"
   },
   {
     "id": "cef65c0d-807d-43db-9e84-7f3902c09c21",
@@ -14539,7 +14555,8 @@
     ],
     "sourceVideoUrl": null,
     "topic": "Food delivery apps in Korea: why signing up is harder than ordering",
-    "backfill": "2026-09-24 image-zero bug"
+    "backfill": "2026-09-24 image-zero bug",
+    "verifyStatus": "passed"
   },
   {
     "id": "860a8640-7a2b-4a7c-b4b9-e96dea8d05fd",
@@ -14572,7 +14589,8 @@
     ],
     "sourceVideoUrl": null,
     "topic": "Food delivery apps in Korea: why signing up is harder than ordering",
-    "backfill": "2026-09-24 image-zero bug"
+    "backfill": "2026-09-24 image-zero bug",
+    "verifyStatus": "passed"
   },
   {
     "id": "08ed880e-8b63-4586-942d-398da838cfd1",
@@ -14605,7 +14623,8 @@
     ],
     "sourceVideoUrl": null,
     "topic": "Food delivery apps in Korea: why signing up is harder than ordering",
-    "backfill": "2026-09-24 image-zero bug"
+    "backfill": "2026-09-24 image-zero bug",
+    "verifyStatus": "passed"
   },
   {
     "id": "5d50f98f-c4e5-4bd6-80da-289d8f11bfe1",
@@ -14638,7 +14657,8 @@
     ],
     "sourceVideoUrl": null,
     "topic": "Renting a car in Korea: when it's smart, when it's a waste, and what the rental desk will ask for",
-    "backfill": "2026-09-24 image-zero bug"
+    "backfill": "2026-09-24 image-zero bug",
+    "verifyStatus": "passed"
   },
   {
     "id": "774601d3-77dc-4b63-bc36-cbc9d5543d79",
@@ -14671,7 +14691,8 @@
     ],
     "sourceVideoUrl": null,
     "topic": "Renting a car in Korea: when it's smart, when it's a waste, and what the rental desk will ask for",
-    "backfill": "2026-09-24 image-zero bug"
+    "backfill": "2026-09-24 image-zero bug",
+    "verifyStatus": "passed"
   },
   {
     "id": "14e90063-9fda-4dbb-bab4-5f5fb36e2788",
@@ -14704,7 +14725,8 @@
     ],
     "sourceVideoUrl": null,
     "topic": "Renting a car in Korea: when it's smart, when it's a waste, and what the rental desk will ask for",
-    "backfill": "2026-09-24 image-zero bug"
+    "backfill": "2026-09-24 image-zero bug",
+    "verifyStatus": "passed"
   },
   {
     "id": "32d54264-be63-4ab1-ba3e-70a60bd554f3",
@@ -14737,7 +14759,8 @@
     ],
     "sourceVideoUrl": null,
     "topic": "Timing cherry blossoms and fall foliage in Korea without hitting peak crowds",
-    "backfill": "2026-09-24 image-zero bug"
+    "backfill": "2026-09-24 image-zero bug",
+    "verifyStatus": "passed"
   },
   {
     "id": "2b7bcad3-1203-47bb-8fcf-94da0651ca0f",
@@ -14770,7 +14793,8 @@
     ],
     "sourceVideoUrl": null,
     "topic": "Timing cherry blossoms and fall foliage in Korea without hitting peak crowds",
-    "backfill": "2026-09-24 image-zero bug"
+    "backfill": "2026-09-24 image-zero bug",
+    "verifyStatus": "passed"
   },
   {
     "id": "f52ae40d-cfc6-400e-bb42-6c583451e9ee",
@@ -14803,7 +14827,8 @@
     ],
     "sourceVideoUrl": null,
     "topic": "Learning to read Hangul in a weekend — and why romanized signs still confuse you",
-    "backfill": "2026-09-24 image-zero bug"
+    "backfill": "2026-09-24 image-zero bug",
+    "verifyStatus": "passed"
   },
   {
     "id": "12ed3056-fc40-418f-a1aa-5657e6da9656",
@@ -14836,7 +14861,8 @@
     ],
     "sourceVideoUrl": null,
     "topic": "Learning to read Hangul in a weekend — and why romanized signs still confuse you",
-    "backfill": "2026-09-24 image-zero bug"
+    "backfill": "2026-09-24 image-zero bug",
+    "verifyStatus": "passed"
   },
   {
     "id": "fc9fee0a-b9ca-44d3-a1c3-e576b249b475",
@@ -14869,7 +14895,8 @@
     ],
     "sourceVideoUrl": null,
     "topic": "Hospital vs. clinic vs. pharmacy in Korea: where to actually go when you get sick",
-    "backfill": "2026-09-24 image-zero bug"
+    "backfill": "2026-09-24 image-zero bug",
+    "verifyStatus": "passed"
   },
   {
     "id": "b32d994b-fea2-4e4d-8118-09b008c1c54a",
@@ -14902,7 +14929,8 @@
     ],
     "sourceVideoUrl": null,
     "topic": "Hospital vs. clinic vs. pharmacy in Korea: where to actually go when you get sick",
-    "backfill": "2026-09-24 image-zero bug"
+    "backfill": "2026-09-24 image-zero bug",
+    "verifyStatus": "passed"
   },
   {
     "id": "8f649749-ed8b-424b-870c-76b80a81c369",
@@ -14935,7 +14963,8 @@
     ],
     "sourceVideoUrl": null,
     "topic": "Hospital vs. clinic vs. pharmacy in Korea: where to actually go when you get sick",
-    "backfill": "2026-09-24 image-zero bug"
+    "backfill": "2026-09-24 image-zero bug",
+    "verifyStatus": "passed"
   },
   {
     "id": "8233582c-5b6c-4197-af23-b8d6c1b95501",
@@ -14968,7 +14997,8 @@
     ],
     "sourceVideoUrl": null,
     "topic": "Cafes as workspaces in Korea: unspoken rules of study cafes, franchise chains, and 'no-laptop' signs",
-    "backfill": "2026-09-24 image-zero bug"
+    "backfill": "2026-09-24 image-zero bug",
+    "verifyStatus": "passed"
   },
   {
     "id": "72f52826-8d05-416d-839c-b036d511d545",
@@ -15001,7 +15031,8 @@
     ],
     "sourceVideoUrl": null,
     "topic": "Cafes as workspaces in Korea: unspoken rules of study cafes, franchise chains, and 'no-laptop' signs",
-    "backfill": "2026-09-24 image-zero bug"
+    "backfill": "2026-09-24 image-zero bug",
+    "verifyStatus": "passed"
   },
   {
     "id": "116fd0c5-c85d-4352-ac14-28670913858d",
@@ -15034,7 +15065,8 @@
     ],
     "sourceVideoUrl": null,
     "topic": "Cafes as workspaces in Korea: unspoken rules of study cafes, franchise chains, and 'no-laptop' signs",
-    "backfill": "2026-09-24 image-zero bug"
+    "backfill": "2026-09-24 image-zero bug",
+    "verifyStatus": "passed"
   },
   {
     "id": "e889abde-a9c6-4dcf-8167-1407e319f890",
@@ -15067,7 +15099,8 @@
     ],
     "sourceVideoUrl": null,
     "topic": "Reserving restaurants and joining waitlists in Korea: Catch Table, Naver booking, and the Tabling tablet",
-    "backfill": "2026-09-24 image-zero bug"
+    "backfill": "2026-09-24 image-zero bug",
+    "verifyStatus": "passed"
   },
   {
     "id": "8ab8da86-7e26-453a-bbea-e539c661ae96",
@@ -15100,7 +15133,8 @@
     ],
     "sourceVideoUrl": null,
     "topic": "Reserving restaurants and joining waitlists in Korea: Catch Table, Naver booking, and the Tabling tablet",
-    "backfill": "2026-09-24 image-zero bug"
+    "backfill": "2026-09-24 image-zero bug",
+    "verifyStatus": "passed"
   },
   {
     "id": "0ca1d0f9-d2af-4e27-be3c-ab5eddf89aca",
@@ -15133,7 +15167,8 @@
     ],
     "sourceVideoUrl": null,
     "topic": "Reserving restaurants and joining waitlists in Korea: Catch Table, Naver booking, and the Tabling tablet",
-    "backfill": "2026-09-24 image-zero bug"
+    "backfill": "2026-09-24 image-zero bug",
+    "verifyStatus": "passed"
   },
   {
     "id": "b28f5ea1-3b5f-4e26-88fc-adaba3ae8dca",
@@ -15162,7 +15197,8 @@
     ],
     "sourceVideoUrl": null,
     "topic": "Doing laundry in Korea: coin laundromats, the dryer problem, and neighborhood dry cleaners",
-    "backfill": "2026-09-24 image-zero bug"
+    "backfill": "2026-09-24 image-zero bug",
+    "verifyStatus": "passed"
   },
   {
     "id": "fc94a3e2-3bf3-4f05-8f37-6f126957b5dd",
@@ -15191,7 +15227,8 @@
     ],
     "sourceVideoUrl": null,
     "topic": "Doing laundry in Korea: coin laundromats, the dryer problem, and neighborhood dry cleaners",
-    "backfill": "2026-09-24 image-zero bug"
+    "backfill": "2026-09-24 image-zero bug",
+    "verifyStatus": "passed"
   },
   {
     "id": "45a3ad98-829f-430b-9b20-5bd38dc2bc2c",
@@ -15220,7 +15257,8 @@
     ],
     "sourceVideoUrl": null,
     "topic": "Doing laundry in Korea: coin laundromats, the dryer problem, and neighborhood dry cleaners",
-    "backfill": "2026-09-24 image-zero bug"
+    "backfill": "2026-09-24 image-zero bug",
+    "verifyStatus": "passed"
   },
   {
     "id": "c3d84a84-31f7-4b16-ac97-95c4071666a6",
@@ -15253,7 +15291,8 @@
     ],
     "sourceVideoUrl": null,
     "topic": "The closed-on-Monday trap: how Korean palaces and museums schedule their days off",
-    "backfill": "2026-09-24 image-zero bug"
+    "backfill": "2026-09-24 image-zero bug",
+    "verifyStatus": "passed"
   },
   {
     "id": "7450f9d3-5eb0-4a84-8a9f-e2cc1c3f4dce",
@@ -15286,7 +15325,8 @@
     ],
     "sourceVideoUrl": null,
     "topic": "The closed-on-Monday trap: how Korean palaces and museums schedule their days off",
-    "backfill": "2026-09-24 image-zero bug"
+    "backfill": "2026-09-24 image-zero bug",
+    "verifyStatus": "passed"
   },
   {
     "id": "b3b08129-50ac-4016-8938-9630fb59dfd6",
@@ -15319,7 +15359,8 @@
     ],
     "sourceVideoUrl": null,
     "topic": "Hiking in Korea like a local: subway-accessible peaks, seasonal trail closures, and the gear culture",
-    "backfill": "2026-09-24 image-zero bug"
+    "backfill": "2026-09-24 image-zero bug",
+    "verifyStatus": "passed"
   },
   {
     "id": "9471f870-196c-470c-ad59-a4a7bb5efb96",
@@ -15352,7 +15393,8 @@
     ],
     "sourceVideoUrl": null,
     "topic": "Hiking in Korea like a local: subway-accessible peaks, seasonal trail closures, and the gear culture",
-    "backfill": "2026-09-24 image-zero bug"
+    "backfill": "2026-09-24 image-zero bug",
+    "verifyStatus": "passed"
   },
   {
     "id": "1864a194-495e-40d5-b531-db6803e4b293",
@@ -15385,7 +15427,8 @@
     ],
     "sourceVideoUrl": null,
     "topic": "Hiking in Korea like a local: subway-accessible peaks, seasonal trail closures, and the gear culture",
-    "backfill": "2026-09-24 image-zero bug"
+    "backfill": "2026-09-24 image-zero bug",
+    "verifyStatus": "passed"
   },
   {
     "id": "08d6037f-cc59-467b-89b7-12327778e946",
@@ -15418,7 +15461,8 @@
     ],
     "sourceVideoUrl": null,
     "topic": "Where Koreans actually buy everyday stuff: Daiso vs. Olive Young vs. hypermarkets vs. the traditional market",
-    "backfill": "2026-09-24 image-zero bug"
+    "backfill": "2026-09-24 image-zero bug",
+    "verifyStatus": "passed"
   },
   {
     "id": "4d841c96-fd35-4eda-ae34-795307ce2de6",
@@ -15451,7 +15495,8 @@
     ],
     "sourceVideoUrl": null,
     "topic": "Where Koreans actually buy everyday stuff: Daiso vs. Olive Young vs. hypermarkets vs. the traditional market",
-    "backfill": "2026-09-24 image-zero bug"
+    "backfill": "2026-09-24 image-zero bug",
+    "verifyStatus": "passed"
   },
   {
     "id": "3dd6fb0c-dab8-4515-9b9f-eb93e1a8acc8",
@@ -15478,7 +15523,8 @@
     ],
     "sourceVideoUrl": null,
     "topic": "Day-tripping from Seoul by regular train: Mugunghwa, ITX-Saemaeul, and the Gyeongui-Jungang line",
-    "backfill": "2026-09-24 image-zero bug"
+    "backfill": "2026-09-24 image-zero bug",
+    "verifyStatus": "passed"
   },
   {
     "id": "3f84a1a7-6671-42a5-8a99-59433e867319",
@@ -15505,7 +15551,8 @@
     ],
     "sourceVideoUrl": null,
     "topic": "Day-tripping from Seoul by regular train: Mugunghwa, ITX-Saemaeul, and the Gyeongui-Jungang line",
-    "backfill": "2026-09-24 image-zero bug"
+    "backfill": "2026-09-24 image-zero bug",
+    "verifyStatus": "passed"
   },
   {
     "id": "7438ee06-2ea6-441f-905b-f25d600d3c64",
@@ -15532,6 +15579,799 @@
     ],
     "sourceVideoUrl": null,
     "topic": "Day-tripping from Seoul by regular train: Mugunghwa, ITX-Saemaeul, and the Gyeongui-Jungang line",
-    "backfill": "2026-09-24 image-zero bug"
+    "backfill": "2026-09-24 image-zero bug",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "001fc818-b9a9-482d-9ff5-f8030e9ad693",
+    "text": "You won't find this in the usual travel advice.\n\nHappy Chuseok from Land in Korea! 🌕\n\nChuseok is Korea's harvest holiday, celebrated under the brightest full moon of the year — this year it falls on September 25.\n\nFamilies head home, honor their ancestors, and share songpyeon, little half-moon rice cakes.\n\nThrough September 27, Seoul's four main palaces and Jongmyo Shrine are free to enter (the Secret Garden tour is the exception).\n\nWant to greet someone? Try 'Chuseok jal bonaeseyo' — have a good Chuseok. What would you try first?\n\n📖 More on the blog — link in bio.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1790314225635-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1790314225635-0.jpg",
+      "https://landinkorea.com/sns-media/images/1790314225635-1.jpg",
+      "https://images.pexels.com/photos/31851342/pexels-photo-31851342.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://landinkorea.com/sns-media/images/1790314225635-3.jpg",
+      "https://landinkorea.com/sns-media/images/1790314225635-4.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-09-26T03:00:00.602Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-25T05:36:04.548Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g2fb425d6e7b848f55bca0a3c5aea0d2f3e9867b51c2011a85e1cbd3fc6b37b626e2c4067dc0a92acacb60d82591294fc8c757e125962c8e0600213dce26f12de_1280.jpg",
+      "https://images.pexels.com/photos/29562553/pexels-photo-29562553.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31851342/pexels-photo-31851342.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29562547/pexels-photo-29562547.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36865958/pexels-photo-36865958.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/30012658/12876526_1080_1920_60fps.mp4",
+    "topic": "Chuseok in Korea: free palace days, songpyeon, and how to wish someone a happy holiday",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽으며, 제시된 사실이 과장되지 않아 여행 정보로 충분히 유용합니다.",
+      "model": "groq",
+      "checkedAt": "2026-09-25T05:34:50.355Z"
+    },
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "00942c5a-ba92-4aec-aab1-36ab56c0e007",
+    "text": "You won't find this in the usual travel advice. Happy Chuseok! 🌕 Here's how to enjoy Korea's harvest holiday as a visitor.\n\n1. Chuseok falls on September 25 this year, with the official holiday running September 24-26.\n2. Seoul's four main palaces, Jongmyo Shrine and the Joseon royal tombs are free to enter September 24-27 — only the Changdeokgung Secret Garden tour is excluded.\n3. Gyeongbokgung's Royal Guard Changing Ceremony still runs at 10 a.m. and 2 p.m.\n4. Try songpyeon, the half-moon rice cakes families make together.\n5. Many small restaurants close for the holiday — chains and department-store food courts stay open.\n\nGreeting to learn: 'Chuseok jal bonaeseyo' (추석 잘 보내세요) — have a good Chuseok!\nAre you spending Chuseok in Korea this year?\n\n📖 More on the blog: https://landinkorea.com/index.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1790314225635-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1790314225635-0.jpg",
+      "https://landinkorea.com/sns-media/images/1790314225635-1.jpg",
+      "https://images.pexels.com/photos/31851342/pexels-photo-31851342.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://landinkorea.com/sns-media/images/1790314225635-3.jpg",
+      "https://landinkorea.com/sns-media/images/1790314225635-4.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-09-26T03:02:37.167Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-25T05:36:04.569Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g2fb425d6e7b848f55bca0a3c5aea0d2f3e9867b51c2011a85e1cbd3fc6b37b626e2c4067dc0a92acacb60d82591294fc8c757e125962c8e0600213dce26f12de_1280.jpg",
+      "https://images.pexels.com/photos/29562553/pexels-photo-29562553.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31851342/pexels-photo-31851342.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29562547/pexels-photo-29562547.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36865958/pexels-photo-36865958.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/30012658/12876526_1080_1920_60fps.mp4",
+    "topic": "Chuseok in Korea: free palace days, songpyeon, and how to wish someone a happy holiday",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽으며, 제시된 사실이 과장되지 않아 여행 정보로 충분히 유용합니다.",
+      "model": "groq",
+      "checkedAt": "2026-09-25T05:34:50.355Z"
+    },
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "7549930d-fb74-4375-b7e0-9888113e2b66",
+    "text": "You won't find this in the usual travel advice.\n\nHappy Chuseok from Korea, free palaces all holiday long.\n\nChuseok is Korea's harvest full-moon holiday — September 25 this year. Through September 27, Gyeongbokgung, Changdeokgung, Deoksugung, Changgyeonggung and Jongmyo are all free to enter (Secret Garden excluded). Grab some songpyeon and say 'Chuseok jal bonaeseyo' 🌕🇰🇷\n\nSave this for your holiday plans.\n\n📖 More tips on the blog — link in bio.\n\n#Chuseok #HappyChuseok #KoreaTravel #SeoulPalace #VisitKorea\n\n🎵 \"All my Life ( Male Pop Mix )\" by Hasenchat is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1790314527273-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-09-26T03:09:30.053Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-25T05:36:04.590Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g2fb425d6e7b848f55bca0a3c5aea0d2f3e9867b51c2011a85e1cbd3fc6b37b626e2c4067dc0a92acacb60d82591294fc8c757e125962c8e0600213dce26f12de_1280.jpg",
+      "https://images.pexels.com/photos/29562553/pexels-photo-29562553.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31851342/pexels-photo-31851342.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29562547/pexels-photo-29562547.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36865958/pexels-photo-36865958.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/30012658/12876526_1080_1920_60fps.mp4",
+    "topic": "Chuseok in Korea: free palace days, songpyeon, and how to wish someone a happy holiday",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽으며, 제시된 사실이 과장되지 않아 여행 정보로 충분히 유용합니다.",
+      "model": "groq",
+      "checkedAt": "2026-09-25T05:34:50.355Z"
+    },
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "0e4593b2-0b93-40c8-89b1-371c38b31e29",
+    "text": "Happy Chuseok! 🌕 Here's how to enjoy Korea's harvest holiday as a visitor.\n\n1. Chuseok falls on September 25 this year, with the official holiday running September 24-26.\n2. Seoul's four main palaces, Jongmyo Shrine and the Joseon royal tombs are free to enter September 24-27 — only the Changdeokgung Secret Garden tour is excluded.\n3. Gyeongbokgung's Royal Guard Changing Ceremony still runs at 10 a.m. and 2 p.m.\n4. Try songpyeon, the half-moon rice cakes families make together.\n5. Many small restaurants close for the holiday — chains and department-store food courts stay open.\n\nGreeting to learn: 'Chuseok jal bonaeseyo' (추석 잘 보내세요) — have a good Chuseok!\nAre you spending Chuseok in Korea this year?",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1790314225635-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1790314225635-0.jpg"
+    ],
+    "platforms": [
+      "pinterest"
+    ],
+    "scheduledAt": "2026-09-26T05:59:02.099Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-25T05:36:04.609Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g2fb425d6e7b848f55bca0a3c5aea0d2f3e9867b51c2011a85e1cbd3fc6b37b626e2c4067dc0a92acacb60d82591294fc8c757e125962c8e0600213dce26f12de_1280.jpg",
+      "https://images.pexels.com/photos/29562553/pexels-photo-29562553.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31851342/pexels-photo-31851342.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29562547/pexels-photo-29562547.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36865958/pexels-photo-36865958.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/30012658/12876526_1080_1920_60fps.mp4",
+    "topic": "Chuseok in Korea: free palace days, songpyeon, and how to wish someone a happy holiday",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽으며, 제시된 사실이 과장되지 않아 여행 정보로 충분히 유용합니다.",
+      "model": "groq",
+      "checkedAt": "2026-09-25T05:34:50.355Z"
+    },
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "6a0f1d4d-9da4-4984-ac4d-16c9e8c8ad46",
+    "text": "You won't find this in the usual travel advice.\n\nHappy Chuseok from Land in Korea! 🌕\n\nChuseok is Korea's harvest holiday, celebrated under the brightest full moon of the year — this year it falls on September 25.\n\nFamilies head home, honor their ancestors, and share songpyeon, little half-moon rice cakes.\n\nThrough September 27, Seoul's four main palaces and Jongmyo Shrine are free to enter (the Secret Garden tour is the exception).\n\nWant to greet someone? Try 'Chuseok jal bonaeseyo' — have a good Chuseok. What would you try first?",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1790314225635-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1790314225635-0.jpg",
+      "https://landinkorea.com/sns-media/images/1790314225635-1.jpg",
+      "https://images.pexels.com/photos/31851342/pexels-photo-31851342.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://landinkorea.com/sns-media/images/1790314225635-3.jpg"
+    ],
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-09-26T03:31:06.688Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-25T05:36:04.626Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g2fb425d6e7b848f55bca0a3c5aea0d2f3e9867b51c2011a85e1cbd3fc6b37b626e2c4067dc0a92acacb60d82591294fc8c757e125962c8e0600213dce26f12de_1280.jpg",
+      "https://images.pexels.com/photos/29562553/pexels-photo-29562553.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31851342/pexels-photo-31851342.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29562547/pexels-photo-29562547.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36865958/pexels-photo-36865958.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/30012658/12876526_1080_1920_60fps.mp4",
+    "topic": "Chuseok in Korea: free palace days, songpyeon, and how to wish someone a happy holiday",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽으며, 제시된 사실이 과장되지 않아 여행 정보로 충분히 유용합니다.",
+      "model": "groq",
+      "checkedAt": "2026-09-25T05:34:50.355Z"
+    },
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "e165a754-675c-46fb-80ca-26f208afda8b",
+    "text": "You won't find this in the usual travel advice.\n\nHappy Chuseok from Land in Korea! 🌕\n\nChuseok is Korea's harvest holiday, celebrated under the brightest full moon of the year — this year it falls on September 25.\n\nFamilies head home, honor their ancestors, and share songpyeon, little half-moon rice cakes.\n\nThrough September 27, Seoul's four main palaces and Jongmyo Shrine are free to enter (the Secret Garden tour is the exception).\n\nWant to greet someone? Try 'Chuseok jal bonaeseyo' — have a good Chuseok. What would you try first?",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1790314225635-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1790314225635-0.jpg",
+      "https://landinkorea.com/sns-media/images/1790314225635-1.jpg",
+      "https://images.pexels.com/photos/31851342/pexels-photo-31851342.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://landinkorea.com/sns-media/images/1790314225635-3.jpg"
+    ],
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-09-26T03:59:24.045Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-25T05:36:04.644Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g2fb425d6e7b848f55bca0a3c5aea0d2f3e9867b51c2011a85e1cbd3fc6b37b626e2c4067dc0a92acacb60d82591294fc8c757e125962c8e0600213dce26f12de_1280.jpg",
+      "https://images.pexels.com/photos/29562553/pexels-photo-29562553.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31851342/pexels-photo-31851342.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29562547/pexels-photo-29562547.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36865958/pexels-photo-36865958.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/30012658/12876526_1080_1920_60fps.mp4",
+    "topic": "Chuseok in Korea: free palace days, songpyeon, and how to wish someone a happy holiday",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽으며, 제시된 사실이 과장되지 않아 여행 정보로 충분히 유용합니다.",
+      "model": "groq",
+      "checkedAt": "2026-09-25T05:34:50.355Z"
+    },
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "773416af-594d-4d97-8d97-81699a7e274e",
+    "text": "Happy Chuseok! 🌕 Here's how to enjoy Korea's harvest holiday as a visitor.\n\n1. Chuseok falls on September 25 this year, with the official holiday running September 24-26.\n2. Seoul's four main palaces, Jongmyo Shrine and the Joseon royal tombs are free to enter September 24-27 — only the Changdeokgung Secret Garden tour is excluded.\n3. Gyeongbokgung's Royal Guard Changing Ceremony still runs at 10 a.m. and 2 p.m.\n4. Try songpyeon, the half-moon rice cakes families make together.\n5. Many small restaurants close for the holiday — chains and department-store food courts stay open.\n\nGreeting to learn: 'Chuseok jal bonaeseyo' (추석 잘 보내세요) — have a good Chuseok!\nAre you spending Chuseok in Korea this year?",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1790314225635-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1790314225635-0.jpg",
+      "https://landinkorea.com/sns-media/images/1790314225635-1.jpg",
+      "https://images.pexels.com/photos/31851342/pexels-photo-31851342.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://landinkorea.com/sns-media/images/1790314225635-3.jpg"
+    ],
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-09-26T06:01:34.990Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-25T05:36:04.664Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g2fb425d6e7b848f55bca0a3c5aea0d2f3e9867b51c2011a85e1cbd3fc6b37b626e2c4067dc0a92acacb60d82591294fc8c757e125962c8e0600213dce26f12de_1280.jpg",
+      "https://images.pexels.com/photos/29562553/pexels-photo-29562553.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31851342/pexels-photo-31851342.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29562547/pexels-photo-29562547.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36865958/pexels-photo-36865958.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/30012658/12876526_1080_1920_60fps.mp4",
+    "topic": "Chuseok in Korea: free palace days, songpyeon, and how to wish someone a happy holiday",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽으며, 제시된 사실이 과장되지 않아 여행 정보로 충분히 유용합니다.",
+      "model": "groq",
+      "checkedAt": "2026-09-25T05:34:50.355Z"
+    },
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "0510668b-89af-49a2-a0fe-180afcd9b8c7",
+    "text": "Locals do this differently than every blog post says.\n\nKorea's most beautiful river at night is coming up: the Jinju Namgang Yudeung lantern festival, October 3-18.\n\nThousands of lanterns float on the Namgang River below Jinju Fortress.\n\nThe tradition goes back to the 1592 siege of Jinju, when lanterns on the river were used as signals.\n\nIt's about 3.5-4 hours from Seoul by KTX or express bus, so most people stay overnight — book early.\n\nWould you make the trip for this?\n\n📖 More on the blog — link in bio.",
+    "imageUrl": "https://images.pexels.com/photos/25664945/pexels-photo-25664945.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "imageUrls": [
+      "https://images.pexels.com/photos/25664945/pexels-photo-25664945.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://landinkorea.com/sns-media/images/1790314569125-1.jpg",
+      "https://images.pexels.com/photos/18495182/pexels-photo-18495182.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://landinkorea.com/sns-media/images/1790314569125-3.jpg",
+      "https://images.pexels.com/photos/9647528/pexels-photo-9647528.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-09-25T13:21:43.505Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-25T05:41:28.647Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/25664945/pexels-photo-25664945.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/52547/lantern-festival-seoul-cheonggyecheon-stream-lantern-52547.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18495182/pexels-photo-18495182.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1119723/pexels-photo-1119723.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9647528/pexels-photo-9647528.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2021/05/23/75008-554074757_large.mp4",
+    "topic": "Jinju Namgang Yudeung lantern festival: when to go and how to get there from Seoul",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽고, 제시된 정보가 타당하며 여행자에게 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-09-25T05:39:43.545Z"
+    },
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "ea1b4485-e343-4ade-af0c-ca52d9c87bf7",
+    "text": "Locals do this differently than every blog post says. Planning October in Korea? Put the Jinju lantern festival on the list. 🏮\n\n1. The Jinju Namgang Yudeung Festival runs October 3-18, 2026.\n2. Lanterns are lit from 6 p.m. — arrive before dusk to watch the river light up.\n3. It traces back to the 1592 siege of Jinju Fortress, when lanterns were floated as signals.\n4. KTX from Seoul Station or express buses from Seoul take roughly 3.5-4 hours.\n5. Rooms near the river go fast on weekends — weekdays are much calmer.\n\nOpening and closing nights add fireworks over the river.\nWould you go on a weekday or for the fireworks?\n\n📖 More on the blog: https://landinkorea.com/index.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://images.pexels.com/photos/25664945/pexels-photo-25664945.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "imageUrls": [
+      "https://images.pexels.com/photos/25664945/pexels-photo-25664945.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://landinkorea.com/sns-media/images/1790314569125-1.jpg",
+      "https://images.pexels.com/photos/18495182/pexels-photo-18495182.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://landinkorea.com/sns-media/images/1790314569125-3.jpg",
+      "https://images.pexels.com/photos/9647528/pexels-photo-9647528.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-09-25T13:30:36.278Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-25T05:41:28.667Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/25664945/pexels-photo-25664945.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/52547/lantern-festival-seoul-cheonggyecheon-stream-lantern-52547.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18495182/pexels-photo-18495182.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1119723/pexels-photo-1119723.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9647528/pexels-photo-9647528.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2021/05/23/75008-554074757_large.mp4",
+    "topic": "Jinju Namgang Yudeung lantern festival: when to go and how to get there from Seoul",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽고, 제시된 정보가 타당하며 여행자에게 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-09-25T05:39:43.545Z"
+    },
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "f3f39139-aa95-4cdd-a169-90efc2f2a486",
+    "text": "Locals do this differently than every blog post says.\n\nKorea's lantern river is back: Jinju, October 3-18.\n\nThousands of lanterns float on the Namgang River below Jinju Fortress, lit from 6 p.m. It's 3.5-4 hours from Seoul, so plan an overnight stay and go on a weekday if you can 🏮\n\nSave this for your October trip.\n\n📖 More tips on the blog — link in bio.\n\n#JinjuLanternFestival #KoreaFestival #KoreaTravel #AutumnInKorea #VisitKorea\n\n🎵 \"Dancing on my Own ( Pop Mix )\" by Hasenchat is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1790314844187-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-09-25T13:34:42.055Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-25T05:41:28.686Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/25664945/pexels-photo-25664945.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/52547/lantern-festival-seoul-cheonggyecheon-stream-lantern-52547.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18495182/pexels-photo-18495182.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1119723/pexels-photo-1119723.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9647528/pexels-photo-9647528.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2021/05/23/75008-554074757_large.mp4",
+    "topic": "Jinju Namgang Yudeung lantern festival: when to go and how to get there from Seoul",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽고, 제시된 정보가 타당하며 여행자에게 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-09-25T05:39:43.545Z"
+    },
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "ee315704-d213-468b-9bd5-7bec5f698328",
+    "text": "Planning October in Korea? Put the Jinju lantern festival on the list. 🏮\n\n1. The Jinju Namgang Yudeung Festival runs October 3-18, 2026.\n2. Lanterns are lit from 6 p.m. — arrive before dusk to watch the river light up.\n3. It traces back to the 1592 siege of Jinju Fortress, when lanterns were floated as signals.\n4. KTX from Seoul Station or express buses from Seoul take roughly 3.5-4 hours.\n5. Rooms near the river go fast on weekends — weekdays are much calmer.\n\nOpening and closing nights add fireworks over the river.\nWould you go on a weekday or for the fireworks?",
+    "imageUrl": "https://images.pexels.com/photos/25664945/pexels-photo-25664945.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "imageUrls": [
+      "https://images.pexels.com/photos/25664945/pexels-photo-25664945.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "platforms": [
+      "pinterest"
+    ],
+    "scheduledAt": "2026-09-25T16:23:06.295Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-25T05:41:28.711Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/25664945/pexels-photo-25664945.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/52547/lantern-festival-seoul-cheonggyecheon-stream-lantern-52547.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18495182/pexels-photo-18495182.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1119723/pexels-photo-1119723.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9647528/pexels-photo-9647528.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2021/05/23/75008-554074757_large.mp4",
+    "topic": "Jinju Namgang Yudeung lantern festival: when to go and how to get there from Seoul",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽고, 제시된 정보가 타당하며 여행자에게 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-09-25T05:39:43.545Z"
+    },
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "14697e3e-e367-45c3-92ee-ef34b828b534",
+    "text": "Locals do this differently than every blog post says.\n\nKorea's most beautiful river at night is coming up: the Jinju Namgang Yudeung lantern festival, October 3-18.\n\nThousands of lanterns float on the Namgang River below Jinju Fortress.\n\nThe tradition goes back to the 1592 siege of Jinju, when lanterns on the river were used as signals.\n\nIt's about 3.5-4 hours from Seoul by KTX or express bus, so most people stay overnight — book early.\n\nWould you make the trip for this?",
+    "imageUrl": "https://images.pexels.com/photos/25664945/pexels-photo-25664945.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "imageUrls": [
+      "https://images.pexels.com/photos/25664945/pexels-photo-25664945.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://landinkorea.com/sns-media/images/1790314569125-1.jpg",
+      "https://images.pexels.com/photos/18495182/pexels-photo-18495182.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://landinkorea.com/sns-media/images/1790314569125-3.jpg"
+    ],
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-09-25T13:56:09.121Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-25T05:41:28.735Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/25664945/pexels-photo-25664945.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/52547/lantern-festival-seoul-cheonggyecheon-stream-lantern-52547.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18495182/pexels-photo-18495182.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1119723/pexels-photo-1119723.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9647528/pexels-photo-9647528.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2021/05/23/75008-554074757_large.mp4",
+    "topic": "Jinju Namgang Yudeung lantern festival: when to go and how to get there from Seoul",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽고, 제시된 정보가 타당하며 여행자에게 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-09-25T05:39:43.545Z"
+    },
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "85283e1a-3b84-4163-aeb6-d134bfdf413c",
+    "text": "Locals do this differently than every blog post says.\n\nKorea's most beautiful river at night is coming up: the Jinju Namgang Yudeung lantern festival, October 3-18.\n\nThousands of lanterns float on the Namgang River below Jinju Fortress.\n\nThe tradition goes back to the 1592 siege of Jinju, when lanterns on the river were used as signals.\n\nIt's about 3.5-4 hours from Seoul by KTX or express bus, so most people stay overnight — book early.\n\nWould you make the trip for this?",
+    "imageUrl": "https://images.pexels.com/photos/25664945/pexels-photo-25664945.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "imageUrls": [
+      "https://images.pexels.com/photos/25664945/pexels-photo-25664945.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://landinkorea.com/sns-media/images/1790314569125-1.jpg",
+      "https://images.pexels.com/photos/18495182/pexels-photo-18495182.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://landinkorea.com/sns-media/images/1790314569125-3.jpg"
+    ],
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-09-25T14:20:49.936Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-25T05:41:28.758Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/25664945/pexels-photo-25664945.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/52547/lantern-festival-seoul-cheonggyecheon-stream-lantern-52547.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18495182/pexels-photo-18495182.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1119723/pexels-photo-1119723.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9647528/pexels-photo-9647528.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2021/05/23/75008-554074757_large.mp4",
+    "topic": "Jinju Namgang Yudeung lantern festival: when to go and how to get there from Seoul",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽고, 제시된 정보가 타당하며 여행자에게 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-09-25T05:39:43.545Z"
+    },
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "c125a1ea-7554-4acd-af93-f2d87d5ccc19",
+    "text": "Planning October in Korea? Put the Jinju lantern festival on the list. 🏮\n\n1. The Jinju Namgang Yudeung Festival runs October 3-18, 2026.\n2. Lanterns are lit from 6 p.m. — arrive before dusk to watch the river light up.\n3. It traces back to the 1592 siege of Jinju Fortress, when lanterns were floated as signals.\n4. KTX from Seoul Station or express buses from Seoul take roughly 3.5-4 hours.\n5. Rooms near the river go fast on weekends — weekdays are much calmer.\n\nOpening and closing nights add fireworks over the river.\nWould you go on a weekday or for the fireworks?",
+    "imageUrl": "https://images.pexels.com/photos/25664945/pexels-photo-25664945.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "imageUrls": [
+      "https://images.pexels.com/photos/25664945/pexels-photo-25664945.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://landinkorea.com/sns-media/images/1790314569125-1.jpg",
+      "https://images.pexels.com/photos/18495182/pexels-photo-18495182.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://landinkorea.com/sns-media/images/1790314569125-3.jpg"
+    ],
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-09-25T16:25:52.669Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-25T05:41:28.791Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/25664945/pexels-photo-25664945.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/52547/lantern-festival-seoul-cheonggyecheon-stream-lantern-52547.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18495182/pexels-photo-18495182.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1119723/pexels-photo-1119723.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9647528/pexels-photo-9647528.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2021/05/23/75008-554074757_large.mp4",
+    "topic": "Jinju Namgang Yudeung lantern festival: when to go and how to get there from Seoul",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽고, 제시된 정보가 타당하며 여행자에게 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-09-25T05:39:43.545Z"
+    },
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "7569cd1b-6d0d-4687-95b4-6d5323bbffb1",
+    "text": "First‑time shoppers think all Korean stores use the same Tax Free sticker system.\n\nAt Namdaemun Market, most stalls don’t have the sticker you see in Myeongdong department stores.\n\nBefore you buy, glance at the wall‑mounted Tax Free badge – if it’s missing, you won’t get a refund.\n\nDon’t assume a cheap souvenir is refundable; independent stalls often aren’t in the refund network.\n\nHave you ever missed a refund because a market stall lacked the sticker?\n\n📖 More on the blog — link in bio.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1790314894589-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1790314894589-0.jpg",
+      "https://landinkorea.com/sns-media/images/1790314894589-1.jpg",
+      "https://landinkorea.com/sns-media/images/1790314894589-2.jpg",
+      "https://landinkorea.com/sns-media/images/1790314894589-3.jpg",
+      "https://landinkorea.com/sns-media/images/1790314894589-4.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-09-26T01:34:26.900Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-25T05:45:06.369Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/32211598/pexels-photo-32211598.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18936020/pexels-photo-18936020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31826561/pexels-photo-31826561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19590472/pexels-photo-19590472.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31680674/pexels-photo-31680674.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2019/06/23/24602-344986228_large.mp4",
+    "topic": "Namdaemun Market",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽으며, 사실관계도 크게 문제없고 여행자에게 유용한 정보가 포함되어 있습니다",
+      "model": "groq",
+      "checkedAt": "2026-09-25T05:44:03.588Z"
+    },
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "d5f13c4f-c66b-4a1f-8dfe-4233470f410b",
+    "text": "Think every shop in Korea offers Tax Free refunds? Not at Namdaemun Market – most stalls don’t have the official sticker. \n1️⃣ Look for the yellow‑green Tax Free sticker on the shop window.\n2️⃣ Big Myeongdong stores almost always have it; small Namdaemun stalls rarely do.\n3️⃣ No sticker means no refund at the airport.\n4️⃣ The market also sells clothing, eyewear, kitchenware, plus foods like hotteok and tteokbokki.\n✅ Check the sticker before you buy.\nEver lost a refund because of this? Save this for your next market run.\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-namdaemun-market.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1790314894589-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1790314894589-0.jpg",
+      "https://landinkorea.com/sns-media/images/1790314894589-1.jpg",
+      "https://landinkorea.com/sns-media/images/1790314894589-2.jpg",
+      "https://landinkorea.com/sns-media/images/1790314894589-3.jpg",
+      "https://landinkorea.com/sns-media/images/1790314894589-4.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-09-26T01:36:20.849Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-25T05:45:06.387Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/32211598/pexels-photo-32211598.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18936020/pexels-photo-18936020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31826561/pexels-photo-31826561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19590472/pexels-photo-19590472.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31680674/pexels-photo-31680674.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2019/06/23/24602-344986228_large.mp4",
+    "topic": "Namdaemun Market",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽으며, 사실관계도 크게 문제없고 여행자에게 유용한 정보가 포함되어 있습니다",
+      "model": "groq",
+      "checkedAt": "2026-09-25T05:44:03.588Z"
+    },
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "e0c23646-80b3-40b9-b3b8-a17a362489ea",
+    "text": "Ever grabbed a souvenir at Namdaemun and missed the Tax Free refund?\nOnly stalls with the official Tax Free sticker qualify – most small vendors don’t have it.\nTap save so you remember to check the sticker next time you shop.\n📖 More tips on the blog — link in bio.\n#KoreaTravel #SeoulTrip #TaxFree #Namdaemun #TravelTips\n\n🎵 \"Market and Stalls\" by Felixjd is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1790315074671-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-09-26T01:41:58.899Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-25T05:45:06.405Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/32211598/pexels-photo-32211598.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18936020/pexels-photo-18936020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31826561/pexels-photo-31826561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19590472/pexels-photo-19590472.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31680674/pexels-photo-31680674.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2019/06/23/24602-344986228_large.mp4",
+    "topic": "Namdaemun Market",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽으며, 사실관계도 크게 문제없고 여행자에게 유용한 정보가 포함되어 있습니다",
+      "model": "groq",
+      "checkedAt": "2026-09-25T05:44:03.588Z"
+    },
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "8f5020ce-0728-4689-af21-00ca1ebdb2af",
+    "text": "Namdaemun Market Tax Free guide: avoid losing refunds on your Seoul trip\n1. Look for the official yellow‑green Tax Free sticker; stalls without it aren’t eligible for refunds.\n2. Bigger stores in Myeongdong usually have the sticker, making them safer for VAT reclaim.\n3. Remember the market also offers clothing, eyewear, kitchenware, plus popular foods like hotteok and tteokbokki.\nRead the full guide on our blog → https://english.visitkorea.or.kr",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1790314894589-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1790314894589-0.jpg"
+    ],
+    "platforms": [
+      "pinterest"
+    ],
+    "scheduledAt": "2026-09-26T04:36:04.637Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-25T05:45:06.426Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/32211598/pexels-photo-32211598.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18936020/pexels-photo-18936020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31826561/pexels-photo-31826561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19590472/pexels-photo-19590472.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31680674/pexels-photo-31680674.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2019/06/23/24602-344986228_large.mp4",
+    "topic": "Namdaemun Market",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽으며, 사실관계도 크게 문제없고 여행자에게 유용한 정보가 포함되어 있습니다",
+      "model": "groq",
+      "checkedAt": "2026-09-25T05:44:03.588Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-namdaemun-market.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "5f07e101-f6be-421d-89a3-9fdf83f67d40",
+    "text": "Many tourists assume every Korean shop offers the same Tax Free sticker system.\n\nAt Namdaemun Market, most of the small stalls don’t display the official Tax Free badge you see in Myeongdong.\n\nA quick glance at the window for the yellow‑green sticker tells you instantly whether you can claim a VAT refund later.\n\nIf the sticker is missing, treat the purchase as non‑refundable – even cheap souvenirs won’t qualify. #TravelBlog\n\nDid you ever lose a refund because you missed the sticker at a market stall?",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1790314894589-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1790314894589-0.jpg",
+      "https://landinkorea.com/sns-media/images/1790314894589-1.jpg",
+      "https://landinkorea.com/sns-media/images/1790314894589-2.jpg",
+      "https://landinkorea.com/sns-media/images/1790314894589-3.jpg"
+    ],
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-09-26T02:06:24.366Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-25T05:45:06.444Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/32211598/pexels-photo-32211598.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18936020/pexels-photo-18936020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31826561/pexels-photo-31826561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19590472/pexels-photo-19590472.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31680674/pexels-photo-31680674.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2019/06/23/24602-344986228_large.mp4",
+    "topic": "Namdaemun Market",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽으며, 사실관계도 크게 문제없고 여행자에게 유용한 정보가 포함되어 있습니다",
+      "model": "groq",
+      "checkedAt": "2026-09-25T05:44:03.588Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-namdaemun-market.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "ed50da5b-6300-4ac5-b3b6-1af485f70300",
+    "text": "First‑time visitors often think the Tax Free sticker works everywhere in Seoul.\n\nAt Namdaemun Market, the majority of independent stalls lack the official Tax Free sticker that department stores in Myeongdong display.\n\nBefore you hand over cash, scan the shop’s window for the yellow‑green badge; without it you can’t file a refund at the airport.\n\nBuying a souvenir from a stall without the sticker means you’ll forfeit the 10‑15% VAT refund, even if the price seems low.\n\nHave you ever walked away from a market purchase only to discover you missed a refund? #KoreaTravel #TravelTips #Seoul #FirstTimeInKorea",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1790314894589-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1790314894589-0.jpg",
+      "https://landinkorea.com/sns-media/images/1790314894589-1.jpg",
+      "https://landinkorea.com/sns-media/images/1790314894589-2.jpg",
+      "https://landinkorea.com/sns-media/images/1790314894589-3.jpg"
+    ],
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-09-26T02:31:39.471Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-25T05:45:06.462Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/32211598/pexels-photo-32211598.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18936020/pexels-photo-18936020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31826561/pexels-photo-31826561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19590472/pexels-photo-19590472.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31680674/pexels-photo-31680674.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2019/06/23/24602-344986228_large.mp4",
+    "topic": "Namdaemun Market",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽으며, 사실관계도 크게 문제없고 여행자에게 유용한 정보가 포함되어 있습니다",
+      "model": "groq",
+      "checkedAt": "2026-09-25T05:44:03.588Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-namdaemun-market.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "4a774ab1-94f4-43a4-bbf2-d1faaa3bb2a8",
+    "text": "Think every shop in Seoul gives Tax Free refunds? At Namdaemun Market most stalls don’t have the official sticker, so you can’t claim a refund.\n1. Look for the yellow‑green Tax Free badge on the storefront; if it’s absent, the shop isn’t in the refund network.\n2. Larger retailers in Myeongdong usually have the badge, making them safe for VAT refunds.\n3. The market also offers clothing, eyewear, kitchenware, and food stalls like hotteok and tteokbokki – but only sticker‑marked shops qualify for refunds.\nNext time you shop, check the sticker first and keep your receipts.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1790314894589-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1790314894589-0.jpg",
+      "https://landinkorea.com/sns-media/images/1790314894589-1.jpg",
+      "https://landinkorea.com/sns-media/images/1790314894589-2.jpg",
+      "https://landinkorea.com/sns-media/images/1790314894589-3.jpg"
+    ],
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-09-26T04:32:04.896Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-25T05:45:06.485Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/32211598/pexels-photo-32211598.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18936020/pexels-photo-18936020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31826561/pexels-photo-31826561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19590472/pexels-photo-19590472.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31680674/pexels-photo-31680674.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2019/06/23/24602-344986228_large.mp4",
+    "topic": "Namdaemun Market",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽으며, 사실관계도 크게 문제없고 여행자에게 유용한 정보가 포함되어 있습니다",
+      "model": "groq",
+      "checkedAt": "2026-09-25T05:44:03.588Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-namdaemun-market.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
   }
 ]
