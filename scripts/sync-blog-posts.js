@@ -18,7 +18,8 @@ const { fetchKoreaTravelTopics } = require('../lib/ingestion/korea_travel');
 const { loadTopicSlugs, saveTopicSlugs } = require('../lib/ingestion/topic_blog_links');
 const { pushBlogPost, listExistingSlugs } = require('../lib/publishing/blog_repo');
 const { blogContentQueue } = require('../lib/scheduler/prewritten_content');
-const { checkPublishable } = require('../lib/publishing/blog_quality');
+const { checkPostQuality, checkReviews, checkPublishable } = require('../lib/publishing/blog_quality');
+const { addReviews } = require('../lib/publishing/ai_review');
 
 // 알려진 12개 주제의 카테고리는 사람이 직접 정한 값을 그대로 쓰고, 앞으로
 // korea_travel.js에 새 주제가 추가되면 키워드 기반으로 적당한 카테고리를 추정합니다.
@@ -115,20 +116,27 @@ const main = async () => {
     const slug = slugify(topic.source);
     const category = guessCategory(topic.source);
 
-    // 2026-09-23: 자동 실행 중엔 글을 쓰지도, API로 검증하지도 않는다. Claude Code 세션에서 작성 +
-    // 상위 모델 독립 검수 2회(blog_quality.js checkReviews)까지 통과한 사전 작성 글만 발행한다(크레딧
-    // 소진 시 템플릿 글이 "성공"으로 나간 사고 재발 방지). 없거나 기준 미달이면 그 주제는 건너뛴다.
-    const generated = blogContentQueue.get(topic.source);
+    // 2026-09-23: 자동 실행 중엔 글을 쓰지 않는다. Claude Code 세션에서 작성 + 독립 검수 2회
+    // (blog_quality.js checkReviews)까지 통과한 사전 작성 글만 발행한다(크레딧 소진 시 템플릿 글이
+    // "성공"으로 나간 사고 재발 방지). 없거나 기준 미달이면 그 주제는 건너뛴다.
+    // 2026-09-24: 검수는 Groq 무료 모델 2개가 여기서 한다(ai_review.js) — 규칙 게이트를 통과한 글만.
+    let generated = blogContentQueue.get(topic.source);
     if (!generated) {
       log.warn(`"${topic.source}": 사전 작성 글 없음 — 건너뜀.`);
       continue;
     }
+    if (!checkPostQuality(generated).length && checkReviews(generated).length) {
+      const existingPosts = Object.entries(blogContentQueue.load()).filter(([k]) => slugs[k]).map(([, v]) => v);
+      generated = await addReviews(generated, { existingPosts }, (err) => log.warn(`"${topic.source}" 검수 보류: ${err.message}`));
+      blogContentQueue.set(topic.source, generated);
+    }
     const problems = checkPublishable(generated);
     if (problems.length) {
-      log.err(`"${topic.source}" 발행 차단: ${problems.join(', ')}`);
+      const issues = (generated.reviews || []).filter((r) => !r.pass).flatMap((r) => r.issues || []);
+      log.err(`"${topic.source}" 발행 차단: ${[...problems, ...issues].join(', ')}`);
       continue;
     }
-    log.ok(`검수 완료된 사전 작성 글 사용 (${topic.source}, API 호출 없음)`);
+    log.ok(`검수 완료된 사전 작성 글 사용 (${topic.source})`);
 
     const markdown = buildMarkdown(slug, category, generated);
     const url = pushBlogPost({ slug, markdown });

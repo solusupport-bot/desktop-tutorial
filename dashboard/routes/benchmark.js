@@ -1,10 +1,10 @@
 // "경쟁/벤치마킹 계정 구조 분석" — Apify/Whisper 없이, 참고하고 싶은 게시물의
 // 캡션 텍스트를 직접 붙여넣으면 훅 유형·구조·재사용 가능한 템플릿을 뽑아준다.
-// lib/ai/claude.js의 askClaudeForJSON을 그대로 재사용(curate.js와 동일 헬퍼) —
-// ANTHROPIC_API_KEY가 없으면 null이 돌아오므로 그 경우를 안내 메시지로 처리한다.
+// lib/ai/llm.js의 askAIForJSON을 그대로 재사용(curate.js와 동일 헬퍼) —
+// GROQ_API_KEY가 없으면 null이 돌아오므로 그 경우를 안내 메시지로 처리한다.
 const express = require('express');
 const { page, escapeHtml, withAccount } = require('../lib/layout');
-const { askClaudeForJSON } = require('../../lib/ai/claude');
+const { askAIForJSON } = require('../../lib/ai/llm');
 
 const router = express.Router();
 
@@ -26,13 +26,13 @@ ${caption}
 
 const renderBenchmark = (req, res, result, flash) => {
   const { account, accounts } = req;
-  const hasApiKey = !!process.env.ANTHROPIC_API_KEY;
+  const hasApiKey = !!process.env.GROQ_API_KEY;
 
   const body = `
     <h1>벤치마킹 (구조 분석)</h1>
     <p class="sub">참고하고 싶은 다른 계정의 게시물 캡션을 붙여넣으면 훅 유형·구조·재사용 가능한 템플릿을 분석합니다. 원문을 그대로 베끼는 게 아니라 구조만 참고하는 용도입니다.</p>
 
-    ${!hasApiKey ? '<div class="card"><div class="empty">ANTHROPIC_API_KEY가 .env에 설정되어 있지 않습니다 — 이 기능은 Claude API 호출이 필요합니다.</div></div>' : ''}
+    ${!hasApiKey ? '<div class="card"><div class="empty">GROQ_API_KEY가 .env에 설정되어 있지 않습니다 — 이 기능은 AI API 호출이 필요합니다.</div></div>' : ''}
 
     <div class="card">
       <form method="post" action="${withAccount('/benchmark/analyze', account.id)}">
@@ -65,9 +65,9 @@ router.post('/benchmark/analyze', async (req, res) => {
   if (!caption) return renderBenchmark(req, res, null, { ok: false, message: '캡션을 입력하세요.' });
 
   try {
-    const result = await askClaudeForJSON(ANALYSIS_PROMPT(caption));
+    const result = await askAIForJSON(ANALYSIS_PROMPT(caption));
     if (!result) {
-      return renderBenchmark(req, res, null, { ok: false, message: 'ANTHROPIC_API_KEY가 설정되지 않아 분석할 수 없습니다.' });
+      return renderBenchmark(req, res, null, { ok: false, message: 'GROQ_API_KEY가 설정되지 않아 분석할 수 없습니다.' });
     }
     renderBenchmark(req, res, result, { ok: true, message: '분석 완료.' });
   } catch (err) {

@@ -15,7 +15,7 @@ require('dotenv').config();
 const fs = require('fs');
 const path = require('path');
 const log = require('../lib/logger');
-const { askClaudeForJSON } = require('../lib/ai/claude');
+const { askAIForJSON } = require('../lib/ai/llm');
 const { getHotPostTitles } = require('../lib/research/reddit_research');
 
 // 2026-09-17: r/koreatravel 등에서 실제 요즘 여행자들이 뭘 묻는지 긁어와 프롬프트에
@@ -73,9 +73,9 @@ const main = async () => {
     return;
   }
 
-  const apiKey = process.env.ANTHROPIC_API_KEY;
+  const apiKey = process.env.GROQ_API_KEY;
   if (!apiKey) {
-    log.warn('ANTHROPIC_API_KEY가 없어 주제 자동생성을 건너뜁니다.');
+    log.warn('GROQ_API_KEY가 없어 주제 자동생성을 건너뜁니다.');
     return;
   }
 
@@ -90,7 +90,7 @@ const main = async () => {
     ? researchPosts.map((p) => `- "${p.title}" (r/, ${p.score} upvotes, ${p.numComments} comments)`).join('\n')
     : null;
 
-  const result = await askClaudeForJSON(GENERATE_PROMPT(bank.map((t) => t.topic), count, researchNotes));
+  const result = await askAIForJSON(GENERATE_PROMPT(bank.map((t) => t.topic), count, researchNotes));
   if (!result || !Array.isArray(result.topics)) {
     log.err('주제 생성 응답 형식이 올바르지 않습니다.');
     return;
