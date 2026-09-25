@@ -15,6 +15,7 @@ if (-not $mutex.WaitOne([TimeSpan]::FromMinutes(20))) { Log "SKIP: 이전 실행
 
 try {
     Set-Location $repo
+    [Console]::OutputEncoding = [System.Text.Encoding]::UTF8
     $env:PATH = "$env:PATH;$env:LOCALAPPDATA\Microsoft\WinGet\Links"
 
     function Run($script) {
