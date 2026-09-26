@@ -110,14 +110,17 @@ CLAUDE.md에서 이름만 지정된 5색을 아래 실제 값으로 고정한다
       (ffmpeg를 daily-topic.yml에 설치 스텝으로 추가했던 것과 같은 종류의 1회성 설정).
       Google Fonts(Space Grotesk/Inter)를 렌더 시점에 네트워크로 받아오므로 완전
       오프라인 환경에서는 시스템 기본 폰트로 대체된다.
-- [ ] "주제 → 9슬라이드 콘텐츠(hook/tip1~3/caution/closing 텍스트)" 자동 매핑 —
-      지금은 `scripts/render-card-news.js`가 데모용으로 Namdaemun Market 팩트를
-      수동 배치한 예시만 제공한다. 실제 자동화는 `lib/ingestion/korea_travel.js`의
-      content를 요약·재배치해 이 9칸을 채우는 로직이 필요하다(지어내지 않기 원칙 유지).
-- [ ] `lib/ingestion/pexels_image.js`의 `fetchTopicImages(topic, recentUrls, seed, 2)` +
-      커버용 1장을 합쳐 실제 3장을 확보하는 로직 연결(현재 데모 스크립트는
-      PEXELS_API_KEY가 있으면 이미 이 함수를 쓰지만, "커버 1장 + 본문 2장"을 서로
-      겹치지 않게 고르는 부분은 더 다듬을 여지가 있음)
+- [x] "주제 → 9슬라이드 콘텐츠" 자동 매핑 — `lib/media/card_news/content_map.js`의
+      `buildCardNewsContent(topicItem, { seed, images })`. `lib/curation/curate.js`의
+      `reshapeByTemplate`과 완전히 같은 원칙: `korea_travel.js`의 실제 문장(여러
+      각도를 합친 뒤 문장 단위로 분해)만 그대로 재배치하고, 제목처럼 "사실이 아닌
+      자리"에는 이미 승인된 브랜드 문구 뱅크(`PROMISE_OPENERS`, `INSTAGRAM_CLOSERS`
+      등, curate.js에서 재사용)만 쓴다. 문장이 슬롯(5개)보다 적은 짧은 주제는 있는
+      문장을 순환 재사용(지어내지 않음). 커버 이미지 1장 + 본문 근거사진 2장은
+      `fetchTopicImages(topic, [], seed, 3)`으로 한 번에 확보하고, 하나도 못 구하면
+      에러를 던져 이미지 없이 진행하지 않는다(카드뉴스는 사진이 필수).
+      `scripts/render-card-news.js --topic "<주제명>"`으로 아무 korea_travel.js
+      주제나 넣어 바로 검증 가능.
 - [ ] 9장 모두 생성 후 `scripts/verify-topic-media-alignment.js`류의 검증 스크립트로 이미지-주제
       정렬 확인
 - [ ] `data/queue.json`에 `imageUrls`(9장) 필드로 큐잉 — `imageUrl` 단일 필드 아님
