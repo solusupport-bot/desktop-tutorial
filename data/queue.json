@@ -16329,7 +16329,8 @@
       "reason": "주제와 맞으며 문장이 자연스럽고 사실도 정확해 여행자에게 유용한 정보다",
       "model": "groq",
       "checkedAt": "2026-09-26T12:45:06.739Z"
-    }
+    },
+    "verifyStatus": "failed"
   },
   {
     "id": "19754125-9da5-4332-9dc3-7dee041497bd",
@@ -16367,7 +16368,8 @@
       "reason": "주제와 맞으며 문장이 자연스럽고 사실도 정확해 여행자에게 유용한 정보다",
       "model": "groq",
       "checkedAt": "2026-09-26T12:45:06.739Z"
-    }
+    },
+    "verifyStatus": "failed"
   },
   {
     "id": "12239fcc-5cd9-4b04-ba8b-543a1ca2e6c4",
@@ -16399,7 +16401,8 @@
       "reason": "주제와 맞으며 문장이 자연스럽고 사실도 정확해 여행자에게 유용한 정보다",
       "model": "groq",
       "checkedAt": "2026-09-26T12:45:06.739Z"
-    }
+    },
+    "verifyStatus": "failed"
   },
   {
     "id": "618a769c-088f-429f-9900-7c6b92d52310",
@@ -16434,7 +16437,8 @@
       "model": "groq",
       "checkedAt": "2026-09-26T12:45:06.739Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-trash-and-recycling-rules-for-residents.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-trash-and-recycling-rules-for-residents.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "failed"
   },
   {
     "id": "5bb1cb45-20d5-4a44-9e6c-851ced1d3068",
@@ -16472,7 +16476,8 @@
       "model": "groq",
       "checkedAt": "2026-09-26T12:45:06.739Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-trash-and-recycling-rules-for-residents.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-trash-and-recycling-rules-for-residents.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "failed"
   },
   {
     "id": "45853d0c-a64d-42a0-ac0a-71d5239edac9",
@@ -16510,7 +16515,8 @@
       "model": "groq",
       "checkedAt": "2026-09-26T12:45:06.739Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-trash-and-recycling-rules-for-residents.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-trash-and-recycling-rules-for-residents.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "failed"
   },
   {
     "id": "45596734-5cee-499f-a9b7-dfa287a21bfd",
@@ -16548,7 +16554,8 @@
       "model": "groq",
       "checkedAt": "2026-09-26T12:45:06.739Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-trash-and-recycling-rules-for-residents.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-trash-and-recycling-rules-for-residents.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "failed"
   },
   {
     "id": "5bef2c32-3f07-4822-bf4c-54be4aa9775a",
@@ -16586,7 +16593,8 @@
       "reason": "주제와 관련된 핵심 정보를 자연스럽게 전달하며 사실 관계에 문제 없고 여행자에게 유용합니다",
       "model": "groq",
       "checkedAt": "2026-09-26T12:47:36.480Z"
-    }
+    },
+    "verifyStatus": "passed"
   },
   {
     "id": "0f794634-cf64-446a-a7df-5d41ad3f63cd",
@@ -16624,7 +16632,8 @@
       "reason": "주제와 관련된 핵심 정보를 자연스럽게 전달하며 사실 관계에 문제 없고 여행자에게 유용합니다",
       "model": "groq",
       "checkedAt": "2026-09-26T12:47:36.480Z"
-    }
+    },
+    "verifyStatus": "passed"
   },
   {
     "id": "38e3b332-3e42-4927-a5f7-8268b05798f9",
@@ -16656,7 +16665,8 @@
       "reason": "주제와 관련된 핵심 정보를 자연스럽게 전달하며 사실 관계에 문제 없고 여행자에게 유용합니다",
       "model": "groq",
       "checkedAt": "2026-09-26T12:47:36.480Z"
-    }
+    },
+    "verifyStatus": "passed"
   },
   {
     "id": "ed47fda6-41ca-49ef-9c8e-b525ccf947f9",
@@ -16691,7 +16701,8 @@
       "model": "groq",
       "checkedAt": "2026-09-26T12:47:36.480Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-dmz-and-jsa-tours.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-dmz-and-jsa-tours.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
   },
   {
     "id": "a951da11-f8dd-48ea-a0ba-1aced3948f5a",
@@ -16729,7 +16740,8 @@
       "model": "groq",
       "checkedAt": "2026-09-26T12:47:36.480Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-dmz-and-jsa-tours.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-dmz-and-jsa-tours.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
   },
   {
     "id": "50a91887-f469-495c-90be-c515153b8bc5",
@@ -16767,7 +16779,8 @@
       "model": "groq",
       "checkedAt": "2026-09-26T12:47:36.480Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-dmz-and-jsa-tours.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-dmz-and-jsa-tours.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
   },
   {
     "id": "6b6447b5-e809-4cef-9f91-7f6d847c8a5b",
@@ -16805,6 +16818,271 @@
       "model": "groq",
       "checkedAt": "2026-09-26T12:47:36.480Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-dmz-and-jsa-tours.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-dmz-and-jsa-tours.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "5756f973-0835-4344-9971-dce2e350900b",
+    "text": "Most first‑timers mix up the dress codes the moment they step into a jjimjilbang.\n\nAt Dragon Hill Spa the bathing zone is nude‑only, while the co‑ed lounge demands the t‑shirt and shorts they give you.\n\nSwap the uniform for a towel and you’ll be asked to leave the lounge instantly.\n\nIf you have visible tattoos, double‑check the spa’s policy; older places still ban them.\n\nEver walked into the wrong zone by accident? How did you handle it?\n\n📖 More on the blog — link in bio.",
+    "imageUrl": "https://images.pexels.com/photos/13774516/pexels-photo-13774516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "imageUrls": [
+      "https://images.pexels.com/photos/13774516/pexels-photo-13774516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28505140/pexels-photo-28505140.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13774523/pexels-photo-13774523.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35704804/pexels-photo-35704804.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12546137/pexels-photo-12546137.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-09-27T02:32:24.359Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-26T12:50:24.101Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/13774516/pexels-photo-13774516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28505140/pexels-photo-28505140.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13774523/pexels-photo-13774523.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35704804/pexels-photo-35704804.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12546137/pexels-photo-12546137.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/10/28/136881-765457713_large.mp4",
+    "topic": "Jjimjilbang etiquette",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽으며, 과장된 사실 없이 실용적인 사우나 예절 정보를 제공한다",
+      "model": "groq",
+      "checkedAt": "2026-09-26T12:49:40.058Z"
+    },
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "abba2338-e385-4477-8e3a-54f6f0ada066",
+    "text": "Think you can just wear a swimsuit in any part of a Korean jjimjilbang? Think again—nudity is only for the gender‑separated baths.\n1️⃣ In the bathing area you must be fully nude; it’s a hygiene rule.\n2️⃣ In the co‑ed lounge (sauna, relaxation rooms) you must wear the supplied t‑shirt and shorts.\n3️⃣ Tattoos are fine at many modern spas, but older ones may refuse entry if they’re visible.\n4️⃣ Grab the uniform at the front desk before heading to the lounge.\nRemember: nude only in baths, uniform only in lounges, check tattoo rules ahead.\nWhat’s the most surprising jjimjilbang rule you’ve encountered? 🤔\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-jjimjilbang-etiquette.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://images.pexels.com/photos/13774516/pexels-photo-13774516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "imageUrls": [
+      "https://images.pexels.com/photos/13774516/pexels-photo-13774516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28505140/pexels-photo-28505140.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13774523/pexels-photo-13774523.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35704804/pexels-photo-35704804.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12546137/pexels-photo-12546137.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-09-27T02:34:00.808Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-26T12:50:24.113Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/13774516/pexels-photo-13774516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28505140/pexels-photo-28505140.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13774523/pexels-photo-13774523.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35704804/pexels-photo-35704804.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12546137/pexels-photo-12546137.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/10/28/136881-765457713_large.mp4",
+    "topic": "Jjimjilbang etiquette",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽으며, 과장된 사실 없이 실용적인 사우나 예절 정보를 제공한다",
+      "model": "groq",
+      "checkedAt": "2026-09-26T12:49:40.058Z"
+    },
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "6e038be6-4c1c-4483-a4f4-0c65467ba72e",
+    "text": "Ever walked into the wrong zone at a Korean jjimjilbang?\nThe baths are nude‑only, but the co‑ed sauna lounge requires the t‑shirt and shorts they hand you at check‑in.\nSave this to avoid an embarrassing mix‑up on your next spa day.\n📖 More tips on the blog — link in bio.\n#KoreaTravel #SeoulTrip #Jjimjilbang #TravelTips #FirstTimeInKorea",
+    "imageUrl": null,
+    "videoUrl": "https://cdn.pixabay.com/video/2022/10/28/136881-765457713_large.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-09-27T02:43:43.283Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-26T12:50:24.125Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/13774516/pexels-photo-13774516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28505140/pexels-photo-28505140.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13774523/pexels-photo-13774523.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35704804/pexels-photo-35704804.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12546137/pexels-photo-12546137.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/10/28/136881-765457713_large.mp4",
+    "topic": "Jjimjilbang etiquette",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽으며, 과장된 사실 없이 실용적인 사우나 예절 정보를 제공한다",
+      "model": "groq",
+      "checkedAt": "2026-09-26T12:49:40.058Z"
+    },
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "618f7061-23f5-4e03-972e-08c2775e90e1",
+    "text": "Korea jjimjilbang etiquette: avoid common mistakes and enjoy your spa day\n1. Baths are nude‑only; the co‑ed lounge requires the supplied t‑shirt and shorts.\n2. Modern spas usually allow tattoos, but traditional ones can refuse entry for visible ink.\n3. Pick up your uniform at the reception before heading to the sauna.\nRead the full guide on our blog → https://landinkorea.com/jjimjilbang-etiquette",
+    "imageUrl": "https://images.pexels.com/photos/13774516/pexels-photo-13774516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "imageUrls": [
+      "https://images.pexels.com/photos/13774516/pexels-photo-13774516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "platforms": [
+      "pinterest"
+    ],
+    "scheduledAt": "2026-09-27T05:30:16.682Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-26T12:50:24.138Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/13774516/pexels-photo-13774516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28505140/pexels-photo-28505140.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13774523/pexels-photo-13774523.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35704804/pexels-photo-35704804.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12546137/pexels-photo-12546137.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/10/28/136881-765457713_large.mp4",
+    "topic": "Jjimjilbang etiquette",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽으며, 과장된 사실 없이 실용적인 사우나 예절 정보를 제공한다",
+      "model": "groq",
+      "checkedAt": "2026-09-26T12:49:40.058Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-jjimjilbang-etiquette.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "93bf3580-45ff-4b48-96df-54b3c296fd91",
+    "text": "First‑time visitors often stumble over the two dress codes in a Korean jjimjilbang.\n\nAt Dragon Hill Spa the gender‑separated baths are nude‑only, while the co‑ed lounge forces you to wear the t‑shirt and shorts they hand out.\n\nIf you swap the uniform for a towel in the lounge, staff will ask you to leave immediately.\n\nOlder locations may still ban visible tattoos, so confirm the policy before you go.\n\nWhat’s the strangest jjimjilbang rule you’ve encountered? #TravelBlog #KoreaTravel",
+    "imageUrl": "https://images.pexels.com/photos/13774516/pexels-photo-13774516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "imageUrls": [
+      "https://images.pexels.com/photos/13774516/pexels-photo-13774516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28505140/pexels-photo-28505140.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13774523/pexels-photo-13774523.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35704804/pexels-photo-35704804.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-09-27T03:02:31.306Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-26T12:50:24.151Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/13774516/pexels-photo-13774516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28505140/pexels-photo-28505140.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13774523/pexels-photo-13774523.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35704804/pexels-photo-35704804.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12546137/pexels-photo-12546137.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/10/28/136881-765457713_large.mp4",
+    "topic": "Jjimjilbang etiquette",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽으며, 과장된 사실 없이 실용적인 사우나 예절 정보를 제공한다",
+      "model": "groq",
+      "checkedAt": "2026-09-26T12:49:40.058Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-jjimjilbang-etiquette.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "907a66c9-b630-4dc0-9c51-fcf33c1ccb03",
+    "text": "Many newcomers to Korean jjimjilbangs get confused by the split dress codes.\n\nThe bathing area at places like Dragon Hill Spa is strictly nude, whereas the co‑ed sauna and lounge require the supplied t‑shirt and shorts.\n\nWearing your own clothes in the lounge will get you politely escorted out.\n\nSome traditional spas still prohibit visible tattoos, so it’s worth calling ahead if you have large ink.\n\nHave you ever been turned away for the wrong attire? Share your story. #KoreaTravel #TravelTips #Seoul #FirstTimeInKorea",
+    "imageUrl": "https://images.pexels.com/photos/13774516/pexels-photo-13774516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "imageUrls": [
+      "https://images.pexels.com/photos/13774516/pexels-photo-13774516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28505140/pexels-photo-28505140.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13774523/pexels-photo-13774523.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35704804/pexels-photo-35704804.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-09-27T03:28:39.710Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-26T12:50:24.164Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/13774516/pexels-photo-13774516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28505140/pexels-photo-28505140.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13774523/pexels-photo-13774523.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35704804/pexels-photo-35704804.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12546137/pexels-photo-12546137.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/10/28/136881-765457713_large.mp4",
+    "topic": "Jjimjilbang etiquette",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽으며, 과장된 사실 없이 실용적인 사우나 예절 정보를 제공한다",
+      "model": "groq",
+      "checkedAt": "2026-09-26T12:49:40.058Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-jjimjilbang-etiquette.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "08cc5c21-f21f-423f-a606-60331e999b17",
+    "text": "Most first‑timers think any clothing is fine in a Korean jjimjilbang, but the baths are nude‑only while the co‑ed lounge demands the provided t‑shirt and shorts.\n1. In the gender‑separated bathing zone you must be completely nude; it’s a hygiene standard.\n2. In the co‑ed common area (saunas, lounge) you must wear the uniform given at check‑in.\n3. Tattoos are generally accepted at modern spas, but older locations may still ban visible ink.\nEnjoy your spa day the right way!",
+    "imageUrl": "https://images.pexels.com/photos/13774516/pexels-photo-13774516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "imageUrls": [
+      "https://images.pexels.com/photos/13774516/pexels-photo-13774516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28505140/pexels-photo-28505140.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13774523/pexels-photo-13774523.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35704804/pexels-photo-35704804.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-09-27T05:28:43.359Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-26T12:50:24.176Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/13774516/pexels-photo-13774516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28505140/pexels-photo-28505140.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13774523/pexels-photo-13774523.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35704804/pexels-photo-35704804.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12546137/pexels-photo-12546137.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/10/28/136881-765457713_large.mp4",
+    "topic": "Jjimjilbang etiquette",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽으며, 과장된 사실 없이 실용적인 사우나 예절 정보를 제공한다",
+      "model": "groq",
+      "checkedAt": "2026-09-26T12:49:40.058Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-jjimjilbang-etiquette.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
   }
 ]
