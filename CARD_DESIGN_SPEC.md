@@ -121,7 +121,26 @@ CLAUDE.md에서 이름만 지정된 5색을 아래 실제 값으로 고정한다
       에러를 던져 이미지 없이 진행하지 않는다(카드뉴스는 사진이 필수).
       `scripts/render-card-news.js --topic "<주제명>"`으로 아무 korea_travel.js
       주제나 넣어 바로 검증 가능.
-- [ ] 9장 모두 생성 후 `scripts/verify-topic-media-alignment.js`류의 검증 스크립트로 이미지-주제
-      정렬 확인
-- [ ] `data/queue.json`에 `imageUrls`(9장) 필드로 큐잉 — `imageUrl` 단일 필드 아님
+- [x] 렌더링 결과 구조 검증 — `lib/media/card_news/verify.js`(`verifyCardNewsSet`)가
+      파일 9개 존재·정확한 이름·1080x1350 캔버스·빈 화면(용량 이상) 여부를 확인한다.
+      `scripts/verify-card-news-set.js <폴더>`로 단독 실행 가능(0/1 종료 코드,
+      기존 `verify-*.js` 스크립트들과 같은 CI 게이트 관례). 이건 "본문과 이미지가
+      맞는지"가 아니라 "렌더링 자체가 안 깨졌는지"를 보는 것이라
+      `verify-topic-media-alignment.js`(콘텐츠 각도 수 vs 이미지 검색어 수 정합성)와는
+      다른 층위의 검증 — 둘 다 필요해서 별도로 뒀다.
+- [x] `data/queue.json`에 `imageUrls`(9장) 필드로 큐잉 — `scripts/queue-card-news.js
+      --topic "<주제명>"`. 순서: 콘텐츠 매핑 → 렌더링 → 구조 검증(실패 시 여기서
+      중단, 업로드/큐 등록 안 함) → `lib/publishing/media_host.js`의
+      `uploadMediaFiles`(새로 추가 — 9장을 한 번의 Netlify 배포로 올림, 기존
+      `uploadMediaFile`은 그대로 유지) → `curateContent`로 Instagram 캡션 생성 →
+      `addPost({ imageUrls, platforms: ['instagram'], topic, sourceImageUrls, ... })`.
+      `sourceImageUrls`에 렌더링된 PNG가 아니라 원본 Pexels 사진 3장을 남겨서
+      `scripts/verify-no-duplicate-media.js`가 코드 수정 없이 카드뉴스 중복도 같이
+      잡아낸다. 실제 Meta API 호출은 기존과 동일하게
+      `scripts/publish-claimed-posts.js`가 예약 시각에 처리(`lib/publishing/instagram.js`는
+      `imageUrls`가 여러 장이면 이미 캐로셀로 처리하므로 이쪽은 수정 불필요).
+      업로드·발행 단계는 사용자 로컬 PC에서만(landinkorea.com Netlify 사이트 클론 +
+      로그인 + `PEXELS_API_KEY` 필요) 실제로 검증 가능 — 이 세션에서는 `--dry-run`
+      플래그로 콘텐츠 매핑~구조 검증까지만, 그리고 `addPost` 호출 형태는 임시 테스트
+      항목을 넣었다 즉시 원복하는 방식으로 별도 확인했다.
 - [ ] CLAUDE.md "📌 Instagram 향후 계획" 섹션과 이 문서가 어긋나지 않는지 재확인 후 커밋

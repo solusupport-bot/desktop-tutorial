@@ -6,6 +6,8 @@
   "scripts": {
     "ingest": "node scripts/ingest.js",
     "render:card-news": "node scripts/render-card-news.js",
+    "verify:card-news": "node scripts/verify-card-news-set.js",
+    "queue:card-news": "node scripts/queue-card-news.js",
     "curate-and-schedule": "node scripts/curate-and-schedule.js",
     "schedule": "node scripts/schedule-post.js",
     "run-scheduler": "node scripts/run-scheduler.js",
