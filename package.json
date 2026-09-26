@@ -5,6 +5,7 @@
   "description": "Meta 공식 API(Threads/Facebook/Instagram) 기반 트렌드 큐레이션 및 예약 발행 파이프라인",
   "scripts": {
     "ingest": "node scripts/ingest.js",
+    "render:card-news": "node scripts/render-card-news.js",
     "curate-and-schedule": "node scripts/curate-and-schedule.js",
     "schedule": "node scripts/schedule-post.js",
     "run-scheduler": "node scripts/run-scheduler.js",
@@ -40,6 +41,7 @@
     "dotenv": "^17.3.1",
     "express": "^4.22.3",
     "js-yaml": "^4.1.0",
+    "playwright": "^1.63.0",
     "sharp": "^0.35.4",
     "tweetsodium": "^0.0.4"
   }

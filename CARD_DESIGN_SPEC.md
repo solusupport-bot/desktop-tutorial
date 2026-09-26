@@ -103,8 +103,21 @@ CLAUDE.md에서 이름만 지정된 5색을 아래 실제 값으로 고정한다
 
 ## 9. 구현 시 체크리스트 (실제 자동화에 연결할 때)
 
-- [ ] 렌더링 파이프라인 선정(예: HTML/CSS → 스크린샷, 또는 Canva/Figma 템플릿 API)
-- [ ] `lib/ingestion/korea_travel.js`의 사실 기반 content만 텍스트 소스로 사용
+- [x] 렌더링 파이프라인 선정 및 구현 — `lib/media/card_news/`(HTML/CSS → Playwright
+      스크린샷 방식). 9슬라이드 구조·팔레트·폰트·세이프존·파일 네이밍을 모두 코드로
+      고정했고, `scripts/render-card-news.js`로 동작을 확인할 수 있다(사용법은 그
+      파일 상단 주석 참고). 실행 전 최초 1회 `npx playwright install chromium` 필요
+      (ffmpeg를 daily-topic.yml에 설치 스텝으로 추가했던 것과 같은 종류의 1회성 설정).
+      Google Fonts(Space Grotesk/Inter)를 렌더 시점에 네트워크로 받아오므로 완전
+      오프라인 환경에서는 시스템 기본 폰트로 대체된다.
+- [ ] "주제 → 9슬라이드 콘텐츠(hook/tip1~3/caution/closing 텍스트)" 자동 매핑 —
+      지금은 `scripts/render-card-news.js`가 데모용으로 Namdaemun Market 팩트를
+      수동 배치한 예시만 제공한다. 실제 자동화는 `lib/ingestion/korea_travel.js`의
+      content를 요약·재배치해 이 9칸을 채우는 로직이 필요하다(지어내지 않기 원칙 유지).
+- [ ] `lib/ingestion/pexels_image.js`의 `fetchTopicImages(topic, recentUrls, seed, 2)` +
+      커버용 1장을 합쳐 실제 3장을 확보하는 로직 연결(현재 데모 스크립트는
+      PEXELS_API_KEY가 있으면 이미 이 함수를 쓰지만, "커버 1장 + 본문 2장"을 서로
+      겹치지 않게 고르는 부분은 더 다듬을 여지가 있음)
 - [ ] 9장 모두 생성 후 `scripts/verify-topic-media-alignment.js`류의 검증 스크립트로 이미지-주제
       정렬 확인
 - [ ] `data/queue.json`에 `imageUrls`(9장) 필드로 큐잉 — `imageUrl` 단일 필드 아님
