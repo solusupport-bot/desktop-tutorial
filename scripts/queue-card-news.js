@@ -28,6 +28,7 @@ const { fetchKoreaTravelTopics } = require('../lib/ingestion/korea_travel');
 const { renderCardNewsSet, buildCardNewsContent, verifyCardNewsSet } = require('../lib/media/card_news');
 const { uploadMediaFiles } = require('../lib/publishing/media_host');
 const { curateContent } = require('../lib/curation/curate');
+const { pickAngle } = require('../lib/scheduler/topic_rotation');
 const { addPost } = require('../lib/scheduler/queue');
 
 const parseArgs = () => {
@@ -89,7 +90,14 @@ const main = async () => {
   const imageUrls = await uploadMediaFiles(uploadFiles);
 
   log.section('Instagram 캡션 생성');
-  const curated = await curateContent(topicItem, ['instagram'], seed);
+  // curateContent(reshapeByTemplate)는 content가 단일 문자열이어야 한다 — korea_travel.js
+  // 원본처럼 여러 각도 배열 그대로 넘기면 splitSentences가 배열에 .replace를 호출해
+  // 터진다(topic_rotation.js의 pickNextTopic이 항상 이렇게 미리 골라주기 때문에 실제
+  // 자동화 경로에서는 안 드러났던 버그). buildCardNewsContent는 여러 각도를 다 합쳐
+  // 써야 해서 topicItem을 그대로 넘기지만, 캡션은 다른 자리에서 쓰는 문구라 여기서만
+  // seed로 각도 하나를 확정한다.
+  const captionSourceItem = { ...topicItem, content: pickAngle(topicItem.content, seed) };
+  const curated = await curateContent(captionSourceItem, ['instagram'], seed);
 
   // sourceImageUrls에는 카드에 실제로 박아 넣은 원본 Pexels 사진(3장)만 남긴다 —
   // scripts/verify-no-duplicate-media.js가 이 필드를 그대로 읽어 다른 발행 건과
