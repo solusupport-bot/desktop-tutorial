@@ -17066,7 +17066,7 @@
       "tumblr"
     ],
     "scheduledAt": "2026-09-27T05:28:43.359Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-26T12:50:24.176Z",
     "approved": true,
@@ -17090,5 +17090,262 @@
     },
     "blogUrl": "https://landinkorea.com/posts/korea-jjimjilbang-etiquette.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
     "verifyStatus": "passed"
+  },
+  {
+    "id": "a5113287-0848-4491-b25d-8928080706f9",
+    "text": "There's one detail that trips up almost every first-timer.\n\nMost visitors spend 20 minutes at Gyeongbokgung and miss the free part worth waiting for — the royal guard-changing ceremony runs on a schedule, not continuously. Rent a hanbok nearby and entry is free too. Bukchon Hanok Village is a short walk after. Have you timed the guard ceremony right?\n\n📖 More on the blog — link in bio.",
+    "imageUrl": "https://images.pexels.com/photos/4840854/pexels-photo-4840854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "imageUrls": [
+      "https://images.pexels.com/photos/4840854/pexels-photo-4840854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19271527/pexels-photo-19271527.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19271525/pexels-photo-19271525.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35396662/pexels-photo-35396662.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19271528/pexels-photo-19271528.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-09-28T02:23:08.736Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-27T07:10:09.626Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/4840854/pexels-photo-4840854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19271527/pexels-photo-19271527.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19271525/pexels-photo-19271525.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35396662/pexels-photo-35396662.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19271528/pexels-photo-19271528.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2019/12/03/29777-377520664_large.mp4",
+    "topic": "Gyeongbokgung Palace",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련성이 높고 문장이 자연스럽고 사실도 정확하여 여행 정보로 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-09-27T07:06:21.521Z"
+    }
+  },
+  {
+    "id": "2fe367b0-114d-476b-831a-40088b513051",
+    "text": "There's one detail that trips up almost every first-timer. 20 minutes at Gyeongbokgung isn't enough — you'd miss the best free part. 🏯\n\n1. The royal guard-changing ceremony runs at set times in the main courtyard, not continuously — check the schedule before you go.\n2. Renting a hanbok nearby gets you free entry to the palace, and better photos than street clothes.\n3. Bukchon Hanok Village is a short walk away, so the two pair naturally into one afternoon.\n4. It's Seoul's largest palace, so budget more time than a quick photo stop.\n\nSave this before your Gyeongbokgung visit.\nHave you caught the guard-changing ceremony?\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-gyeongbokgung-palace.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://images.pexels.com/photos/4840854/pexels-photo-4840854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "imageUrls": [
+      "https://images.pexels.com/photos/4840854/pexels-photo-4840854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19271527/pexels-photo-19271527.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19271525/pexels-photo-19271525.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35396662/pexels-photo-35396662.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19271528/pexels-photo-19271528.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-09-28T02:28:10.616Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-27T07:10:09.669Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/4840854/pexels-photo-4840854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19271527/pexels-photo-19271527.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19271525/pexels-photo-19271525.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35396662/pexels-photo-35396662.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19271528/pexels-photo-19271528.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2019/12/03/29777-377520664_large.mp4",
+    "topic": "Gyeongbokgung Palace",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련성이 높고 문장이 자연스럽고 사실도 정확하여 여행 정보로 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-09-27T07:06:21.521Z"
+    }
+  },
+  {
+    "id": "2f39bb5e-4432-4f73-9c9f-4b0038d74631",
+    "text": "There's one detail that trips up almost every first-timer.\n\nMost people rush through Gyeongbokgung and miss the best free part.\n\nThe royal guard-changing ceremony runs on a schedule — check before you go. Rent a hanbok nearby for free palace entry.\n\nSave this before your Seoul trip.\n\n📖 More tips on the blog — link in bio.\n\n#KoreaTravel #SeoulTrip #Gyeongbokgung #TravelKorea #VisitSeoul",
+    "imageUrl": null,
+    "videoUrl": "https://cdn.pixabay.com/video/2019/12/03/29777-377520664_large.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-09-28T02:38:19.637Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-27T07:10:09.707Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/4840854/pexels-photo-4840854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19271527/pexels-photo-19271527.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19271525/pexels-photo-19271525.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35396662/pexels-photo-35396662.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19271528/pexels-photo-19271528.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2019/12/03/29777-377520664_large.mp4",
+    "topic": "Gyeongbokgung Palace",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련성이 높고 문장이 자연스럽고 사실도 정확하여 여행 정보로 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-09-27T07:06:21.521Z"
+    }
+  },
+  {
+    "id": "0ce12bf9-5810-4d61-8747-685980637cbb",
+    "text": "20 minutes at Gyeongbokgung isn't enough — you'd miss the best free part. 🏯\n\n1. The royal guard-changing ceremony runs at set times in the main courtyard, not continuously — check the schedule before you go.\n2. Renting a hanbok nearby gets you free entry to the palace, and better photos than street clothes.\n3. Bukchon Hanok Village is a short walk away, so the two pair naturally into one afternoon.\n4. It's Seoul's largest palace, so budget more time than a quick photo stop.\n\nSave this before your Gyeongbokgung visit.\nHave you caught the guard-changing ceremony?",
+    "imageUrl": "https://images.pexels.com/photos/4840854/pexels-photo-4840854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "imageUrls": [
+      "https://images.pexels.com/photos/4840854/pexels-photo-4840854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "platforms": [
+      "pinterest"
+    ],
+    "scheduledAt": "2026-09-28T05:25:17.006Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-27T07:10:09.737Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/4840854/pexels-photo-4840854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19271527/pexels-photo-19271527.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19271525/pexels-photo-19271525.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35396662/pexels-photo-35396662.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19271528/pexels-photo-19271528.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2019/12/03/29777-377520664_large.mp4",
+    "topic": "Gyeongbokgung Palace",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련성이 높고 문장이 자연스럽고 사실도 정확하여 여행 정보로 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-09-27T07:06:21.521Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-gyeongbokgung-palace.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "59d75234-4a01-4d4a-830f-d030a01788f8",
+    "text": "There's one detail that trips up almost every first-timer.\n\nMost visitors spend 20 minutes at Gyeongbokgung and miss the free part worth waiting for — the royal guard-changing ceremony runs on a schedule, not continuously. Rent a hanbok nearby and entry is free too. Bukchon Hanok Village is a short walk after. Have you timed the guard ceremony right?",
+    "imageUrl": "https://images.pexels.com/photos/4840854/pexels-photo-4840854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "imageUrls": [
+      "https://images.pexels.com/photos/4840854/pexels-photo-4840854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19271527/pexels-photo-19271527.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19271525/pexels-photo-19271525.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35396662/pexels-photo-35396662.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-09-28T02:54:44.929Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-27T07:10:09.776Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/4840854/pexels-photo-4840854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19271527/pexels-photo-19271527.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19271525/pexels-photo-19271525.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35396662/pexels-photo-35396662.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19271528/pexels-photo-19271528.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2019/12/03/29777-377520664_large.mp4",
+    "topic": "Gyeongbokgung Palace",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련성이 높고 문장이 자연스럽고 사실도 정확하여 여행 정보로 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-09-27T07:06:21.521Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-gyeongbokgung-palace.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "653462aa-9584-41db-9eb5-bc8b49b9a102",
+    "text": "There's one detail that trips up almost every first-timer.\n\nMost visitors spend 20 minutes at Gyeongbokgung and miss the free part worth waiting for — the royal guard-changing ceremony runs on a schedule, not continuously. Rent a hanbok nearby and entry is free too. Bukchon Hanok Village is a short walk after. Have you timed the guard ceremony right?",
+    "imageUrl": "https://images.pexels.com/photos/4840854/pexels-photo-4840854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "imageUrls": [
+      "https://images.pexels.com/photos/4840854/pexels-photo-4840854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19271527/pexels-photo-19271527.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19271525/pexels-photo-19271525.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35396662/pexels-photo-35396662.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-09-28T03:28:42.824Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-27T07:10:09.841Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/4840854/pexels-photo-4840854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19271527/pexels-photo-19271527.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19271525/pexels-photo-19271525.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35396662/pexels-photo-35396662.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19271528/pexels-photo-19271528.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2019/12/03/29777-377520664_large.mp4",
+    "topic": "Gyeongbokgung Palace",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련성이 높고 문장이 자연스럽고 사실도 정확하여 여행 정보로 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-09-27T07:06:21.521Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-gyeongbokgung-palace.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "93e77cf4-5daf-4c39-b180-e61b00091c52",
+    "text": "20 minutes at Gyeongbokgung isn't enough — you'd miss the best free part. 🏯\n\n1. The royal guard-changing ceremony runs at set times in the main courtyard, not continuously — check the schedule before you go.\n2. Renting a hanbok nearby gets you free entry to the palace, and better photos than street clothes.\n3. Bukchon Hanok Village is a short walk away, so the two pair naturally into one afternoon.\n4. It's Seoul's largest palace, so budget more time than a quick photo stop.\n\nSave this before your Gyeongbokgung visit.\nHave you caught the guard-changing ceremony?",
+    "imageUrl": "https://images.pexels.com/photos/4840854/pexels-photo-4840854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "imageUrls": [
+      "https://images.pexels.com/photos/4840854/pexels-photo-4840854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19271527/pexels-photo-19271527.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19271525/pexels-photo-19271525.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35396662/pexels-photo-35396662.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-09-28T05:23:36.603Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-27T07:10:09.867Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/4840854/pexels-photo-4840854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19271527/pexels-photo-19271527.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19271525/pexels-photo-19271525.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35396662/pexels-photo-35396662.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19271528/pexels-photo-19271528.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2019/12/03/29777-377520664_large.mp4",
+    "topic": "Gyeongbokgung Palace",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련성이 높고 문장이 자연스럽고 사실도 정확하여 여행 정보로 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-09-27T07:06:21.521Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-gyeongbokgung-palace.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
   }
 ]
