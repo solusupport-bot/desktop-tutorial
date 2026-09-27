@@ -16532,8 +16532,13 @@
       "tumblr"
     ],
     "scheduledAt": "2026-09-27T06:25:29.908Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "tumblr": {
+        "id": "828897757283631104",
+        "url": "https://landinkorea.tumblr.com/post/828897757283631104"
+      }
+    },
     "createdAt": "2026-09-26T12:45:50.057Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -16555,7 +16560,8 @@
       "checkedAt": "2026-09-26T12:45:06.739Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-trash-and-recycling-rules-for-residents.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "failed"
+    "verifyStatus": "failed",
+    "processedAt": "2026-09-27T08:41:42.294Z"
   },
   {
     "id": "5bef2c32-3f07-4822-bf4c-54be4aa9775a",
