@@ -17066,8 +17066,13 @@
       "tumblr"
     ],
     "scheduledAt": "2026-09-27T05:28:43.359Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "tumblr": {
+        "id": "828892906147512320",
+        "url": "https://landinkorea.tumblr.com/post/828892906147512320"
+      }
+    },
     "createdAt": "2026-09-26T12:50:24.176Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -17089,7 +17094,8 @@
       "checkedAt": "2026-09-26T12:49:40.058Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-jjimjilbang-etiquette.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-09-27T07:24:36.398Z"
   },
   {
     "id": "a5113287-0848-4491-b25d-8928080706f9",
