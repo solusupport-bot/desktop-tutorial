@@ -14483,7 +14483,7 @@
       "threads"
     ],
     "scheduledAt": "2026-09-24T07:52:20.174Z",
-    "status": "partial",
+    "status": "claimed",
     "results": {
       "threads": {
         "error": "publish failed"
@@ -14505,7 +14505,8 @@
     "topic": "Eating alone in Korea: which restaurants refuse solo diners and where honbap works",
     "backfill": "2026-09-24 image-zero bug",
     "verifyStatus": "passed",
-    "processedAt": "2026-09-27T15:17:58.271Z"
+    "processedAt": "2026-09-27T15:17:58.271Z",
+    "retryCount": 1
   },
   {
     "id": "450c2ad4-d780-445c-9186-b72215a8d8cc",
@@ -14522,8 +14523,12 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-24T07:57:20.174Z",
-    "status": "pending",
-    "results": {},
+    "status": "rejected",
+    "results": {
+      "facebook": {
+        "error": "publish failed"
+      }
+    },
     "createdAt": "2026-09-24T07:32:47.198Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -14539,7 +14544,9 @@
     "sourceVideoUrl": null,
     "topic": "Eating alone in Korea: which restaurants refuse solo diners and where honbap works",
     "backfill": "2026-09-24 image-zero bug",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-09-27T15:47:09.836Z",
+    "rejectReason": "source image file missing (never generated/lost before deploy)"
   },
   {
     "id": "cef65c0d-807d-43db-9e84-7f3902c09c21",
@@ -14595,7 +14602,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-24T08:57:20.174Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-24T07:33:26.417Z",
     "approved": true,
@@ -14629,7 +14636,7 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-24T09:02:20.174Z",
-    "status": "partial",
+    "status": "claimed",
     "results": {
       "instagram": {
         "error": "publish failed"
@@ -14651,7 +14658,8 @@
     "topic": "Food delivery apps in Korea: why signing up is harder than ordering",
     "backfill": "2026-09-24 image-zero bug",
     "verifyStatus": "passed",
-    "processedAt": "2026-09-27T15:17:58.996Z"
+    "processedAt": "2026-09-27T15:17:58.996Z",
+    "retryCount": 1
   },
   {
     "id": "5d50f98f-c4e5-4bd6-80da-289d8f11bfe1",
@@ -14668,8 +14676,12 @@
       "threads"
     ],
     "scheduledAt": "2026-09-24T09:52:20.174Z",
-    "status": "pending",
-    "results": {},
+    "status": "rejected",
+    "results": {
+      "threads": {
+        "error": "publish failed"
+      }
+    },
     "createdAt": "2026-09-24T07:33:49.650Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -14685,7 +14697,9 @@
     "sourceVideoUrl": null,
     "topic": "Renting a car in Korea: when it's smart, when it's a waste, and what the rental desk will ask for",
     "backfill": "2026-09-24 image-zero bug",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-09-27T15:47:11.199Z",
+    "rejectReason": "source image file missing (never generated/lost before deploy)"
   },
   {
     "id": "774601d3-77dc-4b63-bc36-cbc9d5543d79",
@@ -14979,8 +14993,12 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-24T13:02:20.174Z",
-    "status": "pending",
-    "results": {},
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "18114951245008405"
+      }
+    },
     "createdAt": "2026-09-24T07:35:01.347Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -14996,7 +15014,8 @@
     "sourceVideoUrl": null,
     "topic": "Hospital vs. clinic vs. pharmacy in Korea: where to actually go when you get sick",
     "backfill": "2026-09-24 image-zero bug",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-09-27T15:48:14.515Z"
   },
   {
     "id": "8233582c-5b6c-4197-af23-b8d6c1b95501",
