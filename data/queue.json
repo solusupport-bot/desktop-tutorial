@@ -13930,7 +13930,7 @@
   },
   {
     "id": "5fd9efd7-84c9-416e-8a0c-8072260ab6a8",
-    "text": "Here's what actually happens once you're standing there.\n\nMost travelers drag their bags through their entire last day in Korea without knowing forwarding services exist for exactly that problem.\n\nSame-day luggage forwarding can send your bags from your hotel straight to the airport (or another hotel) so you can spend your last day sightseeing hands-free — and avoid dragging bags through crowded transit during rush hour before an early flight.\n\nBook at least a day in advance, since same-day requests aren't always guaranteed.\n\nWhat would you add for someone landing tomorrow?\n\n📖 More on the blog — link in bio.",
+    "text": "Here's what actually happens once you're standing there.\n\nMost travelers drag their bags through their entire last day in Korea without knowing forwarding services exist for exactly that problem.\n\nSame-day luggage forwarding can send your bags from your hotel straight to the airport (or another hotel) so you can spend your last day sightseeing hands-free — and avoid dragging bags through crowded transit during rush hour before an early flight.\n\nBook at least a day in advance, since same-day requests aren't always guaranteed.\n\nWhat would you add for someone landing tomorrow?\n\n📖 Full guide: https://landinkorea.com/posts/korea-luggage-storage-forwarding-services.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
     "imageUrl": "https://landinkorea.com/sns-media/images/1790216228203-0.jpg",
     "imageUrls": [
       "https://landinkorea.com/sns-media/images/1790216228203-0.jpg",
@@ -13965,7 +13965,8 @@
       "model": "claude",
       "checkedAt": "2026-09-24T02:17:23.969Z"
     },
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "blogUrl": "https://landinkorea.com/posts/korea-luggage-storage-forwarding-services.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   },
   {
     "id": "2da6d1cd-9232-47cc-8203-5048d7d91a7a",
@@ -14200,7 +14201,7 @@
   },
   {
     "id": "de42b255-9fd5-4da2-a8da-5f96ba32dbb2",
-    "text": "The guidebooks skip this part entirely.\n\nFor a Seoul-to-Busan-length trip, the real choice isn't just KTX vs.\n\nthe bus — it's KTX vs.\n\nSRT, and most first-timers don't even know SRT exists.\n\nWorth knowing before you land? Reply with what surprised you.\n\n📖 More on the blog — link in bio.",
+    "text": "The guidebooks skip this part entirely.\n\nFor a Seoul-to-Busan-length trip, the real choice isn't just KTX vs.\n\nthe bus — it's KTX vs.\n\nSRT, and most first-timers don't even know SRT exists.\n\nWorth knowing before you land? Reply with what surprised you.\n\n📖 Full guide: https://landinkorea.com/posts/korea-ktx-vs-srt-vs-intercity-bus-for-long-distance-travel.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
     "imageUrl": "https://landinkorea.com/sns-media/images/1790216267229-0.jpg",
     "imageUrls": [
       "https://landinkorea.com/sns-media/images/1790216267229-0.jpg",
@@ -14235,7 +14236,8 @@
       "model": "claude",
       "checkedAt": "2026-09-24T02:18:03.641Z"
     },
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "blogUrl": "https://landinkorea.com/posts/korea-ktx-vs-srt-vs-intercity-bus-for-long-distance-travel.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   },
   {
     "id": "e295b762-bfb4-4e56-87d7-4b8e6066578e",
@@ -14563,7 +14565,7 @@
       "threads"
     ],
     "scheduledAt": "2026-09-24T08:52:20.174Z",
-    "status": "partial",
+    "status": "claimed",
     "results": {
       "threads": {
         "error": "publish failed"
@@ -14585,7 +14587,8 @@
     "topic": "Food delivery apps in Korea: why signing up is harder than ordering",
     "backfill": "2026-09-24 image-zero bug",
     "verifyStatus": "passed",
-    "processedAt": "2026-09-27T15:24:40.650Z"
+    "processedAt": "2026-09-27T15:24:40.650Z",
+    "retryCount": 1
   },
   {
     "id": "860a8640-7a2b-4a7c-b4b9-e96dea8d05fd",
@@ -14602,7 +14605,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-24T08:57:20.174Z",
-    "status": "partial",
+    "status": "claimed",
     "results": {
       "facebook": {
         "error": "publish failed"
@@ -14625,7 +14628,7 @@
     "backfill": "2026-09-24 image-zero bug",
     "verifyStatus": "passed",
     "processedAt": "2026-09-28T04:24:32.332Z",
-    "retryCount": 2
+    "retryCount": 3
   },
   {
     "id": "08ed880e-8b63-4586-942d-398da838cfd1",
@@ -14756,7 +14759,7 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-24T10:02:20.174Z",
-    "status": "partial",
+    "status": "claimed",
     "results": {
       "instagram": {
         "error": "publish failed"
@@ -14778,11 +14781,12 @@
     "topic": "Renting a car in Korea: when it's smart, when it's a waste, and what the rental desk will ask for",
     "backfill": "2026-09-24 image-zero bug",
     "verifyStatus": "passed",
-    "processedAt": "2026-09-27T15:24:43.022Z"
+    "processedAt": "2026-09-27T15:24:43.022Z",
+    "retryCount": 1
   },
   {
     "id": "32d54264-be63-4ab1-ba3e-70a60bd554f3",
-    "text": "Chasing cherry blossoms or fall colors in Korea is really a geography problem.\n\nBlossoms open in Jeju and Busan in late March, then sweep north to Seoul by early April.\n\nFall runs the opposite direction — Seoraksan colors up in early-to-mid October, Seoul follows late October.\n\nThe Korea Meteorological Administration publishes bloom and foliage forecast maps a few weeks out.\n\nWould you chase blossoms south to north, or foliage north to south?\n\n📖 More on the blog — link in bio.",
+    "text": "Chasing cherry blossoms or fall colors in Korea is really a geography problem.\n\nBlossoms open in Jeju and Busan in late March, then sweep north to Seoul by early April.\n\nFall runs the opposite direction — Seoraksan colors up in early-to-mid October, Seoul follows late October.\n\nThe Korea Meteorological Administration publishes bloom and foliage forecast maps a few weeks out.\n\nWould you chase blossoms south to north, or foliage north to south?\n\n📖 Full guide: https://landinkorea.com/posts/korea-timing-cherry-blossoms-and-fall-foliage-in-korea-without-hitting-peak-crowds.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
     "imageUrl": "https://images.pexels.com/photos/31262583/pexels-photo-31262583.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "imageUrls": [
       "https://images.pexels.com/photos/31262583/pexels-photo-31262583.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -14812,7 +14816,8 @@
     "sourceVideoUrl": null,
     "topic": "Timing cherry blossoms and fall foliage in Korea without hitting peak crowds",
     "backfill": "2026-09-24 image-zero bug",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "blogUrl": "https://landinkorea.com/posts/korea-timing-cherry-blossoms-and-fall-foliage-in-korea-without-hitting-peak-crowds.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   },
   {
     "id": "2b7bcad3-1203-47bb-8fcf-94da0651ca0f",
@@ -14850,7 +14855,7 @@
   },
   {
     "id": "f52ae40d-cfc6-400e-bb42-6c583451e9ee",
-    "text": "Korean street signs can spell the same place two different ways — and it's not a typo.\n\nRevised Romanization is the modern standard, but older McCune-Reischauer spellings still show up everywhere.\n\nThe same syllable can appear as 'gim' or 'kim,' 'Busan' or 'Pusan,' depending on the sign's age.\n\nLearning a few address terms like -ro (road), -gil (street), and -dong (neighborhood) helps a lot.\n\nEver gotten confused by two different spellings of the same place?\n\n📖 More on the blog — link in bio.",
+    "text": "Korean street signs can spell the same place two different ways — and it's not a typo.\n\nRevised Romanization is the modern standard, but older McCune-Reischauer spellings still show up everywhere.\n\nThe same syllable can appear as 'gim' or 'kim,' 'Busan' or 'Pusan,' depending on the sign's age.\n\nLearning a few address terms like -ro (road), -gil (street), and -dong (neighborhood) helps a lot.\n\nEver gotten confused by two different spellings of the same place?\n\n📖 Full guide: https://landinkorea.com/posts/korea-learning-to-read-hangul-in-a-weekend-and-why-romanized-signs-still-confuse-you.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
     "imageUrl": "https://images.pexels.com/photos/35782052/pexels-photo-35782052.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "imageUrls": [
       "https://images.pexels.com/photos/35782052/pexels-photo-35782052.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -14880,7 +14885,8 @@
     "sourceVideoUrl": null,
     "topic": "Learning to read Hangul in a weekend — and why romanized signs still confuse you",
     "backfill": "2026-09-24 image-zero bug",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "blogUrl": "https://landinkorea.com/posts/korea-learning-to-read-hangul-in-a-weekend-and-why-romanized-signs-still-confuse-you.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   },
   {
     "id": "12ed3056-fc40-418f-a1aa-5657e6da9656",
@@ -14918,7 +14924,7 @@
   },
   {
     "id": "fc9fee0a-b9ca-44d3-a1c3-e576b249b475",
-    "text": "Walking into a big hospital for a sore throat in Korea is usually the slowest option.\n\nSmall neighborhood clinics (의원) with a specialty sign handle everyday illness and take walk-ins.\n\nLarge hospitals often expect a referral for non-emergency visits and charge more without one.\n\nFor a cold or rash, the clinic on the second floor of a random building is usually the right call.\n\nHave you used a neighborhood clinic here yet?\n\n📖 More on the blog — link in bio.",
+    "text": "Walking into a big hospital for a sore throat in Korea is usually the slowest option.\n\nSmall neighborhood clinics (의원) with a specialty sign handle everyday illness and take walk-ins.\n\nLarge hospitals often expect a referral for non-emergency visits and charge more without one.\n\nFor a cold or rash, the clinic on the second floor of a random building is usually the right call.\n\nHave you used a neighborhood clinic here yet?\n\n📖 Full guide: https://landinkorea.com/posts/korea-hospital-vs-clinic-vs-pharmacy-in-korea-where-to-actually-go-when-you-get-sick.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
     "imageUrl": "https://images.pexels.com/photos/15216994/pexels-photo-15216994.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "imageUrls": [
       "https://images.pexels.com/photos/15216994/pexels-photo-15216994.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -14948,7 +14954,8 @@
     "sourceVideoUrl": null,
     "topic": "Hospital vs. clinic vs. pharmacy in Korea: where to actually go when you get sick",
     "backfill": "2026-09-24 image-zero bug",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "blogUrl": "https://landinkorea.com/posts/korea-hospital-vs-clinic-vs-pharmacy-in-korea-where-to-actually-go-when-you-get-sick.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   },
   {
     "id": "b32d994b-fea2-4e4d-8118-09b008c1c54a",
@@ -15025,7 +15032,7 @@
   },
   {
     "id": "8233582c-5b6c-4197-af23-b8d6c1b95501",
-    "text": "If you need real work done in Korea, coffee shops aren't actually the answer.\n\nA 스터디카페 (study cafe) gets you an assigned seat or private booth, silence, and free coffee by the hour.\n\nMany run entirely unstaffed — a kiosk check-in and a door code from the machine.\n\nSilence is strictly enforced; phone calls happen in the hallway, not at your seat.\n\nWould you trade a latte for a quiet booth?\n\n📖 More on the blog — link in bio.",
+    "text": "If you need real work done in Korea, coffee shops aren't actually the answer.\n\nA 스터디카페 (study cafe) gets you an assigned seat or private booth, silence, and free coffee by the hour.\n\nMany run entirely unstaffed — a kiosk check-in and a door code from the machine.\n\nSilence is strictly enforced; phone calls happen in the hallway, not at your seat.\n\nWould you trade a latte for a quiet booth?\n\n📖 Full guide: https://landinkorea.com/posts/korea-cafes-as-workspaces-in-korea-unspoken-rules-of-study-cafes-franchise-chains-and-no-laptop-signs.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
     "imageUrl": "https://images.pexels.com/photos/29956386/pexels-photo-29956386.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "imageUrls": [
       "https://images.pexels.com/photos/29956386/pexels-photo-29956386.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -15055,7 +15062,8 @@
     "sourceVideoUrl": null,
     "topic": "Cafes as workspaces in Korea: unspoken rules of study cafes, franchise chains, and 'no-laptop' signs",
     "backfill": "2026-09-24 image-zero bug",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "blogUrl": "https://landinkorea.com/posts/korea-cafes-as-workspaces-in-korea-unspoken-rules-of-study-cafes-franchise-chains-and-no-laptop-signs.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   },
   {
     "id": "72f52826-8d05-416d-839c-b036d511d545",
@@ -15127,7 +15135,7 @@
   },
   {
     "id": "e889abde-a9c6-4dcf-8167-1407e319f890",
-    "text": "That tablet by the restaurant door in Korea isn't decoration — it's your place in line.\n\nEnter your party size and phone number, then get an alert when your table's ready — no standing in line.\n\nMiss the call and you're dropped, so don't wander too far from the restaurant.\n\nCan't register a phone number? Ask staff to add you to the list manually.\n\nEver missed your table because you wandered off?\n\n📖 More on the blog — link in bio.",
+    "text": "That tablet by the restaurant door in Korea isn't decoration — it's your place in line.\n\nEnter your party size and phone number, then get an alert when your table's ready — no standing in line.\n\nMiss the call and you're dropped, so don't wander too far from the restaurant.\n\nCan't register a phone number? Ask staff to add you to the list manually.\n\nEver missed your table because you wandered off?\n\n📖 Full guide: https://landinkorea.com/posts/korea-reserving-restaurants-and-joining-waitlists-in-korea-catch-table-naver-booking-and-the-tabling-tablet.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
     "imageUrl": "https://images.pexels.com/photos/8838704/pexels-photo-8838704.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "imageUrls": [
       "https://images.pexels.com/photos/8838704/pexels-photo-8838704.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -15157,7 +15165,8 @@
     "sourceVideoUrl": null,
     "topic": "Reserving restaurants and joining waitlists in Korea: Catch Table, Naver booking, and the Tabling tablet",
     "backfill": "2026-09-24 image-zero bug",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "blogUrl": "https://landinkorea.com/posts/korea-reserving-restaurants-and-joining-waitlists-in-korea-catch-table-naver-booking-and-the-tabling-tablet.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   },
   {
     "id": "8ab8da86-7e26-453a-bbea-e539c661ae96",
@@ -15557,7 +15566,7 @@
   },
   {
     "id": "3dd6fb0c-dab8-4515-9b9f-eb93e1a8acc8",
-    "text": "KTX gets all the attention, but it's not always the smartest choice in Korea.\n\nMugunghwa-ho is the cheapest train and stops almost everywhere; ITX-Saemaeul splits the difference.\n\nFor places like Chuncheon or Jeongdongjin, KTX either doesn't go or barely saves time.\n\nBook on the Korail website or Korail Talk app — these trains rarely sell out except on holidays.\n\nEver taken the slower train on purpose?\n\n📖 More on the blog — link in bio.",
+    "text": "KTX gets all the attention, but it's not always the smartest choice in Korea.\n\nMugunghwa-ho is the cheapest train and stops almost everywhere; ITX-Saemaeul splits the difference.\n\nFor places like Chuncheon or Jeongdongjin, KTX either doesn't go or barely saves time.\n\nBook on the Korail website or Korail Talk app — these trains rarely sell out except on holidays.\n\nEver taken the slower train on purpose?\n\n📖 Full guide: https://landinkorea.com/posts/korea-day-tripping-from-seoul-by-regular-train-mugunghwa-itx-saemaeul-and-the-gyeongui-jungang-line.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
     "imageUrl": "https://pixabay.com/get/g0f08b072bca44cf8b6286dfbebcac7dcfdb6bc4d30b79c4592de23f5b545a50f81fe884d8629aed4fa16129a279dc455_1280.jpg",
     "imageUrls": [
       "https://pixabay.com/get/g0f08b072bca44cf8b6286dfbebcac7dcfdb6bc4d30b79c4592de23f5b545a50f81fe884d8629aed4fa16129a279dc455_1280.jpg",
@@ -15581,7 +15590,8 @@
     "sourceVideoUrl": null,
     "topic": "Day-tripping from Seoul by regular train: Mugunghwa, ITX-Saemaeul, and the Gyeongui-Jungang line",
     "backfill": "2026-09-24 image-zero bug",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "blogUrl": "https://landinkorea.com/posts/korea-day-tripping-from-seoul-by-regular-train-mugunghwa-itx-saemaeul-and-the-gyeongui-jungang-line.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   },
   {
     "id": "3f84a1a7-6671-42a5-8a99-59433e867319",
@@ -16340,7 +16350,7 @@
   },
   {
     "id": "a2310ac6-6b50-499c-988f-0dbad98e1d8b",
-    "text": "Most tourists get this wrong in their first hour.\n\nSorting recyclables isn't what actually trips people up in Korea — it's using the wrong bag.\n\nGeneral waste has to go into an official, district-specific bag (종량제 봉투, sold at local convenience stores and supermarkets); bags bought in a different district aren't accepted even if they look identical, since the collection fee is built into that specific bag's price.\n\nThis catches foreign residents and short-term renters far more than tourists in hotels, since nobody hands you the local bag with your key.\n\nAnyone else lose money on this mistake?\n\n📖 More on the blog — link in bio.",
+    "text": "Most tourists get this wrong in their first hour.\n\nSorting recyclables isn't what actually trips people up in Korea — it's using the wrong bag.\n\nGeneral waste has to go into an official, district-specific bag (종량제 봉투, sold at local convenience stores and supermarkets); bags bought in a different district aren't accepted even if they look identical, since the collection fee is built into that specific bag's price.\n\nThis catches foreign residents and short-term renters far more than tourists in hotels, since nobody hands you the local bag with your key.\n\nAnyone else lose money on this mistake?\n\n📖 Full guide: https://landinkorea.com/posts/korea-trash-and-recycling-rules-for-residents.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
     "imageUrl": "https://images.pexels.com/photos/12184905/pexels-photo-12184905.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "imageUrls": [
       "https://images.pexels.com/photos/12184905/pexels-photo-12184905.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -16375,7 +16385,8 @@
       "model": "groq",
       "checkedAt": "2026-09-26T12:45:06.739Z"
     },
-    "verifyStatus": "failed"
+    "verifyStatus": "failed",
+    "blogUrl": "https://landinkorea.com/posts/korea-trash-and-recycling-rules-for-residents.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   },
   {
     "id": "19754125-9da5-4332-9dc3-7dee041497bd",
@@ -16610,7 +16621,7 @@
   },
   {
     "id": "5bef2c32-3f07-4822-bf4c-54be4aa9775a",
-    "text": "First‑time JSA visitors keep missing the biggest rule.\n\nThe JSA will turn you away if you wear shorts, sandals, or any military‑style clothing.\n\nMost operators only book guests 12+ and require a guardian for anyone under 18.\n\nCheck your nationality beforehand—some passports aren’t allowed past the checkpoint.\n\nAnyone else surprised by how strict the dress code is?\n\n📖 More on the blog — link in bio.",
+    "text": "First‑time JSA visitors keep missing the biggest rule.\n\nThe JSA will turn you away if you wear shorts, sandals, or any military‑style clothing.\n\nMost operators only book guests 12+ and require a guardian for anyone under 18.\n\nCheck your nationality beforehand—some passports aren’t allowed past the checkpoint.\n\nAnyone else surprised by how strict the dress code is?\n\n📖 Full guide: https://landinkorea.com/posts/korea-dmz-and-jsa-tours.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
     "imageUrl": "https://images.pexels.com/photos/19713121/pexels-photo-19713121.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "imageUrls": [
       "https://images.pexels.com/photos/19713121/pexels-photo-19713121.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -16645,7 +16656,8 @@
       "model": "groq",
       "checkedAt": "2026-09-26T12:47:36.480Z"
     },
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "blogUrl": "https://landinkorea.com/posts/korea-dmz-and-jsa-tours.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   },
   {
     "id": "0f794634-cf64-446a-a7df-5d41ad3f63cd",
@@ -16880,7 +16892,7 @@
   },
   {
     "id": "5756f973-0835-4344-9971-dce2e350900b",
-    "text": "Most first‑timers mix up the dress codes the moment they step into a jjimjilbang.\n\nAt Dragon Hill Spa the bathing zone is nude‑only, while the co‑ed lounge demands the t‑shirt and shorts they give you.\n\nSwap the uniform for a towel and you’ll be asked to leave the lounge instantly.\n\nIf you have visible tattoos, double‑check the spa’s policy; older places still ban them.\n\nEver walked into the wrong zone by accident? How did you handle it?\n\n📖 More on the blog — link in bio.",
+    "text": "Most first‑timers mix up the dress codes the moment they step into a jjimjilbang.\n\nAt Dragon Hill Spa the bathing zone is nude‑only, while the co‑ed lounge demands the t‑shirt and shorts they give you.\n\nSwap the uniform for a towel and you’ll be asked to leave the lounge instantly.\n\nIf you have visible tattoos, double‑check the spa’s policy; older places still ban them.\n\nEver walked into the wrong zone by accident? How did you handle it?\n\n📖 Full guide: https://landinkorea.com/posts/korea-jjimjilbang-etiquette.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
     "imageUrl": "https://images.pexels.com/photos/13774516/pexels-photo-13774516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "imageUrls": [
       "https://images.pexels.com/photos/13774516/pexels-photo-13774516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -16915,7 +16927,8 @@
       "model": "groq",
       "checkedAt": "2026-09-26T12:49:40.058Z"
     },
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "blogUrl": "https://landinkorea.com/posts/korea-jjimjilbang-etiquette.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   },
   {
     "id": "abba2338-e385-4477-8e3a-54f6f0ada066",
@@ -17150,7 +17163,7 @@
   },
   {
     "id": "a5113287-0848-4491-b25d-8928080706f9",
-    "text": "There's one detail that trips up almost every first-timer.\n\nMost visitors spend 20 minutes at Gyeongbokgung and miss the free part worth waiting for — the royal guard-changing ceremony runs on a schedule, not continuously. Rent a hanbok nearby and entry is free too. Bukchon Hanok Village is a short walk after. Have you timed the guard ceremony right?\n\n📖 More on the blog — link in bio.",
+    "text": "Planning Gyeongbokgung? Check your day first: the palace normally closes on Tuesdays, with holiday exceptions. A qualifying hanbok can mean free daytime admission. Check the hours and outfit rules before you go: https://landinkorea.com/posts/korea-gyeongbokgung-palace.html?utm_source=threads&utm_medium=social&utm_campaign=gyeongbokgung_guide",
     "imageUrl": "https://images.pexels.com/photos/4840854/pexels-photo-4840854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "imageUrls": [
       "https://images.pexels.com/photos/4840854/pexels-photo-4840854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -17163,8 +17176,12 @@
       "threads"
     ],
     "scheduledAt": "2026-09-28T02:23:08.736Z",
-    "status": "pending",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "17883166167689802"
+      }
+    },
     "createdAt": "2026-09-27T07:10:09.626Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -17184,11 +17201,14 @@
       "reason": "주제와 관련성이 높고 문장이 자연스럽고 사실도 정확하여 여행 정보로 유용합니다",
       "model": "groq",
       "checkedAt": "2026-09-27T07:06:21.521Z"
-    }
+    },
+    "manualStartedAt": "2026-09-28T04:50:50.091Z",
+    "mediaDecision": "text_only_while_media_hosting_is_unavailable",
+    "processedAt": "2026-09-28T04:51:05.291Z"
   },
   {
     "id": "2fe367b0-114d-476b-831a-40088b513051",
-    "text": "There's one detail that trips up almost every first-timer. 20 minutes at Gyeongbokgung isn't enough — you'd miss the best free part. 🏯\n\n1. The royal guard-changing ceremony runs at set times in the main courtyard, not continuously — check the schedule before you go.\n2. Renting a hanbok nearby gets you free entry to the palace, and better photos than street clothes.\n3. Bukchon Hanok Village is a short walk away, so the two pair naturally into one afternoon.\n4. It's Seoul's largest palace, so budget more time than a quick photo stop.\n\nSave this before your Gyeongbokgung visit.\nHave you caught the guard-changing ceremony?\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-gyeongbokgung-palace.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "text": "A Tuesday palace visit can turn into a closed gate. Gyeongbokgung normally closes on Tuesdays, with holiday exceptions. A qualifying hanbok can get you free daytime admission, but the outfit rules matter. Check the current hours, ticket details and visit tips in our guide: https://landinkorea.com/posts/korea-gyeongbokgung-palace.html?utm_source=facebook&utm_medium=social&utm_campaign=gyeongbokgung_guide",
     "imageUrl": "https://images.pexels.com/photos/4840854/pexels-photo-4840854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "imageUrls": [
       "https://images.pexels.com/photos/4840854/pexels-photo-4840854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -17201,8 +17221,12 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-28T02:28:10.616Z",
-    "status": "pending",
-    "results": {},
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "1288453561012463_122118788847446391"
+      }
+    },
     "createdAt": "2026-09-27T07:10:09.669Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -17222,19 +17246,26 @@
       "reason": "주제와 관련성이 높고 문장이 자연스럽고 사실도 정확하여 여행 정보로 유용합니다",
       "model": "groq",
       "checkedAt": "2026-09-27T07:06:21.521Z"
-    }
+    },
+    "manualStartedAt": "2026-09-28T04:51:05.329Z",
+    "mediaDecision": "text_only_while_media_hosting_is_unavailable",
+    "processedAt": "2026-09-28T04:51:08.923Z"
   },
   {
     "id": "2f39bb5e-4432-4f73-9c9f-4b0038d74631",
-    "text": "There's one detail that trips up almost every first-timer.\n\nMost people rush through Gyeongbokgung and miss the best free part.\n\nThe royal guard-changing ceremony runs on a schedule — check before you go. Rent a hanbok nearby for free palace entry.\n\nSave this before your Seoul trip.\n\n📖 More tips on the blog — link in bio.\n\n#KoreaTravel #SeoulTrip #Gyeongbokgung #TravelKorea #VisitSeoul",
+    "text": "Planning Gyeongbokgung? Check the day before you go: the palace normally closes on Tuesdays, with holiday exceptions. 🏯\n\nA qualifying hanbok can mean free daytime admission. Check the outfit rules and current hours before you rent one.\n\nOur Gyeongbokgung Palace Guide has the details. Open the blog link in our bio → Gyeongbokgung Palace Guide.\n\nSave this for your Seoul itinerary.\n\n#Gyeongbokgung #SeoulTravel #KoreaTravel #VisitSeoul #SouthKorea",
     "imageUrl": null,
-    "videoUrl": "https://cdn.pixabay.com/video/2019/12/03/29777-377520664_large.mp4",
+    "videoUrl": "https://videos.pexels.com/video-files/36603607/15519666_1080_1920_30fps.mp4",
     "platforms": [
       "instagram"
     ],
     "scheduledAt": "2026-09-28T02:38:19.637Z",
-    "status": "pending",
-    "results": {},
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "18442946305124087"
+      }
+    },
     "createdAt": "2026-09-27T07:10:09.707Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -17254,7 +17285,12 @@
       "reason": "주제와 관련성이 높고 문장이 자연스럽고 사실도 정확하여 여행 정보로 유용합니다",
       "model": "groq",
       "checkedAt": "2026-09-27T07:06:21.521Z"
-    }
+    },
+    "manualPreviousVideoUrl": "https://cdn.pixabay.com/video/2019/12/03/29777-377520664_large.mp4",
+    "imageUrls": [],
+    "manualStartedAt": "2026-09-28T05:10:01.286Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-gyeongbokgung-palace.html?utm_source=instagram&utm_medium=social&utm_campaign=gyeongbokgung_guide",
+    "processedAt": "2026-09-28T05:11:31.069Z"
   },
   {
     "id": "0ce12bf9-5810-4d61-8747-685980637cbb",
@@ -17381,7 +17417,7 @@
       "tumblr"
     ],
     "scheduledAt": "2026-09-28T05:23:36.603Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-27T07:10:09.867Z",
     "approved": true,
