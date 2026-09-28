@@ -14483,7 +14483,7 @@
       "threads"
     ],
     "scheduledAt": "2026-09-24T07:52:20.174Z",
-    "status": "partial",
+    "status": "claimed",
     "results": {
       "threads": {
         "error": "publish failed"
@@ -14506,7 +14506,7 @@
     "backfill": "2026-09-24 image-zero bug",
     "verifyStatus": "passed",
     "processedAt": "2026-09-27T16:29:00.206Z",
-    "retryCount": 1
+    "retryCount": 2
   },
   {
     "id": "450c2ad4-d780-445c-9186-b72215a8d8cc",
@@ -14602,7 +14602,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-24T08:57:20.174Z",
-    "status": "partial",
+    "status": "claimed",
     "results": {
       "facebook": {
         "error": "publish failed"
@@ -14624,7 +14624,8 @@
     "topic": "Food delivery apps in Korea: why signing up is harder than ordering",
     "backfill": "2026-09-24 image-zero bug",
     "verifyStatus": "passed",
-    "processedAt": "2026-09-27T16:29:00.651Z"
+    "processedAt": "2026-09-27T16:29:00.651Z",
+    "retryCount": 1
   },
   {
     "id": "08ed880e-8b63-4586-942d-398da838cfd1",
@@ -14641,7 +14642,7 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-24T09:02:20.174Z",
-    "status": "partial",
+    "status": "claimed",
     "results": {
       "instagram": {
         "error": "publish failed"
@@ -14664,7 +14665,7 @@
     "backfill": "2026-09-24 image-zero bug",
     "verifyStatus": "passed",
     "processedAt": "2026-09-27T16:29:01.634Z",
-    "retryCount": 1
+    "retryCount": 2
   },
   {
     "id": "5d50f98f-c4e5-4bd6-80da-289d8f11bfe1",
