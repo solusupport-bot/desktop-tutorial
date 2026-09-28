@@ -14565,10 +14565,10 @@
       "threads"
     ],
     "scheduledAt": "2026-09-24T08:52:20.174Z",
-    "status": "claimed",
+    "status": "published",
     "results": {
       "threads": {
-        "error": "publish failed"
+        "id": "17959573950226792"
       }
     },
     "createdAt": "2026-09-24T07:33:26.372Z",
@@ -14587,7 +14587,7 @@
     "topic": "Food delivery apps in Korea: why signing up is harder than ordering",
     "backfill": "2026-09-24 image-zero bug",
     "verifyStatus": "passed",
-    "processedAt": "2026-09-27T15:24:40.650Z",
+    "processedAt": "2026-09-28T05:33:37.661Z",
     "retryCount": 1
   },
   {
@@ -14605,7 +14605,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-24T08:57:20.174Z",
-    "status": "claimed",
+    "status": "partial",
     "results": {
       "facebook": {
         "error": "publish failed"
@@ -14627,7 +14627,7 @@
     "topic": "Food delivery apps in Korea: why signing up is harder than ordering",
     "backfill": "2026-09-24 image-zero bug",
     "verifyStatus": "passed",
-    "processedAt": "2026-09-28T04:24:32.332Z",
+    "processedAt": "2026-09-28T05:33:52.977Z",
     "retryCount": 3
   },
   {
@@ -14759,7 +14759,7 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-24T10:02:20.174Z",
-    "status": "claimed",
+    "status": "partial",
     "results": {
       "instagram": {
         "error": "publish failed"
@@ -14781,7 +14781,7 @@
     "topic": "Renting a car in Korea: when it's smart, when it's a waste, and what the rental desk will ask for",
     "backfill": "2026-09-24 image-zero bug",
     "verifyStatus": "passed",
-    "processedAt": "2026-09-27T15:24:43.022Z",
+    "processedAt": "2026-09-28T05:33:58.334Z",
     "retryCount": 1
   },
   {
@@ -17417,8 +17417,13 @@
       "tumblr"
     ],
     "scheduledAt": "2026-09-28T05:23:36.603Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "tumblr": {
+        "id": "828976550520258560",
+        "url": "https://landinkorea.tumblr.com/post/828976550520258560"
+      }
+    },
     "createdAt": "2026-09-27T07:10:09.867Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -17439,6 +17444,7 @@
       "model": "groq",
       "checkedAt": "2026-09-27T07:06:21.521Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-gyeongbokgung-palace.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-gyeongbokgung-palace.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-09-28T05:34:05.392Z"
   }
 ]
