@@ -22,15 +22,16 @@ const parseArgs = () => {
   return {
     topic: get('--topic'),
     dir: get('--dir'),
-    seed: Number(get('--seed') || 0)
+    seed: Number(get('--seed') || 0),
+    dryRun: args.includes('--dry-run')
   };
 };
 
 const main = async () => {
-  const { topic: topicName, dir, seed } = parseArgs();
+  const { topic: topicName, dir, seed, dryRun } = parseArgs();
 
   if (!topicName || !dir) {
-    log.err('사용법: node scripts/queue-existing-card-news.js --topic "<주제명>" --dir <렌더링된파일디렉토리>');
+    log.err('사용법: node scripts/queue-existing-card-news.js --topic "<주제명>" --dir <렌더링된파일디렉토리> [--seed N] [--dry-run]');
     process.exit(1);
   }
 
@@ -55,6 +56,12 @@ const main = async () => {
     throw new Error(`렌더링된 PNG 파일을 찾을 수 없습니다: ${dir}`);
   }
   log.ok(`${files.length}장 발견`);
+
+  if (dryRun) {
+    log.section('--dry-run: 업로드/큐 등록 생략');
+    log.ok(`다음 단계: node scripts/queue-existing-card-news.js --topic "${topicName}" --dir "${dir}" (--dry-run 제거)`);
+    return;
+  }
 
   log.section('landinkorea.com에 업로드');
   const setName = path.basename(dir);
