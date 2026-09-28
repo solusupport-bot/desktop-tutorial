@@ -14564,10 +14564,10 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-24T08:57:20.174Z",
-    "status": "claimed",
+    "status": "published",
     "results": {
       "facebook": {
-        "error": "awaiting retry with source media"
+        "id": "1288453561012463_122118810987446391"
       }
     },
     "createdAt": "2026-09-24T07:33:26.417Z",
@@ -14586,7 +14586,7 @@
     "topic": "Food delivery apps in Korea: why signing up is harder than ordering",
     "backfill": "2026-09-24 image-zero bug",
     "verifyStatus": "passed",
-    "processedAt": "2026-09-28T05:33:52.977Z",
+    "processedAt": "2026-09-28T06:24:22.360Z",
     "retryCount": 3,
     "videoUrl": null
   },
