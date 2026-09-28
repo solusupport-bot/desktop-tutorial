@@ -14483,7 +14483,7 @@
       "threads"
     ],
     "scheduledAt": "2026-09-24T07:52:20.174Z",
-    "status": "claimed",
+    "status": "partial",
     "results": {
       "threads": {
         "error": "publish failed"
@@ -14505,7 +14505,7 @@
     "topic": "Eating alone in Korea: which restaurants refuse solo diners and where honbap works",
     "backfill": "2026-09-24 image-zero bug",
     "verifyStatus": "passed",
-    "processedAt": "2026-09-28T03:24:14.991Z",
+    "processedAt": "2026-09-28T04:24:31.511Z",
     "retryCount": 3
   },
   {
@@ -14602,7 +14602,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-24T08:57:20.174Z",
-    "status": "claimed",
+    "status": "partial",
     "results": {
       "facebook": {
         "error": "publish failed"
@@ -14624,7 +14624,7 @@
     "topic": "Food delivery apps in Korea: why signing up is harder than ordering",
     "backfill": "2026-09-24 image-zero bug",
     "verifyStatus": "passed",
-    "processedAt": "2026-09-28T03:24:16.147Z",
+    "processedAt": "2026-09-28T04:24:32.332Z",
     "retryCount": 2
   },
   {
@@ -14642,7 +14642,7 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-24T09:02:20.174Z",
-    "status": "claimed",
+    "status": "partial",
     "results": {
       "instagram": {
         "error": "publish failed"
@@ -14664,7 +14664,7 @@
     "topic": "Food delivery apps in Korea: why signing up is harder than ordering",
     "backfill": "2026-09-24 image-zero bug",
     "verifyStatus": "passed",
-    "processedAt": "2026-09-28T03:24:17.631Z",
+    "processedAt": "2026-09-28T04:24:35.527Z",
     "retryCount": 3
   },
   {
