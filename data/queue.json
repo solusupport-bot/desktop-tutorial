@@ -14744,8 +14744,12 @@
       "threads"
     ],
     "scheduledAt": "2026-09-24T10:52:20.174Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18113511358898201"
+      }
+    },
     "createdAt": "2026-09-24T07:34:01.717Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -14762,7 +14766,8 @@
     "topic": "Timing cherry blossoms and fall foliage in Korea without hitting peak crowds",
     "backfill": "2026-09-24 image-zero bug",
     "verifyStatus": "passed",
-    "blogUrl": "https://landinkorea.com/posts/korea-timing-cherry-blossoms-and-fall-foliage-in-korea-without-hitting-peak-crowds.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-timing-cherry-blossoms-and-fall-foliage-in-korea-without-hitting-peak-crowds.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-09-28T15:25:25.938Z"
   },
   {
     "id": "2b7bcad3-1203-47bb-8fcf-94da0651ca0f",
