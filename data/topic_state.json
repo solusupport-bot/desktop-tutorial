@@ -1,5 +1,5 @@
 {
-  "lastIndex": 1,
+  "lastIndex": 4,
   "history": [
     {
       "index": 7,
@@ -565,6 +565,21 @@
       "index": 1,
       "topic": "Bukchon Hanok Village",
       "at": "2026-09-27T07:10:11.066Z"
+    },
+    {
+      "index": 2,
+      "topic": "N Seoul Tower (Namsan)",
+      "at": "2026-09-29T05:40:57.073Z"
+    },
+    {
+      "index": 3,
+      "topic": "Myeongdong shopping district",
+      "at": "2026-09-29T05:52:20.745Z"
+    },
+    {
+      "index": 4,
+      "topic": "Busan Haeundae Beach & Gamcheon Culture Village",
+      "at": "2026-09-29T05:54:57.390Z"
     }
   ],
   "recentImageUrls": [
@@ -1016,7 +1031,22 @@
     "https://images.pexels.com/photos/6896970/pexels-photo-6896970.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://images.pexels.com/photos/35491993/pexels-photo-35491993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://images.pexels.com/photos/35396690/pexels-photo-35396690.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://images.pexels.com/photos/33415083/pexels-photo-33415083.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "https://images.pexels.com/photos/33415083/pexels-photo-33415083.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/35838395/pexels-photo-35838395.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/34746840/pexels-photo-34746840.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/22689022/pexels-photo-22689022.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/32124401/pexels-photo-32124401.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/32133703/pexels-photo-32133703.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/32014925/pexels-photo-32014925.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/31680642/pexels-photo-31680642.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/35491992/pexels-photo-35491992.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/31858147/pexels-photo-31858147.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/31680679/pexels-photo-31680679.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/31743213/pexels-photo-31743213.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/38795396/pexels-photo-38795396.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/5309285/pexels-photo-5309285.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/33097924/pexels-photo-33097924.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/38440406/pexels-photo-38440406.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
   ],
   "recentVideoUrls": [
     "https://videos.pexels.com/video-files/19577787/19577787-uhd_2160_3840_30fps.mp4",
@@ -1110,7 +1140,10 @@
     "https://cdn.pixabay.com/video/2020/05/16/39258-421020496_large.mp4",
     "https://cdn.pixabay.com/video/2024/04/26/209575_large.mp4",
     "https://cdn.pixabay.com/video/2022/10/28/136881-765457713_large.mp4",
-    "https://cdn.pixabay.com/video/2019/12/03/29777-377520664_large.mp4"
+    "https://cdn.pixabay.com/video/2019/12/03/29777-377520664_large.mp4",
+    "https://videos.pexels.com/video-files/39815150/16983203_1080_1920_30fps.mp4",
+    "https://cdn.pixabay.com/video/2026/07/02/361790_large.mp4",
+    "https://cdn.pixabay.com/video/2024/04/29/209900_large.mp4"
   ],
   "recentMusicUrls": [
     "https://prod-1.storage.jamendo.com/?trackid=20237&format=mp32",

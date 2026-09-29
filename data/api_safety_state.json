@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "platforms": {
+    "facebook": {
+      "attempts": [
+        "2026-09-28T06:24:22.308Z",
+        "2026-09-28T10:24:29.398Z",
+        "2026-09-29T05:40:02.883Z"
+      ],
+      "successes": [
+        "2026-09-28T06:24:22.308Z",
+        "2026-09-28T10:24:29.398Z",
+        "2026-09-29T05:40:02.883Z"
+      ],
+      "consecutiveFailures": 0,
+      "blockedUntil": null,
+      "lastAttemptAt": "2026-09-29T05:40:02.883Z",
+      "lastSuccessAt": "2026-09-29T05:40:02.883Z"
+    },
+    "threads": {
+      "attempts": [
+        "2026-09-28T15:25:25.909Z"
+      ],
+      "successes": [
+        "2026-09-28T15:25:25.909Z"
+      ],
+      "consecutiveFailures": 0,
+      "blockedUntil": null,
+      "lastAttemptAt": "2026-09-28T15:25:25.909Z",
+      "lastSuccessAt": "2026-09-28T15:25:25.909Z"
+    }
+  }
+}

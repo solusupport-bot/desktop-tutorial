@@ -17129,7 +17129,8 @@
       "model": "groq",
       "checkedAt": "2026-09-27T07:06:21.521Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-gyeongbokgung-palace.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-gyeongbokgung-palace.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
   },
   {
     "id": "653462aa-9584-41db-9eb5-bc8b49b9a102",
@@ -17162,7 +17163,8 @@
       "model": "groq",
       "checkedAt": "2026-09-27T07:06:21.521Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-gyeongbokgung-palace.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-gyeongbokgung-palace.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
   },
   {
     "id": "93e77cf4-5daf-4c39-b180-e61b00091c52",
@@ -17207,5 +17209,617 @@
     },
     "blogUrl": "https://landinkorea.com/posts/korea-gyeongbokgung-palace.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
     "processedAt": "2026-09-28T05:34:05.392Z"
+  },
+  {
+    "id": "a1baa6c9-383a-4634-8c15-b5a073d14a9f",
+    "text": "This looks simple until it actually happens to you.\n\nMost tourists pay for the N Seoul Tower elevator without knowing the hike up Namsan is free and takes less time than you'd think. From Myeongdong, the trail is about 30-40 minutes, mostly stairs. The free plaza view already beats most of the skyline. Hike or elevator — which do you pick?\n\n📖 Open the Land in Korea link in our profile and search “N Seoul Tower (Namsan)”.",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-09-30T02:35:31.754Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-29T05:52:20.599Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/35838395/pexels-photo-35838395.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34746840/pexels-photo-34746840.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/22689022/pexels-photo-22689022.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32124401/pexels-photo-32124401.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32133703/pexels-photo-32133703.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/39815150/16983203_1080_1920_30fps.mp4",
+    "videoAttribution": null,
+    "topic": "N Seoul Tower (Namsan)",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련 있고 문장도 자연하며 사실 주장도 신뢰할 수 있어 여행 정보로 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-09-29T05:51:35.038Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "c0ba605c-b449-4777-8993-0437998efa69",
+    "text": "This looks simple until it actually happens to you. You don't need to pay to get a great view from Namsan. 🗼\n\n1. A marked hiking trail from Myeongdong reaches the top in about 30-40 minutes, mostly stairs and paved path.\n2. The free plaza around N Seoul Tower already sits above most of the city skyline.\n3. The paid observation deck adds height, but it's optional, not required for a good view.\n4. Go at sunset if you don't mind the crowd, or early morning for the view without one.\n\nSave this before your Namsan visit.\nHave you done the hike, or taken the cable car?\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": null,
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-09-30T02:37:01.048Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-29T05:52:20.625Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/35838395/pexels-photo-35838395.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34746840/pexels-photo-34746840.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/22689022/pexels-photo-22689022.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32124401/pexels-photo-32124401.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32133703/pexels-photo-32133703.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/39815150/16983203_1080_1920_30fps.mp4",
+    "videoAttribution": null,
+    "topic": "N Seoul Tower (Namsan)",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련 있고 문장도 자연하며 사실 주장도 신뢰할 수 있어 여행 정보로 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-09-29T05:51:35.038Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "ef9fb965-6618-46c7-a995-fe5098c5de9a",
+    "text": "This looks simple until it actually happens to you.\n\nYou don't need to pay for the N Seoul Tower elevator to get a great view.\n\nThe hike from Myeongdong takes just 30-40 minutes, and the free plaza view already beats most of the skyline.\n\nSave this before your Seoul trip.\n\n📖 Open the Land in Korea link in our profile and search “N Seoul Tower (Namsan)”.\n\n🎬 Video source: Pexels\n\n#KoreaTravel #SeoulTrip #NSeoulTower #TravelKorea #VisitSeoul",
+    "imageUrl": null,
+    "videoUrl": "https://videos.pexels.com/video-files/39815150/16983203_1080_1920_30fps.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-09-30T02:45:32.123Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-29T05:52:20.660Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/35838395/pexels-photo-35838395.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34746840/pexels-photo-34746840.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/22689022/pexels-photo-22689022.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32124401/pexels-photo-32124401.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32133703/pexels-photo-32133703.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/39815150/16983203_1080_1920_30fps.mp4",
+    "videoAttribution": "Pexels",
+    "topic": "N Seoul Tower (Namsan)",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련 있고 문장도 자연하며 사실 주장도 신뢰할 수 있어 여행 정보로 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-09-29T05:51:35.038Z"
+    },
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "01e676ac-33c0-4aab-83bc-e02407b704f0",
+    "text": "This looks simple until it actually happens to you.\n\nMost tourists pay for the N Seoul Tower elevator without knowing the hike up Namsan is free and takes less time than you'd think. From Myeongdong, the trail is about 30-40 minutes, mostly stairs. The free plaza view already beats most of the skyline. Hike or elevator — which do you pick?",
+    "imageUrl": null,
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-09-30T03:01:22.019Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-29T05:52:20.685Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/35838395/pexels-photo-35838395.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34746840/pexels-photo-34746840.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/22689022/pexels-photo-22689022.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32124401/pexels-photo-32124401.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32133703/pexels-photo-32133703.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/39815150/16983203_1080_1920_30fps.mp4",
+    "videoAttribution": null,
+    "topic": "N Seoul Tower (Namsan)",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련 있고 문장도 자연하며 사실 주장도 신뢰할 수 있어 여행 정보로 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-09-29T05:51:35.038Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "b34611eb-8b09-45e7-9297-c346c7f75d89",
+    "text": "This looks simple until it actually happens to you.\n\nMost tourists pay for the N Seoul Tower elevator without knowing the hike up Namsan is free and takes less time than you'd think. From Myeongdong, the trail is about 30-40 minutes, mostly stairs. The free plaza view already beats most of the skyline. Hike or elevator — which do you pick?",
+    "imageUrl": null,
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-09-30T03:32:26.541Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-29T05:52:20.705Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/35838395/pexels-photo-35838395.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34746840/pexels-photo-34746840.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/22689022/pexels-photo-22689022.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32124401/pexels-photo-32124401.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32133703/pexels-photo-32133703.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/39815150/16983203_1080_1920_30fps.mp4",
+    "videoAttribution": null,
+    "topic": "N Seoul Tower (Namsan)",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련 있고 문장도 자연하며 사실 주장도 신뢰할 수 있어 여행 정보로 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-09-29T05:51:35.038Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "05f7a8d5-f23d-4bb8-8eb2-f72b4e384cf4",
+    "text": "You don't need to pay to get a great view from Namsan. 🗼\n\n1. A marked hiking trail from Myeongdong reaches the top in about 30-40 minutes, mostly stairs and paved path.\n2. The free plaza around N Seoul Tower already sits above most of the city skyline.\n3. The paid observation deck adds height, but it's optional, not required for a good view.\n4. Go at sunset if you don't mind the crowd, or early morning for the view without one.\n\nSave this before your Namsan visit.\nHave you done the hike, or taken the cable car?",
+    "imageUrl": null,
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-09-30T05:34:03.867Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-29T05:52:20.726Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/35838395/pexels-photo-35838395.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34746840/pexels-photo-34746840.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/22689022/pexels-photo-22689022.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32124401/pexels-photo-32124401.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32133703/pexels-photo-32133703.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/39815150/16983203_1080_1920_30fps.mp4",
+    "videoAttribution": null,
+    "topic": "N Seoul Tower (Namsan)",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련 있고 문장도 자연하며 사실 주장도 신뢰할 수 있어 여행 정보로 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-09-29T05:51:35.038Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "66eed28e-4d64-4919-b8da-bc5169b9b688",
+    "text": "Ask five people and you'll get five different answers on this.\n\nShow up to Myeongdong at lunchtime expecting the famous street food scene, and you'll be disappointed — most stalls don't open until late afternoon. It's Seoul's biggest cosmetics/fashion district, staff often speak basic English/Japanese/Chinese. Weekends get packed. Have you timed your visit right?\n\n📖 Open the Land in Korea link in our profile and search “Myeongdong shopping district”.",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-09-29T14:58:07.472Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-29T05:54:57.198Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/32014925/pexels-photo-32014925.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31680642/pexels-photo-31680642.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35491992/pexels-photo-35491992.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31858147/pexels-photo-31858147.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31680679/pexels-photo-31680679.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2026/07/02/361790_large.mp4",
+    "videoAttribution": null,
+    "topic": "Myeongdong shopping district",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연하며 사실 주장도 크게 과장되지 않아 여행자에게 유용한 정보로 판단됩니다",
+      "model": "groq",
+      "checkedAt": "2026-09-29T05:53:37.815Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-myeongdong-shopping-district.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "98485938-b3f9-464d-8844-67c59360fd46",
+    "text": "Ask five people and you'll get five different answers on this. The Myeongdong street food scene doesn't exist at lunchtime — and it trips up almost every first-timer. 🍢\n\n1. Street food stalls mostly open in the late afternoon, not at lunch.\n2. It's Seoul's biggest shopping district for cosmetics and fashion.\n3. Many stores have staff who speak basic English, Japanese, or Chinese.\n4. Tax Free shopping is everywhere — look for the sticker before you buy.\n5. Weekends get extremely crowded; weekday visits are noticeably more walkable.\n\nSave this before your Myeongdong trip.\nHave you timed your visit right?\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-myeongdong-shopping-district.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": null,
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-09-29T15:02:23.404Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-29T05:54:57.288Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/32014925/pexels-photo-32014925.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31680642/pexels-photo-31680642.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35491992/pexels-photo-35491992.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31858147/pexels-photo-31858147.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31680679/pexels-photo-31680679.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2026/07/02/361790_large.mp4",
+    "videoAttribution": null,
+    "topic": "Myeongdong shopping district",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연하며 사실 주장도 크게 과장되지 않아 여행자에게 유용한 정보로 판단됩니다",
+      "model": "groq",
+      "checkedAt": "2026-09-29T05:53:37.815Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-myeongdong-shopping-district.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "7ef0f211-cd58-427c-a540-3813f52b94bd",
+    "text": "Ask five people and you'll get five different answers on this.\n\nShow up to Myeongdong at lunchtime expecting street food, and you'll be disappointed.\n\nMost food stalls don't open until late afternoon — plan around it, and go on a weekday if you can.\n\nSave this before your Seoul trip.\n\n📖 Open the Land in Korea link in our profile and search “Myeongdong shopping district”.\n\n🎬 Video source: Pixabay\n\n#KoreaTravel #SeoulTrip #Myeongdong #TravelKorea #VisitSeoul",
+    "imageUrl": null,
+    "videoUrl": "https://cdn.pixabay.com/video/2026/07/02/361790_large.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-09-29T15:07:48.786Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-29T05:54:57.312Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/32014925/pexels-photo-32014925.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31680642/pexels-photo-31680642.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35491992/pexels-photo-35491992.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31858147/pexels-photo-31858147.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31680679/pexels-photo-31680679.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2026/07/02/361790_large.mp4",
+    "videoAttribution": "Pixabay",
+    "topic": "Myeongdong shopping district",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연하며 사실 주장도 크게 과장되지 않아 여행자에게 유용한 정보로 판단됩니다",
+      "model": "groq",
+      "checkedAt": "2026-09-29T05:53:37.815Z"
+    },
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "6763f146-a032-466b-a24b-8fd005fe37e0",
+    "text": "Ask five people and you'll get five different answers on this.\n\nShow up to Myeongdong at lunchtime expecting the famous street food scene, and you'll be disappointed — most stalls don't open until late afternoon. It's Seoul's biggest cosmetics/fashion district, staff often speak basic English/Japanese/Chinese. Weekends get packed. Have you timed your visit right?",
+    "imageUrl": null,
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-09-29T15:31:24.464Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-29T05:54:57.333Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/32014925/pexels-photo-32014925.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31680642/pexels-photo-31680642.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35491992/pexels-photo-35491992.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31858147/pexels-photo-31858147.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31680679/pexels-photo-31680679.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2026/07/02/361790_large.mp4",
+    "videoAttribution": null,
+    "topic": "Myeongdong shopping district",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연하며 사실 주장도 크게 과장되지 않아 여행자에게 유용한 정보로 판단됩니다",
+      "model": "groq",
+      "checkedAt": "2026-09-29T05:53:37.815Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-myeongdong-shopping-district.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "7df6220b-3260-48c8-b1dd-75ad6a35db4a",
+    "text": "Ask five people and you'll get five different answers on this.\n\nShow up to Myeongdong at lunchtime expecting the famous street food scene, and you'll be disappointed — most stalls don't open until late afternoon. It's Seoul's biggest cosmetics/fashion district, staff often speak basic English/Japanese/Chinese. Weekends get packed. Have you timed your visit right?",
+    "imageUrl": null,
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-09-29T15:58:32.475Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-29T05:54:57.353Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/32014925/pexels-photo-32014925.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31680642/pexels-photo-31680642.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35491992/pexels-photo-35491992.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31858147/pexels-photo-31858147.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31680679/pexels-photo-31680679.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2026/07/02/361790_large.mp4",
+    "videoAttribution": null,
+    "topic": "Myeongdong shopping district",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연하며 사실 주장도 크게 과장되지 않아 여행자에게 유용한 정보로 판단됩니다",
+      "model": "groq",
+      "checkedAt": "2026-09-29T05:53:37.815Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-myeongdong-shopping-district.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "75a4bb35-8673-4e17-a3f8-28b3b6f57aee",
+    "text": "The Myeongdong street food scene doesn't exist at lunchtime — and it trips up almost every first-timer. 🍢\n\n1. Street food stalls mostly open in the late afternoon, not at lunch.\n2. It's Seoul's biggest shopping district for cosmetics and fashion.\n3. Many stores have staff who speak basic English, Japanese, or Chinese.\n4. Tax Free shopping is everywhere — look for the sticker before you buy.\n5. Weekends get extremely crowded; weekday visits are noticeably more walkable.\n\nSave this before your Myeongdong trip.\nHave you timed your visit right?",
+    "imageUrl": null,
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-09-29T18:00:20.066Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-29T05:54:57.372Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/32014925/pexels-photo-32014925.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31680642/pexels-photo-31680642.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35491992/pexels-photo-35491992.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31858147/pexels-photo-31858147.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31680679/pexels-photo-31680679.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2026/07/02/361790_large.mp4",
+    "videoAttribution": null,
+    "topic": "Myeongdong shopping district",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연하며 사실 주장도 크게 과장되지 않아 여행자에게 유용한 정보로 판단됩니다",
+      "model": "groq",
+      "checkedAt": "2026-09-29T05:53:37.815Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-myeongdong-shopping-district.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "673d0d22-b09c-4bd9-8f90-6134cabbc151",
+    "text": "Here's what actually happens once you're standing there.\n\nOne day in Busan usually means picking between the beach and the art village — Haeundae and Gamcheon sit on opposite ends of the city. Gamcheon's colorful houses look great in photos but it's almost all stairs. KTX from Seoul takes 2.5-3 hours. Which would you pick first?\n\n📖 Open the Land in Korea link in our profile and search “Busan Haeundae Beach & Gamcheon Culture Village”.",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-09-30T00:49:06.495Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-29T05:57:02.905Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31743213/pexels-photo-31743213.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38795396/pexels-photo-38795396.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5309285/pexels-photo-5309285.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33097924/pexels-photo-33097924.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38440406/pexels-photo-38440406.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2024/04/29/209900_large.mp4",
+    "videoAttribution": null,
+    "topic": "Busan Haeundae Beach & Gamcheon Culture Village",
+    "qualityGate": {
+      "pass": true,
+      "reason": "관련 주제에 맞고 자연스러운 문장이며 사실도 정확해 여행 콘텐츠로 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-09-29T05:55:39.865Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-busan-haeundae-beach-gamcheon-culture-village.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "failed"
+  },
+  {
+    "id": "38a31c4f-d350-4aae-8067-9c7a0d54619e",
+    "text": "Here's what actually happens once you're standing there. Busan in one day means choosing — not doing both comfortably. 🌊\n\n1. Haeundae and Gamcheon Culture Village sit on opposite ends of the city.\n2. Haeundae draws the summer beach crowd and a long strip of seafront restaurants.\n3. Gamcheon's colorful hillside houses make great photos, but the neighborhood is almost entirely stairs and slopes.\n4. From Seoul, KTX gets you to Busan in about 2.5-3 hours — book ahead in summer.\n\nSave this before your Busan day trip.\nBeach or art village — which would you pick first?\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-busan-haeundae-beach-gamcheon-culture-village.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": null,
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-09-30T00:54:28.432Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-29T05:57:03.029Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31743213/pexels-photo-31743213.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38795396/pexels-photo-38795396.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5309285/pexels-photo-5309285.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33097924/pexels-photo-33097924.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38440406/pexels-photo-38440406.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2024/04/29/209900_large.mp4",
+    "videoAttribution": null,
+    "topic": "Busan Haeundae Beach & Gamcheon Culture Village",
+    "qualityGate": {
+      "pass": true,
+      "reason": "관련 주제에 맞고 자연스러운 문장이며 사실도 정확해 여행 콘텐츠로 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-09-29T05:55:39.865Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-busan-haeundae-beach-gamcheon-culture-village.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "failed"
+  },
+  {
+    "id": "f20c8462-659b-4f65-970b-59e3ad77dd42",
+    "text": "Here's what actually happens once you're standing there.\n\nOne day in Busan usually means picking between the beach and the art village.\n\nHaeundae and Gamcheon sit on opposite ends of the city — plan real transit time between them.\n\nSave this before your Busan trip.\n\n📖 Open the Land in Korea link in our profile and search “Busan Haeundae Beach & Gamcheon Culture Village”.\n\n🎬 Video source: Pixabay\n\n#KoreaTravel #BusanTrip #Haeundae #TravelKorea #VisitKorea",
+    "imageUrl": null,
+    "videoUrl": "https://cdn.pixabay.com/video/2024/04/29/209900_large.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-09-30T00:59:04.549Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-29T05:57:03.068Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31743213/pexels-photo-31743213.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38795396/pexels-photo-38795396.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5309285/pexels-photo-5309285.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33097924/pexels-photo-33097924.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38440406/pexels-photo-38440406.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2024/04/29/209900_large.mp4",
+    "videoAttribution": "Pixabay",
+    "topic": "Busan Haeundae Beach & Gamcheon Culture Village",
+    "qualityGate": {
+      "pass": true,
+      "reason": "관련 주제에 맞고 자연스러운 문장이며 사실도 정확해 여행 콘텐츠로 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-09-29T05:55:39.865Z"
+    },
+    "verifyStatus": "failed"
+  },
+  {
+    "id": "770c27b8-1b1f-4e77-93ef-520f21fd3303",
+    "text": "Here's what actually happens once you're standing there.\n\nOne day in Busan usually means picking between the beach and the art village — Haeundae and Gamcheon sit on opposite ends of the city. Gamcheon's colorful houses look great in photos but it's almost all stairs. KTX from Seoul takes 2.5-3 hours. Which would you pick first?",
+    "imageUrl": null,
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-09-30T01:21:52.430Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-29T05:57:03.103Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31743213/pexels-photo-31743213.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38795396/pexels-photo-38795396.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5309285/pexels-photo-5309285.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33097924/pexels-photo-33097924.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38440406/pexels-photo-38440406.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2024/04/29/209900_large.mp4",
+    "videoAttribution": null,
+    "topic": "Busan Haeundae Beach & Gamcheon Culture Village",
+    "qualityGate": {
+      "pass": true,
+      "reason": "관련 주제에 맞고 자연스러운 문장이며 사실도 정확해 여행 콘텐츠로 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-09-29T05:55:39.865Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-busan-haeundae-beach-gamcheon-culture-village.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "failed"
+  },
+  {
+    "id": "04172bf4-dc6e-4f34-bea8-c5caa2fbccc7",
+    "text": "Here's what actually happens once you're standing there.\n\nOne day in Busan usually means picking between the beach and the art village — Haeundae and Gamcheon sit on opposite ends of the city. Gamcheon's colorful houses look great in photos but it's almost all stairs. KTX from Seoul takes 2.5-3 hours. Which would you pick first?",
+    "imageUrl": null,
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-09-30T01:48:32.029Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-29T05:57:03.133Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31743213/pexels-photo-31743213.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38795396/pexels-photo-38795396.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5309285/pexels-photo-5309285.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33097924/pexels-photo-33097924.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38440406/pexels-photo-38440406.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2024/04/29/209900_large.mp4",
+    "videoAttribution": null,
+    "topic": "Busan Haeundae Beach & Gamcheon Culture Village",
+    "qualityGate": {
+      "pass": true,
+      "reason": "관련 주제에 맞고 자연스러운 문장이며 사실도 정확해 여행 콘텐츠로 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-09-29T05:55:39.865Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-busan-haeundae-beach-gamcheon-culture-village.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "failed"
+  },
+  {
+    "id": "f892cc19-a668-410b-a697-58bdc1ca7eb6",
+    "text": "Busan in one day means choosing — not doing both comfortably. 🌊\n\n1. Haeundae and Gamcheon Culture Village sit on opposite ends of the city.\n2. Haeundae draws the summer beach crowd and a long strip of seafront restaurants.\n3. Gamcheon's colorful hillside houses make great photos, but the neighborhood is almost entirely stairs and slopes.\n4. From Seoul, KTX gets you to Busan in about 2.5-3 hours — book ahead in summer.\n\nSave this before your Busan day trip.\nBeach or art village — which would you pick first?",
+    "imageUrl": null,
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-09-30T03:53:17.864Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-29T05:57:03.161Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31743213/pexels-photo-31743213.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38795396/pexels-photo-38795396.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5309285/pexels-photo-5309285.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33097924/pexels-photo-33097924.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38440406/pexels-photo-38440406.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2024/04/29/209900_large.mp4",
+    "videoAttribution": null,
+    "topic": "Busan Haeundae Beach & Gamcheon Culture Village",
+    "qualityGate": {
+      "pass": true,
+      "reason": "관련 주제에 맞고 자연스러운 문장이며 사실도 정확해 여행 콘텐츠로 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-09-29T05:55:39.865Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-busan-haeundae-beach-gamcheon-culture-village.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "failed"
   }
 ]
