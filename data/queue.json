@@ -9287,7 +9287,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-16T20:38:30.990Z",
-    "status": "partial",
+    "status": "rejected",
     "results": {
       "pinterest": {
         "error": "Land in Korea watermarked media required"
@@ -9311,7 +9311,8 @@
     },
     "blogUrl": "https://landinkorea.com/posts/korea-t-money-transit-card.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
     "processedAt": "2026-09-17T00:03:12.993Z",
-    "retryCount": 3
+    "retryCount": 3,
+    "rejectReason": "stale backlog: hosted media unavailable/broken (pre-2026-09-30 Cloudflare deploy bug), discarded rather than retried"
   },
   {
     "id": "55739f00-2431-42a7-b1dd-7ecc005e480e",
@@ -9567,7 +9568,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-17T05:28:42.084Z",
-    "status": "partial",
+    "status": "rejected",
     "results": {
       "pinterest": {
         "error": "Land in Korea watermarked media required"
@@ -9596,7 +9597,8 @@
     "blogUrl": "https://landinkorea.com/posts/korea-namdaemun-market.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
     "verifyStatus": "passed",
     "processedAt": "2026-09-17T08:03:12.250Z",
-    "retryCount": 3
+    "retryCount": 3,
+    "rejectReason": "stale backlog: hosted media unavailable/broken (pre-2026-09-30 Cloudflare deploy bug), discarded rather than retried"
   },
   {
     "id": "44252162-1031-44be-b21d-7c4c9d476f30",
@@ -10177,7 +10179,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-17T07:41:02.938Z",
-    "status": "partial",
+    "status": "rejected",
     "results": {
       "pinterest": {
         "error": "Land in Korea watermarked media required"
@@ -10206,7 +10208,8 @@
     "blogUrl": "https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
     "verifyStatus": "passed",
     "processedAt": "2026-09-17T10:34:22.708Z",
-    "retryCount": 3
+    "retryCount": 3,
+    "rejectReason": "stale backlog: hosted media unavailable/broken (pre-2026-09-30 Cloudflare deploy bug), discarded rather than retried"
   },
   {
     "id": "63d020ea-9bc3-4c56-9e38-766dfcd2e5c8",
@@ -13934,8 +13937,12 @@
       "threads"
     ],
     "scheduledAt": "2026-09-24T14:18:35.291Z",
-    "status": "pending",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18128599315808743"
+      }
+    },
     "createdAt": "2026-09-24T02:17:42.788Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -13957,7 +13964,8 @@
       "checkedAt": "2026-09-24T02:17:23.969Z"
     },
     "verifyStatus": "passed",
-    "blogUrl": "https://landinkorea.com/posts/korea-luggage-storage-forwarding-services.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-luggage-storage-forwarding-services.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-09-30T10:40:43.181Z"
   },
   {
     "id": "2da6d1cd-9232-47cc-8203-5048d7d91a7a",
@@ -14003,7 +14011,7 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-24T14:26:12.781Z",
-    "status": "partial",
+    "status": "rejected",
     "results": {
       "instagram": {
         "error": "watermarked media unavailable"
@@ -14031,7 +14039,8 @@
     },
     "verifyStatus": "passed",
     "videoAttribution": "Pixabay",
-    "processedAt": "2026-09-30T04:25:32.804Z"
+    "processedAt": "2026-09-30T04:25:32.804Z",
+    "rejectReason": "stale backlog: hosted media unavailable/broken (pre-2026-09-30 Cloudflare deploy bug), discarded rather than retried"
   },
   {
     "id": "37b9f945-8ca3-43ea-b171-f2cc4106b79a",
@@ -14604,7 +14613,7 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-24T09:02:20.174Z",
-    "status": "partial",
+    "status": "rejected",
     "results": {
       "instagram": {
         "error": "Land in Korea watermarked media required"
@@ -14628,7 +14637,8 @@
     "verifyStatus": "passed",
     "processedAt": "2026-09-28T04:24:35.527Z",
     "retryCount": 3,
-    "videoUrl": null
+    "videoUrl": null,
+    "rejectReason": "stale backlog: hosted media unavailable/broken (pre-2026-09-30 Cloudflare deploy bug), discarded rather than retried"
   },
   {
     "id": "5d50f98f-c4e5-4bd6-80da-289d8f11bfe1",
@@ -14714,7 +14724,7 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-24T10:02:20.174Z",
-    "status": "partial",
+    "status": "rejected",
     "results": {
       "instagram": {
         "error": "Land in Korea watermarked media required"
@@ -14738,7 +14748,8 @@
     "verifyStatus": "passed",
     "processedAt": "2026-09-28T05:33:58.334Z",
     "retryCount": 3,
-    "videoUrl": null
+    "videoUrl": null,
+    "rejectReason": "stale backlog: hosted media unavailable/broken (pre-2026-09-30 Cloudflare deploy bug), discarded rather than retried"
   },
   {
     "id": "32d54264-be63-4ab1-ba3e-70a60bd554f3",
@@ -15056,7 +15067,7 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-24T14:02:20.174Z",
-    "status": "partial",
+    "status": "rejected",
     "results": {
       "instagram": {
         "error": "Land in Korea watermarked media required"
@@ -15078,7 +15089,8 @@
     "topic": "Cafes as workspaces in Korea: unspoken rules of study cafes, franchise chains, and 'no-laptop' signs",
     "backfill": "2026-09-24 image-zero bug",
     "verifyStatus": "passed",
-    "retryCount": 3
+    "retryCount": 3,
+    "rejectReason": "stale backlog: hosted media unavailable/broken (pre-2026-09-30 Cloudflare deploy bug), discarded rather than retried"
   },
   {
     "id": "e889abde-a9c6-4dcf-8167-1407e319f890",
@@ -15089,7 +15101,7 @@
       "threads"
     ],
     "scheduledAt": "2026-09-24T14:52:20.174Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-09-24T07:35:17.323Z",
     "approved": true,
@@ -15107,7 +15119,8 @@
     "topic": "Reserving restaurants and joining waitlists in Korea: Catch Table, Naver booking, and the Tabling tablet",
     "backfill": "2026-09-24 image-zero bug",
     "verifyStatus": "passed",
-    "blogUrl": "https://landinkorea.com/posts/korea-reserving-restaurants-and-joining-waitlists-in-korea-catch-table-naver-booking-and-the-tabling-tablet.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-reserving-restaurants-and-joining-waitlists-in-korea-catch-table-naver-booking-and-the-tabling-tablet.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "rejectReason": "stale backlog: facebook/threads post rule requires a photo, but this item has zero media (2026-09-24 image pipeline bug)"
   },
   {
     "id": "8ab8da86-7e26-453a-bbea-e539c661ae96",
@@ -15118,7 +15131,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-24T14:57:20.174Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-09-24T07:35:17.361Z",
     "approved": true,
@@ -15135,7 +15148,8 @@
     "sourceVideoUrl": null,
     "topic": "Reserving restaurants and joining waitlists in Korea: Catch Table, Naver booking, and the Tabling tablet",
     "backfill": "2026-09-24 image-zero bug",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "rejectReason": "stale backlog: facebook/threads post rule requires a photo, but this item has zero media (2026-09-24 image pipeline bug)"
   },
   {
     "id": "0ca1d0f9-d2af-4e27-be3c-ab5eddf89aca",
@@ -15146,7 +15160,7 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-24T15:02:20.174Z",
-    "status": "partial",
+    "status": "rejected",
     "results": {
       "instagram": {
         "error": "Land in Korea watermarked media required"
@@ -15168,7 +15182,8 @@
     "topic": "Reserving restaurants and joining waitlists in Korea: Catch Table, Naver booking, and the Tabling tablet",
     "backfill": "2026-09-24 image-zero bug",
     "verifyStatus": "passed",
-    "retryCount": 3
+    "retryCount": 3,
+    "rejectReason": "stale backlog: hosted media unavailable/broken (pre-2026-09-30 Cloudflare deploy bug), discarded rather than retried"
   },
   {
     "id": "b28f5ea1-3b5f-4e26-88fc-adaba3ae8dca",
@@ -15179,7 +15194,7 @@
       "threads"
     ],
     "scheduledAt": "2026-09-24T16:52:00.000Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-09-24T07:39:30.866Z",
     "approved": true,
@@ -15194,7 +15209,8 @@
     "sourceVideoUrl": null,
     "topic": "Doing laundry in Korea: coin laundromats, the dryer problem, and neighborhood dry cleaners",
     "backfill": "2026-09-24 image-zero bug",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "rejectReason": "stale backlog: facebook/threads post rule requires a photo, but this item has zero media (2026-09-24 image pipeline bug)"
   },
   {
     "id": "fc94a3e2-3bf3-4f05-8f37-6f126957b5dd",
@@ -15205,7 +15221,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-24T16:57:00.000Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-09-24T07:39:30.901Z",
     "approved": true,
@@ -15220,7 +15236,8 @@
     "sourceVideoUrl": null,
     "topic": "Doing laundry in Korea: coin laundromats, the dryer problem, and neighborhood dry cleaners",
     "backfill": "2026-09-24 image-zero bug",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "rejectReason": "stale backlog: facebook/threads post rule requires a photo, but this item has zero media (2026-09-24 image pipeline bug)"
   },
   {
     "id": "45a3ad98-829f-430b-9b20-5bd38dc2bc2c",
@@ -15231,7 +15248,7 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-24T17:02:00.000Z",
-    "status": "partial",
+    "status": "rejected",
     "results": {
       "instagram": {
         "error": "Land in Korea watermarked media required"
@@ -15251,7 +15268,8 @@
     "topic": "Doing laundry in Korea: coin laundromats, the dryer problem, and neighborhood dry cleaners",
     "backfill": "2026-09-24 image-zero bug",
     "verifyStatus": "passed",
-    "retryCount": 3
+    "retryCount": 3,
+    "rejectReason": "stale backlog: hosted media unavailable/broken (pre-2026-09-30 Cloudflare deploy bug), discarded rather than retried"
   },
   {
     "id": "c3d84a84-31f7-4b16-ac97-95c4071666a6",
@@ -15262,7 +15280,7 @@
       "threads"
     ],
     "scheduledAt": "2026-09-24T17:52:00.000Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-09-24T07:39:40.872Z",
     "approved": true,
@@ -15279,7 +15297,8 @@
     "sourceVideoUrl": null,
     "topic": "The closed-on-Monday trap: how Korean palaces and museums schedule their days off",
     "backfill": "2026-09-24 image-zero bug",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "rejectReason": "stale backlog: facebook/threads post rule requires a photo, but this item has zero media (2026-09-24 image pipeline bug)"
   },
   {
     "id": "7450f9d3-5eb0-4a84-8a9f-e2cc1c3f4dce",
@@ -15290,7 +15309,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-24T17:57:00.000Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-09-24T07:39:40.894Z",
     "approved": true,
@@ -15307,7 +15326,8 @@
     "sourceVideoUrl": null,
     "topic": "The closed-on-Monday trap: how Korean palaces and museums schedule their days off",
     "backfill": "2026-09-24 image-zero bug",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "rejectReason": "stale backlog: facebook/threads post rule requires a photo, but this item has zero media (2026-09-24 image pipeline bug)"
   },
   {
     "id": "b3b08129-50ac-4016-8938-9630fb59dfd6",
@@ -15318,7 +15338,7 @@
       "threads"
     ],
     "scheduledAt": "2026-09-24T18:52:00.000Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-09-24T07:39:52.663Z",
     "approved": true,
@@ -15335,7 +15355,8 @@
     "sourceVideoUrl": null,
     "topic": "Hiking in Korea like a local: subway-accessible peaks, seasonal trail closures, and the gear culture",
     "backfill": "2026-09-24 image-zero bug",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "rejectReason": "stale backlog: facebook/threads post rule requires a photo, but this item has zero media (2026-09-24 image pipeline bug)"
   },
   {
     "id": "9471f870-196c-470c-ad59-a4a7bb5efb96",
@@ -15346,7 +15367,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-24T18:57:00.000Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-09-24T07:39:52.704Z",
     "approved": true,
@@ -15363,7 +15384,8 @@
     "sourceVideoUrl": null,
     "topic": "Hiking in Korea like a local: subway-accessible peaks, seasonal trail closures, and the gear culture",
     "backfill": "2026-09-24 image-zero bug",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "rejectReason": "stale backlog: facebook/threads post rule requires a photo, but this item has zero media (2026-09-24 image pipeline bug)"
   },
   {
     "id": "1864a194-495e-40d5-b531-db6803e4b293",
@@ -15374,7 +15396,7 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-24T19:02:00.000Z",
-    "status": "partial",
+    "status": "rejected",
     "results": {
       "instagram": {
         "error": "Land in Korea watermarked media required"
@@ -15396,7 +15418,8 @@
     "topic": "Hiking in Korea like a local: subway-accessible peaks, seasonal trail closures, and the gear culture",
     "backfill": "2026-09-24 image-zero bug",
     "verifyStatus": "passed",
-    "retryCount": 3
+    "retryCount": 3,
+    "rejectReason": "stale backlog: hosted media unavailable/broken (pre-2026-09-30 Cloudflare deploy bug), discarded rather than retried"
   },
   {
     "id": "08d6037f-cc59-467b-89b7-12327778e946",
@@ -15407,7 +15430,7 @@
       "threads"
     ],
     "scheduledAt": "2026-09-24T19:52:00.000Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-09-24T07:40:04.223Z",
     "approved": true,
@@ -15424,7 +15447,8 @@
     "sourceVideoUrl": null,
     "topic": "Where Koreans actually buy everyday stuff: Daiso vs. Olive Young vs. hypermarkets vs. the traditional market",
     "backfill": "2026-09-24 image-zero bug",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "rejectReason": "stale backlog: facebook/threads post rule requires a photo, but this item has zero media (2026-09-24 image pipeline bug)"
   },
   {
     "id": "4d841c96-fd35-4eda-ae34-795307ce2de6",
@@ -15435,7 +15459,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-24T19:57:00.000Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-09-24T07:40:04.251Z",
     "approved": true,
@@ -15452,7 +15476,8 @@
     "sourceVideoUrl": null,
     "topic": "Where Koreans actually buy everyday stuff: Daiso vs. Olive Young vs. hypermarkets vs. the traditional market",
     "backfill": "2026-09-24 image-zero bug",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "rejectReason": "stale backlog: facebook/threads post rule requires a photo, but this item has zero media (2026-09-24 image pipeline bug)"
   },
   {
     "id": "3dd6fb0c-dab8-4515-9b9f-eb93e1a8acc8",
@@ -15463,7 +15488,7 @@
       "threads"
     ],
     "scheduledAt": "2026-09-24T20:52:00.000Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-09-24T07:40:37.067Z",
     "approved": true,
@@ -15478,7 +15503,8 @@
     "topic": "Day-tripping from Seoul by regular train: Mugunghwa, ITX-Saemaeul, and the Gyeongui-Jungang line",
     "backfill": "2026-09-24 image-zero bug",
     "verifyStatus": "passed",
-    "blogUrl": "https://landinkorea.com/posts/korea-day-tripping-from-seoul-by-regular-train-mugunghwa-itx-saemaeul-and-the-gyeongui-jungang-line.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-day-tripping-from-seoul-by-regular-train-mugunghwa-itx-saemaeul-and-the-gyeongui-jungang-line.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "rejectReason": "stale backlog: facebook/threads post rule requires a photo, but this item has zero media (2026-09-24 image pipeline bug)"
   },
   {
     "id": "3f84a1a7-6671-42a5-8a99-59433e867319",
@@ -15489,7 +15515,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-24T20:57:00.000Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-09-24T07:40:37.082Z",
     "approved": true,
@@ -15503,7 +15529,8 @@
     "sourceVideoUrl": null,
     "topic": "Day-tripping from Seoul by regular train: Mugunghwa, ITX-Saemaeul, and the Gyeongui-Jungang line",
     "backfill": "2026-09-24 image-zero bug",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "rejectReason": "stale backlog: facebook/threads post rule requires a photo, but this item has zero media (2026-09-24 image pipeline bug)"
   },
   {
     "id": "7438ee06-2ea6-441f-905b-f25d600d3c64",
@@ -15514,7 +15541,7 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-24T21:02:00.000Z",
-    "status": "partial",
+    "status": "rejected",
     "results": {
       "instagram": {
         "error": "Land in Korea watermarked media required"
@@ -15533,7 +15560,8 @@
     "topic": "Day-tripping from Seoul by regular train: Mugunghwa, ITX-Saemaeul, and the Gyeongui-Jungang line",
     "backfill": "2026-09-24 image-zero bug",
     "verifyStatus": "passed",
-    "retryCount": 3
+    "retryCount": 3,
+    "rejectReason": "stale backlog: hosted media unavailable/broken (pre-2026-09-30 Cloudflare deploy bug), discarded rather than retried"
   },
   {
     "id": "001fc818-b9a9-482d-9ff5-f8030e9ad693",
@@ -15905,7 +15933,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-25T16:23:06.295Z",
-    "status": "partial",
+    "status": "rejected",
     "results": {
       "pinterest": {
         "error": "Land in Korea watermarked media required"
@@ -15933,7 +15961,8 @@
     },
     "blogUrl": "https://landinkorea.com/index.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
     "verifyStatus": "passed",
-    "retryCount": 3
+    "retryCount": 3,
+    "rejectReason": "stale backlog: hosted media unavailable/broken (pre-2026-09-30 Cloudflare deploy bug), discarded rather than retried"
   },
   {
     "id": "14697e3e-e367-45c3-92ee-ef34b828b534",
@@ -16214,7 +16243,7 @@
       "threads"
     ],
     "scheduledAt": "2026-09-27T03:28:51.787Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-09-26T12:45:49.921Z",
     "approved": true,
@@ -16237,7 +16266,8 @@
       "checkedAt": "2026-09-26T12:45:06.739Z"
     },
     "verifyStatus": "failed",
-    "blogUrl": "https://landinkorea.com/posts/korea-trash-and-recycling-rules-for-residents.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-trash-and-recycling-rules-for-residents.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "rejectReason": "stale backlog: facebook/threads post rule requires a photo, but this item has zero media (2026-09-24 image pipeline bug)"
   },
   {
     "id": "19754125-9da5-4332-9dc3-7dee041497bd",
@@ -16248,7 +16278,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-27T03:31:14.175Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-09-26T12:45:49.946Z",
     "approved": true,
@@ -16270,7 +16300,8 @@
       "model": "groq",
       "checkedAt": "2026-09-26T12:45:06.739Z"
     },
-    "verifyStatus": "failed"
+    "verifyStatus": "failed",
+    "rejectReason": "stale backlog: facebook/threads post rule requires a photo, but this item has zero media (2026-09-24 image pipeline bug)"
   },
   {
     "id": "12239fcc-5cd9-4b04-ba8b-543a1ca2e6c4",
@@ -16315,7 +16346,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-27T06:28:25.900Z",
-    "status": "partial",
+    "status": "rejected",
     "results": {
       "pinterest": {
         "error": "Land in Korea watermarked media required"
@@ -16343,7 +16374,8 @@
     },
     "blogUrl": "https://landinkorea.com/posts/korea-trash-and-recycling-rules-for-residents.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
     "verifyStatus": "failed",
-    "retryCount": 3
+    "retryCount": 3,
+    "rejectReason": "stale backlog: hosted media unavailable/broken (pre-2026-09-30 Cloudflare deploy bug), discarded rather than retried"
   },
   {
     "id": "5bb1cb45-20d5-4a44-9e6c-851ced1d3068",
@@ -16467,7 +16499,7 @@
       "threads"
     ],
     "scheduledAt": "2026-09-26T15:51:42.357Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-09-26T12:48:07.381Z",
     "approved": true,
@@ -16490,7 +16522,8 @@
       "checkedAt": "2026-09-26T12:47:36.480Z"
     },
     "verifyStatus": "passed",
-    "blogUrl": "https://landinkorea.com/posts/korea-dmz-and-jsa-tours.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-dmz-and-jsa-tours.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "rejectReason": "stale backlog: facebook/threads post rule requires a photo, but this item has zero media (2026-09-24 image pipeline bug)"
   },
   {
     "id": "0f794634-cf64-446a-a7df-5d41ad3f63cd",
@@ -16501,7 +16534,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-26T15:55:58.873Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-09-26T12:48:07.406Z",
     "approved": true,
@@ -16523,7 +16556,8 @@
       "model": "groq",
       "checkedAt": "2026-09-26T12:47:36.480Z"
     },
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "rejectReason": "stale backlog: facebook/threads post rule requires a photo, but this item has zero media (2026-09-24 image pipeline bug)"
   },
   {
     "id": "38e3b332-3e42-4927-a5f7-8268b05798f9",
@@ -16568,7 +16602,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-26T18:52:29.614Z",
-    "status": "partial",
+    "status": "rejected",
     "results": {
       "pinterest": {
         "error": "Land in Korea watermarked media required"
@@ -16596,7 +16630,8 @@
     },
     "blogUrl": "https://landinkorea.com/posts/korea-dmz-and-jsa-tours.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
     "verifyStatus": "passed",
-    "retryCount": 3
+    "retryCount": 3,
+    "rejectReason": "stale backlog: hosted media unavailable/broken (pre-2026-09-30 Cloudflare deploy bug), discarded rather than retried"
   },
   {
     "id": "a951da11-f8dd-48ea-a0ba-1aced3948f5a",
@@ -16720,7 +16755,7 @@
       "threads"
     ],
     "scheduledAt": "2026-09-27T02:32:24.359Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-09-26T12:50:24.101Z",
     "approved": true,
@@ -16743,7 +16778,8 @@
       "checkedAt": "2026-09-26T12:49:40.058Z"
     },
     "verifyStatus": "passed",
-    "blogUrl": "https://landinkorea.com/posts/korea-jjimjilbang-etiquette.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-jjimjilbang-etiquette.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "rejectReason": "stale backlog: facebook/threads post rule requires a photo, but this item has zero media (2026-09-24 image pipeline bug)"
   },
   {
     "id": "abba2338-e385-4477-8e3a-54f6f0ada066",
@@ -16754,7 +16790,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-27T02:34:00.808Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-09-26T12:50:24.113Z",
     "approved": true,
@@ -16776,7 +16812,8 @@
       "model": "groq",
       "checkedAt": "2026-09-26T12:49:40.058Z"
     },
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "rejectReason": "stale backlog: facebook/threads post rule requires a photo, but this item has zero media (2026-09-24 image pipeline bug)"
   },
   {
     "id": "6e038be6-4c1c-4483-a4f4-0c65467ba72e",
@@ -16821,7 +16858,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-27T05:30:16.682Z",
-    "status": "partial",
+    "status": "rejected",
     "results": {
       "pinterest": {
         "error": "Land in Korea watermarked media required"
@@ -16849,7 +16886,8 @@
     },
     "blogUrl": "https://landinkorea.com/posts/korea-jjimjilbang-etiquette.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
     "verifyStatus": "passed",
-    "retryCount": 3
+    "retryCount": 3,
+    "rejectReason": "stale backlog: hosted media unavailable/broken (pre-2026-09-30 Cloudflare deploy bug), discarded rather than retried"
   },
   {
     "id": "93bf3580-45ff-4b48-96df-54b3c296fd91",
@@ -17104,7 +17142,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-28T05:25:17.006Z",
-    "status": "partial",
+    "status": "rejected",
     "results": {
       "pinterest": {
         "error": "Land in Korea watermarked media required"
@@ -17131,7 +17169,8 @@
       "checkedAt": "2026-09-27T07:06:21.521Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-gyeongbokgung-palace.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
-    "retryCount": 3
+    "retryCount": 3,
+    "rejectReason": "stale backlog: hosted media unavailable/broken (pre-2026-09-30 Cloudflare deploy bug), discarded rather than retried"
   },
   {
     "id": "59d75234-4a01-4d4a-830f-d030a01788f8",
@@ -17253,7 +17292,7 @@
       "threads"
     ],
     "scheduledAt": "2026-09-30T02:35:31.754Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-09-29T05:52:20.599Z",
     "approved": true,
@@ -17277,7 +17316,8 @@
       "checkedAt": "2026-09-29T05:51:35.038Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "rejectReason": "stale backlog: facebook/threads post rule requires a photo, but this item has zero media (2026-09-24 image pipeline bug)"
   },
   {
     "id": "c0ba605c-b449-4777-8993-0437998efa69",
@@ -17287,7 +17327,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-30T02:37:01.048Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-09-29T05:52:20.625Z",
     "approved": true,
@@ -17311,7 +17351,8 @@
       "checkedAt": "2026-09-29T05:51:35.038Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "rejectReason": "stale backlog: facebook/threads post rule requires a photo, but this item has zero media (2026-09-24 image pipeline bug)"
   },
   {
     "id": "ef9fb965-6618-46c7-a995-fe5098c5de9a",
@@ -17463,7 +17504,7 @@
       "threads"
     ],
     "scheduledAt": "2026-09-29T14:58:07.472Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-09-29T05:54:57.198Z",
     "approved": true,
@@ -17487,7 +17528,8 @@
       "checkedAt": "2026-09-29T05:53:37.815Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-myeongdong-shopping-district.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "rejectReason": "stale backlog: facebook/threads post rule requires a photo, but this item has zero media (2026-09-24 image pipeline bug)"
   },
   {
     "id": "98485938-b3f9-464d-8844-67c59360fd46",
@@ -17497,7 +17539,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-29T15:02:23.404Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-09-29T05:54:57.288Z",
     "approved": true,
@@ -17521,7 +17563,8 @@
       "checkedAt": "2026-09-29T05:53:37.815Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-myeongdong-shopping-district.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "rejectReason": "stale backlog: facebook/threads post rule requires a photo, but this item has zero media (2026-09-24 image pipeline bug)"
   },
   {
     "id": "7ef0f211-cd58-427c-a540-3813f52b94bd",
@@ -17673,7 +17716,7 @@
       "threads"
     ],
     "scheduledAt": "2026-09-30T00:49:06.495Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-09-29T05:57:02.905Z",
     "approved": true,
@@ -17697,7 +17740,8 @@
       "checkedAt": "2026-09-29T05:55:39.865Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-busan-haeundae-beach-gamcheon-culture-village.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "failed"
+    "verifyStatus": "failed",
+    "rejectReason": "stale backlog: facebook/threads post rule requires a photo, but this item has zero media (2026-09-24 image pipeline bug)"
   },
   {
     "id": "38a31c4f-d350-4aae-8067-9c7a0d54619e",
@@ -17707,7 +17751,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-30T00:54:28.432Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-09-29T05:57:03.029Z",
     "approved": true,
@@ -17731,7 +17775,8 @@
       "checkedAt": "2026-09-29T05:55:39.865Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-busan-haeundae-beach-gamcheon-culture-village.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "failed"
+    "verifyStatus": "failed",
+    "rejectReason": "stale backlog: facebook/threads post rule requires a photo, but this item has zero media (2026-09-24 image pipeline bug)"
   },
   {
     "id": "f20c8462-659b-4f65-970b-59e3ad77dd42",
@@ -17883,7 +17928,7 @@
       "threads"
     ],
     "scheduledAt": "2026-09-30T02:43:08.856Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-09-30T02:36:24.544Z",
     "approved": true,
@@ -17908,7 +17953,8 @@
       "checkedAt": "2026-09-30T02:35:28.151Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-jeju-island.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "rejectReason": "stale backlog: facebook/threads post rule requires a photo, but this item has zero media (2026-09-24 image pipeline bug)"
   },
   {
     "id": "8cedd605-45ca-4458-a45a-f240884df1cf",
@@ -17918,7 +17964,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-30T02:50:24.966Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-09-30T02:36:24.567Z",
     "approved": true,
@@ -17943,7 +17989,8 @@
       "checkedAt": "2026-09-30T02:35:28.151Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-jeju-island.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "rejectReason": "stale backlog: facebook/threads post rule requires a photo, but this item has zero media (2026-09-24 image pipeline bug)"
   },
   {
     "id": "09735f71-f22e-4784-9a62-38dce6efdfb5",
@@ -18093,7 +18140,7 @@
       "threads"
     ],
     "scheduledAt": "2026-09-30T16:45:24.343Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-09-30T02:39:04.914Z",
     "approved": true,
@@ -18117,7 +18164,8 @@
       "checkedAt": "2026-09-30T02:37:29.747Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-esim-mobile-data.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "failed"
+    "verifyStatus": "failed",
+    "rejectReason": "stale backlog: facebook/threads post rule requires a photo, but this item has zero media (2026-09-24 image pipeline bug)"
   },
   {
     "id": "bff09f23-9495-4c8a-ac17-11596937a28b",
@@ -18127,7 +18175,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-30T16:48:53.863Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-09-30T02:39:04.940Z",
     "approved": true,
@@ -18151,7 +18199,8 @@
       "checkedAt": "2026-09-30T02:37:29.747Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-esim-mobile-data.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "failed"
+    "verifyStatus": "failed",
+    "rejectReason": "stale backlog: facebook/threads post rule requires a photo, but this item has zero media (2026-09-24 image pipeline bug)"
   },
   {
     "id": "d8a2ab48-9f32-4b56-a4d4-ce5986293d0f",
@@ -18297,7 +18346,7 @@
       "threads"
     ],
     "scheduledAt": "2026-10-01T01:49:09.181Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-09-30T02:40:38.415Z",
     "approved": true,
@@ -18321,7 +18370,8 @@
       "checkedAt": "2026-09-30T02:39:56.557Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-t-money-transit-card.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "rejectReason": "stale backlog: facebook/threads post rule requires a photo, but this item has zero media (2026-09-24 image pipeline bug)"
   },
   {
     "id": "1bb89cf1-1865-4188-b267-b7239ee407ac",
@@ -18331,7 +18381,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-10-01T01:56:49.064Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-09-30T02:40:38.446Z",
     "approved": true,
@@ -18355,7 +18405,8 @@
       "checkedAt": "2026-09-30T02:39:56.557Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-t-money-transit-card.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "rejectReason": "stale backlog: facebook/threads post rule requires a photo, but this item has zero media (2026-09-24 image pipeline bug)"
   },
   {
     "id": "3f5a8f64-a03c-4dff-b93c-f3bb3c015909",
