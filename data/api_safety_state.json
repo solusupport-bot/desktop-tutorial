@@ -3,31 +3,43 @@
   "platforms": {
     "facebook": {
       "attempts": [
-        "2026-09-28T06:24:22.308Z",
-        "2026-09-28T10:24:29.398Z",
-        "2026-09-29T05:40:02.883Z"
+        "2026-09-29T05:40:02.883Z",
+        "2026-09-29T16:24:25.155Z"
       ],
       "successes": [
-        "2026-09-28T06:24:22.308Z",
-        "2026-09-28T10:24:29.398Z",
-        "2026-09-29T05:40:02.883Z"
+        "2026-09-29T05:40:02.883Z",
+        "2026-09-29T16:24:25.155Z"
       ],
       "consecutiveFailures": 0,
       "blockedUntil": null,
-      "lastAttemptAt": "2026-09-29T05:40:02.883Z",
-      "lastSuccessAt": "2026-09-29T05:40:02.883Z"
+      "lastAttemptAt": "2026-09-29T16:24:25.155Z",
+      "lastSuccessAt": "2026-09-29T16:24:25.155Z"
     },
     "threads": {
       "attempts": [
-        "2026-09-28T15:25:25.909Z"
+        "2026-09-29T09:27:44.006Z",
+        "2026-09-30T02:28:17.996Z"
       ],
       "successes": [
-        "2026-09-28T15:25:25.909Z"
+        "2026-09-29T09:27:44.006Z",
+        "2026-09-30T02:28:17.996Z"
       ],
       "consecutiveFailures": 0,
       "blockedUntil": null,
-      "lastAttemptAt": "2026-09-28T15:25:25.909Z",
-      "lastSuccessAt": "2026-09-28T15:25:25.909Z"
+      "lastAttemptAt": "2026-09-30T02:28:17.996Z",
+      "lastSuccessAt": "2026-09-30T02:28:17.996Z"
+    },
+    "tumblr": {
+      "attempts": [
+        "2026-09-30T02:28:19.030Z"
+      ],
+      "successes": [
+        "2026-09-30T02:28:19.030Z"
+      ],
+      "consecutiveFailures": 0,
+      "blockedUntil": null,
+      "lastAttemptAt": "2026-09-30T02:28:19.030Z",
+      "lastSuccessAt": "2026-09-30T02:28:19.030Z"
     }
   }
 }

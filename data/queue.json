@@ -17842,5 +17842,623 @@
     },
     "blogUrl": "https://landinkorea.com/posts/korea-busan-haeundae-beach-gamcheon-culture-village.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
     "verifyStatus": "failed"
+  },
+  {
+    "id": "d3d1b096-729e-4419-ba59-1334036cef02",
+    "text": "The guidebooks skip this part entirely.\n\nMost first-timers assume Jeju connects by train like the rest of Korea — it doesn't, it's plane or ferry only. Hallasan, Korea's tallest peak, is climbable in a long day trip. A rental car matters more here than almost anywhere else in Korea. Did you know there was no train?\n\n📖 Open the Land in Korea link in our profile and search “Jeju Island”.",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-09-30T02:43:08.856Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-30T02:36:24.544Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/34350267/pexels-photo-34350267.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30966636/pexels-photo-30966636.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30966641/pexels-photo-30966641.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29134982/pexels-photo-29134982.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30966631/pexels-photo-30966631.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/10/22/136050-764371327_large.mp4",
+    "videoAttribution": null,
+    "topic": "Jeju Island",
+    "qualityGate": {
+      "pass": false,
+      "reason": "로컬 AI가 주제·문장·주장 품질 문제를 감지함",
+      "model": "ollaya/laya:multilingual",
+      "confidence": 0.7606,
+      "checkedAt": "2026-09-30T02:35:28.151Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-jeju-island.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "8cedd605-45ca-4458-a45a-f240884df1cf",
+    "text": "The guidebooks skip this part entirely. Jeju breaks the assumption most first-timers bring from mainland Korea. ⛰️\n\n1. It doesn't connect by train at all — only by plane or ferry from the mainland.\n2. Hallasan, South Korea's tallest peak, sits at the island's center and is climbable in a long day trip.\n3. A rental car matters more here than almost anywhere else in Korea — bus routes are sparser.\n4. Coastal weather shifts quickly, so pack rain gear even in summer.\n\nSave this before your Jeju trip.\nDid you know Jeju had no train connection?\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-jeju-island.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": null,
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-09-30T02:50:24.966Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-30T02:36:24.567Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/34350267/pexels-photo-34350267.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30966636/pexels-photo-30966636.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30966641/pexels-photo-30966641.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29134982/pexels-photo-29134982.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30966631/pexels-photo-30966631.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/10/22/136050-764371327_large.mp4",
+    "videoAttribution": null,
+    "topic": "Jeju Island",
+    "qualityGate": {
+      "pass": false,
+      "reason": "로컬 AI가 주제·문장·주장 품질 문제를 감지함",
+      "model": "ollaya/laya:multilingual",
+      "confidence": 0.7606,
+      "checkedAt": "2026-09-30T02:35:28.151Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-jeju-island.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "09735f71-f22e-4784-9a62-38dce6efdfb5",
+    "text": "The guidebooks skip this part entirely.\n\nMost first-timers assume Jeju connects by train like the rest of Korea — it doesn't.\n\nOnly plane or ferry gets you there, and a rental car is the practical move once you land.\n\nSave this before your Korea trip.\n\n📖 Open the Land in Korea link in our profile and search “Jeju Island”.\n\n🎬 Video source: Pixabay\n\n#KoreaTravel #JejuIsland #TravelKorea #VisitKorea #JejuTrip",
+    "imageUrl": null,
+    "videoUrl": "https://cdn.pixabay.com/video/2022/10/22/136050-764371327_large.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-09-30T02:54:50.806Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-30T02:36:24.588Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/34350267/pexels-photo-34350267.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30966636/pexels-photo-30966636.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30966641/pexels-photo-30966641.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29134982/pexels-photo-29134982.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30966631/pexels-photo-30966631.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/10/22/136050-764371327_large.mp4",
+    "videoAttribution": "Pixabay",
+    "topic": "Jeju Island",
+    "qualityGate": {
+      "pass": false,
+      "reason": "로컬 AI가 주제·문장·주장 품질 문제를 감지함",
+      "model": "ollaya/laya:multilingual",
+      "confidence": 0.7606,
+      "checkedAt": "2026-09-30T02:35:28.151Z"
+    },
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "e1fb82b4-c7e3-4cf9-bc1c-637580c6cd20",
+    "text": "The guidebooks skip this part entirely.\n\nMost first-timers assume Jeju connects by train like the rest of Korea — it doesn't, it's plane or ferry only. Hallasan, Korea's tallest peak, is climbable in a long day trip. A rental car matters more here than almost anywhere else in Korea. Did you know there was no train?",
+    "imageUrl": null,
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-09-30T03:13:19.282Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-30T02:36:24.622Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/34350267/pexels-photo-34350267.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30966636/pexels-photo-30966636.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30966641/pexels-photo-30966641.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29134982/pexels-photo-29134982.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30966631/pexels-photo-30966631.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/10/22/136050-764371327_large.mp4",
+    "videoAttribution": null,
+    "topic": "Jeju Island",
+    "qualityGate": {
+      "pass": false,
+      "reason": "로컬 AI가 주제·문장·주장 품질 문제를 감지함",
+      "model": "ollaya/laya:multilingual",
+      "confidence": 0.7606,
+      "checkedAt": "2026-09-30T02:35:28.151Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-jeju-island.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "4a3ee896-9344-4041-b705-57085d3269e8",
+    "text": "The guidebooks skip this part entirely.\n\nMost first-timers assume Jeju connects by train like the rest of Korea — it doesn't, it's plane or ferry only. Hallasan, Korea's tallest peak, is climbable in a long day trip. A rental car matters more here than almost anywhere else in Korea. Did you know there was no train?",
+    "imageUrl": null,
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-09-30T03:44:10.531Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-30T02:36:24.647Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/34350267/pexels-photo-34350267.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30966636/pexels-photo-30966636.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30966641/pexels-photo-30966641.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29134982/pexels-photo-29134982.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30966631/pexels-photo-30966631.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/10/22/136050-764371327_large.mp4",
+    "videoAttribution": null,
+    "topic": "Jeju Island",
+    "qualityGate": {
+      "pass": false,
+      "reason": "로컬 AI가 주제·문장·주장 품질 문제를 감지함",
+      "model": "ollaya/laya:multilingual",
+      "confidence": 0.7606,
+      "checkedAt": "2026-09-30T02:35:28.151Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-jeju-island.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "75bdeac5-c25a-4ce0-9fac-eb02d6d889d6",
+    "text": "Jeju breaks the assumption most first-timers bring from mainland Korea. ⛰️\n\n1. It doesn't connect by train at all — only by plane or ferry from the mainland.\n2. Hallasan, South Korea's tallest peak, sits at the island's center and is climbable in a long day trip.\n3. A rental car matters more here than almost anywhere else in Korea — bus routes are sparser.\n4. Coastal weather shifts quickly, so pack rain gear even in summer.\n\nSave this before your Jeju trip.\nDid you know Jeju had no train connection?",
+    "imageUrl": null,
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-09-30T05:46:57.565Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-30T02:36:24.683Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/34350267/pexels-photo-34350267.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30966636/pexels-photo-30966636.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30966641/pexels-photo-30966641.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29134982/pexels-photo-29134982.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30966631/pexels-photo-30966631.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/10/22/136050-764371327_large.mp4",
+    "videoAttribution": null,
+    "topic": "Jeju Island",
+    "qualityGate": {
+      "pass": false,
+      "reason": "로컬 AI가 주제·문장·주장 품질 문제를 감지함",
+      "model": "ollaya/laya:multilingual",
+      "confidence": 0.7606,
+      "checkedAt": "2026-09-30T02:35:28.151Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-jeju-island.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "de3dc20c-9bdd-4856-ae8a-71d1c723ca61",
+    "text": "You won't find this in the usual travel advice.\n\neSIM, physical SIM, or pocket Wi-Fi for Korea — pick on price alone and regret it by day 3. eSIM activates by QR code on landing, matches SKT/KT/LG U+ coverage. A secondary slot keeps your home number alive. Your go-to setup?\n\n📖 Open the Land in Korea link in our profile and search “eSIM & mobile data”.",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-09-30T16:45:24.343Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-30T02:39:04.914Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/ga3cabf917aba7924e339f1a7df437d00fc2f5f81295a0e917353473ed757c726c30ffd2beec8e714b214749940ad7fc9c0571138042de35e8b62687148b874eb_1280.jpg",
+      "https://images.pexels.com/photos/17318437/pexels-photo-17318437.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31307122/pexels-photo-31307122.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/26382372/pexels-photo-26382372.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://pixabay.com/get/g56e4e24e5012b0633c71189089beb40bc2385ab6e80d853ea10b9deda71afbdaed1338e07023d3b70d25597f11bafa9b1122083489330e7159e701312b319824_1280.jpg"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/10/29/137023-765458083_large.mp4",
+    "videoAttribution": null,
+    "topic": "eSIM & mobile data",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 맞고 문장이 자연스럽으며, 사실 주장도 크게 과장되지 않아 여행에 유용하다.",
+      "model": "groq",
+      "checkedAt": "2026-09-30T02:37:29.747Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-esim-mobile-data.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "failed"
+  },
+  {
+    "id": "bff09f23-9495-4c8a-ac17-11596937a28b",
+    "text": "You won't find this in the usual travel advice. The data plan decision most people regret by day 3 in Korea. 📶\n\n1. eSIM plans for tourists activate by QR code the moment you land — no physical SIM swap.\n2. Coverage matches the big three carriers: SKT, KT, LG U+.\n3. Typical tourist plans run 5-8 days with unlimited or high-cap data.\n4. A secondary eSIM slot keeps your home number active instead of replacing your primary SIM.\n\nSave this before you pick a data plan.\nWhat's your go-to setup — eSIM, physical SIM, or pocket Wi-Fi?\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-esim-mobile-data.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": null,
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-09-30T16:48:53.863Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-30T02:39:04.940Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/ga3cabf917aba7924e339f1a7df437d00fc2f5f81295a0e917353473ed757c726c30ffd2beec8e714b214749940ad7fc9c0571138042de35e8b62687148b874eb_1280.jpg",
+      "https://images.pexels.com/photos/17318437/pexels-photo-17318437.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31307122/pexels-photo-31307122.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/26382372/pexels-photo-26382372.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://pixabay.com/get/g56e4e24e5012b0633c71189089beb40bc2385ab6e80d853ea10b9deda71afbdaed1338e07023d3b70d25597f11bafa9b1122083489330e7159e701312b319824_1280.jpg"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/10/29/137023-765458083_large.mp4",
+    "videoAttribution": null,
+    "topic": "eSIM & mobile data",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 맞고 문장이 자연스럽으며, 사실 주장도 크게 과장되지 않아 여행에 유용하다.",
+      "model": "groq",
+      "checkedAt": "2026-09-30T02:37:29.747Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-esim-mobile-data.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "failed"
+  },
+  {
+    "id": "d8a2ab48-9f32-4b56-a4d4-ce5986293d0f",
+    "text": "You won't find this in the usual travel advice.\n\nMost people pick their Korea data plan on price alone — and regret it by day 3.\n\neSIM activates by QR code instantly, and a secondary slot keeps your home number alive.\n\nSave this before your Korea trip.\n\n📖 Open the Land in Korea link in our profile and search “eSIM & mobile data”.\n\n🎬 Video source: Pixabay\n\n#KoreaTravel #SeoulTrip #KoreaTips #TravelKorea #VisitSeoul",
+    "imageUrl": null,
+    "videoUrl": "https://cdn.pixabay.com/video/2022/10/29/137023-765458083_large.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-09-30T16:53:57.868Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-30T02:39:04.983Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/ga3cabf917aba7924e339f1a7df437d00fc2f5f81295a0e917353473ed757c726c30ffd2beec8e714b214749940ad7fc9c0571138042de35e8b62687148b874eb_1280.jpg",
+      "https://images.pexels.com/photos/17318437/pexels-photo-17318437.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31307122/pexels-photo-31307122.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/26382372/pexels-photo-26382372.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://pixabay.com/get/g56e4e24e5012b0633c71189089beb40bc2385ab6e80d853ea10b9deda71afbdaed1338e07023d3b70d25597f11bafa9b1122083489330e7159e701312b319824_1280.jpg"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/10/29/137023-765458083_large.mp4",
+    "videoAttribution": "Pixabay",
+    "topic": "eSIM & mobile data",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 맞고 문장이 자연스럽으며, 사실 주장도 크게 과장되지 않아 여행에 유용하다.",
+      "model": "groq",
+      "checkedAt": "2026-09-30T02:37:29.747Z"
+    },
+    "verifyStatus": "failed"
+  },
+  {
+    "id": "67e7f6a1-5274-4ab0-90b0-6b0e9585e4d5",
+    "text": "You won't find this in the usual travel advice.\n\neSIM, physical SIM, or pocket Wi-Fi for Korea — pick on price alone and regret it by day 3. eSIM activates by QR code on landing, matches SKT/KT/LG U+ coverage. A secondary slot keeps your home number alive. Your go-to setup?",
+    "imageUrl": null,
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-09-30T17:14:35.939Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-30T02:39:05.004Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/ga3cabf917aba7924e339f1a7df437d00fc2f5f81295a0e917353473ed757c726c30ffd2beec8e714b214749940ad7fc9c0571138042de35e8b62687148b874eb_1280.jpg",
+      "https://images.pexels.com/photos/17318437/pexels-photo-17318437.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31307122/pexels-photo-31307122.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/26382372/pexels-photo-26382372.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://pixabay.com/get/g56e4e24e5012b0633c71189089beb40bc2385ab6e80d853ea10b9deda71afbdaed1338e07023d3b70d25597f11bafa9b1122083489330e7159e701312b319824_1280.jpg"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/10/29/137023-765458083_large.mp4",
+    "videoAttribution": null,
+    "topic": "eSIM & mobile data",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 맞고 문장이 자연스럽으며, 사실 주장도 크게 과장되지 않아 여행에 유용하다.",
+      "model": "groq",
+      "checkedAt": "2026-09-30T02:37:29.747Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-esim-mobile-data.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "failed"
+  },
+  {
+    "id": "7188988b-558c-478d-9630-84025eec0c39",
+    "text": "You won't find this in the usual travel advice.\n\neSIM, physical SIM, or pocket Wi-Fi for Korea — pick on price alone and regret it by day 3. eSIM activates by QR code on landing, matches SKT/KT/LG U+ coverage. A secondary slot keeps your home number alive. Your go-to setup?",
+    "imageUrl": null,
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-09-30T17:44:43.897Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-30T02:39:05.028Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/ga3cabf917aba7924e339f1a7df437d00fc2f5f81295a0e917353473ed757c726c30ffd2beec8e714b214749940ad7fc9c0571138042de35e8b62687148b874eb_1280.jpg",
+      "https://images.pexels.com/photos/17318437/pexels-photo-17318437.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31307122/pexels-photo-31307122.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/26382372/pexels-photo-26382372.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://pixabay.com/get/g56e4e24e5012b0633c71189089beb40bc2385ab6e80d853ea10b9deda71afbdaed1338e07023d3b70d25597f11bafa9b1122083489330e7159e701312b319824_1280.jpg"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/10/29/137023-765458083_large.mp4",
+    "videoAttribution": null,
+    "topic": "eSIM & mobile data",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 맞고 문장이 자연스럽으며, 사실 주장도 크게 과장되지 않아 여행에 유용하다.",
+      "model": "groq",
+      "checkedAt": "2026-09-30T02:37:29.747Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-esim-mobile-data.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "failed"
+  },
+  {
+    "id": "890533d7-4bd0-4131-993c-0b7c9ecb13ee",
+    "text": "The data plan decision most people regret by day 3 in Korea. 📶\n\n1. eSIM plans for tourists activate by QR code the moment you land — no physical SIM swap.\n2. Coverage matches the big three carriers: SKT, KT, LG U+.\n3. Typical tourist plans run 5-8 days with unlimited or high-cap data.\n4. A secondary eSIM slot keeps your home number active instead of replacing your primary SIM.\n\nSave this before you pick a data plan.\nWhat's your go-to setup — eSIM, physical SIM, or pocket Wi-Fi?",
+    "imageUrl": null,
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-09-30T19:46:36.534Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-30T02:39:05.052Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/ga3cabf917aba7924e339f1a7df437d00fc2f5f81295a0e917353473ed757c726c30ffd2beec8e714b214749940ad7fc9c0571138042de35e8b62687148b874eb_1280.jpg",
+      "https://images.pexels.com/photos/17318437/pexels-photo-17318437.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31307122/pexels-photo-31307122.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/26382372/pexels-photo-26382372.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://pixabay.com/get/g56e4e24e5012b0633c71189089beb40bc2385ab6e80d853ea10b9deda71afbdaed1338e07023d3b70d25597f11bafa9b1122083489330e7159e701312b319824_1280.jpg"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/10/29/137023-765458083_large.mp4",
+    "videoAttribution": null,
+    "topic": "eSIM & mobile data",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 맞고 문장이 자연스럽으며, 사실 주장도 크게 과장되지 않아 여행에 유용하다.",
+      "model": "groq",
+      "checkedAt": "2026-09-30T02:37:29.747Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-esim-mobile-data.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "failed"
+  },
+  {
+    "id": "12154283-a621-4745-9eb1-4d05c6c760dc",
+    "text": "Locals do this differently than every blog post says.\n\nT-money does more than get you through the subway gate — most tourists use maybe a third of it. It pays at some stores, vending machines, and lockers too. Unused balance under a cap is refundable before you leave. Knew that?\n\n📖 Open the Land in Korea link in our profile and search “T-money transit card”.",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-10-01T01:49:09.181Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-30T02:40:38.415Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g9b51cb1e3e5e48b86b3fd132ac8d93d2c109a1173bd125eb4e61bc801109177089fc5b083d4f810777af3a87f9fd4f1b7b1efcb5b38f6c218790185c4c272f2b_1280.jpg",
+      "https://images.pexels.com/photos/31663807/pexels-photo-31663807.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4721691/pexels-photo-4721691.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32133702/pexels-photo-32133702.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://pixabay.com/get/g150a6576c09dbb6ecbe5b3691abbd23fc01555e3a382ea8e8997acddedeeea600c3f2a05b4214ff84f2299a2238c240a2ce7bea85503d1fde1faf78719402b14_1280.jpg"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2024/07/25/223076_large.mp4",
+    "videoAttribution": null,
+    "topic": "T-money transit card",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련되고 문장이 자연스러우며 사실도 크게 문제 없고 여행자에게 유용함",
+      "model": "groq",
+      "checkedAt": "2026-09-30T02:39:56.557Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-t-money-transit-card.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "1bb89cf1-1865-4188-b267-b7239ee407ac",
+    "text": "Locals do this differently than every blog post says. T-money quietly does more than most tourists realize. 🚇\n\n1. It works as a light payment card at some convenience stores, vending machines, and lockers — not just transit.\n2. Discounted transfers apply within a window, but only on the same card — don't share it between people.\n3. A refundable deposit-style card fee applies at purchase.\n4. Unused balance under a small cap can be refunded in cash before you fly home.\n\nSave this before your first T-money top-up.\nDid you know it worked as a payment card too?\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-t-money-transit-card.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": null,
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-10-01T01:56:49.064Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-30T02:40:38.446Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g9b51cb1e3e5e48b86b3fd132ac8d93d2c109a1173bd125eb4e61bc801109177089fc5b083d4f810777af3a87f9fd4f1b7b1efcb5b38f6c218790185c4c272f2b_1280.jpg",
+      "https://images.pexels.com/photos/31663807/pexels-photo-31663807.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4721691/pexels-photo-4721691.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32133702/pexels-photo-32133702.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://pixabay.com/get/g150a6576c09dbb6ecbe5b3691abbd23fc01555e3a382ea8e8997acddedeeea600c3f2a05b4214ff84f2299a2238c240a2ce7bea85503d1fde1faf78719402b14_1280.jpg"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2024/07/25/223076_large.mp4",
+    "videoAttribution": null,
+    "topic": "T-money transit card",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련되고 문장이 자연스러우며 사실도 크게 문제 없고 여행자에게 유용함",
+      "model": "groq",
+      "checkedAt": "2026-09-30T02:39:56.557Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-t-money-transit-card.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "3f5a8f64-a03c-4dff-b93c-f3bb3c015909",
+    "text": "Locals do this differently than every blog post says.\n\nT-money isn't just a subway card — most tourists use maybe a third of what it does.\n\nIt pays at vending machines and lockers too, and leftover balance is refundable before you leave.\n\nSave this before your Korea trip.\n\n📖 Open the Land in Korea link in our profile and search “T-money transit card”.\n\n🎬 Video source: Pixabay\n\n#KoreaTravel #SeoulTrip #KoreaTips #TravelKorea #VisitSeoul",
+    "imageUrl": null,
+    "videoUrl": "https://cdn.pixabay.com/video/2024/07/25/223076_large.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-01T02:02:36.989Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-30T02:40:38.479Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g9b51cb1e3e5e48b86b3fd132ac8d93d2c109a1173bd125eb4e61bc801109177089fc5b083d4f810777af3a87f9fd4f1b7b1efcb5b38f6c218790185c4c272f2b_1280.jpg",
+      "https://images.pexels.com/photos/31663807/pexels-photo-31663807.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4721691/pexels-photo-4721691.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32133702/pexels-photo-32133702.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://pixabay.com/get/g150a6576c09dbb6ecbe5b3691abbd23fc01555e3a382ea8e8997acddedeeea600c3f2a05b4214ff84f2299a2238c240a2ce7bea85503d1fde1faf78719402b14_1280.jpg"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2024/07/25/223076_large.mp4",
+    "videoAttribution": "Pixabay",
+    "topic": "T-money transit card",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련되고 문장이 자연스러우며 사실도 크게 문제 없고 여행자에게 유용함",
+      "model": "groq",
+      "checkedAt": "2026-09-30T02:39:56.557Z"
+    },
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "7b78ed44-2ca0-4059-821a-984d45707c48",
+    "text": "Locals do this differently than every blog post says.\n\nT-money does more than get you through the subway gate — most tourists use maybe a third of it. It pays at some stores, vending machines, and lockers too. Unused balance under a cap is refundable before you leave. Knew that?",
+    "imageUrl": null,
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-10-01T02:23:48.400Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-30T02:40:38.511Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g9b51cb1e3e5e48b86b3fd132ac8d93d2c109a1173bd125eb4e61bc801109177089fc5b083d4f810777af3a87f9fd4f1b7b1efcb5b38f6c218790185c4c272f2b_1280.jpg",
+      "https://images.pexels.com/photos/31663807/pexels-photo-31663807.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4721691/pexels-photo-4721691.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32133702/pexels-photo-32133702.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://pixabay.com/get/g150a6576c09dbb6ecbe5b3691abbd23fc01555e3a382ea8e8997acddedeeea600c3f2a05b4214ff84f2299a2238c240a2ce7bea85503d1fde1faf78719402b14_1280.jpg"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2024/07/25/223076_large.mp4",
+    "videoAttribution": null,
+    "topic": "T-money transit card",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련되고 문장이 자연스러우며 사실도 크게 문제 없고 여행자에게 유용함",
+      "model": "groq",
+      "checkedAt": "2026-09-30T02:39:56.557Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-t-money-transit-card.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "3b142ca4-f153-45d6-ae8b-d10091c1b68b",
+    "text": "Locals do this differently than every blog post says.\n\nT-money does more than get you through the subway gate — most tourists use maybe a third of it. It pays at some stores, vending machines, and lockers too. Unused balance under a cap is refundable before you leave. Knew that?",
+    "imageUrl": null,
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-10-01T02:52:59.491Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-30T02:40:38.541Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g9b51cb1e3e5e48b86b3fd132ac8d93d2c109a1173bd125eb4e61bc801109177089fc5b083d4f810777af3a87f9fd4f1b7b1efcb5b38f6c218790185c4c272f2b_1280.jpg",
+      "https://images.pexels.com/photos/31663807/pexels-photo-31663807.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4721691/pexels-photo-4721691.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32133702/pexels-photo-32133702.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://pixabay.com/get/g150a6576c09dbb6ecbe5b3691abbd23fc01555e3a382ea8e8997acddedeeea600c3f2a05b4214ff84f2299a2238c240a2ce7bea85503d1fde1faf78719402b14_1280.jpg"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2024/07/25/223076_large.mp4",
+    "videoAttribution": null,
+    "topic": "T-money transit card",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련되고 문장이 자연스러우며 사실도 크게 문제 없고 여행자에게 유용함",
+      "model": "groq",
+      "checkedAt": "2026-09-30T02:39:56.557Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-t-money-transit-card.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "72368645-abaf-4371-9879-805fad329821",
+    "text": "T-money quietly does more than most tourists realize. 🚇\n\n1. It works as a light payment card at some convenience stores, vending machines, and lockers — not just transit.\n2. Discounted transfers apply within a window, but only on the same card — don't share it between people.\n3. A refundable deposit-style card fee applies at purchase.\n4. Unused balance under a small cap can be refunded in cash before you fly home.\n\nSave this before your first T-money top-up.\nDid you know it worked as a payment card too?",
+    "imageUrl": null,
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-10-01T04:52:21.722Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-09-30T02:40:38.574Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g9b51cb1e3e5e48b86b3fd132ac8d93d2c109a1173bd125eb4e61bc801109177089fc5b083d4f810777af3a87f9fd4f1b7b1efcb5b38f6c218790185c4c272f2b_1280.jpg",
+      "https://images.pexels.com/photos/31663807/pexels-photo-31663807.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4721691/pexels-photo-4721691.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32133702/pexels-photo-32133702.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://pixabay.com/get/g150a6576c09dbb6ecbe5b3691abbd23fc01555e3a382ea8e8997acddedeeea600c3f2a05b4214ff84f2299a2238c240a2ce7bea85503d1fde1faf78719402b14_1280.jpg"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2024/07/25/223076_large.mp4",
+    "videoAttribution": null,
+    "topic": "T-money transit card",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련되고 문장이 자연스러우며 사실도 크게 문제 없고 여행자에게 유용함",
+      "model": "groq",
+      "checkedAt": "2026-09-30T02:39:56.557Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-t-money-transit-card.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
   }
 ]
