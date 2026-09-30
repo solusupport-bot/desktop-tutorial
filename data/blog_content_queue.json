@@ -54,7 +54,24 @@
         "answer": "No confrontation occurs. Soldiers stand watch but don't interact with tourists. They do sometimes watch tour groups (which is unsettling for some visitors). No photos of soldiers on their side are taken."
       }
     ],
-    "reviews": []
+    "reviews": [
+      {
+        "reviewer": "qwen/qwen3.8-27b",
+        "hash": "b5d4057345dfa52202acc635de65abf57771b119b8324ce8b146252fb396955e",
+        "pass": true,
+        "issues": [],
+        "at": "2026-09-30T11:44:43.206Z"
+      },
+      {
+        "reviewer": "openai/gpt-oss-120b",
+        "hash": "b5d4057345dfa52202acc635de65abf57771b119b8324ce8b146252fb396955e",
+        "pass": false,
+        "issues": [
+          "\"Due to dress code strictness, tours reject approximately 5-10% of people at the gate for inappropriate attire.\" – This specific rejection rate is not a verified fact and is likely inaccurate."
+        ],
+        "at": "2026-09-30T11:44:44.980Z"
+      }
+    ]
   },
   "Gyeongbokgung Palace": {
     "title": "Gyeongbokgung Palace: Seoul's Most Important Historical Site (2026 Guide)",
