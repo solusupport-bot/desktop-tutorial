@@ -14003,8 +14003,12 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-24T14:26:12.781Z",
-    "status": "claimed",
-    "results": {},
+    "status": "partial",
+    "results": {
+      "instagram": {
+        "error": "watermarked media unavailable"
+      }
+    },
     "createdAt": "2026-09-24T02:17:42.806Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -14026,7 +14030,8 @@
       "checkedAt": "2026-09-24T02:17:23.969Z"
     },
     "verifyStatus": "passed",
-    "videoAttribution": "Pixabay"
+    "videoAttribution": "Pixabay",
+    "processedAt": "2026-09-30T04:25:32.804Z"
   },
   {
     "id": "37b9f945-8ca3-43ea-b171-f2cc4106b79a",
