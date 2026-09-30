@@ -14912,8 +14912,12 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-24T12:57:20.174Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "1288453561012463_122119427535446391"
+      }
+    },
     "createdAt": "2026-09-24T07:35:01.306Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -14929,7 +14933,8 @@
     "sourceVideoUrl": null,
     "topic": "Hospital vs. clinic vs. pharmacy in Korea: where to actually go when you get sick",
     "backfill": "2026-09-24 image-zero bug",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-09-30T03:24:21.633Z"
   },
   {
     "id": "8f649749-ed8b-424b-870c-76b80a81c369",
