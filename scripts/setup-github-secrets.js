@@ -19,18 +19,24 @@ if (!GITHUB_TOKEN) {
   process.exit(1);
 }
 
-// Secrets to be set
-const SECRETS = {
-  BLUESKY_IDENTIFIER: 'landinkorea.bsky.social',
-  BLUESKY_APP_PASSWORD: 'ykya-di6r-qpsc-kx7r',
-  MASTODON_INSTANCE: 'https://mastodon.social',
-  MASTODON_ACCESS_TOKEN: 'e-FFGbcXUFHi9iAaSETsqHj5x4C3vVfkpyH6U8MS51A',
-  TUMBLR_CONSUMER_KEY: 'ZeFzPiAG30Z1qbseFTgyi3pJ0L16n932MsmtAMYsUoXRByo3TH',
-  TUMBLR_CONSUMER_SECRET: 'uTFRZCXfsrnn5Yxf2XfAcO1orweDOnF41m9CBOyWVn34ZlERFN',
-  TUMBLR_TOKEN: 'TERA3RkhGbJw41ZNEEiCfUGmhkBExJXL0MAb4ek7glzsrKEjlL',
-  TUMBLR_TOKEN_SECRET: 'mSXOqW2XvexXcQWkCzMJliq9MKrgw0M7ZP6hWiYtmn5Dx9p3F0',
-  TUMBLR_BLOG_IDENTIFIER: 'landinkorea'
-};
+// Secrets to be set — values come from the environment (never hardcode real
+// credentials here; this file is committed to a public repo). Run with the
+// values already exported, e.g. via `dotenvx run -- node scripts/setup-github-secrets.js`.
+const SECRET_NAMES = [
+  'BLUESKY_IDENTIFIER', 'BLUESKY_APP_PASSWORD',
+  'MASTODON_INSTANCE', 'MASTODON_ACCESS_TOKEN',
+  'TUMBLR_CONSUMER_KEY', 'TUMBLR_CONSUMER_SECRET',
+  'TUMBLR_TOKEN', 'TUMBLR_TOKEN_SECRET', 'TUMBLR_BLOG_IDENTIFIER',
+  'PINTEREST_ACCESS_TOKEN', 'PINTEREST_BOARD_ID'
+];
+const SECRETS = {};
+for (const name of SECRET_NAMES) {
+  if (process.env[name]) SECRETS[name] = process.env[name];
+}
+if (Object.keys(SECRETS).length === 0) {
+  console.error('❌ None of the expected env vars are set:', SECRET_NAMES.join(', '));
+  process.exit(1);
+}
 
 const api = axios.create({
   baseURL: GITHUB_API_URL,
