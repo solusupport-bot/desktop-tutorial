@@ -583,6 +583,25 @@
           "The post claims that \"Korea's four main Seoul palaces — Gyeongbokgung, Changdeokgung, Deoksugung, and Changgyeonggung — plus Jongmyo Shrine and the Joseon royal tombs open for free\" during Chuseok, which is not a verified or typical free‑entry policy for these sites."
         ],
         "at": "2026-09-30T11:41:05.837Z"
+      },
+      {
+        "reviewer": "qwen/qwen3.8-27b",
+        "hash": "fb709adfcdee125ff137242a270b781a83d0a840305fe9227605b90f74b371fe",
+        "pass": false,
+        "issues": [
+          "It states that during Chuseok Korea 'often opens its four main Seoul palaces... for free'. This is factually incorrect. Royal museums (palaces) and cultural heritage sites in Korea actually **close** on holidays (including Chuseok) or operate with **paid** tickets with reduced hours. They do not offer free admission during Chuseok. The 'free' admission policy is associated with specific days like Hangeul Day, Constitution Day, or Wednesdays during specific periods, not Chuseok. Furthermore, the existing post 'Seoul Palace Closing Days and the Monday Museum Trap' correctly identifies that holidays are often closure days, contradicting this claim."
+        ],
+        "at": "2026-09-30T11:43:15.164Z"
+      },
+      {
+        "reviewer": "openai/gpt-oss-120b",
+        "hash": "fb709adfcdee125ff137242a270b781a83d0a840305fe9227605b90f74b371fe",
+        "pass": false,
+        "issues": [
+          "During the Chuseok holiday period, Korea often opens its four main Seoul palaces — Gyeongbokgung, Changdeokgung, Deoksugung, and Changgyeonggung — plus Jongmyo Shrine and the Joseon royal tombs open for free.",
+          "Jongmyo, which normally requires joining a guided tour, can be walked freely during this window."
+        ],
+        "at": "2026-09-30T11:43:18.437Z"
       }
     ]
   },
@@ -614,6 +633,20 @@
           "The article states \"KTX trains run from Seoul Station to Jinju,\" but as of 2026 Jinju is not served by KTX high‑speed trains; travelers must use conventional Mugunghwa/ITX services or buses, making this fact likely incorrect."
         ],
         "at": "2026-09-30T11:41:07.563Z"
+      },
+      {
+        "reviewer": "qwen/qwen3.8-27b",
+        "hash": "446db7b36fcb9d4de2d6f698e6daa44c5b0079bdaf19a7bad3ced8f3eae386e8",
+        "pass": true,
+        "issues": [],
+        "at": "2026-09-30T11:43:18.875Z"
+      },
+      {
+        "reviewer": "openai/gpt-oss-120b",
+        "hash": "446db7b36fcb9d4de2d6f698e6daa44c5b0079bdaf19a7bad3ced8f3eae386e8",
+        "pass": true,
+        "issues": [],
+        "at": "2026-09-30T11:43:20.578Z"
       }
     ]
   }
