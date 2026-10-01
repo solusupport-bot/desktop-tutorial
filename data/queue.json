@@ -14059,7 +14059,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-24T17:19:54.688Z",
-    "status": "partial",
+    "status": "claimed",
     "results": {
       "pinterest": {
         "error": "publish failed"
@@ -14088,7 +14088,7 @@
     "blogUrl": "https://landinkorea.com/posts/korea-luggage-storage-forwarding-services.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
     "verifyStatus": "passed",
     "processedAt": "2026-10-01T09:38:49.976Z",
-    "retryCount": 1
+    "retryCount": 2
   },
   {
     "id": "6b9e7525-e0ac-402b-99f0-1e3efd14baf7",
@@ -14230,7 +14230,7 @@
       "threads"
     ],
     "scheduledAt": "2026-09-24T23:24:27.924Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-24T02:18:18.473Z",
     "approved": true,
@@ -14418,7 +14418,7 @@
       "mastodon"
     ],
     "scheduledAt": "2026-09-25T00:25:30.795Z",
-    "status": "partial",
+    "status": "claimed",
     "results": {
       "mastodon": {
         "error": "publish failed"
@@ -14446,7 +14446,8 @@
     },
     "blogUrl": "https://landinkorea.com/posts/korea-ktx-vs-srt-vs-intercity-bus-for-long-distance-travel.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
     "verifyStatus": "passed",
-    "processedAt": "2026-10-01T09:39:44.340Z"
+    "processedAt": "2026-10-01T09:39:44.340Z",
+    "retryCount": 1
   },
   {
     "id": "98331437-b738-4202-9917-44b023da64f9",
@@ -16015,7 +16016,7 @@
       "bluesky"
     ],
     "scheduledAt": "2026-09-25T13:56:09.121Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-25T05:41:28.735Z",
     "approved": true,
@@ -18576,7 +18577,7 @@
       "tumblr"
     ],
     "scheduledAt": "2026-10-01T04:52:21.722Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-30T02:40:38.574Z",
     "approved": true,
