@@ -13978,7 +13978,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-24T14:23:20.303Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-24T02:17:42.798Z",
     "approved": true,
@@ -14081,7 +14081,8 @@
     },
     "blogUrl": "https://landinkorea.com/posts/korea-luggage-storage-forwarding-services.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
     "verifyStatus": "passed",
-    "processedAt": "2026-09-30T13:20:19.867Z"
+    "processedAt": "2026-10-01T09:38:49.976Z",
+    "retryCount": 1
   },
   {
     "id": "6b9e7525-e0ac-402b-99f0-1e3efd14baf7",
@@ -14369,8 +14370,13 @@
       "bluesky"
     ],
     "scheduledAt": "2026-09-24T23:56:52.932Z",
-    "status": "pending",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mwskrlywyi23",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3mwskrlywyi23"
+      }
+    },
     "createdAt": "2026-09-24T02:18:18.511Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -14392,7 +14398,8 @@
       "checkedAt": "2026-09-24T02:18:03.641Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-ktx-vs-srt-vs-intercity-bus-for-long-distance-travel.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-10-01T09:38:56.416Z"
   },
   {
     "id": "461171f9-c119-4b0d-9c81-468b0f2843e4",
@@ -14405,8 +14412,12 @@
       "mastodon"
     ],
     "scheduledAt": "2026-09-25T00:25:30.795Z",
-    "status": "pending",
-    "results": {},
+    "status": "partial",
+    "results": {
+      "mastodon": {
+        "error": "publish failed"
+      }
+    },
     "createdAt": "2026-09-24T02:18:18.523Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -14428,7 +14439,8 @@
       "checkedAt": "2026-09-24T02:18:03.641Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-ktx-vs-srt-vs-intercity-bus-for-long-distance-travel.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-10-01T09:39:44.340Z"
   },
   {
     "id": "98331437-b738-4202-9917-44b023da64f9",
@@ -18346,8 +18358,13 @@
       "tumblr"
     ],
     "scheduledAt": "2026-09-30T19:46:36.534Z",
-    "status": "pending",
-    "results": {},
+    "status": "published",
+    "results": {
+      "tumblr": {
+        "id": "829263796923138048",
+        "url": "https://landinkorea.tumblr.com/post/829263796923138048"
+      }
+    },
     "createdAt": "2026-09-30T02:39:05.052Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -18370,7 +18387,8 @@
       "checkedAt": "2026-09-30T02:37:29.747Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-esim-mobile-data.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "failed"
+    "verifyStatus": "failed",
+    "processedAt": "2026-10-01T09:39:44.941Z"
   },
   {
     "id": "12154283-a621-4745-9eb1-4d05c6c760dc",
