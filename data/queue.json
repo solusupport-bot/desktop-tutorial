@@ -14059,7 +14059,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-24T17:19:54.688Z",
-    "status": "claimed",
+    "status": "partial",
     "results": {
       "pinterest": {
         "error": "publish failed"
@@ -14087,7 +14087,7 @@
     },
     "blogUrl": "https://landinkorea.com/posts/korea-luggage-storage-forwarding-services.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
     "verifyStatus": "passed",
-    "processedAt": "2026-10-01T09:38:49.976Z",
+    "processedAt": "2026-10-01T17:24:22.343Z",
     "retryCount": 2
   },
   {
@@ -14230,8 +14230,12 @@
       "threads"
     ],
     "scheduledAt": "2026-09-24T23:24:27.924Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18135837715630785"
+      }
+    },
     "createdAt": "2026-09-24T02:18:18.473Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -14253,7 +14257,8 @@
       "checkedAt": "2026-09-24T02:18:03.641Z"
     },
     "verifyStatus": "passed",
-    "blogUrl": "https://landinkorea.com/posts/korea-ktx-vs-srt-vs-intercity-bus-for-long-distance-travel.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-ktx-vs-srt-vs-intercity-bus-for-long-distance-travel.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-10-01T17:26:01.420Z"
   },
   {
     "id": "e295b762-bfb4-4e56-87d7-4b8e6066578e",
@@ -14418,10 +14423,11 @@
       "mastodon"
     ],
     "scheduledAt": "2026-09-25T00:25:30.795Z",
-    "status": "claimed",
+    "status": "published",
     "results": {
       "mastodon": {
-        "error": "publish failed"
+        "id": "117366821078265282",
+        "url": "https://mastodon.social/@landinkorea/117366821078265282"
       }
     },
     "createdAt": "2026-09-24T02:18:18.523Z",
@@ -14446,7 +14452,7 @@
     },
     "blogUrl": "https://landinkorea.com/posts/korea-ktx-vs-srt-vs-intercity-bus-for-long-distance-travel.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
     "verifyStatus": "passed",
-    "processedAt": "2026-10-01T09:39:44.340Z",
+    "processedAt": "2026-10-01T17:26:08.791Z",
     "retryCount": 1
   },
   {
@@ -16016,8 +16022,12 @@
       "bluesky"
     ],
     "scheduledAt": "2026-09-25T13:56:09.121Z",
-    "status": "claimed",
-    "results": {},
+    "status": "partial",
+    "results": {
+      "bluesky": {
+        "error": "watermarked media unavailable"
+      }
+    },
     "createdAt": "2026-09-25T05:41:28.735Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -16039,7 +16049,8 @@
       "checkedAt": "2026-09-25T05:39:43.545Z"
     },
     "blogUrl": "https://landinkorea.com/index.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-10-01T17:26:08.988Z"
   },
   {
     "id": "85283e1a-3b84-4163-aeb6-d134bfdf413c",
@@ -18577,8 +18588,13 @@
       "tumblr"
     ],
     "scheduledAt": "2026-10-01T04:52:21.722Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "tumblr": {
+        "id": "829293140520435712",
+        "url": "https://landinkorea.tumblr.com/post/829293140520435712"
+      }
+    },
     "createdAt": "2026-09-30T02:40:38.574Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -18601,7 +18617,8 @@
       "checkedAt": "2026-09-30T02:39:56.557Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-t-money-transit-card.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-10-01T17:26:09.583Z"
   },
   {
     "id": "532b55f8-24d6-4ad0-b057-1374840ede70",
