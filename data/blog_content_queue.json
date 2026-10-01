@@ -123,6 +123,13 @@
           "Inaccurate SRT description: The text describes SRT as 'semi-high-speed rail' and 'Slightly slower than KTX'. While dynamically true (SRT is older tech, 300km/h vs 350km/h), the description 'Seoul to Busan in 3 hours' is wrong. SRT and KTX travel times are nearly identical (approx 2h 20m - 2h 30m). SRT is not 30 minutes slower."
         ],
         "at": "2026-09-30T11:41:09.484Z"
+      },
+      {
+        "reviewer": "openai/gpt-oss-120b",
+        "hash": "5d32866bfc544833cfc551e3b6b223867482e20307ae0412c12ce4682400a4ca",
+        "pass": true,
+        "issues": [],
+        "at": "2026-10-01T18:11:00.500Z"
       }
     ]
   },
@@ -157,7 +164,24 @@
         "answer": "Talk to your hotel. They handle large item disposal. Don't try to throw it in building trash."
       }
     ],
-    "reviews": []
+    "reviews": [
+      {
+        "reviewer": "qwen/qwen3.8-27b",
+        "hash": "0708ace725d06621651b811fd84d90a601fd73c1589052f1e349fb580fdcb1b3",
+        "pass": true,
+        "issues": [],
+        "at": "2026-10-01T18:14:45.639Z"
+      },
+      {
+        "reviewer": "openai/gpt-oss-120b",
+        "hash": "0708ace725d06621651b811fd84d90a601fd73c1589052f1e349fb580fdcb1b3",
+        "pass": false,
+        "issues": [
+          "The post states \"Korea is small (100 million people in area smaller than Pennsylvania)\" – South Korea's population is about 51 million, not 100 million, making this fact incorrect."
+        ],
+        "at": "2026-10-01T18:14:46.703Z"
+      }
+    ]
   },
   "Travel advisories & safety notices": {
     "title": "Seoul Safety for First-Timers: How to Avoid Scams Targeting Tourists",
