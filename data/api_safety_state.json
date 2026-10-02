@@ -3,43 +3,97 @@
   "platforms": {
     "facebook": {
       "attempts": [
-        "2026-09-29T05:40:02.883Z",
-        "2026-09-29T16:24:25.155Z"
+        "2026-10-01T10:25:02.946Z",
+        "2026-10-02T01:24:28.553Z"
       ],
       "successes": [
-        "2026-09-29T05:40:02.883Z",
-        "2026-09-29T16:24:25.155Z"
+        "2026-10-01T10:25:02.946Z",
+        "2026-10-02T01:24:28.553Z"
       ],
       "consecutiveFailures": 0,
       "blockedUntil": null,
-      "lastAttemptAt": "2026-09-29T16:24:25.155Z",
-      "lastSuccessAt": "2026-09-29T16:24:25.155Z"
+      "lastAttemptAt": "2026-10-02T01:24:28.553Z",
+      "lastSuccessAt": "2026-10-02T01:24:28.553Z"
     },
     "threads": {
       "attempts": [
-        "2026-09-29T09:27:44.006Z",
-        "2026-09-30T02:28:17.996Z"
+        "2026-10-01T17:26:01.413Z"
       ],
       "successes": [
-        "2026-09-29T09:27:44.006Z",
-        "2026-09-30T02:28:17.996Z"
+        "2026-10-01T17:26:01.413Z"
       ],
       "consecutiveFailures": 0,
       "blockedUntil": null,
-      "lastAttemptAt": "2026-09-30T02:28:17.996Z",
-      "lastSuccessAt": "2026-09-30T02:28:17.996Z"
+      "lastAttemptAt": "2026-10-01T17:26:01.413Z",
+      "lastSuccessAt": "2026-10-01T17:26:01.413Z"
     },
     "tumblr": {
       "attempts": [
-        "2026-09-30T02:28:19.030Z"
+        "2026-10-01T09:39:44.936Z",
+        "2026-10-01T17:26:09.577Z"
       ],
       "successes": [
-        "2026-09-30T02:28:19.030Z"
+        "2026-10-01T09:39:44.936Z",
+        "2026-10-01T17:26:09.577Z"
       ],
       "consecutiveFailures": 0,
       "blockedUntil": null,
-      "lastAttemptAt": "2026-09-30T02:28:19.030Z",
-      "lastSuccessAt": "2026-09-30T02:28:19.030Z"
+      "lastAttemptAt": "2026-10-01T17:26:09.577Z",
+      "lastSuccessAt": "2026-10-01T17:26:09.577Z"
+    },
+    "pinterest": {
+      "attempts": [
+        "2026-10-01T09:38:49.971Z",
+        "2026-10-01T17:24:22.323Z",
+        "2026-10-02T01:24:22.502Z"
+      ],
+      "successes": [],
+      "consecutiveFailures": 4,
+      "blockedUntil": "2026-10-02T07:24:22.502Z",
+      "lastAttemptAt": "2026-10-02T01:24:22.502Z",
+      "lastFailureAt": "2026-10-02T01:24:22.502Z"
+    },
+    "bluesky": {
+      "attempts": [
+        "2026-09-30T13:20:24.926Z",
+        "2026-10-01T09:38:56.413Z"
+      ],
+      "successes": [
+        "2026-09-30T13:20:24.926Z",
+        "2026-10-01T09:38:56.413Z"
+      ],
+      "consecutiveFailures": 0,
+      "blockedUntil": null,
+      "lastAttemptAt": "2026-10-01T09:38:56.413Z",
+      "lastSuccessAt": "2026-10-01T09:38:56.413Z"
+    },
+    "mastodon": {
+      "attempts": [
+        "2026-10-01T09:39:44.332Z",
+        "2026-10-01T17:26:08.787Z"
+      ],
+      "successes": [
+        "2026-10-01T17:26:08.787Z"
+      ],
+      "consecutiveFailures": 0,
+      "blockedUntil": null,
+      "lastAttemptAt": "2026-10-01T17:26:08.787Z",
+      "lastSuccessAt": "2026-10-01T17:26:08.787Z",
+      "lastFailureAt": "2026-10-01T09:39:44.332Z"
+    },
+    "instagram": {
+      "attempts": [
+        "2026-09-30T13:21:06.617Z",
+        "2026-10-01T09:32:04.776Z"
+      ],
+      "successes": [
+        "2026-09-30T13:21:06.617Z",
+        "2026-10-01T09:32:04.776Z"
+      ],
+      "consecutiveFailures": 0,
+      "blockedUntil": null,
+      "lastAttemptAt": "2026-10-01T09:32:04.776Z",
+      "lastSuccessAt": "2026-10-01T09:32:04.776Z"
     }
   }
 }
