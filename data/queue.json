@@ -16034,7 +16034,7 @@
       "bluesky"
     ],
     "scheduledAt": "2026-09-25T13:56:09.121Z",
-    "status": "claimed",
+    "status": "partial",
     "results": {
       "bluesky": {
         "error": "watermarked media unavailable"
@@ -16062,7 +16062,7 @@
     },
     "blogUrl": "https://landinkorea.com/index.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
     "verifyStatus": "passed",
-    "processedAt": "2026-10-02T02:24:17.472Z",
+    "processedAt": "2026-10-02T03:24:16.101Z",
     "retryCount": 3
   },
   {
@@ -16076,7 +16076,7 @@
       "mastodon"
     ],
     "scheduledAt": "2026-09-25T14:20:49.936Z",
-    "status": "claimed",
+    "status": "partial",
     "results": {
       "mastodon": {
         "error": "watermarked media unavailable"
@@ -16104,7 +16104,7 @@
     },
     "blogUrl": "https://landinkorea.com/index.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
     "verifyStatus": "passed",
-    "processedAt": "2026-10-02T02:24:17.697Z",
+    "processedAt": "2026-10-02T03:24:16.371Z",
     "retryCount": 2
   },
   {
