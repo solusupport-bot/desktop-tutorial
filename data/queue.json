@@ -15925,8 +15925,12 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-25T13:30:36.278Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "1288453561012463_122120127111446391"
+      }
+    },
     "createdAt": "2026-09-25T05:41:28.667Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -15947,7 +15951,8 @@
       "model": "groq",
       "checkedAt": "2026-09-25T05:39:43.545Z"
     },
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-10-02T05:24:19.821Z"
   },
   {
     "id": "f3f39139-aa95-4cdd-a169-90efc2f2a486",
@@ -16731,8 +16736,13 @@
       "bluesky"
     ],
     "scheduledAt": "2026-09-26T16:18:58.786Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mwumzdqgjs2c",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3mwumzdqgjs2c"
+      }
+    },
     "createdAt": "2026-09-26T12:48:07.475Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -16754,7 +16764,8 @@
       "checkedAt": "2026-09-26T12:47:36.480Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-dmz-and-jsa-tours.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-10-02T05:24:22.479Z"
   },
   {
     "id": "50a91887-f469-495c-90be-c515153b8bc5",
@@ -16765,8 +16776,13 @@
       "mastodon"
     ],
     "scheduledAt": "2026-09-26T16:52:26.103Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "mastodon": {
+        "id": "117369645502806220",
+        "url": "https://mastodon.social/@landinkorea/117369645502806220"
+      }
+    },
     "createdAt": "2026-09-26T12:48:07.497Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -16788,7 +16804,8 @@
       "checkedAt": "2026-09-26T12:47:36.480Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-dmz-and-jsa-tours.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-10-02T05:24:25.689Z"
   },
   {
     "id": "6b6447b5-e809-4cef-9f91-7f6d847c8a5b",
