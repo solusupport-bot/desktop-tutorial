@@ -220,7 +220,25 @@
         "answer": "No. In fact, the judgment shifts the other direction. Foreigners who don't attempt any gesture of respect are noticed. Foreigners who try and do it awkwardly are viewed positively. You're trying, and that's what's appreciated."
       }
     ],
-    "reviews": []
+    "reviews": [
+      {
+        "reviewer": "qwen/qwen3.8-27b",
+        "hash": "d7891441b4a98e43f880f65d50f1c4844fe37c1b3b4cddb7c6f3429949e5bbd0",
+        "pass": true,
+        "issues": [],
+        "at": "2026-10-02T02:09:15.870Z"
+      },
+      {
+        "reviewer": "openai/gpt-oss-120b",
+        "hash": "d7891441b4a98e43f880f65d50f1c4844fe37c1b3b4cddb7c6f3429949e5bbd0",
+        "pass": false,
+        "issues": [
+          "Bathroom stalls without locks are normal – most public restrooms in Korea have functional locks; stating that lock‑less stalls are the norm is inaccurate.",
+          "A 10,000₩ or 20,000₩ thank‑you bonus for exceptional service at a high‑end restaurant is appreciated but not expected – tipping is virtually unheard of in Korea, and even at upscale venues cash tips are rarely given or expected."
+        ],
+        "at": "2026-10-02T02:09:17.853Z"
+      }
+    ]
   },
   "Emergency numbers & pharmacies": {
     "title": "Emergency Numbers and Pharmacies in Korea: What to Know",
