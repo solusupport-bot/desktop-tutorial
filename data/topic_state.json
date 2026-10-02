@@ -1106,7 +1106,12 @@
     "https://images.pexels.com/photos/10421633/pexels-photo-10421633.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://images.pexels.com/photos/14700025/pexels-photo-14700025.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://images.pexels.com/photos/14700024/pexels-photo-14700024.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://images.pexels.com/photos/38010006/pexels-photo-38010006.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "https://images.pexels.com/photos/38010006/pexels-photo-38010006.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/13306495/pexels-photo-13306495.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/38096943/pexels-photo-38096943.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/36261994/pexels-photo-36261994.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/5574873/pexels-photo-5574873.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/19271542/pexels-photo-19271542.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
   ],
   "recentVideoUrls": [
     "https://videos.pexels.com/video-files/19577787/19577787-uhd_2160_3840_30fps.mp4",
@@ -1207,7 +1212,8 @@
     "https://cdn.pixabay.com/video/2022/10/22/136050-764371327_large.mp4",
     "https://cdn.pixabay.com/video/2022/10/29/137023-765458083_large.mp4",
     "https://cdn.pixabay.com/video/2024/07/25/223076_large.mp4",
-    "https://cdn.pixabay.com/video/2022/12/13/142751-780943387_large.mp4"
+    "https://cdn.pixabay.com/video/2022/12/13/142751-780943387_large.mp4",
+    "https://videos.pexels.com/video-files/30600267/13102133_1080_1920_60fps.mp4"
   ],
   "recentMusicUrls": [
     "https://prod-1.storage.jamendo.com/?trackid=20237&format=mp32",
@@ -1243,6 +1249,17 @@
     "https://prod-1.storage.jamendo.com/?trackid=1105546&format=mp32",
     "https://prod-1.storage.jamendo.com/?trackid=1270845&format=mp32",
     "https://prod-1.storage.jamendo.com/?trackid=1322497&format=mp32",
-    "https://prod-1.storage.jamendo.com/?trackid=863139&format=mp32"
+    "https://prod-1.storage.jamendo.com/?trackid=863139&format=mp32",
+    "https://prod-1.storage.jamendo.com/download/track/1057482/mp32/",
+    "https://prod-1.storage.jamendo.com/download/track/1161940/mp32/",
+    "https://prod-1.storage.jamendo.com/download/track/1217479/mp32/",
+    "https://prod-1.storage.jamendo.com/download/track/1204669/mp32/",
+    "https://prod-1.storage.jamendo.com/download/track/1141572/mp32/",
+    "https://prod-1.storage.jamendo.com/download/track/1165005/mp32/",
+    "https://prod-1.storage.jamendo.com/download/track/1545627/mp32/",
+    "https://prod-1.storage.jamendo.com/download/track/354778/mp32/",
+    "https://prod-1.storage.jamendo.com/download/track/1187780/mp32/",
+    "https://prod-1.storage.jamendo.com/download/track/26738/mp32/",
+    "https://prod-1.storage.jamendo.com/download/track/1103000/mp32/"
   ]
 }

@@ -259,7 +259,31 @@
         "answer": "No. Walk in, describe symptom, get medication. No prescription required for most common medications. This is what makes Korean pharmacies so convenient."
       }
     ],
-    "reviews": []
+    "reviews": [
+      {
+        "reviewer": "qwen/qwen3.8-27b",
+        "hash": "1653e757880e743c32fb587218d1d630a78e0f5862bcf8d4b29b996cd9da787f",
+        "pass": false,
+        "issues": [
+          "False factual claim: The post states 'Many medications requiring prescriptions in the US are freely available' and 'No prescription required for most common medications' at Korean pharmacies. In Korea, antibiotics, steroids, stimulants, and many other common US OTC drugs (or equivalents) are strictly prescription-only. Pharmacists cannot diagnose or dispense prescription-strength medication without a doctor's prescription ticket. This is a dangerous and legally inaccurate statement for a medical guide.",
+          "Inaccurate service description: The post states for the Tourist Hotline (1330): 'They can refer you to appropriate hospital' and implies they dispatch or directly manage medical referrals similar to an emergency line. The 1330 hotline provides *information* (translations of menus, directions, general contacts). While they can provide contact info for foreigner-specific consultation centers or hospitals, they do not 'refer' you in a medical dispatch sense like 119 does. The phrasing suggests a level of medical triage capability that the hotline does not possess."
+        ],
+        "at": "2026-10-02T06:57:22.595Z"
+      },
+      {
+        "reviewer": "openai/gpt-oss-120b",
+        "hash": "1653e757880e743c32fb587218d1d630a78e0f5862bcf8d4b29b996cd9da787f",
+        "pass": false,
+        "issues": [
+          "\"All three numbers have English‑speaking operators.\" This claim is inaccurate; 112 and 119 do not guarantee English operators and the 1330 tourist line offers limited English support.",
+          "\"Pharmacists diagnose based on symptoms\" is misleading; Korean pharmacists can advise but are not authorized to diagnose medical conditions.",
+          "\"Many medications requiring prescriptions in the US are freely available\" is false – many drugs (e.g., antibiotics) still require a prescription in Korea.",
+          "\"You’ll find one within 500 meters of any location\" exaggerates pharmacy density and is not reliably true across all areas of Korea.",
+          "\"Do I need a prescription to get medication at pharmacy? No... No prescription required for most common medications\" overstates availability; several common medicines still require a prescription in Korea."
+        ],
+        "at": "2026-10-02T06:57:25.699Z"
+      }
+    ]
   },
   "Cafes as workspaces in Korea: unspoken rules of study cafes, franchise chains, and 'no-laptop' signs": {
     "title": "Working From Cafes in Korea and When a Study Cafe Wins",
@@ -617,7 +641,7 @@
     "title": "Chuseok in Korea: Free Palace Days and What to Know",
     "description": "Chuseok is Korea's autumn harvest holiday — here's what closes, which palaces go free, and how to wish someone a happy holiday.",
     "image_query": "Chuseok Korea harvest festival hanbok palace Seoul",
-    "body": "Chuseok is Korea's biggest family holiday, held on the 15th day of the 8th lunar month under the year's brightest full moon — in 2026 it falls in late September — check the exact dates each year, since Chuseok follows the lunar calendar and shifts annually. If you're traveling around this window, a few things about the city change for a few days.\n\n## What Chuseok Actually Is\n\nChuseok is Korea's autumn harvest holiday, roughly equivalent in scale to Thanksgiving. Families travel to hometowns, hold ancestral memorial rites called charye, visit family graves, and make songpyeon — half-moon rice cakes filled with sesame, sweetened beans, or chestnut. Expect heavy domestic travel in the days before and after the holiday, since a large share of the country is moving between cities at the same time.\n\n## Free Palace Days During Chuseok\n\nDuring the Chuseok holiday period, Korea often opens its four main Seoul palaces — Gyeongbokgung, Changdeokgung, Deoksugung, and Changgyeonggung — plus Jongmyo Shrine and the Joseon royal tombs open for free. Jongmyo, which normally requires joining a guided tour, can be walked freely during this window, though Changdeokgung's Secret Garden tour is not included in the free access. At Gyeongbokgung, the Royal Guard Changing Ceremony still runs on its usual schedule, and you'll see far more visitors than usual in rented hanbok, since wearing one gets you into most palaces free year-round anyway.\n\n## What Closes (and What Doesn't)\n\nMany small, family-run restaurants close for the holiday since staff travel to see their own families — this catches visitors off guard more than almost anything else about Chuseok. Large chains, department store food courts, and convenience stores stay open as usual, so you won't go hungry, but don't count on your favorite small local spot being open. Major attractions and palaces generally stay open (some with the free-entry bonus above), while smaller shops and markets thin out noticeably.\n\n## How to Wish Someone a Happy Chuseok\n\nThe easiest greeting to learn is \"Chuseok jal bonaeseyo\" (추석 잘 보내세요), meaning \"Have a good Chuseok.\" \"Happy Hangawi\" also works, since Hangawi is the older, more traditional name for the holiday and Koreans will understand either one immediately.\n\n## Traveling Around Chuseok\n\nIf your trip overlaps with the holiday, book long-distance trains and buses as early as possible. KTX and SRT tickets between Seoul and other major cities sell out days to weeks ahead of Chuseok, since a huge share of the country is traveling to hometowns on the same handful of days. Highways get similarly congested, so a normally 3-hour drive can stretch well past 6 if you're moving on the day before or the day of the holiday itself. If you don't need to travel that specific weekend, staying in Seoul is actually a good strategy — the city empties out noticeably, main attractions are less crowded than usual, and you still get the free palace entry.\n\n## Chuseok Food Worth Trying\n\nSongpyeon is the signature food of the holiday: small half-moon rice cakes, usually steamed over pine needles (which is where part of the aroma comes from), filled with sweetened sesame seeds, red beans, chestnut, or mung bean. Department store food halls and traditional markets like Gwangjang Market sell pre-made songpyeon boxes in the weeks around the holiday if you want to try some without being invited to a family gathering. Jeon (savory pancakes made from vegetables, meat, or fish) are another Chuseok staple, and many markets sell fresh, ready-to-eat versions during the holiday period specifically because they're time-consuming to make at home.\n\n## Banks, ATMs, and Hospitals During the Holiday\n\nBanks close for the full holiday period, so handle any in-person banking before it starts — ATMs keep working as normal, and card payments are unaffected everywhere that's open. If you need medical care, most neighborhood clinics close along with everything else family-run, but hospitals maintain emergency rooms throughout the holiday, and pharmacies inside larger hospitals or near subway stations are more likely to stay open than small standalone ones. It's worth noting which hospital or 24-hour pharmacy is nearest to where you're staying before the holiday starts, just in case, since finding one on the day itself is harder with fewer staff working and fewer people around on the street to ask for directions. Taxis run as normal throughout the holiday, so getting to a hospital isn't the issue — knowing which one is actually staffed is.",
+    "body": "Chuseok is Korea's biggest family holiday, held on the 15th day of the 8th lunar month under the year's brightest full moon. In 2026, Chuseok falls on Friday, September 25, with the official public holiday running September 24-26 — the exact dates shift every year since Chuseok follows the lunar calendar, so always check the current year's dates before booking travel.\n\n## What Chuseok Actually Is\n\nChuseok is Korea's autumn harvest holiday, roughly equivalent in scale to Thanksgiving. Families travel to hometowns, hold ancestral memorial rites called charye, visit family graves, and make songpyeon — half-moon rice cakes filled with sesame, sweetened beans, or chestnut. Expect heavy domestic travel in the days before and after the holiday, since a large share of the country is moving between cities at the same time.\n\n## Free Palace Days During Chuseok\n\nKorea's Cultural Heritage Administration opens the four main Seoul palaces — Gyeongbokgung, Changdeokgung, Deoksugung, and Changgyeonggung — plus Jongmyo Shrine and the Joseon royal tombs open for free from September 24 to 27. Jongmyo, which normally requires joining a guided tour, can be walked freely during this window, though Changdeokgung's Secret Garden tour is not included in the free access. At Gyeongbokgung, the Royal Guard Changing Ceremony still runs on its usual schedule, and you'll see far more visitors than usual in rented hanbok, since wearing one gets you into most palaces free year-round anyway.\n\n## What Closes (and What Doesn't)\n\nMany small, family-run restaurants close for the holiday since staff travel to see their own families — this catches visitors off guard more than almost anything else about Chuseok. Large chains, department store food courts, and convenience stores stay open as usual, so you won't go hungry, but don't count on your favorite small local spot being open. Major attractions and palaces generally stay open (some with the free-entry bonus above), while smaller shops and markets thin out noticeably.\n\n## How to Wish Someone a Happy Chuseok\n\nThe easiest greeting to learn is \"Chuseok jal bonaeseyo\" (추석 잘 보내세요), meaning \"Have a good Chuseok.\" \"Happy Hangawi\" also works, since Hangawi is the older, more traditional name for the holiday and Koreans will understand either one immediately.\n\n## Traveling Around Chuseok\n\nIf your trip overlaps with the holiday, book long-distance trains and buses as early as possible. KTX and SRT tickets between Seoul and other major cities sell out days to weeks ahead of Chuseok, since a huge share of the country is traveling to hometowns on the same handful of days. Highways get similarly congested, so a normally 3-hour drive can stretch well past 6 if you're moving on the day before or the day of the holiday itself. If you don't need to travel that specific weekend, staying in Seoul is actually a good strategy — the city empties out noticeably, main attractions are less crowded than usual, and you still get the free palace entry.\n\n## Chuseok Food Worth Trying\n\nSongpyeon is the signature food of the holiday: small half-moon rice cakes, usually steamed over pine needles (which is where part of the aroma comes from), filled with sweetened sesame seeds, red beans, chestnut, or mung bean. Department store food halls and traditional markets like Gwangjang Market sell pre-made songpyeon boxes in the weeks around the holiday if you want to try some without being invited to a family gathering. Jeon (savory pancakes made from vegetables, meat, or fish) are another Chuseok staple, and many markets sell fresh, ready-to-eat versions during the holiday period specifically because they're time-consuming to make at home.\n\n## Banks, ATMs, and Hospitals During the Holiday\n\nBanks close for the full holiday period, so handle any in-person banking before it starts — ATMs keep working as normal, and card payments are unaffected everywhere that's open. If you need medical care, most neighborhood clinics close along with everything else family-run, but hospitals maintain emergency rooms throughout the holiday, and pharmacies inside larger hospitals or near subway stations are more likely to stay open than small standalone ones. It's worth noting which hospital or 24-hour pharmacy is nearest to where you're staying before the holiday starts, just in case, since finding one on the day itself is harder with fewer staff working and fewer people around on the street to ask for directions. Taxis run as normal throughout the holiday, so getting to a hospital isn't the issue — knowing which one is actually staffed is.",
     "faq": [
       {
         "question": "When exactly is Chuseok in 2026?",
@@ -634,33 +658,18 @@
     ],
     "reviews": [
       {
-        "reviewer": "openai/gpt-oss-120b",
-        "hash": "ab77b8abe092ebb0ed2fc347b0a97462b9d3a5030dfbf2b3eafb691a790806f9",
-        "pass": false,
-        "issues": [
-          "The post states a specific fact that is likely incorrect: \"the official holiday runs September 24-26, 2026, with Chuseok itself falling on September 25.\" The 2026 Chuseok dates do not match this schedule.",
-          "The post claims that \"Korea's four main Seoul palaces — Gyeongbokgung, Changdeokgung, Deoksugung, and Changgyeonggung — plus Jongmyo Shrine and the Joseon royal tombs open for free\" during Chuseok, which is not a verified or typical free‑entry policy for these sites."
-        ],
-        "at": "2026-09-30T11:41:05.837Z"
-      },
-      {
         "reviewer": "qwen/qwen3.8-27b",
-        "hash": "fb709adfcdee125ff137242a270b781a83d0a840305fe9227605b90f74b371fe",
-        "pass": false,
-        "issues": [
-          "It states that during Chuseok Korea 'often opens its four main Seoul palaces... for free'. This is factually incorrect. Royal museums (palaces) and cultural heritage sites in Korea actually **close** on holidays (including Chuseok) or operate with **paid** tickets with reduced hours. They do not offer free admission during Chuseok. The 'free' admission policy is associated with specific days like Hangeul Day, Constitution Day, or Wednesdays during specific periods, not Chuseok. Furthermore, the existing post 'Seoul Palace Closing Days and the Monday Museum Trap' correctly identifies that holidays are often closure days, contradicting this claim."
-        ],
-        "at": "2026-09-30T11:43:15.164Z"
+        "hash": "53ccac6bd25ae6e302ebe2c35b292c19bd4fce2b0d6c896ba3aa06964bd9696a",
+        "pass": true,
+        "issues": [],
+        "at": "2026-10-02T07:06:45.035Z"
       },
       {
         "reviewer": "openai/gpt-oss-120b",
-        "hash": "fb709adfcdee125ff137242a270b781a83d0a840305fe9227605b90f74b371fe",
-        "pass": false,
-        "issues": [
-          "During the Chuseok holiday period, Korea often opens its four main Seoul palaces — Gyeongbokgung, Changdeokgung, Deoksugung, and Changgyeonggung — plus Jongmyo Shrine and the Joseon royal tombs open for free.",
-          "Jongmyo, which normally requires joining a guided tour, can be walked freely during this window."
-        ],
-        "at": "2026-09-30T11:43:18.437Z"
+        "hash": "53ccac6bd25ae6e302ebe2c35b292c19bd4fce2b0d6c896ba3aa06964bd9696a",
+        "pass": true,
+        "issues": [],
+        "at": "2026-10-02T07:06:46.532Z"
       }
     ]
   },

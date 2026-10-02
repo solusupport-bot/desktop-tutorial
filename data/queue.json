@@ -15963,8 +15963,12 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-25T13:34:42.055Z",
-    "status": "pending",
-    "results": {},
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "17878810575630618"
+      }
+    },
     "createdAt": "2026-09-25T05:41:28.686Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -15986,7 +15990,8 @@
       "checkedAt": "2026-09-25T05:39:43.545Z"
     },
     "verifyStatus": "passed",
-    "videoAttribution": "Pixabay"
+    "videoAttribution": "Pixabay",
+    "processedAt": "2026-10-02T06:56:08.404Z"
   },
   {
     "id": "ee315704-d213-468b-9bd5-7bec5f698328",
@@ -16232,8 +16237,8 @@
     },
     "blogUrl": "https://landinkorea.com/posts/korea-namdaemun-market.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
     "verifyStatus": "passed",
-    "processedAt": "2026-10-02T05:16:27.398Z",
-    "retryCount": 2
+    "processedAt": "2026-10-02T06:56:08.836Z",
+    "retryCount": 3
   },
   {
     "id": "ed50da5b-6300-4ac5-b3b6-1af485f70300",
@@ -16274,8 +16279,8 @@
     },
     "blogUrl": "https://landinkorea.com/posts/korea-namdaemun-market.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
     "verifyStatus": "passed",
-    "processedAt": "2026-10-02T05:16:27.752Z",
-    "retryCount": 1
+    "processedAt": "2026-10-02T06:56:09.218Z",
+    "retryCount": 2
   },
   {
     "id": "4a774ab1-94f4-43a4-bbf2-d1faaa3bb2a8",
@@ -19459,5 +19464,254 @@
     },
     "blogUrl": "https://landinkorea.com/posts/korea-trash-recycling-rules.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
     "verifyStatus": "failed"
+  },
+  {
+    "id": "520f7fb8-766f-42eb-bf38-658947abe962",
+    "text": "First‑time visitors think Chuseok is just another holiday – they miss the whole three‑day celebration.\n\nIn 2026 Chuseok runs Sep 24‑26, with the main day on Sep 25, and many palaces waive entry fees.\n\nTry saying \"Chuseok jal bonaeseyo\" to locals; it’s the simplest, most appreciated greeting.\n\nAvoid bringing meat dishes to traditional family rites – they’re reserved for specific ancestral foods.\n\nWhat’s the one Korean custom you wish you’d known before your first Chuseok? Open the Land in Korea link in our profile for more.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1790923595951-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1790923595951-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-10-02T06:55:10.370Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-02T06:50:04.920Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/13306495/pexels-photo-13306495.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38096943/pexels-photo-38096943.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36261994/pexels-photo-36261994.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5574873/pexels-photo-5574873.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19271542/pexels-photo-19271542.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/30600267/13102133_1080_1920_60fps.mp4",
+    "videoAttribution": null,
+    "topic": "Chuseok in Korea: free palace days, songpyeon, and how to wish someone a happy holiday",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련된 내용이며 문장이 자연스럽고 사실도 신뢰할 수 있어 여행 콘텐츠로 충분히 유용합니다.",
+      "model": "groq",
+      "checkedAt": "2026-10-02T06:49:26.945Z"
+    },
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "b83e0815-3c77-43db-9fb4-ab7196e40bcc",
+    "text": "Think Chuseok is just a day off? Actually Korea celebrates from Sep 24‑26, with the main moon day on Sep 25 🌕\n\n1️⃣ Families travel home, so expect crowded trains and free palace entry on those dates.\n2️⃣ The greeting \"Chuseok jal bonaeseyo\" is simple and always correct.\n3️⃣ Try songpyeon – half‑moon rice cakes filled with sesame, beans or chestnut.\n4️⃣ Ancestors are honored with charye rites and grave visits; dress modestly.\n5️⃣ \"Hangawi\" is the older name, you’ll hear both.\n\n✔️ Remember: say the greeting, try songpyeon, and expect busy transport.\n\nWhat’s your favorite Korean holiday tradition? Save this post for your next trip.\n\n📖 More on the blog: https://landinkorea.com/index.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1790923595951-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1790923595951-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-10-02T06:55:10.370Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-02T06:50:04.933Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/13306495/pexels-photo-13306495.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38096943/pexels-photo-38096943.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36261994/pexels-photo-36261994.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5574873/pexels-photo-5574873.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19271542/pexels-photo-19271542.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/30600267/13102133_1080_1920_60fps.mp4",
+    "videoAttribution": null,
+    "topic": "Chuseok in Korea: free palace days, songpyeon, and how to wish someone a happy holiday",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련된 내용이며 문장이 자연스럽고 사실도 신뢰할 수 있어 여행 콘텐츠로 충분히 유용합니다.",
+      "model": "groq",
+      "checkedAt": "2026-10-02T06:49:26.945Z"
+    },
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "31e36a16-597f-4085-9e18-ed2649963fc9",
+    "text": "Never know how to wish a Korean during Chuseok?\nThe holiday runs Sep 24‑26, 2026, with the main day on Sep 25, and saying \"Chuseok jal bonaeseyo\" works everywhere.\nSave this guide so you won’t miss free palace days and delicious songpyeon.\n\n📖 Open the Land in Korea link in our profile and search “Chuseok in Korea: free palace days, songpyeon, and how to wish someone a happy holiday”.\n\n🎬 Video source: Pexels\n\n#KoreaTravel #SeoulTrip #Chuseok #TravelTips #Foodie\n\n🎵 🎵 Track: Lollita - Lollita Don't Let Me Go feat. Youngbirdy\nMusic provided by Jamendo (CC BY-SA).",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1790923883531-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-02T06:55:10.370Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-02T06:50:04.949Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/13306495/pexels-photo-13306495.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38096943/pexels-photo-38096943.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36261994/pexels-photo-36261994.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5574873/pexels-photo-5574873.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19271542/pexels-photo-19271542.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/30600267/13102133_1080_1920_60fps.mp4",
+    "videoAttribution": "Pexels",
+    "topic": "Chuseok in Korea: free palace days, songpyeon, and how to wish someone a happy holiday",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련된 내용이며 문장이 자연스럽고 사실도 신뢰할 수 있어 여행 콘텐츠로 충분히 유용합니다.",
+      "model": "groq",
+      "checkedAt": "2026-10-02T06:49:26.945Z"
+    }
+  },
+  {
+    "id": "99f61745-a257-4647-8010-e7254a86c639",
+    "text": "Korea Chuseok travel guide: how to enjoy the holiday without hassle\n1. Dates to remember: Sep 24‑26, 2026 (main day Sep 25) – free entry to Gyeongbokgung and other palaces.\n2. Greeting tip: say \"Chuseok jal bonaeseyo\" or \"Happy Hangawi\" to show respect.\n3. Food focus: try songpyeon, the half‑moon rice cake filled with sesame, beans or chestnut.\nRead the full blog for deeper insights → https://landinkorea.com/blog/chuseok",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1790923595951-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1790923595951-0.jpg"
+    ],
+    "platforms": [
+      "pinterest"
+    ],
+    "scheduledAt": "2026-10-02T06:55:10.370Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-02T06:50:04.965Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/13306495/pexels-photo-13306495.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38096943/pexels-photo-38096943.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36261994/pexels-photo-36261994.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5574873/pexels-photo-5574873.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19271542/pexels-photo-19271542.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/30600267/13102133_1080_1920_60fps.mp4",
+    "videoAttribution": null,
+    "topic": "Chuseok in Korea: free palace days, songpyeon, and how to wish someone a happy holiday",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련된 내용이며 문장이 자연스럽고 사실도 신뢰할 수 있어 여행 콘텐츠로 충분히 유용합니다.",
+      "model": "groq",
+      "checkedAt": "2026-10-02T06:49:26.945Z"
+    },
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "c436eaea-00be-48d6-ad04-d6d03c87a1b6",
+    "text": "First‑time travelers think Chuseok is just a day off – they miss the three‑day holiday.\n\n2026 Chuseok runs Sep 24‑26, with Sep 25 as the main moon day; palaces like Gyeongbokgung waive fees then.\n\nSaying \"Chuseok jal bonaeseyo\" is the safest greeting; locals love the effort.\n\nDon’t bring meat to charye rites – ancestral ceremonies expect only specific foods.\n\nWhich Korean custom would you add to your first‑time checklist? #TravelBlog #KoreaTravel",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1790923595951-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1790923595951-0.jpg"
+    ],
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-10-02T06:55:10.370Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-02T06:50:04.980Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/13306495/pexels-photo-13306495.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38096943/pexels-photo-38096943.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36261994/pexels-photo-36261994.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5574873/pexels-photo-5574873.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19271542/pexels-photo-19271542.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/30600267/13102133_1080_1920_60fps.mp4",
+    "videoAttribution": null,
+    "topic": "Chuseok in Korea: free palace days, songpyeon, and how to wish someone a happy holiday",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련된 내용이며 문장이 자연스럽고 사실도 신뢰할 수 있어 여행 콘텐츠로 충분히 유용합니다.",
+      "model": "groq",
+      "checkedAt": "2026-10-02T06:49:26.945Z"
+    },
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "ccf0a855-ecb0-465d-b808-c328ed32c36f",
+    "text": "First‑time travelers think Chuseok is just a day off – they miss the three‑day holiday.\n\n2026 Chuseok runs Sep 24‑26, with Sep 25 as the main moon day; palaces like Gyeongbokgung waive fees then.\n\nSaying \"Chuseok jal bonaeseyo\" is the safest greeting; locals love the effort.\n\nDon’t bring meat to charye rites – ancestral ceremonies expect only specific foods.\n\nWhich Korean custom would you add to your first‑time checklist? #KoreaTravel #TravelTips #Seoul #FirstTimeInKorea",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1790923595951-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1790923595951-0.jpg"
+    ],
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-10-02T06:55:10.370Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-02T06:50:05.010Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/13306495/pexels-photo-13306495.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38096943/pexels-photo-38096943.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36261994/pexels-photo-36261994.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5574873/pexels-photo-5574873.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19271542/pexels-photo-19271542.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/30600267/13102133_1080_1920_60fps.mp4",
+    "videoAttribution": null,
+    "topic": "Chuseok in Korea: free palace days, songpyeon, and how to wish someone a happy holiday",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련된 내용이며 문장이 자연스럽고 사실도 신뢰할 수 있어 여행 콘텐츠로 충분히 유용합니다.",
+      "model": "groq",
+      "checkedAt": "2026-10-02T06:49:26.945Z"
+    },
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "b5790bee-885a-4e4d-8f73-68b7a9b04744",
+    "text": "If you’re visiting Korea for Chuseok, know it runs Sep 24‑26, 2026, with the main day on Sep 25, and free palace entry is common.\n\n1. Say \"Chuseok jal bonaeseyo\" (or \"Happy Hangawi\") to greet locals.\n2. Try songpyeon – half‑moon rice cakes filled with sesame, beans, or chestnut.\n3. Expect crowded trains as families travel home; plan extra travel time.\n\nEnjoy the holiday and share your favorite memory in the comments!",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1790923595951-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1790923595951-0.jpg"
+    ],
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-10-02T06:55:10.370Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-02T06:50:05.053Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/13306495/pexels-photo-13306495.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38096943/pexels-photo-38096943.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36261994/pexels-photo-36261994.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5574873/pexels-photo-5574873.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19271542/pexels-photo-19271542.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/30600267/13102133_1080_1920_60fps.mp4",
+    "videoAttribution": null,
+    "topic": "Chuseok in Korea: free palace days, songpyeon, and how to wish someone a happy holiday",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련된 내용이며 문장이 자연스럽고 사실도 신뢰할 수 있어 여행 콘텐츠로 충분히 유용합니다.",
+      "model": "groq",
+      "checkedAt": "2026-10-02T06:49:26.945Z"
+    },
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
   }
 ]
