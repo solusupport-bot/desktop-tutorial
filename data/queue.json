@@ -19526,7 +19526,8 @@
       "model": "groq",
       "checkedAt": "2026-10-02T06:49:26.945Z"
     },
-    "blogUrl": "https://landinkorea.com/index.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
   },
   {
     "id": "b83e0815-3c77-43db-9fb4-ab7196e40bcc",
@@ -19562,7 +19563,8 @@
       "model": "groq",
       "checkedAt": "2026-10-02T06:49:26.945Z"
     },
-    "blogUrl": "https://landinkorea.com/index.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
   },
   {
     "id": "31e36a16-597f-4085-9e18-ed2649963fc9",
@@ -19595,7 +19597,8 @@
       "reason": "주제와 관련된 내용이며 문장이 자연스럽고 사실도 신뢰할 수 있어 여행 콘텐츠로 충분히 유용합니다.",
       "model": "groq",
       "checkedAt": "2026-10-02T06:49:26.945Z"
-    }
+    },
+    "verifyStatus": "passed"
   },
   {
     "id": "99f61745-a257-4647-8010-e7254a86c639",
@@ -19631,7 +19634,8 @@
       "model": "groq",
       "checkedAt": "2026-10-02T06:49:26.945Z"
     },
-    "blogUrl": "https://landinkorea.com/index.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
   },
   {
     "id": "c436eaea-00be-48d6-ad04-d6d03c87a1b6",
@@ -19667,7 +19671,8 @@
       "model": "groq",
       "checkedAt": "2026-10-02T06:49:26.945Z"
     },
-    "blogUrl": "https://landinkorea.com/index.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
   },
   {
     "id": "ccf0a855-ecb0-465d-b808-c328ed32c36f",
@@ -19703,7 +19708,8 @@
       "model": "groq",
       "checkedAt": "2026-10-02T06:49:26.945Z"
     },
-    "blogUrl": "https://landinkorea.com/index.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
   },
   {
     "id": "b5790bee-885a-4e4d-8f73-68b7a9b04744",
