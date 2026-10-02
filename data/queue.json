@@ -15885,8 +15885,12 @@
       "threads"
     ],
     "scheduledAt": "2026-09-25T13:21:43.505Z",
-    "status": "pending",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "17904572667576385"
+      }
+    },
     "createdAt": "2026-09-25T05:41:28.647Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -15907,7 +15911,8 @@
       "model": "groq",
       "checkedAt": "2026-09-25T05:39:43.545Z"
     },
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-10-02T02:42:44.975Z"
   },
   {
     "id": "ea1b4485-e343-4ade-af0c-ca52d9c87bf7",
@@ -16029,7 +16034,7 @@
       "bluesky"
     ],
     "scheduledAt": "2026-09-25T13:56:09.121Z",
-    "status": "partial",
+    "status": "claimed",
     "results": {
       "bluesky": {
         "error": "watermarked media unavailable"
@@ -16058,7 +16063,7 @@
     "blogUrl": "https://landinkorea.com/index.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
     "verifyStatus": "passed",
     "processedAt": "2026-10-02T02:24:17.472Z",
-    "retryCount": 2
+    "retryCount": 3
   },
   {
     "id": "85283e1a-3b84-4163-aeb6-d134bfdf413c",
@@ -16071,7 +16076,7 @@
       "mastodon"
     ],
     "scheduledAt": "2026-09-25T14:20:49.936Z",
-    "status": "partial",
+    "status": "claimed",
     "results": {
       "mastodon": {
         "error": "watermarked media unavailable"
@@ -16100,7 +16105,7 @@
     "blogUrl": "https://landinkorea.com/index.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
     "verifyStatus": "passed",
     "processedAt": "2026-10-02T02:24:17.697Z",
-    "retryCount": 1
+    "retryCount": 2
   },
   {
     "id": "c125a1ea-7554-4acd-af93-f2d87d5ccc19",
@@ -16194,8 +16199,12 @@
       "bluesky"
     ],
     "scheduledAt": "2026-09-26T02:06:24.366Z",
-    "status": "pending",
-    "results": {},
+    "status": "partial",
+    "results": {
+      "bluesky": {
+        "error": "watermarked media unavailable"
+      }
+    },
     "createdAt": "2026-09-25T05:45:06.444Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -16217,7 +16226,8 @@
       "checkedAt": "2026-09-25T05:44:03.588Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-namdaemun-market.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-10-02T02:42:45.236Z"
   },
   {
     "id": "ed50da5b-6300-4ac5-b3b6-1af485f70300",
@@ -16230,8 +16240,12 @@
       "mastodon"
     ],
     "scheduledAt": "2026-09-26T02:31:39.471Z",
-    "status": "pending",
-    "results": {},
+    "status": "partial",
+    "results": {
+      "mastodon": {
+        "error": "watermarked media unavailable"
+      }
+    },
     "createdAt": "2026-09-25T05:45:06.462Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -16253,7 +16267,8 @@
       "checkedAt": "2026-09-25T05:44:03.588Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-namdaemun-market.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-10-02T02:42:45.543Z"
   },
   {
     "id": "4a774ab1-94f4-43a4-bbf2-d1faaa3bb2a8",
