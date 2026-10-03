@@ -18803,7 +18803,7 @@
       "threads"
     ],
     "scheduledAt": "2026-10-02T06:55:10.370Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-10-02T06:50:04.920Z",
     "approved": true,
