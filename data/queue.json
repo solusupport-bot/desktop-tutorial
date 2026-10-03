@@ -18809,7 +18809,7 @@
       "checkedAt": "2026-10-02T06:49:26.945Z"
     },
     "blogUrl": "https://landinkorea.com/index.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "failed"
   },
   {
     "id": "b83e0815-3c77-43db-9fb4-ab7196e40bcc",
@@ -18846,7 +18846,7 @@
       "checkedAt": "2026-10-02T06:49:26.945Z"
     },
     "blogUrl": "https://landinkorea.com/index.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "failed"
   },
   {
     "id": "31e36a16-597f-4085-9e18-ed2649963fc9",
@@ -18880,7 +18880,7 @@
       "model": "groq",
       "checkedAt": "2026-10-02T06:49:26.945Z"
     },
-    "verifyStatus": "passed"
+    "verifyStatus": "failed"
   },
   {
     "id": "99f61745-a257-4647-8010-e7254a86c639",
@@ -18917,7 +18917,7 @@
       "checkedAt": "2026-10-02T06:49:26.945Z"
     },
     "blogUrl": "https://landinkorea.com/index.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "failed"
   },
   {
     "id": "c436eaea-00be-48d6-ad04-d6d03c87a1b6",
@@ -18954,7 +18954,7 @@
       "checkedAt": "2026-10-02T06:49:26.945Z"
     },
     "blogUrl": "https://landinkorea.com/index.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "failed"
   },
   {
     "id": "ccf0a855-ecb0-465d-b808-c328ed32c36f",
@@ -18991,7 +18991,7 @@
       "checkedAt": "2026-10-02T06:49:26.945Z"
     },
     "blogUrl": "https://landinkorea.com/index.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "failed"
   },
   {
     "id": "b5790bee-885a-4e4d-8f73-68b7a9b04744",
@@ -19034,5 +19034,787 @@
     },
     "blogUrl": "https://landinkorea.com/index.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
     "processedAt": "2026-10-02T07:10:19.445Z"
+  },
+  {
+    "id": "b85ac354-ea83-4b1c-9fab-8a8f961a50e0",
+    "text": "Most first‑time visitors in Seoul break this silent rule on the subway.\n\nAt Myeongdong Station, talking loudly draws immediate side‑eye from commuters.\n\nKoreans usually keep phones on silent, text, or wear headphones.\n\nIf you must speak, step into the platform hallway or whisper briefly.\n\nEver been called out for a loud call? Tell us below and open the Land in Korea link in the profile.\n\n📖 Open the Land in Korea link in our profile and search “First-timer mistakes part 2”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791011709128-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791011709128-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-10-04T03:14:11.526Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-03T07:21:23.351Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/32133699/pexels-photo-32133699.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35177611/pexels-photo-35177611.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28916457/pexels-photo-28916457.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31858151/pexels-photo-31858151.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31925315/pexels-photo-31925315.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2024/06/24/218013_large.mp4",
+    "videoAttribution": null,
+    "topic": "First-timer mistakes part 2",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽으며 여행 팁으로 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-10-03T07:18:23.768Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-first-timer-mistakes-part-2.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "019c065d-e935-41d8-9798-52498cb5faef",
+    "text": "Think you can chat loudly on Seoul’s subway? At Myeongdong Station locals will give you side‑eye.\n1️⃣ Keep your phone on silent and type.\n2️⃣ Use headphones for music or calls.\n3️⃣ If you need to speak, step out of the train car.\n4️⃣ A slight nod works as a polite greeting.\n✅ Silent phone, nod, whisper outside.\nHave you ever surprised a Korean commuter?\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-first-timer-mistakes-part-2.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791011709128-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791011709128-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-10-04T03:23:53.843Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-03T07:21:23.378Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/32133699/pexels-photo-32133699.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35177611/pexels-photo-35177611.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28916457/pexels-photo-28916457.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31858151/pexels-photo-31858151.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31925315/pexels-photo-31925315.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2024/06/24/218013_large.mp4",
+    "videoAttribution": null,
+    "topic": "First-timer mistakes part 2",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽으며 여행 팁으로 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-10-03T07:18:23.768Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-first-timer-mistakes-part-2.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "a8cee735-0b6e-4a1a-b645-5b0cc7c07753",
+    "text": "Ever wondered why everyone’s whispering on the subway?\nTalking loudly at Myeongdong Station instantly draws side‑eye – Koreans keep it quiet.\nNext time, mute your phone, text, and nod politely.\n\n📖 Open the Land in Korea link in our profile and search “First-timer mistakes part 2”.\n\n🎬 Video source: Pixabay\n\n#KoreaTravel #SeoulTrip #SubwayEtiquette #TravelTips #FirstTimeInKorea\n\n🎵 🎵 Track: Pokki DJ - Energy\nMusic provided by Jamendo (CC BY).",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1791011975615-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-04T03:26:51.248Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-03T07:21:23.422Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/32133699/pexels-photo-32133699.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35177611/pexels-photo-35177611.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28916457/pexels-photo-28916457.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31858151/pexels-photo-31858151.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31925315/pexels-photo-31925315.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2024/06/24/218013_large.mp4",
+    "videoAttribution": "Pixabay",
+    "topic": "First-timer mistakes part 2",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽으며 여행 팁으로 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-10-03T07:18:23.768Z"
+    },
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "2fb4a7c8-c8f7-457b-b343-d670cbe131e9",
+    "text": "Korea subway etiquette: stay silent, nod, and avoid loud calls.\n1. At Myeongdong Station, loud calls get side‑eye instantly.\n2. Keep phone on silent, text or wear headphones.\n3. Use a brief nod instead of bowing when greeting.\nRead the full guide → https://landinkorea.com/subway-etiquette",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791011709128-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791011709128-0.jpg"
+    ],
+    "platforms": [
+      "pinterest"
+    ],
+    "scheduledAt": "2026-10-04T06:19:24.370Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-03T07:21:23.453Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/32133699/pexels-photo-32133699.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35177611/pexels-photo-35177611.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28916457/pexels-photo-28916457.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31858151/pexels-photo-31858151.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31925315/pexels-photo-31925315.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2024/06/24/218013_large.mp4",
+    "videoAttribution": null,
+    "topic": "First-timer mistakes part 2",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽으며 여행 팁으로 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-10-03T07:18:23.768Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-first-timer-mistakes-part-2.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "be9ba28b-4b0b-4fa1-a34a-ecfeb5959900",
+    "text": "First‑time in Seoul? You’ll notice an odd silence on the subway.\n\nAt Myeongdong Station, anyone who talks loudly gets immediate side‑eye from passengers.\n\nLocals usually keep phones on silent, text, or wear headphones while riding.\n\nIf you must speak, step out of the car or whisper in the hallway to avoid rudeness.\n\nWhat’s the strangest subway rule you’ve encountered? #TravelBlog #KoreaTravel",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791011709128-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791011709128-0.jpg"
+    ],
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-10-04T03:45:40.079Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-03T07:21:23.480Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/32133699/pexels-photo-32133699.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35177611/pexels-photo-35177611.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28916457/pexels-photo-28916457.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31858151/pexels-photo-31858151.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31925315/pexels-photo-31925315.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2024/06/24/218013_large.mp4",
+    "videoAttribution": null,
+    "topic": "First-timer mistakes part 2",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽으며 여행 팁으로 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-10-03T07:18:23.768Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-first-timer-mistakes-part-2.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "a417a212-7d9a-4245-a588-0b5a951eebd0",
+    "text": "Visiting Seoul for the first time? One silent rule on the subway trips many travelers up.\n\nAt Myeongdong Station, loud phone calls instantly attract side‑eye from commuters.\n\nKoreans keep phones on silent, preferring to text or listen with headphones while the train rolls.\n\nIf you need to talk, step into the platform hallway or whisper briefly – it’s considered polite.\n\nDo you have a subway etiquette story? #KoreaTravel #TravelTips #Seoul #FirstTimeInKorea",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791011709128-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791011709128-0.jpg"
+    ],
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-10-04T04:15:19.575Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-03T07:21:23.502Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/32133699/pexels-photo-32133699.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35177611/pexels-photo-35177611.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28916457/pexels-photo-28916457.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31858151/pexels-photo-31858151.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31925315/pexels-photo-31925315.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2024/06/24/218013_large.mp4",
+    "videoAttribution": null,
+    "topic": "First-timer mistakes part 2",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽으며 여행 팁으로 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-10-03T07:18:23.768Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-first-timer-mistakes-part-2.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "9ab9ec62-1a29-40a8-9fe0-376ddaed87a3",
+    "text": "Think you can chat loudly on Seoul’s subway? At Myeongdong Station locals will give you side‑eye.\n1. Keep your phone on silent and text instead of calling.\n2. Wear headphones if you need music or a call.\n3. If you must speak, step out of the car and whisper briefly.\n4. A slight nod works as a polite greeting, no bow needed.\nNext ride, remember the quiet rule and enjoy a smoother commute.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791011709128-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791011709128-0.jpg"
+    ],
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-10-04T06:16:07.512Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-03T07:21:23.527Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/32133699/pexels-photo-32133699.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35177611/pexels-photo-35177611.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28916457/pexels-photo-28916457.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31858151/pexels-photo-31858151.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31925315/pexels-photo-31925315.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2024/06/24/218013_large.mp4",
+    "videoAttribution": null,
+    "topic": "First-timer mistakes part 2",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽으며 여행 팁으로 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-10-03T07:18:23.768Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-first-timer-mistakes-part-2.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "5a98055a-6d58-4e27-8357-2cb2766b0a0e",
+    "text": "This looks simple until it actually happens to you.\n\nMost pharmacies close by 8-9 p.\n\nm.\n\nand are closed on Sundays in smaller neighborhoods, so check hours in advance if you need something late; convenience stores stock a small shelf of basic over-the-counter medicine for after-hours needs.\n\nWhat surprised you the most when you landed?\n\n📖 Open the Land in Korea link in our profile and search “Emergency numbers & pharmacies”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791012090832-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791012090832-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-10-03T14:56:00.420Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-03T07:26:08.017Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/38837845/pexels-photo-38837845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11743635/pexels-photo-11743635.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9154029/pexels-photo-9154029.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34577992/pexels-photo-34577992.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31768176/pexels-photo-31768176.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2019/02/01/21116-315137080_large.mp4",
+    "videoAttribution": null,
+    "topic": "Emergency numbers & pharmacies",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq 호출 실패: Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kzzdmjzveggs757apxyanzes` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Used 7312, Requested 3243. Please try again in 19.1625s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing",
+      "model": "ollaya/laya:multilingual+groq",
+      "checkedAt": "2026-10-03T07:25:31.726Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-03T07:26:07.978Z",
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "6d534481-5745-43bf-921d-8cbedf4502bf",
+    "text": "This looks simple until it actually happens to you. Most pharmacies close by 8-9 p.\n\n1. m.\n2. and are closed on Sundays in smaller neighborhoods, so check hours in advance if you need something late; convenience stores stock a small shelf of basic over-the-counter medicine for after-hours needs.\n3. For non-emergency medical questions, larger hospitals in Seoul have international clinics with English-speaking staff, which is often easier than a local walk-in clinic for a first-time visitor.\n\nWhich one surprised you the most? Drop a comment.\n\n📖 More on the blog: https://landinkorea.com/index.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791012090832-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791012090832-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-10-03T14:56:30.334Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-03T07:26:08.055Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/38837845/pexels-photo-38837845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11743635/pexels-photo-11743635.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9154029/pexels-photo-9154029.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34577992/pexels-photo-34577992.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31768176/pexels-photo-31768176.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2019/02/01/21116-315137080_large.mp4",
+    "videoAttribution": null,
+    "topic": "Emergency numbers & pharmacies",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq 호출 실패: Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kzzdmjzveggs757apxyanzes` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Used 7312, Requested 3243. Please try again in 19.1625s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing",
+      "model": "ollaya/laya:multilingual+groq",
+      "checkedAt": "2026-10-03T07:25:31.726Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-03T07:26:08.041Z",
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "116923fe-69b6-4617-82f4-cf44c3875e88",
+    "text": "This looks simple until it actually happens to you.\n\nm.\n\nWhich one did you NOT know? Drop a 🇰🇷\n\n📖 Open the Land in Korea link in our profile and search “Emergency numbers & pharmacies”.\n\n🎬 Video source: Pixabay\n\n#KoreaTravel #SeoulTrip #KoreaTips #TravelKorea #VisitSeoul\n\n🎵 🎵 Track: Train Room - Horizons\nMusic provided by Jamendo (CC BY).",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1791012348245-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-03T15:05:44.898Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-03T07:26:08.092Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/38837845/pexels-photo-38837845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11743635/pexels-photo-11743635.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9154029/pexels-photo-9154029.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34577992/pexels-photo-34577992.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31768176/pexels-photo-31768176.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2019/02/01/21116-315137080_large.mp4",
+    "videoAttribution": "Pixabay",
+    "topic": "Emergency numbers & pharmacies",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq 호출 실패: Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kzzdmjzveggs757apxyanzes` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Used 7312, Requested 3243. Please try again in 19.1625s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing",
+      "model": "ollaya/laya:multilingual+groq",
+      "checkedAt": "2026-10-03T07:25:31.726Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-03T07:26:08.077Z"
+  },
+  {
+    "id": "4a028a15-fe42-40e9-a242-60e9217bfd03",
+    "text": "Most pharmacies close by 8-9 p.\n\n1. m.\n2. and are closed on Sundays in smaller neighborhoods, so check hours in advance if you need something late; convenience stores stock a small shelf of basic over-the-counter medicine for after-hours needs.\n3. For non-emergency medical questions, larger hospitals in Seoul have international clinics with English-speaking staff, which is often easier than a local walk-in clinic for a first-time visitor.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791012090832-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791012090832-0.jpg"
+    ],
+    "platforms": [
+      "pinterest"
+    ],
+    "scheduledAt": "2026-10-03T17:56:36.850Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-03T07:26:08.117Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/38837845/pexels-photo-38837845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11743635/pexels-photo-11743635.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9154029/pexels-photo-9154029.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34577992/pexels-photo-34577992.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31768176/pexels-photo-31768176.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2019/02/01/21116-315137080_large.mp4",
+    "videoAttribution": null,
+    "topic": "Emergency numbers & pharmacies",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq 호출 실패: Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kzzdmjzveggs757apxyanzes` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Used 7312, Requested 3243. Please try again in 19.1625s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing",
+      "model": "ollaya/laya:multilingual+groq",
+      "checkedAt": "2026-10-03T07:25:31.726Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-03T07:26:08.107Z",
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "8e2d4f4c-fc60-4bea-b4e0-7a336b3c1c69",
+    "text": "This looks simple until it actually happens to you.\n\nMost pharmacies close by 8-9 p.\n\nm.\n\nand are closed on Sundays in smaller neighborhoods, so check hours in advance if you need something late; convenience stores stock a small shelf of basic over-the-counter medicine for after-hours needs.\n\nWhat surprised you the most when you landed?",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791012090832-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791012090832-0.jpg"
+    ],
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-10-03T15:25:16.569Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-03T07:26:08.139Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/38837845/pexels-photo-38837845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11743635/pexels-photo-11743635.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9154029/pexels-photo-9154029.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34577992/pexels-photo-34577992.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31768176/pexels-photo-31768176.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2019/02/01/21116-315137080_large.mp4",
+    "videoAttribution": null,
+    "topic": "Emergency numbers & pharmacies",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq 호출 실패: Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kzzdmjzveggs757apxyanzes` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Used 7312, Requested 3243. Please try again in 19.1625s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing",
+      "model": "ollaya/laya:multilingual+groq",
+      "checkedAt": "2026-10-03T07:25:31.726Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-03T07:26:08.128Z",
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "2c9aa43f-9302-482c-9578-10b83e14acb4",
+    "text": "This looks simple until it actually happens to you.\n\nMost pharmacies close by 8-9 p.\n\nm.\n\nand are closed on Sundays in smaller neighborhoods, so check hours in advance if you need something late; convenience stores stock a small shelf of basic over-the-counter medicine for after-hours needs.\n\nWhat surprised you the most when you landed?",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791012090832-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791012090832-0.jpg"
+    ],
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-10-03T15:56:39.136Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-03T07:26:08.159Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/38837845/pexels-photo-38837845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11743635/pexels-photo-11743635.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9154029/pexels-photo-9154029.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34577992/pexels-photo-34577992.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31768176/pexels-photo-31768176.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2019/02/01/21116-315137080_large.mp4",
+    "videoAttribution": null,
+    "topic": "Emergency numbers & pharmacies",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq 호출 실패: Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kzzdmjzveggs757apxyanzes` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Used 7312, Requested 3243. Please try again in 19.1625s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing",
+      "model": "ollaya/laya:multilingual+groq",
+      "checkedAt": "2026-10-03T07:25:31.726Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-03T07:26:08.150Z",
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "cfb6dfd2-6b17-4b5a-9e4f-64168edfdc32",
+    "text": "Most pharmacies close by 8-9 p.\n\n1. m.\n2. and are closed on Sundays in smaller neighborhoods, so check hours in advance if you need something late; convenience stores stock a small shelf of basic over-the-counter medicine for after-hours needs.\n3. For non-emergency medical questions, larger hospitals in Seoul have international clinics with English-speaking staff, which is often easier than a local walk-in clinic for a first-time visitor.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791012090832-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791012090832-0.jpg"
+    ],
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-10-03T17:52:57.882Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-03T07:26:08.191Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/38837845/pexels-photo-38837845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11743635/pexels-photo-11743635.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9154029/pexels-photo-9154029.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34577992/pexels-photo-34577992.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31768176/pexels-photo-31768176.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2019/02/01/21116-315137080_large.mp4",
+    "videoAttribution": null,
+    "topic": "Emergency numbers & pharmacies",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq 호출 실패: Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kzzdmjzveggs757apxyanzes` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Used 7312, Requested 3243. Please try again in 19.1625s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing",
+      "model": "ollaya/laya:multilingual+groq",
+      "checkedAt": "2026-10-03T07:25:31.726Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-03T07:26:08.172Z",
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "a18c2928-eef2-43d2-90b7-a7715a896145",
+    "text": "Ask five people and you'll get five different answers on this.\n\nMost tourists lose their Tax Free refund before they even reach the airport — not from missing paperwork, but from where they packed the item.\n\nTourists spending over the minimum threshold at Tax Free-affiliated stores can reclaim VAT paid on purchases.\n\nAsk for a Tax Free receipt/form at checkout, keep the item unused, and process the refund at airport kiosks (self-service or counter) before checking in your luggage if the item goes in checked baggage.\n\nAnyone else lose money on this mistake?\n\n📖 Open the Land in Korea link in our profile and search “Tax refund (Tax Free) shopping”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791012385169-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791012385169-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-10-04T02:45:57.004Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-03T07:30:11.579Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/6507285/pexels-photo-6507285.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39831800/pexels-photo-39831800.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31909238/pexels-photo-31909238.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31858149/pexels-photo-31858149.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://pixabay.com/get/g0dc827ee14d9c4edf6e38e2dda000594a10a09f9e3f344e629f85278bd3f91d82b33deeddc6600ead2c04928bcec3cf9b35c4f476cdd5a55bede038736e2b5d6_1280.jpg"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/09/24/132353-753435442_large.mp4",
+    "videoAttribution": null,
+    "topic": "Tax refund (Tax Free) shopping",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq 호출 실패: Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kzzdmjzveggs757apxyanzes` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Used 7737, Requested 751. Please try again in 3.66s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing",
+      "model": "ollaya/laya:multilingual+groq",
+      "checkedAt": "2026-10-03T07:28:01.586Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-03T07:30:11.526Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-tax-refund-tax-free-shopping.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "26abe531-5923-4451-85d9-aa7c22288cee",
+    "text": "Ask five people and you'll get five different answers on this. Most tourists lose their Tax Free refund before they even reach the airport — not from missing paperwork, but from where they packed the item.\n\n1. Tourists spending over the minimum threshold at Tax Free-affiliated stores can reclaim VAT paid on purchases.\n2. Ask for a Tax Free receipt/form at checkout, keep the item unused, and process the refund at airport kiosks (self-service or counter) before checking in your luggage if the item goes in checked baggage.\n3. Refund percentage varies by amount spent; check the current threshold and rate before your trip since these are adjusted periodically.\n\nWhich mistake have you made? Comment below.\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-tax-refund-tax-free-shopping.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791012385169-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791012385169-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-10-04T02:50:14.218Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-03T07:30:11.623Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/6507285/pexels-photo-6507285.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39831800/pexels-photo-39831800.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31909238/pexels-photo-31909238.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31858149/pexels-photo-31858149.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://pixabay.com/get/g0dc827ee14d9c4edf6e38e2dda000594a10a09f9e3f344e629f85278bd3f91d82b33deeddc6600ead2c04928bcec3cf9b35c4f476cdd5a55bede038736e2b5d6_1280.jpg"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/09/24/132353-753435442_large.mp4",
+    "videoAttribution": null,
+    "topic": "Tax refund (Tax Free) shopping",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq 호출 실패: Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kzzdmjzveggs757apxyanzes` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Used 7737, Requested 751. Please try again in 3.66s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing",
+      "model": "ollaya/laya:multilingual+groq",
+      "checkedAt": "2026-10-03T07:28:01.586Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-03T07:30:11.598Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-tax-refund-tax-free-shopping.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "d9b8a305-4848-47e7-90de-b115b2a90137",
+    "text": "Ask five people and you'll get five different answers on this.\n\nTourists spending over the minimum threshold at Tax Free-affiliated stores can reclaim VAT paid on purchases.\n\nSave this — you'll regret it if you don't.\n\n📖 Open the Land in Korea link in our profile and search “Tax refund (Tax Free) shopping”.\n\n🎬 Video source: Pixabay\n\n#KoreaTravel #SeoulTrip #KoreaTips #TravelKorea #VisitSeoul\n\n🎵 🎵 Track: Melanie Ungar - What Is Love\nMusic provided by Jamendo (CC BY).",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1791012513230-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-04T02:59:01.366Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-03T07:30:11.678Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/6507285/pexels-photo-6507285.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39831800/pexels-photo-39831800.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31909238/pexels-photo-31909238.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31858149/pexels-photo-31858149.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://pixabay.com/get/g0dc827ee14d9c4edf6e38e2dda000594a10a09f9e3f344e629f85278bd3f91d82b33deeddc6600ead2c04928bcec3cf9b35c4f476cdd5a55bede038736e2b5d6_1280.jpg"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/09/24/132353-753435442_large.mp4",
+    "videoAttribution": "Pixabay",
+    "topic": "Tax refund (Tax Free) shopping",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq 호출 실패: Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kzzdmjzveggs757apxyanzes` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Used 7737, Requested 751. Please try again in 3.66s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing",
+      "model": "ollaya/laya:multilingual+groq",
+      "checkedAt": "2026-10-03T07:28:01.586Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-03T07:30:11.650Z"
+  },
+  {
+    "id": "c322af6b-7163-45ea-af27-adee86aac437",
+    "text": "Most tourists lose their Tax Free refund before they even reach the airport — not from missing paperwork, but from where they packed the item.\n\n1. Tourists spending over the minimum threshold at Tax Free-affiliated stores can reclaim VAT paid on purchases.\n2. Ask for a Tax Free receipt/form at checkout, keep the item unused, and process the refund at airport kiosks (self-service or counter) before checking in your luggage if the item goes in checked baggage.\n3. Refund percentage varies by amount spent; check the current threshold and rate before your trip since these are adjusted periodically.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791012385169-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791012385169-0.jpg"
+    ],
+    "platforms": [
+      "pinterest"
+    ],
+    "scheduledAt": "2026-10-04T05:45:33.327Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-03T07:30:11.726Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/6507285/pexels-photo-6507285.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39831800/pexels-photo-39831800.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31909238/pexels-photo-31909238.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31858149/pexels-photo-31858149.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://pixabay.com/get/g0dc827ee14d9c4edf6e38e2dda000594a10a09f9e3f344e629f85278bd3f91d82b33deeddc6600ead2c04928bcec3cf9b35c4f476cdd5a55bede038736e2b5d6_1280.jpg"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/09/24/132353-753435442_large.mp4",
+    "videoAttribution": null,
+    "topic": "Tax refund (Tax Free) shopping",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq 호출 실패: Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kzzdmjzveggs757apxyanzes` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Used 7737, Requested 751. Please try again in 3.66s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing",
+      "model": "ollaya/laya:multilingual+groq",
+      "checkedAt": "2026-10-03T07:28:01.586Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-03T07:30:11.709Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-tax-refund-tax-free-shopping.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "72f05986-e56d-48ee-a84f-2d385665500c",
+    "text": "Ask five people and you'll get five different answers on this.\n\nMost tourists lose their Tax Free refund before they even reach the airport — not from missing paperwork, but from where they packed the item.\n\nTourists spending over the minimum threshold at Tax Free-affiliated stores can reclaim VAT paid on purchases.\n\nAsk for a Tax Free receipt/form at checkout, keep the item unused, and process the refund at airport kiosks (self-service or counter) before checking in your luggage if the item goes in checked baggage.\n\nAnyone else lose money on this mistake?",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791012385169-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791012385169-0.jpg"
+    ],
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-10-04T03:13:44.740Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-03T07:30:11.765Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/6507285/pexels-photo-6507285.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39831800/pexels-photo-39831800.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31909238/pexels-photo-31909238.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31858149/pexels-photo-31858149.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://pixabay.com/get/g0dc827ee14d9c4edf6e38e2dda000594a10a09f9e3f344e629f85278bd3f91d82b33deeddc6600ead2c04928bcec3cf9b35c4f476cdd5a55bede038736e2b5d6_1280.jpg"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/09/24/132353-753435442_large.mp4",
+    "videoAttribution": null,
+    "topic": "Tax refund (Tax Free) shopping",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq 호출 실패: Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kzzdmjzveggs757apxyanzes` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Used 7737, Requested 751. Please try again in 3.66s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing",
+      "model": "ollaya/laya:multilingual+groq",
+      "checkedAt": "2026-10-03T07:28:01.586Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-03T07:30:11.750Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-tax-refund-tax-free-shopping.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "32db67f3-5fed-45e0-8783-bfe2b9d5a72c",
+    "text": "Ask five people and you'll get five different answers on this.\n\nMost tourists lose their Tax Free refund before they even reach the airport — not from missing paperwork, but from where they packed the item.\n\nTourists spending over the minimum threshold at Tax Free-affiliated stores can reclaim VAT paid on purchases.\n\nAsk for a Tax Free receipt/form at checkout, keep the item unused, and process the refund at airport kiosks (self-service or counter) before checking in your luggage if the item goes in checked baggage.\n\nAnyone else lose money on this mistake?",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791012385169-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791012385169-0.jpg"
+    ],
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-10-04T03:45:51.230Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-03T07:30:11.790Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/6507285/pexels-photo-6507285.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39831800/pexels-photo-39831800.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31909238/pexels-photo-31909238.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31858149/pexels-photo-31858149.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://pixabay.com/get/g0dc827ee14d9c4edf6e38e2dda000594a10a09f9e3f344e629f85278bd3f91d82b33deeddc6600ead2c04928bcec3cf9b35c4f476cdd5a55bede038736e2b5d6_1280.jpg"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/09/24/132353-753435442_large.mp4",
+    "videoAttribution": null,
+    "topic": "Tax refund (Tax Free) shopping",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq 호출 실패: Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kzzdmjzveggs757apxyanzes` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Used 7737, Requested 751. Please try again in 3.66s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing",
+      "model": "ollaya/laya:multilingual+groq",
+      "checkedAt": "2026-10-03T07:28:01.586Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-03T07:30:11.780Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-tax-refund-tax-free-shopping.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "4dfabc52-0157-4369-8203-198aae531f28",
+    "text": "Most tourists lose their Tax Free refund before they even reach the airport — not from missing paperwork, but from where they packed the item.\n\n1. Tourists spending over the minimum threshold at Tax Free-affiliated stores can reclaim VAT paid on purchases.\n2. Ask for a Tax Free receipt/form at checkout, keep the item unused, and process the refund at airport kiosks (self-service or counter) before checking in your luggage if the item goes in checked baggage.\n3. Refund percentage varies by amount spent; check the current threshold and rate before your trip since these are adjusted periodically.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791012385169-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791012385169-0.jpg"
+    ],
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-10-04T05:44:47.618Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-03T07:30:11.822Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/6507285/pexels-photo-6507285.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39831800/pexels-photo-39831800.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31909238/pexels-photo-31909238.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31858149/pexels-photo-31858149.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://pixabay.com/get/g0dc827ee14d9c4edf6e38e2dda000594a10a09f9e3f344e629f85278bd3f91d82b33deeddc6600ead2c04928bcec3cf9b35c4f476cdd5a55bede038736e2b5d6_1280.jpg"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/09/24/132353-753435442_large.mp4",
+    "videoAttribution": null,
+    "topic": "Tax refund (Tax Free) shopping",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq 호출 실패: Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kzzdmjzveggs757apxyanzes` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Used 7737, Requested 751. Please try again in 3.66s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing",
+      "model": "ollaya/laya:multilingual+groq",
+      "checkedAt": "2026-10-03T07:28:01.586Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-03T07:30:11.806Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-tax-refund-tax-free-shopping.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
   }
 ]
