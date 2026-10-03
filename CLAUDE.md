@@ -4,6 +4,46 @@
 
 ---
 
+## 🖼️ 미디어 3대 원칙 (2026-10-02 사용자 반복 지시 — "제발 규칙으로 만들어서 실수하지 말자")
+
+**사용자가 같은 지적을 여러 번 반복한 뒤 명시적으로 규칙화를 요청함.** 이미지/영상을 다루는
+코드를 고칠 때마다 아래 3개를 깨지 않는지 먼저 확인할 것. 셋 다 "완화/예외"를 추가하는 방향의
+수정은 전부 금지 — 이 섹션을 고치는 대신 되돌릴 것.
+
+1. **중복 금지** — 같은 사진/영상을 다른 글에 재사용하지 않는다.
+   - SNS: `data/topic_state.json`의 `recentImageUrls`/`recentVideoUrls`는 영구 이력이다
+     (`lib/scheduler/topic_rotation.js`) — 캡을 씌워서 오래된 기록을 지우지 말 것.
+   - `lib/ingestion/topic_images.js`의 `TOPIC_IMAGES`는 **배열**이다(주제당 최후 폴백 후보
+     여러 장). `lib/scheduler/queue_topic.js`의 `resolveImages()`가 `recent`에 없는 후보부터
+     고른다 — 다시 문자열 1개로 되돌리면 Pexels/Pixabay 후보가 소진될 때마다 "매번 똑같은
+     폴백 사진"이 반복되는 버그(2026-10-02 실측: Gyeongbokgung Palace, T-money transit card)가
+     재발한다.
+   - 블로그(`land-in-korea-blog`): `automation/fetch_images.py`가 기존 포스트 front matter의
+     `image:` 값을 전부 모아 같은 URL을 다시 쓰지 않게 한다 — 이 중복 검사를 생략하지 말 것.
+2. **키워드(주제)와 반드시 일치** — "한국 사진이면 됨"이 아니라 "그 글 주제와 실제로 맞는
+   사진/영상"이어야 한다.
+   - 새 주제를 `data/topic_bank.json`에 추가하면 **반드시 동시에**
+     `lib/ingestion/pexels_image.js`의 `TOPIC_QUERIES`에 **철자까지 정확히 같은 키**로 전용
+     검색어를 추가할 것. 철자가 미묘하게 다르면(예: "DMZ/JSA tours" vs "DMZ and JSA tours")
+     매핑이 조용히 빠지고 허술한 폴백 검색어(`"${topic} korea"`)로 떨어진다(2026-10-02 실측 —
+     5개 주제가 이 사고로 몇 주간 주제와 안 맞는 사진으로 나갔음).
+   - 추가/수정 후 반드시 `node scripts/verify-topic-media-alignment.js` 실행 — 주제명 불일치와
+     콘텐츠 각도 수 vs 검색어 수 불일치를 자동으로 잡아준다. 이 스크립트를 느슨하게 고치거나
+     건너뛰지 말 것.
+   - "한국임을 확인"하는 `KOREA_SIGNAL` alt/태그 체크(`findKoreaPhoto`, `findKoreaVideo`,
+     블로그의 `find_korea_photo`)는 국적 오매칭을 막는 것이지 주제 매칭을 보장하지 않는다 —
+     둘은 별개의 검증이며 둘 다 필요하다.
+3. **저화질 금지** — 원본 해상도가 낮은 소스는 애초에 후보에서 제외한다(다운스케일해서
+   보정하지 않는다).
+   - 이미지: `MIN_ORIGINAL_WIDTH = 3000`px (`pexels_image.js`, `pixabay_image.js`,
+     블로그의 `fetch_images.py`) — 이 값을 낮추지 말 것.
+   - 영상: `MIN_VIDEO_WIDTH = 1280`px(720p) 미만은 후보에서 제외한다(`pexels_video.js`,
+     `pixabay_video.js`, 2026-10-02 추가 — 그전엔 영상에 최소 해상도 기준이 아예 없었다).
+   - 사람이 미리 검증해둔 `data/curated_videos.json`(`lib/ingestion/curated_video.js`)은
+     이미 품질 확인된 것으로 간주하고 이 최소 해상도 체크를 적용하지 않는다(의도적 예외).
+
+---
+
 ## 📰 블로그는 매일 1편씩, 중복 없이 자동 발행 (2026-09-11 사용자 명시 지시)
 
 **"매일 블로그 글이 중복없이 올라가도록 해줘"** — 이 지시는 영구 규칙입니다.

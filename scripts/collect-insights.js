@@ -44,8 +44,12 @@ const fetchThreadsInsight = async (mediaId) => {
 const fetchFacebookInsight = async (postId) => {
   const accessToken = process.env.FB_PAGE_ACCESS_TOKEN;
   if (!accessToken) return null;
+  // 2026-10-03 실측: post_impressions/post_engaged_users는 Meta가 폐기해 매번
+  // "#100 The value must be a valid insights metric"로 실패하고 있었다(한 번도
+  // 성공한 적 없음 — 그래서 FB 성과가 항상 깜깜이였다). 실제 API에 값을 직접
+  // 호출해 지금 살아있는 metric만 골랐다.
   const res = await axios.get(`https://graph.facebook.com/v21.0/${postId}/insights`, {
-    params: { metric: 'post_impressions,post_engaged_users', access_token: accessToken },
+    params: { metric: 'post_clicks,post_reactions_by_type_total,post_video_views', access_token: accessToken },
     timeout: 15000
   });
   const byName = {};

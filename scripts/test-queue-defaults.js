@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// 1회성 회귀 확인: addPost()가 검수/정보확인 기본값(approved/factCheckStatus/
+// 1회성 회귀 확인: addPost()가 자동 발행/정보확인 기본값(approved/factCheckStatus/
 // reviewedBy/reviewedAt)을 실제로 채우는지 assert한다. data/queue.json을 백업했다가
 // 테스트 항목을 넣고 검증 후 원본으로 복원한다 — 실제 큐를 절대 건드리지 않는다.
 //
@@ -18,7 +18,7 @@ const main = () => {
     });
 
     const checks = [
-      [item.approved === false, `approved 기본값은 false여야 함 (실제: ${item.approved})`],
+      [item.approved === true, `approved 기본값은 true여야 함 (실제: ${item.approved})`],
       [item.factCheckStatus === 'pending', `factCheckStatus 기본값은 'pending'이어야 함 (실제: ${item.factCheckStatus})`],
       [item.reviewedBy === null, `reviewedBy 기본값은 null이어야 함 (실제: ${item.reviewedBy})`],
       [item.reviewedAt === null, `reviewedAt 기본값은 null이어야 함 (실제: ${item.reviewedAt})`]

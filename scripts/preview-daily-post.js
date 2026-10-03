@@ -17,7 +17,7 @@ const resolveImages = async (topicName, seed) => {
   const recent = getRecentImageUrls();
   const live = await fetchTopicImages(topicName, recent, seed, IMAGE_CAROUSEL_TARGET);
   if (live.length > 0) return { urls: live, source: `Pexels 실시간 ${live.length}장 (고화질/중복 회피 적용)` };
-  if (TOPIC_IMAGES[topicName]) return { urls: [TOPIC_IMAGES[topicName]], source: '기존 대표 이미지 (최후 폴백, 1장)' };
+  if (TOPIC_IMAGES[topicName]) return { urls: [TOPIC_IMAGES[topicName][0]], source: '기존 대표 이미지 (최후 폴백, 1장)' };
   return { urls: [], source: '없음' };
 };
 

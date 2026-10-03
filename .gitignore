@@ -5,3 +5,6 @@ output/
 __pycache__/
 ops/local-cron/*.log
 dashboard_log.txt
+services/instagram-engagement-worker/wrangler.toml
+services/instagram-engagement-worker/.wrangler/
+.npm-cache/

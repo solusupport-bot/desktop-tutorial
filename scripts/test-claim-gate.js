@@ -7,6 +7,7 @@
 const fs = require('fs');
 const log = require('../lib/logger');
 const { saveQueue, loadQueue, QUEUE_PATH } = require('../lib/scheduler/queue');
+process.env.API_SAFETY_DISABLED = '1';
 const { claimDuePosts } = require('../lib/scheduler/run');
 
 for (const [k, v] of Object.entries({ THREADS_ACCESS_TOKEN: 't', THREADS_USER_ID: 't', FB_PAGE_ACCESS_TOKEN: 't', FB_PAGE_ID: 't', IG_ACCESS_TOKEN: 't', IG_USER_ID: 't' })) {
@@ -46,6 +47,13 @@ const main = () => {
     const failed = checks.filter(([pass]) => !pass);
     if (failed.length) {
       failed.forEach(([, msg]) => log.err(msg));
+      process.exitCode = 1;
+      return;
+    }
+    saveQueue([item('unlinked_topic', 'threads', t(10), { topic: '__missing_blog_article__' })]);
+    claimDuePosts();
+    if (loadQueue()[0].status !== 'pending') {
+      log.err('블로그 글이 없는 주제는 pending으로 남아야 함');
       process.exitCode = 1;
       return;
     }

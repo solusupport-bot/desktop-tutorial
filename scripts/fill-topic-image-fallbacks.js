@@ -26,11 +26,15 @@ const main = async () => {
   const missing = SOURCES.filter((s) => !TOPIC_IMAGES[s.topic]);
   log.section(`TOPIC_IMAGES 폴백 채우기 (${missing.length}개 주제)`);
 
+  // 2026-10-02: 값이 배열(주제당 폴백 후보 여러 장)로 바뀌었다 — 반복되는 주제가
+  // Pexels/Pixabay 영구 중복방지 이력을 빨리 소진해 매번 "같은 폴백 사진"을 쓰던
+  // 문제(사용자 지적: "중복되는 사진이 많아") 때문. 이 스크립트도 배열 기준으로
+  // 다루도록 맞춘다 — 기존 값을 그대로 둔 채 없는 주제만 1장짜리 배열로 채운다.
   const filled = { ...TOPIC_IMAGES };
   // 서로 다른 주제가 같은 폴백 사진을 받으면 안 되므로(2026-09-02 실행에서
   // 실제로 "Luggage storage"와 "KTX vs. SRT"가 똑같은 사진을 받는 사고가 남),
   // 이미 채워진 URL(기존 값 + 이번 실행에서 새로 채운 값)을 전부 제외 목록으로 넘긴다.
-  const usedUrls = Object.values(filled);
+  const usedUrls = Object.values(filled).flat();
   for (const source of missing) {
     const queries = TOPIC_QUERIES[source.topic];
     if (!queries || !queries.length) {
@@ -39,7 +43,7 @@ const main = async () => {
     }
     const url = await findKoreaPhoto(apiKey, queries[0], usedUrls);
     if (url) {
-      filled[source.topic] = url;
+      filled[source.topic] = [url];
       usedUrls.push(url);
       log.ok(`"${source.topic}" -> ${url}`);
     } else {
@@ -49,12 +53,13 @@ const main = async () => {
 
   // 이미 TOPIC_IMAGES에 있던 항목끼리도 우연히 같은 사진일 수 있으니(관련 검색어가
   // 겹치면 Pexels가 같은 최상위 결과를 주는 경우가 실제로 있었다) 전체를 한 번 더
-  // 훑어서 중복된 URL은 뒤에 나온 주제만 다시 검색해 교체한다.
+  // 훑어서 중복된 URL(배열의 첫 번째 후보 기준)은 뒤에 나온 주제만 다시 검색해 교체한다.
   const seenUrls = new Set();
   for (const source of SOURCES) {
     const topic = source.topic;
-    const url = filled[topic];
-    if (!url) continue;
+    const urls = filled[topic];
+    if (!urls || !urls.length) continue;
+    const url = urls[0];
     if (!seenUrls.has(url)) {
       seenUrls.add(url);
       continue;
@@ -67,7 +72,7 @@ const main = async () => {
     log.warn(`"${topic}": 다른 주제와 같은 폴백 사진(${url}) — 재검색합니다.`);
     const replacement = await findKoreaPhoto(apiKey, queries[0], [...seenUrls]);
     if (replacement) {
-      filled[topic] = replacement;
+      filled[topic] = [replacement, ...urls.slice(1)];
       seenUrls.add(replacement);
       log.ok(`"${topic}" -> ${replacement} (중복 해소)`);
     } else {

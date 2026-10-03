@@ -33,7 +33,7 @@ const main = async () => {
   }, platforms);
 
   // --image가 없으면 주제(source)에 맞는 대표 이미지를 자동으로 붙입니다.
-  const imageUrl = opts.image || TOPIC_IMAGES[source];
+  const imageUrl = opts.image || TOPIC_IMAGES[source]?.[0];
 
   for (const platform of platforms) {
     const item = addPost({
