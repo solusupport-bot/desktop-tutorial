@@ -14352,7 +14352,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-25T02:27:24.267Z",
-    "status": "partial",
+    "status": "claimed",
     "results": {
       "pinterest": {
         "error": "publish failed"
@@ -14381,7 +14381,7 @@
     "blogUrl": "https://landinkorea.com/posts/korea-ktx-vs-srt-vs-intercity-bus-for-long-distance-travel.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
     "verifyStatus": "passed",
     "processedAt": "2026-10-03T07:31:07.587Z",
-    "retryCount": 1
+    "retryCount": 2
   },
   {
     "id": "f31d85fd-5298-4c16-83c9-ec4706b13122",
@@ -17399,7 +17399,7 @@
       "mastodon"
     ],
     "scheduledAt": "2026-09-28T03:28:42.824Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-27T07:10:09.841Z",
     "approved": true,
@@ -17759,7 +17759,7 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-29T15:07:48.786Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-29T05:54:57.312Z",
     "approved": true,
@@ -17792,7 +17792,7 @@
       "bluesky"
     ],
     "scheduledAt": "2026-09-29T15:31:24.464Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-09-29T05:54:57.333Z",
     "approved": true,
