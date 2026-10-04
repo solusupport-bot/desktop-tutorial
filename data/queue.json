@@ -17586,8 +17586,13 @@
       "bluesky"
     ],
     "scheduledAt": "2026-09-30T03:01:22.019Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mwzklwb7a62l",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3mwzklwb7a62l"
+      }
+    },
     "createdAt": "2026-09-29T05:52:20.685Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -17610,7 +17615,8 @@
       "checkedAt": "2026-09-29T05:51:35.038Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-10-04T04:24:23.065Z"
   },
   {
     "id": "b34611eb-8b09-45e7-9297-c346c7f75d89",
@@ -17994,8 +18000,12 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-30T00:59:04.549Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "18030126629886998"
+      }
+    },
     "createdAt": "2026-09-29T05:57:03.068Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -18017,7 +18027,8 @@
       "model": "groq",
       "checkedAt": "2026-09-29T05:55:39.865Z"
     },
-    "verifyStatus": "failed"
+    "verifyStatus": "failed",
+    "processedAt": "2026-10-04T04:25:00.888Z"
   },
   {
     "id": "770c27b8-1b1f-4e77-93ef-520f21fd3303",
@@ -18067,8 +18078,13 @@
       "mastodon"
     ],
     "scheduledAt": "2026-09-30T01:48:32.029Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "mastodon": {
+        "id": "117380736658478999",
+        "url": "https://mastodon.social/@landinkorea/117380736658478999"
+      }
+    },
     "createdAt": "2026-09-29T05:57:03.133Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -18091,7 +18107,8 @@
       "checkedAt": "2026-09-29T05:55:39.865Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-busan-haeundae-beach-gamcheon-culture-village.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "failed"
+    "verifyStatus": "failed",
+    "processedAt": "2026-10-04T04:25:02.061Z"
   },
   {
     "id": "f892cc19-a668-410b-a697-58bdc1ca7eb6",
