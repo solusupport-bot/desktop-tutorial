@@ -17843,8 +17843,13 @@
       "mastodon"
     ],
     "scheduledAt": "2026-09-29T15:58:32.475Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "mastodon": {
+        "id": "117380327111361511",
+        "url": "https://mastodon.social/@landinkorea/117380327111361511"
+      }
+    },
     "createdAt": "2026-09-29T05:54:57.353Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -17867,7 +17872,8 @@
       "checkedAt": "2026-09-29T05:53:37.815Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-myeongdong-shopping-district.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-10-04T02:40:53.103Z"
   },
   {
     "id": "75a4bb35-8673-4e17-a3f8-28b3b6f57aee",
@@ -18021,8 +18027,13 @@
       "bluesky"
     ],
     "scheduledAt": "2026-09-30T01:21:52.430Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mwzesvah5s2o",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3mwzesvah5s2o"
+      }
+    },
     "createdAt": "2026-09-29T05:57:03.103Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -18045,7 +18056,8 @@
       "checkedAt": "2026-09-29T05:55:39.865Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-busan-haeundae-beach-gamcheon-culture-village.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "failed"
+    "verifyStatus": "failed",
+    "processedAt": "2026-10-04T02:40:54.446Z"
   },
   {
     "id": "04172bf4-dc6e-4f34-bea8-c5caa2fbccc7",
@@ -18879,8 +18891,13 @@
       "facebook"
     ],
     "scheduledAt": "2026-10-02T06:55:10.370Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "122120781015446391",
+        "post_id": "1288453561012463_122120781057446391"
+      }
+    },
     "createdAt": "2026-10-02T06:50:04.933Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -18903,7 +18920,8 @@
       "checkedAt": "2026-10-02T06:49:26.945Z"
     },
     "blogUrl": "https://landinkorea.com/index.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "failed"
+    "verifyStatus": "failed",
+    "processedAt": "2026-10-04T02:40:57.987Z"
   },
   {
     "id": "31e36a16-597f-4085-9e18-ed2649963fc9",
