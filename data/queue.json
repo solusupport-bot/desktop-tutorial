@@ -19873,5 +19873,801 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-10-03T07:30:11.806Z",
     "blogUrl": "https://landinkorea.com/posts/korea-tax-refund-tax-free-shopping.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "5147a78f-118f-4b9a-9fbe-8f6336bc06d1",
+    "text": "First‑time visitors think Korea’s schedule runs like clockwork.\n\nAdd at least one buffer day to your itinerary during summer typhoon season or winter snow.\n\nTyphoons can cancel KTX trains without warning, so keep your accommodation flexible.\n\nNever rely on your phone alone for emergencies; save 112 for police and 119 for fire/medical.\n\nWhat’s the longest weather delay you’ve faced in Korea? Open the Land in Korea link in the profile.\n\n📖 Open the Land in Korea link in our profile and search “Travel advisories & safety notices”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791074777917-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791074777917-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-10-04T02:35:56.924Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-04T00:50:18.074Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31925332/pexels-photo-31925332.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37538114/pexels-photo-37538114.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31858130/pexels-photo-31858130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31858129/pexels-photo-31858129.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31858122/pexels-photo-31858122.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2019/05/22/23863-337770340_large.mp4",
+    "videoAttribution": null,
+    "topic": "Travel advisories & safety notices",
+    "qualityGate": {
+      "pass": true,
+      "reason": "로컬 AI 품질 검사 통과",
+      "model": "ollaya/laya:multilingual",
+      "confidence": 0.855,
+      "checkedAt": "2026-10-04T00:49:22.059Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-travel-advisories-safety-notices.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "b0d8ba22-df95-47a2-8f77-700d13e98a96",
+    "text": "Think Korean trips never get delayed? Even a single typhoon can shut down KTX trains.\n1️⃣ Add a buffer day in summer/fall or winter.\n2️⃣ Save 112 (police) & 119 (medical) in your phone.\n3️⃣ Ask hotel staff to translate if needed.\n4️⃣ Check the nightly weather forecast before travel.\n✔️ Keep a spare day, numbers saved, translation help ready.\nHow do you plan for weather surprises? 😊\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-travel-advisories-safety-notices.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791074777917-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791074777917-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-10-04T02:42:09.331Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-04T00:50:18.128Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31925332/pexels-photo-31925332.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37538114/pexels-photo-37538114.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31858130/pexels-photo-31858130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31858129/pexels-photo-31858129.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31858122/pexels-photo-31858122.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2019/05/22/23863-337770340_large.mp4",
+    "videoAttribution": null,
+    "topic": "Travel advisories & safety notices",
+    "qualityGate": {
+      "pass": true,
+      "reason": "로컬 AI 품질 검사 통과",
+      "model": "ollaya/laya:multilingual",
+      "confidence": 0.855,
+      "checkedAt": "2026-10-04T00:49:22.059Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-travel-advisories-safety-notices.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "ed3ebd9c-690e-4310-a0d3-329da1ce1112",
+    "text": "Worried a sudden storm will ruin your Korea itinerary?\nAdd a buffer day and memorize 112/119 emergency numbers to stay safe.\nSave this guide for smooth travels.\n\n📖 Open the Land in Korea link in our profile and search “Travel advisories & safety notices”.\n\n🎬 Video source: Pixabay\n\n#KoreaTravel #SeoulTrip #TravelTips #FirstTimeInKorea #TravelSafety\n\n🎵 🎵 Track: Jonathan Dimmel - Have I Wasted\nMusic provided by Jamendo (CC BY-SA).",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1791074990155-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-04T02:47:59.667Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-04T00:50:18.177Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31925332/pexels-photo-31925332.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37538114/pexels-photo-37538114.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31858130/pexels-photo-31858130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31858129/pexels-photo-31858129.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31858122/pexels-photo-31858122.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2019/05/22/23863-337770340_large.mp4",
+    "videoAttribution": "Pixabay",
+    "topic": "Travel advisories & safety notices",
+    "qualityGate": {
+      "pass": true,
+      "reason": "로컬 AI 품질 검사 통과",
+      "model": "ollaya/laya:multilingual",
+      "confidence": 0.855,
+      "checkedAt": "2026-10-04T00:49:22.059Z"
+    },
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "25663c3e-c851-4fde-8a6b-f7ab7d1340c6",
+    "text": "Korea travel weather safety: 1️⃣ Add a buffer day to handle typhoons or heavy snow (one extra day). 2️⃣ Save emergency numbers 112 (police) & 119 (medical) on your phone. 3️⃣ Ask hotel staff for quick translation if needed. Read the full guide on our blog for more tips – https://landinkorea.com/weather-safety",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791074777917-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791074777917-0.jpg"
+    ],
+    "platforms": [
+      "pinterest"
+    ],
+    "scheduledAt": "2026-10-04T05:36:21.283Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-04T00:50:18.238Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31925332/pexels-photo-31925332.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37538114/pexels-photo-37538114.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31858130/pexels-photo-31858130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31858129/pexels-photo-31858129.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31858122/pexels-photo-31858122.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2019/05/22/23863-337770340_large.mp4",
+    "videoAttribution": null,
+    "topic": "Travel advisories & safety notices",
+    "qualityGate": {
+      "pass": true,
+      "reason": "로컬 AI 품질 검사 통과",
+      "model": "ollaya/laya:multilingual",
+      "confidence": 0.855,
+      "checkedAt": "2026-10-04T00:49:22.059Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-travel-advisories-safety-notices.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "4d05f2fc-5cba-435a-b4a6-9007d112c2ba",
+    "text": "First‑time Korea visitors assume the schedule never changes.\n\nAdd at least one buffer day during typhoon or snow seasons – a single extra day can save your trip.\n\nTyphoons often cancel KTX trains without warning; keep your lodging flexible.\n\nAlways save 112 for police and 119 for fire/medical; many operators provide English assistance.\n\nEver been caught by unexpected Korean weather? #TravelBlog #KoreaTravel",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791074777917-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791074777917-0.jpg"
+    ],
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-10-04T03:05:37.027Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-04T00:50:18.262Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31925332/pexels-photo-31925332.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37538114/pexels-photo-37538114.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31858130/pexels-photo-31858130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31858129/pexels-photo-31858129.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31858122/pexels-photo-31858122.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2019/05/22/23863-337770340_large.mp4",
+    "videoAttribution": null,
+    "topic": "Travel advisories & safety notices",
+    "qualityGate": {
+      "pass": true,
+      "reason": "로컬 AI 품질 검사 통과",
+      "model": "ollaya/laya:multilingual",
+      "confidence": 0.855,
+      "checkedAt": "2026-10-04T00:49:22.059Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-travel-advisories-safety-notices.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "dcbab49a-9608-44ac-88a7-67388b9dbcbb",
+    "text": "First‑time Korea visitors assume the schedule never changes.\n\nAdd at least one buffer day during typhoon or snow seasons – a single extra day can save your trip.\n\nTyphoons often cancel KTX trains without warning; keep your lodging flexible.\n\nAlways save 112 for police and 119 for fire/medical; many operators provide English assistance.\n\nEver been caught by unexpected Korean weather? #KoreaTravel #TravelTips #FirstTimeInKorea",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791074777917-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791074777917-0.jpg"
+    ],
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-10-04T03:39:10.531Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-04T00:50:18.308Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31925332/pexels-photo-31925332.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37538114/pexels-photo-37538114.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31858130/pexels-photo-31858130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31858129/pexels-photo-31858129.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31858122/pexels-photo-31858122.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2019/05/22/23863-337770340_large.mp4",
+    "videoAttribution": null,
+    "topic": "Travel advisories & safety notices",
+    "qualityGate": {
+      "pass": true,
+      "reason": "로컬 AI 품질 검사 통과",
+      "model": "ollaya/laya:multilingual",
+      "confidence": 0.855,
+      "checkedAt": "2026-10-04T00:49:22.059Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-travel-advisories-safety-notices.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "49e80ba3-4089-4339-a6ea-2288774b44ad",
+    "text": "Most travelers think Korean trips run like clockwork, but a single typhoon can shut down KTX trains.\n1. Add at least one buffer day during summer/fall or winter to absorb weather delays.\n2. Save 112 (police) and 119 (fire/medical) on your phone; many operators have English support.\n3. Ask hotel staff to translate if you’re unsure about an emergency.\nStay prepared and enjoy your adventure.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791074777917-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791074777917-0.jpg"
+    ],
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-10-04T05:38:42.741Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-04T00:50:18.343Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31925332/pexels-photo-31925332.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37538114/pexels-photo-37538114.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31858130/pexels-photo-31858130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31858129/pexels-photo-31858129.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31858122/pexels-photo-31858122.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2019/05/22/23863-337770340_large.mp4",
+    "videoAttribution": null,
+    "topic": "Travel advisories & safety notices",
+    "qualityGate": {
+      "pass": true,
+      "reason": "로컬 AI 품질 검사 통과",
+      "model": "ollaya/laya:multilingual",
+      "confidence": 0.855,
+      "checkedAt": "2026-10-04T00:49:22.059Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-travel-advisories-safety-notices.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "f95d2613-ac86-478e-9062-3e12dabfa545",
+    "text": "The guidebooks skip this part entirely.\n\nInsadong looks like a tourist strip until you realize it's Seoul's actual center for traditional Korean art, antiques, and hanji (traditional paper) — not a themed recreation.\n\nThe main street bans cars every Sunday, turning it into a full pedestrian zone with street performers and craft stalls.\n\nSsamziegil, a spiral-shaped shopping complex just off the main road, packs small design studios and craft shops into one building worth a dedicated stop.\n\nWorth knowing before you land? Reply with what surprised you.\n\n📖 Open the Land in Korea link in our profile and search “Insadong traditional culture street”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791075027083-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791075027083-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-10-04T15:06:00.654Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-04T00:53:30.828Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/19271577/pexels-photo-19271577.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31680633/pexels-photo-31680633.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31811691/pexels-photo-31811691.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31680632/pexels-photo-31680632.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31720212/pexels-photo-31720212.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/10/19/135669-764361560_large.mp4",
+    "videoAttribution": null,
+    "topic": "Insadong traditional culture street",
+    "qualityGate": {
+      "pass": false,
+      "reason": "로컬 AI가 주제·문장·주장 품질 문제를 감지함",
+      "model": "ollaya/laya:multilingual",
+      "confidence": 0.8127,
+      "checkedAt": "2026-10-04T00:52:43.557Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-04T00:53:30.723Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-insadong-traditional-culture-street.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "8f91279b-0a98-4344-9b42-24168022f350",
+    "text": "The guidebooks skip this part entirely. Insadong looks like a tourist strip until you realize it's Seoul's actual center for traditional Korean art, antiques, and hanji (traditional paper) — not a themed recreation.\n\n1. The main street bans cars every Sunday, turning it into a full pedestrian zone with street performers and craft stalls.\n2. Ssamziegil, a spiral-shaped shopping complex just off the main road, packs small design studios and craft shops into one building worth a dedicated stop.\n3. Traditional tea houses (전통찻집) tucked into side alleys serve tea the old way — order one and sit for a while rather than treating it like a quick coffee stop.\n\nDone any of these? Which surprised you most?\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-insadong-traditional-culture-street.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791075027083-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791075027083-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-10-04T15:06:42.056Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-04T00:53:30.855Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/19271577/pexels-photo-19271577.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31680633/pexels-photo-31680633.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31811691/pexels-photo-31811691.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31680632/pexels-photo-31680632.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31720212/pexels-photo-31720212.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/10/19/135669-764361560_large.mp4",
+    "videoAttribution": null,
+    "topic": "Insadong traditional culture street",
+    "qualityGate": {
+      "pass": false,
+      "reason": "로컬 AI가 주제·문장·주장 품질 문제를 감지함",
+      "model": "ollaya/laya:multilingual",
+      "confidence": 0.8127,
+      "checkedAt": "2026-10-04T00:52:43.557Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-04T00:53:30.841Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-insadong-traditional-culture-street.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "60f3c9a8-53b5-43ed-8894-184a2de948ea",
+    "text": "The guidebooks skip this part entirely.\n\nThe main street bans cars every Sunday, turning it into a full pedestrian zone with street performers and craft stalls.\n\nScreenshot this before you land in Korea.\n\n📖 Open the Land in Korea link in our profile and search “Insadong traditional culture street”.\n\n🎬 Video source: Pixabay\n\n#KoreaTravel #SeoulTrip #KoreaTips #TravelKorea #VisitSeoul\n\n🎵 🎵 Track: Artem Koker - Close (ft. 선호)\nMusic provided by Jamendo (CC BY).",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1791075189206-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-04T15:11:21.641Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-04T00:53:30.890Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/19271577/pexels-photo-19271577.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31680633/pexels-photo-31680633.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31811691/pexels-photo-31811691.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31680632/pexels-photo-31680632.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31720212/pexels-photo-31720212.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/10/19/135669-764361560_large.mp4",
+    "videoAttribution": "Pixabay",
+    "topic": "Insadong traditional culture street",
+    "qualityGate": {
+      "pass": false,
+      "reason": "로컬 AI가 주제·문장·주장 품질 문제를 감지함",
+      "model": "ollaya/laya:multilingual",
+      "confidence": 0.8127,
+      "checkedAt": "2026-10-04T00:52:43.557Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-04T00:53:30.877Z"
+  },
+  {
+    "id": "cbb6eca3-8725-44df-b348-cb5848bac16a",
+    "text": "Insadong looks like a tourist strip until you realize it's Seoul's actual center for traditional Korean art, antiques, and hanji (traditional paper) — not a themed recreation.\n\n1. The main street bans cars every Sunday, turning it into a full pedestrian zone with street performers and craft stalls.\n2. Ssamziegil, a spiral-shaped shopping complex just off the main road, packs small design studios and craft shops into one building worth a dedicated stop.\n3. Traditional tea houses (전통찻집) tucked into side alleys serve tea the old way — order one and sit for a while rather than treating it like a quick coffee stop.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791075027083-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791075027083-0.jpg"
+    ],
+    "platforms": [
+      "pinterest"
+    ],
+    "scheduledAt": "2026-10-04T18:03:43.044Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-04T00:53:30.941Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/19271577/pexels-photo-19271577.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31680633/pexels-photo-31680633.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31811691/pexels-photo-31811691.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31680632/pexels-photo-31680632.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31720212/pexels-photo-31720212.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/10/19/135669-764361560_large.mp4",
+    "videoAttribution": null,
+    "topic": "Insadong traditional culture street",
+    "qualityGate": {
+      "pass": false,
+      "reason": "로컬 AI가 주제·문장·주장 품질 문제를 감지함",
+      "model": "ollaya/laya:multilingual",
+      "confidence": 0.8127,
+      "checkedAt": "2026-10-04T00:52:43.557Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-04T00:53:30.925Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-insadong-traditional-culture-street.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "16d70c87-428d-4efc-9ba3-22e578c4a6c8",
+    "text": "The guidebooks skip this part entirely.\n\nInsadong looks like a tourist strip until you realize it's Seoul's actual center for traditional Korean art, antiques, and hanji (traditional paper) — not a themed recreation.\n\nThe main street bans cars every Sunday, turning it into a full pedestrian zone with street performers and craft stalls.\n\nSsamziegil, a spiral-shaped shopping complex just off the main road, packs small design studios and craft shops into one building worth a dedicated stop.\n\nWorth knowing before you land? Reply with what surprised you.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791075027083-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791075027083-0.jpg"
+    ],
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-10-04T15:35:39.306Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-04T00:53:30.968Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/19271577/pexels-photo-19271577.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31680633/pexels-photo-31680633.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31811691/pexels-photo-31811691.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31680632/pexels-photo-31680632.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31720212/pexels-photo-31720212.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/10/19/135669-764361560_large.mp4",
+    "videoAttribution": null,
+    "topic": "Insadong traditional culture street",
+    "qualityGate": {
+      "pass": false,
+      "reason": "로컬 AI가 주제·문장·주장 품질 문제를 감지함",
+      "model": "ollaya/laya:multilingual",
+      "confidence": 0.8127,
+      "checkedAt": "2026-10-04T00:52:43.557Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-04T00:53:30.956Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-insadong-traditional-culture-street.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "85a6ae63-cef1-4cd3-8541-e72557d13dac",
+    "text": "The guidebooks skip this part entirely.\n\nInsadong looks like a tourist strip until you realize it's Seoul's actual center for traditional Korean art, antiques, and hanji (traditional paper) — not a themed recreation.\n\nThe main street bans cars every Sunday, turning it into a full pedestrian zone with street performers and craft stalls.\n\nSsamziegil, a spiral-shaped shopping complex just off the main road, packs small design studios and craft shops into one building worth a dedicated stop.\n\nWorth knowing before you land? Reply with what surprised you.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791075027083-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791075027083-0.jpg"
+    ],
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-10-04T16:03:09.944Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-04T00:53:30.996Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/19271577/pexels-photo-19271577.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31680633/pexels-photo-31680633.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31811691/pexels-photo-31811691.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31680632/pexels-photo-31680632.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31720212/pexels-photo-31720212.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/10/19/135669-764361560_large.mp4",
+    "videoAttribution": null,
+    "topic": "Insadong traditional culture street",
+    "qualityGate": {
+      "pass": false,
+      "reason": "로컬 AI가 주제·문장·주장 품질 문제를 감지함",
+      "model": "ollaya/laya:multilingual",
+      "confidence": 0.8127,
+      "checkedAt": "2026-10-04T00:52:43.557Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-04T00:53:30.983Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-insadong-traditional-culture-street.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "4655713a-78ce-404d-92de-86dd63b10318",
+    "text": "Insadong looks like a tourist strip until you realize it's Seoul's actual center for traditional Korean art, antiques, and hanji (traditional paper) — not a themed recreation.\n\n1. The main street bans cars every Sunday, turning it into a full pedestrian zone with street performers and craft stalls.\n2. Ssamziegil, a spiral-shaped shopping complex just off the main road, packs small design studios and craft shops into one building worth a dedicated stop.\n3. Traditional tea houses (전통찻집) tucked into side alleys serve tea the old way — order one and sit for a while rather than treating it like a quick coffee stop.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791075027083-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791075027083-0.jpg"
+    ],
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-10-04T18:02:56.488Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-04T00:53:31.034Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/19271577/pexels-photo-19271577.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31680633/pexels-photo-31680633.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31811691/pexels-photo-31811691.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31680632/pexels-photo-31680632.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31720212/pexels-photo-31720212.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/10/19/135669-764361560_large.mp4",
+    "videoAttribution": null,
+    "topic": "Insadong traditional culture street",
+    "qualityGate": {
+      "pass": false,
+      "reason": "로컬 AI가 주제·문장·주장 품질 문제를 감지함",
+      "model": "ollaya/laya:multilingual",
+      "confidence": 0.8127,
+      "checkedAt": "2026-10-04T00:52:43.557Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-04T00:53:31.018Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-insadong-traditional-culture-street.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "07dadca5-0219-4c28-b470-82b5f3d0c023",
+    "text": "You won't find this in the usual travel advice.\n\nIf your schedule is tight, Lotte World's subway access usually wins over Everland's better rides — most first-timers don't realize the transit gap until they're already planning the day.\n\nEverland's outdoor layout and larger rides suit a full-day trip better, especially with kids who want the safari section.\n\nLotte World works well as a half-day add-on to a Jamsil-area day since it's indoors and weather-proof, which matters more than people expect given Korea's summer heat and winter cold.\n\nDid this trip you up your first time too? Drop a comment.\n\n📖 Open the Land in Korea link in our profile and search “Everland vs. Lotte World theme parks”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791075215122-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791075215122-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-10-05T02:07:13.719Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-04T00:58:52.044Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/27489515/pexels-photo-27489515.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38249753/pexels-photo-38249753.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/22240958/pexels-photo-22240958.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30867332/pexels-photo-30867332.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38249706/pexels-photo-38249706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2024/06/24/218014_large.mp4",
+    "videoAttribution": null,
+    "topic": "Everland vs. Lotte World theme parks",
+    "qualityGate": {
+      "pass": true,
+      "reason": "로컬 AI 품질 검사 통과",
+      "model": "ollaya/laya:multilingual",
+      "confidence": 0.7245,
+      "checkedAt": "2026-10-04T00:57:29.817Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-everland-vs-lotte-world-theme-parks.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "c4c88365-60eb-430a-9d6e-d21e1381fca3",
+    "text": "You won't find this in the usual travel advice. If your schedule is tight, Lotte World's subway access usually wins over Everland's better rides — most first-timers don't realize the transit gap until they're already planning the day.\n\n1. Everland's outdoor layout and larger rides suit a full-day trip better, especially with kids who want the safari section.\n2. Lotte World works well as a half-day add-on to a Jamsil-area day since it's indoors and weather-proof, which matters more than people expect given Korea's summer heat and winter cold.\n\nWhat's your biggest tip for first-timers landing in Korea?\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-everland-vs-lotte-world-theme-parks.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791075215122-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791075215122-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-10-05T02:09:09.699Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-04T00:58:52.092Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/27489515/pexels-photo-27489515.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38249753/pexels-photo-38249753.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/22240958/pexels-photo-22240958.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30867332/pexels-photo-30867332.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38249706/pexels-photo-38249706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2024/06/24/218014_large.mp4",
+    "videoAttribution": null,
+    "topic": "Everland vs. Lotte World theme parks",
+    "qualityGate": {
+      "pass": true,
+      "reason": "로컬 AI 품질 검사 통과",
+      "model": "ollaya/laya:multilingual",
+      "confidence": 0.7245,
+      "checkedAt": "2026-10-04T00:57:29.817Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-everland-vs-lotte-world-theme-parks.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "1af7a5fa-543f-4aaa-be80-88b68bc2695a",
+    "text": "You won't find this in the usual travel advice.\n\nEverland's outdoor layout and larger rides suit a full-day trip better, especially with kids who want the safari section.\n\nDone any of these? Comment your story below.\n\n📖 Open the Land in Korea link in our profile and search “Everland vs. Lotte World theme parks”.\n\n🎬 Video source: Pixabay\n\n#KoreaTravel #SeoulTrip #KoreaTips #TravelKorea #VisitSeoul\n\n🎵 🎵 Track: Quantum Jazz - Casa Noir\nMusic provided by Jamendo (CC BY-SA).",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1791075501621-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-05T02:14:18.121Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-04T00:58:52.140Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/27489515/pexels-photo-27489515.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38249753/pexels-photo-38249753.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/22240958/pexels-photo-22240958.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30867332/pexels-photo-30867332.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38249706/pexels-photo-38249706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2024/06/24/218014_large.mp4",
+    "videoAttribution": "Pixabay",
+    "topic": "Everland vs. Lotte World theme parks",
+    "qualityGate": {
+      "pass": true,
+      "reason": "로컬 AI 품질 검사 통과",
+      "model": "ollaya/laya:multilingual",
+      "confidence": 0.7245,
+      "checkedAt": "2026-10-04T00:57:29.817Z"
+    },
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "545e9d81-5a08-4828-94ff-5a563725f6bc",
+    "text": "If your schedule is tight, Lotte World's subway access usually wins over Everland's better rides — most first-timers don't realize the transit gap until they're already planning the day.\n\n1. Everland's outdoor layout and larger rides suit a full-day trip better, especially with kids who want the safari section.\n2. Lotte World works well as a half-day add-on to a Jamsil-area day since it's indoors and weather-proof, which matters more than people expect given Korea's summer heat and winter cold.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791075215122-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791075215122-0.jpg"
+    ],
+    "platforms": [
+      "pinterest"
+    ],
+    "scheduledAt": "2026-10-05T05:05:18.733Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-04T00:58:52.193Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/27489515/pexels-photo-27489515.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38249753/pexels-photo-38249753.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/22240958/pexels-photo-22240958.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30867332/pexels-photo-30867332.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38249706/pexels-photo-38249706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2024/06/24/218014_large.mp4",
+    "videoAttribution": null,
+    "topic": "Everland vs. Lotte World theme parks",
+    "qualityGate": {
+      "pass": true,
+      "reason": "로컬 AI 품질 검사 통과",
+      "model": "ollaya/laya:multilingual",
+      "confidence": 0.7245,
+      "checkedAt": "2026-10-04T00:57:29.817Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-everland-vs-lotte-world-theme-parks.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "41ef41ba-3925-4b22-8ff5-b7abb48b428b",
+    "text": "You won't find this in the usual travel advice.\n\nIf your schedule is tight, Lotte World's subway access usually wins over Everland's better rides — most first-timers don't realize the transit gap until they're already planning the day.\n\nEverland's outdoor layout and larger rides suit a full-day trip better, especially with kids who want the safari section.\n\nLotte World works well as a half-day add-on to a Jamsil-area day since it's indoors and weather-proof, which matters more than people expect given Korea's summer heat and winter cold.\n\nDid this trip you up your first time too? Drop a comment.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791075215122-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791075215122-0.jpg"
+    ],
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-10-05T02:37:00.477Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-04T00:58:52.245Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/27489515/pexels-photo-27489515.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38249753/pexels-photo-38249753.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/22240958/pexels-photo-22240958.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30867332/pexels-photo-30867332.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38249706/pexels-photo-38249706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2024/06/24/218014_large.mp4",
+    "videoAttribution": null,
+    "topic": "Everland vs. Lotte World theme parks",
+    "qualityGate": {
+      "pass": true,
+      "reason": "로컬 AI 품질 검사 통과",
+      "model": "ollaya/laya:multilingual",
+      "confidence": 0.7245,
+      "checkedAt": "2026-10-04T00:57:29.817Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-everland-vs-lotte-world-theme-parks.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "d10346e4-a333-47f5-bd70-23108980da97",
+    "text": "You won't find this in the usual travel advice.\n\nIf your schedule is tight, Lotte World's subway access usually wins over Everland's better rides — most first-timers don't realize the transit gap until they're already planning the day.\n\nEverland's outdoor layout and larger rides suit a full-day trip better, especially with kids who want the safari section.\n\nLotte World works well as a half-day add-on to a Jamsil-area day since it's indoors and weather-proof, which matters more than people expect given Korea's summer heat and winter cold.\n\nDid this trip you up your first time too? Drop a comment.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791075215122-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791075215122-0.jpg"
+    ],
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-10-05T03:04:19.936Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-04T00:58:52.290Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/27489515/pexels-photo-27489515.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38249753/pexels-photo-38249753.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/22240958/pexels-photo-22240958.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30867332/pexels-photo-30867332.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38249706/pexels-photo-38249706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2024/06/24/218014_large.mp4",
+    "videoAttribution": null,
+    "topic": "Everland vs. Lotte World theme parks",
+    "qualityGate": {
+      "pass": true,
+      "reason": "로컬 AI 품질 검사 통과",
+      "model": "ollaya/laya:multilingual",
+      "confidence": 0.7245,
+      "checkedAt": "2026-10-04T00:57:29.817Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-everland-vs-lotte-world-theme-parks.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "21a1e45c-3d3b-4d1f-83c6-97f0d913f637",
+    "text": "If your schedule is tight, Lotte World's subway access usually wins over Everland's better rides — most first-timers don't realize the transit gap until they're already planning the day.\n\n1. Everland's outdoor layout and larger rides suit a full-day trip better, especially with kids who want the safari section.\n2. Lotte World works well as a half-day add-on to a Jamsil-area day since it's indoors and weather-proof, which matters more than people expect given Korea's summer heat and winter cold.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791075215122-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791075215122-0.jpg"
+    ],
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-10-05T05:07:18.897Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-04T00:58:52.346Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/27489515/pexels-photo-27489515.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38249753/pexels-photo-38249753.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/22240958/pexels-photo-22240958.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30867332/pexels-photo-30867332.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38249706/pexels-photo-38249706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2024/06/24/218014_large.mp4",
+    "videoAttribution": null,
+    "topic": "Everland vs. Lotte World theme parks",
+    "qualityGate": {
+      "pass": true,
+      "reason": "로컬 AI 품질 검사 통과",
+      "model": "ollaya/laya:multilingual",
+      "confidence": 0.7245,
+      "checkedAt": "2026-10-04T00:57:29.817Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-everland-vs-lotte-world-theme-parks.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
   }
 ]
