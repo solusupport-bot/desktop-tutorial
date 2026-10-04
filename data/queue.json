@@ -20150,7 +20150,7 @@
       "tumblr"
     ],
     "scheduledAt": "2026-10-04T05:38:42.741Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-10-04T00:50:18.343Z",
     "approved": true,
@@ -20709,5 +20709,40 @@
     },
     "blogUrl": "https://landinkorea.com/posts/korea-everland-vs-lotte-world-theme-parks.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
     "verifyStatus": "passed"
+  },
+  {
+    "id": "811bdd44-ad47-437c-a22f-5cdfb1ae0ddd",
+    "text": "Do you tip in Korea? Short answer: no.\n\nAt most restaurants, cafes, taxis and salons, pay exactly what's on the bill. Extra cash can confuse staff.\n\nWatch out:\n• \"Service\" on a receipt usually means a free extra.\n• Some upscale and hotel restaurants add a 10% service charge (about 21% with VAT). It's already included.\n\nSave this for your next trip 📌\n\n📖 More tips on the blog — link in bio.\n\n#KoreaTravel #SeoulTips #TippingInKorea #KoreaTravelTips #TravelKorea",
+    "imageUrl": "https://landinkorea.com/sns-media/card-news/tipping-20261003/01-cover.png",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/card-news/tipping-20261003/01-cover.png",
+      "https://landinkorea.com/sns-media/card-news/tipping-20261003/02-context.png",
+      "https://landinkorea.com/sns-media/card-news/tipping-20261003/03-tip1.png",
+      "https://landinkorea.com/sns-media/card-news/tipping-20261003/04-photo.png",
+      "https://landinkorea.com/sns-media/card-news/tipping-20261003/05-tip2.png",
+      "https://landinkorea.com/sns-media/card-news/tipping-20261003/06-tip3.png",
+      "https://landinkorea.com/sns-media/card-news/tipping-20261003/07-photo.png",
+      "https://landinkorea.com/sns-media/card-news/tipping-20261003/08-caution.png",
+      "https://landinkorea.com/sns-media/card-news/tipping-20261003/09-cta.png"
+    ],
+    "platforms": [
+      "threads",
+      "facebook"
+    ],
+    "scheduledAt": "2026-10-04T05:42:23.012Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-04T05:42:23.024Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "topic": "First-timer etiquette & common mistakes",
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31892112/pexels-photo-31892112.jpeg",
+      "https://images.pexels.com/photos/8851561/pexels-photo-8851561.jpeg",
+      "https://images.pexels.com/photos/29445145/pexels-photo-29445145.jpeg"
+    ],
+    "cardNewsSet": "tipping-20261003"
   }
 ]
