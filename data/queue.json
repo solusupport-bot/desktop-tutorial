@@ -18242,8 +18242,12 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-30T02:54:50.806Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "18071769452754616"
+      }
+    },
     "createdAt": "2026-09-30T02:36:24.588Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -18266,7 +18270,8 @@
       "confidence": 0.7606,
       "checkedAt": "2026-09-30T02:35:28.151Z"
     },
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-10-05T06:38:31.797Z"
   },
   {
     "id": "e1fb82b4-c7e3-4cf9-bc1c-637580c6cd20",
@@ -18543,8 +18548,13 @@
       "mastodon"
     ],
     "scheduledAt": "2026-09-30T17:44:43.897Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "mastodon": {
+        "id": "117386924001595342",
+        "url": "https://mastodon.social/@landinkorea/117386924001595342"
+      }
+    },
     "createdAt": "2026-09-30T02:39:05.028Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -18567,7 +18577,8 @@
       "checkedAt": "2026-09-30T02:37:29.747Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-esim-mobile-data.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "failed"
+    "verifyStatus": "failed",
+    "processedAt": "2026-10-05T06:38:32.989Z"
   },
   {
     "id": "890533d7-4bd0-4131-993c-0b7c9ecb13ee",
@@ -18721,8 +18732,13 @@
       "bluesky"
     ],
     "scheduledAt": "2026-10-01T02:23:48.400Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mx4ckspdsw2l",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3mx4ckspdsw2l"
+      }
+    },
     "createdAt": "2026-09-30T02:40:38.511Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -18745,7 +18761,8 @@
       "checkedAt": "2026-09-30T02:39:56.557Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-t-money-transit-card.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-10-05T06:38:34.341Z"
   },
   {
     "id": "3b142ca4-f153-45d6-ae8b-d10091c1b68b",
