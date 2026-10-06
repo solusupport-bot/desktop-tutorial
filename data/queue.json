@@ -16206,7 +16206,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-26T04:36:04.637Z",
-    "status": "claimed",
+    "status": "partial",
     "results": {
       "pinterest": {
         "error": "watermarked media unavailable"
@@ -16234,7 +16234,7 @@
     },
     "blogUrl": "https://landinkorea.com/posts/korea-namdaemun-market.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
     "verifyStatus": "passed",
-    "processedAt": "2026-10-06T05:24:22.818Z",
+    "processedAt": "2026-10-06T07:34:23.196Z",
     "retryCount": 2
   },
   {
@@ -18710,8 +18710,12 @@
       "instagram"
     ],
     "scheduledAt": "2026-10-01T02:02:36.989Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "18183015403422971"
+      }
+    },
     "createdAt": "2026-09-30T02:40:38.479Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -18733,7 +18737,8 @@
       "model": "groq",
       "checkedAt": "2026-09-30T02:39:56.557Z"
     },
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-10-06T07:34:54.991Z"
   },
   {
     "id": "7b78ed44-2ca0-4059-821a-984d45707c48",
@@ -19128,8 +19133,13 @@
       "mastodon"
     ],
     "scheduledAt": "2026-10-02T06:55:10.370Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "mastodon": {
+        "id": "117392808206444347",
+        "url": "https://mastodon.social/@landinkorea/117392808206444347"
+      }
+    },
     "createdAt": "2026-10-02T06:50:05.010Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -19152,7 +19162,8 @@
       "checkedAt": "2026-10-02T06:49:26.945Z"
     },
     "blogUrl": "https://landinkorea.com/index.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "failed"
+    "verifyStatus": "failed",
+    "processedAt": "2026-10-06T07:35:01.218Z"
   },
   {
     "id": "b5790bee-885a-4e4d-8f73-68b7a9b04744",
@@ -20166,8 +20177,13 @@
       "bluesky"
     ],
     "scheduledAt": "2026-10-04T03:05:37.027Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mx6w6sv2um2r",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3mx6w6sv2um2r"
+      }
+    },
     "createdAt": "2026-10-04T00:50:18.262Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -20191,7 +20207,8 @@
       "checkedAt": "2026-10-04T00:49:22.059Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-travel-advisories-safety-notices.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-10-06T07:35:07.822Z"
   },
   {
     "id": "dcbab49a-9608-44ac-88a7-67388b9dbcbb",
@@ -21089,8 +21106,13 @@
       "tumblr"
     ],
     "scheduledAt": "2026-10-06T07:18:44.153Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "tumblr": {
+        "id": "829708943563636737",
+        "url": "https://landinkorea.tumblr.com/post/829708943563636737"
+      }
+    },
     "createdAt": "2026-10-06T03:50:23.649Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -21113,7 +21135,8 @@
       "checkedAt": "2026-10-06T03:49:29.717Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-hongdae-nightlife-and-youth-culture-district.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-10-06T07:35:10.150Z"
   },
   {
     "id": "4ba3957a-f068-4095-88a6-385c71bdf66a",
