@@ -15753,7 +15753,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-26T05:59:02.099Z",
-    "status": "claimed",
+    "status": "partial",
     "results": {
       "pinterest": {
         "error": "watermarked media unavailable"
@@ -15781,7 +15781,7 @@
     },
     "blogUrl": "https://landinkorea.com/index.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
     "verifyStatus": "passed",
-    "processedAt": "2026-10-06T16:24:27.082Z",
+    "processedAt": "2026-10-06T17:24:15.987Z",
     "retryCount": 1
   },
   {
@@ -19428,8 +19428,13 @@
       "mastodon"
     ],
     "scheduledAt": "2026-10-04T04:15:19.575Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "mastodon": {
+        "id": "117395125665215108",
+        "url": "https://mastodon.social/@landinkorea/117395125665215108"
+      }
+    },
     "createdAt": "2026-10-03T07:21:23.502Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -19452,7 +19457,8 @@
       "checkedAt": "2026-10-03T07:18:23.768Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-first-timer-mistakes-part-2.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-10-06T17:24:22.491Z"
   },
   {
     "id": "9ab9ec62-1a29-40a8-9fe0-376ddaed87a3",
@@ -20596,8 +20602,12 @@
       "threads"
     ],
     "scheduledAt": "2026-10-05T02:07:13.719Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "17892666294438665"
+      }
+    },
     "createdAt": "2026-10-04T00:58:52.044Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -20621,7 +20631,8 @@
       "checkedAt": "2026-10-04T00:57:29.817Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-everland-vs-lotte-world-theme-parks.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-10-06T17:25:45.315Z"
   },
   {
     "id": "c4c88365-60eb-430a-9d6e-d21e1381fca3",
@@ -20745,8 +20756,13 @@
       "bluesky"
     ],
     "scheduledAt": "2026-10-05T02:37:00.477Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mx7x73tozn2l",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3mx7x73tozn2l"
+      }
+    },
     "createdAt": "2026-10-04T00:58:52.245Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -20770,7 +20786,8 @@
       "checkedAt": "2026-10-04T00:57:29.817Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-everland-vs-lotte-world-theme-parks.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-10-06T17:25:50.426Z"
   },
   {
     "id": "d10346e4-a333-47f5-bd70-23108980da97",
