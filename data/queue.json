@@ -16206,7 +16206,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-26T04:36:04.637Z",
-    "status": "claimed",
+    "status": "partial",
     "results": {
       "pinterest": {
         "error": "watermarked media unavailable"
@@ -16234,7 +16234,7 @@
     },
     "blogUrl": "https://landinkorea.com/posts/korea-namdaemun-market.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
     "verifyStatus": "passed",
-    "processedAt": "2026-10-06T07:34:23.196Z",
+    "processedAt": "2026-10-06T15:52:01.547Z",
     "retryCount": 3
   },
   {
@@ -19017,8 +19017,12 @@
       "instagram"
     ],
     "scheduledAt": "2026-10-02T06:55:10.370Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "18125428774890482"
+      }
+    },
     "createdAt": "2026-10-02T06:50:04.949Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -19040,7 +19044,8 @@
       "model": "groq",
       "checkedAt": "2026-10-02T06:49:26.945Z"
     },
-    "verifyStatus": "failed"
+    "verifyStatus": "failed",
+    "processedAt": "2026-10-06T15:52:39.521Z"
   },
   {
     "id": "99f61745-a257-4647-8010-e7254a86c639",
@@ -19374,8 +19379,13 @@
       "bluesky"
     ],
     "scheduledAt": "2026-10-04T03:45:40.079Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mx7rymv45p2q",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3mx7rymv45p2q"
+      }
+    },
     "createdAt": "2026-10-03T07:21:23.480Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -19398,7 +19408,8 @@
       "checkedAt": "2026-10-03T07:18:23.768Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-first-timer-mistakes-part-2.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-10-06T15:52:44.604Z"
   },
   {
     "id": "a417a212-7d9a-4245-a588-0b5a951eebd0",
@@ -20221,8 +20232,13 @@
       "mastodon"
     ],
     "scheduledAt": "2026-10-04T03:39:10.531Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "mastodon": {
+        "id": "117394765754037376",
+        "url": "https://mastodon.social/@landinkorea/117394765754037376"
+      }
+    },
     "createdAt": "2026-10-04T00:50:18.308Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -20246,7 +20262,8 @@
       "checkedAt": "2026-10-04T00:49:22.059Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-travel-advisories-safety-notices.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-10-06T15:52:50.071Z"
   },
   {
     "id": "49e80ba3-4089-4339-a6ea-2288774b44ad",
