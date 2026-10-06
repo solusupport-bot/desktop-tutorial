@@ -16206,7 +16206,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-26T04:36:04.637Z",
-    "status": "partial",
+    "status": "claimed",
     "results": {
       "pinterest": {
         "error": "watermarked media unavailable"
@@ -16234,7 +16234,8 @@
     },
     "blogUrl": "https://landinkorea.com/posts/korea-namdaemun-market.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
     "verifyStatus": "passed",
-    "processedAt": "2026-10-06T03:55:58.416Z"
+    "processedAt": "2026-10-06T03:55:58.416Z",
+    "retryCount": 1
   },
   {
     "id": "5f07e101-f6be-421d-89a3-9fdf83f67d40",
@@ -20833,7 +20834,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-10-04T05:55:56.043Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-10-04T05:42:23.024Z",
     "approved": true,
