@@ -20824,6 +20824,775 @@
       "https://images.pexels.com/photos/8851561/pexels-photo-8851561.jpeg",
       "https://images.pexels.com/photos/29445145/pexels-photo-29445145.jpeg"
     ],
-    "cardNewsSet": "tipping-20261003"
+    "cardNewsSet": "tipping-20261003",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "4002924e-773a-4f4f-88c0-e7a8d3ed2eb5",
+    "text": "First‑time visitors think Hongdae’s always buzzing, but they’ll be staring at empty streets if they go early.\n\nThe area only lights up after 5 pm on weekends, with the main busking hub at Hongdae Playground.\n\nPlan dinner first, then wander the indie clubs—most bars stay open until 2 am, far later than central Seoul.\n\nAvoid the subway crowd rush at 6 pm; the stations empty out after the evening shows start.\n\nWhat’s your go‑to spot for late‑night music in Hongdae? Open the Land in Korea link in our profile.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791258402846-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791258402846-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-10-06T04:16:19.491Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-06T03:50:23.484Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/36812076/pexels-photo-36812076.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40061589/pexels-photo-40061589.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40037254/pexels-photo-40037254.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40036588/pexels-photo-40036588.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31768177/pexels-photo-31768177.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2019/03/13/21985-323496013_large.mp4",
+    "videoAttribution": null,
+    "topic": "Hongdae nightlife and youth culture district",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 맞고, 문장이 자연스러우며 사실도 크게 문제 없고 여행자에게 유용한 정보다",
+      "model": "groq",
+      "checkedAt": "2026-10-06T03:49:29.717Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-hongdae-nightlife-and-youth-culture-district.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "b5be51c6-f3ae-4ad0-8422-70e09542bb51",
+    "text": "Think Hongdae’s lively all day? It actually quiets down until the evening, especially on weekends. \n1️⃣ Arrive after 5 pm to catch street performers at Hongdae Playground.\n2️⃣ Grab dinner first—restaurants fill up early.\n3️⃣ Clubs and bars stay open until 2 am, perfect for night owls.\n4️⃣ Use the subway before 6 pm to dodge rush‑hour crowds.\nRemember: schedule your Hongdae visit for evening hours.\nWhich Hongdae venue are you most excited to explore? 💡\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-hongdae-nightlife-and-youth-culture-district.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791258402846-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791258402846-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-10-06T04:22:29.064Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-06T03:50:23.519Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/36812076/pexels-photo-36812076.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40061589/pexels-photo-40061589.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40037254/pexels-photo-40037254.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40036588/pexels-photo-40036588.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31768177/pexels-photo-31768177.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2019/03/13/21985-323496013_large.mp4",
+    "videoAttribution": null,
+    "topic": "Hongdae nightlife and youth culture district",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 맞고, 문장이 자연스러우며 사실도 크게 문제 없고 여행자에게 유용한 정보다",
+      "model": "groq",
+      "checkedAt": "2026-10-06T03:49:29.717Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-hongdae-nightlife-and-youth-culture-district.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "5b60fdfa-2367-481b-a951-38228ad782a2",
+    "text": "Missing the best of Hongdae because you showed up at the wrong time?\nIt only comes alive after 5 pm on weekends, with live buskers at Hongdae Playground and clubs staying open till 2 am.\nBookmark this so you can plan your evening right.\n\n📖 Open the Land in Korea link in our profile and search “Hongdae nightlife and youth culture district”.\n\n🎬 Video source: Pixabay\n\n#KoreaTravel #SeoulTrip #Hongdae #Nightlife #TravelTips\n\n🎵 🎵 Track: Manhat10 - Dreams\nMusic provided by Jamendo (CC BY).",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1791258589903-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-06T04:25:40.882Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-06T03:50:23.542Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/36812076/pexels-photo-36812076.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40061589/pexels-photo-40061589.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40037254/pexels-photo-40037254.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40036588/pexels-photo-40036588.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31768177/pexels-photo-31768177.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2019/03/13/21985-323496013_large.mp4",
+    "videoAttribution": "Pixabay",
+    "topic": "Hongdae nightlife and youth culture district",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 맞고, 문장이 자연스러우며 사실도 크게 문제 없고 여행자에게 유용한 정보다",
+      "model": "groq",
+      "checkedAt": "2026-10-06T03:49:29.717Z"
+    },
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "d6f7998b-a289-4487-ad6b-108e0e7387b5",
+    "text": "Korea Hongdae Nightlife Timing Guide: Maximize Your Evening in Seoul\n1. Arrive after 5 pm on weekends – the streets light up at Hongdae Playground with buskers.\n2. Eat dinner early; restaurants fill quickly before the clubs open.\n3. Clubs and bars stay open until ~2 am, perfect for night owls.\nRead the full guide on our blog and plan your perfect night out! https://landinkorea.com/blog/hongdae-nightlife",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791258402846-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791258402846-0.jpg"
+    ],
+    "platforms": [
+      "pinterest"
+    ],
+    "scheduledAt": "2026-10-06T07:19:18.732Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-06T03:50:23.571Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/36812076/pexels-photo-36812076.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40061589/pexels-photo-40061589.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40037254/pexels-photo-40037254.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40036588/pexels-photo-40036588.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31768177/pexels-photo-31768177.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2019/03/13/21985-323496013_large.mp4",
+    "videoAttribution": null,
+    "topic": "Hongdae nightlife and youth culture district",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 맞고, 문장이 자연스러우며 사실도 크게 문제 없고 여행자에게 유용한 정보다",
+      "model": "groq",
+      "checkedAt": "2026-10-06T03:49:29.717Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-hongdae-nightlife-and-youth-culture-district.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "a0e8043f-68fb-4a53-9d9d-6226e958fbfa",
+    "text": "Many first‑timers assume Hongdae buzzes all day, but the streets are almost empty until the evening.\n\nThe scene kicks off around 5 pm on weekends, centered at Hongdae Playground where buskers gather.\n\nPlan dinner first, then hop to the indie clubs that stay open until about 2 am—much later than most of Seoul.\n\nSkip the 6 pm subway rush; trains are packed until the night‑life crowd spreads out.\n\nWhich Hongdae spot will you hit first for the night vibe? #TravelBlog #SeoulTrip",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791258402846-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791258402846-0.jpg"
+    ],
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-10-06T04:48:59.805Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-06T03:50:23.600Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/36812076/pexels-photo-36812076.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40061589/pexels-photo-40061589.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40037254/pexels-photo-40037254.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40036588/pexels-photo-40036588.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31768177/pexels-photo-31768177.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2019/03/13/21985-323496013_large.mp4",
+    "videoAttribution": null,
+    "topic": "Hongdae nightlife and youth culture district",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 맞고, 문장이 자연스러우며 사실도 크게 문제 없고 여행자에게 유용한 정보다",
+      "model": "groq",
+      "checkedAt": "2026-10-06T03:49:29.717Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-hongdae-nightlife-and-youth-culture-district.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "0023c1eb-f1ff-4bb6-91f6-0c90805046a2",
+    "text": "First‑timer mistake: thinking Hongdae is lively from morning to night, but it’s practically empty until evening.\n\nThe real action starts at about 5 pm on Saturdays and Sundays, with Hongdae Playground becoming a busking hotspot.\n\nTip: have dinner early and then explore the indie clubs; many stay open until roughly 2 am, far later than central Seoul venues.\n\nCaution: avoid the subway rush around 6 pm; the trains are crowded until the evening crowd disperses.\n\nWhat’s your favorite late‑night hangout in Hongdae? #KoreaTravel #TravelTips #Seoul #Hongdae #FirstTimeInKorea",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791258402846-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791258402846-0.jpg"
+    ],
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-10-06T05:18:40.250Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-06T03:50:23.624Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/36812076/pexels-photo-36812076.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40061589/pexels-photo-40061589.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40037254/pexels-photo-40037254.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40036588/pexels-photo-40036588.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31768177/pexels-photo-31768177.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2019/03/13/21985-323496013_large.mp4",
+    "videoAttribution": null,
+    "topic": "Hongdae nightlife and youth culture district",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 맞고, 문장이 자연스러우며 사실도 크게 문제 없고 여행자에게 유용한 정보다",
+      "model": "groq",
+      "checkedAt": "2026-10-06T03:49:29.717Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-hongdae-nightlife-and-youth-culture-district.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "139eb33a-77ab-453b-b1a8-cab68dfaf226",
+    "text": "If you think Hongdae is lively all day, you’ll be surprised—its real buzz starts after 5 pm on weekends.\n1. Head to Hongdae Playground after 5 pm to catch the weekend buskers.\n2. Grab dinner early; restaurants get packed before the clubs open.\n3. Most bars and clubs stay open until around 2 am, giving you plenty of night‑time fun.\nEnjoy your evening adventure!",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791258402846-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791258402846-0.jpg"
+    ],
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-10-06T07:18:44.153Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-06T03:50:23.649Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/36812076/pexels-photo-36812076.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40061589/pexels-photo-40061589.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40037254/pexels-photo-40037254.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40036588/pexels-photo-40036588.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31768177/pexels-photo-31768177.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2019/03/13/21985-323496013_large.mp4",
+    "videoAttribution": null,
+    "topic": "Hongdae nightlife and youth culture district",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 맞고, 문장이 자연스러우며 사실도 크게 문제 없고 여행자에게 유용한 정보다",
+      "model": "groq",
+      "checkedAt": "2026-10-06T03:49:29.717Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-hongdae-nightlife-and-youth-culture-district.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "4ba3957a-f068-4095-88a6-385c71bdf66a",
+    "text": "Most travelers think they can hop from Nami Island to Petite France with a single subway ride.\n\nActually, each leg is a 1‑1.5 hour ride from central Seoul, and there’s no direct line between them.\n\nA combined tour removes the transfer headache, but you lose control over timing and rest stops.\n\nGoing solo? Choose a weekday in spring or autumn to dodge the main‑path crowds.\n\nEver tried piecing together the two stops yourself? Share how it won’t! Open the Land in Korea link in my profile for the full guide.\n\n📖 Open the Land in Korea link in our profile and search “Nami Island and Petite France day trip”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791258629998-1.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791258629998-1.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-10-06T13:22:25.736Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-06T03:53:26.068Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/33097936/pexels-photo-33097936.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18721431/pexels-photo-18721431.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1588849/pexels-photo-1588849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16768660/pexels-photo-16768660.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37448897/pexels-photo-37448897.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/10/17/135371-761601362_large.mp4",
+    "videoAttribution": null,
+    "topic": "Nami Island and Petite France day trip",
+    "qualityGate": {
+      "pass": true,
+      "reason": "Relevant, factually accurate, and useful despite a slightly awkward phrase",
+      "model": "groq",
+      "checkedAt": "2026-10-06T03:52:40.944Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-nami-island-and-petite-france-day-trip.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "b9a5ea88-c152-4fd8-b684-6db1d559c23c",
+    "text": "Thinking you can zip from Nami Island to Petite France in one go? It actually takes 1‑1.5 hours each way with no direct transit.\n1️⃣ Most join a combined tour because the solo route needs a subway to Gapyeong then a bus to Petite France.\n2️⃣ From central Seoul it’s ~1 hour to Nami, then another 1‑1.5 hours to Petite France.\n3️⃣ Autumn (leaf season) and spring are busiest; weekdays are noticeably quieter.\n4️⃣ DIY lets you linger, but add extra buffer for transfers.\n✔️ Check weekday schedules, pack a light snack, and set alerts for crowd forecasts. 🌿 Which season would you pick for a calmer island‑village combo?\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-nami-island-and-petite-france-day-trip.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791258629998-1.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791258629998-1.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-10-06T13:26:11.696Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-06T03:53:26.090Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/33097936/pexels-photo-33097936.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18721431/pexels-photo-18721431.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1588849/pexels-photo-1588849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16768660/pexels-photo-16768660.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37448897/pexels-photo-37448897.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/10/17/135371-761601362_large.mp4",
+    "videoAttribution": null,
+    "topic": "Nami Island and Petite France day trip",
+    "qualityGate": {
+      "pass": true,
+      "reason": "Relevant, factually accurate, and useful despite a slightly awkward phrase",
+      "model": "groq",
+      "checkedAt": "2026-10-06T03:52:40.944Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-nami-island-and-petite-france-day-trip.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "22464511-ad61-4464-bd83-c2ca76c089c5",
+    "text": "Think you can swing a quick Nami‑to‑Petite France hop?\nEach leg is 1‑1.5 hours from Seoul, so it’s a full‑day adventure, not a side‑trip.\nSave this if you’re planning a DIY day trip!\n\n📖 Open the Land in Korea link in our profile and search “Nami Island and Petite France day trip”.\n\n🎬 Video source: Pixabay\n\n#KoreaTravel #SeoulTrip #NamiIsland #PetiteFrance #TravelTips\n\n🎵 🎵 Track: Tryad - Struttin'\nMusic provided by Jamendo (CC BY-SA).",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1791258792791-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-06T13:32:33.314Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-06T03:53:26.113Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/33097936/pexels-photo-33097936.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18721431/pexels-photo-18721431.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1588849/pexels-photo-1588849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16768660/pexels-photo-16768660.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37448897/pexels-photo-37448897.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/10/17/135371-761601362_large.mp4",
+    "videoAttribution": "Pixabay",
+    "topic": "Nami Island and Petite France day trip",
+    "qualityGate": {
+      "pass": true,
+      "reason": "Relevant, factually accurate, and useful despite a slightly awkward phrase",
+      "model": "groq",
+      "checkedAt": "2026-10-06T03:52:40.944Z"
+    },
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "b5dc4257-965c-4695-b459-ded944b3ceac",
+    "text": "Korea DIY Day Trip: Nami Island & Petite France – Save time, avoid crowds\n1. Travel time: ~1 hour from Seoul to Nami, then 1‑1.5 hours to Petite France (no direct transit).\n2. Best seasons: autumn foliage and spring blossoms, but weekdays are far less crowded.\n3. Tip: Book a combined tour only if you want hassle‑free transfers; solo gives flexibility.\nRead the full guide on our blog: https://landinkorea.com/nami-petite\nClick to learn more and plan your perfect day!",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791258629998-1.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791258629998-1.jpg"
+    ],
+    "platforms": [
+      "pinterest"
+    ],
+    "scheduledAt": "2026-10-06T16:23:51.582Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-06T03:53:26.136Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/33097936/pexels-photo-33097936.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18721431/pexels-photo-18721431.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1588849/pexels-photo-1588849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16768660/pexels-photo-16768660.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37448897/pexels-photo-37448897.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/10/17/135371-761601362_large.mp4",
+    "videoAttribution": null,
+    "topic": "Nami Island and Petite France day trip",
+    "qualityGate": {
+      "pass": true,
+      "reason": "Relevant, factually accurate, and useful despite a slightly awkward phrase",
+      "model": "groq",
+      "checkedAt": "2026-10-06T03:52:40.944Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-nami-island-and-petite-france-day-trip.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "97c5d552-7ac5-41a8-bd01-f7a08388a93b",
+    "text": "Most first‑timers assume a single ride will get you from Nami Island straight to Petite France.\n\nIn fact each segment is a 1‑1.5 hour trek from central Seoul, with no direct connection.\n\nJoining a combined tour skips the transfer headache, but you surrender control over stop‑overs.\n\nIf you go solo, pick a weekday in spring or autumn to dodge the heavy crowds on the main paths.\n\nHave you ever tried piecing the two spots together on your own? #KoreaTravel #SeoulTrip",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791258629998-1.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791258629998-1.jpg"
+    ],
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-10-06T13:50:19.229Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-06T03:53:26.158Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/33097936/pexels-photo-33097936.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18721431/pexels-photo-18721431.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1588849/pexels-photo-1588849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16768660/pexels-photo-16768660.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37448897/pexels-photo-37448897.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/10/17/135371-761601362_large.mp4",
+    "videoAttribution": null,
+    "topic": "Nami Island and Petite France day trip",
+    "qualityGate": {
+      "pass": true,
+      "reason": "Relevant, factually accurate, and useful despite a slightly awkward phrase",
+      "model": "groq",
+      "checkedAt": "2026-10-06T03:52:40.944Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-nami-island-and-petite-france-day-trip.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "247ee5bc-c539-4c22-a843-13ed99c6e2fc",
+    "text": "Most first‑timers assume a single ride will get you from Nami Island straight to Petite France.\n\nActually, each leg is a 1‑1.5 hour journey from central Seoul, and there’s no direct line linking the two.\n\nA combined tour removes the transfer hassle, yet it locks you into a set schedule and limits lingering.\n\nTraveling independently? Aim for a weekday in spring or autumn to avoid the peak crowds along the main paths.\n\nEver managed the two‑stop itinerary yourself? What tips would you add? #KoreaTravel #TravelTips #Seoul",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791258629998-1.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791258629998-1.jpg"
+    ],
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-10-06T14:22:55.215Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-06T03:53:26.181Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/33097936/pexels-photo-33097936.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18721431/pexels-photo-18721431.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1588849/pexels-photo-1588849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16768660/pexels-photo-16768660.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37448897/pexels-photo-37448897.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/10/17/135371-761601362_large.mp4",
+    "videoAttribution": null,
+    "topic": "Nami Island and Petite France day trip",
+    "qualityGate": {
+      "pass": true,
+      "reason": "Relevant, factually accurate, and useful despite a slightly awkward phrase",
+      "model": "groq",
+      "checkedAt": "2026-10-06T03:52:40.944Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-nami-island-and-petite-france-day-trip.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "c6779b46-fbdb-43f2-b056-89dc48886477",
+    "text": "Most visitors think Nami Island and Petite France are a quick add‑on, but each leg actually takes 1‑1.5 hours from Seoul, making it a full‑day trip.\n1. The combined tour saves you the complex transfers: subway to Gapyeong, then a bus to Petite France.\n2. Autumn (leaf season) and spring draw the biggest crowds; weekdays are noticeably quieter.\n3. If you go solo, add extra buffer time for each leg and plan for lunch on the island.\nPlan ahead and enjoy both spots without the rush.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791258629998-1.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791258629998-1.jpg"
+    ],
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-10-06T16:21:23.622Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-06T03:53:26.218Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/33097936/pexels-photo-33097936.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18721431/pexels-photo-18721431.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1588849/pexels-photo-1588849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16768660/pexels-photo-16768660.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37448897/pexels-photo-37448897.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/10/17/135371-761601362_large.mp4",
+    "videoAttribution": null,
+    "topic": "Nami Island and Petite France day trip",
+    "qualityGate": {
+      "pass": true,
+      "reason": "Relevant, factually accurate, and useful despite a slightly awkward phrase",
+      "model": "groq",
+      "checkedAt": "2026-10-06T03:52:40.944Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-nami-island-and-petite-france-day-trip.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "2ba2c240-eba8-440c-a9ee-ced2b3517fda",
+    "text": "This is the part that separates a smooth trip from a stressful one.\n\nHwaseong Fortress isn't a ruin you view from outside — it's a UNESCO World Heritage fortress wall you actually walk along, built in 1796 and still encircling much of old Suwon city.\n\nThe full wall walk covers several kilometers with gates, command posts, and watchtowers along the way, and most visitors underestimate how long the full loop takes.\n\nHwaseong Haenggung, a temporary palace within the fortress grounds, hosts historical reenactment ceremonies on select days worth checking before you go.\n\nWhat surprised you the most when you landed?\n\n📖 Open the Land in Korea link in our profile and search “Suwon Hwaseong Fortress”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791258810583-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791258810583-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-10-07T00:23:10.275Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-06T03:55:45.381Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/34466988/pexels-photo-34466988.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35551375/pexels-photo-35551375.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35551376/pexels-photo-35551376.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31971637/pexels-photo-31971637.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31955751/pexels-photo-31955751.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/03/22/111645-691223149_large.mp4",
+    "videoAttribution": null,
+    "topic": "Suwon Hwaseong Fortress",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연하며 사실 내용도 정확해 여행 정보로 충분히 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-10-06T03:55:01.096Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-suwon-hwaseong-fortress.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "fedbf095-13fd-4edd-9841-30568bf511a5",
+    "text": "This is the part that separates a smooth trip from a stressful one. Hwaseong Fortress isn't a ruin you view from outside — it's a UNESCO World Heritage fortress wall you actually walk along, built in 1796 and still encircling much of old Suwon city.\n\n1. The full wall walk covers several kilometers with gates, command posts, and watchtowers along the way, and most visitors underestimate how long the full loop takes.\n2. Hwaseong Haenggung, a temporary palace within the fortress grounds, hosts historical reenactment ceremonies on select days worth checking before you go.\n\nWhich one surprised you the most? Drop a comment.\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-suwon-hwaseong-fortress.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791258810583-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791258810583-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-10-07T00:27:33.269Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-06T03:55:45.413Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/34466988/pexels-photo-34466988.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35551375/pexels-photo-35551375.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35551376/pexels-photo-35551376.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31971637/pexels-photo-31971637.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31955751/pexels-photo-31955751.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/03/22/111645-691223149_large.mp4",
+    "videoAttribution": null,
+    "topic": "Suwon Hwaseong Fortress",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연하며 사실 내용도 정확해 여행 정보로 충분히 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-10-06T03:55:01.096Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-suwon-hwaseong-fortress.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "aec5049e-763e-4d63-8ca3-b607f0e2c4cd",
+    "text": "This is the part that separates a smooth trip from a stressful one.\n\nThe full wall walk covers several kilometers with gates, command posts, and watchtowers along the way, and most visitors underestimate how long the full loop takes.\n\nWhich one did you NOT know? Drop a 🇰🇷\n\n📖 Open the Land in Korea link in our profile and search “Suwon Hwaseong Fortress”.\n\n🎬 Video source: Pixabay\n\n#KoreaTravel #SeoulTrip #KoreaTips #TravelKorea #VisitSeoul\n\n🎵 🎵 Track: Josh Woodward - Symmetry and the Pocket of Angels\nMusic provided by Jamendo (CC BY).",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1791258932097-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-07T00:38:19.169Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-06T03:55:45.445Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/34466988/pexels-photo-34466988.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35551375/pexels-photo-35551375.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35551376/pexels-photo-35551376.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31971637/pexels-photo-31971637.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31955751/pexels-photo-31955751.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/03/22/111645-691223149_large.mp4",
+    "videoAttribution": "Pixabay",
+    "topic": "Suwon Hwaseong Fortress",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연하며 사실 내용도 정확해 여행 정보로 충분히 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-10-06T03:55:01.096Z"
+    },
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "c21d16bb-82ea-43c8-826a-1f303f9f1eae",
+    "text": "Hwaseong Fortress isn't a ruin you view from outside — it's a UNESCO World Heritage fortress wall you actually walk along, built in 1796 and still encircling much of old Suwon city.\n\n1. The full wall walk covers several kilometers with gates, command posts, and watchtowers along the way, and most visitors underestimate how long the full loop takes.\n2. Hwaseong Haenggung, a temporary palace within the fortress grounds, hosts historical reenactment ceremonies on select days worth checking before you go.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791258810583-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791258810583-0.jpg"
+    ],
+    "platforms": [
+      "pinterest"
+    ],
+    "scheduledAt": "2026-10-07T03:27:19.236Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-06T03:55:45.467Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/34466988/pexels-photo-34466988.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35551375/pexels-photo-35551375.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35551376/pexels-photo-35551376.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31971637/pexels-photo-31971637.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31955751/pexels-photo-31955751.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/03/22/111645-691223149_large.mp4",
+    "videoAttribution": null,
+    "topic": "Suwon Hwaseong Fortress",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연하며 사실 내용도 정확해 여행 정보로 충분히 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-10-06T03:55:01.096Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-suwon-hwaseong-fortress.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "997f06cd-6384-42b2-aabd-cc12bfb8b750",
+    "text": "This is the part that separates a smooth trip from a stressful one.\n\nHwaseong Fortress isn't a ruin you view from outside — it's a UNESCO World Heritage fortress wall you actually walk along, built in 1796 and still encircling much of old Suwon city.\n\nThe full wall walk covers several kilometers with gates, command posts, and watchtowers along the way, and most visitors underestimate how long the full loop takes.\n\nHwaseong Haenggung, a temporary palace within the fortress grounds, hosts historical reenactment ceremonies on select days worth checking before you go.\n\nWhat surprised you the most when you landed?",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791258810583-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791258810583-0.jpg"
+    ],
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-10-07T00:56:12.683Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-06T03:55:45.487Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/34466988/pexels-photo-34466988.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35551375/pexels-photo-35551375.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35551376/pexels-photo-35551376.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31971637/pexels-photo-31971637.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31955751/pexels-photo-31955751.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/03/22/111645-691223149_large.mp4",
+    "videoAttribution": null,
+    "topic": "Suwon Hwaseong Fortress",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연하며 사실 내용도 정확해 여행 정보로 충분히 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-10-06T03:55:01.096Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-suwon-hwaseong-fortress.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "ee66ecd7-17a8-485b-b4d7-fb3c931d1715",
+    "text": "This is the part that separates a smooth trip from a stressful one.\n\nHwaseong Fortress isn't a ruin you view from outside — it's a UNESCO World Heritage fortress wall you actually walk along, built in 1796 and still encircling much of old Suwon city.\n\nThe full wall walk covers several kilometers with gates, command posts, and watchtowers along the way, and most visitors underestimate how long the full loop takes.\n\nHwaseong Haenggung, a temporary palace within the fortress grounds, hosts historical reenactment ceremonies on select days worth checking before you go.\n\nWhat surprised you the most when you landed?",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791258810583-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791258810583-0.jpg"
+    ],
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-10-07T01:27:03.273Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-06T03:55:45.513Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/34466988/pexels-photo-34466988.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35551375/pexels-photo-35551375.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35551376/pexels-photo-35551376.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31971637/pexels-photo-31971637.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31955751/pexels-photo-31955751.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/03/22/111645-691223149_large.mp4",
+    "videoAttribution": null,
+    "topic": "Suwon Hwaseong Fortress",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연하며 사실 내용도 정확해 여행 정보로 충분히 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-10-06T03:55:01.096Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-suwon-hwaseong-fortress.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "e0e066d0-8d43-4e52-b369-1131c29a169f",
+    "text": "Hwaseong Fortress isn't a ruin you view from outside — it's a UNESCO World Heritage fortress wall you actually walk along, built in 1796 and still encircling much of old Suwon city.\n\n1. The full wall walk covers several kilometers with gates, command posts, and watchtowers along the way, and most visitors underestimate how long the full loop takes.\n2. Hwaseong Haenggung, a temporary palace within the fortress grounds, hosts historical reenactment ceremonies on select days worth checking before you go.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791258810583-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791258810583-0.jpg"
+    ],
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-10-07T03:28:10.243Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-06T03:55:45.554Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/34466988/pexels-photo-34466988.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35551375/pexels-photo-35551375.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35551376/pexels-photo-35551376.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31971637/pexels-photo-31971637.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31955751/pexels-photo-31955751.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/03/22/111645-691223149_large.mp4",
+    "videoAttribution": null,
+    "topic": "Suwon Hwaseong Fortress",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연하며 사실 내용도 정확해 여행 정보로 충분히 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-10-06T03:55:01.096Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-suwon-hwaseong-fortress.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "lastIndex": 24,
+  "lastIndex": 27,
   "history": [
     {
       "index": 7,
@@ -640,6 +640,21 @@
       "index": 24,
       "topic": "Everland vs. Lotte World theme parks",
       "at": "2026-10-04T00:53:31.053Z"
+    },
+    {
+      "index": 25,
+      "topic": "Hongdae nightlife and youth culture district",
+      "at": "2026-10-06T03:46:34.613Z"
+    },
+    {
+      "index": 26,
+      "topic": "Nami Island and Petite France day trip",
+      "at": "2026-10-06T03:50:23.669Z"
+    },
+    {
+      "index": 27,
+      "topic": "Suwon Hwaseong Fortress",
+      "at": "2026-10-06T03:53:26.242Z"
     }
   ],
   "recentImageUrls": [
@@ -1172,7 +1187,22 @@
     "https://images.pexels.com/photos/38249753/pexels-photo-38249753.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://images.pexels.com/photos/22240958/pexels-photo-22240958.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://images.pexels.com/photos/30867332/pexels-photo-30867332.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://images.pexels.com/photos/38249706/pexels-photo-38249706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "https://images.pexels.com/photos/38249706/pexels-photo-38249706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/36812076/pexels-photo-36812076.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/40061589/pexels-photo-40061589.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/40037254/pexels-photo-40037254.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/40036588/pexels-photo-40036588.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/31768177/pexels-photo-31768177.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/33097936/pexels-photo-33097936.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/18721431/pexels-photo-18721431.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/1588849/pexels-photo-1588849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/16768660/pexels-photo-16768660.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/37448897/pexels-photo-37448897.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/34466988/pexels-photo-34466988.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/35551375/pexels-photo-35551375.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/35551376/pexels-photo-35551376.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/31971637/pexels-photo-31971637.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/31955751/pexels-photo-31955751.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
   ],
   "recentVideoUrls": [
     "https://videos.pexels.com/video-files/19577787/19577787-uhd_2160_3840_30fps.mp4",
@@ -1280,7 +1310,10 @@
     "https://cdn.pixabay.com/video/2022/09/24/132353-753435442_large.mp4",
     "https://cdn.pixabay.com/video/2019/05/22/23863-337770340_large.mp4",
     "https://cdn.pixabay.com/video/2022/10/19/135669-764361560_large.mp4",
-    "https://cdn.pixabay.com/video/2024/06/24/218014_large.mp4"
+    "https://cdn.pixabay.com/video/2024/06/24/218014_large.mp4",
+    "https://cdn.pixabay.com/video/2019/03/13/21985-323496013_large.mp4",
+    "https://cdn.pixabay.com/video/2022/10/17/135371-761601362_large.mp4",
+    "https://cdn.pixabay.com/video/2022/03/22/111645-691223149_large.mp4"
   ],
   "recentMusicUrls": [
     "https://prod-1.storage.jamendo.com/?trackid=20237&format=mp32",
@@ -1333,6 +1366,9 @@
     "https://prod-1.storage.jamendo.com/download/track/1204669/mp32/",
     "https://prod-1.storage.jamendo.com/download/track/938327/mp32/",
     "https://prod-1.storage.jamendo.com/download/track/1406175/mp32/",
-    "https://prod-1.storage.jamendo.com/download/track/355486/mp32/"
+    "https://prod-1.storage.jamendo.com/download/track/355486/mp32/",
+    "https://prod-1.storage.jamendo.com/download/track/1215808/mp32/",
+    "https://prod-1.storage.jamendo.com/download/track/26736/mp32/",
+    "https://prod-1.storage.jamendo.com/download/track/78730/mp32/"
   ]
 }
