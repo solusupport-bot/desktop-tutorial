@@ -16206,8 +16206,12 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-26T04:36:04.637Z",
-    "status": "claimed",
-    "results": {},
+    "status": "partial",
+    "results": {
+      "pinterest": {
+        "error": "watermarked media unavailable"
+      }
+    },
     "createdAt": "2026-09-25T05:45:06.426Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -16229,7 +16233,8 @@
       "checkedAt": "2026-09-25T05:44:03.588Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-namdaemun-market.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-10-06T03:55:58.416Z"
   },
   {
     "id": "5f07e101-f6be-421d-89a3-9fdf83f67d40",
@@ -18475,8 +18480,12 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-30T16:53:57.868Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "18355879249168938"
+      }
+    },
     "createdAt": "2026-09-30T02:39:04.983Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -18498,7 +18507,8 @@
       "model": "groq",
       "checkedAt": "2026-09-30T02:37:29.747Z"
     },
-    "verifyStatus": "failed"
+    "verifyStatus": "failed",
+    "processedAt": "2026-10-06T03:56:30.564Z"
   },
   {
     "id": "67e7f6a1-5274-4ab0-90b0-6b0e9585e4d5",
@@ -18772,8 +18782,13 @@
       "mastodon"
     ],
     "scheduledAt": "2026-10-01T02:52:59.491Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "mastodon": {
+        "id": "117391949207512937",
+        "url": "https://mastodon.social/@landinkorea/117391949207512937"
+      }
+    },
     "createdAt": "2026-09-30T02:40:38.541Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -18796,7 +18811,8 @@
       "checkedAt": "2026-09-30T02:39:56.557Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-t-money-transit-card.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-10-06T03:56:31.530Z"
   },
   {
     "id": "72368645-abaf-4371-9879-805fad329821",
@@ -19068,8 +19084,13 @@
       "bluesky"
     ],
     "scheduledAt": "2026-10-02T06:55:10.370Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mx6jy3i2db2e",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3mx6jy3i2db2e"
+      }
+    },
     "createdAt": "2026-10-02T06:50:04.980Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -19092,7 +19113,8 @@
       "checkedAt": "2026-10-02T06:49:26.945Z"
     },
     "blogUrl": "https://landinkorea.com/index.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "failed"
+    "verifyStatus": "failed",
+    "processedAt": "2026-10-06T03:56:37.365Z"
   },
   {
     "id": "ccf0a855-ecb0-465d-b808-c328ed32c36f",
