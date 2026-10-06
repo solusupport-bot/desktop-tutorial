@@ -15753,7 +15753,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-09-26T05:59:02.099Z",
-    "status": "partial",
+    "status": "claimed",
     "results": {
       "pinterest": {
         "error": "watermarked media unavailable"
@@ -15781,7 +15781,8 @@
     },
     "blogUrl": "https://landinkorea.com/index.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
     "verifyStatus": "passed",
-    "processedAt": "2026-10-06T16:24:27.082Z"
+    "processedAt": "2026-10-06T16:24:27.082Z",
+    "retryCount": 1
   },
   {
     "id": "6a0f1d4d-9da4-4984-ac4d-16c9e8c8ad46",
@@ -19427,7 +19428,7 @@
       "mastodon"
     ],
     "scheduledAt": "2026-10-04T04:15:19.575Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-10-03T07:21:23.502Z",
     "approved": true,
@@ -20595,7 +20596,7 @@
       "threads"
     ],
     "scheduledAt": "2026-10-05T02:07:13.719Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-10-04T00:58:52.044Z",
     "approved": true,
@@ -20744,7 +20745,7 @@
       "bluesky"
     ],
     "scheduledAt": "2026-10-05T02:37:00.477Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-10-04T00:58:52.245Z",
     "approved": true,
