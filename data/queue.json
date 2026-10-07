@@ -19317,7 +19317,7 @@
       "instagram"
     ],
     "scheduledAt": "2026-10-04T03:26:51.248Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-10-03T07:21:23.422Z",
     "approved": true,
@@ -21411,7 +21411,7 @@
       "mastodon"
     ],
     "scheduledAt": "2026-10-06T14:22:55.215Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-10-06T03:53:26.181Z",
     "approved": true,
@@ -21636,7 +21636,7 @@
       "bluesky"
     ],
     "scheduledAt": "2026-10-07T00:56:12.683Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-10-06T03:55:45.487Z",
     "approved": true,
@@ -21710,7 +21710,7 @@
       "tumblr"
     ],
     "scheduledAt": "2026-10-07T03:28:10.243Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-10-06T03:55:45.554Z",
     "approved": true,
