@@ -19064,7 +19064,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-10-02T06:55:10.370Z",
-    "status": "claimed",
+    "status": "partial",
     "results": {
       "pinterest": {
         "error": "publish failed"
@@ -19093,7 +19093,7 @@
     },
     "blogUrl": "https://landinkorea.com/index.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
     "verifyStatus": "failed",
-    "processedAt": "2026-10-07T06:24:20.505Z",
+    "processedAt": "2026-10-07T12:24:34.366Z",
     "retryCount": 2
   },
   {
@@ -20703,8 +20703,12 @@
       "instagram"
     ],
     "scheduledAt": "2026-10-05T02:14:18.121Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "17922383904224872"
+      }
+    },
     "createdAt": "2026-10-04T00:58:52.140Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -20727,7 +20731,8 @@
       "confidence": 0.7245,
       "checkedAt": "2026-10-04T00:57:29.817Z"
     },
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-10-07T12:25:51.466Z"
   },
   {
     "id": "545e9d81-5a08-4828-94ff-5a563725f6bc",
@@ -21976,8 +21981,13 @@
       "mastodon"
     ],
     "scheduledAt": "2026-10-07T03:01:34.571Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "mastodon": {
+        "id": "117399614704968178",
+        "url": "https://mastodon.social/@landinkorea/117399614704968178"
+      }
+    },
     "createdAt": "2026-10-07T01:43:59.264Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -22000,7 +22010,8 @@
       "checkedAt": "2026-10-07T01:43:17.381Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-domestic-flights-vs-ktx-for-jeju-and-long-distance-trips.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-10-07T12:25:58.639Z"
   },
   {
     "id": "f4ca935b-4af6-43e4-b189-255652f92340",
