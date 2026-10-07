@@ -21245,8 +21245,12 @@
       "threads"
     ],
     "scheduledAt": "2026-10-06T13:22:25.736Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18111202061129975"
+      }
+    },
     "createdAt": "2026-10-06T03:53:26.068Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -21269,7 +21273,8 @@
       "checkedAt": "2026-10-06T03:52:40.944Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-nami-island-and-petite-france-day-trip.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-10-07T13:25:31.656Z"
   },
   {
     "id": "b9a5ea88-c152-4fd8-b684-6db1d559c23c",
