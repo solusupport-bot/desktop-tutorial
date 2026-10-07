@@ -21535,7 +21535,7 @@
       "threads"
     ],
     "scheduledAt": "2026-10-07T00:23:10.275Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-10-06T03:55:45.381Z",
     "approved": true,
@@ -22271,7 +22271,7 @@
       "mastodon"
     ],
     "scheduledAt": "2026-10-07T16:25:50.562Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-10-07T01:46:54.150Z",
     "approved": true,
