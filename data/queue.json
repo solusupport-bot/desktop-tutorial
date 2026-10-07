@@ -21735,5 +21735,773 @@
     },
     "blogUrl": "https://landinkorea.com/posts/korea-suwon-hwaseong-fortress.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
     "verifyStatus": "passed"
+  },
+  {
+    "id": "634eb25d-99bb-4aa8-bd56-7c67d499de35",
+    "text": "First‑time visitors think the fastest way to Jeju is always a flight.\n\nGimpo’s domestic terminal skips passport control, letting you board without the international‑terminal delays.\n\nBut KTX from Seoul Station to Busan, then a short ferry, can match flight time once you add airport transfers.\n\nDuring Chuseok or Lunar New Year, both flights and KTX seats fill up weeks early—book now.\n\nWhich route saved you time on your first Korean trip? Open the Land in Korea link in our profile for the full guide.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791337230097-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791337230097-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-10-07T02:00:51.531Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-07T01:43:59.100Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31783010/pexels-photo-31783010.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31680681/pexels-photo-31680681.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18705526/pexels-photo-18705526.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31680678/pexels-photo-31680678.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18705535/pexels-photo-18705535.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2018/05/02/15955-268112371_large.mp4",
+    "videoAttribution": null,
+    "topic": "Domestic flights vs. KTX for Jeju and long-distance trips",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제에 적합하고 문장이 자연하며 사실도 과장되지 않아 여행 정보로 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-10-07T01:43:17.381Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-domestic-flights-vs-ktx-for-jeju-and-long-distance-trips.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "d7a167b6-9f8d-4f70-a42e-e94fc47d5340",
+    "text": "Think a flight to Jeju always beats the train? It doesn’t – Gimpo’s domestic terminal lets you skip passport control. 🚆✈️\n1️⃣ Compare door‑to‑door time: include travel to Gimpo or Seoul Station.\n2️⃣ Domestic terminals have lighter security, so you’re in the gate faster.\n3️⃣ Peak holidays (Chuseok, Lunar New Year) sell out quickly—reserve early.\n4️⃣ KTX to Busan plus ferry can equal flight time for mainland trips.\n5️⃣ Keep a flexible day buffer for possible delays.\n✅ Check terminal type, total travel time, and book ahead.\nWhat’s your go‑to tip for beating the rush?\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-domestic-flights-vs-ktx-for-jeju-and-long-distance-trips.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791337230097-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791337230097-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-10-07T02:09:16.273Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-07T01:43:59.134Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31783010/pexels-photo-31783010.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31680681/pexels-photo-31680681.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18705526/pexels-photo-18705526.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31680678/pexels-photo-31680678.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18705535/pexels-photo-18705535.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2018/05/02/15955-268112371_large.mp4",
+    "videoAttribution": null,
+    "topic": "Domestic flights vs. KTX for Jeju and long-distance trips",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제에 적합하고 문장이 자연하며 사실도 과장되지 않아 여행 정보로 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-10-07T01:43:17.381Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-domestic-flights-vs-ktx-for-jeju-and-long-distance-trips.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "343b873d-48ab-4359-8c20-73a0842e04bf",
+    "text": "Ever booked a Jeju flight and missed the faster route?\nGimpo’s domestic terminal skips passport control, cutting airport hassle, and a KTX‑to‑ferry combo can match flight time.\nSave this guide for your next trip!\n\n📖 Open the Land in Korea link in our profile and search “Domestic flights vs. KTX for Jeju and long-distance trips”.\n\n🎬 Video source: Pixabay\n\n#KoreaTravel #JejuTrip #KTX #TravelTips #SouthKorea\n\n🎵 🎵 Track: Tryad - Peace On Earth (Same Place)\nMusic provided by Jamendo (CC BY-SA).",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1791337419713-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-07T02:13:42.626Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-07T01:43:59.166Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31783010/pexels-photo-31783010.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31680681/pexels-photo-31680681.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18705526/pexels-photo-18705526.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31680678/pexels-photo-31680678.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18705535/pexels-photo-18705535.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2018/05/02/15955-268112371_large.mp4",
+    "videoAttribution": "Pixabay",
+    "topic": "Domestic flights vs. KTX for Jeju and long-distance trips",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제에 적합하고 문장이 자연하며 사실도 과장되지 않아 여행 정보로 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-10-07T01:43:17.381Z"
+    },
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "6c6b37be-5140-4b4d-974f-0d7e68aecfc9",
+    "text": "Korea travel: Fastest way to Jeju without missing a beat\n\n1. Use Gimpo’s domestic terminal – no passport control, quicker security.\n2. Compare door‑to‑door time: add travel to Gimpo or Seoul Station for KTX.\n3. Book flights and KTX seats early for Chuseok or Lunar New Year to avoid sell‑outs.\n\nRead the full guide on our blog → https://landinkorea.com/jeju‑travel",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791337230097-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791337230097-0.jpg"
+    ],
+    "platforms": [
+      "pinterest"
+    ],
+    "scheduledAt": "2026-10-07T05:01:47.089Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-07T01:43:59.201Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31783010/pexels-photo-31783010.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31680681/pexels-photo-31680681.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18705526/pexels-photo-18705526.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31680678/pexels-photo-31680678.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18705535/pexels-photo-18705535.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2018/05/02/15955-268112371_large.mp4",
+    "videoAttribution": null,
+    "topic": "Domestic flights vs. KTX for Jeju and long-distance trips",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제에 적합하고 문장이 자연하며 사실도 과장되지 않아 여행 정보로 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-10-07T01:43:17.381Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-domestic-flights-vs-ktx-for-jeju-and-long-distance-trips.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "fdc13c80-fa3b-468b-8803-2b51cbff308f",
+    "text": "Most first‑timers assume a flight to Jeju is always quicker.\n\nGimpo’s domestic terminal skips passport control, so you avoid the international‑terminal bottleneck.\n\nFor mainland trips, a KTX ride from Seoul Station to Busan plus a short ferry can equal the flight’s total travel time once you factor in airport transfers.\n\nDuring Chuseok and Lunar New Year, both flights and KTX seats fill up weeks in advance—don’t wait to book.\n\nWhat’s your preferred door‑to‑door strategy for Korean travel? #TravelBlog #KoreaTravel",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791337230097-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791337230097-0.jpg"
+    ],
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-10-07T02:33:55.195Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-07T01:43:59.231Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31783010/pexels-photo-31783010.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31680681/pexels-photo-31680681.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18705526/pexels-photo-18705526.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31680678/pexels-photo-31680678.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18705535/pexels-photo-18705535.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2018/05/02/15955-268112371_large.mp4",
+    "videoAttribution": null,
+    "topic": "Domestic flights vs. KTX for Jeju and long-distance trips",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제에 적합하고 문장이 자연하며 사실도 과장되지 않아 여행 정보로 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-10-07T01:43:17.381Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-domestic-flights-vs-ktx-for-jeju-and-long-distance-trips.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "725501e7-40f8-4035-b210-c1078678f629",
+    "text": "Many newcomers think a Jeju flight is always the fastest option.\n\nGimpo’s domestic terminal lets you bypass passport control, shaving off valuable minutes before boarding.\n\nIf you’re heading to the mainland, the KTX from Seoul Station to Busan followed by a short ferry can match the overall travel time of a flight once you add the airport‑to‑station commute.\n\nPeak holidays like Chuseok and Lunar New Year sell out both flights and KTX seats weeks early, so lock in reservations as soon as possible.\n\nHow do you compare door‑to‑door travel times when planning Korea trips? #KoreaTravel #TravelTips #Seoul #FirstTimeInKorea",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791337230097-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791337230097-0.jpg"
+    ],
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-10-07T03:01:34.571Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-07T01:43:59.264Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31783010/pexels-photo-31783010.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31680681/pexels-photo-31680681.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18705526/pexels-photo-18705526.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31680678/pexels-photo-31680678.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18705535/pexels-photo-18705535.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2018/05/02/15955-268112371_large.mp4",
+    "videoAttribution": null,
+    "topic": "Domestic flights vs. KTX for Jeju and long-distance trips",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제에 적합하고 문장이 자연하며 사실도 과장되지 않아 여행 정보로 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-10-07T01:43:17.381Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-domestic-flights-vs-ktx-for-jeju-and-long-distance-trips.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "f4ca935b-4af6-43e4-b189-255652f92340",
+    "text": "Most first‑timers think flying to Jeju is always fastest, but Gimpo’s domestic terminal lets you skip passport control and shave off airport time.\n1. Compare door‑to‑door travel: include the ride to Gimpo or Seoul Station for KTX.\n2. During Chuseok and Lunar New Year, both flights and KTX seats sell out weeks early—book now.\n3. For mainland trips, KTX to Busan plus a short ferry can equal flight time.\nPlan ahead and travel smarter on your Korean adventure.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791337230097-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791337230097-0.jpg"
+    ],
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-10-07T04:58:39.412Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-07T01:43:59.291Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31783010/pexels-photo-31783010.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31680681/pexels-photo-31680681.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18705526/pexels-photo-18705526.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31680678/pexels-photo-31680678.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18705535/pexels-photo-18705535.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2018/05/02/15955-268112371_large.mp4",
+    "videoAttribution": null,
+    "topic": "Domestic flights vs. KTX for Jeju and long-distance trips",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제에 적합하고 문장이 자연하며 사실도 과장되지 않아 여행 정보로 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-10-07T01:43:17.381Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-domestic-flights-vs-ktx-for-jeju-and-long-distance-trips.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "0bc9c5e3-f1f2-440a-87b4-2c2c5eada911",
+    "text": "First‑time visitors think any sightseeing pass saves money, but most end up overpaying.\n\nYou need to visit at least 4 paid attractions in a day for a 24‑hour pass to break even.\n\nMost passes activate on the first scan, so start at a museum early to maximize the 24‑hour window.\n\nIf your day is light—just Gyeongbokgung and a market—you’ll spend more buying tickets individually.\n\nWhat’s the most attractions you plan for a day? Check the full guide via the Land in Korea link in our profile.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791337443653-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791337443653-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-10-07T15:26:01.491Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-07T01:46:54.009Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/11870589/pexels-photo-11870589.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18223649/pexels-photo-18223649.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/23369193/pexels-photo-23369193.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/26173418/pexels-photo-26173418.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19271526/pexels-photo-19271526.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2024/06/24/218015_large.mp4",
+    "videoAttribution": null,
+    "topic": "Seoul attraction pass comparison",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련 있고 문장도 대체로 자연이며 사실 주장에 큰 문제가 없어 발행해도 좋습니다.",
+      "model": "groq",
+      "checkedAt": "2026-10-07T01:45:51.029Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-seoul-attraction-pass-comparison.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "0cb16f35-6389-47e6-a209-db6d59fa0b6c",
+    "text": "Think a Seoul attraction pass always saves money? It only starts paying off after you hit 4 paid sites in a day.\n1️⃣ 24‑h, 48‑h, 72‑h passes activate on first scan, not purchase.\n2️⃣ Light day (1‑2 sites) = cheaper to buy tickets.\n3️⃣ Start early—tap at a museum opening.\n4️⃣ Some bundles include subway, but the math stays the same.\n✅ Count your must‑see sites before buying a pass.\nWhich attractions are on your must‑see list? 🌟\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-seoul-attraction-pass-comparison.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791337443653-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791337443653-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-10-07T15:30:03.425Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-07T01:46:54.043Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/11870589/pexels-photo-11870589.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18223649/pexels-photo-18223649.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/23369193/pexels-photo-23369193.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/26173418/pexels-photo-26173418.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19271526/pexels-photo-19271526.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2024/06/24/218015_large.mp4",
+    "videoAttribution": null,
+    "topic": "Seoul attraction pass comparison",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련 있고 문장도 대체로 자연이며 사실 주장에 큰 문제가 없어 발행해도 좋습니다.",
+      "model": "groq",
+      "checkedAt": "2026-10-07T01:45:51.029Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-seoul-attraction-pass-comparison.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "d0435d8c-41a5-4815-9e61-a8d7933c8999",
+    "text": "Ever bought a Seoul sightseeing pass and wondered why it felt pricey?\nIt only becomes a deal if you visit at least four paid spots in the same 24‑hour window; otherwise individual tickets win.\nSave this post for your itinerary planning!\n\n📖 Open the Land in Korea link in our profile and search “Seoul attraction pass comparison”.\n\n🎬 Video source: Pixabay\n\n#KoreaTravel #SeoulTrip #TravelTips #VisitSeoul #FirstTimeKorea\n\n🎵 🎵 Track: Radio Star - A Common Tale\nMusic provided by Jamendo (CC BY-SA).",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1791337594473-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-07T15:35:42.181Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-07T01:46:54.079Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/11870589/pexels-photo-11870589.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18223649/pexels-photo-18223649.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/23369193/pexels-photo-23369193.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/26173418/pexels-photo-26173418.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19271526/pexels-photo-19271526.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2024/06/24/218015_large.mp4",
+    "videoAttribution": "Pixabay",
+    "topic": "Seoul attraction pass comparison",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련 있고 문장도 대체로 자연이며 사실 주장에 큰 문제가 없어 발행해도 좋습니다.",
+      "model": "groq",
+      "checkedAt": "2026-10-07T01:45:51.029Z"
+    },
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "52e2914d-0327-4891-bc24-baed8352003a",
+    "text": "Seoul attraction pass: when it pays off & how to use it\n\n1️⃣ Activate on first scan—start early to get the full 24‑hour window.\n2️⃣ Break‑even point: 4+ paid sites per day.\n3️⃣ Light day? Buy tickets individually.\n\nRead the full guide on the blog: https://landinkorea.com/attraction-pass",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791337443653-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791337443653-0.jpg"
+    ],
+    "platforms": [
+      "pinterest"
+    ],
+    "scheduledAt": "2026-10-07T18:26:37.185Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-07T01:46:54.107Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/11870589/pexels-photo-11870589.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18223649/pexels-photo-18223649.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/23369193/pexels-photo-23369193.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/26173418/pexels-photo-26173418.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19271526/pexels-photo-19271526.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2024/06/24/218015_large.mp4",
+    "videoAttribution": null,
+    "topic": "Seoul attraction pass comparison",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련 있고 문장도 대체로 자연이며 사실 주장에 큰 문제가 없어 발행해도 좋습니다.",
+      "model": "groq",
+      "checkedAt": "2026-10-07T01:45:51.029Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-seoul-attraction-pass-comparison.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "0c2da525-7b68-46fa-a717-eac8acfaa96e",
+    "text": "First‑time Seoul visitors often assume any attraction pass is a bargain, but most end up paying more.\n\nThe math only works after you hit at least four paid sites in a 24‑hour period; anything less and tickets are cheaper.\n\nPasses activate on the first barcode scan, so start at an early museum to maximize the full day window.\n\nIf your itinerary is light—just Gyeongbokgung and a market—you’ll waste money on the pass.\n\nHow many attractions do you plan for your first day? #TravelBlog #KoreaTravel",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791337443653-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791337443653-0.jpg"
+    ],
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-10-07T15:55:17.685Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-07T01:46:54.129Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/11870589/pexels-photo-11870589.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18223649/pexels-photo-18223649.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/23369193/pexels-photo-23369193.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/26173418/pexels-photo-26173418.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19271526/pexels-photo-19271526.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2024/06/24/218015_large.mp4",
+    "videoAttribution": null,
+    "topic": "Seoul attraction pass comparison",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련 있고 문장도 대체로 자연이며 사실 주장에 큰 문제가 없어 발행해도 좋습니다.",
+      "model": "groq",
+      "checkedAt": "2026-10-07T01:45:51.029Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-seoul-attraction-pass-comparison.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "556ede9d-ba74-4deb-93bf-6e87390b53a5",
+    "text": "First‑time Seoul visitors often think any attraction pass will save cash, but many end up overpaying.\n\nThe pass only becomes cost‑effective after you visit at least four paid attractions within its 24‑hour validity; fewer stops mean buying tickets separately is cheaper.\n\nSince passes activate on the first scan, beginning your day at an early museum or palace gives you the full 24‑hour window.\n\nA light itinerary—say only Gyeongbokgung and a market—won’t justify the pass price, so plan accordingly.\n\nWhat’s your ideal number of attractions for day one? #KoreaTravel #TravelTips #Seoul #FirstTimeInKorea",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791337443653-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791337443653-0.jpg"
+    ],
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-10-07T16:25:50.562Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-07T01:46:54.150Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/11870589/pexels-photo-11870589.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18223649/pexels-photo-18223649.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/23369193/pexels-photo-23369193.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/26173418/pexels-photo-26173418.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19271526/pexels-photo-19271526.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2024/06/24/218015_large.mp4",
+    "videoAttribution": null,
+    "topic": "Seoul attraction pass comparison",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련 있고 문장도 대체로 자연이며 사실 주장에 큰 문제가 없어 발행해도 좋습니다.",
+      "model": "groq",
+      "checkedAt": "2026-10-07T01:45:51.029Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-seoul-attraction-pass-comparison.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "444bfcb2-863b-4a19-8168-40c1efa8ac30",
+    "text": "Most first‑time travelers think a Seoul attraction pass always saves money, but it only pays off after you visit four paid sites in a single day.\n1. Passes (24/48/72 h) start counting from the first barcode scan, so tap early to get the full time window.\n2. Break‑even threshold is four attractions; fewer means individual tickets are cheaper.\n3. Light days (e.g., only Gyeongbokgung) are better without a pass.\nPlan your day wisely and you’ll keep more won in your pocket.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791337443653-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791337443653-0.jpg"
+    ],
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-10-07T18:21:55.522Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-07T01:46:54.173Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/11870589/pexels-photo-11870589.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18223649/pexels-photo-18223649.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/23369193/pexels-photo-23369193.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/26173418/pexels-photo-26173418.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19271526/pexels-photo-19271526.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2024/06/24/218015_large.mp4",
+    "videoAttribution": null,
+    "topic": "Seoul attraction pass comparison",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련 있고 문장도 대체로 자연이며 사실 주장에 큰 문제가 없어 발행해도 좋습니다.",
+      "model": "groq",
+      "checkedAt": "2026-10-07T01:45:51.029Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-seoul-attraction-pass-comparison.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "6912f79f-15d6-42bd-b353-2233bea4b25a",
+    "text": "Everyone assumes this works the same as back home. It doesn't.\n\nMany small restaurants, markets, and family-run shops close for several consecutive days around Chuseok and Seollal, while large attractions, chain stores, and hotels generally stay open — so a itinerary built around market food stalls can fall apart during these windows.\n\nIf travel dates land near either holiday, book intercity trains and any domestic flights as early as possible, and have backup restaurant options in mind since neighborhood favorites may simply be shuttered.\n\nWorth knowing before you land? Reply with what surprised you.\n\n📖 Open the Land in Korea link in our profile and search “Korean public holidays that disrupt travel plans”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791337618942-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791337618942-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-10-08T00:54:12.453Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-07T01:49:05.247Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/15239931/pexels-photo-15239931.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12166918/pexels-photo-12166918.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12166917/pexels-photo-12166917.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17113723/pexels-photo-17113723.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12166716/pexels-photo-12166716.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2019/09/05/26571-358053425_large.mp4",
+    "videoAttribution": null,
+    "topic": "Korean public holidays that disrupt travel plans",
+    "qualityGate": {
+      "pass": true,
+      "reason": "Caption is relevant, clear, accurate and provides useful travel advice.",
+      "model": "groq",
+      "checkedAt": "2026-10-07T01:48:27.820Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-korean-public-holidays-that-disrupt-travel-plans.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "675377df-d365-4a15-bf76-0ff31d9f3e2f",
+    "text": "Everyone assumes this works the same as back home. It doesn't. Many small restaurants, markets, and family-run shops close for several consecutive days around Chuseok and Seollal, while large attractions, chain stores, and hotels generally stay open — so a itinerary built around market food stalls can fall apart during these windows.\n\n1. If travel dates land near either holiday, book intercity trains and any domestic flights as early as possible, and have backup restaurant options in mind since neighborhood favorites may simply be shuttered.\n\nDone any of these? Which surprised you most?\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-korean-public-holidays-that-disrupt-travel-plans.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791337618942-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791337618942-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-10-08T00:59:18.251Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-07T01:49:05.282Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/15239931/pexels-photo-15239931.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12166918/pexels-photo-12166918.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12166917/pexels-photo-12166917.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17113723/pexels-photo-17113723.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12166716/pexels-photo-12166716.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2019/09/05/26571-358053425_large.mp4",
+    "videoAttribution": null,
+    "topic": "Korean public holidays that disrupt travel plans",
+    "qualityGate": {
+      "pass": true,
+      "reason": "Caption is relevant, clear, accurate and provides useful travel advice.",
+      "model": "groq",
+      "checkedAt": "2026-10-07T01:48:27.820Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-korean-public-holidays-that-disrupt-travel-plans.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "740258b1-84e5-4dc0-a9db-4f7d33240eaa",
+    "text": "Everyone assumes this works the same as back home. It doesn't.\n\nIf travel dates land near either holiday, book intercity trains and any domestic flights as early as possible, and have backup restaurant options in mind since neighborhood favorites may simply be shuttered.\n\nScreenshot this before you land in Korea.\n\n📖 Open the Land in Korea link in our profile and search “Korean public holidays that disrupt travel plans”.\n\n🎬 Video source: Pixabay\n\n#KoreaTravel #SeoulTrip #KoreaTips #TravelKorea #VisitSeoul\n\n🎵 🎵 Track: Slim - Heathrow\nMusic provided by Jamendo (CC BY-SA).",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1791337727711-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-08T01:05:56.991Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-07T01:49:05.309Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/15239931/pexels-photo-15239931.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12166918/pexels-photo-12166918.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12166917/pexels-photo-12166917.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17113723/pexels-photo-17113723.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12166716/pexels-photo-12166716.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2019/09/05/26571-358053425_large.mp4",
+    "videoAttribution": "Pixabay",
+    "topic": "Korean public holidays that disrupt travel plans",
+    "qualityGate": {
+      "pass": true,
+      "reason": "Caption is relevant, clear, accurate and provides useful travel advice.",
+      "model": "groq",
+      "checkedAt": "2026-10-07T01:48:27.820Z"
+    },
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "cd2d774f-a020-45d3-8bf1-4f3d240fc8ef",
+    "text": "Many small restaurants, markets, and family-run shops close for several consecutive days around Chuseok and Seollal, while large attractions, chain stores, and hotels generally stay open — so a itinerary built around market food stalls can fall apart during these windows.\n\n1. If travel dates land near either holiday, book intercity trains and any domestic flights as early as possible, and have backup restaurant options in mind since neighborhood favorites may simply be shuttered.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791337618942-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791337618942-0.jpg"
+    ],
+    "platforms": [
+      "pinterest"
+    ],
+    "scheduledAt": "2026-10-08T03:56:03.496Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-07T01:49:05.330Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/15239931/pexels-photo-15239931.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12166918/pexels-photo-12166918.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12166917/pexels-photo-12166917.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17113723/pexels-photo-17113723.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12166716/pexels-photo-12166716.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2019/09/05/26571-358053425_large.mp4",
+    "videoAttribution": null,
+    "topic": "Korean public holidays that disrupt travel plans",
+    "qualityGate": {
+      "pass": true,
+      "reason": "Caption is relevant, clear, accurate and provides useful travel advice.",
+      "model": "groq",
+      "checkedAt": "2026-10-07T01:48:27.820Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-korean-public-holidays-that-disrupt-travel-plans.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "73d1be52-d14a-4668-a573-17bd2206ec53",
+    "text": "Everyone assumes this works the same as back home. It doesn't.\n\nMany small restaurants, markets, and family-run shops close for several consecutive days around Chuseok and Seollal, while large attractions, chain stores, and hotels generally stay open — so a itinerary built around market food stalls can fall apart during these windows.\n\nIf travel dates land near either holiday, book intercity trains and any domestic flights as early as possible, and have backup restaurant options in mind since neighborhood favorites may simply be shuttered.\n\nWorth knowing before you land? Reply with what surprised you.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791337618942-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791337618942-0.jpg"
+    ],
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-10-08T01:23:59.230Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-07T01:49:05.354Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/15239931/pexels-photo-15239931.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12166918/pexels-photo-12166918.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12166917/pexels-photo-12166917.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17113723/pexels-photo-17113723.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12166716/pexels-photo-12166716.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2019/09/05/26571-358053425_large.mp4",
+    "videoAttribution": null,
+    "topic": "Korean public holidays that disrupt travel plans",
+    "qualityGate": {
+      "pass": true,
+      "reason": "Caption is relevant, clear, accurate and provides useful travel advice.",
+      "model": "groq",
+      "checkedAt": "2026-10-07T01:48:27.820Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-korean-public-holidays-that-disrupt-travel-plans.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "03423658-2645-4d30-92b5-e47ec48803b0",
+    "text": "Everyone assumes this works the same as back home. It doesn't.\n\nMany small restaurants, markets, and family-run shops close for several consecutive days around Chuseok and Seollal, while large attractions, chain stores, and hotels generally stay open — so a itinerary built around market food stalls can fall apart during these windows.\n\nIf travel dates land near either holiday, book intercity trains and any domestic flights as early as possible, and have backup restaurant options in mind since neighborhood favorites may simply be shuttered.\n\nWorth knowing before you land? Reply with what surprised you.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791337618942-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791337618942-0.jpg"
+    ],
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-10-08T01:59:28.504Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-07T01:49:05.384Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/15239931/pexels-photo-15239931.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12166918/pexels-photo-12166918.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12166917/pexels-photo-12166917.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17113723/pexels-photo-17113723.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12166716/pexels-photo-12166716.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2019/09/05/26571-358053425_large.mp4",
+    "videoAttribution": null,
+    "topic": "Korean public holidays that disrupt travel plans",
+    "qualityGate": {
+      "pass": true,
+      "reason": "Caption is relevant, clear, accurate and provides useful travel advice.",
+      "model": "groq",
+      "checkedAt": "2026-10-07T01:48:27.820Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-korean-public-holidays-that-disrupt-travel-plans.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "8774f399-d361-4bf5-bf68-af41d70903f5",
+    "text": "Many small restaurants, markets, and family-run shops close for several consecutive days around Chuseok and Seollal, while large attractions, chain stores, and hotels generally stay open — so a itinerary built around market food stalls can fall apart during these windows.\n\n1. If travel dates land near either holiday, book intercity trains and any domestic flights as early as possible, and have backup restaurant options in mind since neighborhood favorites may simply be shuttered.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791337618942-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791337618942-0.jpg"
+    ],
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-10-08T03:54:30.672Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-07T01:49:05.407Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/15239931/pexels-photo-15239931.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12166918/pexels-photo-12166918.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12166917/pexels-photo-12166917.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17113723/pexels-photo-17113723.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12166716/pexels-photo-12166716.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2019/09/05/26571-358053425_large.mp4",
+    "videoAttribution": null,
+    "topic": "Korean public holidays that disrupt travel plans",
+    "qualityGate": {
+      "pass": true,
+      "reason": "Caption is relevant, clear, accurate and provides useful travel advice.",
+      "model": "groq",
+      "checkedAt": "2026-10-07T01:48:27.820Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-korean-public-holidays-that-disrupt-travel-plans.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
   }
 ]
