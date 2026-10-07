@@ -20655,8 +20655,13 @@
       "facebook"
     ],
     "scheduledAt": "2026-10-05T02:09:09.699Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "122121739197446391",
+        "post_id": "1288453561012463_122121739311446391"
+      }
+    },
     "createdAt": "2026-10-04T00:58:52.092Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -20680,7 +20685,8 @@
       "checkedAt": "2026-10-04T00:57:29.817Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-everland-vs-lotte-world-theme-parks.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-10-07T01:39:57.759Z"
   },
   {
     "id": "1af7a5fa-543f-4aaa-be80-88b68bc2695a",
@@ -21131,8 +21137,13 @@
       "mastodon"
     ],
     "scheduledAt": "2026-10-06T05:18:40.250Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "mastodon": {
+        "id": "117397074874312165",
+        "url": "https://mastodon.social/@landinkorea/117397074874312165"
+      }
+    },
     "createdAt": "2026-10-06T03:50:23.624Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -21155,7 +21166,8 @@
       "checkedAt": "2026-10-06T03:49:29.717Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-hongdae-nightlife-and-youth-culture-district.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-10-07T01:40:06.335Z"
   },
   {
     "id": "139eb33a-77ab-453b-b1a8-cab68dfaf226",
@@ -21356,8 +21368,13 @@
       "bluesky"
     ],
     "scheduledAt": "2026-10-06T13:50:19.229Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mxast2sefd2l",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3mxast2sefd2l"
+      }
+    },
     "createdAt": "2026-10-06T03:53:26.158Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -21380,7 +21397,8 @@
       "checkedAt": "2026-10-06T03:52:40.944Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-nami-island-and-petite-france-day-trip.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-10-07T01:40:11.355Z"
   },
   {
     "id": "247ee5bc-c539-4c22-a843-13ed99c6e2fc",
