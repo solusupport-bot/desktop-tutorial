@@ -19317,8 +19317,12 @@
       "instagram"
     ],
     "scheduledAt": "2026-10-04T03:26:51.248Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "18143595343514991"
+      }
+    },
     "createdAt": "2026-10-03T07:21:23.422Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -19340,7 +19344,8 @@
       "model": "groq",
       "checkedAt": "2026-10-03T07:18:23.768Z"
     },
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-10-07T04:25:26.535Z"
   },
   {
     "id": "2fb4a7c8-c8f7-457b-b343-d670cbe131e9",
@@ -21411,8 +21416,13 @@
       "mastodon"
     ],
     "scheduledAt": "2026-10-06T14:22:55.215Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "mastodon": {
+        "id": "117397725628131085",
+        "url": "https://mastodon.social/@landinkorea/117397725628131085"
+      }
+    },
     "createdAt": "2026-10-06T03:53:26.181Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -21435,7 +21445,8 @@
       "checkedAt": "2026-10-06T03:52:40.944Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-nami-island-and-petite-france-day-trip.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-10-07T04:25:35.258Z"
   },
   {
     "id": "c6779b46-fbdb-43f2-b056-89dc48886477",
@@ -21636,8 +21647,13 @@
       "bluesky"
     ],
     "scheduledAt": "2026-10-07T00:56:12.683Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mxb42ztf6l2y",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3mxb42ztf6l2y"
+      }
+    },
     "createdAt": "2026-10-06T03:55:45.487Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -21660,7 +21676,8 @@
       "checkedAt": "2026-10-06T03:55:01.096Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-suwon-hwaseong-fortress.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-10-07T04:25:42.515Z"
   },
   {
     "id": "ee66ecd7-17a8-485b-b4d7-fb3c931d1715",
@@ -21710,8 +21727,13 @@
       "tumblr"
     ],
     "scheduledAt": "2026-10-07T03:28:10.243Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "tumblr": {
+        "id": "829787623861190656",
+        "url": "https://landinkorea.tumblr.com/post/829787623861190656"
+      }
+    },
     "createdAt": "2026-10-06T03:55:45.554Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -21734,7 +21756,8 @@
       "checkedAt": "2026-10-06T03:55:01.096Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-suwon-hwaseong-fortress.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-10-07T04:25:45.610Z"
   },
   {
     "id": "634eb25d-99bb-4aa8-bd56-7c67d499de35",
