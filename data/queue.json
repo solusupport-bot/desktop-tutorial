@@ -21825,8 +21825,12 @@
       "threads"
     ],
     "scheduledAt": "2026-10-07T02:00:51.531Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18104533433621389"
+      }
+    },
     "createdAt": "2026-10-07T01:43:59.100Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -21849,7 +21853,8 @@
       "checkedAt": "2026-10-07T01:43:17.381Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-domestic-flights-vs-ktx-for-jeju-and-long-distance-trips.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-10-08T05:37:47.563Z"
   },
   {
     "id": "d7a167b6-9f8d-4f70-a42e-e94fc47d5340",
@@ -21862,8 +21867,13 @@
       "facebook"
     ],
     "scheduledAt": "2026-10-07T02:09:16.273Z",
-    "status": "pending",
-    "results": {},
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "122122146207446391",
+        "post_id": "1288453561012463_122122146231446391"
+      }
+    },
     "createdAt": "2026-10-07T01:43:59.134Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -21886,7 +21896,8 @@
       "checkedAt": "2026-10-07T01:43:17.381Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-domestic-flights-vs-ktx-for-jeju-and-long-distance-trips.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-10-08T05:37:52.781Z"
   },
   {
     "id": "343b873d-48ab-4359-8c20-73a0842e04bf",
@@ -22604,8 +22615,13 @@
       "tumblr"
     ],
     "scheduledAt": "2026-10-08T03:54:30.672Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "tumblr": {
+        "id": "829882761692233728",
+        "url": "https://landinkorea.tumblr.com/post/829882761692233728"
+      }
+    },
     "createdAt": "2026-10-07T01:49:05.407Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -22628,7 +22644,8 @@
       "checkedAt": "2026-10-07T01:48:27.820Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-korean-public-holidays-that-disrupt-travel-plans.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-10-08T05:37:55.868Z"
   },
   {
     "id": "60eb25f7-28ae-42fa-866c-a21a9e509813",
@@ -22786,8 +22803,13 @@
       "bluesky"
     ],
     "scheduledAt": "2026-10-08T05:05:18.223Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mxdqlikny72y",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3mxdqlikny72y"
+      }
+    },
     "createdAt": "2026-10-08T02:43:11.046Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -22810,7 +22832,8 @@
       "checkedAt": "2026-10-08T02:42:09.730Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-airport-transfer-options.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "failed"
+    "verifyStatus": "failed",
+    "processedAt": "2026-10-08T05:38:09.251Z"
   },
   {
     "id": "4439e3a5-a9a7-4494-a429-f95dc3346567",
@@ -22823,8 +22846,13 @@
       "mastodon"
     ],
     "scheduledAt": "2026-10-08T05:32:01.907Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "mastodon": {
+        "id": "117403674579028828",
+        "url": "https://mastodon.social/@landinkorea/117403674579028828"
+      }
+    },
     "createdAt": "2026-10-08T02:43:11.101Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -22847,7 +22875,8 @@
       "checkedAt": "2026-10-08T02:42:09.730Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-airport-transfer-options.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "failed"
+    "verifyStatus": "failed",
+    "processedAt": "2026-10-08T05:38:30.257Z"
   },
   {
     "id": "9b5f345f-63df-4951-ab7f-7b2ff98a0213",
