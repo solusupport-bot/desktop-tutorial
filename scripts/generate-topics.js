@@ -17,6 +17,7 @@ const path = require('path');
 const log = require('../lib/logger');
 const { askAIForJSON } = require('../lib/ai/llm');
 const { getHotPostTitles } = require('../lib/research/reddit_research');
+const { findNearDuplicate } = require('../lib/ingestion/topic_similarity');
 
 // 2026-09-17: r/koreatravel 등에서 실제 요즘 여행자들이 뭘 묻는지 긁어와 프롬프트에
 // 재료로 넣는다 — Claude의 일반 지식만으로 "뾰족한" 주제를 짜내는 것보다 실제 수요를
@@ -97,6 +98,10 @@ const main = async () => {
   }
 
   const existingNormalized = new Set(bank.map((t) => normalize(t.topic)));
+  // 정확히 같은 문자열뿐 아니라 "거의 같은 주제"(문구만 줄이거나 바꾼 경우)도
+  // 잡아낸다 — 2026-10-08 실측: topic_bank.json에 이런 근접 중복이 5쌍 있었고
+  // 그중 4개는 이미 블로그에 중복 발행까지 됐다. topic_similarity.js 참고.
+  const acceptedTopics = bank.map((t) => t.topic);
   const newQueries = [];
   let added = 0;
   result.topics.forEach((t) => {
@@ -107,10 +112,16 @@ const main = async () => {
     }
     const key = normalize(t.topic);
     if (existingNormalized.has(key)) {
-      log.warn(`이미 있는(또는 겹치는) 주제라 건너뜁니다: "${t.topic}"`);
+      log.warn(`이미 있는 주제라 건너뜁니다: "${t.topic}"`);
+      return;
+    }
+    const nearDup = findNearDuplicate(t.topic, acceptedTopics);
+    if (nearDup) {
+      log.warn(`기존 주제와 거의 같아(근접 중복) 건너뜁니다: "${t.topic}" ~ "${nearDup}"`);
       return;
     }
     existingNormalized.add(key);
+    acceptedTopics.push(t.topic);
     bank.push({
       topic: t.topic,
       author: 'Land in Korea Desk',

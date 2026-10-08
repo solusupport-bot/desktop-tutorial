@@ -4,6 +4,32 @@
 
 ---
 
+## 🇰🇷 다른 나라 사진 금지 + 📑 중복 주제 금지 (2026-10-08 사용자 실측 지적 — "검증하고 실행해줘 규칙이야")
+
+**사진 쪽:** `land-in-korea-blog/automation/fetch_images.py`의 메인 커버 이미지 경로가
+`find_korea_photo(..., strict=True)` 없이 호출되고 있어서, 한국 확인(alt 텍스트에
+korea/seoul 등 신호) 사진을 못 찾으면 **관련성만으로** 외국 사진을 채택하는 완화
+재시도로 조용히 넘어가고 있었다. 이 완화 경로를 완전히 삭제했다(`find_korea_photo`가
+이제 Korea-확인 없이는 항상 `None` 반환 → 호출부는 이미지 없이 텍스트만 발행). SNS
+쪽(`lib/ingestion/pexels_image.js`)은 2026-09-13에 이미 같은 수정이 돼 있었음 — 블로그
+쪽만 빠져 있었다. **이 완화 재시도를 다시 추가하는 방향의 수정은 금지.**
+
+**주제 쪽:** `data/topic_bank.json`에 문구만 줄이거나 바꾼 근접 중복 주제가 5쌍 있었고
+(예: "DMZ and JSA tours" vs "DMZ/JSA tours"), 그중 4개는 **블로그에 이미 각각 별도
+글로 중복 발행**까지 된 상태였다. 2026-10-02에 이 쌍들을 "철자 불일치"로 오진단해서
+검색어만 추가하고 중복 주제 자체는 못 잡았던 것 — 실제로는 내용까지 겹치는 진짜
+중복이었다. 5개 중 4개(KTX/SRT, Trash, DMZ/JSA, First-timer) 제거, 1개(Emergency
+numbers)는 중복 쪽이 미발행이라 같이 제거. 재발 방지: `scripts/generate-topics.js`가
+이제 정확히 같은 문자열뿐 아니라 토큰 Jaccard 유사도로 근접 중복도 걸러낸다
+(`lib/ingestion/topic_similarity.js`). 새 주제를 손으로 추가했을 때도
+**`node scripts/verify-no-duplicate-topics.js`를 항상 같이 실행**할 것
+(`verify-topic-media-alignment.js`와 동일한 자리).
+
+이미 라이브로 발행된 중복 블로그 글 4쌍은 SEO 영향(리다이렉트/병합 여부)이 있어
+자동으로 지우지 않았다 — 처리 방법은 사용자 확인 후 진행.
+
+---
+
 ## 🖼️ 미디어 3대 원칙 (2026-10-02 사용자 반복 지시 — "제발 규칙으로 만들어서 실수하지 말자")
 
 **사용자가 같은 지적을 여러 번 반복한 뒤 명시적으로 규칙화를 요청함.** 이미지/영상을 다루는
