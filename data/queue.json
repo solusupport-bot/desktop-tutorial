@@ -19064,7 +19064,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-10-02T06:55:10.370Z",
-    "status": "claimed",
+    "status": "partial",
     "results": {
       "pinterest": {
         "error": "publish failed"
@@ -19093,7 +19093,7 @@
     },
     "blogUrl": "https://landinkorea.com/index.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
     "verifyStatus": "failed",
-    "processedAt": "2026-10-07T12:24:34.366Z",
+    "processedAt": "2026-10-08T02:35:55.512Z",
     "retryCount": 3
   },
   {
@@ -21333,8 +21333,12 @@
       "instagram"
     ],
     "scheduledAt": "2026-10-06T13:32:33.314Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "18112921013111925"
+      }
+    },
     "createdAt": "2026-10-06T03:53:26.113Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -21356,7 +21360,8 @@
       "model": "groq",
       "checkedAt": "2026-10-06T03:52:40.944Z"
     },
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-10-08T02:36:39.012Z"
   },
   {
     "id": "b5dc4257-965c-4695-b459-ded944b3ceac",
@@ -22319,8 +22324,13 @@
       "tumblr"
     ],
     "scheduledAt": "2026-10-07T18:21:55.522Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "tumblr": {
+        "id": "829871359435898880",
+        "url": "https://landinkorea.tumblr.com/post/829871359435898880"
+      }
+    },
     "createdAt": "2026-10-07T01:46:54.173Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -22343,7 +22353,8 @@
       "checkedAt": "2026-10-07T01:45:51.029Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-seoul-attraction-pass-comparison.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-10-08T02:36:41.798Z"
   },
   {
     "id": "6912f79f-15d6-42bd-b353-2233bea4b25a",
@@ -22501,8 +22512,13 @@
       "bluesky"
     ],
     "scheduledAt": "2026-10-08T01:23:59.230Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mxdghaxeqn2l",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3mxdghaxeqn2l"
+      }
+    },
     "createdAt": "2026-10-07T01:49:05.354Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -22525,7 +22541,8 @@
       "checkedAt": "2026-10-07T01:48:27.820Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-korean-public-holidays-that-disrupt-travel-plans.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-10-08T02:36:49.285Z"
   },
   {
     "id": "03423658-2645-4d30-92b5-e47ec48803b0",
@@ -22538,8 +22555,13 @@
       "mastodon"
     ],
     "scheduledAt": "2026-10-08T01:59:28.504Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "mastodon": {
+        "id": "117402960836534468",
+        "url": "https://mastodon.social/@landinkorea/117402960836534468"
+      }
+    },
     "createdAt": "2026-10-07T01:49:05.384Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -22562,7 +22584,8 @@
       "checkedAt": "2026-10-07T01:48:27.820Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-korean-public-holidays-that-disrupt-travel-plans.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-10-08T02:36:56.168Z"
   },
   {
     "id": "8774f399-d361-4bf5-bf68-af41d70903f5",
