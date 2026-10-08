@@ -21825,7 +21825,7 @@
       "threads"
     ],
     "scheduledAt": "2026-10-07T02:00:51.531Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-10-07T01:43:59.100Z",
     "approved": true,
@@ -22604,7 +22604,7 @@
       "tumblr"
     ],
     "scheduledAt": "2026-10-08T03:54:30.672Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-10-07T01:49:05.407Z",
     "approved": true,
@@ -22786,7 +22786,7 @@
       "bluesky"
     ],
     "scheduledAt": "2026-10-08T05:05:18.223Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-10-08T02:43:11.046Z",
     "approved": true,
@@ -22823,7 +22823,7 @@
       "mastodon"
     ],
     "scheduledAt": "2026-10-08T05:32:01.907Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-10-08T02:43:11.101Z",
     "approved": true,
