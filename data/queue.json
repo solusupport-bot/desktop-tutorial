@@ -22623,5 +22623,773 @@
     },
     "blogUrl": "https://landinkorea.com/posts/korea-korean-public-holidays-that-disrupt-travel-plans.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
     "verifyStatus": "passed"
+  },
+  {
+    "id": "60eb25f7-28ae-42fa-866c-a21a9e509813",
+    "text": "First‑time visitors think the cheapest ride from Incheon is always the AREX.\n\nThe AREX express costs just 9,500 won and lands at Seoul Station, the cheapest on paper.\n\nIf you’re hauling two suitcases, the airport limousine bus to Gangnam drops you near your hotel without stairs.\n\nDuring rush hour taxis spike; a deluxe cab can cost 80,000 won to downtown, so budget for traffic.\n\nWhich option fits your travel style? Open the Land in Korea link in the profile.\n\n📖 Open the Land in Korea link in our profile and search “Airport transfer options”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791427052786-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791427052786-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-10-08T04:35:04.961Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-08T02:43:10.867Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g00ee71169975584608b2676adad59fd3ec7a7ac7fba8f587eaf5b6159c1b3bf71098f025b57d796ab75ebc6279e54e13e0b0495d00269f5796b226f4ef480195_1280.jpg",
+      "https://images.pexels.com/photos/31925340/pexels-photo-31925340.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5067481/pexels-photo-5067481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://pixabay.com/get/gd71fe6b446c1c3f924ccecaddae30e1bb626a4d1ed57474d7d261ab7784359a78c59d52b7da57b68de7b00271121eaebf8cd4ebcc1de64f665b956caa29f9c9f_1280.jpg",
+      "https://pixabay.com/get/gddc7e73d6c31c6c57d46502ad9639ce860d31337bfaf35e96db1b2c566cbc704396ce4da120d77f26d750941394d2964132ca8dfea4f555c66620d6e9becac96_1280.jpg"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/11/24/140254-774824126_large.mp4",
+    "videoAttribution": null,
+    "topic": "Airport transfer options",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 맞고, 문장도 자연스럽고 사실도 크게 문제없으며 여행자에게 유용한 정보다",
+      "model": "groq",
+      "checkedAt": "2026-10-08T02:42:09.730Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-airport-transfer-options.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "failed"
+  },
+  {
+    "id": "341becf6-ce6d-4c15-a095-2339525e1c79",
+    "text": "Think the AREX is always the cheapest way from Incheon? It’s only 9,500 won to Seoul Station, but luggage changes the game. 🚆🚌\n1️⃣ AREX Express – 9,500 won, non‑stop to Seoul Station, best for light bags.\n2️⃣ Airport Limousine Bus – drops near districts like Gangnam, ideal for heavy suitcases (≈10,000 won).\n3️⃣ Standard Taxi – about 65,000 won to downtown, slower in traffic.\n4️⃣ Deluxe/International Taxi – card‑pay, English driver, ~80,000 won in rush hour.\nRemember: match transport to luggage size and traffic time.\nWhich ride will you try on your first day in Seoul?\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-airport-transfer-options.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791427052786-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791427052786-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-10-08T04:34:49.633Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-08T02:43:10.919Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g00ee71169975584608b2676adad59fd3ec7a7ac7fba8f587eaf5b6159c1b3bf71098f025b57d796ab75ebc6279e54e13e0b0495d00269f5796b226f4ef480195_1280.jpg",
+      "https://images.pexels.com/photos/31925340/pexels-photo-31925340.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5067481/pexels-photo-5067481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://pixabay.com/get/gd71fe6b446c1c3f924ccecaddae30e1bb626a4d1ed57474d7d261ab7784359a78c59d52b7da57b68de7b00271121eaebf8cd4ebcc1de64f665b956caa29f9c9f_1280.jpg",
+      "https://pixabay.com/get/gddc7e73d6c31c6c57d46502ad9639ce860d31337bfaf35e96db1b2c566cbc704396ce4da120d77f26d750941394d2964132ca8dfea4f555c66620d6e9becac96_1280.jpg"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/11/24/140254-774824126_large.mp4",
+    "videoAttribution": null,
+    "topic": "Airport transfer options",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 맞고, 문장도 자연스럽고 사실도 크게 문제없으며 여행자에게 유용한 정보다",
+      "model": "groq",
+      "checkedAt": "2026-10-08T02:42:09.730Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-airport-transfer-options.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "failed"
+  },
+  {
+    "id": "fa04c5e2-25b1-4009-be72-b8a58e675f9e",
+    "text": "Stuck choosing the fastest way from Incheon to Seoul?\nThe AREX express is just 9,500 won to Seoul Station, but if you have big suitcases the limousine bus to your district saves you a climb.\nSave this post for your airport day — know which ride fits your bags and budget.\n\n📖 Open the Land in Korea link in our profile and search “Airport transfer options”.\n\n🎬 Video source: Pixabay\n\n#KoreaTravel #SeoulTrip #IncheonAirport #TravelTips #FirstTimeInKorea\n\n🎵 🎵 Track: Manhat10 - Dance with me\nMusic provided by Jamendo (CC BY).",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1791427363827-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-08T04:41:58.465Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-08T02:43:10.975Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g00ee71169975584608b2676adad59fd3ec7a7ac7fba8f587eaf5b6159c1b3bf71098f025b57d796ab75ebc6279e54e13e0b0495d00269f5796b226f4ef480195_1280.jpg",
+      "https://images.pexels.com/photos/31925340/pexels-photo-31925340.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5067481/pexels-photo-5067481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://pixabay.com/get/gd71fe6b446c1c3f924ccecaddae30e1bb626a4d1ed57474d7d261ab7784359a78c59d52b7da57b68de7b00271121eaebf8cd4ebcc1de64f665b956caa29f9c9f_1280.jpg",
+      "https://pixabay.com/get/gddc7e73d6c31c6c57d46502ad9639ce860d31337bfaf35e96db1b2c566cbc704396ce4da120d77f26d750941394d2964132ca8dfea4f555c66620d6e9becac96_1280.jpg"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/11/24/140254-774824126_large.mp4",
+    "videoAttribution": "Pixabay",
+    "topic": "Airport transfer options",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 맞고, 문장도 자연스럽고 사실도 크게 문제없으며 여행자에게 유용한 정보다",
+      "model": "groq",
+      "checkedAt": "2026-10-08T02:42:09.730Z"
+    },
+    "verifyStatus": "failed"
+  },
+  {
+    "id": "eeb18537-3ed4-4435-b937-d3299a5ab71d",
+    "text": "Korea airport transfer guide: save money and time on your first trip.\n1. AREX Express – 9,500 won, 43 min to Seoul Station, perfect for light luggage.\n2. Airport Limousine Bus – 10,000‑12,000 won, drops at districts like Gangnam, great for heavy bags.\n3. Taxis – metered ~65,000 won, can rise to 80,000 won in rush hour; deluxe cabs accept cards and English.\nRead the full guide and book your ride at https://landinkorea.com/airport-transfer.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791427052786-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791427052786-0.jpg"
+    ],
+    "platforms": [
+      "pinterest"
+    ],
+    "scheduledAt": "2026-10-08T07:31:39.691Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-08T02:43:11.012Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g00ee71169975584608b2676adad59fd3ec7a7ac7fba8f587eaf5b6159c1b3bf71098f025b57d796ab75ebc6279e54e13e0b0495d00269f5796b226f4ef480195_1280.jpg",
+      "https://images.pexels.com/photos/31925340/pexels-photo-31925340.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5067481/pexels-photo-5067481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://pixabay.com/get/gd71fe6b446c1c3f924ccecaddae30e1bb626a4d1ed57474d7d261ab7784359a78c59d52b7da57b68de7b00271121eaebf8cd4ebcc1de64f665b956caa29f9c9f_1280.jpg",
+      "https://pixabay.com/get/gddc7e73d6c31c6c57d46502ad9639ce860d31337bfaf35e96db1b2c566cbc704396ce4da120d77f26d750941394d2964132ca8dfea4f555c66620d6e9becac96_1280.jpg"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/11/24/140254-774824126_large.mp4",
+    "videoAttribution": null,
+    "topic": "Airport transfer options",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 맞고, 문장도 자연스럽고 사실도 크게 문제없으며 여행자에게 유용한 정보다",
+      "model": "groq",
+      "checkedAt": "2026-10-08T02:42:09.730Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-airport-transfer-options.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "failed"
+  },
+  {
+    "id": "8455fc0b-eb28-4a4b-9559-23e8dea45ea6",
+    "text": "First‑time visitors assume the AREX is always the cheapest ride from Incheon.\n\nIn fact the AREX Express costs just 9,500 won and stops at Seoul Station, the lowest fare on paper.\n\nIf you carry two suitcases, the airport limousine bus to neighborhoods like Gangnam drops you nearer your hotel and avoids stairs.\n\nDuring rush hour taxis surge; a deluxe cab can easily hit 80,000 won to downtown, so factor traffic into your budget.\n\nWhich transport matches your luggage and schedule? #TravelBlog #SeoulTrip",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791427052786-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791427052786-0.jpg"
+    ],
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-10-08T05:05:18.223Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-08T02:43:11.046Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g00ee71169975584608b2676adad59fd3ec7a7ac7fba8f587eaf5b6159c1b3bf71098f025b57d796ab75ebc6279e54e13e0b0495d00269f5796b226f4ef480195_1280.jpg",
+      "https://images.pexels.com/photos/31925340/pexels-photo-31925340.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5067481/pexels-photo-5067481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://pixabay.com/get/gd71fe6b446c1c3f924ccecaddae30e1bb626a4d1ed57474d7d261ab7784359a78c59d52b7da57b68de7b00271121eaebf8cd4ebcc1de64f665b956caa29f9c9f_1280.jpg",
+      "https://pixabay.com/get/gddc7e73d6c31c6c57d46502ad9639ce860d31337bfaf35e96db1b2c566cbc704396ce4da120d77f26d750941394d2964132ca8dfea4f555c66620d6e9becac96_1280.jpg"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/11/24/140254-774824126_large.mp4",
+    "videoAttribution": null,
+    "topic": "Airport transfer options",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 맞고, 문장도 자연스럽고 사실도 크게 문제없으며 여행자에게 유용한 정보다",
+      "model": "groq",
+      "checkedAt": "2026-10-08T02:42:09.730Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-airport-transfer-options.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "failed"
+  },
+  {
+    "id": "4439e3a5-a9a7-4494-a429-f95dc3346567",
+    "text": "First‑time visitors assume the AREX is always the cheapest ride from Incheon.\n\nIn fact the AREX Express costs just 9,500 won and stops at Seoul Station, the lowest fare on paper.\n\nIf you carry two suitcases, the airport limousine bus to neighborhoods like Gangnam drops you nearer your hotel and avoids stairs.\n\nDuring rush hour taxis surge; a deluxe cab can easily hit 80,000 won to downtown, so factor traffic into your budget.\n\nWhich transport matches your luggage and schedule? #KoreaTravel #TravelTips #Seoul #FirstTimeInKorea #TravelBlog",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791427052786-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791427052786-0.jpg"
+    ],
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-10-08T05:32:01.907Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-08T02:43:11.101Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g00ee71169975584608b2676adad59fd3ec7a7ac7fba8f587eaf5b6159c1b3bf71098f025b57d796ab75ebc6279e54e13e0b0495d00269f5796b226f4ef480195_1280.jpg",
+      "https://images.pexels.com/photos/31925340/pexels-photo-31925340.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5067481/pexels-photo-5067481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://pixabay.com/get/gd71fe6b446c1c3f924ccecaddae30e1bb626a4d1ed57474d7d261ab7784359a78c59d52b7da57b68de7b00271121eaebf8cd4ebcc1de64f665b956caa29f9c9f_1280.jpg",
+      "https://pixabay.com/get/gddc7e73d6c31c6c57d46502ad9639ce860d31337bfaf35e96db1b2c566cbc704396ce4da120d77f26d750941394d2964132ca8dfea4f555c66620d6e9becac96_1280.jpg"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/11/24/140254-774824126_large.mp4",
+    "videoAttribution": null,
+    "topic": "Airport transfer options",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 맞고, 문장도 자연스럽고 사실도 크게 문제없으며 여행자에게 유용한 정보다",
+      "model": "groq",
+      "checkedAt": "2026-10-08T02:42:09.730Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-airport-transfer-options.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "failed"
+  },
+  {
+    "id": "9b5f345f-63df-4951-ab7f-7b2ff98a0213",
+    "text": "Most travelers think the AREX is the cheapest ride from Incheon, but it’s only 9,500 won to Seoul Station and luggage can flip the math.\n1. AREX Express – 9,500 won, 43 min, best for light bags.\n2. Airport Limousine Bus – 10,000‑12,000 won, stops near districts (e.g., Gangnam), ideal for heavy suitcases.\n3. Taxis – metered ~65,000 won, up to 80,000 won in traffic; deluxe cabs accept cards and English.\nPick the option that suits your bags and budget.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791427052786-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791427052786-0.jpg"
+    ],
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-10-08T07:34:27.154Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-08T02:43:11.130Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g00ee71169975584608b2676adad59fd3ec7a7ac7fba8f587eaf5b6159c1b3bf71098f025b57d796ab75ebc6279e54e13e0b0495d00269f5796b226f4ef480195_1280.jpg",
+      "https://images.pexels.com/photos/31925340/pexels-photo-31925340.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5067481/pexels-photo-5067481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://pixabay.com/get/gd71fe6b446c1c3f924ccecaddae30e1bb626a4d1ed57474d7d261ab7784359a78c59d52b7da57b68de7b00271121eaebf8cd4ebcc1de64f665b956caa29f9c9f_1280.jpg",
+      "https://pixabay.com/get/gddc7e73d6c31c6c57d46502ad9639ce860d31337bfaf35e96db1b2c566cbc704396ce4da120d77f26d750941394d2964132ca8dfea4f555c66620d6e9becac96_1280.jpg"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/11/24/140254-774824126_large.mp4",
+    "videoAttribution": null,
+    "topic": "Airport transfer options",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 맞고, 문장도 자연스럽고 사실도 크게 문제없으며 여행자에게 유용한 정보다",
+      "model": "groq",
+      "checkedAt": "2026-10-08T02:42:09.730Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-airport-transfer-options.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "failed"
+  },
+  {
+    "id": "fdffc739-c655-4f10-8257-89a2bbe9d08b",
+    "text": "Most first‑time visitors trip over a tiny gesture that locals notice instantly.\n\nIn Seoul, handing money or a card with only one hand can come off as disrespectful.\n\nInstead, use both hands or rest your forearm on the table—Koreans read it as respectful.\n\nAnd keep phone calls quiet on the subway; locals either whisper or step off to talk.\n\nWhat other etiquette surprises have you faced in Korea? Open the Land in Korea link in the profile.\n\n📖 Open the Land in Korea link in our profile and search “First-timer etiquette & common mistakes”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791427411799-1.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791427411799-1.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-10-08T15:12:28.920Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-08T02:46:46.318Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31909237/pexels-photo-31909237.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8851561/pexels-photo-8851561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29445145/pexels-photo-29445145.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31986858/pexels-photo-31986858.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32196404/pexels-photo-32196404.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2020/04/10/35631-407701592_large.mp4",
+    "videoAttribution": null,
+    "topic": "First-timer etiquette & common mistakes",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제에 맞는 한국 여행 에티켓을 자연스럽게 전달하며, 과장된 사실 없이 유용한 정보를 제공한다",
+      "model": "groq",
+      "checkedAt": "2026-10-08T02:45:52.224Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-first-timer-etiquette-common-mistakes.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "498f2fa5-8f35-4a80-a9be-818e4573fe50",
+    "text": "Think passing a card with one hand is fine? In Seoul it's actually seen as rude.\n1️⃣ Use both hands or support your forearm when giving money or cards.\n2️⃣ Pour drinks for others before you do.\n3️⃣ Let the eldest or host start eating.\n4️⃣ Keep phone calls short on the subway or step off.\nRemember: two hands, pour first, wait for elders, mute calls.\nWhich tip will you try first? 😊\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-first-timer-etiquette-common-mistakes.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791427411799-1.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791427411799-1.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-10-08T15:18:08.877Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-08T02:46:46.361Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31909237/pexels-photo-31909237.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8851561/pexels-photo-8851561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29445145/pexels-photo-29445145.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31986858/pexels-photo-31986858.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32196404/pexels-photo-32196404.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2020/04/10/35631-407701592_large.mp4",
+    "videoAttribution": null,
+    "topic": "First-timer etiquette & common mistakes",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제에 맞는 한국 여행 에티켓을 자연스럽게 전달하며, 과장된 사실 없이 유용한 정보를 제공한다",
+      "model": "groq",
+      "checkedAt": "2026-10-08T02:45:52.224Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-first-timer-etiquette-common-mistakes.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "fe598510-d8ab-4949-a33d-4b445dbc8c37",
+    "text": "Ever wondered why Koreans stare when you hand them a card?\nUse both hands or rest your forearm—it's a sign of respect.\nSave this guide for your first Korean dinner.\n\n📖 Open the Land in Korea link in our profile and search “First-timer etiquette & common mistakes”.\n\n🎬 Video source: Pixabay\n\n#KoreaTravel #SeoulTrip #TravelTips #FirstTimeInKorea #Etiquette\n\n🎵 🎵 Track: Dayung - Sorry\nMusic provided by Jamendo (CC BY-SA).",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1791427578693-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-08T15:21:49.051Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-08T02:46:46.404Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31909237/pexels-photo-31909237.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8851561/pexels-photo-8851561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29445145/pexels-photo-29445145.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31986858/pexels-photo-31986858.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32196404/pexels-photo-32196404.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2020/04/10/35631-407701592_large.mp4",
+    "videoAttribution": "Pixabay",
+    "topic": "First-timer etiquette & common mistakes",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제에 맞는 한국 여행 에티켓을 자연스럽게 전달하며, 과장된 사실 없이 유용한 정보를 제공한다",
+      "model": "groq",
+      "checkedAt": "2026-10-08T02:45:52.224Z"
+    },
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "351e1302-3406-4e39-9009-93deb96da659",
+    "text": "Korean etiquette for first‑time visitors – avoid awkward moments\n1. In Seoul restaurants, hand money with both hands to show respect.\n2. Pour drinks for others before yourself and let the eldest begin eating.\n3. Keep calls quiet on the subway; step off if you need a conversation.\nRead the full guide on our blog: https://landinkorea.com/etiquette\nClick to learn more and travel confidently!",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791427411799-1.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791427411799-1.jpg"
+    ],
+    "platforms": [
+      "pinterest"
+    ],
+    "scheduledAt": "2026-10-08T18:10:31.534Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-08T02:46:46.433Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31909237/pexels-photo-31909237.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8851561/pexels-photo-8851561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29445145/pexels-photo-29445145.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31986858/pexels-photo-31986858.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32196404/pexels-photo-32196404.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2020/04/10/35631-407701592_large.mp4",
+    "videoAttribution": null,
+    "topic": "First-timer etiquette & common mistakes",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제에 맞는 한국 여행 에티켓을 자연스럽게 전달하며, 과장된 사실 없이 유용한 정보를 제공한다",
+      "model": "groq",
+      "checkedAt": "2026-10-08T02:45:52.224Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-first-timer-etiquette-common-mistakes.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "a879b1f2-22f7-41a3-b4a5-060337a44a4a",
+    "text": "First‑time in Korea? You might be missing a tiny but big courtesy.\n\nIn Seoul, slipping a card or cash with just one hand is seen as rude by many locals.\n\nInstead, present it with both hands or rest your forearm on the table—that small act signals respect.\n\nAlso, keep phone calls low‑key on the subway; if you must chat, step off the train.\n\nHave you noticed other subtle customs? #TravelBlog #KoreaTravel",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791427411799-1.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791427411799-1.jpg"
+    ],
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-10-08T15:40:17.590Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-08T02:46:46.465Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31909237/pexels-photo-31909237.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8851561/pexels-photo-8851561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29445145/pexels-photo-29445145.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31986858/pexels-photo-31986858.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32196404/pexels-photo-32196404.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2020/04/10/35631-407701592_large.mp4",
+    "videoAttribution": null,
+    "topic": "First-timer etiquette & common mistakes",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제에 맞는 한국 여행 에티켓을 자연스럽게 전달하며, 과장된 사실 없이 유용한 정보를 제공한다",
+      "model": "groq",
+      "checkedAt": "2026-10-08T02:45:52.224Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-first-timer-etiquette-common-mistakes.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "04674bee-dc9b-4a3c-b2a1-836334629bf2",
+    "text": "Visiting Korea for the first time? You may be unknowingly breaking a common courtesy that locals notice right away.\n\nIn Seoul, handing over money or a card with only one hand is interpreted as disrespectful, even if you mean no harm.\n\nThe simple fix is to use both hands or support your forearm when you give payment; Koreans see this as a sign of politeness.\n\nRemember to keep phone conversations quiet on the subway—most passengers either speak softly or get off the train to talk.\n\nWhat other everyday gestures have surprised you in Korea? #KoreaTravel #TravelTips #Seoul #FirstTimeInKorea",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791427411799-1.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791427411799-1.jpg"
+    ],
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-10-08T16:11:21.799Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-08T02:46:46.513Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31909237/pexels-photo-31909237.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8851561/pexels-photo-8851561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29445145/pexels-photo-29445145.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31986858/pexels-photo-31986858.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32196404/pexels-photo-32196404.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2020/04/10/35631-407701592_large.mp4",
+    "videoAttribution": null,
+    "topic": "First-timer etiquette & common mistakes",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제에 맞는 한국 여행 에티켓을 자연스럽게 전달하며, 과장된 사실 없이 유용한 정보를 제공한다",
+      "model": "groq",
+      "checkedAt": "2026-10-08T02:45:52.224Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-first-timer-etiquette-common-mistakes.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "9323dce4-da3d-4335-9355-65882c23263a",
+    "text": "Think handing a card with one hand is okay? In Seoul restaurants it's actually seen as rude.\n1. Use both hands or rest your forearm when giving money or cards.\n2. Pour drinks for others before you, and wait for the eldest to start eating.\n3. Keep phone calls short on the subway or step off to talk.\nEnjoy your Korean adventure!",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791427411799-1.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791427411799-1.jpg"
+    ],
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-10-08T18:08:46.420Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-08T02:46:46.561Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31909237/pexels-photo-31909237.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8851561/pexels-photo-8851561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29445145/pexels-photo-29445145.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31986858/pexels-photo-31986858.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32196404/pexels-photo-32196404.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2020/04/10/35631-407701592_large.mp4",
+    "videoAttribution": null,
+    "topic": "First-timer etiquette & common mistakes",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제에 맞는 한국 여행 에티켓을 자연스럽게 전달하며, 과장된 사실 없이 유용한 정보를 제공한다",
+      "model": "groq",
+      "checkedAt": "2026-10-08T02:45:52.224Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-first-timer-etiquette-common-mistakes.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "38eabd06-4365-4f28-bb41-d6148b3fb198",
+    "text": "First‑time in Seoul and assume your Visa works everywhere?\n\nIt does in most cafés, convenience stores and restaurants, but tiny traditional markets often take only cash.\n\nLook for ATMs labeled “Global” or with a foreign‑card logo—Woori, KEB Hana and 7‑Eleven are the most reliable.\n\nNever rely on card at a street‑food stall; they’ll turn you away if you don’t have won.\n\nWhat’s the most surprising cash‑only spot you’ve hit? Open the Land in Korea link in the profile.\n\n📖 Open the Land in Korea link in our profile and search “Currency & card payments”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791427637977-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791427637977-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-10-09T02:28:52.891Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-08T02:51:39.303Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g5e12c99e586cac1d79c7f73b86126f937c5df017412eb50c19d89799e0811a2756094bd5a59ddc54ba7ac733d4bc9d9527d31ad40842ad6e2d7683abce128513_1280.jpg",
+      "https://images.pexels.com/photos/38837815/pexels-photo-38837815.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32014957/pexels-photo-32014957.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31663812/pexels-photo-31663812.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://pixabay.com/get/g22528b77495e97ac9dc05bb5c18e338a78e6ffaa73c535c51cec94e2c3a8e366a413d4c009c794e845588f5d455158f96d05799c3da3f8cbdf02c296f45c4c7c_1280.jpg"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2019/02/01/21115-315137069_large.mp4",
+    "videoAttribution": null,
+    "topic": "Currency & card payments",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장도 자연하며 사실도 과장되지 않아 여행자에게 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-10-08T02:50:10.783Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-currency-card-payments.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "2ca6eba1-2f3a-4e88-8503-3dcfd6933419",
+    "text": "Think your foreign Visa will cover every purchase in Korea? It covers most cafés, stores and restaurants—but not every market.\n\n1. Most city cafés, convenience stores, and restaurants accept Visa/Mastercard.\n2. Small traditional markets and some rural spots are cash‑only.\n3. Use ATMs marked “Global” or with foreign‑card logos; Woori, KEB Hana, and 7‑Eleven work best.\n4. Tell your bank your travel dates to prevent a card freeze.\n✅ Keep a small amount of cash for markets.\nWhich spot surprised you most? Save this for your next trip.\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-currency-card-payments.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791427637977-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791427637977-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-10-09T02:33:57.416Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-08T02:51:39.425Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g5e12c99e586cac1d79c7f73b86126f937c5df017412eb50c19d89799e0811a2756094bd5a59ddc54ba7ac733d4bc9d9527d31ad40842ad6e2d7683abce128513_1280.jpg",
+      "https://images.pexels.com/photos/38837815/pexels-photo-38837815.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32014957/pexels-photo-32014957.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31663812/pexels-photo-31663812.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://pixabay.com/get/g22528b77495e97ac9dc05bb5c18e338a78e6ffaa73c535c51cec94e2c3a8e366a413d4c009c794e845588f5d455158f96d05799c3da3f8cbdf02c296f45c4c7c_1280.jpg"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2019/02/01/21115-315137069_large.mp4",
+    "videoAttribution": null,
+    "topic": "Currency & card payments",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장도 자연하며 사실도 과장되지 않아 여행자에게 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-10-08T02:50:10.783Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-currency-card-payments.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "e3d53368-45a3-4680-8661-a8b36d9f1ad7",
+    "text": "Ever walked into a Korean market and your card got rejected?\n\nMost city cafés, convenience stores and restaurants accept Visa/Mastercard, but traditional markets still run cash‑only.\n\nKeep a few hundred won handy and note the Woori, KEB Hana, 7‑Eleven ATMs for reliable cash.\n\n📖 Open the Land in Korea link in our profile and search “Currency & card payments”.\n\n🎬 Video source: Pixabay\n\n#KoreaTravel #SeoulTrip #TravelTips #CashOrCard #FirstTimeInKorea\n\n🎵 🎵 Track: Melanie Ungar - What Is Love\nMusic provided by Jamendo (CC BY).",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1791427848469-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-09T02:41:44.674Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-08T02:51:39.495Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g5e12c99e586cac1d79c7f73b86126f937c5df017412eb50c19d89799e0811a2756094bd5a59ddc54ba7ac733d4bc9d9527d31ad40842ad6e2d7683abce128513_1280.jpg",
+      "https://images.pexels.com/photos/38837815/pexels-photo-38837815.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32014957/pexels-photo-32014957.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31663812/pexels-photo-31663812.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://pixabay.com/get/g22528b77495e97ac9dc05bb5c18e338a78e6ffaa73c535c51cec94e2c3a8e366a413d4c009c794e845588f5d455158f96d05799c3da3f8cbdf02c296f45c4c7c_1280.jpg"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2019/02/01/21115-315137069_large.mp4",
+    "videoAttribution": "Pixabay",
+    "topic": "Currency & card payments",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장도 자연하며 사실도 과장되지 않아 여행자에게 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-10-08T02:50:10.783Z"
+    },
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "7a5501be-9a53-4230-a401-0f26ac94b49c",
+    "text": "Korea cash vs card guide: avoid payment mishaps on your first visit\n\n1. Most city cafés, convenience stores, and restaurants accept Visa/Mastercard.\n2. Traditional markets and some rural shops accept cash only—bring a few hundred won.\n3. Use ATMs marked “Global” or with foreign‑card logos; Woori, KEB Hana, and 7‑Eleven are the most reliable.\n\nRead the full guide on our blog and plan your trip confidently: https://landinkorea.com/cash-card-guide",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791427637977-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791427637977-0.jpg"
+    ],
+    "platforms": [
+      "pinterest"
+    ],
+    "scheduledAt": "2026-10-09T05:29:09.074Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-08T02:51:39.536Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g5e12c99e586cac1d79c7f73b86126f937c5df017412eb50c19d89799e0811a2756094bd5a59ddc54ba7ac733d4bc9d9527d31ad40842ad6e2d7683abce128513_1280.jpg",
+      "https://images.pexels.com/photos/38837815/pexels-photo-38837815.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32014957/pexels-photo-32014957.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31663812/pexels-photo-31663812.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://pixabay.com/get/g22528b77495e97ac9dc05bb5c18e338a78e6ffaa73c535c51cec94e2c3a8e366a413d4c009c794e845588f5d455158f96d05799c3da3f8cbdf02c296f45c4c7c_1280.jpg"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2019/02/01/21115-315137069_large.mp4",
+    "videoAttribution": null,
+    "topic": "Currency & card payments",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장도 자연하며 사실도 과장되지 않아 여행자에게 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-10-08T02:50:10.783Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-currency-card-payments.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "bd30dc4d-9898-4cd8-92a9-38bff85a74d5",
+    "text": "Thinking your foreign Visa works everywhere in Korea? #TravelBlog\n\nIt does in most cafés, convenience stores and restaurants, but tiny traditional markets still demand cash. #KoreaTravel\n\nATMs marked “Global” or showing a Visa/Mastercard logo—especially Woori, KEB Hana and 7‑Eleven—are your safest bet for pulling won.\n\nDon’t rely on card at street‑food stalls; they’ll turn you away if you can’t pay in cash.\n\nWhat cash‑only surprise caught you off guard? #FirstTimeInKorea",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791427637977-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791427637977-0.jpg"
+    ],
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-10-09T03:02:46.469Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-08T02:51:39.573Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g5e12c99e586cac1d79c7f73b86126f937c5df017412eb50c19d89799e0811a2756094bd5a59ddc54ba7ac733d4bc9d9527d31ad40842ad6e2d7683abce128513_1280.jpg",
+      "https://images.pexels.com/photos/38837815/pexels-photo-38837815.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32014957/pexels-photo-32014957.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31663812/pexels-photo-31663812.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://pixabay.com/get/g22528b77495e97ac9dc05bb5c18e338a78e6ffaa73c535c51cec94e2c3a8e366a413d4c009c794e845588f5d455158f96d05799c3da3f8cbdf02c296f45c4c7c_1280.jpg"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2019/02/01/21115-315137069_large.mp4",
+    "videoAttribution": null,
+    "topic": "Currency & card payments",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장도 자연하며 사실도 과장되지 않아 여행자에게 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-10-08T02:50:10.783Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-currency-card-payments.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "13ef139e-896c-4006-9c66-bb42b6c53ae4",
+    "text": "Thinking your foreign Visa works everywhere in Korea?\n\nIt does in most cafés, convenience stores and restaurants, but tiny traditional markets still demand cash.\n\nATMs marked “Global” or showing a Visa/Mastercard logo—especially Woori, KEB Hana and 7‑Eleven—reliably dispense won for foreign cards.\n\nAvoid counting on card at street‑food stalls; they’ll refuse you if you don’t have cash on hand.\n\nWhat cash‑only surprise has caught you off guard? #KoreaTravel #TravelTips #Seoul #FirstTimeInKorea",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791427637977-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791427637977-0.jpg"
+    ],
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-10-09T03:27:38.700Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-08T02:51:39.605Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g5e12c99e586cac1d79c7f73b86126f937c5df017412eb50c19d89799e0811a2756094bd5a59ddc54ba7ac733d4bc9d9527d31ad40842ad6e2d7683abce128513_1280.jpg",
+      "https://images.pexels.com/photos/38837815/pexels-photo-38837815.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32014957/pexels-photo-32014957.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31663812/pexels-photo-31663812.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://pixabay.com/get/g22528b77495e97ac9dc05bb5c18e338a78e6ffaa73c535c51cec94e2c3a8e366a413d4c009c794e845588f5d455158f96d05799c3da3f8cbdf02c296f45c4c7c_1280.jpg"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2019/02/01/21115-315137069_large.mp4",
+    "videoAttribution": null,
+    "topic": "Currency & card payments",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장도 자연하며 사실도 과장되지 않아 여행자에게 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-10-08T02:50:10.783Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-currency-card-payments.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "44fec4d9-fa2c-4fd9-8459-a020a9c80d7b",
+    "text": "Think your Visa works everywhere in Korea? It covers most cafés, convenience stores and restaurants, but traditional markets still demand cash.\n\n1. ATMs labeled “Global” or with foreign‑card logos—Woori, KEB Hana, 7‑Eleven—reliably dispense won.\n2. Notify your bank of travel dates to avoid a frozen card on first use.\n3. Keep a few hundred won on hand for market stalls and rural shops.\nStay prepared and enjoy hassle‑free payments on your trip.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791427637977-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791427637977-0.jpg"
+    ],
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-10-09T05:28:31.360Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-08T02:51:39.633Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g5e12c99e586cac1d79c7f73b86126f937c5df017412eb50c19d89799e0811a2756094bd5a59ddc54ba7ac733d4bc9d9527d31ad40842ad6e2d7683abce128513_1280.jpg",
+      "https://images.pexels.com/photos/38837815/pexels-photo-38837815.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32014957/pexels-photo-32014957.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31663812/pexels-photo-31663812.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://pixabay.com/get/g22528b77495e97ac9dc05bb5c18e338a78e6ffaa73c535c51cec94e2c3a8e366a413d4c009c794e845588f5d455158f96d05799c3da3f8cbdf02c296f45c4c7c_1280.jpg"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2019/02/01/21115-315137069_large.mp4",
+    "videoAttribution": null,
+    "topic": "Currency & card payments",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장도 자연하며 사실도 과장되지 않아 여행자에게 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-10-08T02:50:10.783Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-currency-card-payments.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "lastIndex": 30,
+  "lastIndex": 12,
   "history": [
     {
       "index": 7,
@@ -670,6 +670,21 @@
       "index": 30,
       "topic": "Korean public holidays that disrupt travel plans",
       "at": "2026-10-07T01:46:54.189Z"
+    },
+    {
+      "index": 10,
+      "topic": "Airport transfer options",
+      "at": "2026-10-08T02:37:06.749Z"
+    },
+    {
+      "index": 11,
+      "topic": "First-timer etiquette & common mistakes",
+      "at": "2026-10-08T02:43:11.146Z"
+    },
+    {
+      "index": 12,
+      "topic": "Currency & card payments",
+      "at": "2026-10-08T02:46:46.578Z"
     }
   ],
   "recentImageUrls": [
@@ -1232,7 +1247,22 @@
     "https://images.pexels.com/photos/12166918/pexels-photo-12166918.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://images.pexels.com/photos/12166917/pexels-photo-12166917.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://images.pexels.com/photos/17113723/pexels-photo-17113723.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://images.pexels.com/photos/12166716/pexels-photo-12166716.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "https://images.pexels.com/photos/12166716/pexels-photo-12166716.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://pixabay.com/get/g00ee71169975584608b2676adad59fd3ec7a7ac7fba8f587eaf5b6159c1b3bf71098f025b57d796ab75ebc6279e54e13e0b0495d00269f5796b226f4ef480195_1280.jpg",
+    "https://images.pexels.com/photos/31925340/pexels-photo-31925340.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/5067481/pexels-photo-5067481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://pixabay.com/get/gd71fe6b446c1c3f924ccecaddae30e1bb626a4d1ed57474d7d261ab7784359a78c59d52b7da57b68de7b00271121eaebf8cd4ebcc1de64f665b956caa29f9c9f_1280.jpg",
+    "https://pixabay.com/get/gddc7e73d6c31c6c57d46502ad9639ce860d31337bfaf35e96db1b2c566cbc704396ce4da120d77f26d750941394d2964132ca8dfea4f555c66620d6e9becac96_1280.jpg",
+    "https://images.pexels.com/photos/31909237/pexels-photo-31909237.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/8851561/pexels-photo-8851561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/29445145/pexels-photo-29445145.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/31986858/pexels-photo-31986858.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/32196404/pexels-photo-32196404.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://pixabay.com/get/g5e12c99e586cac1d79c7f73b86126f937c5df017412eb50c19d89799e0811a2756094bd5a59ddc54ba7ac733d4bc9d9527d31ad40842ad6e2d7683abce128513_1280.jpg",
+    "https://images.pexels.com/photos/38837815/pexels-photo-38837815.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/32014957/pexels-photo-32014957.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/31663812/pexels-photo-31663812.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://pixabay.com/get/g22528b77495e97ac9dc05bb5c18e338a78e6ffaa73c535c51cec94e2c3a8e366a413d4c009c794e845588f5d455158f96d05799c3da3f8cbdf02c296f45c4c7c_1280.jpg"
   ],
   "recentVideoUrls": [
     "https://videos.pexels.com/video-files/19577787/19577787-uhd_2160_3840_30fps.mp4",
@@ -1346,7 +1376,10 @@
     "https://cdn.pixabay.com/video/2022/03/22/111645-691223149_large.mp4",
     "https://cdn.pixabay.com/video/2018/05/02/15955-268112371_large.mp4",
     "https://cdn.pixabay.com/video/2024/06/24/218015_large.mp4",
-    "https://cdn.pixabay.com/video/2019/09/05/26571-358053425_large.mp4"
+    "https://cdn.pixabay.com/video/2019/09/05/26571-358053425_large.mp4",
+    "https://cdn.pixabay.com/video/2022/11/24/140254-774824126_large.mp4",
+    "https://cdn.pixabay.com/video/2020/04/10/35631-407701592_large.mp4",
+    "https://cdn.pixabay.com/video/2019/02/01/21115-315137069_large.mp4"
   ],
   "recentMusicUrls": [
     "https://prod-1.storage.jamendo.com/?trackid=20237&format=mp32",
@@ -1405,6 +1438,9 @@
     "https://prod-1.storage.jamendo.com/download/track/78730/mp32/",
     "https://prod-1.storage.jamendo.com/download/track/6575/mp32/",
     "https://prod-1.storage.jamendo.com/download/track/744648/mp32/",
-    "https://prod-1.storage.jamendo.com/download/track/22265/mp32/"
+    "https://prod-1.storage.jamendo.com/download/track/22265/mp32/",
+    "https://prod-1.storage.jamendo.com/download/track/1215805/mp32/",
+    "https://prod-1.storage.jamendo.com/download/track/1057482/mp32/",
+    "https://prod-1.storage.jamendo.com/download/track/1204669/mp32/"
   ]
 }
