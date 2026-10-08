@@ -21582,8 +21582,13 @@
       "facebook"
     ],
     "scheduledAt": "2026-10-07T00:27:33.269Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "122122123233446391",
+        "post_id": "1288453561012463_122122123257446391"
+      }
+    },
     "createdAt": "2026-10-06T03:55:45.413Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -21606,7 +21611,8 @@
       "checkedAt": "2026-10-06T03:55:01.096Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-suwon-hwaseong-fortress.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-10-08T03:24:44.443Z"
   },
   {
     "id": "aec5049e-763e-4d63-8ca3-b607f0e2c4cd",
