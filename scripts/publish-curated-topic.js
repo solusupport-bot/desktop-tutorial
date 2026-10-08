@@ -75,6 +75,10 @@ const main = async () => {
   images.push(...(await fetchTopicImages(item.source, [...recentImages, ...images], seed, 4 - images.length)));
   images.forEach(recordImageUrl);
   const watermarkedImages = await watermarkAndHostImages(images, 'solusupport-bot/desktop-tutorial', process.env.GITHUB_TOKEN);
+  // 인스타그램 피드는 세로(4:5)~1.91:1 밖 사진을 자체 크롭해 우측하단 로고 글자가
+  // 잘려 보인다(lib/media/watermark.js portrait 옵션 참고) — 영상이 없을 때만
+  // 인스타그램용 세로 크롭본을 별도로 만든다.
+  let instagramImages = watermarkedImages;
 
   // 관광공사(TourAPI) 4개 서비스 중 영상 원본을 제공하는 건 없습니다(Odii도 이미지+오디오+
   // 스크립트일 뿐 영상이 아님 — 2026-08-27 확인). 그래서 영상은 Pexels 무료 영상으로 확보합니다.
@@ -106,6 +110,10 @@ const main = async () => {
     }
   }
 
+  if (!instagramVideo && images.length > 0) {
+    instagramImages = await watermarkAndHostImages(images, 'solusupport-bot/desktop-tutorial', process.env.GITHUB_TOKEN, { portrait: true });
+  }
+
   const results = {};
   const blogUrl = withUtm(getBlogLinkForTopic(item.source), 'facebook');
 
@@ -128,7 +136,7 @@ const main = async () => {
     } else if (instagramVideo) {
       payload = { text, videoUrl: instagramVideo };
     } else {
-      payload = { text, imageUrls: watermarkedImages };
+      payload = { text, imageUrls: instagramImages };
     }
     const res = await handler.publish(payload);
     results[platform] = res || { error: 'publish failed' };
