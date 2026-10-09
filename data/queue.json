@@ -20178,7 +20178,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-10-04T05:36:21.283Z",
-    "status": "claimed",
+    "status": "partial",
     "results": {
       "pinterest": {
         "error": "publish failed"
@@ -20208,7 +20208,7 @@
     },
     "blogUrl": "https://landinkorea.com/posts/korea-travel-advisories-safety-notices.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
     "verifyStatus": "passed",
-    "processedAt": "2026-10-08T14:11:27.275Z",
+    "processedAt": "2026-10-09T00:47:59.199Z",
     "retryCount": 1
   },
   {
@@ -22209,8 +22209,12 @@
       "instagram"
     ],
     "scheduledAt": "2026-10-07T15:35:42.181Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "18078258338535887"
+      }
+    },
     "createdAt": "2026-10-07T01:46:54.079Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -22232,7 +22236,8 @@
       "model": "groq",
       "checkedAt": "2026-10-07T01:45:51.029Z"
     },
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-10-09T00:48:25.235Z"
   },
   {
     "id": "52e2914d-0327-4891-bc24-baed8352003a",
@@ -23190,8 +23195,13 @@
       "tumblr"
     ],
     "scheduledAt": "2026-10-08T18:08:46.420Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "tumblr": {
+        "id": "829955146855415808",
+        "url": "https://landinkorea.tumblr.com/post/829955146855415808"
+      }
+    },
     "createdAt": "2026-10-08T02:46:46.561Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -23214,7 +23224,8 @@
       "checkedAt": "2026-10-08T02:45:52.224Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-first-timer-etiquette-common-mistakes.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-10-09T00:48:27.393Z"
   },
   {
     "id": "38eabd06-4365-4f28-bb41-d6148b3fb198",
