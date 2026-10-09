@@ -22499,7 +22499,7 @@
       "instagram"
     ],
     "scheduledAt": "2026-10-08T01:05:56.991Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-10-07T01:49:05.309Z",
     "approved": true,
@@ -23480,7 +23480,7 @@
       "tumblr"
     ],
     "scheduledAt": "2026-10-09T05:28:31.360Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-10-08T02:51:39.633Z",
     "approved": true,
@@ -23662,7 +23662,7 @@
       "bluesky"
     ],
     "scheduledAt": "2026-10-09T04:47:31.815Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-10-09T00:53:10.468Z",
     "approved": true,
@@ -23699,7 +23699,7 @@
       "mastodon"
     ],
     "scheduledAt": "2026-10-09T05:17:25.751Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-10-09T00:53:10.553Z",
     "approved": true,
