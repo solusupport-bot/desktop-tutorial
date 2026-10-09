@@ -20178,7 +20178,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-10-04T05:36:21.283Z",
-    "status": "partial",
+    "status": "claimed",
     "results": {
       "pinterest": {
         "error": "publish failed"
@@ -20208,7 +20208,8 @@
     },
     "blogUrl": "https://landinkorea.com/posts/korea-travel-advisories-safety-notices.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
     "verifyStatus": "passed",
-    "processedAt": "2026-10-08T14:11:27.275Z"
+    "processedAt": "2026-10-08T14:11:27.275Z",
+    "retryCount": 1
   },
   {
     "id": "4d05f2fc-5cba-435a-b4a6-9007d112c2ba",
@@ -22208,7 +22209,7 @@
       "instagram"
     ],
     "scheduledAt": "2026-10-07T15:35:42.181Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-10-07T01:46:54.079Z",
     "approved": true,
@@ -23189,7 +23190,7 @@
       "tumblr"
     ],
     "scheduledAt": "2026-10-08T18:08:46.420Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-10-08T02:46:46.561Z",
     "approved": true,
