@@ -22458,8 +22458,13 @@
       "facebook"
     ],
     "scheduledAt": "2026-10-08T00:59:18.251Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "122122440477446391",
+        "post_id": "1288453561012463_122122440501446391"
+      }
+    },
     "createdAt": "2026-10-07T01:49:05.282Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -22482,7 +22487,8 @@
       "checkedAt": "2026-10-07T01:48:27.820Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-korean-public-holidays-that-disrupt-travel-plans.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-10-09T03:59:01.693Z"
   },
   {
     "id": "740258b1-84e5-4dc0-a9db-4f7d33240eaa",
@@ -23388,8 +23394,13 @@
       "bluesky"
     ],
     "scheduledAt": "2026-10-09T03:02:46.469Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mxg3jdaafc2b",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3mxg3jdaafc2b"
+      }
+    },
     "createdAt": "2026-10-08T02:51:39.573Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -23412,7 +23423,8 @@
       "checkedAt": "2026-10-08T02:50:10.783Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-currency-card-payments.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-10-09T03:59:06.383Z"
   },
   {
     "id": "13ef139e-896c-4006-9c66-bb42b6c53ae4",
@@ -23425,8 +23437,13 @@
       "mastodon"
     ],
     "scheduledAt": "2026-10-09T03:27:38.700Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "mastodon": {
+        "id": "117408946596186795",
+        "url": "https://mastodon.social/@landinkorea/117408946596186795"
+      }
+    },
     "createdAt": "2026-10-08T02:51:39.605Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -23449,7 +23466,8 @@
       "checkedAt": "2026-10-08T02:50:10.783Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-currency-card-payments.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-10-09T03:59:12.638Z"
   },
   {
     "id": "44fec4d9-fa2c-4fd9-8459-a020a9c80d7b",
