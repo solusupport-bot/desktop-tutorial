@@ -20178,7 +20178,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-10-04T05:36:21.283Z",
-    "status": "claimed",
+    "status": "partial",
     "results": {
       "pinterest": {
         "error": "publish failed"
@@ -20208,7 +20208,7 @@
     },
     "blogUrl": "https://landinkorea.com/posts/korea-travel-advisories-safety-notices.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
     "verifyStatus": "passed",
-    "processedAt": "2026-10-09T00:47:59.199Z",
+    "processedAt": "2026-10-09T07:24:16.394Z",
     "retryCount": 2
   },
   {
@@ -22743,8 +22743,13 @@
       "facebook"
     ],
     "scheduledAt": "2026-10-08T04:34:49.633Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "122122500807446391",
+        "post_id": "1288453561012463_122122500831446391"
+      }
+    },
     "createdAt": "2026-10-08T02:43:10.919Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -22767,7 +22772,8 @@
       "checkedAt": "2026-10-08T02:42:09.730Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-airport-transfer-options.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "failed"
+    "verifyStatus": "failed",
+    "processedAt": "2026-10-09T07:24:21.290Z"
   },
   {
     "id": "fa04c5e2-25b1-4009-be72-b8a58e675f9e",
