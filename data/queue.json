@@ -23482,5 +23482,780 @@
     },
     "blogUrl": "https://landinkorea.com/posts/korea-currency-card-payments.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
     "verifyStatus": "passed"
+  },
+  {
+    "id": "b8c441bc-782b-42a6-a6f6-a6a18d61d648",
+    "text": "Most first‑timers assume every 24‑hour shop can sell medicine.\n\nOnly 24‑hr pharmacies exist in a handful of spots—look for the green‑cross sign, like the one near Jongno‑3‑ga.\n\nIf you’re unsure, ask a hotel front desk or store staff; they’ll point you to the nearest after‑hours pharmacy.\n\nRemember Korean OTC names differ; have a Papago‑translated symptom list ready, otherwise you may wait longer.\n\nEver been stuck late at night? Share your story, and open the Land in Korea link in my profile for the full guide.\n\n📖 Open the Land in Korea link in our profile and search “Emergency numbers & 24hr pharmacies”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791506924309-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791506924309-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-10-09T04:16:24.676Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-09T00:53:10.248Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/33097922/pexels-photo-33097922.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40061255/pexels-photo-40061255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37652717/pexels-photo-37652717.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5425955/pexels-photo-5425955.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31955743/pexels-photo-31955743.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2026/03/02/337470_large.mp4",
+    "videoAttribution": null,
+    "topic": "Emergency numbers & 24hr pharmacies",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련된 24시간 약국 정보가 잘 제시돼 있어 발행해도 무방합니다.",
+      "model": "groq",
+      "checkedAt": "2026-10-09T00:51:49.107Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-emergency-numbers-24hr-pharmacies.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "3605784e-a230-40b9-b3ad-778928026a57",
+    "text": "Think 24‑hour convenience stores can give you meds? They can’t—only a few 24‑hr pharmacies have them.\n1️⃣ Look for the green‑cross sign; common near Myeongdong and Hongdae.\n2️⃣ Ask hotel staff or store employees for the nearest after‑hours pharmacy.\n3️⃣ Use Papago to show a translated symptom list to the pharmacist.\n4️⃣ Keep travel insurance handy; Korean hospitals often require upfront payment.\nChecklist: green cross → ask staff → Papago list → insurance ready.\n🩺 What’s the most surprising thing you’ve learned about Korean pharmacies?\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-emergency-numbers-24hr-pharmacies.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791506924309-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791506924309-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-10-09T04:23:32.076Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-09T00:53:10.294Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/33097922/pexels-photo-33097922.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40061255/pexels-photo-40061255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37652717/pexels-photo-37652717.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5425955/pexels-photo-5425955.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31955743/pexels-photo-31955743.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2026/03/02/337470_large.mp4",
+    "videoAttribution": null,
+    "topic": "Emergency numbers & 24hr pharmacies",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련된 24시간 약국 정보가 잘 제시돼 있어 발행해도 무방합니다.",
+      "model": "groq",
+      "checkedAt": "2026-10-09T00:51:49.107Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-emergency-numbers-24hr-pharmacies.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "48089823-65ec-4c35-a65c-e9caf2474fdc",
+    "text": "Can't find meds after midnight in Korea?\nOnly 24‑hr pharmacies have them—spot the green cross, ask staff, and have a Papago symptom list ready.\nSave this for your next night out.\n\n📖 Open the Land in Korea link in our profile and search “Emergency numbers & 24hr pharmacies”.\n\n🎬 Video source: Pixabay\n\n#KoreaTravel #SeoulTrip #TravelTips #FirstTimeInKorea #PharmacyHack\n\n🎵 🎵 Track: Jonathan Dimmel - You've Got It\nMusic provided by Jamendo (CC BY-SA).",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1791507166070-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-09T04:26:41.365Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-09T00:53:10.351Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/33097922/pexels-photo-33097922.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40061255/pexels-photo-40061255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37652717/pexels-photo-37652717.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5425955/pexels-photo-5425955.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31955743/pexels-photo-31955743.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2026/03/02/337470_large.mp4",
+    "videoAttribution": "Pixabay",
+    "topic": "Emergency numbers & 24hr pharmacies",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련된 24시간 약국 정보가 잘 제시돼 있어 발행해도 무방합니다.",
+      "model": "groq",
+      "checkedAt": "2026-10-09T00:51:49.107Z"
+    },
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "a2e8f8e2-468c-4b40-9d91-a07406c048dc",
+    "text": "Korea night‑pharmacy guide: never get stuck without medicine after dark. 1️⃣ Spot the green‑cross sign – the most reliable 24‑hr pharmacy is near Jongno‑3‑ga. 2️⃣ Ask hotel front desk or any store staff for the nearest after‑hours pharmacy. 3️⃣ Bring a Papago‑translated symptom list to speed up service. Read the full guide and plan ahead at https://landinkorea.com/blog/night-pharmacy – click to learn more.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791506924309-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791506924309-0.jpg"
+    ],
+    "platforms": [
+      "pinterest"
+    ],
+    "scheduledAt": "2026-10-09T07:18:22.281Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-09T00:53:10.401Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/33097922/pexels-photo-33097922.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40061255/pexels-photo-40061255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37652717/pexels-photo-37652717.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5425955/pexels-photo-5425955.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31955743/pexels-photo-31955743.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2026/03/02/337470_large.mp4",
+    "videoAttribution": null,
+    "topic": "Emergency numbers & 24hr pharmacies",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련된 24시간 약국 정보가 잘 제시돼 있어 발행해도 무방합니다.",
+      "model": "groq",
+      "checkedAt": "2026-10-09T00:51:49.107Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-emergency-numbers-24hr-pharmacies.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "305b20c6-731d-4f54-8513-bc0bf28033eb",
+    "text": "Many travelers think any 24‑hour store in Seoul can sell medicine.\n\nOnly a few 24‑hr pharmacies exist – the most reliable one is near Jongno‑3‑ga, marked by a green‑cross sign.\n\nAsk your hotel front desk or a convenience‑store clerk; they’ll direct you to the nearest after‑hours pharmacy.\n\nKorean OTC names differ, so keep a Papago‑translated symptom list ready to avoid delays.\n\nWhat late‑night pharmacy experience have you had in Korea? #TravelBlog #KoreaTravel",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791506924309-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791506924309-0.jpg"
+    ],
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-10-09T04:47:31.815Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-09T00:53:10.468Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/33097922/pexels-photo-33097922.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40061255/pexels-photo-40061255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37652717/pexels-photo-37652717.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5425955/pexels-photo-5425955.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31955743/pexels-photo-31955743.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2026/03/02/337470_large.mp4",
+    "videoAttribution": null,
+    "topic": "Emergency numbers & 24hr pharmacies",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련된 24시간 약국 정보가 잘 제시돼 있어 발행해도 무방합니다.",
+      "model": "groq",
+      "checkedAt": "2026-10-09T00:51:49.107Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-emergency-numbers-24hr-pharmacies.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "2560939e-0233-43ce-bdd7-86f3f7e0ae9d",
+    "text": "Many travelers assume any 24‑hour shop can dispense medication.\n\nIn reality, only a handful of 24‑hr pharmacies operate – the most dependable one sits near Jongno‑3‑ga, identifiable by its green‑cross sign.\n\nIf you’re lost, ask the hotel front desk or a nearby store employee; they’ll point you to the nearest after‑hours pharmacy.\n\nBecause Korean OTC product names differ from Western brands, have a Papago‑translated symptom list ready to speed up the consultation.\n\nHave you ever missed a dose because you couldn’t find a pharmacy? #KoreaTravel #TravelTips #Seoul #FirstTimeInKorea #SafetyTips",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791506924309-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791506924309-0.jpg"
+    ],
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-10-09T05:17:25.751Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-09T00:53:10.553Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/33097922/pexels-photo-33097922.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40061255/pexels-photo-40061255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37652717/pexels-photo-37652717.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5425955/pexels-photo-5425955.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31955743/pexels-photo-31955743.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2026/03/02/337470_large.mp4",
+    "videoAttribution": null,
+    "topic": "Emergency numbers & 24hr pharmacies",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련된 24시간 약국 정보가 잘 제시돼 있어 발행해도 무방합니다.",
+      "model": "groq",
+      "checkedAt": "2026-10-09T00:51:49.107Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-emergency-numbers-24hr-pharmacies.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "d2fc7c5a-166d-43ca-9e6f-c4e8acbb07b7",
+    "text": "Think 24‑hour convenience stores can sell medicine? They can’t—only a few 24‑hr pharmacies, like the green‑cross spot near Jongno‑3‑ga, are open after dark.\n1. Look for the green‑cross sign; common near Myeongdong and Hongdae.\n2. Ask hotel staff or store employees for the nearest after‑hours pharmacy.\n3. Bring a Papago‑translated symptom list to the pharmacist.\nStay prepared and travel worry‑free.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791506924309-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791506924309-0.jpg"
+    ],
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-10-09T07:14:00.561Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-09T00:53:10.584Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/33097922/pexels-photo-33097922.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40061255/pexels-photo-40061255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37652717/pexels-photo-37652717.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5425955/pexels-photo-5425955.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31955743/pexels-photo-31955743.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2026/03/02/337470_large.mp4",
+    "videoAttribution": null,
+    "topic": "Emergency numbers & 24hr pharmacies",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련된 24시간 약국 정보가 잘 제시돼 있어 발행해도 무방합니다.",
+      "model": "groq",
+      "checkedAt": "2026-10-09T00:51:49.107Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-emergency-numbers-24hr-pharmacies.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "d0d47c0b-5ab5-4f12-b326-1e647fb68e45",
+    "text": "Most first‑timers waste half an hour wandering because they trust Google Maps right after landing.\n\nThe fix? Switch to Naver Map – it shows subway exits and bus routes that Google simply omits.\n\nTip: Save Naver Map offline for Seoul and Busan; the app updates in real‑time even without data.\n\nAvoid relying on street‑view; Korean signs use different numbering, so double‑check the exit number before you go.\n\nWhich app saved you the most time on your first day in Korea? Open the Land in Korea link in our profile for more.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791507210205-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791507210205-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-10-09T15:45:43.006Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-09T00:56:43.563Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/32073490/pexels-photo-32073490.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31858123/pexels-photo-31858123.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32014955/pexels-photo-32014955.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://pixabay.com/get/gdde29eaff531eb771e02370e145580b702e9fb3a67eaa147abbd14cca6dc19e1d2533d20807932c10e6c738a670c5d4c966f20fb31b9eeaf42d49339679492fd_1280.jpg",
+      "https://pixabay.com/get/g713e2dccd475f46b8ec3f1e2d3b728bf73a29f5d9dbac76ad6278286fa6141fe3a43fa018f83d13c8e7c4e79f94a2b6ec8fbbec236f3525806cb0479f0d20e80_1280.jpg"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/10/29/137022-765458082_large.mp4",
+    "videoAttribution": null,
+    "topic": "Useful travel apps",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽으며 사실도 크게 과장되지 않아 여행 콘텐츠로서 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-10-09T00:55:10.523Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-useful-travel-apps.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "4e01d992-f809-498a-9802-3c94f490e59f",
+    "text": "Think Google Maps will get you everywhere in Korea? It fails at subway exits – Naver Map has them.\n1️⃣ Naver Map & KakaoMap give real‑time transit routes.\n2️⃣ Papago translates menus instantly via camera.\n3️⃣ Kakao T summons reliable taxis, even after midnight.\n4️⃣ Download offline maps before you land.\nQuick checklist: Naver Map, Papago, Kakao T installed.\nWhich app do you swear by when navigating Seoul? 💡\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-useful-travel-apps.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791507210205-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791507210205-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-10-09T15:52:20.188Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-09T00:56:43.595Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/32073490/pexels-photo-32073490.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31858123/pexels-photo-31858123.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32014955/pexels-photo-32014955.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://pixabay.com/get/gdde29eaff531eb771e02370e145580b702e9fb3a67eaa147abbd14cca6dc19e1d2533d20807932c10e6c738a670c5d4c966f20fb31b9eeaf42d49339679492fd_1280.jpg",
+      "https://pixabay.com/get/g713e2dccd475f46b8ec3f1e2d3b728bf73a29f5d9dbac76ad6278286fa6141fe3a43fa018f83d13c8e7c4e79f94a2b6ec8fbbec236f3525806cb0479f0d20e80_1280.jpg"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/10/29/137022-765458082_large.mp4",
+    "videoAttribution": null,
+    "topic": "Useful travel apps",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽으며 사실도 크게 과장되지 않아 여행 콘텐츠로서 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-10-09T00:55:10.523Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-useful-travel-apps.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "c2684d9c-fd03-4149-819c-8b7d63666391",
+    "text": "Lost in Seoul after stepping off the plane?\nGoogle Maps stops at the gate – Naver Map shows every subway exit and bus line you need.\nSave this post so you never wander aimlessly again.\n\n📖 Open the Land in Korea link in our profile and search “Useful travel apps”.\n\n🎬 Video source: Pixabay\n\n#KoreaTravel #SeoulTrip #TravelTips #NaverMap #Papago\n\n🎵 🎵 Track: Lilly Wolf - Stitches ft. Shane MauX\nMusic provided by Jamendo (CC BY).",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1791507372556-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-09T15:51:58.194Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-09T00:56:43.622Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/32073490/pexels-photo-32073490.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31858123/pexels-photo-31858123.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32014955/pexels-photo-32014955.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://pixabay.com/get/gdde29eaff531eb771e02370e145580b702e9fb3a67eaa147abbd14cca6dc19e1d2533d20807932c10e6c738a670c5d4c966f20fb31b9eeaf42d49339679492fd_1280.jpg",
+      "https://pixabay.com/get/g713e2dccd475f46b8ec3f1e2d3b728bf73a29f5d9dbac76ad6278286fa6141fe3a43fa018f83d13c8e7c4e79f94a2b6ec8fbbec236f3525806cb0479f0d20e80_1280.jpg"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/10/29/137022-765458082_large.mp4",
+    "videoAttribution": "Pixabay",
+    "topic": "Useful travel apps",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽으며 사실도 크게 과장되지 않아 여행 콘텐츠로서 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-10-09T00:55:10.523Z"
+    },
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "fd6fdaaa-76b7-428d-bf9c-11ac4beafac4",
+    "text": "Korea navigation apps: avoid getting lost with these proven tools.\n1️⃣ Naver Map – shows exact subway exit numbers (Seoul Station Exit 4) and real‑time bus locations.\n2️⃣ Papago – camera translation reads menus instantly, no typing required.\n3️⃣ Kakao T – summons a taxi at any hour, even 2 am.\nRead the full guide on our blog → https://landinkorea.com/blog/navigation",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791507210205-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791507210205-0.jpg"
+    ],
+    "platforms": [
+      "pinterest"
+    ],
+    "scheduledAt": "2026-10-09T18:42:05.863Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-09T00:56:43.647Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/32073490/pexels-photo-32073490.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31858123/pexels-photo-31858123.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32014955/pexels-photo-32014955.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://pixabay.com/get/gdde29eaff531eb771e02370e145580b702e9fb3a67eaa147abbd14cca6dc19e1d2533d20807932c10e6c738a670c5d4c966f20fb31b9eeaf42d49339679492fd_1280.jpg",
+      "https://pixabay.com/get/g713e2dccd475f46b8ec3f1e2d3b728bf73a29f5d9dbac76ad6278286fa6141fe3a43fa018f83d13c8e7c4e79f94a2b6ec8fbbec236f3525806cb0479f0d20e80_1280.jpg"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/10/29/137022-765458082_large.mp4",
+    "videoAttribution": null,
+    "topic": "Useful travel apps",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽으며 사실도 크게 과장되지 않아 여행 콘텐츠로서 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-10-09T00:55:10.523Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-useful-travel-apps.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "eda0c49f-05db-43e6-98c9-5cd584846f6c",
+    "text": "First‑time in Korea? Most travelers waste 30 minutes because Google Maps doesn’t show subway exit numbers.\n\nSwitch to Naver Map – it lists every exit, like Seoul Station Exit 4, and gives live bus routes.\n\nPro tip: Keep Naver Map offline; it still works without data, perfect for subway tunnels.\n\nCaution: Street‑view often shows outdated signs, so always verify the exit number on the station map.\n\nWhat’s the one app you can’t travel without in Korea? #TravelBlog #KoreaTravel",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791507210205-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791507210205-0.jpg"
+    ],
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-10-09T16:16:08.908Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-09T00:56:43.685Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/32073490/pexels-photo-32073490.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31858123/pexels-photo-31858123.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32014955/pexels-photo-32014955.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://pixabay.com/get/gdde29eaff531eb771e02370e145580b702e9fb3a67eaa147abbd14cca6dc19e1d2533d20807932c10e6c738a670c5d4c966f20fb31b9eeaf42d49339679492fd_1280.jpg",
+      "https://pixabay.com/get/g713e2dccd475f46b8ec3f1e2d3b728bf73a29f5d9dbac76ad6278286fa6141fe3a43fa018f83d13c8e7c4e79f94a2b6ec8fbbec236f3525806cb0479f0d20e80_1280.jpg"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/10/29/137022-765458082_large.mp4",
+    "videoAttribution": null,
+    "topic": "Useful travel apps",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽으며 사실도 크게 과장되지 않아 여행 콘텐츠로서 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-10-09T00:55:10.523Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-useful-travel-apps.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "e05ec73b-0abc-463f-9fc8-efa24db9b39c",
+    "text": "First‑time visitor? Google Maps leaves you wandering after you land, missing crucial subway exit info.\n\nNaver Map solves this – it lists exact exits (Seoul Station Exit 4) and provides real‑time bus routes.\n\nKeep Naver Map offline; the app still gives directions in tunnels where data drops.\n\nWatch out: Korean street‑view can be outdated, so double‑check exit numbers on the station signage.\n\nWhich navigation app saved you the most time in Korea? #KoreaTravel #TravelTips #Seoul #FirstTimeInKorea",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791507210205-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791507210205-0.jpg"
+    ],
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-10-09T16:45:54.552Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-09T00:56:43.721Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/32073490/pexels-photo-32073490.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31858123/pexels-photo-31858123.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32014955/pexels-photo-32014955.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://pixabay.com/get/gdde29eaff531eb771e02370e145580b702e9fb3a67eaa147abbd14cca6dc19e1d2533d20807932c10e6c738a670c5d4c966f20fb31b9eeaf42d49339679492fd_1280.jpg",
+      "https://pixabay.com/get/g713e2dccd475f46b8ec3f1e2d3b728bf73a29f5d9dbac76ad6278286fa6141fe3a43fa018f83d13c8e7c4e79f94a2b6ec8fbbec236f3525806cb0479f0d20e80_1280.jpg"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/10/29/137022-765458082_large.mp4",
+    "videoAttribution": null,
+    "topic": "Useful travel apps",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽으며 사실도 크게 과장되지 않아 여행 콘텐츠로서 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-10-09T00:55:10.523Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-useful-travel-apps.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "f933e1e7-0069-4058-a618-4aea6cb40043",
+    "text": "Google Maps quits at the airport gate, but Naver Map shows every subway exit and bus line you’ll need.\n1. Naver Map lists exact exit numbers – e.g., Seoul Station Exit 4 – and live bus locations.\n2. Papago’s camera translation reads Korean menus instantly, no typing.\n3. Kakao T calls a reliable taxi any hour, even 2 am.\nNever get lost again – keep these apps handy.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791507210205-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791507210205-0.jpg"
+    ],
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-10-09T18:46:26.126Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-09T00:56:43.747Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/32073490/pexels-photo-32073490.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31858123/pexels-photo-31858123.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32014955/pexels-photo-32014955.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://pixabay.com/get/gdde29eaff531eb771e02370e145580b702e9fb3a67eaa147abbd14cca6dc19e1d2533d20807932c10e6c738a670c5d4c966f20fb31b9eeaf42d49339679492fd_1280.jpg",
+      "https://pixabay.com/get/g713e2dccd475f46b8ec3f1e2d3b728bf73a29f5d9dbac76ad6278286fa6141fe3a43fa018f83d13c8e7c4e79f94a2b6ec8fbbec236f3525806cb0479f0d20e80_1280.jpg"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/10/29/137022-765458082_large.mp4",
+    "videoAttribution": null,
+    "topic": "Useful travel apps",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽으며 사실도 크게 과장되지 않아 여행 콘텐츠로서 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-10-09T00:55:10.523Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-useful-travel-apps.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "a40c872f-568c-4436-9736-c17e513716a3",
+    "text": "Most first‑time visitors skip the cheapest breakfast spot in Seoul.\n\nYou can grab a coffee‑toast combo for just 2,000 won at any CU convenience store near the subway.\n\nCU counters stay open 24 h, so you’re covered even when cafés are closed early.\n\nBeware: foreign‑card ATM fees still apply, so check your bank’s rates before withdrawing.\n\nWhat’s the best early‑morning snack you’ve discovered in Korea? Open the Land in Korea link in the profile.\n\n📖 Open the Land in Korea link in our profile and search “Convenience store hacks”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791507415779-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791507415779-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-10-10T02:55:47.797Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-09T01:00:31.089Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/32196395/pexels-photo-32196395.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31858176/pexels-photo-31858176.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/2881888/pexels-photo-2881888.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31909191/pexels-photo-31909191.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33675155/pexels-photo-33675155.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2019/10/15/27925-366477455_large.mp4",
+    "videoAttribution": null,
+    "topic": "Convenience store hacks",
+    "qualityGate": {
+      "pass": true,
+      "reason": "로컬 AI 품질 검사 통과",
+      "model": "ollaya/laya:multilingual",
+      "confidence": 0.633,
+      "checkedAt": "2026-10-09T00:59:31.779Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-convenience-store-hacks.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "5315fc7a-56ff-4954-b156-17ee66b6fe81",
+    "text": "☕ Skip pricey cafés—CU convenience stores sell coffee‑toast combos for just 2,000 won, the cheapest breakfast in Seoul.\n1️⃣ Open 24 h, perfect for early arrivals before any restaurant opens.\n2️⃣ Counters also stock single‑dose meds like painkillers and cold tablets.\n3️⃣ Every CU has an ATM; foreign‑card withdrawal fees usually apply—check your app.\n4️⃣ Pay with cash or card; the combo includes a pastry and a hot drink.\n✅ Quick, cheap, and always open.\nWhich convenience‑store hack saved you money on your first day?\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-convenience-store-hacks.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791507415779-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791507415779-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-10-10T03:02:29.752Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-09T01:00:31.123Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/32196395/pexels-photo-32196395.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31858176/pexels-photo-31858176.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/2881888/pexels-photo-2881888.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31909191/pexels-photo-31909191.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33675155/pexels-photo-33675155.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2019/10/15/27925-366477455_large.mp4",
+    "videoAttribution": null,
+    "topic": "Convenience store hacks",
+    "qualityGate": {
+      "pass": true,
+      "reason": "로컬 AI 품질 검사 통과",
+      "model": "ollaya/laya:multilingual",
+      "confidence": 0.633,
+      "checkedAt": "2026-10-09T00:59:31.779Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-convenience-store-hacks.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "f7f1bc56-f859-433b-a9ca-86082ad2cf63",
+    "text": "Think you need a café for breakfast in Seoul?\nCU stores serve coffee‑toast combos for just 2,000 won, open all night.\nSave this for your first‑morning itinerary!\n\n📖 Open the Land in Korea link in our profile and search “Convenience store hacks”.\n\n🎬 Video source: Pixabay\n\n#KoreaTravel #SeoulTrip #TravelTips #ConvenienceStore #BudgetTravel\n\n🎵 🎵 Track: Melanie Ungar - What Is Love\nMusic provided by Jamendo (CC BY).",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1791507605079-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-10T03:10:28.083Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-09T01:00:31.147Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/32196395/pexels-photo-32196395.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31858176/pexels-photo-31858176.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/2881888/pexels-photo-2881888.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31909191/pexels-photo-31909191.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33675155/pexels-photo-33675155.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2019/10/15/27925-366477455_large.mp4",
+    "videoAttribution": "Pixabay",
+    "topic": "Convenience store hacks",
+    "qualityGate": {
+      "pass": true,
+      "reason": "로컬 AI 품질 검사 통과",
+      "model": "ollaya/laya:multilingual",
+      "confidence": 0.633,
+      "checkedAt": "2026-10-09T00:59:31.779Z"
+    },
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "97e46847-c4f2-4e7e-a2da-d56fa8380e83",
+    "text": "Korea cheap breakfast guide: save money & time\n1. Grab a coffee‑toast combo at any CU store for 2,000 won – available 24 h.\n2. Pick up single‑dose medication (painkillers, cold tablets) at the same counter.\n3. Use the CU ATM for cash, but check foreign‑card withdrawal fees first.\nRead the full guide and more tips at https://landinkorea.com/blog/cheap-breakfast – click to learn how to start your day cheap and happy.\nAlt text: Photo of a CU convenience store counter with coffee and toast.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791507415779-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791507415779-0.jpg"
+    ],
+    "platforms": [
+      "pinterest"
+    ],
+    "scheduledAt": "2026-10-10T06:01:17.634Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-09T01:00:31.175Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/32196395/pexels-photo-32196395.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31858176/pexels-photo-31858176.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/2881888/pexels-photo-2881888.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31909191/pexels-photo-31909191.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33675155/pexels-photo-33675155.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2019/10/15/27925-366477455_large.mp4",
+    "videoAttribution": null,
+    "topic": "Convenience store hacks",
+    "qualityGate": {
+      "pass": true,
+      "reason": "로컬 AI 품질 검사 통과",
+      "model": "ollaya/laya:multilingual",
+      "confidence": 0.633,
+      "checkedAt": "2026-10-09T00:59:31.779Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-convenience-store-hacks.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "7a3b0ce8-5429-4dcb-8efd-180b28f82915",
+    "text": "Most travelers miss the cheapest breakfast option in Seoul.\n\nCU convenience stores sell coffee‑toast combos for just 2,000 won, open 24 h near major subway stations.\n\nThe same counters also carry single‑dose meds like painkillers and cold tablets for quick relief.\n\nForeign‑card ATM withdrawals at CU still incur fees; verify your bank’s charges before pulling cash.\n\nHave you tried a CU breakfast on your first morning? #TravelBlog #KoreaTravel",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791507415779-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791507415779-0.jpg"
+    ],
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-10-10T03:29:33.781Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-09T01:00:31.230Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/32196395/pexels-photo-32196395.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31858176/pexels-photo-31858176.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/2881888/pexels-photo-2881888.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31909191/pexels-photo-31909191.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33675155/pexels-photo-33675155.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2019/10/15/27925-366477455_large.mp4",
+    "videoAttribution": null,
+    "topic": "Convenience store hacks",
+    "qualityGate": {
+      "pass": true,
+      "reason": "로컬 AI 품질 검사 통과",
+      "model": "ollaya/laya:multilingual",
+      "confidence": 0.633,
+      "checkedAt": "2026-10-09T00:59:31.779Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-convenience-store-hacks.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "26278069-b9cb-4033-8d7b-9fcacb68ba0a",
+    "text": "First‑time visitors often overlook the cheapest way to eat breakfast in Seoul.\n\nAt any CU convenience store you can buy a coffee‑toast combo for only 2,000 won, and the stores are open around the clock, especially near subway hubs.\n\nThese counters also sell single‑dose medication such as painkillers and cold tablets, handy when pharmacy hours are limited.\n\nIf you need cash, CU ATMs accept foreign cards, but expect a withdrawal fee; check your bank’s policy to avoid surprise costs.\n\nWhat’s your go‑to early‑morning snack in Korea? #KoreaTravel #TravelTips #Seoul",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791507415779-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791507415779-0.jpg"
+    ],
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-10-10T03:57:11.325Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-09T01:00:31.263Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/32196395/pexels-photo-32196395.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31858176/pexels-photo-31858176.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/2881888/pexels-photo-2881888.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31909191/pexels-photo-31909191.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33675155/pexels-photo-33675155.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2019/10/15/27925-366477455_large.mp4",
+    "videoAttribution": null,
+    "topic": "Convenience store hacks",
+    "qualityGate": {
+      "pass": true,
+      "reason": "로컬 AI 품질 검사 통과",
+      "model": "ollaya/laya:multilingual",
+      "confidence": 0.633,
+      "checkedAt": "2026-10-09T00:59:31.779Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-convenience-store-hacks.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "45c5ed21-dfc4-4b4d-b4d9-304c13f77155",
+    "text": "Skip pricey cafés—CU convenience stores offer coffee‑toast combos for just 2,000 won, the cheapest breakfast in Seoul.\n1. Open 24 h, so you can eat before any restaurant opens.\n2. They also stock single‑dose meds like painkillers and cold tablets.\n3. ATMs are on‑site, but foreign‑card fees usually apply—check your app first.\nKeep this tip handy for your first morning in Korea.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791507415779-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791507415779-0.jpg"
+    ],
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-10-10T05:56:14.955Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-09T01:00:31.315Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/32196395/pexels-photo-32196395.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31858176/pexels-photo-31858176.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/2881888/pexels-photo-2881888.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31909191/pexels-photo-31909191.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33675155/pexels-photo-33675155.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2019/10/15/27925-366477455_large.mp4",
+    "videoAttribution": null,
+    "topic": "Convenience store hacks",
+    "qualityGate": {
+      "pass": true,
+      "reason": "로컬 AI 품질 검사 통과",
+      "model": "ollaya/laya:multilingual",
+      "confidence": 0.633,
+      "checkedAt": "2026-10-09T00:59:31.779Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-convenience-store-hacks.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
   }
 ]
