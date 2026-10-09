@@ -23033,7 +23033,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-10-08T15:18:08.877Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-10-08T02:46:46.361Z",
     "approved": true,
@@ -23963,7 +23963,7 @@
       "bluesky"
     ],
     "scheduledAt": "2026-10-09T16:16:08.908Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-10-09T00:56:43.685Z",
     "approved": true,
