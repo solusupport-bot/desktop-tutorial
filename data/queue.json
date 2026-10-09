@@ -24012,8 +24012,13 @@
       "mastodon"
     ],
     "scheduledAt": "2026-10-09T16:45:54.552Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "mastodon": {
+        "id": "117412112551596623",
+        "url": "https://mastodon.social/@landinkorea/117412112551596623"
+      }
+    },
     "createdAt": "2026-10-09T00:56:43.721Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -24036,7 +24041,8 @@
       "checkedAt": "2026-10-09T00:55:10.523Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-useful-travel-apps.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-10-09T17:24:23.153Z"
   },
   {
     "id": "f933e1e7-0069-4058-a618-4aea6cb40043",
