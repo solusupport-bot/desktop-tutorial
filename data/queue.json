@@ -23582,8 +23582,12 @@
       "threads"
     ],
     "scheduledAt": "2026-10-09T04:16:24.676Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18117749908977931"
+      }
+    },
     "createdAt": "2026-10-09T00:53:10.248Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -23606,7 +23610,8 @@
       "checkedAt": "2026-10-09T00:51:49.107Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-emergency-numbers-24hr-pharmacies.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-10-10T13:25:46.400Z"
   },
   {
     "id": "3605784e-a230-40b9-b3ad-778928026a57",
