@@ -20751,8 +20751,12 @@
       "pinterest"
     ],
     "scheduledAt": "2026-10-05T05:05:18.733Z",
-    "status": "claimed",
-    "results": {},
+    "status": "partial",
+    "results": {
+      "pinterest": {
+        "error": "publish failed"
+      }
+    },
     "createdAt": "2026-10-04T00:58:52.193Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -20776,7 +20780,8 @@
       "checkedAt": "2026-10-04T00:57:29.817Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-everland-vs-lotte-world-theme-parks.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-10-10T00:24:19.187Z"
   },
   {
     "id": "41ef41ba-3925-4b22-8ff5-b7abb48b428b",
@@ -22996,8 +23001,12 @@
       "threads"
     ],
     "scheduledAt": "2026-10-08T15:12:28.920Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18036794111851932"
+      }
+    },
     "createdAt": "2026-10-08T02:46:46.318Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -23020,7 +23029,8 @@
       "checkedAt": "2026-10-08T02:45:52.224Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-first-timer-etiquette-common-mistakes.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-10-10T00:25:28.568Z"
   },
   {
     "id": "498f2fa5-8f35-4a80-a9be-818e4573fe50",
@@ -24055,8 +24065,13 @@
       "tumblr"
     ],
     "scheduledAt": "2026-10-09T18:46:26.126Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "tumblr": {
+        "id": "830044300390842368",
+        "url": "https://landinkorea.tumblr.com/post/830044300390842368"
+      }
+    },
     "createdAt": "2026-10-09T00:56:43.747Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -24079,7 +24094,8 @@
       "checkedAt": "2026-10-09T00:55:10.523Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-useful-travel-apps.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-10-10T00:25:30.745Z"
   },
   {
     "id": "a40c872f-568c-4436-9736-c17e513716a3",
