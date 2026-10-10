@@ -20751,7 +20751,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-10-05T05:05:18.733Z",
-    "status": "claimed",
+    "status": "partial",
     "results": {
       "pinterest": {
         "error": "publish failed"
@@ -20781,7 +20781,7 @@
     },
     "blogUrl": "https://landinkorea.com/posts/korea-everland-vs-lotte-world-theme-parks.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
     "verifyStatus": "passed",
-    "processedAt": "2026-10-10T00:24:19.187Z",
+    "processedAt": "2026-10-10T12:37:54.052Z",
     "retryCount": 1
   },
   {
@@ -23375,8 +23375,12 @@
       "instagram"
     ],
     "scheduledAt": "2026-10-09T02:41:44.674Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "18354277693223257"
+      }
+    },
     "createdAt": "2026-10-08T02:51:39.495Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -23398,7 +23402,8 @@
       "model": "groq",
       "checkedAt": "2026-10-08T02:50:10.783Z"
     },
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-10-10T12:39:03.656Z"
   },
   {
     "id": "7a5501be-9a53-4230-a401-0f26ac94b49c",
@@ -24362,8 +24367,13 @@
       "tumblr"
     ],
     "scheduledAt": "2026-10-10T05:56:14.955Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "tumblr": {
+        "id": "830090453374435328",
+        "url": "https://landinkorea.tumblr.com/post/830090453374435328"
+      }
+    },
     "createdAt": "2026-10-09T01:00:31.315Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -24387,7 +24397,8 @@
       "checkedAt": "2026-10-09T00:59:31.779Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-convenience-store-hacks.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-10-10T12:39:06.057Z"
   },
   {
     "id": "b915b87b-70e8-447e-bc5a-d5ef04910e78",
@@ -24549,8 +24560,13 @@
       "bluesky"
     ],
     "scheduledAt": "2026-10-10T03:47:07.267Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mxjj2adbd62l",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3mxjj2adbd62l"
+      }
+    },
     "createdAt": "2026-10-10T00:11:45.880Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -24574,7 +24590,8 @@
       "checkedAt": "2026-10-10T00:10:23.849Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-seasonal-packing-weather-tips.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-10-10T12:39:12.473Z"
   },
   {
     "id": "fbbfa91b-59a5-4cdd-8b6e-063c3ea45e2a",
@@ -24587,8 +24604,13 @@
       "mastodon"
     ],
     "scheduledAt": "2026-10-10T04:22:07.021Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "mastodon": {
+        "id": "117416654055342282",
+        "url": "https://mastodon.social/@landinkorea/117416654055342282"
+      }
+    },
     "createdAt": "2026-10-10T00:11:45.918Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -24612,7 +24634,8 @@
       "checkedAt": "2026-10-10T00:10:23.849Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-seasonal-packing-weather-tips.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-10-10T12:39:18.912Z"
   },
   {
     "id": "69cc3234-1868-4102-aec8-1fd4fce4553e",
