@@ -20751,7 +20751,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-10-05T05:05:18.733Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-10-04T00:58:52.193Z",
     "approved": true,
@@ -22996,7 +22996,7 @@
       "threads"
     ],
     "scheduledAt": "2026-10-08T15:12:28.920Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-10-08T02:46:46.318Z",
     "approved": true,
@@ -24055,7 +24055,7 @@
       "tumblr"
     ],
     "scheduledAt": "2026-10-09T18:46:26.126Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-10-09T00:56:43.747Z",
     "approved": true,
