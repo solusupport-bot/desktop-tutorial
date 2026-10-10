@@ -23291,8 +23291,12 @@
       "threads"
     ],
     "scheduledAt": "2026-10-09T02:28:52.891Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "17882545926529334"
+      }
+    },
     "createdAt": "2026-10-08T02:51:39.303Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -23315,7 +23319,8 @@
       "checkedAt": "2026-10-08T02:50:10.783Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-currency-card-payments.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-10-10T04:25:40.358Z"
   },
   {
     "id": "2ca6eba1-2f3a-4e88-8503-3dcfd6933419",
@@ -24262,8 +24267,13 @@
       "bluesky"
     ],
     "scheduledAt": "2026-10-10T03:29:33.781Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mxini3iteh2y",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3mxini3iteh2y"
+      }
+    },
     "createdAt": "2026-10-09T01:00:31.230Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -24287,7 +24297,8 @@
       "checkedAt": "2026-10-09T00:59:31.779Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-convenience-store-hacks.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-10-10T04:25:52.326Z"
   },
   {
     "id": "26278069-b9cb-4033-8d7b-9fcacb68ba0a",
@@ -24300,8 +24311,13 @@
       "mastodon"
     ],
     "scheduledAt": "2026-10-10T03:57:11.325Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "mastodon": {
+        "id": "117414714359533852",
+        "url": "https://mastodon.social/@landinkorea/117414714359533852"
+      }
+    },
     "createdAt": "2026-10-09T01:00:31.263Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -24325,7 +24341,8 @@
       "checkedAt": "2026-10-09T00:59:31.779Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-convenience-store-hacks.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-10-10T04:26:00.852Z"
   },
   {
     "id": "45c5ed21-dfc4-4b4d-b4d9-304c13f77155",
