@@ -23291,7 +23291,7 @@
       "threads"
     ],
     "scheduledAt": "2026-10-09T02:28:52.891Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-10-08T02:51:39.303Z",
     "approved": true,
@@ -24262,7 +24262,7 @@
       "bluesky"
     ],
     "scheduledAt": "2026-10-10T03:29:33.781Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-10-09T01:00:31.230Z",
     "approved": true,
@@ -24300,7 +24300,7 @@
       "mastodon"
     ],
     "scheduledAt": "2026-10-10T03:57:11.325Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-10-09T01:00:31.263Z",
     "approved": true,
