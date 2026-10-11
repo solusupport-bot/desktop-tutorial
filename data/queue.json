@@ -23872,7 +23872,7 @@
       "threads"
     ],
     "scheduledAt": "2026-10-09T15:45:43.006Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-10-09T00:56:43.563Z",
     "approved": true,
@@ -25202,7 +25202,7 @@
       "tumblr"
     ],
     "scheduledAt": "2026-10-11T02:27:41.576Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-10-10T00:19:28.413Z",
     "approved": true,
