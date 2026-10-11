@@ -70,33 +70,29 @@ const main = async () => {
       return r.data;
     });
 
-    const recentPosts = await safeCall('[Facebook] 최근 게시물 목록', async () => {
+    // 2026-10-11: post_impressions류는 Meta가 더 이상 지원하지 않아 매번
+    // "(#100) The value must be a valid insights metric"로 실패했다(실측 확인).
+    // 유효한 대체 메트릭을 추측해서 또 틀리느니, 팔로워 3명뿐인 페이지의 글당
+    // 인사이트는 가치가 낮으므로 제거 — 페이지 정보+게시물 목록만으로 충분.
+    await safeCall('[Facebook] 최근 게시물 목록', async () => {
       const r = await axios.get(`https://graph.facebook.com/v19.0/${process.env.FB_PAGE_ID}/posts`, {
         params: { fields: 'id,message,created_time,permalink_url', limit: 10, access_token: process.env.FB_PAGE_ACCESS_TOKEN }
       });
       return r.data;
     });
-
-    if (recentPosts?.data?.length) {
-      for (const post of recentPosts.data.slice(0, 5)) {
-        await safeCall(`[Facebook] 게시물 ${post.id} (${post.created_time}) 인사이트`, async () => {
-          const r = await axios.get(`https://graph.facebook.com/v19.0/${post.id}/insights`, {
-            params: { metric: 'post_impressions,post_impressions_unique,post_engaged_users', access_token: process.env.FB_PAGE_ACCESS_TOKEN }
-          });
-          return { message: post.message?.slice(0, 60), permalink: post.permalink_url, insights: r.data };
-        });
-      }
-    }
   } else {
     log.warn('[Facebook] FB_PAGE_ACCESS_TOKEN 또는 FB_PAGE_ID 없음 — 건너뜀');
   }
 
   // --- Instagram ---
-  const igToken = process.env.IG_ACCESS_TOKEN || process.env.FB_PAGE_ACCESS_TOKEN;
-  if (igToken && process.env.IG_USER_ID) {
+  // 2026-10-11: graph.facebook.com으로 조회하면 "Invalid OAuth access token - Cannot
+  // parse access token"으로 실패했다(실측 확인) — 이 IG_ACCESS_TOKEN은 Instagram Login
+  // 방식 토큰이라 lib/publishing/meta_client.js가 실제 발행에 쓰는 것과 같은 호스트
+  // (graph.instagram.com)를 써야 한다.
+  if (process.env.IG_ACCESS_TOKEN && process.env.IG_USER_ID) {
     await safeCall('[Instagram] 계정 정보 (팔로워/게시물 수)', async () => {
-      const r = await axios.get(`https://graph.facebook.com/v19.0/${process.env.IG_USER_ID}`, {
-        params: { fields: 'username,followers_count,media_count', access_token: igToken }
+      const r = await axios.get(`https://graph.instagram.com/v26.0/${process.env.IG_USER_ID}`, {
+        params: { fields: 'username,followers_count,media_count', access_token: process.env.IG_ACCESS_TOKEN }
       });
       return r.data;
     });

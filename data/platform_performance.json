@@ -1,7 +1,14 @@
 {
-  "last_updated": "2026-09-06",
-  "note": "Manual tracking baseline for SNS performance by platform and content category. Update weekly after 7+ posts per platform. Views = unique viewers seeing the post in their feed/timeline.",
+  "last_updated": "2026-10-11",
+  "note": "Manual tracking baseline for SNS performance by platform and content category. Update weekly after 7+ posts per platform. Views = unique viewers seeing the post in their feed/timeline. account_snapshot fields are real numbers pulled via `node scripts/check-sns-stats.js` (fixed 2026-10-11 — Instagram was hitting the wrong API host, Facebook per-post insights used a deprecated metric). by_category numbers below are still unpopulated placeholders.",
   "threads": {
+    "account_snapshot": {
+      "checked_at": "2026-10-11",
+      "followers_count": 12,
+      "recent_post_views_range": "22-78",
+      "likes_seen": 0,
+      "replies_seen": "0-2 per post"
+    },
     "metadata": {
       "platform": "Threads",
       "algorithm_primary": "Early engagement velocity + follower volume",
@@ -37,6 +44,30 @@
           "10 Mistakes Visitors Make in Korea"
         ]
       }
+    }
+  },
+  "facebook": {
+    "account_snapshot": {
+      "checked_at": "2026-10-11",
+      "followers_count": 3,
+      "fan_count": 3,
+      "note": "post_impressions insights 메트릭이 Meta에서 폐기돼 글당 인사이트는 조회 불가 (check-sns-stats.js에서 제거함, 2026-10-11)"
+    },
+    "metadata": {
+      "platform": "Facebook",
+      "algorithm_primary": "Follower volume + engagement velocity"
+    }
+  },
+  "instagram": {
+    "account_snapshot": {
+      "checked_at": "2026-10-11",
+      "followers_count": 11,
+      "media_count": 127,
+      "note": "127개 게시물에 팔로워 11명 — 발행량 대비 도달이 거의 없음"
+    },
+    "metadata": {
+      "platform": "Instagram",
+      "algorithm_primary": "Reels completion rate + save/share velocity"
     }
   },
   "bluesky": {
@@ -100,6 +131,10 @@
     }
   },
   "pinterest": {
+    "account_snapshot": {
+      "checked_at": "2026-10-11",
+      "status": "비활성 — Trial API 등급이라 전체 기간 발행 성공 0건. 2026-10-11 큐 등록에서 제외함(lib/scheduler/queue_topic.js), Standard 승급되면 재개"
+    },
     "metadata": {
       "platform": "Pinterest",
       "algorithm_primary": "Search keywords + Rich Pins + board followers",
