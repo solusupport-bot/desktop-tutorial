@@ -20751,7 +20751,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-10-05T05:05:18.733Z",
-    "status": "claimed",
+    "status": "partial",
     "results": {
       "pinterest": {
         "error": "publish failed"
@@ -20781,7 +20781,7 @@
     },
     "blogUrl": "https://landinkorea.com/posts/korea-everland-vs-lotte-world-theme-parks.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
     "verifyStatus": "passed",
-    "processedAt": "2026-10-10T12:37:54.052Z",
+    "processedAt": "2026-10-11T03:24:52.853Z",
     "retryCount": 2
   },
   {
@@ -23665,8 +23665,12 @@
       "instagram"
     ],
     "scheduledAt": "2026-10-09T04:26:41.365Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "18105966857264508"
+      }
+    },
     "createdAt": "2026-10-09T00:53:10.351Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -23688,7 +23692,8 @@
       "model": "groq",
       "checkedAt": "2026-10-09T00:51:49.107Z"
     },
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-10-11T03:25:33.401Z"
   },
   {
     "id": "a2e8f8e2-468c-4b40-9d91-a07406c048dc",
@@ -24659,8 +24664,13 @@
       "tumblr"
     ],
     "scheduledAt": "2026-10-10T06:21:54.019Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "tumblr": {
+        "id": "830146226485936128",
+        "url": "https://landinkorea.tumblr.com/post/830146226485936128"
+      }
+    },
     "createdAt": "2026-10-10T00:11:45.945Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -24684,7 +24694,8 @@
       "checkedAt": "2026-10-10T00:10:23.849Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-seasonal-packing-weather-tips.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-10-11T03:25:35.374Z"
   },
   {
     "id": "eb48bd22-e7ea-490b-a8e0-388235d5a707",
@@ -25105,8 +25116,13 @@
       "bluesky"
     ],
     "scheduledAt": "2026-10-10T23:55:39.390Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mxl2lge5422l",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3mxl2lge5422l"
+      }
+    },
     "createdAt": "2026-10-10T00:19:28.312Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -25129,7 +25145,8 @@
       "checkedAt": "2026-10-10T00:18:35.383Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-why-google-maps-fails-in-korea-and-how-the-road-name-address-system-actually-works.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-10-11T03:25:42.784Z"
   },
   {
     "id": "a2e7132b-ea27-493f-a359-08c143c08a6a",
@@ -25142,8 +25159,13 @@
       "mastodon"
     ],
     "scheduledAt": "2026-10-11T00:24:33.189Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "mastodon": {
+        "id": "117420139865991905",
+        "url": "https://mastodon.social/@landinkorea/117420139865991905"
+      }
+    },
     "createdAt": "2026-10-10T00:19:28.370Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -25166,7 +25188,8 @@
       "checkedAt": "2026-10-10T00:18:35.383Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-why-google-maps-fails-in-korea-and-how-the-road-name-address-system-actually-works.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-10-11T03:25:48.812Z"
   },
   {
     "id": "34f3c0a7-a2d5-4b9d-a8fc-81a179007bf1",
