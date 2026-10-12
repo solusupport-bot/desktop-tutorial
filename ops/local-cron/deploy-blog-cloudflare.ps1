@@ -76,6 +76,8 @@ try {
 
     $env:PEXELS_API_KEY = (Get-Content "$desktop\.env" | Select-String '^PEXELS_API_KEY=(.*)$').Matches.Groups[1].Value
     $env:GITHUB_TOKEN = (Get-Content "$desktop\.env" | Select-String '^GITHUB_TOKEN=(.*)$').Matches.Groups[1].Value
+    # fetch_images.py가 사진을 실제로 보고 주제·한국·화질을 확인하는 데 쓴다(없으면 사진 없이 발행).
+    $env:GROQ_API_KEY = (Get-Content "$desktop\.env" | Select-String '^GROQ_API_KEY=(.*)$').Matches.Groups[1].Value
     Push-Location "$blog\automation"
     Run python @('fetch_images.py') "$blog\automation"
     Run python @('build.py') "$blog\automation"

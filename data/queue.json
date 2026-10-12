@@ -19359,13 +19359,13 @@
       "pinterest"
     ],
     "scheduledAt": "2026-10-04T06:19:24.370Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-10-03T07:21:23.453Z",
     "approved": true,
     "factCheckStatus": "pending",
-    "reviewedBy": null,
-    "reviewedAt": null,
+    "reviewedBy": "media_guard",
+    "reviewedAt": "2026-10-12T14:11:17.022Z",
     "sourceImageUrls": [
       "https://images.pexels.com/photos/32133699/pexels-photo-32133699.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "https://images.pexels.com/photos/35177611/pexels-photo-35177611.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -19383,7 +19383,8 @@
       "checkedAt": "2026-10-03T07:18:23.768Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-first-timer-mistakes-part-2.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "rejectReason": "2026-10-12 미디어 확인 탈락: 이미지이 주제와 맞지 않음(media_guard 비전 판정)"
   },
   {
     "id": "be9ba28b-4b0b-4fa1-a34a-ecfeb5959900",
@@ -21386,13 +21387,13 @@
       "pinterest"
     ],
     "scheduledAt": "2026-10-06T16:23:51.582Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-10-06T03:53:26.136Z",
     "approved": true,
     "factCheckStatus": "pending",
-    "reviewedBy": null,
-    "reviewedAt": null,
+    "reviewedBy": "media_guard",
+    "reviewedAt": "2026-10-12T14:11:17.024Z",
     "sourceImageUrls": [
       "https://images.pexels.com/photos/33097936/pexels-photo-33097936.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "https://images.pexels.com/photos/18721431/pexels-photo-18721431.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -21410,7 +21411,8 @@
       "checkedAt": "2026-10-06T03:52:40.944Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-nami-island-and-petite-france-day-trip.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "rejectReason": "2026-10-12 미디어 확인 탈락: 이미지이 주제와 맞지 않음(media_guard 비전 판정)"
   },
   {
     "id": "97c5d552-7ac5-41a8-bd01-f7a08388a93b",
@@ -21966,13 +21968,13 @@
       "pinterest"
     ],
     "scheduledAt": "2026-10-07T05:01:47.089Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-10-07T01:43:59.201Z",
     "approved": true,
     "factCheckStatus": "pending",
-    "reviewedBy": null,
-    "reviewedAt": null,
+    "reviewedBy": "media_guard",
+    "reviewedAt": "2026-10-12T14:11:17.024Z",
     "sourceImageUrls": [
       "https://images.pexels.com/photos/31783010/pexels-photo-31783010.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "https://images.pexels.com/photos/31680681/pexels-photo-31680681.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -21990,7 +21992,8 @@
       "checkedAt": "2026-10-07T01:43:17.381Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-domestic-flights-vs-ktx-for-jeju-and-long-distance-trips.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "rejectReason": "2026-10-12 미디어 확인 탈락: 이미지이 주제와 맞지 않음(media_guard 비전 판정)"
   },
   {
     "id": "fdc13c80-fa3b-468b-8803-2b51cbff308f",
@@ -22256,13 +22259,13 @@
       "pinterest"
     ],
     "scheduledAt": "2026-10-07T18:26:37.185Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-10-07T01:46:54.107Z",
     "approved": true,
     "factCheckStatus": "pending",
-    "reviewedBy": null,
-    "reviewedAt": null,
+    "reviewedBy": "media_guard",
+    "reviewedAt": "2026-10-12T14:11:17.024Z",
     "sourceImageUrls": [
       "https://images.pexels.com/photos/11870589/pexels-photo-11870589.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "https://images.pexels.com/photos/18223649/pexels-photo-18223649.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -22280,7 +22283,8 @@
       "checkedAt": "2026-10-07T01:45:51.029Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-seoul-attraction-pass-comparison.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "rejectReason": "2026-10-12 미디어 확인 탈락: 이미지이 주제와 맞지 않음(media_guard 비전 판정)"
   },
   {
     "id": "0c2da525-7b68-46fa-a717-eac8acfaa96e",
@@ -22546,13 +22550,13 @@
       "pinterest"
     ],
     "scheduledAt": "2026-10-08T03:56:03.496Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-10-07T01:49:05.330Z",
     "approved": true,
     "factCheckStatus": "pending",
-    "reviewedBy": null,
-    "reviewedAt": null,
+    "reviewedBy": "media_guard",
+    "reviewedAt": "2026-10-12T14:11:17.024Z",
     "sourceImageUrls": [
       "https://images.pexels.com/photos/15239931/pexels-photo-15239931.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "https://images.pexels.com/photos/12166918/pexels-photo-12166918.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -22570,7 +22574,8 @@
       "checkedAt": "2026-10-07T01:48:27.820Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-korean-public-holidays-that-disrupt-travel-plans.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "rejectReason": "2026-10-12 미디어 확인 탈락: 이미지이 주제와 맞지 않음(media_guard 비전 판정)"
   },
   {
     "id": "73d1be52-d14a-4668-a573-17bd2206ec53",
@@ -22836,13 +22841,13 @@
       "pinterest"
     ],
     "scheduledAt": "2026-10-08T07:31:39.691Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-10-08T02:43:11.012Z",
     "approved": true,
     "factCheckStatus": "pending",
-    "reviewedBy": null,
-    "reviewedAt": null,
+    "reviewedBy": "media_guard",
+    "reviewedAt": "2026-10-12T14:11:17.024Z",
     "sourceImageUrls": [
       "https://pixabay.com/get/g00ee71169975584608b2676adad59fd3ec7a7ac7fba8f587eaf5b6159c1b3bf71098f025b57d796ab75ebc6279e54e13e0b0495d00269f5796b226f4ef480195_1280.jpg",
       "https://images.pexels.com/photos/31925340/pexels-photo-31925340.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -22860,7 +22865,8 @@
       "checkedAt": "2026-10-08T02:42:09.730Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-airport-transfer-options.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "failed"
+    "verifyStatus": "failed",
+    "rejectReason": "2026-10-12 미디어 확인 탈락: 이미지이 주제와 맞지 않음(media_guard 비전 판정)"
   },
   {
     "id": "8455fc0b-eb28-4a4b-9559-23e8dea45ea6",
@@ -23416,13 +23422,13 @@
       "pinterest"
     ],
     "scheduledAt": "2026-10-09T05:29:09.074Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-10-08T02:51:39.536Z",
     "approved": true,
     "factCheckStatus": "pending",
-    "reviewedBy": null,
-    "reviewedAt": null,
+    "reviewedBy": "media_guard",
+    "reviewedAt": "2026-10-12T14:11:17.024Z",
     "sourceImageUrls": [
       "https://pixabay.com/get/g5e12c99e586cac1d79c7f73b86126f937c5df017412eb50c19d89799e0811a2756094bd5a59ddc54ba7ac733d4bc9d9527d31ad40842ad6e2d7683abce128513_1280.jpg",
       "https://images.pexels.com/photos/38837815/pexels-photo-38837815.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -23440,7 +23446,8 @@
       "checkedAt": "2026-10-08T02:50:10.783Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-currency-card-payments.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "rejectReason": "2026-10-12 미디어 확인 탈락: 이미지이 주제와 맞지 않음(media_guard 비전 판정)"
   },
   {
     "id": "bd30dc4d-9898-4cd8-92a9-38bff85a74d5",
@@ -23706,13 +23713,13 @@
       "pinterest"
     ],
     "scheduledAt": "2026-10-09T07:18:22.281Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-10-09T00:53:10.401Z",
     "approved": true,
     "factCheckStatus": "pending",
-    "reviewedBy": null,
-    "reviewedAt": null,
+    "reviewedBy": "media_guard",
+    "reviewedAt": "2026-10-12T14:11:17.024Z",
     "sourceImageUrls": [
       "https://images.pexels.com/photos/33097922/pexels-photo-33097922.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "https://images.pexels.com/photos/40061255/pexels-photo-40061255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -23730,7 +23737,8 @@
       "checkedAt": "2026-10-09T00:51:49.107Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-emergency-numbers-24hr-pharmacies.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "rejectReason": "2026-10-12 미디어 확인 탈락: 이미지이 주제와 맞지 않음(media_guard 비전 판정)"
   },
   {
     "id": "305b20c6-731d-4f54-8513-bc0bf28033eb",
@@ -23996,13 +24004,13 @@
       "pinterest"
     ],
     "scheduledAt": "2026-10-09T18:42:05.863Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-10-09T00:56:43.647Z",
     "approved": true,
     "factCheckStatus": "pending",
-    "reviewedBy": null,
-    "reviewedAt": null,
+    "reviewedBy": "media_guard",
+    "reviewedAt": "2026-10-12T14:11:17.024Z",
     "sourceImageUrls": [
       "https://images.pexels.com/photos/32073490/pexels-photo-32073490.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "https://images.pexels.com/photos/31858123/pexels-photo-31858123.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -24020,7 +24028,8 @@
       "checkedAt": "2026-10-09T00:55:10.523Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-useful-travel-apps.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "rejectReason": "2026-10-12 미디어 확인 탈락: 이미지이 주제와 맞지 않음(media_guard 비전 판정)"
   },
   {
     "id": "eda0c49f-05db-43e6-98c9-5cd584846f6c",
@@ -24247,13 +24256,13 @@
       "instagram"
     ],
     "scheduledAt": "2026-10-10T03:10:28.083Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-10-09T01:00:31.147Z",
     "approved": true,
     "factCheckStatus": "pending",
-    "reviewedBy": null,
-    "reviewedAt": null,
+    "reviewedBy": "media_guard",
+    "reviewedAt": "2026-10-12T14:11:17.024Z",
     "sourceImageUrls": [
       "https://images.pexels.com/photos/32196395/pexels-photo-32196395.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "https://images.pexels.com/photos/31858176/pexels-photo-31858176.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -24271,7 +24280,8 @@
       "confidence": 0.633,
       "checkedAt": "2026-10-09T00:59:31.779Z"
     },
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "rejectReason": "2026-10-12 미디어 확인 탈락: 영상이 주제와 맞지 않음(media_guard 비전 판정)"
   },
   {
     "id": "97e46847-c4f2-4e7e-a2da-d56fa8380e83",
@@ -24284,13 +24294,13 @@
       "pinterest"
     ],
     "scheduledAt": "2026-10-10T06:01:17.634Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-10-09T01:00:31.175Z",
     "approved": true,
     "factCheckStatus": "pending",
-    "reviewedBy": null,
-    "reviewedAt": null,
+    "reviewedBy": "media_guard",
+    "reviewedAt": "2026-10-12T14:11:17.024Z",
     "sourceImageUrls": [
       "https://images.pexels.com/photos/32196395/pexels-photo-32196395.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "https://images.pexels.com/photos/31858176/pexels-photo-31858176.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -24309,7 +24319,8 @@
       "checkedAt": "2026-10-09T00:59:31.779Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-convenience-store-hacks.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "rejectReason": "2026-10-12 미디어 확인 탈락: 이미지이 주제와 맞지 않음(media_guard 비전 판정)"
   },
   {
     "id": "7a3b0ce8-5429-4dcb-8efd-180b28f82915",
@@ -24528,13 +24539,13 @@
       "instagram"
     ],
     "scheduledAt": "2026-10-10T03:26:47.764Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-10-10T00:11:45.828Z",
     "approved": true,
     "factCheckStatus": "pending",
-    "reviewedBy": null,
-    "reviewedAt": null,
+    "reviewedBy": "media_guard",
+    "reviewedAt": "2026-10-12T14:11:17.024Z",
     "sourceImageUrls": [
       "https://images.pexels.com/photos/23833464/pexels-photo-23833464.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "https://images.pexels.com/photos/31909207/pexels-photo-31909207.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -24552,7 +24563,8 @@
       "confidence": 0.7083,
       "checkedAt": "2026-10-10T00:10:23.849Z"
     },
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "rejectReason": "2026-10-12 미디어 확인 탈락: 영상이 주제와 맞지 않음(media_guard 비전 판정)"
   },
   {
     "id": "2d83223f-a209-4ccd-978f-eb5b38dc6459",
@@ -25070,13 +25082,13 @@
       "instagram"
     ],
     "scheduledAt": "2026-10-10T23:38:12.273Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-10-10T00:19:28.209Z",
     "approved": true,
     "factCheckStatus": "pending",
-    "reviewedBy": null,
-    "reviewedAt": null,
+    "reviewedBy": "media_guard",
+    "reviewedAt": "2026-10-12T14:11:17.024Z",
     "sourceImageUrls": [
       "https://images.pexels.com/photos/32133696/pexels-photo-32133696.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "https://images.pexels.com/photos/28900610/pexels-photo-28900610.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -25093,7 +25105,8 @@
       "model": "groq",
       "checkedAt": "2026-10-10T00:18:35.383Z"
     },
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "rejectReason": "2026-10-12 미디어 확인 탈락: 영상이 주제와 맞지 않음(media_guard 비전 판정)"
   },
   {
     "id": "a91f5aa8-dbcc-4251-a687-733034d2bc01",
