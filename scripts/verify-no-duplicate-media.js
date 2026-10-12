@@ -18,13 +18,37 @@ const fs = require('fs');
 const path = require('path');
 const log = require('../lib/logger');
 const { applyVerifyStatus } = require('../lib/scheduler/verify_status');
+const { mediaKey } = require('../lib/ingestion/media_guard');
 
 const QUEUE_PATH = path.join(__dirname, '..', 'data', 'queue.json');
 
-const instanceKey = (item) => item.createdAt.slice(0, 19); // 초 단위까지 — 같은 실행에서 나온 항목 묶기
+// 같은 실행에서 나온 항목 묶기. 2026-10-13: 예전엔 createdAt을 초 단위로 잘라 묶었는데, 한 주제를
+// 플랫폼별로 등록하는 데 0.3초쯤 걸려 초 경계를 넘으면(02:43:10.975 → 02:43:11.012) 같은 글을
+// "다른 발행 건의 중복"으로 오탐했다 — 같은 주제가 60초 안에 연달아 생긴 항목은 한 인스턴스로 본다.
+const INSTANCE_GAP_MS = 60 * 1000;
+// applyVerifyStatus가 큐를 새로 읽어 객체가 달라지므로 id로 찾는다.
+const instanceKeyById = new Map();
+const instanceKey = (item) => instanceKeyById.get(item.id);
+const assignInstanceKeys = (queue) => {
+  const sorted = [...queue].sort((x, y) => Date.parse(x.createdAt) - Date.parse(y.createdAt));
+  let current = null;
+  let lastAt = 0;
+  for (const item of sorted) {
+    const at = Date.parse(item.createdAt);
+    // 옛 항목엔 topic이 빠진 게 있어(undefined) 둘 다 있을 때만 주제 차이로 끊는다.
+    const topicChanged = current && current.topic && item.topic && current.topic !== item.topic;
+    if (!current || topicChanged || at - lastAt > INSTANCE_GAP_MS) {
+      current = { topic: item.topic, key: item.createdAt };
+    }
+    if (!current.topic) current.topic = item.topic;
+    lastAt = at;
+    instanceKeyById.set(item.id, current.key);
+  }
+};
 
 const main = () => {
   const queue = JSON.parse(fs.readFileSync(QUEUE_PATH, 'utf8'));
+  assignInstanceKeys(queue);
 
   const imagesByInstance = {};
   const videosByInstance = {};
@@ -43,10 +67,12 @@ const main = () => {
     const dups = []; // { url, instances: [key, key] }
     Object.entries(byInstance).forEach(([key, urls]) => {
       urls.forEach((url) => {
-        if (owner[url] && owner[url] !== key) {
-          dups.push({ url, instances: [owner[url], key] });
-        } else if (!owner[url]) {
-          owner[url] = key;
+        // 주소가 달라도 같은 사진/영상 번호면 중복이다(media_guard.mediaKey).
+        const id = mediaKey(url);
+        if (owner[id] && owner[id] !== key) {
+          dups.push({ url, instances: [owner[id], key] });
+        } else if (!owner[id]) {
+          owner[id] = key;
         }
       });
     });
@@ -61,6 +87,16 @@ const main = () => {
   const failedInstances = new Set();
   [...imageDups, ...videoDups].forEach((d) => d.instances.forEach((k) => failedInstances.add(k)));
   applyVerifyStatus((item) => failedInstances.has(instanceKey(item)));
+
+  // 2026-10-13: 이미 발행이 끝난 과거 배치끼리의 중복은 지금 막을 방법이 없는데도 매일 FAIL로
+  // 찍혀 진짜 경보를 묻었다 — 아직 발행 전(pending/approved/claimed) 항목이 낀 중복만 실패로 본다.
+  const ACTIVE = ['pending', 'approved', 'claimed'];
+  const activeInstances = new Set(queue.filter((item) => ACTIVE.includes(item.status)).map(instanceKey));
+  const isActive = (d) => d.instances.some((k) => activeInstances.has(k));
+  const pastDups = [...imageDups, ...videoDups].filter((d) => !isActive(d));
+  if (pastDups.length) log.warn(`이미 발행된 과거 배치 간 중복 ${pastDups.length}건(조치 불가, 기록용)`);
+  imageDups.splice(0, imageDups.length, ...imageDups.filter(isActive));
+  videoDups.splice(0, videoDups.length, ...videoDups.filter(isActive));
 
   if (!imageDups.length && !videoDups.length) {
     log.ok('중복 검증 통과 — 서로 다른 발행 건 사이에 재사용된 이미지/영상 없음.');

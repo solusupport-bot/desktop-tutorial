@@ -21097,13 +21097,13 @@
       "pinterest"
     ],
     "scheduledAt": "2026-10-06T07:19:18.732Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-10-06T03:50:23.571Z",
     "approved": true,
     "factCheckStatus": "pending",
-    "reviewedBy": null,
-    "reviewedAt": null,
+    "reviewedBy": "cleanup",
+    "reviewedAt": "2026-10-12T16:47:43.834Z",
     "sourceImageUrls": [
       "https://images.pexels.com/photos/36812076/pexels-photo-36812076.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "https://images.pexels.com/photos/40061589/pexels-photo-40061589.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -21121,7 +21121,8 @@
       "checkedAt": "2026-10-06T03:49:29.717Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-hongdae-nightlife-and-youth-culture-district.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "rejectReason": "2026-10-13 Pinterest는 Trial 등급이라 발행 플랫폼에서 제외됨(0f0ddc5) — 대기 중 남은 글 정리"
   },
   {
     "id": "a0e8043f-68fb-4a53-9d9d-6226e958fbfa",
@@ -21678,13 +21679,13 @@
       "pinterest"
     ],
     "scheduledAt": "2026-10-07T03:27:19.236Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-10-06T03:55:45.467Z",
     "approved": true,
     "factCheckStatus": "pending",
-    "reviewedBy": null,
-    "reviewedAt": null,
+    "reviewedBy": "cleanup",
+    "reviewedAt": "2026-10-12T16:47:43.837Z",
     "sourceImageUrls": [
       "https://images.pexels.com/photos/34466988/pexels-photo-34466988.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "https://images.pexels.com/photos/35551375/pexels-photo-35551375.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -21702,7 +21703,8 @@
       "checkedAt": "2026-10-06T03:55:01.096Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-suwon-hwaseong-fortress.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "rejectReason": "2026-10-13 Pinterest는 Trial 등급이라 발행 플랫폼에서 제외됨(0f0ddc5) — 대기 중 남은 글 정리"
   },
   {
     "id": "997f06cd-6384-42b2-aabd-cc12bfb8b750",
@@ -23132,13 +23134,13 @@
       "pinterest"
     ],
     "scheduledAt": "2026-10-08T18:10:31.534Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-10-08T02:46:46.433Z",
     "approved": true,
     "factCheckStatus": "pending",
-    "reviewedBy": null,
-    "reviewedAt": null,
+    "reviewedBy": "cleanup",
+    "reviewedAt": "2026-10-12T16:47:43.837Z",
     "sourceImageUrls": [
       "https://images.pexels.com/photos/31909237/pexels-photo-31909237.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "https://images.pexels.com/photos/8851561/pexels-photo-8851561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -23156,7 +23158,8 @@
       "checkedAt": "2026-10-08T02:45:52.224Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-first-timer-etiquette-common-mistakes.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "failed",
+    "rejectReason": "2026-10-13 Pinterest는 Trial 등급이라 발행 플랫폼에서 제외됨(0f0ddc5) — 대기 중 남은 글 정리"
   },
   {
     "id": "a879b1f2-22f7-41a3-b4a5-060337a44a4a",
@@ -24577,13 +24580,13 @@
       "pinterest"
     ],
     "scheduledAt": "2026-10-10T06:21:26.182Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-10-10T00:11:45.853Z",
     "approved": true,
     "factCheckStatus": "pending",
-    "reviewedBy": null,
-    "reviewedAt": null,
+    "reviewedBy": "cleanup",
+    "reviewedAt": "2026-10-12T16:47:43.837Z",
     "sourceImageUrls": [
       "https://images.pexels.com/photos/23833464/pexels-photo-23833464.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "https://images.pexels.com/photos/31909207/pexels-photo-31909207.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -24602,7 +24605,8 @@
       "checkedAt": "2026-10-10T00:10:23.849Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-seasonal-packing-weather-tips.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "rejectReason": "2026-10-13 Pinterest는 Trial 등급이라 발행 플랫폼에서 제외됨(0f0ddc5) — 대기 중 남은 글 정리"
   },
   {
     "id": "72367cd9-2d39-4e46-a22d-1a43ed0859a3",
@@ -25119,13 +25123,13 @@
       "pinterest"
     ],
     "scheduledAt": "2026-10-11T02:24:39.544Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-10-10T00:19:28.252Z",
     "approved": true,
     "factCheckStatus": "pending",
-    "reviewedBy": null,
-    "reviewedAt": null,
+    "reviewedBy": "cleanup",
+    "reviewedAt": "2026-10-12T16:47:43.837Z",
     "sourceImageUrls": [
       "https://images.pexels.com/photos/32133696/pexels-photo-32133696.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "https://images.pexels.com/photos/28900610/pexels-photo-28900610.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -25143,7 +25147,8 @@
       "checkedAt": "2026-10-10T00:18:35.383Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-why-google-maps-fails-in-korea-and-how-the-road-name-address-system-actually-works.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "rejectReason": "2026-10-13 Pinterest는 Trial 등급이라 발행 플랫폼에서 제외됨(0f0ddc5) — 대기 중 남은 글 정리"
   },
   {
     "id": "922a2b6e-b800-444f-a764-f3b02dd75ced",
