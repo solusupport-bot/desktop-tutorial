@@ -70,3 +70,9 @@ assert.deepStrictEqual(checkMoneyFacts({ threads: 'Express is ₩13,000.' }, src
 assert.strictEqual(checkMoneyFacts({ facebook: 'Taxis – ₩70-100k in traffic' }, src).length, 2);
 assert.strictEqual(checkMoneyFacts({ instagram: 'only 13,000 won' }, src).length, 0);
 assert.strictEqual(checkMoneyFacts({ threads: 'about ₩65,000' }, src).length, 0);
+// 검토 지적 오탐 케이스
+assert.deepStrictEqual(checkMoneyFacts({ t: 'about ₩65,000-80k' }, '₩65,000-80,000'), []);
+assert.deepStrictEqual(checkMoneyFacts({ t: 'Express is ₩13,000 - 2 stops later you transfer' }, '₩13,000'), []);
+assert.deepStrictEqual(checkMoneyFacts({ t: 'up to ₩5 million per trip' }, 'up to ₩5,000,000 in total'), []);
+assert.deepStrictEqual(checkMoneyFacts({ t: 'She won 3 won awards' }, ''), []);
+assert.strictEqual(checkMoneyFacts({ t: ['₩99,000'] }, '₩13,000').length, 1);

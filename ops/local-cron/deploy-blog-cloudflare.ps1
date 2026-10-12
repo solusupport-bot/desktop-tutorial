@@ -82,7 +82,8 @@ try {
     Run python @('fetch_images.py') "$blog\automation"
     Run python @('build.py') "$blog\automation"
     Pop-Location
-    CommitAndPush $blog @('content/posts') 'chore: persist fetched/watermarked post images'
+    # used_media.json = 블로그에 쓴 사진 고유번호 영구 기록(중복 금지). 커밋 안 하면 재클론 시 사라진다.
+    CommitAndPush $blog @('content/posts', 'automation/used_media.json') 'chore: persist fetched/watermarked post images'
 
     # 3) Cloudflare 배포용 폴더 준비(빌드 결과 복사 + 이미지 로컬화 + 경로 치환)
     Push-Location "$blog\automation"
