@@ -20751,7 +20751,7 @@
       "pinterest"
     ],
     "scheduledAt": "2026-10-05T05:05:18.733Z",
-    "status": "partial",
+    "status": "claimed",
     "results": {
       "pinterest": {
         "error": "publish failed"
@@ -20782,7 +20782,7 @@
     "blogUrl": "https://landinkorea.com/posts/korea-everland-vs-lotte-world-theme-parks.html?utm_source=pinterest&utm_medium=social&utm_campaign=auto_post",
     "verifyStatus": "passed",
     "processedAt": "2026-10-11T03:24:52.853Z",
-    "retryCount": 2
+    "retryCount": 3
   },
   {
     "id": "41ef41ba-3925-4b22-8ff5-b7abb48b428b",
@@ -23914,7 +23914,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-10-09T15:52:20.188Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-10-09T00:56:43.595Z",
     "approved": true,
@@ -23949,7 +23949,7 @@
       "instagram"
     ],
     "scheduledAt": "2026-10-09T15:51:58.194Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-10-09T00:56:43.622Z",
     "approved": true,
