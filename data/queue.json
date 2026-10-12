@@ -24205,7 +24205,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-10-10T03:02:29.752Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-10-09T01:00:31.123Z",
     "approved": true,
