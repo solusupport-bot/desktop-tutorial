@@ -232,6 +232,10 @@ agent-reach install --env=auto --system --channels=<channel_name>
 - **글 공급 경로는 하나뿐**: `data/blog_content_queue.json`에 Claude Code 세션(API 과금 없는 경로)에서
   미리 써서 검수 2회를 통과시킨 글. CI의 Claude 실시간 작성·GPT 검증·템플릿 폴백은 2026-09-23 전부
   삭제됨(위 📰 섹션 하드 게이트 참고).
+- **후킹은 끝에서 갚는다** (2026-10-13 사용자: "후킹에 맞는 마무리까지 완벽하게, 사람들이 반응할 만한 글"):
+  제목·도입이 약속한 것(개수·실수·비용·비교)을 본문이 정확히 전부 전달하고, 끝은 독자가 바로 쓸 수 있는
+  구체적 행동/체크리스트로 맺는다. 후킹 유형은 `data/engagement_benchmark_2026-10.md` 참고.
+  `lib/publishing/ai_review.js` 검수 기준 5번이 이걸 검사한다.
 - **사실 근거 원칙도 동일**: "다른 계정 댓글 자동 답장" 규칙(아래 섹션)과 마찬가지로, 블로그 글도
   `lib/ingestion/korea_travel.js`에 있는 실제 facts만 근거로 쓰고 지어내지 않는다.
 - 이 규칙은 SNS 자동화 쪽에서 지출 이중화 문제를 해결한 것과 정확히 같은 이유(자동 실행 중 예상 못 한

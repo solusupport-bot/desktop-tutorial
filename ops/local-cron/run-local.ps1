@@ -61,6 +61,8 @@ try {
         Run 'scripts/daily-auto-post.js'
         Run 'scripts/verify-no-duplicate-media.js'
         Run 'scripts/verify-topic-media-alignment.js'
+        # 하루 한 번 발행된 글의 성과(조회·좋아요·댓글·공유)를 모은다 — 유형별 비교(pattern-performance.js)의 원재료.
+        Run 'scripts/collect-insights.js'
         CommitData @('data') 'chore: queue daily Land in Korea topic'
     }
 

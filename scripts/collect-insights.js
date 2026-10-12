@@ -87,6 +87,7 @@ const main = async () => {
           platform,
           postId,
           topic: item.topic || null,
+          pattern: item.qualityGate?.pattern || null,
           publishedAt: item.processedAt,
           metrics,
           collectedAt: new Date().toISOString()

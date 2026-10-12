@@ -3,20 +3,22 @@
     "platform": "threads",
     "postId": "18114963832965304",
     "topic": null,
+    "pattern": null,
     "publishedAt": "2026-09-13T23:14:09.462Z",
     "metrics": {
-      "views": 140,
+      "views": 143,
       "likes": 0,
       "replies": 3,
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-10-02T15:49:31.296Z"
+    "collectedAt": "2026-10-12T16:34:18.900Z"
   },
   "threads:18072236267764396": {
     "platform": "threads",
     "postId": "18072236267764396",
     "topic": null,
+    "pattern": null,
     "publishedAt": "2026-09-13T23:15:06.654Z",
     "metrics": {
       "views": 82,
@@ -25,12 +27,13 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-10-02T15:49:31.910Z"
+    "collectedAt": "2026-10-12T16:34:19.262Z"
   },
   "threads:18031124078896507": {
     "platform": "threads",
     "postId": "18031124078896507",
     "topic": null,
+    "pattern": null,
     "publishedAt": "2026-09-14T00:04:03.282Z",
     "metrics": {
       "views": 29,
@@ -39,7 +42,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-10-02T15:49:32.307Z"
+    "collectedAt": "2026-10-12T16:34:19.531Z"
   },
   "threads:18130272145679597": {
     "platform": "threads",
@@ -339,6 +342,7 @@
     "platform": "threads",
     "postId": "18377897992234425",
     "topic": null,
+    "pattern": null,
     "publishedAt": "2026-09-13T00:04:52.046Z",
     "metrics": {
       "views": 278,
@@ -347,7 +351,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-10-02T15:49:50.631Z"
+    "collectedAt": "2026-10-12T16:34:20.364Z"
   },
   "threads:18113100976819596": {
     "platform": "threads",
@@ -493,6 +497,7 @@
     "platform": "threads",
     "postId": "18007796520005160",
     "topic": null,
+    "pattern": null,
     "publishedAt": "2026-09-13T23:17:46.942Z",
     "metrics": {
       "views": 32,
@@ -501,12 +506,13 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-10-02T15:50:00.575Z"
+    "collectedAt": "2026-10-12T16:34:20.749Z"
   },
   "threads:18118225165821857": {
     "platform": "threads",
     "postId": "18118225165821857",
     "topic": null,
+    "pattern": null,
     "publishedAt": "2026-09-13T02:04:31.011Z",
     "metrics": {
       "views": 40,
@@ -515,12 +521,13 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-10-02T15:50:01.421Z"
+    "collectedAt": "2026-10-12T16:34:21.347Z"
   },
   "threads:18334490512261696": {
     "platform": "threads",
     "postId": "18334490512261696",
     "topic": null,
+    "pattern": null,
     "publishedAt": "2026-09-13T04:03:48.264Z",
     "metrics": {
       "views": 139,
@@ -529,12 +536,13 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-10-02T15:50:02.119Z"
+    "collectedAt": "2026-10-12T16:34:22.239Z"
   },
   "threads:17866118643663428": {
     "platform": "threads",
     "postId": "17866118643663428",
     "topic": null,
+    "pattern": null,
     "publishedAt": "2026-09-14T02:04:47.764Z",
     "metrics": {
       "views": 21,
@@ -543,12 +551,13 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-10-02T15:50:02.965Z"
+    "collectedAt": "2026-10-12T16:34:23.531Z"
   },
   "threads:18132706792635549": {
     "platform": "threads",
     "postId": "18132706792635549",
     "topic": null,
+    "pattern": null,
     "publishedAt": "2026-09-14T03:03:40.423Z",
     "metrics": {
       "views": 77,
@@ -557,12 +566,13 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-10-02T15:50:03.649Z"
+    "collectedAt": "2026-10-12T16:34:24.139Z"
   },
   "threads:17904905385487342": {
     "platform": "threads",
     "postId": "17904905385487342",
     "topic": null,
+    "pattern": null,
     "publishedAt": "2026-09-14T05:05:46.246Z",
     "metrics": {
       "views": 98,
@@ -571,12 +581,13 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-10-02T15:50:04.346Z"
+    "collectedAt": "2026-10-12T16:34:25.078Z"
   },
   "threads:18117790573822985": {
     "platform": "threads",
     "postId": "18117790573822985",
     "topic": null,
+    "pattern": null,
     "publishedAt": "2026-09-14T17:04:57.582Z",
     "metrics": {
       "views": 29,
@@ -585,12 +596,13 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-10-02T15:50:04.898Z"
+    "collectedAt": "2026-10-12T16:34:25.769Z"
   },
   "threads:17902523409592370": {
     "platform": "threads",
     "postId": "17902523409592370",
     "topic": null,
+    "pattern": null,
     "publishedAt": "2026-09-15T01:51:37.962Z",
     "metrics": {
       "views": 98,
@@ -599,12 +611,13 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-10-02T15:50:05.473Z"
+    "collectedAt": "2026-10-12T16:34:26.440Z"
   },
   "threads:18174599206431305": {
     "platform": "threads",
     "postId": "18174599206431305",
     "topic": null,
+    "pattern": null,
     "publishedAt": "2026-09-15T04:04:57.864Z",
     "metrics": {
       "views": 96,
@@ -613,12 +626,13 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-10-02T15:50:06.209Z"
+    "collectedAt": "2026-10-12T16:34:27.239Z"
   },
   "threads:18419300452156233": {
     "platform": "threads",
     "postId": "18419300452156233",
     "topic": null,
+    "pattern": null,
     "publishedAt": "2026-09-15T16:04:49.914Z",
     "metrics": {
       "views": 21,
@@ -627,12 +641,13 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-10-02T15:50:07.251Z"
+    "collectedAt": "2026-10-12T16:34:27.855Z"
   },
   "threads:18463871326137710": {
     "platform": "threads",
     "postId": "18463871326137710",
     "topic": null,
+    "pattern": null,
     "publishedAt": "2026-09-16T01:04:51.260Z",
     "metrics": {
       "views": 128,
@@ -641,12 +656,13 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-10-02T15:50:08.172Z"
+    "collectedAt": "2026-10-12T16:34:28.625Z"
   },
   "threads:18078504578391962": {
     "platform": "threads",
     "postId": "18078504578391962",
     "topic": "T-money transit card",
+    "pattern": null,
     "publishedAt": "2026-09-16T18:12:04.246Z",
     "metrics": {
       "views": 33,
@@ -655,12 +671,13 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-10-02T15:50:08.905Z"
+    "collectedAt": "2026-10-12T16:34:29.390Z"
   },
   "threads:18105268103626138": {
     "platform": "threads",
     "postId": "18105268103626138",
     "topic": "Namdaemun Market",
+    "pattern": null,
     "publishedAt": "2026-09-17T03:11:52.804Z",
     "metrics": {
       "views": 197,
@@ -669,12 +686,13 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-10-02T15:50:09.612Z"
+    "collectedAt": "2026-10-12T16:34:30.242Z"
   },
   "threads:18113749667516571": {
     "platform": "threads",
     "postId": "18113749667516571",
     "topic": "N Seoul Tower (Namsan)",
+    "pattern": null,
     "publishedAt": "2026-09-17T05:12:20.517Z",
     "metrics": {
       "views": 199,
@@ -683,26 +701,28 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-10-02T15:50:10.371Z"
+    "collectedAt": "2026-10-12T16:34:31.039Z"
   },
   "threads:18146719237513033": {
     "platform": "threads",
     "postId": "18146719237513033",
     "topic": "N Seoul Tower (Namsan)",
+    "pattern": null,
     "publishedAt": "2026-09-17T05:23:05.232Z",
     "metrics": {
-      "views": 270,
+      "views": 272,
       "likes": 0,
       "replies": 4,
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-10-02T15:50:11.151Z"
+    "collectedAt": "2026-10-12T16:34:31.692Z"
   },
   "threads:18161938990489643": {
     "platform": "threads",
     "postId": "18161938990489643",
     "topic": "Seoul subway details nobody tells you: exit numbers, transfer walks, express trains, and the last train",
+    "pattern": null,
     "publishedAt": "2026-09-17T08:07:43.653Z",
     "metrics": {
       "views": 183,
@@ -711,12 +731,13 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-10-02T15:50:12.420Z"
+    "collectedAt": "2026-10-12T16:34:32.426Z"
   },
   "threads:18127323133846107": {
     "platform": "threads",
     "postId": "18127323133846107",
     "topic": "Hailing a taxi in Korea: Kakao T vs. street taxis vs. airport 'deluxe' cabs",
+    "pattern": null,
     "publishedAt": "2026-09-18T07:54:48.218Z",
     "metrics": {
       "views": 220,
@@ -725,12 +746,13 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-10-02T15:50:13.073Z"
+    "collectedAt": "2026-10-12T16:34:33.318Z"
   },
   "threads:18461099194138666": {
     "platform": "threads",
     "postId": "18461099194138666",
     "topic": "Why Google Maps fails in Korea and how the road-name address system actually works",
+    "pattern": null,
     "publishedAt": "2026-09-18T14:03:43.198Z",
     "metrics": {
       "views": 171,
@@ -739,12 +761,13 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-10-02T15:50:13.824Z"
+    "collectedAt": "2026-10-12T16:34:34.078Z"
   },
   "threads:17993215857043551": {
     "platform": "threads",
     "postId": "17993215857043551",
     "topic": "Seoul subway details nobody tells you: exit numbers, transfer walks, express trains, and the last train",
+    "pattern": null,
     "publishedAt": "2026-09-19T01:12:11.239Z",
     "metrics": {
       "views": 45,
@@ -753,12 +776,13 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-10-02T15:50:14.608Z"
+    "collectedAt": "2026-10-12T16:34:34.816Z"
   },
   "threads:18094291928400306": {
     "platform": "threads",
     "postId": "18094291928400306",
     "topic": "Short-term vs. long-term housing in Korea: guesthouse, goshiwon, officetel, and the deposit system",
+    "pattern": null,
     "publishedAt": "2026-09-19T04:53:52.879Z",
     "metrics": {
       "views": 151,
@@ -767,26 +791,28 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-10-02T15:50:15.263Z"
+    "collectedAt": "2026-10-12T16:34:35.500Z"
   },
   "threads:17994331719046372": {
     "platform": "threads",
     "postId": "17994331719046372",
     "topic": "Opening a Korean bank account as a foreigner — and why your ARC and phone number come first",
+    "pattern": null,
     "publishedAt": "2026-09-19T16:04:04.987Z",
     "metrics": {
-      "views": 204,
+      "views": 205,
       "likes": 0,
       "replies": 1,
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-10-02T15:50:15.992Z"
+    "collectedAt": "2026-10-12T16:34:36.229Z"
   },
   "threads:17906999211487384": {
     "platform": "threads",
     "postId": "17906999211487384",
     "topic": "Bus travel inside Korean cities: color codes, tag-off transfers, and why you must flag the bus",
+    "pattern": null,
     "publishedAt": "2026-09-22T03:20:25.604Z",
     "metrics": {
       "views": 35,
@@ -795,12 +821,13 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-10-02T15:50:16.627Z"
+    "collectedAt": "2026-10-12T16:34:36.813Z"
   },
   "threads:18128599315808743": {
     "platform": "threads",
     "postId": "18128599315808743",
     "topic": "Luggage storage & forwarding services",
+    "pattern": null,
     "publishedAt": "2026-09-30T10:40:43.181Z",
     "metrics": {
       "views": 80,
@@ -809,110 +836,118 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-10-02T15:50:17.261Z"
+    "collectedAt": "2026-10-12T16:34:37.592Z"
   },
   "threads:18135837715630785": {
     "platform": "threads",
     "postId": "18135837715630785",
     "topic": "KTX vs. SRT vs. intercity bus for long-distance travel",
+    "pattern": null,
     "publishedAt": "2026-10-01T17:26:01.420Z",
     "metrics": {
-      "views": 85,
+      "views": 86,
       "likes": 0,
       "replies": 2,
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-10-02T15:50:19.391Z"
+    "collectedAt": "2026-10-12T16:34:38.905Z"
   },
   "threads:17959573950226792": {
     "platform": "threads",
     "postId": "17959573950226792",
     "topic": "Food delivery apps in Korea: why signing up is harder than ordering",
+    "pattern": null,
     "publishedAt": "2026-09-28T05:33:37.661Z",
     "metrics": {
-      "views": 290,
+      "views": 291,
       "likes": 0,
       "replies": 4,
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-10-02T15:50:20.600Z"
+    "collectedAt": "2026-10-12T16:34:39.691Z"
   },
   "threads:18113511358898201": {
     "platform": "threads",
     "postId": "18113511358898201",
     "topic": "Timing cherry blossoms and fall foliage in Korea without hitting peak crowds",
+    "pattern": null,
     "publishedAt": "2026-09-28T15:25:25.938Z",
     "metrics": {
-      "views": 959,
+      "views": 960,
       "likes": 2,
       "replies": 2,
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-10-02T15:50:21.465Z"
+    "collectedAt": "2026-10-12T16:34:40.800Z"
   },
   "threads:18023434730874869": {
     "platform": "threads",
     "postId": "18023434730874869",
     "topic": "Learning to read Hangul in a weekend — and why romanized signs still confuse you",
+    "pattern": null,
     "publishedAt": "2026-09-29T09:27:44.353Z",
     "metrics": {
-      "views": 388,
+      "views": 389,
       "likes": 1,
       "replies": 2,
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-10-02T15:50:23.524Z"
+    "collectedAt": "2026-10-12T16:34:41.495Z"
   },
   "threads:18122163496932807": {
     "platform": "threads",
     "postId": "18122163496932807",
     "topic": "Hospital vs. clinic vs. pharmacy in Korea: where to actually go when you get sick",
+    "pattern": null,
     "publishedAt": "2026-09-30T02:28:18.105Z",
     "metrics": {
-      "views": 260,
+      "views": 262,
       "likes": 0,
       "replies": 2,
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-10-02T15:50:24.204Z"
+    "collectedAt": "2026-10-12T16:34:42.765Z"
   },
   "threads:18097384331355341": {
     "platform": "threads",
     "postId": "18097384331355341",
     "topic": "Cafes as workspaces in Korea: unspoken rules of study cafes, franchise chains, and 'no-laptop' signs",
+    "pattern": null,
     "publishedAt": "2026-09-30T06:58:43.612Z",
     "metrics": {
-      "views": 1083,
+      "views": 1093,
       "likes": 3,
       "replies": 2,
       "reposts": 0,
       "quotes": 1
     },
-    "collectedAt": "2026-10-02T15:50:25.049Z"
+    "collectedAt": "2026-10-12T16:34:43.969Z"
   },
   "threads:17904742887578663": {
     "platform": "threads",
     "postId": "17904742887578663",
     "topic": "Chuseok in Korea: free palace days, songpyeon, and how to wish someone a happy holiday",
+    "pattern": null,
     "publishedAt": "2026-10-02T12:41:28.215Z",
     "metrics": {
-      "views": 158,
+      "views": 214,
       "likes": 0,
       "replies": 2,
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-10-02T15:50:26.037Z"
+    "collectedAt": "2026-10-12T16:34:44.660Z"
   },
   "threads:17904572667576385": {
     "platform": "threads",
     "postId": "17904572667576385",
     "topic": "Jinju Namgang Yudeung lantern festival: when to go and how to get there from Seoul",
+    "pattern": null,
     "publishedAt": "2026-10-02T02:42:44.975Z",
     "metrics": {
       "views": 86,
@@ -921,7 +956,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-10-02T15:50:26.976Z"
+    "collectedAt": "2026-10-12T16:34:45.290Z"
   },
   "facebook:1288453561012463_122108954355446391": {
     "platform": "facebook",
@@ -967,9 +1002,10 @@
     "platform": "facebook",
     "postId": "1288453561012463_122113214889446391",
     "topic": null,
+    "pattern": null,
     "publishedAt": "2026-09-13T23:15:51.516Z",
     "metrics": {},
-    "collectedAt": "2026-10-02T15:49:37.595Z"
+    "collectedAt": "2026-10-12T16:34:19.909Z"
   },
   "facebook:1288453561012463_122109296013446391": {
     "platform": "facebook",
@@ -1167,256 +1203,696 @@
     "platform": "facebook",
     "postId": "1288453561012463_122112887229446391",
     "topic": null,
+    "pattern": null,
     "publishedAt": "2026-09-13T02:04:44.673Z",
     "metrics": {},
-    "collectedAt": "2026-10-02T15:50:01.721Z"
+    "collectedAt": "2026-10-12T16:34:21.700Z"
   },
   "facebook:1288453561012463_122112926115446391": {
     "platform": "facebook",
     "postId": "1288453561012463_122112926115446391",
     "topic": null,
+    "pattern": null,
     "publishedAt": "2026-09-13T04:03:58.889Z",
     "metrics": {},
-    "collectedAt": "2026-10-02T15:50:02.469Z"
+    "collectedAt": "2026-10-12T16:34:23.133Z"
   },
   "facebook:1288453561012463_122113222263446391": {
     "platform": "facebook",
     "postId": "1288453561012463_122113222263446391",
     "topic": null,
+    "pattern": null,
     "publishedAt": "2026-09-14T00:04:45.042Z",
     "metrics": {},
-    "collectedAt": "2026-10-02T15:50:03.243Z"
+    "collectedAt": "2026-10-12T16:34:23.854Z"
   },
   "facebook:1288453561012463_122113253253446391": {
     "platform": "facebook",
     "postId": "1288453561012463_122113253253446391",
     "topic": null,
+    "pattern": null,
     "publishedAt": "2026-09-14T03:03:50.940Z",
     "metrics": {},
-    "collectedAt": "2026-10-02T15:50:03.974Z"
+    "collectedAt": "2026-10-12T16:34:24.466Z"
   },
   "facebook:1288453561012463_122113309311446391": {
     "platform": "facebook",
     "postId": "1288453561012463_122113309311446391",
     "topic": null,
+    "pattern": null,
     "publishedAt": "2026-09-14T05:05:58.487Z",
     "metrics": {},
-    "collectedAt": "2026-10-02T15:50:04.633Z"
+    "collectedAt": "2026-10-12T16:34:25.390Z"
   },
   "facebook:1288453561012463_122113517421446391": {
     "platform": "facebook",
     "postId": "1288453561012463_122113517421446391",
     "topic": null,
+    "pattern": null,
     "publishedAt": "2026-09-14T17:05:13.738Z",
     "metrics": {},
-    "collectedAt": "2026-10-02T15:50:05.150Z"
+    "collectedAt": "2026-10-12T16:34:26.076Z"
   },
   "facebook:1288453561012463_122113629735446391": {
     "platform": "facebook",
     "postId": "1288453561012463_122113629735446391",
     "topic": null,
+    "pattern": null,
     "publishedAt": "2026-09-15T01:51:51.108Z",
     "metrics": {},
-    "collectedAt": "2026-10-02T15:50:05.767Z"
+    "collectedAt": "2026-10-12T16:34:26.806Z"
   },
   "facebook:1288453561012463_122113683111446391": {
     "platform": "facebook",
     "postId": "1288453561012463_122113683111446391",
     "topic": null,
+    "pattern": null,
     "publishedAt": "2026-09-15T04:05:07.314Z",
     "metrics": {},
-    "collectedAt": "2026-10-02T15:50:06.723Z"
+    "collectedAt": "2026-10-12T16:34:27.557Z"
   },
   "facebook:1288453561012463_122113908855446391": {
     "platform": "facebook",
     "postId": "1288453561012463_122113908855446391",
     "topic": null,
+    "pattern": null,
     "publishedAt": "2026-09-15T17:02:38.872Z",
     "metrics": {},
-    "collectedAt": "2026-10-02T15:50:07.585Z"
+    "collectedAt": "2026-10-12T16:34:28.179Z"
   },
   "facebook:1288453561012463_122114034921446391": {
     "platform": "facebook",
     "postId": "1288453561012463_122114034921446391",
     "topic": null,
+    "pattern": null,
     "publishedAt": "2026-09-16T01:05:01.203Z",
     "metrics": {},
-    "collectedAt": "2026-10-02T15:50:08.444Z"
+    "collectedAt": "2026-10-12T16:34:28.971Z"
   },
   "facebook:122114311449446391": {
     "platform": "facebook",
     "postId": "122114311449446391",
     "topic": "T-money transit card",
+    "pattern": null,
     "publishedAt": "2026-09-16T18:12:11.653Z",
     "metrics": {},
-    "collectedAt": "2026-10-02T15:50:09.287Z"
+    "collectedAt": "2026-10-12T16:34:29.797Z"
   },
   "facebook:1288453561012463_122114484699446391": {
     "platform": "facebook",
     "postId": "1288453561012463_122114484699446391",
     "topic": "Namdaemun Market",
+    "pattern": null,
     "publishedAt": "2026-09-17T03:12:03.010Z",
     "metrics": {},
-    "collectedAt": "2026-10-02T15:50:09.877Z"
+    "collectedAt": "2026-10-12T16:34:30.556Z"
   },
   "facebook:1288453561012463_122114511105446391": {
     "platform": "facebook",
     "postId": "1288453561012463_122114511105446391",
     "topic": "N Seoul Tower (Namsan)",
+    "pattern": null,
     "publishedAt": "2026-09-17T05:12:30.829Z",
     "metrics": {},
-    "collectedAt": "2026-10-02T15:50:10.722Z"
+    "collectedAt": "2026-10-12T16:34:31.358Z"
   },
   "facebook:1288453561012463_122114513337446391": {
     "platform": "facebook",
     "postId": "1288453561012463_122114513337446391",
     "topic": "N Seoul Tower (Namsan)",
+    "pattern": null,
     "publishedAt": "2026-09-17T05:23:16.308Z",
     "metrics": {},
-    "collectedAt": "2026-10-02T15:50:11.411Z"
+    "collectedAt": "2026-10-12T16:34:32.002Z"
   },
   "facebook:1288453561012463_122114544045446391": {
     "platform": "facebook",
     "postId": "1288453561012463_122114544045446391",
     "topic": "Seoul subway details nobody tells you: exit numbers, transfer walks, express trains, and the last train",
+    "pattern": null,
     "publishedAt": "2026-09-17T08:07:59.480Z",
     "metrics": {},
-    "collectedAt": "2026-10-02T15:50:12.725Z"
+    "collectedAt": "2026-10-12T16:34:32.768Z"
   },
   "facebook:1288453561012463_122114883213446391": {
     "platform": "facebook",
     "postId": "1288453561012463_122114883213446391",
     "topic": "Hailing a taxi in Korea: Kakao T vs. street taxis vs. airport 'deluxe' cabs",
+    "pattern": null,
     "publishedAt": "2026-09-18T07:54:56.595Z",
     "metrics": {},
-    "collectedAt": "2026-10-02T15:50:13.419Z"
+    "collectedAt": "2026-10-12T16:34:33.636Z"
   },
   "facebook:1288453561012463_122114969499446391": {
     "platform": "facebook",
     "postId": "1288453561012463_122114969499446391",
     "topic": "Why Google Maps fails in Korea and how the road-name address system actually works",
+    "pattern": null,
     "publishedAt": "2026-09-18T14:20:25.555Z",
     "metrics": {},
-    "collectedAt": "2026-10-02T15:50:14.234Z"
+    "collectedAt": "2026-10-12T16:34:34.377Z"
   },
   "facebook:1288453561012463_122115109719446391": {
     "platform": "facebook",
     "postId": "1288453561012463_122115109719446391",
     "topic": "Seoul subway details nobody tells you: exit numbers, transfer walks, express trains, and the last train",
+    "pattern": null,
     "publishedAt": "2026-09-19T01:12:24.061Z",
     "metrics": {},
-    "collectedAt": "2026-10-02T15:50:14.938Z"
+    "collectedAt": "2026-10-12T16:34:35.135Z"
   },
   "facebook:1288453561012463_122115167427446391": {
     "platform": "facebook",
     "postId": "1288453561012463_122115167427446391",
     "topic": "Short-term vs. long-term housing in Korea: guesthouse, goshiwon, officetel, and the deposit system",
+    "pattern": null,
     "publishedAt": "2026-09-19T04:54:05.298Z",
     "metrics": {},
-    "collectedAt": "2026-10-02T15:50:15.592Z"
+    "collectedAt": "2026-10-12T16:34:35.821Z"
   },
   "facebook:1288453561012463_122115426975446391": {
     "platform": "facebook",
     "postId": "1288453561012463_122115426975446391",
     "topic": "Opening a Korean bank account as a foreigner — and why your ARC and phone number come first",
+    "pattern": null,
     "publishedAt": "2026-09-19T16:04:26.239Z",
     "metrics": {},
-    "collectedAt": "2026-10-02T15:50:16.265Z"
+    "collectedAt": "2026-10-12T16:34:36.507Z"
   },
   "facebook:1288453561012463_122116390959446391": {
     "platform": "facebook",
     "postId": "1288453561012463_122116390959446391",
     "topic": "Bus travel inside Korean cities: color codes, tag-off transfers, and why you must flag the bus",
+    "pattern": null,
     "publishedAt": "2026-09-22T03:20:41.983Z",
     "metrics": {},
-    "collectedAt": "2026-10-02T15:50:16.892Z"
+    "collectedAt": "2026-10-12T16:34:37.124Z"
   },
   "facebook:122119885149446391": {
     "platform": "facebook",
     "postId": "122119885149446391",
     "topic": "Luggage storage & forwarding services",
+    "pattern": null,
     "publishedAt": "2026-10-01T10:25:03.167Z",
     "metrics": {},
-    "collectedAt": "2026-10-02T15:50:17.611Z"
+    "collectedAt": "2026-10-12T16:34:38.029Z"
   },
   "facebook:122120077605446391": {
     "platform": "facebook",
     "postId": "122120077605446391",
     "topic": "KTX vs. SRT vs. intercity bus for long-distance travel",
+    "pattern": null,
     "publishedAt": "2026-10-02T01:24:28.558Z",
     "metrics": {},
-    "collectedAt": "2026-10-02T15:50:19.777Z"
+    "collectedAt": "2026-10-12T16:34:39.337Z"
   },
   "facebook:1288453561012463_122118810987446391": {
     "platform": "facebook",
     "postId": "1288453561012463_122118810987446391",
     "topic": "Food delivery apps in Korea: why signing up is harder than ordering",
+    "pattern": null,
     "publishedAt": "2026-09-28T06:24:22.360Z",
     "metrics": {},
-    "collectedAt": "2026-10-02T15:50:20.849Z"
+    "collectedAt": "2026-10-12T16:34:40.108Z"
   },
   "facebook:1288453561012463_122118861363446391": {
     "platform": "facebook",
     "postId": "1288453561012463_122118861363446391",
     "topic": "Renting a car in Korea: when it's smart, when it's a waste, and what the rental desk will ask for",
+    "pattern": null,
     "publishedAt": "2026-09-28T10:24:29.436Z",
     "metrics": {},
-    "collectedAt": "2026-10-02T15:50:21.135Z"
+    "collectedAt": "2026-10-12T16:34:40.429Z"
   },
   "facebook:1288453561012463_122119117185446391": {
     "platform": "facebook",
     "postId": "1288453561012463_122119117185446391",
     "topic": "Timing cherry blossoms and fall foliage in Korea without hitting peak crowds",
+    "pattern": null,
     "publishedAt": "2026-09-29T05:40:02.915Z",
     "metrics": {},
-    "collectedAt": "2026-10-02T15:50:21.769Z"
+    "collectedAt": "2026-10-12T16:34:41.106Z"
   },
   "facebook:1288453561012463_122119292361446391": {
     "platform": "facebook",
     "postId": "1288453561012463_122119292361446391",
     "topic": "Learning to read Hangul in a weekend — and why romanized signs still confuse you",
+    "pattern": null,
     "publishedAt": "2026-09-29T16:24:25.187Z",
     "metrics": {},
-    "collectedAt": "2026-10-02T15:50:23.891Z"
+    "collectedAt": "2026-10-12T16:34:41.837Z"
   },
   "facebook:1288453561012463_122119427535446391": {
     "platform": "facebook",
     "postId": "1288453561012463_122119427535446391",
     "topic": "Hospital vs. clinic vs. pharmacy in Korea: where to actually go when you get sick",
+    "pattern": null,
     "publishedAt": "2026-09-30T03:24:21.633Z",
     "metrics": {},
-    "collectedAt": "2026-10-02T15:50:24.564Z"
+    "collectedAt": "2026-10-12T16:34:43.104Z"
   },
   "facebook:1288453561012463_122119523325446391": {
     "platform": "facebook",
     "postId": "1288453561012463_122119523325446391",
     "topic": "Cafes as workspaces in Korea: unspoken rules of study cafes, franchise chains, and 'no-laptop' signs",
+    "pattern": null,
     "publishedAt": "2026-09-30T09:53:02.445Z",
     "metrics": {},
-    "collectedAt": "2026-10-02T15:50:25.561Z"
+    "collectedAt": "2026-10-12T16:34:44.288Z"
   },
   "facebook:1288453561012463_122120265033446391": {
     "platform": "facebook",
     "postId": "1288453561012463_122120265033446391",
     "topic": "Chuseok in Korea: free palace days, songpyeon, and how to wish someone a happy holiday",
+    "pattern": null,
     "publishedAt": "2026-10-02T14:24:24.227Z",
     "metrics": {},
-    "collectedAt": "2026-10-02T15:50:26.432Z"
+    "collectedAt": "2026-10-12T16:34:44.978Z"
   },
   "facebook:1288453561012463_122120127111446391": {
     "platform": "facebook",
     "postId": "1288453561012463_122120127111446391",
     "topic": "Jinju Namgang Yudeung lantern festival: when to go and how to get there from Seoul",
+    "pattern": null,
     "publishedAt": "2026-10-02T05:24:19.821Z",
     "metrics": {},
-    "collectedAt": "2026-10-02T15:50:27.267Z"
+    "collectedAt": "2026-10-12T16:34:45.610Z"
   },
   "facebook:1288453561012463_122118788847446391": {
     "platform": "facebook",
     "postId": "1288453561012463_122118788847446391",
     "topic": "Gyeongbokgung Palace",
+    "pattern": null,
     "publishedAt": "2026-09-28T04:51:08.923Z",
     "metrics": {},
-    "collectedAt": "2026-10-02T15:50:28.211Z"
+    "collectedAt": "2026-10-12T16:34:46.223Z"
+  },
+  "threads:18137591755725056": {
+    "platform": "threads",
+    "postId": "18137591755725056",
+    "topic": "Chuseok in Korea: free palace days, songpyeon, and how to wish someone a happy holiday",
+    "pattern": null,
+    "publishedAt": "2026-10-03T08:25:31.620Z",
+    "metrics": {
+      "views": 155,
+      "likes": 2,
+      "replies": 2,
+      "reposts": 0,
+      "quotes": 0
+    },
+    "collectedAt": "2026-10-12T16:34:46.943Z"
+  },
+  "facebook:122120781015446391": {
+    "platform": "facebook",
+    "postId": "122120781015446391",
+    "topic": "Chuseok in Korea: free palace days, songpyeon, and how to wish someone a happy holiday",
+    "pattern": null,
+    "publishedAt": "2026-10-04T02:40:57.987Z",
+    "metrics": {},
+    "collectedAt": "2026-10-12T16:34:47.350Z"
+  },
+  "threads:18623885296032267": {
+    "platform": "threads",
+    "postId": "18623885296032267",
+    "topic": "First-timer mistakes part 2",
+    "pattern": null,
+    "publishedAt": "2026-10-05T05:25:22.197Z",
+    "metrics": {
+      "views": 19,
+      "likes": 0,
+      "replies": 2,
+      "reposts": 0,
+      "quotes": 0
+    },
+    "collectedAt": "2026-10-12T16:34:47.745Z"
+  },
+  "facebook:122121178653446391": {
+    "platform": "facebook",
+    "postId": "122121178653446391",
+    "topic": "First-timer mistakes part 2",
+    "pattern": null,
+    "publishedAt": "2026-10-05T07:24:31.830Z",
+    "metrics": {},
+    "collectedAt": "2026-10-12T16:34:48.206Z"
+  },
+  "threads:18342924088284581": {
+    "platform": "threads",
+    "postId": "18342924088284581",
+    "topic": "Travel advisories & safety notices",
+    "pattern": null,
+    "publishedAt": "2026-10-04T05:25:44.803Z",
+    "metrics": {
+      "views": 164,
+      "likes": 1,
+      "replies": 2,
+      "reposts": 0,
+      "quotes": 0
+    },
+    "collectedAt": "2026-10-12T16:34:48.600Z"
+  },
+  "facebook:122121140157446391": {
+    "platform": "facebook",
+    "postId": "122121140157446391",
+    "topic": "Travel advisories & safety notices",
+    "pattern": null,
+    "publishedAt": "2026-10-05T04:20:14.482Z",
+    "metrics": {},
+    "collectedAt": "2026-10-12T16:34:49.052Z"
+  },
+  "threads:17892666294438665": {
+    "platform": "threads",
+    "postId": "17892666294438665",
+    "topic": "Everland vs. Lotte World theme parks",
+    "pattern": null,
+    "publishedAt": "2026-10-06T17:25:45.315Z",
+    "metrics": {
+      "views": 18,
+      "likes": 0,
+      "replies": 2,
+      "reposts": 0,
+      "quotes": 0
+    },
+    "collectedAt": "2026-10-12T16:34:49.420Z"
+  },
+  "facebook:122121739197446391": {
+    "platform": "facebook",
+    "postId": "122121739197446391",
+    "topic": "Everland vs. Lotte World theme parks",
+    "pattern": null,
+    "publishedAt": "2026-10-07T01:39:57.759Z",
+    "metrics": {},
+    "collectedAt": "2026-10-12T16:34:49.938Z"
+  },
+  "threads:18115127072088741": {
+    "platform": "threads",
+    "postId": "18115127072088741",
+    "topic": "First-timer etiquette & common mistakes",
+    "pattern": null,
+    "publishedAt": "2026-10-06T05:27:07.742Z",
+    "metrics": {
+      "views": 131,
+      "likes": 0,
+      "replies": 2,
+      "reposts": 0,
+      "quotes": 0
+    },
+    "collectedAt": "2026-10-12T16:34:50.523Z"
+  },
+  "facebook:1288453561012463_122121462663446391": {
+    "platform": "facebook",
+    "postId": "1288453561012463_122121462663446391",
+    "topic": "First-timer etiquette & common mistakes",
+    "pattern": null,
+    "publishedAt": "2026-10-06T05:27:07.742Z",
+    "metrics": {},
+    "collectedAt": "2026-10-12T16:34:50.942Z"
+  },
+  "threads:18120973232314552": {
+    "platform": "threads",
+    "postId": "18120973232314552",
+    "topic": "Hongdae nightlife and youth culture district",
+    "pattern": null,
+    "publishedAt": "2026-10-07T05:25:47.222Z",
+    "metrics": {
+      "views": 113,
+      "likes": 0,
+      "replies": 2,
+      "reposts": 0,
+      "quotes": 0
+    },
+    "collectedAt": "2026-10-12T16:34:51.312Z"
+  },
+  "facebook:122121809565446391": {
+    "platform": "facebook",
+    "postId": "122121809565446391",
+    "topic": "Hongdae nightlife and youth culture district",
+    "pattern": null,
+    "publishedAt": "2026-10-07T06:24:26.450Z",
+    "metrics": {},
+    "collectedAt": "2026-10-12T16:34:51.704Z"
+  },
+  "threads:18111202061129975": {
+    "platform": "threads",
+    "postId": "18111202061129975",
+    "topic": "Nami Island and Petite France day trip",
+    "pattern": null,
+    "publishedAt": "2026-10-07T13:25:31.656Z",
+    "metrics": {
+      "views": 71,
+      "likes": 0,
+      "replies": 2,
+      "reposts": 0,
+      "quotes": 0
+    },
+    "collectedAt": "2026-10-12T16:34:52.127Z"
+  },
+  "facebook:122121935775446391": {
+    "platform": "facebook",
+    "postId": "122121935775446391",
+    "topic": "Nami Island and Petite France day trip",
+    "pattern": null,
+    "publishedAt": "2026-10-07T14:24:32.268Z",
+    "metrics": {},
+    "collectedAt": "2026-10-12T16:34:52.527Z"
+  },
+  "threads:18122484445779498": {
+    "platform": "threads",
+    "postId": "18122484445779498",
+    "topic": "Suwon Hwaseong Fortress",
+    "pattern": null,
+    "publishedAt": "2026-10-07T18:19:52.344Z",
+    "metrics": {
+      "views": 51,
+      "likes": 1,
+      "replies": 2,
+      "reposts": 0,
+      "quotes": 0
+    },
+    "collectedAt": "2026-10-12T16:34:53.098Z"
+  },
+  "facebook:122122123233446391": {
+    "platform": "facebook",
+    "postId": "122122123233446391",
+    "topic": "Suwon Hwaseong Fortress",
+    "pattern": null,
+    "publishedAt": "2026-10-08T03:24:44.443Z",
+    "metrics": {},
+    "collectedAt": "2026-10-12T16:34:53.513Z"
+  },
+  "threads:18104533433621389": {
+    "platform": "threads",
+    "postId": "18104533433621389",
+    "topic": "Domestic flights vs. KTX for Jeju and long-distance trips",
+    "pattern": null,
+    "publishedAt": "2026-10-08T05:37:47.563Z",
+    "metrics": {
+      "views": 244,
+      "likes": 0,
+      "replies": 2,
+      "reposts": 0,
+      "quotes": 0
+    },
+    "collectedAt": "2026-10-12T16:34:53.887Z"
+  },
+  "facebook:122122146207446391": {
+    "platform": "facebook",
+    "postId": "122122146207446391",
+    "topic": "Domestic flights vs. KTX for Jeju and long-distance trips",
+    "pattern": null,
+    "publishedAt": "2026-10-08T05:37:52.781Z",
+    "metrics": {},
+    "collectedAt": "2026-10-12T16:34:54.343Z"
+  },
+  "threads:18144579877603905": {
+    "platform": "threads",
+    "postId": "18144579877603905",
+    "topic": "Seoul attraction pass comparison",
+    "pattern": null,
+    "publishedAt": "2026-10-08T15:25:48.021Z",
+    "metrics": {
+      "views": 94,
+      "likes": 1,
+      "replies": 2,
+      "reposts": 0,
+      "quotes": 0
+    },
+    "collectedAt": "2026-10-12T16:34:54.693Z"
+  },
+  "facebook:122122311945446391": {
+    "platform": "facebook",
+    "postId": "122122311945446391",
+    "topic": "Seoul attraction pass comparison",
+    "pattern": null,
+    "publishedAt": "2026-10-08T16:24:23.980Z",
+    "metrics": {},
+    "collectedAt": "2026-10-12T16:34:55.070Z"
+  },
+  "threads:18329596738263164": {
+    "platform": "threads",
+    "postId": "18329596738263164",
+    "topic": "Korean public holidays that disrupt travel plans",
+    "pattern": null,
+    "publishedAt": "2026-10-09T02:25:25.530Z",
+    "metrics": {
+      "views": 188,
+      "likes": 0,
+      "replies": 2,
+      "reposts": 0,
+      "quotes": 0
+    },
+    "collectedAt": "2026-10-12T16:34:55.458Z"
+  },
+  "facebook:122122440477446391": {
+    "platform": "facebook",
+    "postId": "122122440477446391",
+    "topic": "Korean public holidays that disrupt travel plans",
+    "pattern": null,
+    "publishedAt": "2026-10-09T03:59:01.693Z",
+    "metrics": {},
+    "collectedAt": "2026-10-12T16:34:55.912Z"
+  },
+  "threads:17887540878686787": {
+    "platform": "threads",
+    "postId": "17887540878686787",
+    "topic": "Airport transfer options",
+    "pattern": null,
+    "publishedAt": "2026-10-09T14:38:18.920Z",
+    "metrics": {
+      "views": 263,
+      "likes": 1,
+      "replies": 2,
+      "reposts": 0,
+      "quotes": 0
+    },
+    "collectedAt": "2026-10-12T16:34:56.374Z"
+  },
+  "facebook:122122500807446391": {
+    "platform": "facebook",
+    "postId": "122122500807446391",
+    "topic": "Airport transfer options",
+    "pattern": null,
+    "publishedAt": "2026-10-09T07:24:21.290Z",
+    "metrics": {},
+    "collectedAt": "2026-10-12T16:34:56.781Z"
+  },
+  "threads:18036794111851932": {
+    "platform": "threads",
+    "postId": "18036794111851932",
+    "topic": "First-timer etiquette & common mistakes",
+    "pattern": null,
+    "publishedAt": "2026-10-10T00:25:28.568Z",
+    "metrics": {
+      "views": 73,
+      "likes": 0,
+      "replies": 2,
+      "reposts": 0,
+      "quotes": 0
+    },
+    "collectedAt": "2026-10-12T16:34:57.118Z"
+  },
+  "facebook:122122643139446391": {
+    "platform": "facebook",
+    "postId": "122122643139446391",
+    "topic": "First-timer etiquette & common mistakes",
+    "pattern": null,
+    "publishedAt": "2026-10-09T16:24:45.552Z",
+    "metrics": {},
+    "collectedAt": "2026-10-12T16:34:57.532Z"
+  },
+  "threads:17882545926529334": {
+    "platform": "threads",
+    "postId": "17882545926529334",
+    "topic": "Currency & card payments",
+    "pattern": null,
+    "publishedAt": "2026-10-10T04:25:40.358Z",
+    "metrics": {
+      "views": 80,
+      "likes": 0,
+      "replies": 2,
+      "reposts": 0,
+      "quotes": 0
+    },
+    "collectedAt": "2026-10-12T16:34:57.941Z"
+  },
+  "facebook:122122806819446391": {
+    "platform": "facebook",
+    "postId": "122122806819446391",
+    "topic": "Currency & card payments",
+    "pattern": null,
+    "publishedAt": "2026-10-10T05:24:33.851Z",
+    "metrics": {},
+    "collectedAt": "2026-10-12T16:34:58.412Z"
+  },
+  "threads:18117749908977931": {
+    "platform": "threads",
+    "postId": "18117749908977931",
+    "topic": "Emergency numbers & 24hr pharmacies",
+    "pattern": null,
+    "publishedAt": "2026-10-10T13:25:46.400Z",
+    "metrics": {
+      "views": 81,
+      "likes": 0,
+      "replies": 2,
+      "reposts": 0,
+      "quotes": 0
+    },
+    "collectedAt": "2026-10-12T16:34:58.882Z"
+  },
+  "facebook:122122947255446391": {
+    "platform": "facebook",
+    "postId": "122122947255446391",
+    "topic": "Emergency numbers & 24hr pharmacies",
+    "pattern": null,
+    "publishedAt": "2026-10-10T14:24:27.757Z",
+    "metrics": {},
+    "collectedAt": "2026-10-12T16:34:59.302Z"
+  },
+  "threads:18135755539679561": {
+    "platform": "threads",
+    "postId": "18135755539679561",
+    "topic": "Useful travel apps",
+    "pattern": null,
+    "publishedAt": "2026-10-11T06:25:46.090Z",
+    "metrics": {
+      "views": 48,
+      "likes": 0,
+      "replies": 2,
+      "reposts": 0,
+      "quotes": 0
+    },
+    "collectedAt": "2026-10-12T16:34:59.584Z"
+  },
+  "facebook:122123615361446391": {
+    "platform": "facebook",
+    "postId": "122123615361446391",
+    "topic": "Useful travel apps",
+    "pattern": null,
+    "publishedAt": "2026-10-12T08:20:41.488Z",
+    "metrics": {},
+    "collectedAt": "2026-10-12T16:35:00.004Z"
+  },
+  "threads:18087985574276481": {
+    "platform": "threads",
+    "postId": "18087985574276481",
+    "topic": "Convenience store hacks",
+    "pattern": null,
+    "publishedAt": "2026-10-12T12:25:48.967Z",
+    "metrics": {
+      "views": 339,
+      "likes": 1,
+      "replies": 3,
+      "reposts": 0,
+      "quotes": 0
+    },
+    "collectedAt": "2026-10-12T16:35:00.289Z"
+  },
+  "facebook:122123703099446391": {
+    "platform": "facebook",
+    "postId": "122123703099446391",
+    "topic": "Convenience store hacks",
+    "pattern": null,
+    "publishedAt": "2026-10-12T13:25:57.371Z",
+    "metrics": {},
+    "collectedAt": "2026-10-12T16:35:00.738Z"
   }
 }
