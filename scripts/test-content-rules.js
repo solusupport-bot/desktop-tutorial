@@ -62,3 +62,11 @@ assert(!mt('seoul city bus street korea', 'business district seoul korea'));
 assert(!mt('phone map app street Seoul korea', 'maple apartment seoul'));
 assert(!mt('autumn layering outfit korea', 'autumn leaves seoul korea'));
 assert(mt('korean glasses shop', 'glass store korea'));
+
+// 2026-10-13: 초안의 원화 금액은 원본 자료에 그대로 있어야 한다(AI가 "₩70-100k"를 지어낸 실측 사례).
+const { checkMoneyFacts } = require('../lib/scheduler/quality_gate');
+const src = 'The AREX express costs ₩13,000; a taxi is estimated at ₩65,000-80,000 plus tolls.';
+assert.deepStrictEqual(checkMoneyFacts({ threads: 'Express is ₩13,000.' }, src), []);
+assert.strictEqual(checkMoneyFacts({ facebook: 'Taxis – ₩70-100k in traffic' }, src).length, 2);
+assert.strictEqual(checkMoneyFacts({ instagram: 'only 13,000 won' }, src).length, 0);
+assert.strictEqual(checkMoneyFacts({ threads: 'about ₩65,000' }, src).length, 0);
