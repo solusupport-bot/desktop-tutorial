@@ -236,6 +236,10 @@ agent-reach install --env=auto --system --channels=<channel_name>
   제목·도입이 약속한 것(개수·실수·비용·비교)을 본문이 정확히 전부 전달하고, 끝은 독자가 바로 쓸 수 있는
   구체적 행동/체크리스트로 맺는다. 후킹 유형은 `data/engagement_benchmark_2026-10.md` 참고.
   `lib/publishing/ai_review.js` 검수 기준 5번이 이걸 검사한다.
+- **7일마다 성과 리뷰 후 모든 요소 수정** (2026-10-13 사용자 규칙): "7일간 올린 게시물을 분석해서 반응이
+  없으면 잘못된 부분을 찾아 수정 — 카피·이미지·게시 시간·영상 등 모든 요소. 잘된 것을 찾아 벤치마킹하는 것
+  잊지 말 것." 재료: `node scripts/weekly-review-report.js`(→ data/weekly_reviews/), 절차·금지사항:
+  `ops/local-cron/weekly-review-prompt.md`, 실행: `ops/local-cron/weekly-review.ps1`.
 - **사실 근거 원칙도 동일**: "다른 계정 댓글 자동 답장" 규칙(아래 섹션)과 마찬가지로, 블로그 글도
   `lib/ingestion/korea_travel.js`에 있는 실제 facts만 근거로 쓰고 지어내지 않는다.
 - 이 규칙은 SNS 자동화 쪽에서 지출 이중화 문제를 해결한 것과 정확히 같은 이유(자동 실행 중 예상 못 한
