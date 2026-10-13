@@ -24511,7 +24511,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-10-10T03:24:43.269Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-10-10T00:11:45.795Z",
     "approved": true,
@@ -26142,7 +26142,7 @@
       "bluesky"
     ],
     "scheduledAt": "2026-10-13T02:07:51.055Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-10-13T01:15:45.627Z",
     "approved": true,
@@ -26367,5 +26367,312 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-10-13T01:20:35.446Z",
     "blogUrl": "https://landinkorea.com/posts/korea-seoul-subway-details-nobody-tells-you-exit-numbers-transfer-walks-express-trains-and-the-last-train.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "6b9a420f-b078-4936-bdf6-2c3bb36d5546",
+    "text": "Most first‑time riders think any exit will get them to their destination.\n\nIn reality, picking the wrong exit at stations like Jongno 3‑ga can add a 10‑minute walk.\n\nCheck Naver or Kakao Map for the exact exit and even the subway car door to step out right by the stairs.\n\nIf a transfer involves a long corridor, choose a route with fewer transfers even if it adds a stop.\n\nWhat’s the biggest exit mix‑up you’ve had in Seoul? Open the Land in Korea link in the profile.\n\n📖 Open the Land in Korea link in our profile and search “Seoul subway details nobody tells you: exit numbers, transfer walks, express trains, and the last train”.",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-10-13T02:17:08.703Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-13T02:13:17.057Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Seoul subway details nobody tells you: exit numbers, transfer walks, express trains, and the last train",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: reddit: reaction missing – no prompt to comment, save, or share, only a generic closing 'Hope this helps fellow travelers!' | tumblr: reaction missing – closing lacks a specific call to comment, save, or share, just a generic reminder",
+      "failedPlatforms": [
+        "reddit",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "O",
+      "checkedAt": "2026-10-13T02:13:16.915Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-seoul-subway-details-nobody-tells-you-exit-numbers-transfer-walks-express-trains-and-the-last-train.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "5b67be4a-02f1-4b71-bff0-812170a6ef50",
+    "text": "You think picking the right station is enough? Wrong—choosing the right exit can save you 10 minutes at stations like Jongno 3‑ga.\n1️⃣ Large stations often have 10+ exits spread over blocks; the wrong one means a long walk.\n2️⃣ Naver and Kakao Map show the exact exit and even the car door you should board.\n3️⃣ Transfers like Gongdeok involve long corridors; fewer transfers can beat a shorter route.\nChecklist: look up exit number → match car door → confirm transfer distance.\nWhat exit surprise shocked you the most? Save this for your next Seoul ride. 🚇\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-seoul-subway-details-nobody-tells-you-exit-numbers-transfer-walks-express-trains-and-the-last-train.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": null,
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-10-13T02:23:25.339Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-13T02:13:17.179Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Seoul subway details nobody tells you: exit numbers, transfer walks, express trains, and the last train",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: reddit: reaction missing – no prompt to comment, save, or share, only a generic closing 'Hope this helps fellow travelers!' | tumblr: reaction missing – closing lacks a specific call to comment, save, or share, just a generic reminder",
+      "failedPlatforms": [
+        "reddit",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "O",
+      "checkedAt": "2026-10-13T02:13:16.915Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-seoul-subway-details-nobody-tells-you-exit-numbers-transfer-walks-express-trains-and-the-last-train.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "90af4f6d-fc23-423a-8d58-9d746ef758d7",
+    "text": "Most newcomers think any subway exit works.\n\nIn fact, at stations like Jongno 3‑ga the wrong exit adds roughly 10 minutes to your walk.\n\nUse Naver or Kakao Map—they show the exact exit and even the car door you should board.\n\nIf a transfer involves a long corridor, choose fewer transfers even if the line is a stop longer.\n\nWhat’s the biggest exit mix‑up you’ve faced in Seoul? #TravelBlog #KoreaTravel",
+    "imageUrl": null,
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-10-13T02:52:13.284Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-13T02:13:17.221Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Seoul subway details nobody tells you: exit numbers, transfer walks, express trains, and the last train",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: reddit: reaction missing – no prompt to comment, save, or share, only a generic closing 'Hope this helps fellow travelers!' | tumblr: reaction missing – closing lacks a specific call to comment, save, or share, just a generic reminder",
+      "failedPlatforms": [
+        "reddit",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "O",
+      "checkedAt": "2026-10-13T02:13:16.915Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-seoul-subway-details-nobody-tells-you-exit-numbers-transfer-walks-express-trains-and-the-last-train.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "a396b1be-f1c2-41d8-a99b-28559076804d",
+    "text": "Most newcomers assume any subway exit will get them to their goal.\n\nBut at huge stations like Jongno 3‑ga, picking the wrong exit can add a 10‑minute walk across busy streets.\n\nNaver and Kakao Map list the exact exit and even which subway car door to board, so you step out right beside the transfer stairs.\n\nWhen a transfer includes a long corridor—e.g., Gongdeok—opt for a route with fewer transfers, even if it adds a stop; it’s usually faster.\n\nWhat exit surprise caught you off guard in Seoul? #KoreaTravel #TravelTips #Seoul",
+    "imageUrl": null,
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-10-13T03:18:10.999Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-13T02:13:17.262Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Seoul subway details nobody tells you: exit numbers, transfer walks, express trains, and the last train",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: reddit: reaction missing – no prompt to comment, save, or share, only a generic closing 'Hope this helps fellow travelers!' | tumblr: reaction missing – closing lacks a specific call to comment, save, or share, just a generic reminder",
+      "failedPlatforms": [
+        "reddit",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "O",
+      "checkedAt": "2026-10-13T02:13:16.915Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-seoul-subway-details-nobody-tells-you-exit-numbers-transfer-walks-express-trains-and-the-last-train.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "e060e425-45e5-45ff-b8d6-c04e2789edbb",
+    "text": "Choosing the right exit matters more than picking the right station—at Jongno 3‑ga the wrong exit adds about a 10‑minute walk.\n1. Large stations often have 10+ exits; the wrong one can double your travel time.\n2. Naver and Kakao Map show the exact exit and the subway car door you should board.\n3. For transfers with long corridors, fewer transfers usually beat a shorter‑distance route.\nKeep this in mind next time you ride the Seoul subway.",
+    "imageUrl": null,
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-10-13T05:18:36.478Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-13T02:13:17.299Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Seoul subway details nobody tells you: exit numbers, transfer walks, express trains, and the last train",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: reddit: reaction missing – no prompt to comment, save, or share, only a generic closing 'Hope this helps fellow travelers!' | tumblr: reaction missing – closing lacks a specific call to comment, save, or share, just a generic reminder",
+      "failedPlatforms": [
+        "reddit",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "O",
+      "checkedAt": "2026-10-13T02:13:16.915Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-13T02:13:17.281Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-seoul-subway-details-nobody-tells-you-exit-numbers-transfer-walks-express-trains-and-the-last-train.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "6996dfd4-1494-4a29-b334-16380e4d2410",
+    "text": "Most first‑timers assume they need a hotel for a month‑long stay in Seoul.\n\nThe reality: many choose a goshiwon – a tiny private room rented month‑to‑month with no deposit and utilities included.\n\nGoshiwons cluster near universities like Hongik and Dongguk, so you’re close to cafés and subway lines.\n\nThey’re often windowless and very small, so check photos before booking to avoid claustrophobia.\n\nWhat’s the most surprising housing option you’ve found while traveling? Open the Land in Korea link in the profile.\n\n📖 Open the Land in Korea link in our profile and search “Short-term vs. long-term housing in Korea: guesthouse, goshiwon, officetel, and the deposit system”.",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-10-13T02:24:45.486Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-13T02:16:51.551Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Short-term vs. long-term housing in Korea: guesthouse, goshiwon, officetel, and the deposit system",
+    "qualityGate": {
+      "pass": false,
+      "reason": "캡션이 goshiwon만 다루고 있어 주제인 guesthouse, officetel, 보증금 시스템 등 전반을 충분히 다루지 않아 주제와 불충분하게 관련됩니다.",
+      "model": "groq",
+      "checkedAt": "2026-10-13T02:16:51.320Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-13T02:16:51.408Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-short-term-vs-long-term-housing-in-korea-guesthouse-goshiwon-officetel-and-the-deposit-system.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "512674c9-9f83-468f-93a2-41d814e7dad4",
+    "text": "Think you need a hotel for a month in Seoul? Most expats actually stay in goshiwons – tiny rooms with utilities included.\n\n1️⃣ No deposit, rent paid monthly, utilities covered.\n2️⃣ Share houses & guesthouses offer private or shared rooms with lighter contracts.\n3️⃣ Airbnb‑style rentals are legally messy; only licensed urban homestays are safe.\n\n✅ Check room size, window, and contract terms before booking.\n\nSend this to a friend planning a long stay in Korea 😊\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-short-term-vs-long-term-housing-in-korea-guesthouse-goshiwon-officetel-and-the-deposit-system.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": null,
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-10-13T02:29:24.996Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-13T02:16:51.604Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Short-term vs. long-term housing in Korea: guesthouse, goshiwon, officetel, and the deposit system",
+    "qualityGate": {
+      "pass": false,
+      "reason": "캡션이 goshiwon만 다루고 있어 주제인 guesthouse, officetel, 보증금 시스템 등 전반을 충분히 다루지 않아 주제와 불충분하게 관련됩니다.",
+      "model": "groq",
+      "checkedAt": "2026-10-13T02:16:51.320Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-13T02:16:51.573Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-short-term-vs-long-term-housing-in-korea-guesthouse-goshiwon-officetel-and-the-deposit-system.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "2c7bd56d-c28f-4219-be4a-3aa6b09c24bf",
+    "text": "Most travelers think a month in Seoul means a hotel.\n\nActually, goshiwons are the go‑to: tiny private rooms, no deposit, utilities included, month‑to‑month.\n\nThey’re often near campuses like Hongik, giving easy subway access.\n\nWatch out: they’re windowless and cramped – verify size in photos before committing.\n\nWhich housing option would you try first? #TravelBlog #KoreaTravel",
+    "imageUrl": null,
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-10-13T02:55:49.145Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-13T02:16:51.640Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Short-term vs. long-term housing in Korea: guesthouse, goshiwon, officetel, and the deposit system",
+    "qualityGate": {
+      "pass": false,
+      "reason": "캡션이 goshiwon만 다루고 있어 주제인 guesthouse, officetel, 보증금 시스템 등 전반을 충분히 다루지 않아 주제와 불충분하게 관련됩니다.",
+      "model": "groq",
+      "checkedAt": "2026-10-13T02:16:51.320Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-13T02:16:51.622Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-short-term-vs-long-term-housing-in-korea-guesthouse-goshiwon-officetel-and-the-deposit-system.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "b727b95d-716c-44b7-a6a7-5fbe98d9d7d5",
+    "text": "Many believe a month in Seoul requires a hotel.\n\nIn fact, goshiwons dominate: tiny private rooms, no deposit, utilities covered, rented month‑to‑month.\n\nThey’re clustered around universities such as Hongik, so you’re near cafés and transit.\n\nCaution: rooms are often windowless and very small; always view pictures and read reviews.\n\nWould you consider a goshiwon for a long stay? #KoreaTravel #TravelTips #Seoul",
+    "imageUrl": null,
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-10-13T03:26:37.031Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-13T02:16:51.691Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Short-term vs. long-term housing in Korea: guesthouse, goshiwon, officetel, and the deposit system",
+    "qualityGate": {
+      "pass": false,
+      "reason": "캡션이 goshiwon만 다루고 있어 주제인 guesthouse, officetel, 보증금 시스템 등 전반을 충분히 다루지 않아 주제와 불충분하게 관련됩니다.",
+      "model": "groq",
+      "checkedAt": "2026-10-13T02:16:51.320Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-13T02:16:51.663Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-short-term-vs-long-term-housing-in-korea-guesthouse-goshiwon-officetel-and-the-deposit-system.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "5bd11b65-85d0-4af6-aa24-c2d97b7bd702",
+    "text": "You’ll save money by staying in a goshiwon instead of a hotel for a month‑long Seoul visit.\n\n1. No deposit, monthly rent includes utilities, and rooms are ready to move in.\n2. Share houses and monthly‑rent guesthouses offer private or shared rooms with lighter contracts.\n3. Airbnb‑style rentals are legally risky; stick to licensed urban homestays.\n\nPick the option that fits your stay and budget.",
+    "imageUrl": null,
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-10-13T05:24:09.220Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-13T02:16:51.726Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Short-term vs. long-term housing in Korea: guesthouse, goshiwon, officetel, and the deposit system",
+    "qualityGate": {
+      "pass": false,
+      "reason": "캡션이 goshiwon만 다루고 있어 주제인 guesthouse, officetel, 보증금 시스템 등 전반을 충분히 다루지 않아 주제와 불충분하게 관련됩니다.",
+      "model": "groq",
+      "checkedAt": "2026-10-13T02:16:51.320Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-13T02:16:51.712Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-short-term-vs-long-term-housing-in-korea-guesthouse-goshiwon-officetel-and-the-deposit-system.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
   }
 ]
