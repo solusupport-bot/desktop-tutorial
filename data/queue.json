@@ -24468,7 +24468,7 @@
       "threads"
     ],
     "scheduledAt": "2026-10-10T03:16:54.673Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-10-10T00:11:45.763Z",
     "approved": true,
@@ -25713,5 +25713,654 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-10-13T00:55:00.932Z",
     "blogUrl": "https://landinkorea.com/posts/korea-opening-a-korean-bank-account-as-a-foreigner-and-why-your-arc-and-phone-number-come-first.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "8504ae8e-0ab6-46c6-bc75-3b1a024d4651",
+    "text": "Most first‑time riders in Seoul never realize a simple choice can cost them time.\n\nAt Seoul Station, picking exit 4 instead of exit 1 adds about a ten‑minute walk to your destination.\n\nNaver and Kakao Map list the exact exit and even which car door to board for the shortest walk.\n\nAlways check the exit number before you go underground; a wrong exit may force you across busy roads with no crosswalk.\n\nWhat’s the longest walk you’ve endured after a wrong subway exit? Open the Land in Korea link in the profile.\n\n📖 Open the Land in Korea link in our profile and search “Seoul subway details nobody tells you: exit numbers, transfer walks, express trains, and the last train”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791853663156-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791853663156-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-10-13T01:14:59.582Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-13T01:10:14.391Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/249341/pexels-photo-249341.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Seoul subway details nobody tells you: exit numbers, transfer walks, express trains, and the last train",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: reddit: reaction failed – closing only says \"Hope this helps!\" which does not give a specific reason to comment, save, or share. It lacks a question, save-worthy takeaway, or send‑to‑friend line.",
+      "model": "groq",
+      "pattern": "C",
+      "checkedAt": "2026-10-13T01:09:53.761Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-13T01:10:14.357Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-seoul-subway-details-nobody-tells-you-exit-numbers-transfer-walks-express-trains-and-the-last-train.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "73d5fc52-114f-44a5-a66c-f951ee5fe5b9",
+    "text": "📍 At Seoul Station, picking the wrong exit can add a ten‑minute walk — most first‑timers miss it.\n1. Check the exit # on Naver or Kakao Map before you descend.\n2. Follow the suggested subway car and door to land right by the transfer stairs.\n3. For stations with long corridors like Jongno 3‑ga or Gongdeok, choose routes with fewer transfers even if slightly longer.\n✅ Checklist: verify exit # and door # on the map.\nWhich exit mishap have you experienced in Seoul? Save this for your trip.\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-seoul-subway-details-nobody-tells-you-exit-numbers-transfer-walks-express-trains-and-the-last-train.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791853663156-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791853663156-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-10-13T01:20:17.152Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-13T01:10:14.429Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/249341/pexels-photo-249341.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Seoul subway details nobody tells you: exit numbers, transfer walks, express trains, and the last train",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: reddit: reaction failed – closing only says \"Hope this helps!\" which does not give a specific reason to comment, save, or share. It lacks a question, save-worthy takeaway, or send‑to‑friend line.",
+      "model": "groq",
+      "pattern": "C",
+      "checkedAt": "2026-10-13T01:09:53.761Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-13T01:10:14.409Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-seoul-subway-details-nobody-tells-you-exit-numbers-transfer-walks-express-trains-and-the-last-train.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "baba980e-5832-4a44-9366-1119a3b843f3",
+    "text": "Think any subway exit will get you where you need in Seoul?\nActually, at Seoul Station the wrong exit adds about ten minutes, while the right one drops you right at the transfer.\nSave this guide so you never waste time on the wrong exit.\n\n📖 Open the Land in Korea link in our profile and search “Seoul subway details nobody tells you: exit numbers, transfer walks, express trains, and the last train”.\n\n#KoreaTravel #SeoulTrip #TravelTips #SubwayGuide #FirstTimeInKorea",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791853793771-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791853793771-0.jpg"
+    ],
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-13T01:24:33.106Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-13T01:10:14.458Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/249341/pexels-photo-249341.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Seoul subway details nobody tells you: exit numbers, transfer walks, express trains, and the last train",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: reddit: reaction failed – closing only says \"Hope this helps!\" which does not give a specific reason to comment, save, or share. It lacks a question, save-worthy takeaway, or send‑to‑friend line.",
+      "model": "groq",
+      "pattern": "C",
+      "checkedAt": "2026-10-13T01:09:53.761Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-13T01:10:14.443Z"
+  },
+  {
+    "id": "52c485c1-9a49-402f-88c8-4279392726a3",
+    "text": "Most newcomers think any subway exit will do, but a tiny choice can waste precious minutes.\n\nAt Seoul Station, exiting through gate 4 instead of gate 1 adds roughly ten minutes to your walk.\n\nNaver and Kakao Map pinpoint the exact exit and even recommend the subway car door that puts you right by the transfer stairs.\n\nAlways confirm the exit number before you go down; a wrong gate may force you across busy streets without a crosswalk.\n\nWhat’s the longest detour you’ve taken after a wrong exit? #TravelBlog #KoreaTravel",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791853663156-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791853663156-0.jpg"
+    ],
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-10-13T01:46:36.996Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-13T01:10:14.484Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/249341/pexels-photo-249341.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Seoul subway details nobody tells you: exit numbers, transfer walks, express trains, and the last train",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: reddit: reaction failed – closing only says \"Hope this helps!\" which does not give a specific reason to comment, save, or share. It lacks a question, save-worthy takeaway, or send‑to‑friend line.",
+      "model": "groq",
+      "pattern": "C",
+      "checkedAt": "2026-10-13T01:09:53.761Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-13T01:10:14.471Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-seoul-subway-details-nobody-tells-you-exit-numbers-transfer-walks-express-trains-and-the-last-train.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "fd2c2ee4-e47e-45e9-94da-2f650221c63d",
+    "text": "First‑time riders assume any exit works, but the choice can add extra time.\n\nAt Seoul Station, using exit 4 rather than exit 1 adds about ten minutes to your route.\n\nCheck Naver or Kakao Map for the exact exit and the recommended subway car door to step out near the transfer.\n\nMake it a habit to verify the exit number; a wrong one may lead you across busy roads lacking crosswalks.\n\nWhich exit misstep has cost you time in Seoul? #KoreaTravel #Seoul #TravelTips",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791853663156-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791853663156-0.jpg"
+    ],
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-10-13T02:16:12.298Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-13T01:10:14.558Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/249341/pexels-photo-249341.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Seoul subway details nobody tells you: exit numbers, transfer walks, express trains, and the last train",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: reddit: reaction failed – closing only says \"Hope this helps!\" which does not give a specific reason to comment, save, or share. It lacks a question, save-worthy takeaway, or send‑to‑friend line.",
+      "model": "groq",
+      "pattern": "C",
+      "checkedAt": "2026-10-13T01:09:53.761Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-13T01:10:14.511Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-seoul-subway-details-nobody-tells-you-exit-numbers-transfer-walks-express-trains-and-the-last-train.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "e4933fa9-f705-49f4-8af7-aca19fd71ae2",
+    "text": "At Seoul Station, picking the wrong exit (like exit 4 instead of exit 1) adds about ten minutes to your walk, a mistake many first‑timers make.\n1. Use Naver or Kakao Map to see the exact exit and recommended subway car door.\n2. Follow the suggested door to land right by the transfer stairs and avoid long corridors.\n3. In stations with long corridors (Jongno 3‑ga, Gongdeok), choose routes with fewer transfers even if the line is slightly longer.\nKeep this in mind and save time on your next subway ride.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1791853663156-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1791853663156-0.jpg"
+    ],
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-10-13T04:17:06.562Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-13T01:10:14.617Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/249341/pexels-photo-249341.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Seoul subway details nobody tells you: exit numbers, transfer walks, express trains, and the last train",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: reddit: reaction failed – closing only says \"Hope this helps!\" which does not give a specific reason to comment, save, or share. It lacks a question, save-worthy takeaway, or send‑to‑friend line.",
+      "model": "groq",
+      "pattern": "C",
+      "checkedAt": "2026-10-13T01:09:53.761Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-13T01:10:14.600Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-seoul-subway-details-nobody-tells-you-exit-numbers-transfer-walks-express-trains-and-the-last-train.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "a345fb9e-2617-4ae4-b65b-c748bd53a29d",
+    "text": "Most first‑timers think they must book a hotel for any stay under a month.\n\nBut you can rent a goshiwon for as little as a month with zero deposit, especially in areas like Jongno.\n\nGoshiwons are tiny private rooms, utilities included, and you can move in instantly.\n\nBeware: many are windowless and very small, so check photos before you book.\n\nWhat’s the shortest legal stay you’ve managed in Korea? Open the Land in Korea link in the profile.\n\n📖 Open the Land in Korea link in our profile and search “Short-term vs. long-term housing in Korea: guesthouse, goshiwon, officetel, and the deposit system”.",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-10-13T01:32:24.998Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-13T01:13:38.401Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Short-term vs. long-term housing in Korea: guesthouse, goshiwon, officetel, and the deposit system",
+    "qualityGate": {
+      "pass": false,
+      "reason": "로컬 AI가 주제·문장·주장 품질 문제를 감지함",
+      "model": "ollaya/laya:multilingual",
+      "confidence": 0.7231,
+      "checkedAt": "2026-10-13T01:13:38.372Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-13T01:13:38.377Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-short-term-vs-long-term-housing-in-korea-guesthouse-goshiwon-officetel-and-the-deposit-system.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "7d877389-f276-41d7-b2b7-6897be24c253",
+    "text": "Think you need a hotel for a stay under a month in Korea? Think again.\n\n1️⃣ Goshiwons let you rent a private room month‑to‑month with no deposit (e.g., Jongno area).\n2️⃣ Share houses and monthly‑rent guesthouses offer private or shared rooms with lighter contracts.\n3️⃣ Only licensed urban homestays are legal for short‑term Airbnb‑style rentals; unregistered listings can be canceled.\n\n✅ Remember: check the listing’s license before booking.\n\nWhat’s your go‑to short‑term housing in Korea? Save this for your trip.\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-short-term-vs-long-term-housing-in-korea-guesthouse-goshiwon-officetel-and-the-deposit-system.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": null,
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-10-13T01:32:35.033Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-13T01:13:38.435Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Short-term vs. long-term housing in Korea: guesthouse, goshiwon, officetel, and the deposit system",
+    "qualityGate": {
+      "pass": false,
+      "reason": "로컬 AI가 주제·문장·주장 품질 문제를 감지함",
+      "model": "ollaya/laya:multilingual",
+      "confidence": 0.7231,
+      "checkedAt": "2026-10-13T01:13:38.372Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-13T01:13:38.419Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-short-term-vs-long-term-housing-in-korea-guesthouse-goshiwon-officetel-and-the-deposit-system.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "a50a0b1d-7f74-4aee-a6d7-5acbc134e37a",
+    "text": "Most visitors assume a hotel is the only option for a stay under a month in Korea.\n\nYou can actually rent a goshiwon for a single month with zero deposit, especially in neighborhoods like Jongno or Hongdae.\n\nGoshiwons are private micro‑rooms, utilities included, and you can move in the same day you sign the contract.\n\nWatch out: many goshiwons are windowless and very cramped, so verify the layout photos before committing.\n\nDid you ever try a goshiwon or share house on a short trip? #TravelBlog #KoreaTravel #SeoulTrip",
+    "imageUrl": null,
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-10-13T02:01:34.094Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-13T01:13:38.485Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Short-term vs. long-term housing in Korea: guesthouse, goshiwon, officetel, and the deposit system",
+    "qualityGate": {
+      "pass": false,
+      "reason": "로컬 AI가 주제·문장·주장 품질 문제를 감지함",
+      "model": "ollaya/laya:multilingual",
+      "confidence": 0.7231,
+      "checkedAt": "2026-10-13T01:13:38.372Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-13T01:13:38.451Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-short-term-vs-long-term-housing-in-korea-guesthouse-goshiwon-officetel-and-the-deposit-system.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "e6089bd6-4c70-42f8-ad30-0443095528db",
+    "text": "First‑time visitors usually think they need a hotel for any stay under a month in Korea.\n\nIn reality, a goshiwon lets you rent a private micro‑room month‑to‑month with no deposit—areas like Jongno and Hongdae have many options.\n\nThese rooms include utilities and you can move in immediately, making them perfect for exam‑takers or short‑term projects.\n\nBe cautious: goshiwons are often windowless and very small; always check recent photos and read reviews.\n\nWhat’s your experience with goshiwons or share houses? #KoreaTravel #TravelTips #Seoul #FirstTimeInKorea",
+    "imageUrl": null,
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-10-13T02:30:21.771Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-13T01:13:38.543Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Short-term vs. long-term housing in Korea: guesthouse, goshiwon, officetel, and the deposit system",
+    "qualityGate": {
+      "pass": false,
+      "reason": "로컬 AI가 주제·문장·주장 품질 문제를 감지함",
+      "model": "ollaya/laya:multilingual",
+      "confidence": 0.7231,
+      "checkedAt": "2026-10-13T01:13:38.372Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-13T01:13:38.513Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-short-term-vs-long-term-housing-in-korea-guesthouse-goshiwon-officetel-and-the-deposit-system.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "16771b51-e23a-477b-a472-66f177b7a5b8",
+    "text": "Think you have to stay in a hotel for any Korean trip under a month? You can actually rent a goshiwon—a tiny private room with utilities included and no deposit—for just a month.\n\n1. Goshiwons are available instantly, especially in Jongno and Hongdae.\n2. Share houses and monthly‑rent guesthouses offer a step up with private or shared rooms and lighter contracts.\n3. Only licensed urban homestays are legal for short‑term Airbnb‑style rentals; unregistered listings may be cancelled.\n\nKeep this in mind next time you plan a short stay in Korea.",
+    "imageUrl": null,
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-10-13T04:32:25.440Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-13T01:13:38.594Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Short-term vs. long-term housing in Korea: guesthouse, goshiwon, officetel, and the deposit system",
+    "qualityGate": {
+      "pass": false,
+      "reason": "로컬 AI가 주제·문장·주장 품질 문제를 감지함",
+      "model": "ollaya/laya:multilingual",
+      "confidence": 0.7231,
+      "checkedAt": "2026-10-13T01:13:38.372Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-13T01:13:38.567Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-short-term-vs-long-term-housing-in-korea-guesthouse-goshiwon-officetel-and-the-deposit-system.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "ac11245f-0864-44b2-a12b-0dbb1b3b54d8",
+    "text": "Most new residents think they can walk into a bank and open a full account on day one.\n\nBut Korean banks won’t give you a fully functional account until you have your Alien Registration Card (ARC).\n\nHead to a foreign‑customer desk near university districts like Hongdae or in central Seoul; they handle the ARC paperwork daily.\n\nIf you settle for a passport‑only account, expect low transfer limits and no overseas remittance until the ARC arrives.\n\nWhat hiccup did you hit when opening your first Korean bank account? Check the Land in Korea link in my profile for the full checklist.\n\n📖 Open the Land in Korea link in our profile and search “Opening a Korean bank account as a foreigner — and why your ARC and phone number come first”.",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-10-13T01:39:19.577Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-13T01:15:45.504Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Opening a Korean bank account as a foreigner — and why your ARC and phone number come first",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제가 일치하고 문장도 자연하며 사실 주장에 과장이 없어 여행자에게 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-10-13T01:15:41.887Z",
+      "pattern": "O"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-opening-a-korean-bank-account-as-a-foreigner-and-why-your-arc-and-phone-number-come-first.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "e8ab339c-8fd3-4934-b416-f541def41006",
+    "text": "Think you can open a full Korean bank account without an ARC? Not true—banks require your Alien Registration Card first.\n1. Get your ARC before stepping into a branch.\n2. Register a Korean phone number in your name for online banking.\n3. Visit foreign‑customer desks in Hongdae, Gangnam, or university districts.\n4. Passport‑only accounts exist but cap transfers and block remittance.\nChecklist: ARC ✔️ Korean phone ✔️ Proof of address.\nWhat’s the biggest surprise you faced with banking in Korea? 📌 Save this for your trip.\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-opening-a-korean-bank-account-as-a-foreigner-and-why-your-arc-and-phone-number-come-first.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": null,
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-10-13T01:44:24.778Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-13T01:15:45.569Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Opening a Korean bank account as a foreigner — and why your ARC and phone number come first",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제가 일치하고 문장도 자연하며 사실 주장에 과장이 없어 여행자에게 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-10-13T01:15:41.887Z",
+      "pattern": "O"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-opening-a-korean-bank-account-as-a-foreigner-and-why-your-arc-and-phone-number-come-first.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "5e145598-3a3d-466f-9713-713e1449e94d",
+    "text": "Ever tried to open a Korean bank account on day one and hit a wall?\n\nThe wall is the Alien Registration Card (ARC) – banks won’t grant a fully functional account until it’s registered.\n\nHead to a foreign‑customer desk in places like Hongdae or Gangnam; they process ARC paperwork daily for newcomers.\n\nIf you settle for a passport‑only account, expect low transfer limits and no overseas remittance until your ARC arrives.\n\nWhat was your toughest banking hurdle in Korea? #TravelBlog #KoreaTravel",
+    "imageUrl": null,
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-10-13T02:07:51.055Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-13T01:15:45.627Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Opening a Korean bank account as a foreigner — and why your ARC and phone number come first",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제가 일치하고 문장도 자연하며 사실 주장에 과장이 없어 여행자에게 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-10-13T01:15:41.887Z",
+      "pattern": "O"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-opening-a-korean-bank-account-as-a-foreigner-and-why-your-arc-and-phone-number-come-first.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "01a0f6e9-2fb4-44da-ac57-b2d2c68b5543",
+    "text": "New to Korea and tried opening a bank account right away? Most hit the same snag.\n\nKorean banks refuse a full account until you present your Alien Registration Card (ARC). Even a passport‑only account will have strict limits.\n\nVisit a foreign‑customer desk—common in Hongdae, Itaewon, or near university campuses—where staff handle ARC paperwork for expats daily.\n\nWithout the ARC, online banking and overseas remittance stay blocked, and transfer caps apply.\n\nDid you run into this before your ARC arrived? #TravelBlog #KoreaTravel #FirstTimeInKorea",
+    "imageUrl": null,
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-10-13T02:39:35.774Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-13T01:15:45.704Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Opening a Korean bank account as a foreigner — and why your ARC and phone number come first",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제가 일치하고 문장도 자연하며 사실 주장에 과장이 없어 여행자에게 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-10-13T01:15:41.887Z",
+      "pattern": "O"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-opening-a-korean-bank-account-as-a-foreigner-and-why-your-arc-and-phone-number-come-first.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "59ae90be-04c1-4e8d-b91b-2cfc541f5593",
+    "text": "You can’t open a full Korean bank account until you have your Alien Registration Card (ARC) – it’s the first gate you’ll hit.\n1. Get your ARC before visiting any branch.\n2. Register a Korean phone number in your name for online banking verification.\n3. Go to foreign‑customer desks in Hongdae, Gangnam, or university districts; they’re used to the paperwork.\nKeep this checklist handy for a smooth banking start.",
+    "imageUrl": null,
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-10-13T04:38:39.341Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-13T01:15:45.752Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Opening a Korean bank account as a foreigner — and why your ARC and phone number come first",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제가 일치하고 문장도 자연하며 사실 주장에 과장이 없어 여행자에게 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-10-13T01:15:41.887Z",
+      "pattern": "O"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-opening-a-korean-bank-account-as-a-foreigner-and-why-your-arc-and-phone-number-come-first.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "67340bbd-5624-4b71-84b5-4aa098ec36a6",
+    "text": "Most first‑time riders think any exit will get them out fast.\nAt Seoul Station, taking Exit 3 sends you across a busy road; Exit 13 drops you right by the subway transfer stairs.\nCheck Naver or Kakao Map for the exact exit and even the car door to board for a smoother walk.\nIf you’re unsure, follow the signs to Exit 13 – it cuts up to 10 minutes off your transfer.\nWhich exit have you tried that added extra time? Share below. Open the Land in Korea link in the profile.\n\n📖 Open the Land in Korea link in our profile and search “Seoul subway details nobody tells you: exit numbers, transfer walks, express trains, and the last train”.",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-10-13T01:35:24.342Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-13T01:20:35.213Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Seoul subway details nobody tells you: exit numbers, transfer walks, express trains, and the last train",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: bluesky: hook failed - first line is generic curiosity not a specific promise or confusion, \"Curious why your subway ride in Seoul feels longer than it should?\" | mastodon: hook failed - first line is generic curiosity not a specific promise or confusion, \"Ever wonder why your Seoul subway trip takes longer than the schedule says?\" | reddit: reaction failed - closing lacks a specific call to comment, save, or share, \"Hope this helps your first ride!\" | tumblr: reaction failed - closing lacks a specific call to comment, save, or share, \"Keep this in mind for a smoother first day in Seoul.\"",
+      "model": "groq",
+      "pattern": "O",
+      "checkedAt": "2026-10-13T01:20:35.126Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-13T01:20:35.163Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-seoul-subway-details-nobody-tells-you-exit-numbers-transfer-walks-express-trains-and-the-last-train.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "8aad289b-92e1-4174-be96-76269f2700d8",
+    "text": "Don’t rush to the nearest exit at Seoul Station – Exit 3 drops you across a busy road, adding about ten minutes to your transfer.\n1️⃣ Use Naver or Kakao Map to see the exact exit you need.\n2️⃣ Exit 13 puts you right next to the transfer stairs.\n3️⃣ Board the car door shown in the app to stand near the stairs.\n✅ Quick reminder: Exit 13 = fastest transfer at Seoul Station.\nWhich exit saved you time? Save this for your trip.\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-seoul-subway-details-nobody-tells-you-exit-numbers-transfer-walks-express-trains-and-the-last-train.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": null,
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-10-13T01:38:13.803Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-13T01:20:35.291Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Seoul subway details nobody tells you: exit numbers, transfer walks, express trains, and the last train",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: bluesky: hook failed - first line is generic curiosity not a specific promise or confusion, \"Curious why your subway ride in Seoul feels longer than it should?\" | mastodon: hook failed - first line is generic curiosity not a specific promise or confusion, \"Ever wonder why your Seoul subway trip takes longer than the schedule says?\" | reddit: reaction failed - closing lacks a specific call to comment, save, or share, \"Hope this helps your first ride!\" | tumblr: reaction failed - closing lacks a specific call to comment, save, or share, \"Keep this in mind for a smoother first day in Seoul.\"",
+      "model": "groq",
+      "pattern": "O",
+      "checkedAt": "2026-10-13T01:20:35.126Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-13T01:20:35.253Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-seoul-subway-details-nobody-tells-you-exit-numbers-transfer-walks-express-trains-and-the-last-train.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "4913d81b-f974-4614-933c-bcf9fae18537",
+    "text": "Curious why your subway ride in Seoul feels longer than it should?\n\nAt Seoul Station, Exit 3 leads you across a busy road, adding roughly ten minutes, while Exit 13 drops you right by the transfer stairs.\n\nUse Naver or Kakao Map to check the exact exit and the car door to board – it lines you up next to the stairs.\n\nIf you’re unsure, default to Exit 13; it consistently saves time even on busy rush hour.\n\nWhich exit has saved (or cost) you time in Seoul? #TravelBlog #KoreaTravel",
+    "imageUrl": null,
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-10-13T02:00:10.101Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-13T01:20:35.352Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Seoul subway details nobody tells you: exit numbers, transfer walks, express trains, and the last train",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: bluesky: hook failed - first line is generic curiosity not a specific promise or confusion, \"Curious why your subway ride in Seoul feels longer than it should?\" | mastodon: hook failed - first line is generic curiosity not a specific promise or confusion, \"Ever wonder why your Seoul subway trip takes longer than the schedule says?\" | reddit: reaction failed - closing lacks a specific call to comment, save, or share, \"Hope this helps your first ride!\" | tumblr: reaction failed - closing lacks a specific call to comment, save, or share, \"Keep this in mind for a smoother first day in Seoul.\"",
+      "model": "groq",
+      "pattern": "O",
+      "checkedAt": "2026-10-13T01:20:35.126Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-13T01:20:35.319Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-seoul-subway-details-nobody-tells-you-exit-numbers-transfer-walks-express-trains-and-the-last-train.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "67959524-c369-43dc-8f08-d71818b258fe",
+    "text": "Ever wonder why your Seoul subway trip takes longer than the schedule says?\n\nAt Seoul Station, Exit 3 forces you across a busy road and adds about ten minutes, but Exit 13 puts you right at the transfer stairs.\n\nCheck Naver or Kakao Map for the exact exit and even the car door to board – it lines you up next to the stairs.\n\nWhen in doubt, choose Exit 13; it reliably cuts minutes off your transfer, especially during rush hour.\n\nWhat exit have you found fastest in Seoul? #KoreaTravel #TravelTips #Seoul #FirstTimeInKorea",
+    "imageUrl": null,
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-10-13T02:31:07.008Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-13T01:20:35.404Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Seoul subway details nobody tells you: exit numbers, transfer walks, express trains, and the last train",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: bluesky: hook failed - first line is generic curiosity not a specific promise or confusion, \"Curious why your subway ride in Seoul feels longer than it should?\" | mastodon: hook failed - first line is generic curiosity not a specific promise or confusion, \"Ever wonder why your Seoul subway trip takes longer than the schedule says?\" | reddit: reaction failed - closing lacks a specific call to comment, save, or share, \"Hope this helps your first ride!\" | tumblr: reaction failed - closing lacks a specific call to comment, save, or share, \"Keep this in mind for a smoother first day in Seoul.\"",
+      "model": "groq",
+      "pattern": "O",
+      "checkedAt": "2026-10-13T01:20:35.126Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-13T01:20:35.383Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-seoul-subway-details-nobody-tells-you-exit-numbers-transfer-walks-express-trains-and-the-last-train.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "adce309e-1335-41d3-ba05-fe21dd787548",
+    "text": "Don’t follow the nearest exit at Seoul Station – Exit 3 will add ten minutes, while Exit 13 drops you right onto the transfer stairs.\n1. Use Naver or Kakao Map to see the exact exit and the recommended car door.\n2. Boarding the indicated car door positions you next to the stairs, saving walk time.\n3. At stations with long corridors like Jongno 3‑ga, fewer transfers usually beat a shorter‑distance route.\nKeep this in mind for a smoother first day in Seoul.",
+    "imageUrl": null,
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-10-13T04:33:24.917Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-13T01:20:35.468Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Seoul subway details nobody tells you: exit numbers, transfer walks, express trains, and the last train",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: bluesky: hook failed - first line is generic curiosity not a specific promise or confusion, \"Curious why your subway ride in Seoul feels longer than it should?\" | mastodon: hook failed - first line is generic curiosity not a specific promise or confusion, \"Ever wonder why your Seoul subway trip takes longer than the schedule says?\" | reddit: reaction failed - closing lacks a specific call to comment, save, or share, \"Hope this helps your first ride!\" | tumblr: reaction failed - closing lacks a specific call to comment, save, or share, \"Keep this in mind for a smoother first day in Seoul.\"",
+      "model": "groq",
+      "pattern": "O",
+      "checkedAt": "2026-10-13T01:20:35.126Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-13T01:20:35.446Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-seoul-subway-details-nobody-tells-you-exit-numbers-transfer-walks-express-trains-and-the-last-train.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
   }
 ]
