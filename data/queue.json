@@ -26458,8 +26458,13 @@
       "bluesky"
     ],
     "scheduledAt": "2026-10-13T02:52:13.284Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mxq6rzbkgu2o",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3mxq6rzbkgu2o"
+      }
+    },
     "createdAt": "2026-10-13T02:13:17.221Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -26480,7 +26485,8 @@
       "pattern": "O",
       "checkedAt": "2026-10-13T02:13:16.915Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-seoul-subway-details-nobody-tells-you-exit-numbers-transfer-walks-express-trains-and-the-last-train.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-seoul-subway-details-nobody-tells-you-exit-numbers-transfer-walks-express-trains-and-the-last-train.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-10-13T04:24:16.296Z"
   },
   {
     "id": "a396b1be-f1c2-41d8-a99b-28559076804d",
@@ -26490,8 +26496,13 @@
       "mastodon"
     ],
     "scheduledAt": "2026-10-13T03:18:10.999Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "mastodon": {
+        "id": "117431694631633828",
+        "url": "https://mastodon.social/@landinkorea/117431694631633828"
+      }
+    },
     "createdAt": "2026-10-13T02:13:17.262Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -26512,7 +26523,8 @@
       "pattern": "O",
       "checkedAt": "2026-10-13T02:13:16.915Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-seoul-subway-details-nobody-tells-you-exit-numbers-transfer-walks-express-trains-and-the-last-train.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-seoul-subway-details-nobody-tells-you-exit-numbers-transfer-walks-express-trains-and-the-last-train.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-10-13T04:24:19.572Z"
   },
   {
     "id": "e060e425-45e5-45ff-b8d6-c04e2789edbb",
