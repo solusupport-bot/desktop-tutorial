@@ -25278,5 +25278,440 @@
     "blogUrl": "https://landinkorea.com/posts/korea-why-google-maps-fails-in-korea-and-how-the-road-name-address-system-actually-works.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
     "verifyStatus": "passed",
     "processedAt": "2026-10-11T06:25:48.244Z"
+  },
+  {
+    "id": "66742acb-448e-46c4-a62e-ee744d56c9a0",
+    "text": "Most first‑time riders think every Seoul subway ride costs the same.\n\nBut the Sinbundang Line and AREX express each add an extra fare on top of the basic 1,350 won.\n\nTap your T‑money; the screen flashes the extra charge before you confirm, so you see the true cost.\n\nCheck the fare chart on the station signs or Seoul Metro app before boarding to avoid surprise.\n\nWhich extra‑fare line caught you off guard? Open the Land in Korea link in the profile.\n\n📖 Open the Land in Korea link in our profile and search “Seoul subway details nobody tells you: exit numbers, transfer walks, express trains, and the last train”.",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-10-13T01:15:58.359Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-13T00:49:59.607Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Seoul subway details nobody tells you: exit numbers, transfer walks, express trains, and the last train",
+    "qualityGate": {
+      "pass": false,
+      "reason": "원본 자료에 없는 금액: threads: ₩1,350, facebook: ₩1,350, instagram: ₩1,350, reddit: ₩1,350, bluesky: ₩1,350, mastodon: ₩1,350, tumblr: ₩1,350",
+      "model": "rule",
+      "checkedAt": "2026-10-13T00:49:59.494Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-13T00:49:59.521Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-seoul-subway-details-nobody-tells-you-exit-numbers-transfer-walks-express-trains-and-the-last-train.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "1e929eab-010e-4ae5-898a-28305d8bc850",
+    "text": "🚇 Think every Seoul subway ride costs the same? Not true—Sinbundang and AREX express add extra fares to the base 1,350 won.\n1️⃣ Sinbundang Line charges an extra fare beyond the standard rate.\n2️⃣ AREX express to Incheon Airport also has a surcharge.\n3️⃣ Line 9 express skips many stations; verify your train’s destination.\n4️⃣ Last‑train times vary by station; midnight isn’t universal.\n5️⃣ Miss the last train? Night N‑buses accept T‑money.\n\nBefore you board: check line‑specific fares, express service, and last‑train times.\nWhich extra charge surprised you the most? Save this for your trip!\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-seoul-subway-details-nobody-tells-you-exit-numbers-transfer-walks-express-trains-and-the-last-train.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": null,
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-10-13T01:23:17.057Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-13T00:49:59.675Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Seoul subway details nobody tells you: exit numbers, transfer walks, express trains, and the last train",
+    "qualityGate": {
+      "pass": false,
+      "reason": "원본 자료에 없는 금액: threads: ₩1,350, facebook: ₩1,350, instagram: ₩1,350, reddit: ₩1,350, bluesky: ₩1,350, mastodon: ₩1,350, tumblr: ₩1,350",
+      "model": "rule",
+      "checkedAt": "2026-10-13T00:49:59.494Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-13T00:49:59.636Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-seoul-subway-details-nobody-tells-you-exit-numbers-transfer-walks-express-trains-and-the-last-train.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "f68f6074-da6d-41bb-9219-29aa7936aa05",
+    "text": "First‑time in Seoul? You might think every subway ride costs the same.\n\nActually, the Sinbundang Line and AREX express each levy an extra fare on top of the standard 1,350 won base fare.\n\nWhen you tap your T‑money, the screen will flash the extra charge before you confirm, so you always see the total cost.\n\nLast‑train times are station‑specific; a midnight departure from downtown isn’t the same as from a peripheral station. Miss it? Night N‑buses run all night and accept T‑money.\n\nWhich extra‑fare surprise was the most useful for you? #TravelBlog #KoreaTravel",
+    "imageUrl": null,
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-10-13T01:45:02.839Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-13T00:49:59.712Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Seoul subway details nobody tells you: exit numbers, transfer walks, express trains, and the last train",
+    "qualityGate": {
+      "pass": false,
+      "reason": "원본 자료에 없는 금액: threads: ₩1,350, facebook: ₩1,350, instagram: ₩1,350, reddit: ₩1,350, bluesky: ₩1,350, mastodon: ₩1,350, tumblr: ₩1,350",
+      "model": "rule",
+      "checkedAt": "2026-10-13T00:49:59.494Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-13T00:49:59.694Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-seoul-subway-details-nobody-tells-you-exit-numbers-transfer-walks-express-trains-and-the-last-train.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "c6c965c3-2c5f-4ac4-9e31-d0d78b313d28",
+    "text": "First‑time in Seoul? You might think every subway ride costs the same.\n\nActually, the Sinbundang Line and AREX express each levy an extra fare on top of the standard 1,350 won base fare.\n\nWhen you tap your T‑money, the screen will flash the extra charge before you confirm, so you always see the total cost.\n\nLast‑train times are station‑specific; a midnight departure from downtown isn’t the same as from a peripheral station. Miss it? Night N‑buses run all night and accept T‑money.\n\nWhich extra‑fare surprise was the most useful for you? #KoreaTravel #TravelTips #Seoul #SafetyTips",
+    "imageUrl": null,
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-10-13T02:15:53.255Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-13T00:49:59.744Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Seoul subway details nobody tells you: exit numbers, transfer walks, express trains, and the last train",
+    "qualityGate": {
+      "pass": false,
+      "reason": "원본 자료에 없는 금액: threads: ₩1,350, facebook: ₩1,350, instagram: ₩1,350, reddit: ₩1,350, bluesky: ₩1,350, mastodon: ₩1,350, tumblr: ₩1,350",
+      "model": "rule",
+      "checkedAt": "2026-10-13T00:49:59.494Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-13T00:49:59.730Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-seoul-subway-details-nobody-tells-you-exit-numbers-transfer-walks-express-trains-and-the-last-train.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "8ca80490-af6d-4059-b913-f93db6ec375f",
+    "text": "Think every Seoul subway ride costs the same? In reality, lines like Sinbundang and AREX add extra fares on top of the base 1,350 won.\n1. Sinbundang Line and AREX express each require an additional charge beyond the standard fare.\n2. Line 9 express trains skip many stations, so verify your train’s route before boarding.\n3. Last‑train times vary by station; after midnight, night N‑buses accept T‑money.\nKeep this in mind to avoid surprise costs on your first ride.",
+    "imageUrl": null,
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-10-13T04:13:52.084Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-13T00:49:59.778Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Seoul subway details nobody tells you: exit numbers, transfer walks, express trains, and the last train",
+    "qualityGate": {
+      "pass": false,
+      "reason": "원본 자료에 없는 금액: threads: ₩1,350, facebook: ₩1,350, instagram: ₩1,350, reddit: ₩1,350, bluesky: ₩1,350, mastodon: ₩1,350, tumblr: ₩1,350",
+      "model": "rule",
+      "checkedAt": "2026-10-13T00:49:59.494Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-13T00:49:59.762Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-seoul-subway-details-nobody-tells-you-exit-numbers-transfer-walks-express-trains-and-the-last-train.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "b0cc97db-4ba5-4a1b-b66e-6f2c95c12d33",
+    "text": "You don’t need a big deposit to stay a month in Seoul.\n\nMost goshiwons rent monthly with zero deposit and utilities included, perfect for exam‑takers‑turned‑travelers.\n\nShare houses or monthly‑rent guesthouses give you a private or shared room with a lighter contract for a bit more cost.\n\nSkip unregistered Airbnb‑style listings—they’re illegal and can be cancelled without notice.\n\nWhat’s your biggest housing worry for a first month in Korea? Open the Land in Korea link in the profile.\n\n📖 Open the Land in Korea link in our profile and search “Short-term vs. long-term housing in Korea: guesthouse, goshiwon, officetel, and the deposit system”.",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-10-13T15:33:23.824Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-13T00:52:58.027Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Short-term vs. long-term housing in Korea: guesthouse, goshiwon, officetel, and the deposit system",
+    "qualityGate": {
+      "pass": false,
+      "reason": "‘대부분 고시원은 보증금 없이 월세’라는 주장이 과장돼 사실과 다를 수 있어 검수를 통과하지 못합니다.",
+      "model": "groq",
+      "checkedAt": "2026-10-13T00:52:57.952Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-13T00:52:57.988Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-short-term-vs-long-term-housing-in-korea-guesthouse-goshiwon-officetel-and-the-deposit-system.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "5a89ca6f-98d9-4da1-a66a-46d1b84b5cf1",
+    "text": "Most newcomers think they need a hefty deposit to rent in Seoul, but you can live month‑to‑month with zero deposit.\n1. Goshiwon: tiny private room, monthly rent, no deposit, utilities included.\n2. Share house/guesthouse: private or shared rooms, lighter contracts, slightly higher price.\n3. Airbnb‑style short‑term rentals: only licensed urban homestays are legal; unregistered listings may disappear.\n✅ Remember: zero‑deposit goshiwons = fast, cheap, but windowless.\nWhat’s your top housing priority in Korea? Save this for your trip.\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-short-term-vs-long-term-housing-in-korea-guesthouse-goshiwon-officetel-and-the-deposit-system.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": null,
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-10-13T15:33:56.809Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-13T00:52:58.122Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Short-term vs. long-term housing in Korea: guesthouse, goshiwon, officetel, and the deposit system",
+    "qualityGate": {
+      "pass": false,
+      "reason": "‘대부분 고시원은 보증금 없이 월세’라는 주장이 과장돼 사실과 다를 수 있어 검수를 통과하지 못합니다.",
+      "model": "groq",
+      "checkedAt": "2026-10-13T00:52:57.952Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-13T00:52:58.070Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-short-term-vs-long-term-housing-in-korea-guesthouse-goshiwon-officetel-and-the-deposit-system.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "5e8dc033-72bf-422e-b799-8d332a09306f",
+    "text": "Thinking you have to sign a year‑long lease to stay in Seoul for a month?\n\nGoshiwons let you rent a tiny private room month‑by‑month with zero deposit and utilities covered.\n\nShare houses and monthly‑rent guesthouses offer private or shared rooms with lighter contracts for a modest price jump.\n\nAvoid unregistered Airbnb‑style rentals; they’re illegal and can vanish anytime.\n\nWhich housing type fits your budget and comfort level? #TravelBlog #KoreaTravel",
+    "imageUrl": null,
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-10-13T16:02:10.777Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-13T00:52:58.194Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Short-term vs. long-term housing in Korea: guesthouse, goshiwon, officetel, and the deposit system",
+    "qualityGate": {
+      "pass": false,
+      "reason": "‘대부분 고시원은 보증금 없이 월세’라는 주장이 과장돼 사실과 다를 수 있어 검수를 통과하지 못합니다.",
+      "model": "groq",
+      "checkedAt": "2026-10-13T00:52:57.952Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-13T00:52:58.174Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-short-term-vs-long-term-housing-in-korea-guesthouse-goshiwon-officetel-and-the-deposit-system.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "fdd4c971-2259-4953-810d-1dc400ce9c43",
+    "text": "Thinking you have to sign a year‑long lease to stay in Seoul for a month?\n\nGoshiwons let you rent a tiny private room month‑by‑month with zero deposit and utilities covered.\n\nShare houses and monthly‑rent guesthouses offer private or shared rooms with lighter contracts for a modest price jump.\n\nAvoid unregistered Airbnb‑style rentals; they’re illegal and can vanish anytime.\n\nWhich option matches your stay length and budget? #KoreaTravel #Seoul #TravelTips #FirstTimeInKorea",
+    "imageUrl": null,
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-10-13T16:28:21.659Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-13T00:52:58.243Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Short-term vs. long-term housing in Korea: guesthouse, goshiwon, officetel, and the deposit system",
+    "qualityGate": {
+      "pass": false,
+      "reason": "‘대부분 고시원은 보증금 없이 월세’라는 주장이 과장돼 사실과 다를 수 있어 검수를 통과하지 못합니다.",
+      "model": "groq",
+      "checkedAt": "2026-10-13T00:52:57.952Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-13T00:52:58.217Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-short-term-vs-long-term-housing-in-korea-guesthouse-goshiwon-officetel-and-the-deposit-system.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "603f72c6-8e58-48b0-a816-0b514ff6748e",
+    "text": "You don’t need a big deposit to rent a month in Seoul—goshiwons offer zero‑deposit rooms with utilities included.\n1. Goshiwon: tiny private room, monthly rent, no deposit, utilities covered.\n2. Share houses/guesthouses: private or shared rooms, lighter contracts, slightly higher cost.\n3. Airbnb‑style short‑term rentals: only licensed urban homestays are legal; unregistered listings risk cancellation.\nPick the option that matches your stay length and budget.",
+    "imageUrl": null,
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-10-13T18:34:02.470Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-13T00:52:58.310Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Short-term vs. long-term housing in Korea: guesthouse, goshiwon, officetel, and the deposit system",
+    "qualityGate": {
+      "pass": false,
+      "reason": "‘대부분 고시원은 보증금 없이 월세’라는 주장이 과장돼 사실과 다를 수 있어 검수를 통과하지 못합니다.",
+      "model": "groq",
+      "checkedAt": "2026-10-13T00:52:57.952Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-13T00:52:58.273Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-short-term-vs-long-term-housing-in-korea-guesthouse-goshiwon-officetel-and-the-deposit-system.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "1c4dab66-f065-4cd8-8b76-61c9012074f2",
+    "text": "Most first‑timers assume any ATM will work as soon as they land at Incheon.\n\nBut at Incheon Airport only ATMs marked ‘Global’ will accept your foreign‑issued card.\n\nThese Global machines sit at Terminal 1 near the currency exchange and in the main bank lobby.\n\nRegular bank ATMs after 10 PM add extra fees, and many stop dispensing cash after midnight.\n\nWhich ATM did you try first, and did it give you cash? Open the Land in Korea link in the profile.\n\n📖 Open the Land in Korea link in our profile and search “Opening a Korean bank account as a foreigner — and why your ARC and phone number come first”.",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-10-14T00:14:31.328Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-13T00:55:00.760Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Opening a Korean bank account as a foreigner — and why your ARC and phone number come first",
+    "qualityGate": {
+      "pass": false,
+      "reason": "원본 자료에 없는 금액: reddit: ₩2,000",
+      "model": "rule",
+      "checkedAt": "2026-10-13T00:55:00.700Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-13T00:55:00.731Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-opening-a-korean-bank-account-as-a-foreigner-and-why-your-arc-and-phone-number-come-first.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "95d151b5-8cc9-4b5a-a79c-479e2b6e35da",
+    "text": "At Incheon Airport, most foreign cards won’t work at regular ATMs—only those marked ‘Global’ do. \n1️⃣ Look for ‘Global’ logo at Terminal 1 near the currency exchange.\n2️⃣ These ATMs let you withdraw KRW with your foreign debit/credit card.\n3️⃣ After 10 PM fees rise and some machines stop dispensing cash.\nChecklist: Find Global ATM → Check time → Note fees.\nDid you know this before your trip? Save this for your next visit 🚀\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-opening-a-korean-bank-account-as-a-foreigner-and-why-your-arc-and-phone-number-come-first.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": null,
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-10-14T00:19:57.832Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-13T00:55:00.817Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Opening a Korean bank account as a foreigner — and why your ARC and phone number come first",
+    "qualityGate": {
+      "pass": false,
+      "reason": "원본 자료에 없는 금액: reddit: ₩2,000",
+      "model": "rule",
+      "checkedAt": "2026-10-13T00:55:00.700Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-13T00:55:00.786Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-opening-a-korean-bank-account-as-a-foreigner-and-why-your-arc-and-phone-number-come-first.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "bf1ef62b-9168-4294-aac7-c67a8ae68c2c",
+    "text": "Most travelers think any ATM will work once they step off the plane at Incheon.\n\nThe truth: only ATMs labeled ‘Global’ accept foreign‑issued cards, and they’re found at Terminal 1 near the currency exchange.\n\nThese machines let you pull KRW directly, no need to exchange cash beforehand.\n\nAfter 10 PM they charge extra fees and many stop dispensing after midnight, so plan withdrawals earlier.\n\nWhich ATM did you first try, and did it work? #TravelBlog #KoreaTravel",
+    "imageUrl": null,
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-10-14T00:44:42.630Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-13T00:55:00.870Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Opening a Korean bank account as a foreigner — and why your ARC and phone number come first",
+    "qualityGate": {
+      "pass": false,
+      "reason": "원본 자료에 없는 금액: reddit: ₩2,000",
+      "model": "rule",
+      "checkedAt": "2026-10-13T00:55:00.700Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-13T00:55:00.844Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-opening-a-korean-bank-account-as-a-foreigner-and-why-your-arc-and-phone-number-come-first.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "4980487a-1e06-4ba1-951b-f62ad72c69c0",
+    "text": "Most travelers think any ATM will work once they step off the plane at Incheon.\n\nThe truth: only ATMs labeled ‘Global’ accept foreign‑issued cards, and they’re found at Terminal 1 near the currency exchange.\n\nThese machines let you pull KRW directly, no need to exchange cash beforehand.\n\nAfter 10 PM they charge extra fees and many stop dispensing after midnight, so plan withdrawals earlier.\n\nWhich ATM did you first try, and did it work? #TravelBlog #KoreaTravel #FirstTimeInKorea",
+    "imageUrl": null,
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-10-14T01:17:04.233Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-13T00:55:00.916Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Opening a Korean bank account as a foreigner — and why your ARC and phone number come first",
+    "qualityGate": {
+      "pass": false,
+      "reason": "원본 자료에 없는 금액: reddit: ₩2,000",
+      "model": "rule",
+      "checkedAt": "2026-10-13T00:55:00.700Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-13T00:55:00.897Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-opening-a-korean-bank-account-as-a-foreigner-and-why-your-arc-and-phone-number-come-first.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "95684d3c-e028-4d52-acc7-ea69a695a9b3",
+    "text": "At Incheon Airport, only ATMs marked ‘Global’ will accept your foreign‑issued card, not the regular ones.\n1. Find the Global logo near the currency exchange in Terminal 1 or in the bank lobby.\n2. Withdraw KRW before 10 PM to avoid extra fees; after midnight many machines stop working.\n3. Keep your passport, ARC, and phone number spelling consistent when you open a Korean bank account later.\nKeep this in mind to avoid cash headaches on arrival.",
+    "imageUrl": null,
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-10-14T03:13:40.967Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-13T00:55:00.947Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Opening a Korean bank account as a foreigner — and why your ARC and phone number come first",
+    "qualityGate": {
+      "pass": false,
+      "reason": "원본 자료에 없는 금액: reddit: ₩2,000",
+      "model": "rule",
+      "checkedAt": "2026-10-13T00:55:00.700Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-13T00:55:00.932Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-opening-a-korean-bank-account-as-a-foreigner-and-why-your-arc-and-phone-number-come-first.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
   }
 ]
