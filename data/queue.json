@@ -24511,8 +24511,13 @@
       "facebook"
     ],
     "scheduledAt": "2026-10-10T03:24:43.269Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "122123881431446391",
+        "post_id": "1288453561012463_122123881467446391"
+      }
+    },
     "createdAt": "2026-10-10T00:11:45.795Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -24536,7 +24541,8 @@
       "checkedAt": "2026-10-10T00:10:23.849Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-seasonal-packing-weather-tips.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-10-13T02:24:24.405Z"
   },
   {
     "id": "6ca3ddfb-7f4f-4297-a011-09fa17beb003",
@@ -26142,8 +26148,13 @@
       "bluesky"
     ],
     "scheduledAt": "2026-10-13T02:07:51.055Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mxpy3rzx632y",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3mxpy3rzx632y"
+      }
+    },
     "createdAt": "2026-10-13T01:15:45.627Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -26160,7 +26171,8 @@
       "checkedAt": "2026-10-13T01:15:41.887Z",
       "pattern": "O"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-opening-a-korean-bank-account-as-a-foreigner-and-why-your-arc-and-phone-number-come-first.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-opening-a-korean-bank-account-as-a-foreigner-and-why-your-arc-and-phone-number-come-first.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-10-13T02:24:28.264Z"
   },
   {
     "id": "01a0f6e9-2fb4-44da-ac57-b2d2c68b5543",
