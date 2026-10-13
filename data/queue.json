@@ -25025,8 +25025,12 @@
       "threads"
     ],
     "scheduledAt": "2026-10-10T23:24:12.462Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18108990007908575"
+      }
+    },
     "createdAt": "2026-10-10T00:19:28.070Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -25049,7 +25053,8 @@
       "checkedAt": "2026-10-10T00:18:35.383Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-why-google-maps-fails-in-korea-and-how-the-road-name-address-system-actually-works.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-10-13T05:25:24.200Z"
   },
   {
     "id": "8eeada7e-f4db-4501-a48e-56a155aacc07",
@@ -26216,8 +26221,13 @@
       "tumblr"
     ],
     "scheduledAt": "2026-10-13T04:38:39.341Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "tumblr": {
+        "id": "830334959962177536",
+        "url": "https://landinkorea.tumblr.com/post/830334959962177536"
+      }
+    },
     "createdAt": "2026-10-13T01:15:45.752Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -26234,7 +26244,8 @@
       "checkedAt": "2026-10-13T01:15:41.887Z",
       "pattern": "O"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-opening-a-korean-bank-account-as-a-foreigner-and-why-your-arc-and-phone-number-come-first.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-opening-a-korean-bank-account-as-a-foreigner-and-why-your-arc-and-phone-number-come-first.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-10-13T05:25:25.238Z"
   },
   {
     "id": "67340bbd-5624-4b71-84b5-4aa098ec36a6",
