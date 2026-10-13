@@ -26182,7 +26182,7 @@
       "mastodon"
     ],
     "scheduledAt": "2026-10-13T02:39:35.774Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-10-13T01:15:45.704Z",
     "approved": true,
@@ -26686,5 +26686,155 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-10-13T02:16:51.712Z",
     "blogUrl": "https://landinkorea.com/posts/korea-short-term-vs-long-term-housing-in-korea-guesthouse-goshiwon-officetel-and-the-deposit-system.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "37718294-c7a8-44c5-b62c-185fd6bfcd02",
+    "text": "Most new expats think they can open a Korean bank account the moment they step off the plane.\n\nThe mistake? Trying to get a full account before your Alien Registration Card (ARC) is issued.\n\nOnly passport‑only accounts are offered, which block overseas remittance and online banking.\n\nVisit a foreign‑customer desk (e.g., near Hongik University) with passport, ARC receipt, address proof, and a Korean phone.\n\nDid you run into this roadblock? Open the Land in Korea link in our profile for the full guide.",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-10-13T02:47:28.521Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-13T02:42:43.890Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Opening a Korean bank account as a foreigner — and why your ARC and phone number come first",
+    "qualityGate": {
+      "pass": false,
+      "reason": "로컬 AI가 주제·문장·주장 품질 문제를 감지함",
+      "model": "ollaya/laya:multilingual",
+      "confidence": 0.9977,
+      "checkedAt": "2026-10-13T02:42:43.802Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-13T02:42:43.827Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-opening-a-korean-bank-account-as-a-foreigner-and-why-your-arc-and-phone-number-come-first.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "f9ada0d4-3108-4261-a673-9fa91432b5ab",
+    "text": "Don’t try to open a full Korean bank account before you have your ARC – it’s a common pitfall for new residents.\n1️⃣ Bring passport, ARC (or receipt), proof of address or employment, and a Korean phone number in your name.\n2️⃣ Head to foreign‑customer desks near university districts (Hongik, Yonsei) or central Seoul.\n3️⃣ Passport‑only accounts exist but can’t handle overseas transfers or online banking.\n✅ ARC first, then full account.\nDid this save you a trip to the bank? Save this for your move to Korea!\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-opening-a-korean-bank-account-as-a-foreigner-and-why-your-arc-and-phone-number-come-first.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": null,
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-10-13T02:48:33.368Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-13T02:42:43.944Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Opening a Korean bank account as a foreigner — and why your ARC and phone number come first",
+    "qualityGate": {
+      "pass": false,
+      "reason": "로컬 AI가 주제·문장·주장 품질 문제를 감지함",
+      "model": "ollaya/laya:multilingual",
+      "confidence": 0.9977,
+      "checkedAt": "2026-10-13T02:42:43.802Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-13T02:42:43.915Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-opening-a-korean-bank-account-as-a-foreigner-and-why-your-arc-and-phone-number-come-first.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "79668877-40ce-4967-a7ba-8dc4b2ba4d46",
+    "text": "Most newcomers think they can walk into a bank and open a full account on arrival.\n\nThe reality: you need an Alien Registration Card (ARC) first—banks won’t issue a full account without it.\n\nWithout ARC you’ll only get a passport‑only account, which blocks overseas remittance and online banking.\n\nHead to a foreign‑customer desk (e.g., near Hongik University) with passport, ARC receipt, address proof, and a Korean phone number in your name.\n\nDid you hit this snag? #KoreaTravel #FirstTimeInKorea",
+    "imageUrl": null,
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-10-13T03:14:05.617Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-13T02:42:43.976Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Opening a Korean bank account as a foreigner — and why your ARC and phone number come first",
+    "qualityGate": {
+      "pass": false,
+      "reason": "로컬 AI가 주제·문장·주장 품질 문제를 감지함",
+      "model": "ollaya/laya:multilingual",
+      "confidence": 0.9977,
+      "checkedAt": "2026-10-13T02:42:43.802Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-13T02:42:43.960Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-opening-a-korean-bank-account-as-a-foreigner-and-why-your-arc-and-phone-number-come-first.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "cbfc71c3-aa3f-4a4b-90cc-afba0b27f701",
+    "text": "New expats often assume they can open a full Korean bank account the instant they land.\n\nIn fact, banks require your Alien Registration Card (ARC) before issuing a fully functional account; otherwise you’re limited to a passport‑only version.\n\nA passport‑only account can’t handle overseas remittance or online banking, which is a major inconvenience for anyone planning to send money home.\n\nVisit a foreign‑customer desk—commonly found near university districts like Hongik or Yonsei, or in central Seoul—and bring your passport, ARC receipt, proof of address or employment, and a Korean phone number registered in your name.\n\nHas anyone else dealt with this? #KoreaTravel #SeoulTrip #FirstTimeInKorea",
+    "imageUrl": null,
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-10-13T03:43:58.857Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-13T02:42:44.006Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Opening a Korean bank account as a foreigner — and why your ARC and phone number come first",
+    "qualityGate": {
+      "pass": false,
+      "reason": "로컬 AI가 주제·문장·주장 품질 문제를 감지함",
+      "model": "ollaya/laya:multilingual",
+      "confidence": 0.9977,
+      "checkedAt": "2026-10-13T02:42:43.802Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-13T02:42:43.992Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-opening-a-korean-bank-account-as-a-foreigner-and-why-your-arc-and-phone-number-come-first.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "7f5f1442-c1de-4deb-afa3-56b4b04f6e64",
+    "text": "You can’t open a full Korean bank account until you have your Alien Registration Card (ARC) and a Korean phone number in your name.\n\n1. Bring passport, ARC (or receipt), proof of address/employment, and your Korean mobile when you visit a foreign‑customer desk.\n2. These desks are usually near university areas like Hongik, Yonsei, or in central Seoul.\n3. Without ARC you’ll only get a limited passport‑only account that blocks overseas transfers and online banking.\n\nKeep this checklist handy to avoid extra trips to the bank.",
+    "imageUrl": null,
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-10-13T05:44:24.814Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-13T02:42:44.037Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Opening a Korean bank account as a foreigner — and why your ARC and phone number come first",
+    "qualityGate": {
+      "pass": false,
+      "reason": "로컬 AI가 주제·문장·주장 품질 문제를 감지함",
+      "model": "ollaya/laya:multilingual",
+      "confidence": 0.9977,
+      "checkedAt": "2026-10-13T02:42:43.802Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-13T02:42:44.023Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-opening-a-korean-bank-account-as-a-foreigner-and-why-your-arc-and-phone-number-come-first.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
   }
 ]
