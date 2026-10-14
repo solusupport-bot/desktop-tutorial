@@ -26136,8 +26136,12 @@
       "facebook"
     ],
     "scheduledAt": "2026-10-13T01:44:24.778Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "1288453561012463_122124220323446391"
+      }
+    },
     "createdAt": "2026-10-13T01:15:45.569Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -26154,7 +26158,8 @@
       "checkedAt": "2026-10-13T01:15:41.887Z",
       "pattern": "O"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-opening-a-korean-bank-account-as-a-foreigner-and-why-your-arc-and-phone-number-come-first.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-opening-a-korean-bank-account-as-a-foreigner-and-why-your-arc-and-phone-number-come-first.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-10-14T06:24:33.768Z"
   },
   {
     "id": "5e145598-3a3d-466f-9713-713e1449e94d",
