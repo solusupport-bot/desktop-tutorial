@@ -27168,7 +27168,7 @@
       "instagram"
     ],
     "scheduledAt": "2026-10-15T06:41:26.980Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-10-15T06:14:34.723Z",
     "approved": true,
@@ -27238,7 +27238,7 @@
       "bluesky"
     ],
     "scheduledAt": "2026-10-15T07:05:51.369Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-10-15T06:14:34.802Z",
     "approved": true,
