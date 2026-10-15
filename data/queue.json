@@ -26942,7 +26942,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-10-15T04:52:07.562Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-10-15T04:13:32.990Z",
     "approved": true,
@@ -27016,7 +27016,7 @@
       "mastodon"
     ],
     "scheduledAt": "2026-10-15T05:45:40.141Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-10-15T04:13:33.127Z",
     "approved": true,
@@ -27072,5 +27072,257 @@
     },
     "blogUrl": "https://landinkorea.com/posts/korea-eating-alone-in-korea-which-restaurants-refuse-solo-diners-and-where-honbap-works.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
     "verifyStatus": "passed"
+  },
+  {
+    "id": "b039ebce-2c80-48e6-888f-70a8b2c361c5",
+    "text": "Most first‑timer drivers in Korea miss a simple rule when they rent a car.\n\nIf you land in Jeju, rent a car only if you plan to explore the east coast or remote villages; Seoul trips waste it.\n\nThe rental desk will ask for your passport, a credit card, and an international driver’s permit if your license isn’t Korean.\n\nAvoid renting in Seoul rush hour; traffic jams add hours and parking costs explode.\n\nDid you ever waste a rental on a city trip? Tell us below and check the Land in Korea link in the profile.\n\n📖 Open the Land in Korea link in our profile and search “Renting a car in Korea: when it's smart, when it's a waste, and what the rental desk will ask for”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1792044846210-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1792044846210-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-10-15T06:35:09.328Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-15T06:14:34.640Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/36940164/pexels-photo-36940164.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Renting a car in Korea: when it's smart, when it's a waste, and what the rental desk will ask for",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: tumblr: reaction failed - no explicit call to comment, save, or share, just a statement",
+      "failedPlatforms": [
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "D",
+      "checkedAt": "2026-10-15T06:14:06.200Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-renting-a-car-in-korea-when-it-s-smart-when-it-s-a-waste-and-what-the-rental-desk-will-ask-for.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "059ebfc4-6e6a-44fc-a1ec-4ce64812463b",
+    "text": "Thinking a car is always the best way to see Korea? On Jeju it’s a win, but in Seoul it’s a waste of time and money.\n1️⃣ Jeju, Gangwon coast, and rural markets have few buses—car gives you freedom.\n2️⃣ Seoul’s traffic, scarce parking, and pricey lots make subway faster.\n3️⃣ Take KTX to a regional hub, rent a car for a day‑or‑two to reach off‑beat spots.\n4️⃣ Rental desks require passport, credit card, and an international driver’s permit if your license isn’t Korean.\n✅ Remember: Car only when public transport is thin.\nWill you rent a car on your next Jeju visit? Save this for your trip. 📌\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-renting-a-car-in-korea-when-it-s-smart-when-it-s-a-waste-and-what-the-rental-desk-will-ask-for.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1792044846210-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1792044846210-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-10-15T06:41:17.133Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-15T06:14:34.693Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/36940164/pexels-photo-36940164.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Renting a car in Korea: when it's smart, when it's a waste, and what the rental desk will ask for",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: tumblr: reaction failed - no explicit call to comment, save, or share, just a statement",
+      "failedPlatforms": [
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "D",
+      "checkedAt": "2026-10-15T06:14:06.200Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-renting-a-car-in-korea-when-it-s-smart-when-it-s-a-waste-and-what-the-rental-desk-will-ask-for.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "f7cf408e-dea4-4dfe-b62b-9b699eeb841a",
+    "text": "Never rent a car in Seoul unless you love traffic jams.\nOn Jeju, Gangwon, and rural towns a car cuts travel time dramatically, but in Seoul the subway beats it door‑to‑door.\nSave this tip for your itinerary.\n\n📖 Open the Land in Korea link in our profile and search “Renting a car in Korea: when it's smart, when it's a waste, and what the rental desk will ask for”.\n\n#KoreaTravel #SeoulTrip #Jeju #TravelTips #FirstTimeInKorea",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1792044846210-v1-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1792044846210-v1-0.jpg"
+    ],
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-15T06:41:26.980Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-15T06:14:34.723Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/36940164/pexels-photo-36940164.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Renting a car in Korea: when it's smart, when it's a waste, and what the rental desk will ask for",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: tumblr: reaction failed - no explicit call to comment, save, or share, just a statement",
+      "failedPlatforms": [
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "D",
+      "checkedAt": "2026-10-15T06:14:06.200Z"
+    }
+  },
+  {
+    "id": "d283aa57-1927-409c-bfe7-ab1a02f92d3d",
+    "text": "If you’re planning a road trip in Korea and wondering when a rental is worth it, here’s what I learned.\n• On Jeju Island, the east coast and remote villages have sparse bus service, so a car lets you explore at your own pace.\n• In Seoul, rush‑hour traffic, near‑nonexistent street parking, and expensive garages mean the subway is faster and cheaper.\n• A smart compromise: take the KTX to a regional hub (e.g., Busan or Daegu) and rent a car there for a day or two to reach nearby attractions.\n• Rental desks will ask for your passport, a credit card, and an international driver’s permit if your home license isn’t Korean.\nHope this helps anyone mapping out a Korean itinerary! (I'll share the full guide in the comments if you’re interested.)\n\n📖 Full article: https://landinkorea.com/posts/korea-renting-a-car-in-korea-when-it-s-smart-when-it-s-a-waste-and-what-the-rental-desk-will-ask-for.html?utm_source=reddit&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": null,
+    "platforms": [
+      "reddit"
+    ],
+    "scheduledAt": "2026-10-15T08:36:10.356Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-15T06:14:34.771Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/36940164/pexels-photo-36940164.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Renting a car in Korea: when it's smart, when it's a waste, and what the rental desk will ask for",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: tumblr: reaction failed - no explicit call to comment, save, or share, just a statement",
+      "failedPlatforms": [
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "D",
+      "checkedAt": "2026-10-15T06:14:06.200Z"
+    },
+    "rejectedBy": "no-subreddit",
+    "rejectedAt": "2026-10-15T06:14:34.736Z",
+    "rejectReason": "주제에 설정된 subreddit 없음: Renting a car in Korea: when it's smart, when it's a waste, and what the rental desk will ask for"
+  },
+  {
+    "id": "0947f218-a822-4818-9d0c-2a9f9b6cef57",
+    "text": "Most first‑timer drivers in Korea overlook a key rule when renting a car.\nIf you land in Jeju, only rent a car to reach the east coast or secluded villages; Seoul trips usually waste it.\nRental desks will ask for passport, credit card, and an international driver’s permit unless your license is Korean.\nAvoid renting during Seoul rush hour – traffic adds hours and parking costs soar.\nDid a rental ever slow you down in a city? Share your story. #TravelBlog #KoreaTravel",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1792044846210-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1792044846210-v0-0.jpg"
+    ],
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-10-15T07:05:51.369Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-15T06:14:34.802Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/36940164/pexels-photo-36940164.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Renting a car in Korea: when it's smart, when it's a waste, and what the rental desk will ask for",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: tumblr: reaction failed - no explicit call to comment, save, or share, just a statement",
+      "failedPlatforms": [
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "D",
+      "checkedAt": "2026-10-15T06:14:06.200Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-renting-a-car-in-korea-when-it-s-smart-when-it-s-a-waste-and-what-the-rental-desk-will-ask-for.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "6e6e6490-1470-4670-ad78-5a5207e05e25",
+    "text": "Most first‑timer drivers in Korea overlook a key rule when renting a car.\n\nIf you land in Jeju, only rent a car to reach the east coast or secluded villages; Seoul trips usually waste it.\n\nRental desks will ask for passport, credit card, and an international driver’s permit unless your license is Korean.\n\nAvoid renting during Seoul rush hour – traffic adds hours and parking costs soar.\n\nDid a rental ever slow you down in a city? Share your story. #KoreaTravel #TravelTips #FirstTimeInKorea",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1792044846210-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1792044846210-v0-0.jpg"
+    ],
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-10-15T07:31:05.202Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-15T06:14:34.844Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/36940164/pexels-photo-36940164.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Renting a car in Korea: when it's smart, when it's a waste, and what the rental desk will ask for",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: tumblr: reaction failed - no explicit call to comment, save, or share, just a statement",
+      "failedPlatforms": [
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "D",
+      "checkedAt": "2026-10-15T06:14:06.200Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-renting-a-car-in-korea-when-it-s-smart-when-it-s-a-waste-and-what-the-rental-desk-will-ask-for.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "81ae0732-2e24-4c37-84b8-2b8cacfb394f",
+    "text": "If you think renting a car in Korea always saves time, think again – it only pays off on Jeju, Gangwon coast, and rural towns.\n1. Jeju’s east coast and remote villages have limited buses, so a car lets you explore freely.\n2. Seoul’s traffic, scarce parking, and pricey lots mean the subway is usually faster door‑to‑door.\n3. Rental desks require passport, credit card, and an international driver’s permit if your license isn’t Korean.\nPlan wisely and enjoy smoother travels.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1792044846210-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1792044846210-v0-0.jpg"
+    ],
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-10-15T09:32:11.601Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-15T06:14:34.867Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/36940164/pexels-photo-36940164.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Renting a car in Korea: when it's smart, when it's a waste, and what the rental desk will ask for",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: tumblr: reaction failed - no explicit call to comment, save, or share, just a statement",
+      "failedPlatforms": [
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "D",
+      "checkedAt": "2026-10-15T06:14:06.200Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-15T06:14:34.856Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-renting-a-car-in-korea-when-it-s-smart-when-it-s-a-waste-and-what-the-rental-desk-will-ask-for.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
   }
 ]
