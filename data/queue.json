@@ -26942,8 +26942,13 @@
       "facebook"
     ],
     "scheduledAt": "2026-10-15T04:52:07.562Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "122124528171446391",
+        "post_id": "1288453561012463_122124528195446391"
+      }
+    },
     "createdAt": "2026-10-15T04:13:32.990Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -26963,7 +26968,8 @@
       "pattern": "D"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-eating-alone-in-korea-which-restaurants-refuse-solo-diners-and-where-honbap-works.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-10-15T06:33:37.893Z"
   },
   {
     "id": "790a6f24-28ca-49d1-bb2a-adb0c560717e",
@@ -27016,8 +27022,13 @@
       "mastodon"
     ],
     "scheduledAt": "2026-10-15T05:45:40.141Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "mastodon": {
+        "id": "117443528154663438",
+        "url": "https://mastodon.social/@landinkorea/117443528154663438"
+      }
+    },
     "createdAt": "2026-10-15T04:13:33.127Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -27037,7 +27048,8 @@
       "pattern": "D"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-eating-alone-in-korea-which-restaurants-refuse-solo-diners-and-where-honbap-works.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-10-15T06:33:46.111Z"
   },
   {
     "id": "3bdaf957-508d-4c76-9709-5943a2db823c",
