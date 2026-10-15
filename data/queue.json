@@ -26458,8 +26458,12 @@
       "facebook"
     ],
     "scheduledAt": "2026-10-13T02:23:25.339Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "1288453561012463_122124505389446391"
+      }
+    },
     "createdAt": "2026-10-13T02:13:17.179Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -26480,7 +26484,8 @@
       "pattern": "O",
       "checkedAt": "2026-10-13T02:13:16.915Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-seoul-subway-details-nobody-tells-you-exit-numbers-transfer-walks-express-trains-and-the-last-train.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-seoul-subway-details-nobody-tells-you-exit-numbers-transfer-walks-express-trains-and-the-last-train.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-10-15T04:08:10.473Z"
   },
   {
     "id": "90af4f6d-fc23-423a-8d58-9d746ef758d7",
