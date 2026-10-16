@@ -27062,7 +27062,7 @@
       "tumblr"
     ],
     "scheduledAt": "2026-10-15T07:46:13.569Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-10-15T04:13:33.201Z",
     "approved": true,
@@ -27096,7 +27096,7 @@
       "threads"
     ],
     "scheduledAt": "2026-10-15T06:35:09.328Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-10-15T06:14:34.640Z",
     "approved": true,
@@ -27285,7 +27285,7 @@
       "mastodon"
     ],
     "scheduledAt": "2026-10-15T07:31:05.202Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-10-15T06:14:34.844Z",
     "approved": true,
