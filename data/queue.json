@@ -27062,8 +27062,13 @@
       "tumblr"
     ],
     "scheduledAt": "2026-10-15T07:46:13.569Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "tumblr": {
+        "id": "830602917360844800",
+        "url": "https://landinkorea.tumblr.com/post/830602917360844800"
+      }
+    },
     "createdAt": "2026-10-15T04:13:33.201Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -27083,7 +27088,8 @@
       "pattern": "D"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-eating-alone-in-korea-which-restaurants-refuse-solo-diners-and-where-honbap-works.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-10-16T04:24:30.611Z"
   },
   {
     "id": "b039ebce-2c80-48e6-888f-70a8b2c361c5",
@@ -27096,8 +27102,12 @@
       "threads"
     ],
     "scheduledAt": "2026-10-15T06:35:09.328Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "17896096683613469"
+      }
+    },
     "createdAt": "2026-10-15T06:14:34.640Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -27119,7 +27129,8 @@
       "pattern": "D",
       "checkedAt": "2026-10-15T06:14:06.200Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-renting-a-car-in-korea-when-it-s-smart-when-it-s-a-waste-and-what-the-rental-desk-will-ask-for.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-renting-a-car-in-korea-when-it-s-smart-when-it-s-a-waste-and-what-the-rental-desk-will-ask-for.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-10-16T04:25:37.101Z"
   },
   {
     "id": "059ebfc4-6e6a-44fc-a1ec-4ce64812463b",
@@ -27285,8 +27296,13 @@
       "mastodon"
     ],
     "scheduledAt": "2026-10-15T07:31:05.202Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "mastodon": {
+        "id": "117448687067621288",
+        "url": "https://mastodon.social/@landinkorea/117448687067621288"
+      }
+    },
     "createdAt": "2026-10-15T06:14:34.844Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -27308,7 +27324,8 @@
       "pattern": "D",
       "checkedAt": "2026-10-15T06:14:06.200Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-renting-a-car-in-korea-when-it-s-smart-when-it-s-a-waste-and-what-the-rental-desk-will-ask-for.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-renting-a-car-in-korea-when-it-s-smart-when-it-s-a-waste-and-what-the-rental-desk-will-ask-for.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-10-16T04:25:44.721Z"
   },
   {
     "id": "81ae0732-2e24-4c37-84b8-2b8cacfb394f",
