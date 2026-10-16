@@ -27442,15 +27442,17 @@
     "platforms": [
       "instagram"
     ],
-    "scheduledAt": "2026-10-17T04:56:45.228Z",
-    "status": "rejected",
+    "scheduledAt": "2026-10-16T18:10:00.000Z",
+    "status": "pending",
     "results": {},
     "createdAt": "2026-10-16T11:55:09.499Z",
     "approved": true,
     "factCheckStatus": "pending",
     "reviewedBy": null,
     "reviewedAt": null,
-    "sourceImageUrls": [],
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/32133697/pexels-photo-32133697.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
     "sourceVideoUrl": null,
     "videoAttribution": null,
     "topic": "Tipping in Korea: why you shouldn't and what to do instead",
@@ -27465,9 +27467,9 @@
       "pattern": "D",
       "checkedAt": "2026-10-16T11:55:09.232Z"
     },
-    "rejectedBy": "no-media",
-    "rejectedAt": "2026-10-16T11:55:09.470Z",
-    "rejectReason": "검증 통과한 사진/영상 없음"
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1792153624378-v1-0.jpg"
+    ]
   },
   {
     "id": "bc25d733-aae2-4e7f-9b5f-1f0b9f069549",
@@ -27637,7 +27639,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-10-16T12:08:43.733Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-10-16T11:58:51.615Z",
     "approved": true,
