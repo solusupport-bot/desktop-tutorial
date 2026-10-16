@@ -27143,8 +27143,13 @@
       "facebook"
     ],
     "scheduledAt": "2026-10-15T06:41:17.133Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "122124821115446391",
+        "post_id": "1288453561012463_122124821151446391"
+      }
+    },
     "createdAt": "2026-10-15T06:14:34.693Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -27166,7 +27171,8 @@
       "pattern": "D",
       "checkedAt": "2026-10-15T06:14:06.200Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-renting-a-car-in-korea-when-it-s-smart-when-it-s-a-waste-and-what-the-rental-desk-will-ask-for.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-renting-a-car-in-korea-when-it-s-smart-when-it-s-a-waste-and-what-the-rental-desk-will-ask-for.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-10-16T05:24:20.472Z"
   },
   {
     "id": "f7cf408e-dea4-4dfe-b62b-9b699eeb841a",
