@@ -27370,5 +27370,692 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-10-15T06:14:34.856Z",
     "blogUrl": "https://landinkorea.com/posts/korea-renting-a-car-in-korea-when-it-s-smart-when-it-s-a-waste-and-what-the-rental-desk-will-ask-for.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "287c7dd2-40a8-4f21-84a6-a55070879c7a",
+    "text": "Most first‑time visitors in Seoul automatically reach for the tip button.\n\nThe truth: Korean card terminals never ask for a tip – they charge exactly the menu price, even at places like a Myeongdong restaurant.\n\nInstead, say “jal meogeosseumnida” after your meal – a simple verbal thank you is how locals show appreciation.\n\nAvoid slipping cash into the bill; it can confuse staff and be seen as rude.\n\nDid you ever tip in Korea and feel awkward? Open the Land in Korea link in the profile.\n\n📖 Open the Land in Korea link in our profile and search “Tipping in Korea: why you shouldn't and what to do instead”.",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-10-16T15:15:00.000Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-16T11:55:09.379Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Tipping in Korea: why you shouldn't and what to do instead",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: reddit: reaction missing – closing does not give a reason to comment, save, or share, just directs to blog link. | tumblr: reaction missing – no closing prompt for comment, save, or share.",
+      "failedPlatforms": [
+        "reddit",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "D",
+      "checkedAt": "2026-10-16T11:55:09.232Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-tipping-in-korea-why-you-shouldn-t-and-what-to-do-instead.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "828c0ead-aea6-4a02-bf77-b99c037f7224",
+    "text": "Think you should tip at Korean restaurants? You don’t – Korean payment terminals never include a tip option. 1️⃣ No tip button on cards. 2️⃣ Say “jal meogeosseumnida” to thank staff. 3️⃣ Returning to the same spot shows appreciation. ✅ Remember: Pay the listed price and say thank‑you. Will you skip the tip and try a thank‑you instead? Save this for your trip 😊\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-tipping-in-korea-why-you-shouldn-t-and-what-to-do-instead.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": null,
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-10-16T12:58:00.000Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-16T11:55:09.446Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Tipping in Korea: why you shouldn't and what to do instead",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: reddit: reaction missing – closing does not give a reason to comment, save, or share, just directs to blog link. | tumblr: reaction missing – no closing prompt for comment, save, or share.",
+      "failedPlatforms": [
+        "reddit",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "D",
+      "checkedAt": "2026-10-16T11:55:09.232Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-tipping-in-korea-why-you-shouldn-t-and-what-to-do-instead.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "d553709f-57e5-479c-83fb-db97a84be26f",
+    "text": "Ready to stop the awkward tip habit in Korea?\n\nKorean card terminals never ask for a tip – just pay the listed price and say “jal meogeosseumnida” after the meal.\n\nTap save so you remember the proper way to show gratitude.\n\n📖 Open the Land in Korea link in our profile and search “Tipping in Korea: why you shouldn't and what to do instead”.\n\n#KoreaTravel #SeoulTrip #TravelTips #NoTip #FirstTimeKorea",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-17T04:56:45.228Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-16T11:55:09.499Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Tipping in Korea: why you shouldn't and what to do instead",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: reddit: reaction missing – closing does not give a reason to comment, save, or share, just directs to blog link. | tumblr: reaction missing – no closing prompt for comment, save, or share.",
+      "failedPlatforms": [
+        "reddit",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "D",
+      "checkedAt": "2026-10-16T11:55:09.232Z"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-10-16T11:55:09.470Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "bc25d733-aae2-4e7f-9b5f-1f0b9f069549",
+    "text": "I’ve seen a lot of newcomers ask on r/korea whether they should tip at restaurants. The short answer: you don’t. Korean card terminals charge only the listed price – there’s no tip field even in busy areas like Gangnam or Myeongdong. Instead, a sincere “jal meogeosseumnida” after your meal is the norm, and returning to the same place shows real appreciation. If you’re unsure, just pay the amount shown and say thank you. I’ve written a longer guide on my blog – feel free to check the comments for the link.\n\n📖 Full article: https://landinkorea.com/posts/korea-tipping-in-korea-why-you-shouldn-t-and-what-to-do-instead.html?utm_source=reddit&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": null,
+    "platforms": [
+      "reddit"
+    ],
+    "scheduledAt": "2026-10-16T17:30:00.000Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-16T11:55:09.527Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Tipping in Korea: why you shouldn't and what to do instead",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: reddit: reaction missing – closing does not give a reason to comment, save, or share, just directs to blog link. | tumblr: reaction missing – no closing prompt for comment, save, or share.",
+      "failedPlatforms": [
+        "reddit",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "D",
+      "checkedAt": "2026-10-16T11:55:09.232Z"
+    },
+    "subreddit": "koreatravel"
+  },
+  {
+    "id": "3b3da640-df8d-4f16-bfc2-3e9a7377dd2b",
+    "text": "Most first‑time visitors in Seoul instinctively look for a tip button on the payment screen.\n\nKorean card terminals, even at a Myeongdong restaurant, never show a tip option – they charge only the listed price.\n\nA simple “jal meogeosseumnida” after the meal is the local way to say thanks.\n\nAvoid slipping cash into the receipt; it can be confusing for staff.\n\nDid you ever tip in Korea and feel awkward? #TravelBlog #KoreaTravel",
+    "imageUrl": null,
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-10-16T13:45:00.000Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-16T11:55:09.555Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Tipping in Korea: why you shouldn't and what to do instead",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: reddit: reaction missing – closing does not give a reason to comment, save, or share, just directs to blog link. | tumblr: reaction missing – no closing prompt for comment, save, or share.",
+      "failedPlatforms": [
+        "reddit",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "D",
+      "checkedAt": "2026-10-16T11:55:09.232Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-tipping-in-korea-why-you-shouldn-t-and-what-to-do-instead.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "9ec3464e-00f2-4b2b-be3a-c6249bbeb8dc",
+    "text": "Most first‑time visitors in Seoul instinctively look for a tip button on the payment screen.\n\nKorean card terminals, even in places like a Myeongdong eatery, never display a tip option – they charge exactly what’s on the menu.\n\nThe local way to show gratitude is a verbal “jal meogeosseumnida” right after you finish eating.\n\nDon’t add cash to the bill; staff may view it as confusing or even rude.\n\nDid you ever tip in Korea and feel odd about it? #KoreaTravel #TravelTips #Seoul #FirstTimeInKorea",
+    "imageUrl": null,
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-10-16T13:50:00.000Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-16T11:55:09.587Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Tipping in Korea: why you shouldn't and what to do instead",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: reddit: reaction missing – closing does not give a reason to comment, save, or share, just directs to blog link. | tumblr: reaction missing – no closing prompt for comment, save, or share.",
+      "failedPlatforms": [
+        "reddit",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "D",
+      "checkedAt": "2026-10-16T11:55:09.232Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-tipping-in-korea-why-you-shouldn-t-and-what-to-do-instead.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "bf4e2b5f-e4fc-44c1-91d7-fe5c35a44bcc",
+    "text": "You won't find a tip button on Korean restaurant cards – tipping isn't part of the culture. 1. Terminals in Seoul's Gangnam charge only the listed price. 2. Say \"jal meogeosseumnida\" to thank the staff. 3. Returning to the same eatery shows real appreciation.\nSave this before your trip, and tell us in the comments if you almost tipped on your first visit.",
+    "imageUrl": null,
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-10-16T16:35:00.000Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-16T11:55:09.620Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Tipping in Korea: why you shouldn't and what to do instead",
+    "qualityGate": {
+      "pass": true,
+      "reason": "재작성 후 후킹-마무리-반응 유도 검사 재통과",
+      "model": "groq",
+      "pattern": "D",
+      "checkedAt": "2026-10-16T12:20:19.336Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-tipping-in-korea-why-you-shouldn-t-and-what-to-do-instead.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "fac9c55b-fa28-42bb-8849-ff46ef8884a9",
+    "text": "Most first‑time visitors think Korean karaoke is a big bar stage.\n\nActually, in places like Hongdae the noraebang you walk into is a private room you rent by the hour.\n\nYou and your friends pick songs on a machine that has English search, so language isn’t a barrier.\n\nDon’t expect to join strangers mid‑song; always reserve the room before you start singing.\n\nWhich city’s karaoke surprised you the most? Open the Land in Korea link in the profile.\n\n📖 Open the Land in Korea link in our profile and search “Noraebang etiquette: how Korean karaoke actually works for first-timers”.",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-10-16T12:08:43.733Z",
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18087162698320252"
+      }
+    },
+    "createdAt": "2026-10-16T11:58:51.546Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Noraebang etiquette: how Korean karaoke actually works for first-timers",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: tumblr: reaction check failed - closing does not prompt comment, save, or share; text: \"Now you can plan a hassle‑free karaoke night on your first visit.\"",
+      "failedPlatforms": [
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "C",
+      "checkedAt": "2026-10-16T11:58:51.488Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-noraebang-etiquette-how-korean-karaoke-actually-works-for-first-timers.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-10-16T12:09:56.668Z"
+  },
+  {
+    "id": "fc0de57f-2a1e-464b-b647-511bcf72569b",
+    "text": "Think Korean karaoke means singing in front of strangers? Nope—most noraebangs are private rooms you rent by the hour.\n\n1️⃣ Private rooms: you get a closed space for your group.\n2️⃣ English song search: find your favorite hits easily.\n3️⃣ Cheap when split: the hourly fee is low per person.\n4️⃣ Open late: many run until 2 am.\n\nRemember: reserve a room, pick songs via English search, split the fee, enjoy the privacy. 📌 Save this for your trip.\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-noraebang-etiquette-how-korean-karaoke-actually-works-for-first-timers.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": null,
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-10-16T12:08:43.733Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-16T11:58:51.615Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Noraebang etiquette: how Korean karaoke actually works for first-timers",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: tumblr: reaction check failed - closing does not prompt comment, save, or share; text: \"Now you can plan a hassle‑free karaoke night on your first visit.\"",
+      "failedPlatforms": [
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "C",
+      "checkedAt": "2026-10-16T11:58:51.488Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-noraebang-etiquette-how-korean-karaoke-actually-works-for-first-timers.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "5f4326b8-0160-491a-b974-fce83782c9df",
+    "text": "Ever walked into a Korean karaoke thinking it’s a public bar stage?\n\nIn Korea, noraebangs are private rooms you rent by the hour, with English song search built‑in.\n\nSave this if you’re planning your first night out in Seoul!\n\n📖 Open the Land in Korea link in our profile and search “Noraebang etiquette: how Korean karaoke actually works for first-timers”.\n\n#KoreaTravel #SeoulTrip #Karaoke #TravelTips #FirstTimeInKorea",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-16T15:45:38.705Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-16T11:58:51.703Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Noraebang etiquette: how Korean karaoke actually works for first-timers",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: tumblr: reaction check failed - closing does not prompt comment, save, or share; text: \"Now you can plan a hassle‑free karaoke night on your first visit.\"",
+      "failedPlatforms": [
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "C",
+      "checkedAt": "2026-10-16T11:58:51.488Z"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-10-16T11:58:51.656Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "baf35848-ed4b-43a8-bfca-d8691ed952de",
+    "text": "If you're new to Seoul and want to hit a karaoke spot, here's why you shouldn't expect a public stage.\n\n- Most noraebangs are private rooms you book per hour, giving you a whole room for your group.\n- Song selection screens include English search, so you can sing your favorite English hits.\n- They're everywhere—from Hongdae to Gangnam—and stay open late, perfect after dinner.\n\nAnyone tried a noraebang in Korea? How was the experience?\n\n📖 Full article: https://landinkorea.com/posts/korea-noraebang-etiquette-how-korean-karaoke-actually-works-for-first-timers.html?utm_source=reddit&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": null,
+    "platforms": [
+      "reddit"
+    ],
+    "scheduledAt": "2026-10-16T14:00:00.000Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-16T11:58:51.737Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Noraebang etiquette: how Korean karaoke actually works for first-timers",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: tumblr: reaction check failed - closing does not prompt comment, save, or share; text: \"Now you can plan a hassle‑free karaoke night on your first visit.\"",
+      "failedPlatforms": [
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "C",
+      "checkedAt": "2026-10-16T11:58:51.488Z"
+    },
+    "subreddit": "koreatravel"
+  },
+  {
+    "id": "ea29be54-f18e-47e7-81db-5cd75729e65b",
+    "text": "Most newcomers assume Korean karaoke is a communal stage.\n\nIn Hongdae you’ll find noraebangs that are private rooms you rent hour‑by‑hour.\n\nThe song machines have English search, so you can pick any English track without trouble.\n\nAvoid the mistake of walking in without a reservation; book the room first.\n\nWhat’s your favorite karaoke city? #KoreaTravel #FirstTimeInKorea",
+    "imageUrl": null,
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-10-16T12:08:43.733Z",
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mxyk7isyls2y",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3mxyk7isyls2y"
+      }
+    },
+    "createdAt": "2026-10-16T11:58:51.786Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Noraebang etiquette: how Korean karaoke actually works for first-timers",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: tumblr: reaction check failed - closing does not prompt comment, save, or share; text: \"Now you can plan a hassle‑free karaoke night on your first visit.\"",
+      "failedPlatforms": [
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "C",
+      "checkedAt": "2026-10-16T11:58:51.488Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-noraebang-etiquette-how-korean-karaoke-actually-works-for-first-timers.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-10-16T12:09:58.938Z"
+  },
+  {
+    "id": "4191e842-2de5-4ff5-a933-95dc5f2512cf",
+    "text": "Most newcomers assume Korean karaoke is a communal stage.\n\nIn Hongdae you’ll find noraebangs that are private rooms you rent hour‑by‑hour.\n\nThe song machines have English search, so you can pick any English track without trouble.\n\nAvoid the mistake of walking in without a reservation; book the room first.\n\nWhat’s your favorite karaoke city? #KoreaTravel #TravelTips #Seoul",
+    "imageUrl": null,
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-10-16T12:08:43.733Z",
+    "status": "published",
+    "results": {
+      "mastodon": {
+        "id": "117450512760122553",
+        "url": "https://mastodon.social/@landinkorea/117450512760122553"
+      }
+    },
+    "createdAt": "2026-10-16T11:58:51.823Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Noraebang etiquette: how Korean karaoke actually works for first-timers",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: tumblr: reaction check failed - closing does not prompt comment, save, or share; text: \"Now you can plan a hassle‑free karaoke night on your first visit.\"",
+      "failedPlatforms": [
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "C",
+      "checkedAt": "2026-10-16T11:58:51.488Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-noraebang-etiquette-how-korean-karaoke-actually-works-for-first-timers.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-10-16T12:10:02.947Z"
+  },
+  {
+    "id": "52999dd3-d910-4d3f-aa30-6655b4ddff15",
+    "text": "Most tourists think Korean karaoke means singing on a shared stage, but every noraebang in Seoul—from Hongdae to Itaewon—is a private room you rent by the hour.\n1. The room is yours alone, so you control the playlist.\n2. Machines include English search, so language isn't a barrier.\n3. Split the modest hourly fee with friends and stay late—many run until 2 am.\nSave this before your first noraebang night, and tell us your go-to karaoke song in the comments.",
+    "imageUrl": null,
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-10-16T14:30:00.000Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-16T11:58:51.856Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Noraebang etiquette: how Korean karaoke actually works for first-timers",
+    "qualityGate": {
+      "pass": true,
+      "reason": "재작성 후 후킹-마무리-반응 유도 검사 재통과",
+      "model": "groq",
+      "pattern": "D",
+      "checkedAt": "2026-10-16T12:20:19.341Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-noraebang-etiquette-how-korean-karaoke-actually-works-for-first-timers.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "00f08e39-4785-48c8-83d6-0ca088cfa22a",
+    "text": "You assume the biggest cherry‑blossom crowds hit Yeouido on Saturday mornings.\n\nActually, weekday mornings are up to 70% quieter, and a single rainy night can ruin the bloom, so the day matters more than the week.\n\nCheck the KMA forecast and aim for a Tuesday or Wednesday early‑morning walk along the river.\n\nIf rain is forecast, shift to nearby university campuses or apartment streets—they bloom the same and stay empty.\n\nWhen did you catch a quiet blossom spot? Share your tip and open the Land in Korea link in the profile.\n\n📖 Open the Land in Korea link in our profile and search “Timing cherry blossoms and fall foliage in Korea without hitting peak crowds”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1792152127043-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1792152127043-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-10-17T01:18:36.570Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-16T12:02:24.757Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/20898091/pexels-photo-20898091.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/32242956/13751180_2160_3840_60fps.mp4",
+    "videoAttribution": null,
+    "topic": "Timing cherry blossoms and fall foliage in Korea without hitting peak crowds",
+    "qualityGate": {
+      "pass": false,
+      "reason": "주제가 벚꽃에만 국한돼 가을 단풍 내용이 없어",
+      "model": "groq",
+      "checkedAt": "2026-10-16T12:01:02.234Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-16T12:02:24.717Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-timing-cherry-blossoms-and-fall-foliage-in-korea-without-hitting-peak-crowds.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "1cd82073-1334-4db4-aeed-984626c9fdd8",
+    "text": "🌸 Think weekend mornings are safest for Yeouido cherry blossoms? Wrong—weekday mornings are far less crowded.\n\n1️⃣ Bloom peaks only ~1 week; a windy night can spoil it.\n2️⃣ Festivals like Jinhae and Yeouido jam roads on weekends; trains sell out early.\n3️⃣ Weekday mornings (Tue‑Thu) at Yeouido or campus streams stay quiet.\n4️⃣ Watch the KMA weather; if rain looms, move to a nearby neighborhood.\n\nPlan for a weekday sunrise walk and check the weather.\n\nDid you discover a quiet spot? Save this for your trip.\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-timing-cherry-blossoms-and-fall-foliage-in-korea-without-hitting-peak-crowds.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1792152127043-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1792152127043-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-10-17T01:25:47.132Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-16T12:02:24.813Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/20898091/pexels-photo-20898091.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/32242956/13751180_2160_3840_60fps.mp4",
+    "videoAttribution": null,
+    "topic": "Timing cherry blossoms and fall foliage in Korea without hitting peak crowds",
+    "qualityGate": {
+      "pass": false,
+      "reason": "주제가 벚꽃에만 국한돼 가을 단풍 내용이 없어",
+      "model": "groq",
+      "checkedAt": "2026-10-16T12:01:02.234Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-16T12:02:24.778Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-timing-cherry-blossoms-and-fall-foliage-in-korea-without-hitting-peak-crowds.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "aaa89294-9e1f-4089-b5e3-349cb4d2af2d",
+    "text": "Want to avoid the cherry‑blossom stampede in Seoul?\n\nWeekday mornings are up to 70% emptier than weekend crowds, and a single rainy night can ruin the bloom.\n\nSave this tip before you book your dates.\n\n📖 Open the Land in Korea link in our profile and search “Timing cherry blossoms and fall foliage in Korea without hitting peak crowds”.\n\n🎬 Video source: Pexels\n\n#KoreaTravel #SeoulTrip #CherryBlossom #TravelTips #VisitKorea\n\n🎵 🎵 Track: Melanie Ungar - What Is Love\nMusic provided by Jamendo (CC BY).",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1792152096804-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-17T01:25:14.947Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-16T12:02:24.848Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/20898091/pexels-photo-20898091.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/32242956/13751180_2160_3840_60fps.mp4",
+    "videoAttribution": "Pexels",
+    "topic": "Timing cherry blossoms and fall foliage in Korea without hitting peak crowds",
+    "qualityGate": {
+      "pass": false,
+      "reason": "주제가 벚꽃에만 국한돼 가을 단풍 내용이 없어",
+      "model": "groq",
+      "checkedAt": "2026-10-16T12:01:02.234Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-16T12:02:24.829Z"
+  },
+  {
+    "id": "7471e831-b76c-461e-bcc0-d48fc5c941ce",
+    "text": "Planning cherry‑blossom photos in Seoul and dread the crowds? I was in the same boat.\n\n- Aim for a weekday morning (Tuesday‑Thursday) at Yeouido or any university campus; crowds drop by about 70% compared to weekends.\n- Keep an eye on the KMA forecast—one rainy night can wipe out the petals, so flexibility is key.\n- If a rain warning appears, head to nearby apartment‑complex streets; they bloom just as well and stay empty.\n\nHope this helps you catch the blossoms in peace!\n\n📖 Full article: https://landinkorea.com/posts/korea-timing-cherry-blossoms-and-fall-foliage-in-korea-without-hitting-peak-crowds.html?utm_source=reddit&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": null,
+    "platforms": [
+      "reddit"
+    ],
+    "scheduledAt": "2026-10-17T03:19:02.403Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-16T12:02:24.882Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/20898091/pexels-photo-20898091.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/32242956/13751180_2160_3840_60fps.mp4",
+    "videoAttribution": null,
+    "topic": "Timing cherry blossoms and fall foliage in Korea without hitting peak crowds",
+    "qualityGate": {
+      "pass": false,
+      "reason": "주제가 벚꽃에만 국한돼 가을 단풍 내용이 없어",
+      "model": "groq",
+      "checkedAt": "2026-10-16T12:01:02.234Z"
+    },
+    "rejectedBy": "no-subreddit",
+    "rejectedAt": "2026-10-16T12:02:24.869Z",
+    "rejectReason": "주제에 설정된 subreddit 없음: Timing cherry blossoms and fall foliage in Korea without hitting peak crowds"
+  },
+  {
+    "id": "1db2a574-4a86-4c34-a855-083906b82261",
+    "text": "You assume the biggest cherry‑blossom crowds hit Yeouido on Saturday mornings.\n\nIn reality weekday mornings are up to 70% quieter, and a single rainy night can ruin the bloom, so the exact day matters more than the week.\n\nCheck the KMA forecast and schedule a Tuesday or Wednesday early‑morning walk along the river.\n\nIf rain is predicted, pivot to nearby university campuses or apartment‑complex streets—they stay empty and still showcase the flowers.\n\nWhen did you find a quiet blossom spot? #TravelBlog #KoreaTravel",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1792152127043-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1792152127043-v0-0.jpg"
+    ],
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-10-17T01:50:54.870Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-16T12:02:24.917Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/20898091/pexels-photo-20898091.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/32242956/13751180_2160_3840_60fps.mp4",
+    "videoAttribution": null,
+    "topic": "Timing cherry blossoms and fall foliage in Korea without hitting peak crowds",
+    "qualityGate": {
+      "pass": false,
+      "reason": "주제가 벚꽃에만 국한돼 가을 단풍 내용이 없어",
+      "model": "groq",
+      "checkedAt": "2026-10-16T12:01:02.234Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-16T12:02:24.893Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-timing-cherry-blossoms-and-fall-foliage-in-korea-without-hitting-peak-crowds.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "4291bd0a-139a-4217-8ece-cfb2037912fb",
+    "text": "You assume the biggest cherry‑blossom crowds hit Yeouido on Saturday mornings.\n\nIn reality weekday mornings are up to 70% quieter, and a single rainy night can ruin the bloom, so the exact day matters more than the week.\n\nCheck the KMA forecast and schedule a Tuesday or Wednesday early‑morning walk along the river.\n\nIf rain is predicted, pivot to nearby university campuses or apartment‑complex streets—they stay empty and still showcase the flowers.\n\nWhen did you find a quiet blossom spot? #TravelBlog #KoreaTravel",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1792152127043-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1792152127043-v0-0.jpg"
+    ],
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-10-17T02:17:02.203Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-16T12:02:24.973Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/20898091/pexels-photo-20898091.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/32242956/13751180_2160_3840_60fps.mp4",
+    "videoAttribution": null,
+    "topic": "Timing cherry blossoms and fall foliage in Korea without hitting peak crowds",
+    "qualityGate": {
+      "pass": false,
+      "reason": "주제가 벚꽃에만 국한돼 가을 단풍 내용이 없어",
+      "model": "groq",
+      "checkedAt": "2026-10-16T12:01:02.234Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-16T12:02:24.940Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-timing-cherry-blossoms-and-fall-foliage-in-korea-without-hitting-peak-crowds.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "ecb0840e-1be3-45e5-be94-4fdd062988ca",
+    "text": "You think the busiest cherry‑blossom crowds are on Saturday mornings at Yeouido, but weekday mornings are actually far quieter.\n\n1. Bloom peaks only about a week; a single windy or rainy night can ruin it.\n2. Major festivals (Jinhae, Yeouido) cause road closures and sold‑out trains on weekends.\n3. Weekday mornings (Tue‑Thu) at Yeouido, campus streams, or apartment streets stay empty and beautiful.\n\nKeep this in mind for a crowd‑free blossom experience.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1792152127043-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1792152127043-v0-0.jpg"
+    ],
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-10-17T04:18:39.833Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-16T12:02:25.006Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/20898091/pexels-photo-20898091.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/32242956/13751180_2160_3840_60fps.mp4",
+    "videoAttribution": null,
+    "topic": "Timing cherry blossoms and fall foliage in Korea without hitting peak crowds",
+    "qualityGate": {
+      "pass": false,
+      "reason": "주제가 벚꽃에만 국한돼 가을 단풍 내용이 없어",
+      "model": "groq",
+      "checkedAt": "2026-10-16T12:01:02.234Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-16T12:02:24.990Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-timing-cherry-blossoms-and-fall-foliage-in-korea-without-hitting-peak-crowds.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
   }
 ]
