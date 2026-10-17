@@ -28097,5 +28097,516 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-10-16T12:02:24.990Z",
     "blogUrl": "https://landinkorea.com/posts/korea-timing-cherry-blossoms-and-fall-foliage-in-korea-without-hitting-peak-crowds.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "6005c555-d8f6-4d74-b309-6e80ebdbfbea",
+    "text": "Most new residents in Seoul make a tiny trash mistake that can get their waste rejected.\n\nYou must use the official district-specific 종량제 봉투 for general waste, not any random bag you buy elsewhere.\n\nThese bags are sold at every convenience store and supermarket in the district you live in.\n\nEven if a bag looks identical, if it’s from another district it won’t be accepted – the fee is built into that bag.\n\nHas anyone had their trash turned away because of the wrong bag? Tell us below. Open the Land in Korea link in the profile.\n\n📖 Open the Land in Korea link in our profile and search “Trash and recycling rules for residents”.",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-10-17T06:30:39.171Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-17T06:27:34.817Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Trash and recycling rules for residents",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: reddit: missing reaction – closing does not invite comment, save, or share, text: \"So always pick up the right bag for your neighborhood before you start sorting your trash.\" | tumblr: missing reaction – closing does not invite comment, save, or share, text: \"Remember this tip and avoid the trash hassle on day one.\"",
+      "failedPlatforms": [
+        "reddit",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "A",
+      "checkedAt": "2026-10-17T06:27:34.719Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-trash-and-recycling-rules-for-residents.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "d3f82409-8368-40b4-9ef3-9ac91c2d5bf8",
+    "text": "Don’t waste time throwing away trash in the wrong bag – you need the district-specific 종량제 봉투 for general waste.\n1️⃣ Buy the bag at a convenience store or supermarket in your own district.\n2️⃣ Look for the label showing your district name (e.g., Jongno, Gangnam).\n3️⃣ Use it for all non-recyclable waste; other bags will be rejected.\n4️⃣ Keep a few extra bags in your apartment for busy weeks.\n✅ Always grab a local district bag before you start sorting.\n🗑️ Send this to a friend moving to Korea so they avoid the trash hassle. Save this for your trip!\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-trash-and-recycling-rules-for-residents.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": null,
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-10-17T06:32:59.930Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-17T06:27:34.881Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Trash and recycling rules for residents",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: reddit: missing reaction – closing does not invite comment, save, or share, text: \"So always pick up the right bag for your neighborhood before you start sorting your trash.\" | tumblr: missing reaction – closing does not invite comment, save, or share, text: \"Remember this tip and avoid the trash hassle on day one.\"",
+      "failedPlatforms": [
+        "reddit",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "A",
+      "checkedAt": "2026-10-17T06:27:34.719Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-trash-and-recycling-rules-for-residents.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "205e17c5-4194-470b-9612-4180d504bee8",
+    "text": "Think any trash bag works in Seoul?\nYou actually need the official district-specific 종량제 봉투 for general waste, sold at local stores.\nSave this tip before you move!\n\n📖 Open the Land in Korea link in our profile and search “Trash and recycling rules for residents”.\n\n#KoreaTravel #SeoulTrip #TravelTips #ExpatLife #RecycleKorea",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-17T06:39:57.572Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-17T06:27:34.922Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Trash and recycling rules for residents",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: reddit: missing reaction – closing does not invite comment, save, or share, text: \"So always pick up the right bag for your neighborhood before you start sorting your trash.\" | tumblr: missing reaction – closing does not invite comment, save, or share, text: \"Remember this tip and avoid the trash hassle on day one.\"",
+      "failedPlatforms": [
+        "reddit",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "A",
+      "checkedAt": "2026-10-17T06:27:34.719Z"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-10-17T06:27:34.904Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "06853fb0-bf3c-4bef-9329-6d030dd78747",
+    "text": "If you’re renting in Seoul, the biggest surprise is the bag you must use for general waste. The city requires the district-specific 종량제 봉투, which you can buy at any convenience store or supermarket in your own district. A bag from another district looks the same but will be rejected because the collection fee is built into that specific bag. So always pick up the right bag for your neighborhood before you start sorting your trash.\n\n📖 Full article: https://landinkorea.com/posts/korea-trash-and-recycling-rules-for-residents.html?utm_source=reddit&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": null,
+    "platforms": [
+      "reddit"
+    ],
+    "scheduledAt": "2026-10-17T08:28:20.079Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-17T06:27:34.963Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Trash and recycling rules for residents",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: reddit: missing reaction – closing does not invite comment, save, or share, text: \"So always pick up the right bag for your neighborhood before you start sorting your trash.\" | tumblr: missing reaction – closing does not invite comment, save, or share, text: \"Remember this tip and avoid the trash hassle on day one.\"",
+      "failedPlatforms": [
+        "reddit",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "A",
+      "checkedAt": "2026-10-17T06:27:34.719Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-17T06:27:34.938Z",
+    "subreddit": "expats"
+  },
+  {
+    "id": "689fc408-14e7-4e78-a37b-3291e217e9a4",
+    "text": "Don’t toss your trash in any bag – the wrong one can get it rejected by the collection crew.\n\nYou need the official district-specific 종량제 봉투 for general waste, sold at convenience stores in your own district.\n\nThese bags are cheap, come with the collection fee printed, and are available at every local mart.\n\nEven if a bag looks identical, a bag from another district won’t be accepted, so keep an eye on the district label.\n\nHas anyone had their garbage turned away because of the wrong bag? Share your story. #TravelBlog #KoreaTravel",
+    "imageUrl": null,
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-10-17T06:58:39.770Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-17T06:27:35.003Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Trash and recycling rules for residents",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: reddit: missing reaction – closing does not invite comment, save, or share, text: \"So always pick up the right bag for your neighborhood before you start sorting your trash.\" | tumblr: missing reaction – closing does not invite comment, save, or share, text: \"Remember this tip and avoid the trash hassle on day one.\"",
+      "failedPlatforms": [
+        "reddit",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "A",
+      "checkedAt": "2026-10-17T06:27:34.719Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-trash-and-recycling-rules-for-residents.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "161b188f-34ce-4dac-a5ac-de6b325fe10d",
+    "text": "Don’t toss your trash in any bag – the wrong one can get it rejected by the collection crew.\n\nYou need the official district-specific 종량제 봉투 for general waste, sold at convenience stores in your own district.\n\nThese bags are cheap, come with the collection fee printed, and are available at every local mart.\n\nEven if a bag looks identical, a bag from another district won’t be accepted, so keep an eye on the district label.\n\nHas anyone had their garbage turned away because of the wrong bag? Share your story. #KoreaTravel #TravelTips #Seoul",
+    "imageUrl": null,
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-10-17T07:30:20.123Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-17T06:27:35.044Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Trash and recycling rules for residents",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: reddit: missing reaction – closing does not invite comment, save, or share, text: \"So always pick up the right bag for your neighborhood before you start sorting your trash.\" | tumblr: missing reaction – closing does not invite comment, save, or share, text: \"Remember this tip and avoid the trash hassle on day one.\"",
+      "failedPlatforms": [
+        "reddit",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "A",
+      "checkedAt": "2026-10-17T06:27:34.719Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-trash-and-recycling-rules-for-residents.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "27447a03-c5d1-453e-8921-b8da133dbc66",
+    "text": "Don't toss your trash in any bag – you need the district-specific 종량제 봉투, sold at local stores, or your waste will be rejected.\n1. Buy the bag at a convenience store or supermarket in the district you live in (e.g., Jongno, Mapo).\n2. The bag’s price already includes the collection fee; using a bag from another district won’t work.\n3. Keep a few extra bags handy for weekly waste.\nRemember this tip and avoid the trash hassle on day one.",
+    "imageUrl": null,
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-10-17T09:29:38.545Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-17T06:27:35.081Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Trash and recycling rules for residents",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: reddit: missing reaction – closing does not invite comment, save, or share, text: \"So always pick up the right bag for your neighborhood before you start sorting your trash.\" | tumblr: missing reaction – closing does not invite comment, save, or share, text: \"Remember this tip and avoid the trash hassle on day one.\"",
+      "failedPlatforms": [
+        "reddit",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "A",
+      "checkedAt": "2026-10-17T06:27:34.719Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-17T06:27:35.064Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-trash-and-recycling-rules-for-residents.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "c521f3e8-5197-45f0-9045-f7163f1b0afe",
+    "text": "Most visitors assume Gyeongbokgung costs a ticket—most get that wrong on their first visit.\n\nActually, wearing a traditional hanbok gives you free entry, even for the royal guard ceremony.\n\nThe ceremony is at 10 am, 2 pm, and 4 pm; be there at those times to see it.\n\nNote: the palace is closed every Tuesday, so plan your visit on another day.\n\nDid you know about the hanbok discount, or did you pay anyway? Open the Land in Korea link in the profile.\n\n📖 Open the Land in Korea link in our profile and search “Gyeongbokgung Palace”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1792218713691-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1792218713691-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-10-17T06:35:42.779Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-17T06:32:07.292Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/35254789/pexels-photo-35254789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2025/01/05/250953_large.mp4",
+    "videoAttribution": null,
+    "topic": "Gyeongbokgung Palace",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: instagram: missing reaction - closing does not prompt comment, save, or share, it only points to a link in bio. | tumblr: missing reaction - closing \"Enjoy your visit!\" does not give a reason to comment, save, or share",
+      "failedPlatforms": [
+        "instagram",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "B",
+      "checkedAt": "2026-10-17T06:31:07.655Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-gyeongbokgung-palace.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "7128d86b-3946-4a2b-9194-41f691e93534",
+    "text": "You think you must buy a ticket to enter Gyeongbokgung? You don’t – wearing a hanbok gets you in for free. 🎎\n1️⃣ Free entry with hanbok (one of the few real discounts).\n2️⃣ Royal guard ceremony at 10 am, 2 pm, 4 pm – be there to watch.\n3️⃣ Palace is closed every Tuesday; avoid that day.\n4️⃣ National Folk Museum is on the grounds, also free with hanbok.\n✅ Wear a hanbok, check ceremony times, avoid Tuesdays.\nWas this helpful? Save this for your trip.\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-gyeongbokgung-palace.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1792218713691-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1792218713691-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-10-17T06:42:38.633Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-17T06:32:07.322Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/35254789/pexels-photo-35254789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2025/01/05/250953_large.mp4",
+    "videoAttribution": null,
+    "topic": "Gyeongbokgung Palace",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: instagram: missing reaction - closing does not prompt comment, save, or share, it only points to a link in bio. | tumblr: missing reaction - closing \"Enjoy your visit!\" does not give a reason to comment, save, or share",
+      "failedPlatforms": [
+        "instagram",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "B",
+      "checkedAt": "2026-10-17T06:31:07.655Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-gyeongbokgung-palace.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "6ca0e4a4-a061-4bc8-8a3e-5dafa95f1112",
+    "text": "Think Gyeongbokgung always costs a ticket? Think again.\nWear a hanbok and you walk in for free, plus you can watch the royal guard ceremony at 10 am, 2 pm, and 4 pm.\nRemember it's closed on Tuesdays—plan your day!\n\n📖 Open the Land in Korea link in our profile and search “Gyeongbokgung Palace”.\n\n🎬 Video source: Pixabay\n\n#KoreaTravel #SeoulTrip #Gyeongbokgung #TravelTips #Hanbok\n\n🎵 🎵 Track: Artem Koker - Sunshine (ft. D-ai)\nMusic provided by Jamendo (CC BY).",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1792218686764-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-17T06:47:55.570Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-17T06:32:07.361Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/35254789/pexels-photo-35254789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2025/01/05/250953_large.mp4",
+    "videoAttribution": "Pixabay",
+    "topic": "Gyeongbokgung Palace",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: instagram: missing reaction - closing does not prompt comment, save, or share, it only points to a link in bio. | tumblr: missing reaction - closing \"Enjoy your visit!\" does not give a reason to comment, save, or share",
+      "failedPlatforms": [
+        "instagram",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "B",
+      "checkedAt": "2026-10-17T06:31:07.655Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-17T06:32:07.337Z"
+  },
+  {
+    "id": "3ba651dd-bf57-4cdc-800a-6e36f0e0a44d",
+    "text": "If you're wondering how to see Gyeongbokgung without paying for a ticket, here’s what helped me:\n- Wear a traditional hanbok and you get free entry, even for the royal guard ceremony.\n- The ceremony runs at 10 am, 2 pm and 4 pm – timing is essential.\n- The palace is closed every Tuesday, so pick another day.\n- The National Folk Museum on the grounds is also free with a hanbok.\nI can share a more detailed guide in the comments if anyone’s interested.\n\n📖 Full article: https://landinkorea.com/posts/korea-gyeongbokgung-palace.html?utm_source=reddit&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": null,
+    "platforms": [
+      "reddit"
+    ],
+    "scheduledAt": "2026-10-17T08:36:25.516Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-17T06:32:07.403Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/35254789/pexels-photo-35254789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2025/01/05/250953_large.mp4",
+    "videoAttribution": null,
+    "topic": "Gyeongbokgung Palace",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: instagram: missing reaction - closing does not prompt comment, save, or share, it only points to a link in bio. | tumblr: missing reaction - closing \"Enjoy your visit!\" does not give a reason to comment, save, or share",
+      "failedPlatforms": [
+        "instagram",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "B",
+      "checkedAt": "2026-10-17T06:31:07.655Z"
+    },
+    "subreddit": "koreatravel"
+  },
+  {
+    "id": "cfef8f7f-c722-495d-8272-b523893c1bc4",
+    "text": "Most first‑timers think Gyeongbokgung always costs a ticket—big mistake.\nIf you wear a hanbok, entry is completely free, even for the royal guard ceremony.\nThe guard ceremony runs at 10 am, 2 pm and 4 pm; timing is key to catch it.\nThe palace closes every Tuesday; plan your visit on another day.\nDid you know about the hanbok discount, or did you pay anyway? #KoreaTravel #FirstTimeInKorea",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1792218713691-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1792218713691-v0-0.jpg"
+    ],
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-10-17T07:07:59.092Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-17T06:32:07.450Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/35254789/pexels-photo-35254789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2025/01/05/250953_large.mp4",
+    "videoAttribution": null,
+    "topic": "Gyeongbokgung Palace",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: instagram: missing reaction - closing does not prompt comment, save, or share, it only points to a link in bio. | tumblr: missing reaction - closing \"Enjoy your visit!\" does not give a reason to comment, save, or share",
+      "failedPlatforms": [
+        "instagram",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "B",
+      "checkedAt": "2026-10-17T06:31:07.655Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-gyeongbokgung-palace.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "0340f90e-f8b2-443c-bd71-970583fdd525",
+    "text": "Most first‑timers believe Gyeongbokgung always requires a ticket—often a costly assumption.\nWearing a traditional hanbok grants free entry, including access to the royal guard ceremony.\nThe ceremony occurs at 10 am, 2 pm, and 4 pm; arriving at those times ensures you see it.\nRemember the palace is closed every Tuesday, so schedule your visit accordingly.\nDid you know about the hanbok discount, or did you still pay? #KoreaTravel #TravelTips #Seoul",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1792218713691-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1792218713691-v0-0.jpg"
+    ],
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-10-17T07:35:00.409Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-17T06:32:07.515Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/35254789/pexels-photo-35254789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2025/01/05/250953_large.mp4",
+    "videoAttribution": null,
+    "topic": "Gyeongbokgung Palace",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: instagram: missing reaction - closing does not prompt comment, save, or share, it only points to a link in bio. | tumblr: missing reaction - closing \"Enjoy your visit!\" does not give a reason to comment, save, or share",
+      "failedPlatforms": [
+        "instagram",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "B",
+      "checkedAt": "2026-10-17T06:31:07.655Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-gyeongbokgung-palace.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "8836e96d-e06a-4bd0-8681-a276df3c5e1e",
+    "text": "You don’t need to buy a ticket for Gyeongbokgung—wearing a hanbok lets you in for free.\n1. The royal guard ceremony is at 10 am, 2 pm, and 4 pm; be there to watch the pageantry.\n2. The palace closes every Tuesday, so plan another day for your visit.\n3. The National Folk Museum sits on the grounds and is also free with a hanbok.\nEnjoy your visit!",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1792218713691-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1792218713691-v0-0.jpg"
+    ],
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-10-17T09:34:58.477Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-17T06:32:07.555Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/35254789/pexels-photo-35254789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2025/01/05/250953_large.mp4",
+    "videoAttribution": null,
+    "topic": "Gyeongbokgung Palace",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: instagram: missing reaction - closing does not prompt comment, save, or share, it only points to a link in bio. | tumblr: missing reaction - closing \"Enjoy your visit!\" does not give a reason to comment, save, or share",
+      "failedPlatforms": [
+        "instagram",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "B",
+      "checkedAt": "2026-10-17T06:31:07.655Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-17T06:32:07.531Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-gyeongbokgung-palace.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "5e1554f1-96fd-4ade-aa09-bce8753a5072",
+    "text": "Think Gyeongbokgung always costs a ticket? Think again.\nWear a hanbok and you walk in for free, plus you can watch the royal guard ceremony at 10 am, 2 pm, and 4 pm.\nRemember it's closed on Tuesdays—plan your day!\n\nSave this so you don't forget, and comment your must-see Seoul palace below! 👇\n\n📖 Open the Land in Korea link in our profile and search “Gyeongbokgung Palace”.\n\n🎬 Video source: Pixabay\n\n#KoreaTravel #SeoulTrip #Gyeongbokgung #TravelTips #Hanbok\n\n🎵 Track: Artem Koker - Sunshine (ft. D-ai)\nMusic provided by Jamendo (CC BY).",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1792218686764-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-17T06:33:39.215Z",
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "17963701227207519"
+      }
+    },
+    "createdAt": "2026-10-17T06:33:39.251Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2025/01/05/250953_large.mp4",
+    "topic": "Gyeongbokgung Palace",
+    "note": "품질게이트가 CTA 없음으로 반려(auto-quality-gate)한 캡션에 저장/댓글 유도 문구 추가 후 수동 발행. Tipping in Korea 영상 소스 부재로 대체한 주제."
   }
 ]
