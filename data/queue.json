@@ -28287,7 +28287,7 @@
       "mastodon"
     ],
     "scheduledAt": "2026-10-17T07:30:20.123Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-10-17T06:27:35.044Z",
     "approved": true,
@@ -28500,7 +28500,7 @@
       "bluesky"
     ],
     "scheduledAt": "2026-10-17T07:07:59.092Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-10-17T06:32:07.450Z",
     "approved": true,
