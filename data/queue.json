@@ -28287,8 +28287,13 @@
       "mastodon"
     ],
     "scheduledAt": "2026-10-17T07:30:20.123Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "mastodon": {
+        "id": "117456775036306457",
+        "url": "https://mastodon.social/@landinkorea/117456775036306457"
+      }
+    },
     "createdAt": "2026-10-17T06:27:35.044Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -28309,7 +28314,8 @@
       "pattern": "A",
       "checkedAt": "2026-10-17T06:27:34.719Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-trash-and-recycling-rules-for-residents.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-trash-and-recycling-rules-for-residents.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-10-17T14:42:36.641Z"
   },
   {
     "id": "27447a03-c5d1-453e-8921-b8da133dbc66",
@@ -28500,8 +28506,13 @@
       "bluesky"
     ],
     "scheduledAt": "2026-10-17T07:07:59.092Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3my3d7ix6t72l",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3my3d7ix6t72l"
+      }
+    },
     "createdAt": "2026-10-17T06:32:07.450Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -28524,7 +28535,8 @@
       "pattern": "B",
       "checkedAt": "2026-10-17T06:31:07.655Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-gyeongbokgung-palace.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-gyeongbokgung-palace.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-10-17T14:42:41.481Z"
   },
   {
     "id": "0340f90e-f8b2-443c-bd71-970583fdd525",
