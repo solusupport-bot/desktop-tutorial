@@ -28399,7 +28399,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-10-17T06:42:38.633Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-10-17T06:32:07.322Z",
     "approved": true,
@@ -28637,5 +28637,460 @@
     "sourceVideoUrl": "https://cdn.pixabay.com/video/2025/01/05/250953_large.mp4",
     "topic": "Gyeongbokgung Palace",
     "note": "품질게이트가 CTA 없음으로 반려(auto-quality-gate)한 캡션에 저장/댓글 유도 문구 추가 후 수동 발행. Tipping in Korea 영상 소스 부재로 대체한 주제."
+  },
+  {
+    "id": "7bfd1fc2-1994-4df3-85df-026d4e675254",
+    "text": "Most first‑timers wander into Gyeongbokgung at the wrong hour and miss the guard ceremony.\n\nThe changing‑of‑the‑guard happens at 10 am, 1 pm and 2 pm; any other time you’ll just see an empty courtyard.\n\nWear a hanbok near the main gate and you’ll enter free, plus you get a perfect photo backdrop.\n\nThe palace is closed on Tuesdays—plan your visit for any other day to avoid a locked gate.\n\nWhich time will you aim for, or will you dress up in hanbok? Open the Land in Korea link in our profile for more tips.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1792248835150-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1792248835150-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-10-17T15:02:19.896Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-17T14:54:09.482Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/17191919/pexels-photo-17191919.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/40156288/17151770_2160_3840_30fps.mp4",
+    "videoAttribution": null,
+    "topic": "Gyeongbokgung Palace",
+    "qualityGate": {
+      "pass": false,
+      "reason": "경복궁과 관련은 있지만, 수문식 시간이 1시가 아니라 10시와 2시만 정확하고, 한복 입고 무료 입장은 조건이 있어 과장된 정보라 판단됩니다.",
+      "model": "groq",
+      "checkedAt": "2026-10-17T14:52:43.682Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-17T14:54:09.437Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-gyeongbokgung-palace.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "843dbd10-d779-4637-b990-c4a1cb7ef071",
+    "text": "Don’t go to Gyeongbokgung at any hour and expect the guard ceremony—it only runs at three set times. \n1️⃣ Guard ceremony: 10 am, 1 pm, 2 pm.\n2️⃣ Palace closed Tuesdays; pick another day.\n3️⃣ Wear a hanbok for free entry and great photos.\n4️⃣ The National Folk Museum sits on the grounds, free with ticket.\n✅ Remember: check ceremony times, avoid Tuesdays, dress in hanbok.\nWhich tip will you try first? Save this for your trip.\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-gyeongbokgung-palace.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1792248835150-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1792248835150-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-10-17T15:01:53.293Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-17T14:54:09.517Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/17191919/pexels-photo-17191919.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/40156288/17151770_2160_3840_30fps.mp4",
+    "videoAttribution": null,
+    "topic": "Gyeongbokgung Palace",
+    "qualityGate": {
+      "pass": false,
+      "reason": "경복궁과 관련은 있지만, 수문식 시간이 1시가 아니라 10시와 2시만 정확하고, 한복 입고 무료 입장은 조건이 있어 과장된 정보라 판단됩니다.",
+      "model": "groq",
+      "checkedAt": "2026-10-17T14:52:43.682Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-17T14:54:09.500Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-gyeongbokgung-palace.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "bde6221a-e1ca-49a1-a581-77e885a0eb59",
+    "text": "Thinking Gyeongbokgung is just a photo spot?\nThe royal guard ceremony only happens at 10 am, 1 pm, and 2 pm—plan your visit around those times.\nDress in a hanbok for free entry and stunning photos.\n\n📖 Open the Land in Korea link in our profile and search “Gyeongbokgung Palace”.\n\n🎬 Video source: Pexels\n\n#KoreaTravel #SeoulTrip #Gyeongbokgung #TravelTips #Hanbok\n\n🎵 🎵 Track: White Owl - Lord Of The Dance\nMusic provided by Jamendo (CC BY-SA).",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1792248805741-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-17T14:54:50.197Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-17T14:54:09.560Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/17191919/pexels-photo-17191919.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/40156288/17151770_2160_3840_30fps.mp4",
+    "videoAttribution": "Pexels",
+    "topic": "Gyeongbokgung Palace",
+    "qualityGate": {
+      "pass": false,
+      "reason": "경복궁과 관련은 있지만, 수문식 시간이 1시가 아니라 10시와 2시만 정확하고, 한복 입고 무료 입장은 조건이 있어 과장된 정보라 판단됩니다.",
+      "model": "groq",
+      "checkedAt": "2026-10-17T14:52:43.682Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-17T14:54:09.545Z"
+  },
+  {
+    "id": "aa2cca15-fe1d-4e29-bf5e-bac862458864",
+    "text": "If you’re wondering when to catch the royal guard ceremony at Gyeongbokgung, it’s only at 10 am, 1 pm and 2 pm. The palace is closed on Tuesdays, so pick another day. Wearing a hanbok lets you in for free and gives you a great photo backdrop. The National Folk Museum is right on the grounds if you have extra time. Hope this helps plan your first visit!\n\n📖 Full article: https://landinkorea.com/posts/korea-gyeongbokgung-palace.html?utm_source=reddit&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": null,
+    "platforms": [
+      "reddit"
+    ],
+    "scheduledAt": "2026-10-17T17:01:07.170Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-17T14:54:09.584Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/17191919/pexels-photo-17191919.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/40156288/17151770_2160_3840_30fps.mp4",
+    "videoAttribution": null,
+    "topic": "Gyeongbokgung Palace",
+    "qualityGate": {
+      "pass": false,
+      "reason": "경복궁과 관련은 있지만, 수문식 시간이 1시가 아니라 10시와 2시만 정확하고, 한복 입고 무료 입장은 조건이 있어 과장된 정보라 판단됩니다.",
+      "model": "groq",
+      "checkedAt": "2026-10-17T14:52:43.682Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-17T14:54:09.575Z",
+    "subreddit": "koreatravel"
+  },
+  {
+    "id": "4f116f66-caf1-457f-ab98-31b8fa1e3b95",
+    "text": "Most first‑time visitors to Gyeongbokgung show up whenever and miss the royal guard show.\n\nThe ceremony runs strictly at 10 am, 1 pm, and 2 pm; arriving at other times means an empty courtyard.\n\nIf you wear a hanbok at the main gate you walk in for free and get a perfect photo spot.\n\nRemember the palace shuts its doors on Tuesdays—plan any other day to avoid a locked gate.\n\nWhich time will you target, and will you dress up in hanbok? #KoreaTravel #SeoulTrip",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1792248835150-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1792248835150-v0-0.jpg"
+    ],
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-10-17T15:28:12.800Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-17T14:54:09.605Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/17191919/pexels-photo-17191919.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/40156288/17151770_2160_3840_30fps.mp4",
+    "videoAttribution": null,
+    "topic": "Gyeongbokgung Palace",
+    "qualityGate": {
+      "pass": false,
+      "reason": "경복궁과 관련은 있지만, 수문식 시간이 1시가 아니라 10시와 2시만 정확하고, 한복 입고 무료 입장은 조건이 있어 과장된 정보라 판단됩니다.",
+      "model": "groq",
+      "checkedAt": "2026-10-17T14:52:43.682Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-17T14:54:09.595Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-gyeongbokgung-palace.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "d0babc60-b208-47cd-8b51-4c67319c46e8",
+    "text": "Most first‑timers to Gyeongbokgung arrive without checking the schedule and miss the royal guard ceremony.\n\nThe changing‑of‑the‑guard is performed only at 10 am, 1 pm, and 2 pm; any other arrival finds the courtyard empty.\n\nDonning a hanbok at the entrance grants free admission and a fantastic photo backdrop.\n\nThe palace is closed on Tuesdays, so schedule your visit for another day to avoid disappointment.\n\nWhat time will you aim for, and will you wear a hanbok? #KoreaTravel #SeoulTrip #TravelTips",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1792248835150-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1792248835150-v0-0.jpg"
+    ],
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-10-17T15:58:09.320Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-17T14:54:09.625Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/17191919/pexels-photo-17191919.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/40156288/17151770_2160_3840_30fps.mp4",
+    "videoAttribution": null,
+    "topic": "Gyeongbokgung Palace",
+    "qualityGate": {
+      "pass": false,
+      "reason": "경복궁과 관련은 있지만, 수문식 시간이 1시가 아니라 10시와 2시만 정확하고, 한복 입고 무료 입장은 조건이 있어 과장된 정보라 판단됩니다.",
+      "model": "groq",
+      "checkedAt": "2026-10-17T14:52:43.682Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-17T14:54:09.614Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-gyeongbokgung-palace.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "3756be89-eb5f-4ef1-95b7-5423c99105de",
+    "text": "If you think Gyeongbokgung’s guard ceremony happens all day, you’re missing it—it only runs at 10 am, 1 pm, and 2 pm.\n1. Palace closed Tuesdays; pick another day.\n2. Wear a hanbok for free entry and stunning photos.\n3. The National Folk Museum sits on the grounds, free with your ticket.\nPlan your visit with these tips and make the most of your first day in Seoul.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1792248835150-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1792248835150-v0-0.jpg"
+    ],
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-10-17T17:57:59.159Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-17T14:54:09.644Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/17191919/pexels-photo-17191919.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/40156288/17151770_2160_3840_30fps.mp4",
+    "videoAttribution": null,
+    "topic": "Gyeongbokgung Palace",
+    "qualityGate": {
+      "pass": false,
+      "reason": "경복궁과 관련은 있지만, 수문식 시간이 1시가 아니라 10시와 2시만 정확하고, 한복 입고 무료 입장은 조건이 있어 과장된 정보라 판단됩니다.",
+      "model": "groq",
+      "checkedAt": "2026-10-17T14:52:43.682Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-17T14:54:09.634Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-gyeongbokgung-palace.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "82645272-d327-45f0-a6eb-6cb15383ac67",
+    "text": "Most first‑time visitors waste extra won on every subway ride.\n\nA single‑journey ticket costs ₩1,650, but a T‑money card ride is only ₩1,550.\n\nYou can buy the T‑money for ₩4,000 at Incheon Airport or any GS25, then tap in and out.\n\nRemember the transfer window: board a bus within 30 min after subway tap‑out to keep the discount.\n\nDo you already use T‑money, or still buy single tickets? Open the Land in Korea link in the profile.\n\n📖 Open the Land in Korea link in our profile and search “T-money transit card”.",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-10-17T15:11:06.868Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-17T14:58:57.918Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "T-money transit card",
+    "qualityGate": {
+      "pass": false,
+      "reason": "원본 자료에 없는 금액: facebook: ₩100, tumblr: ₩100",
+      "model": "rule",
+      "failedPlatforms": [
+        "facebook",
+        "tumblr"
+      ],
+      "checkedAt": "2026-10-17T14:58:57.840Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-t-money-transit-card.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "d48bb89c-5707-42ae-9cf3-549a7093fa50",
+    "text": "Pay ₩1,650 for a single‑journey ticket or just ₩1,550 with a T‑money card—save ₩100 every ride.\n1️⃣ T‑money costs ₩4,000 at Incheon Airport or any convenience store (GS25, CU, 7‑Eleven).\n2️⃣ Works on subway, buses, and many taxis—just tap in/out.\n3️⃣ Transfers within 30 min (60 min after 9 PM) get discounted fares.\n4️⃣ Unused balance can be refunded before you leave Korea.\n✅ Buy T‑money, tap, transfer, refund.\nWhich one would you pick?\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-t-money-transit-card.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": null,
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-10-17T15:17:06.021Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-17T14:58:57.955Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "T-money transit card",
+    "qualityGate": {
+      "pass": false,
+      "reason": "원본 자료에 없는 금액: facebook: ₩100, tumblr: ₩100",
+      "model": "rule",
+      "failedPlatforms": [
+        "facebook",
+        "tumblr"
+      ],
+      "checkedAt": "2026-10-17T14:58:57.840Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-17T14:58:57.934Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-t-money-transit-card.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "80ad8998-4039-4224-8026-9a3292663776",
+    "text": "Think a single subway ticket is the easiest way to ride in Seoul?\nA T‑money card ride costs ₩1,550 versus ₩1,650 for a ticket—plus discounts on transfers.\nSave this tip before you board your first train.\n\n📖 Open the Land in Korea link in our profile and search “T-money transit card”.\n\n#KoreaTravel #SeoulTrip #TravelTips #Tmoney #Subway",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-17T15:20:51.228Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-17T14:58:57.997Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "T-money transit card",
+    "qualityGate": {
+      "pass": false,
+      "reason": "원본 자료에 없는 금액: facebook: ₩100, tumblr: ₩100",
+      "model": "rule",
+      "failedPlatforms": [
+        "facebook",
+        "tumblr"
+      ],
+      "checkedAt": "2026-10-17T14:58:57.840Z"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-10-17T14:58:57.976Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "89071bb8-f17a-4533-b6dd-5ee0c8343c22",
+    "text": "If you're new to Seoul's public transport and wondering how to stretch every won, here's what you need to know about T‑money.\n\n- The T‑money card costs ₩4,000 and can be bought at Incheon Airport or any GS25, CU, 7‑Eleven.\n- Each subway ride is ₩1,550 with T‑money, compared to ₩1,650 for a single‑journey ticket.\n- Transfers between subway and bus within 30 min (or 60 min after 9 PM) are discounted, and you can get a partial refund of any remaining balance before you leave.\n\nHope this helps! Let me know if you have other questions about getting around Seoul.\n\n📖 Full article: https://landinkorea.com/posts/korea-t-money-transit-card.html?utm_source=reddit&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": null,
+    "platforms": [
+      "reddit"
+    ],
+    "scheduledAt": "2026-10-17T17:13:51.658Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-17T14:58:58.052Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "T-money transit card",
+    "qualityGate": {
+      "pass": false,
+      "reason": "원본 자료에 없는 금액: facebook: ₩100, tumblr: ₩100",
+      "model": "rule",
+      "failedPlatforms": [
+        "facebook",
+        "tumblr"
+      ],
+      "checkedAt": "2026-10-17T14:58:57.840Z"
+    },
+    "subreddit": "koreatravel"
+  },
+  {
+    "id": "7c242414-1be3-4850-a2b4-423bb7a4080d",
+    "text": "Most tourists overpay on Seoul subway rides. #KoreaTravel\n\nA single‑journey ticket is ₩1,650, while a T‑money card ride is just ₩1,550. #TravelBlog\n\nPick up a T‑money for ₩4,000 at Incheon Airport or any nearby convenience store and start tapping.\n\nTransfer discount works only if you board a bus within 30 min of subway exit (60 min after 9 PM).\n\nWill you switch to T‑money for your first day?",
+    "imageUrl": null,
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-10-17T15:44:14.697Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-17T14:58:58.089Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "T-money transit card",
+    "qualityGate": {
+      "pass": false,
+      "reason": "원본 자료에 없는 금액: facebook: ₩100, tumblr: ₩100",
+      "model": "rule",
+      "failedPlatforms": [
+        "facebook",
+        "tumblr"
+      ],
+      "checkedAt": "2026-10-17T14:58:57.840Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-t-money-transit-card.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "af6c74de-cdf8-46d2-a25b-99ea4f72f264",
+    "text": "Most first‑time visitors pay extra on every subway ride.\n\nA single‑journey ticket costs ₩1,650, but a T‑money card ride is only ₩1,550.\n\nYou can buy the T‑money for ₩4,000 at Incheon Airport or at any GS25, CU, 7‑Eleven, then tap in and out on subways, buses, and many taxis.\n\nDiscounted transfers apply only if you board a bus within 30 min of tapping out of the subway (or within 60 min from 9 PM to 7 AM).\n\nDo you already use T‑money, or are you still buying single tickets? #KoreaTravel #TravelTips #SeoulTrip",
+    "imageUrl": null,
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-10-17T16:09:53.425Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-17T14:58:58.138Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "T-money transit card",
+    "qualityGate": {
+      "pass": false,
+      "reason": "원본 자료에 없는 금액: facebook: ₩100, tumblr: ₩100",
+      "model": "rule",
+      "failedPlatforms": [
+        "facebook",
+        "tumblr"
+      ],
+      "checkedAt": "2026-10-17T14:58:57.840Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-t-money-transit-card.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "9a2b84ce-123f-4a76-8db4-769bec681e74",
+    "text": "Pay ₩1,650 for a single‑journey subway ticket or just ₩1,550 with a T‑money card—save ₩100 per ride.\n1. T‑money costs ₩4,000 and is sold at Incheon Airport and all convenience stores (GS25, CU, 7‑Eleven).\n2. It works on subways, buses, and many taxis—just tap in/out.\n3. Transfers within 30 min (60 min after 9 PM) get discounted fares, and you can refund any leftover balance before leaving Korea.\nKeep this tip handy for your first day in Seoul.",
+    "imageUrl": null,
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-10-17T18:09:55.960Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-17T14:58:58.176Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "T-money transit card",
+    "qualityGate": {
+      "pass": false,
+      "reason": "원본 자료에 없는 금액: facebook: ₩100, tumblr: ₩100",
+      "model": "rule",
+      "failedPlatforms": [
+        "facebook",
+        "tumblr"
+      ],
+      "checkedAt": "2026-10-17T14:58:57.840Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-17T14:58:58.161Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-t-money-transit-card.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
   }
 ]
