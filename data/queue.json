@@ -27453,8 +27453,12 @@
       "instagram"
     ],
     "scheduledAt": "2026-10-16T18:10:00.000Z",
-    "status": "pending",
-    "results": {},
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "17896121499416662"
+      }
+    },
     "createdAt": "2026-10-16T11:55:09.499Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -27479,7 +27483,8 @@
     },
     "imageUrls": [
       "https://landinkorea.com/sns-media/images/1792153624378-v1-0.jpg"
-    ]
+    ],
+    "processedAt": "2026-10-17T05:44:27.122Z"
   },
   {
     "id": "bc25d733-aae2-4e7f-9b5f-1f0b9f069549",
