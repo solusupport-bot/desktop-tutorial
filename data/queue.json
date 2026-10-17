@@ -27602,7 +27602,7 @@
       "tumblr"
     ],
     "scheduledAt": "2026-10-16T16:35:00.000Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-10-16T11:55:09.620Z",
     "approved": true,
@@ -28138,7 +28138,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-10-17T06:32:59.930Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-10-17T06:27:34.881Z",
     "approved": true,
@@ -28238,7 +28238,7 @@
       "bluesky"
     ],
     "scheduledAt": "2026-10-17T06:58:39.770Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-10-17T06:27:35.003Z",
     "approved": true,
