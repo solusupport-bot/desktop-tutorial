@@ -290,6 +290,20 @@ agent-reach install --env=auto --system --channels=<channel_name>
   `lib/media/topic_music.js`(관광지 스포트라이트는 시네마틱/앰비언트, 실용 팁은
   경쾌한 여행 브이로그 계열). ffmpeg는 GitHub Actions 기본 이미지에 없어 워크플로에
   명시적 설치 스텝이 필요함(`daily-topic.yml`, `test-curated-publish.yml`).
+  **영상이 없으면 사진으로 대체하지 않고 반려한다** (2026-10-17 수정, 커밋 `43e7ecb` —
+  예전엔 영상을 못 찾으면 사진 1장으로 조용히 fallback했고, 이게 "인스타=영상" 원칙을
+  반복 위반하는 원인이었다. `queue_topic.js`의 `mediaByPlatform.instagram`은 이제
+  `instagramVideo`가 없으면 빈 객체 `{}`를 줘서 기존 `missingMedia` 반려 경로로
+  떨어뜨린다).
+  **인스타그램용 주제는 영상 먼저, 주제는 그 다음** (2026-10-17 사용자 지시 — "앞으로
+  영상부터 먼저 찾고 그 다음 맞는 주제로 변경하는 거야"). 주제를 먼저 정하고 그 주제에
+  맞는 영상을 찾으러 가면, "팁 문화"처럼 행동/관습을 묘사하는 주제는 Pexels/Pixabay에
+  한국 확인(korea=true)+주제 일치(topic=true)를 둘 다 통과하는 영상이 구조적으로 거의
+  없어 반려만 반복된다(실측: "Tipping in Korea", "Trash and recycling rules for
+  residents" 둘 다 영상 전무로 반려). 경복궁·명동·남대문시장·N서울타워처럼 실제
+  장소가 눈에 보이는 관광지 주제는 영상 재고가 풍부해 통과율이 높다 — 인스타그램에
+  새 글을 만들 때는 영상(curated_videos.json 우선, 없으면 Pexels/Pixabay 실시간 검색)을
+  먼저 확보한 뒤 그 영상 내용에 맞춰 주제/캡션을 고르거나 쓴다.
 - **Threads = 훅 + 답글 체인 최대 4개(총 5조각), "1/5" 구조.** 기존엔 훅+답글 1개(2단)
   였으나, 실제 고성과 계정 벤치마킹(스크린샷의 "1/2" 구조)을 참고해 답글을 최대
   4개까지 늘림. `lib/publishing/threads.js`가 본문을 빈 줄(문단) 기준 최대 5조각으로
