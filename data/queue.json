@@ -28369,7 +28369,7 @@
       "threads"
     ],
     "scheduledAt": "2026-10-17T06:35:42.779Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-10-17T06:32:07.292Z",
     "approved": true,
@@ -29066,7 +29066,7 @@
       "mastodon"
     ],
     "scheduledAt": "2026-10-17T16:09:53.425Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-10-17T14:58:58.138Z",
     "approved": true,
