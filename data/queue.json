@@ -28369,8 +28369,12 @@
       "threads"
     ],
     "scheduledAt": "2026-10-17T06:35:42.779Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18142986724592902"
+      }
+    },
     "createdAt": "2026-10-17T06:32:07.292Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -28394,7 +28398,8 @@
       "checkedAt": "2026-10-17T06:31:07.655Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-gyeongbokgung-palace.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "failed"
+    "verifyStatus": "failed",
+    "processedAt": "2026-10-18T08:25:27.383Z"
   },
   {
     "id": "7128d86b-3946-4a2b-9194-41f691e93534",
@@ -29066,8 +29071,13 @@
       "mastodon"
     ],
     "scheduledAt": "2026-10-17T16:09:53.425Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "mastodon": {
+        "id": "117460954520560430",
+        "url": "https://mastodon.social/@landinkorea/117460954520560430"
+      }
+    },
     "createdAt": "2026-10-17T14:58:58.138Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -29088,7 +29098,8 @@
       "checkedAt": "2026-10-17T14:58:57.840Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-t-money-transit-card.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-10-18T08:25:30.207Z"
   },
   {
     "id": "9a2b84ce-123f-4a76-8db4-769bec681e74",
