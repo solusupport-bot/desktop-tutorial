@@ -29378,5 +29378,163 @@
       "checkedAt": "2026-10-18T02:39:03.555Z"
     },
     "processedAt": "2026-10-18T02:45:20.196Z"
+  },
+  {
+    "id": "9b44dda0-0838-40b5-92e5-d14f3f10f403",
+    "text": "Think Korean apartments include a dryer? Think again.\n\nMost rentals only have a washer, so you’ll need to hang‑dry on a rack or balcony. Use cold water, the 표준 cycle, detergent left, softener flower‑marked. For bulky items, a nearby 세탁소 offers cheap door pickup.\n\nSave this guide for your first week in Korea.\n\n📖 Open the Land in Korea link in our profile and search “Doing laundry in Korea: coin laundromats, the dryer problem, and neighborhood dry cleaners”.\n\n#KoreaTravel #SeoulTrip #TravelTips #LaundryHacks #FirstTimeInKorea",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-18T06:01:38.834Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-18T03:28:20.816Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/32028718/pexels-photo-32028718.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Doing laundry in Korea: coin laundromats, the dryer problem, and neighborhood dry cleaners",
+    "qualityGate": {
+      "pass": false,
+      "reason": "코인 세탁소와 동네 세탁소 내용이 빠져 있어 주제와 충분히 연결되지 않는다",
+      "model": "groq",
+      "checkedAt": "2026-10-18T03:26:55.544Z"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-10-18T03:28:19.587Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "cae0291e-858b-46a1-bcb3-397c74d369c0",
+    "text": "Planning a palace hop in Seoul? Don't assume they're all open the same day.\n\nGyeongbokgung closes Tuesdays; the other major palaces (Changdeokgung, Changgyeonggung, Deoksugung, Jongmyo) close Mondays, and ticket booths stop selling an hour early.\n\nSave this cheat sheet so you never miss a gate.\n\n📖 Open the Land in Korea link in our profile and search “The closed-on-Monday trap: how Korean palaces and museums schedule their days off”.\n\n#KoreaTravel #SeoulTrip #PalaceGuide #TravelTips #FirstTimeInKorea",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-18T17:00:01.625Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-18T03:31:22.181Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/19271537/pexels-photo-19271537.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "The closed-on-Monday trap: how Korean palaces and museums schedule their days off",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: reddit: reaction failed because the closing does not provide a specific call to comment, save, or share. \"Hope this helps you avoid a Monday surprise! (I can share a link to the full guide if you’d like.)\"",
+      "failedPlatforms": [
+        "reddit"
+      ],
+      "model": "groq",
+      "pattern": "A",
+      "checkedAt": "2026-10-18T03:30:58.114Z"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-10-18T03:31:22.065Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "2def0e45-819a-40b3-add2-29a79222aad9",
+    "text": "Ever imagined raising a toast at a Korean mountain summit?\nDon’t – alcohol is banned in all national parks, and open flames are limited to designated spots; hikers refuel with pajeon or bibimbap after the climb.\nSave this tip before you hit the trails!\n\n📖 Open the Land in Korea link in our profile and search “Hiking in Korea like a local: subway-accessible peaks, seasonal trail closures, and the gear culture”.\n\n#KoreaTravel #SeoulTrip #HikingKorea #TravelTips #OutdoorAdventure",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-18T09:28:09.975Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-18T03:33:44.078Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/6157490/pexels-photo-6157490.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Hiking in Korea like a local: subway-accessible peaks, seasonal trail closures, and the gear culture",
+    "qualityGate": {
+      "pass": false,
+      "reason": "로컬 AI가 주제·문장·주장 품질 문제를 감지함",
+      "model": "ollaya/laya:multilingual",
+      "confidence": 0.5786,
+      "checkedAt": "2026-10-18T03:33:20.024Z"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-10-18T03:33:44.007Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "6b8ba20c-0627-4e02-8909-6dd1350ae7fd",
+    "text": "Buying cheap kitchen tools in Seoul? Stop hunting big malls.\nHead to a Daiso near any subway exit – everything from hangers to travel bottles is at the same low price tier.\nSave this tip for your next grocery run!\n\n📖 Open the Land in Korea link in our profile and search “Where Koreans actually buy everyday stuff: Daiso vs. Olive Young vs. hypermarkets vs. the traditional market”.\n\n🎬 Video source: Pexels\n\n#KoreaTravel #SeoulTrip #DaisoFinds #TravelTips #FirstTimeInKorea\n\n🎵 🎵 Track: Melanie Ungar - What Is Love\nMusic provided by Jamendo (CC BY).",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1792294638123-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-18T05:25:23.755Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-18T03:38:00.176Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31955755/pexels-photo-31955755.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/40033216/17084614_1080_1920_30fps.mp4",
+    "videoAttribution": "Pexels",
+    "topic": "Where Koreans actually buy everyday stuff: Daiso vs. Olive Young vs. hypermarkets vs. the traditional market",
+    "qualityGate": {
+      "pass": false,
+      "reason": "주제가 Daiso·Olive Young·대형마트·전통시장 전반을 비교하는데 캡션은 Daiso와 대형마트만 언급해 내용이 불완전하다",
+      "model": "groq",
+      "checkedAt": "2026-10-18T03:36:54.545Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-18T03:38:00.110Z"
+  },
+  {
+    "id": "5b6bf70e-1ef4-4b1b-a67b-fe42bfe99356",
+    "text": "Thinking of dragging your bags around Seoul on your final day?\nSame‑day luggage forwarding can ship them from your hotel straight to Incheon Airport, so you can sightsee hands‑free.\nSave this tip before you pack!\n\n📖 Open the Land in Korea link in our profile and search “Luggage storage & forwarding services”.\n\n#KoreaTravel #SeoulTrip #TravelTips #FirstTimeInKorea #ExploreSeoul",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-18T21:58:49.410Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-18T03:44:14.982Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Luggage storage & forwarding services",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스러우며 과장된 사실 없이 여행자에게 실용적인 정보를 제공한다",
+      "model": "groq",
+      "checkedAt": "2026-10-18T03:40:58.159Z"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-10-18T03:44:14.707Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
   }
 ]
