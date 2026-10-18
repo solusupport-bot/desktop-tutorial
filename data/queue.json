@@ -27516,7 +27516,8 @@
       "pattern": "D",
       "checkedAt": "2026-10-16T11:55:09.232Z"
     },
-    "subreddit": "koreatravel"
+    "subreddit": "koreatravel",
+    "verifyStatus": "passed"
   },
   {
     "id": "3b3da640-df8d-4f16-bfc2-3e9a7377dd2b",
@@ -27762,7 +27763,8 @@
       "pattern": "C",
       "checkedAt": "2026-10-16T11:58:51.488Z"
     },
-    "subreddit": "koreatravel"
+    "subreddit": "koreatravel",
+    "verifyStatus": "passed"
   },
   {
     "id": "ea29be54-f18e-47e7-81db-5cd75729e65b",
@@ -28112,8 +28114,12 @@
       "threads"
     ],
     "scheduledAt": "2026-10-17T06:30:39.171Z",
-    "status": "pending",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18118513022101411"
+      }
+    },
     "createdAt": "2026-10-17T06:27:34.817Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -28134,7 +28140,8 @@
       "pattern": "A",
       "checkedAt": "2026-10-17T06:27:34.719Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-trash-and-recycling-rules-for-residents.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-trash-and-recycling-rules-for-residents.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-10-18T02:44:41.608Z"
   },
   {
     "id": "d3f82409-8368-40b4-9ef3-9ac91c2d5bf8",
@@ -28386,7 +28393,8 @@
       "pattern": "B",
       "checkedAt": "2026-10-17T06:31:07.655Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-gyeongbokgung-palace.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-gyeongbokgung-palace.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "failed"
   },
   {
     "id": "7128d86b-3946-4a2b-9194-41f691e93534",
@@ -28499,7 +28507,8 @@
       "pattern": "B",
       "checkedAt": "2026-10-17T06:31:07.655Z"
     },
-    "subreddit": "koreatravel"
+    "subreddit": "koreatravel",
+    "verifyStatus": "failed"
   },
   {
     "id": "cfef8f7f-c722-495d-8272-b523893c1bc4",
@@ -28555,8 +28564,13 @@
       "mastodon"
     ],
     "scheduledAt": "2026-10-17T07:35:00.409Z",
-    "status": "pending",
-    "results": {},
+    "status": "published",
+    "results": {
+      "mastodon": {
+        "id": "117459614770221524",
+        "url": "https://mastodon.social/@landinkorea/117459614770221524"
+      }
+    },
     "createdAt": "2026-10-17T06:32:07.515Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -28579,7 +28593,8 @@
       "pattern": "B",
       "checkedAt": "2026-10-17T06:31:07.655Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-gyeongbokgung-palace.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-gyeongbokgung-palace.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-10-18T02:44:47.400Z"
   },
   {
     "id": "8836e96d-e06a-4bd0-8681-a276df3c5e1e",
@@ -28905,7 +28920,8 @@
       ],
       "checkedAt": "2026-10-17T14:58:57.840Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-t-money-transit-card.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-t-money-transit-card.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
   },
   {
     "id": "d48bb89c-5707-42ae-9cf3-549a7093fa50",
@@ -29002,7 +29018,8 @@
       ],
       "checkedAt": "2026-10-17T14:58:57.840Z"
     },
-    "subreddit": "koreatravel"
+    "subreddit": "koreatravel",
+    "verifyStatus": "passed"
   },
   {
     "id": "7c242414-1be3-4850-a2b4-423bb7a4080d",
@@ -29012,8 +29029,13 @@
       "bluesky"
     ],
     "scheduledAt": "2026-10-17T15:44:14.697Z",
-    "status": "pending",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3my4lkscz3g2e",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3my4lkscz3g2e"
+      }
+    },
     "createdAt": "2026-10-17T14:58:58.089Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -29033,7 +29055,8 @@
       ],
       "checkedAt": "2026-10-17T14:58:57.840Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-t-money-transit-card.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-t-money-transit-card.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-10-18T02:44:49.696Z"
   },
   {
     "id": "af6c74de-cdf8-46d2-a25b-99ea4f72f264",
@@ -29064,7 +29087,8 @@
       ],
       "checkedAt": "2026-10-17T14:58:57.840Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-t-money-transit-card.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-t-money-transit-card.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
   },
   {
     "id": "9a2b84ce-123f-4a76-8db4-769bec681e74",
@@ -29098,5 +29122,261 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-10-17T14:58:58.161Z",
     "blogUrl": "https://landinkorea.com/posts/korea-t-money-transit-card.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "12ff0f40-33a9-47e2-be8f-999dad5d38b2",
+    "text": "Stuck at a Korean fast‑food kiosk because everything’s in Korean?\nMost chains start in Korean‑only, but a tiny ENGLISH or flag icon lets you switch instantly.\nSave this tip for your next meal run.\n\n📖 Open the Land in Korea link in our profile and search “Unmanned kiosk ordering in Korea: why humans are disappearing from the counter”.\n\n#KoreaTravel #SeoulTrip #Foodie #TravelTips #KoreanFood",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-17T22:40:28.739Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-17T15:41:49.828Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Unmanned kiosk ordering in Korea: why humans are disappearing from the counter",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 내용이 자연스럽고 사실에 과장 없이 여행자에게 유용한 정보를 제공합니다",
+      "model": "groq",
+      "checkedAt": "2026-10-17T15:41:46.411Z",
+      "pattern": "D"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-10-17T15:41:49.749Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "962e380f-f1a4-4f81-b37e-45d6e20e5a37",
+    "text": "Ever tried paying with Apple Pay in Korea and wondered why it fizzles?\n\nPhone wallets like Kakao Pay and Naver Pay need a Korean bank account or ARC; use your contactless foreign card instead.\n\nBookmark this—your card will save you hassle at every tap.\n\n📖 Open the Land in Korea link in our profile and search “Mobile payments in Korea: Kakao Pay, Naver Pay, and why Apple Pay doesn’t work”.\n\n#KoreaTravel #SeoulTrip #TravelTips #MobilePayments #FirstTimeInKorea",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-17T17:10:29.185Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-17T15:45:13.709Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Mobile payments in Korea: Kakao Pay, Naver Pay, and why Apple Pay doesn’t work",
+    "qualityGate": {
+      "pass": false,
+      "reason": "로컬 AI가 주제·문장·주장 품질 문제를 감지함",
+      "model": "ollaya/laya:multilingual",
+      "confidence": 0.9155,
+      "checkedAt": "2026-10-17T15:45:13.630Z"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-10-17T15:45:13.638Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "9f7d12c3-2b41-4f24-aa48-0a048f42a07c",
+    "text": "Think you can keep your swimsuit on at a Korean bathhouse? Think again.\nIn a mogyoktang, full nudity is the rule—no swimsuits, no cover‑ups. Separate floors for men and women, and you must bring your own towel.\nAdd this to your pre‑trip checklist.\n\n📖 Open the Land in Korea link in our profile and search “Public bathhouse culture in Korea beyond the jjimjilbang: the mogyoktang rules”.\n\n#KoreaTravel #SeoulTrip #TravelTips #Bathhouse #FirstTimeInKorea",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-17T19:34:09.304Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-17T15:47:31.090Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Public bathhouse culture in Korea beyond the jjimjilbang: the mogyoktang rules",
+    "qualityGate": {
+      "pass": false,
+      "reason": "로컬 AI가 주제·문장·주장 품질 문제를 감지함",
+      "model": "ollaya/laya:multilingual",
+      "confidence": 0.7496,
+      "checkedAt": "2026-10-17T15:47:31.051Z"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-10-17T15:47:31.057Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "8c0d5a02-dd1d-4e3c-a999-7179edf25059",
+    "text": "Never rush to a mega‑hospital for a simple cold in Korea!\nNeighborhood clinics (look for ‘… 의원’) handle colds, stomach bugs, and skin rashes fast and cheap.\nSave this tip for your next health emergency.\n\n📖 Open the Land in Korea link in our profile and search “Hospital vs. clinic vs. pharmacy in Korea: where to actually go when you get sick”.\n\n#KoreaTravel #SeoulTrip #TravelTips #FirstTimeKorea #HealthInKorea",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-18T14:16:09.603Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-18T02:26:29.367Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Hospital vs. clinic vs. pharmacy in Korea: where to actually go when you get sick",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: tumblr: reaction missing a specific call to comment, save, or share; the closing 'Keep this in mind the next time you feel under the weather in Korea.' is generic advice.",
+      "failedPlatforms": [
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "C",
+      "checkedAt": "2026-10-18T02:26:29.241Z"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-10-18T02:26:29.269Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "1615e8f0-14d5-415e-a5d6-9200742699b1",
+    "text": "Want a truly quiet place to work in Seoul?\nUse a 스터디카페 – pay by the hour (as low as 1 hour), get a private booth, free coffee and fast Wi‑Fi, with strict silence rules.\nSave this tip for later.\n\n📖 Open the Land in Korea link in our profile and search “Cafes as workspaces in Korea: unspoken rules of study cafes, franchise chains, and 'no-laptop' signs”.\n\n#KoreaTravel #SeoulTrip #StudyCafe #TravelTips #DigitalNomad",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-18T04:29:15.286Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-18T02:30:04.305Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Cafes as workspaces in Korea: unspoken rules of study cafes, franchise chains, and 'no-laptop' signs",
+    "qualityGate": {
+      "pass": false,
+      "reason": "로컬 AI가 주제·문장·주장 품질 문제를 감지함",
+      "model": "ollaya/laya:multilingual",
+      "confidence": 0.5528,
+      "checkedAt": "2026-10-18T02:30:04.268Z"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-10-18T02:30:04.274Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "2ec8ef5b-3df5-4461-8b08-bca08d124bb6",
+    "text": "Ever boarded a Korean bus just by its color and ended up in the wrong neighborhood?\nSeoul’s buses: blue = city‑wide trunks, green = station feeders, yellow = downtown loops, red = Gyeonggi express. Other cities like Busan, Daegu, Incheon use completely different schemes, so color isn’t universal.\nNext time, double‑check the route number on KakaoMap before you hop on.\n\n📖 Open the Land in Korea link in our profile and search “Bus travel inside Korean cities: color codes, tag-off transfers, and why you must flag the bus”.\n\n#KoreaTravel #SeoulTrip #BusTips #TravelSmart #VisitKorea",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-18T23:11:07.167Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-18T02:33:12.257Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/33781339/pexels-photo-33781339.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Bus travel inside Korean cities: color codes, tag-off transfers, and why you must flag the bus",
+    "qualityGate": {
+      "pass": false,
+      "reason": "주제의 핵심인 태그‑오프 환승과 버스 호출 방법이 언급되지 않아 내용이 불완전합니다.",
+      "model": "groq",
+      "checkedAt": "2026-10-18T02:32:45.812Z"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-10-18T02:33:12.209Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "769a8734-3b18-4ec1-9efa-4dba1084784b",
+    "text": "Think you can ditch the line after signing up on a restaurant tablet?\nThe tablet will text you when your turn arrives; step away too far and you’ll be dropped.\nSave this tip for your next Seoul dinner.\n\n📖 Open the Land in Korea link in our profile and search “Reserving restaurants and joining waitlists in Korea: Catch Table, Naver booking, and the Tabling tablet”.\n\n#KoreaTravel #SeoulTrip #TravelTips #Foodie #FirstTimeKorea",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-18T03:38:59.952Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-18T02:36:25.843Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Reserving restaurants and joining waitlists in Korea: Catch Table, Naver booking, and the Tabling tablet",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: reddit: hook fails because the first line is a generic statement rather than a specific promise or confusion; reaction fails because the closing provides no clear call to comment, save, or share. | tumblr: reaction fails because the closing line does not give a specific reason to comment, save, or share.",
+      "failedPlatforms": [
+        "reddit",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "A",
+      "checkedAt": "2026-10-18T02:36:25.734Z"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-10-18T02:36:25.764Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "74e4a1b5-128b-4a7e-80c0-28ae3e14dfa5",
+    "text": "Think KTX is your only fast option for a Seoul day‑trip? 🚆\nBut Mugunghwa‑ho and ITX trains often get you there quicker once you factor station travel, especially to places like Chuncheon or Jeongdongjin.\nSave this tip for your next adventure!\n\n📖 Open the Land in Korea link in our profile and search “Day-tripping from Seoul by regular train: Mugunghwa, ITX-Saemaeul, and the Gyeongui-Jungang line”.\n\n🎬 Video source: Pixabay\n\n#KoreaTravel #SeoulTrip #TravelTips #DayTrip #ExploreKorea\n\n🎵 🎵 Track: Dayung - Sorry\nMusic provided by Jamendo (CC BY-SA).",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1792291173123-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-18T02:43:19.745Z",
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "17941616535382711"
+      }
+    },
+    "createdAt": "2026-10-18T02:40:08.828Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/246417/pexels-photo-246417.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2017/01/24/7508-200794626_large.mp4",
+    "videoAttribution": "Pixabay",
+    "topic": "Day-tripping from Seoul by regular train: Mugunghwa, ITX-Saemaeul, and the Gyeongui-Jungang line",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: tumblr: reaction failed – the closing only says \"Keep this in mind next time you plan a quick escape from Seoul.\" without a specific prompt to comment, save, or share.",
+      "failedPlatforms": [
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "C",
+      "checkedAt": "2026-10-18T02:39:03.555Z"
+    },
+    "processedAt": "2026-10-18T02:45:20.196Z"
   }
 ]
