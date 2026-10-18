@@ -29547,5 +29547,295 @@
     "rejectedBy": "no-media",
     "rejectedAt": "2026-10-18T03:44:14.707Z",
     "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "933039c0-4501-4c96-9a04-8e05f96d3390",
+    "text": "Think KTX is the only fast train to Busan?\n\nSRT also runs Seoul‑Busan from Suseo Station, same 2.5 hr journey and costs ₩54,400 – perfect if you’re near Gangnam.\n\nSave this tip for your itinerary!\n\n📖 Open the Land in Korea link in our profile and search “KTX vs. SRT vs. intercity bus for long-distance travel”.\n\n🎬 Video source: Pixabay\n\n#KoreaTravel #SeoulTrip #TravelTips #Busan #SRT",
+    "imageUrl": null,
+    "videoUrl": "https://cdn.pixabay.com/video/2018/05/02/15954-268112365_large.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-18T22:28:14.986Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-18T08:30:21.656Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2018/05/02/15954-268112365_large.mp4",
+    "videoAttribution": "Pixabay",
+    "topic": "KTX vs. SRT vs. intercity bus for long-distance travel",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: tumblr: reaction failed – closing does not prompt comment, save, or share, only says 'Keep this in mind for a smoother trip.'",
+      "failedPlatforms": [
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "A",
+      "checkedAt": "2026-10-18T08:29:58.231Z"
+    }
+  },
+  {
+    "id": "cbceebef-ca7f-4d33-a0d4-832452e87069",
+    "text": "This mistake costs people real money — and they don't find out until it's too late.\n\nSmaller independent stalls are far less likely to be affiliated with a refund network than bigger Myeongdong stores, so check for the sticker before buying if the refund matters.\n\nComment: which one surprised you the most?\n\n📖 Open the Land in Korea link in our profile and search “Namdaemun Market”.\n\n#KoreaTravel #SeoulTrip #KoreaTips #TravelKorea #VisitSeoul",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-18T23:28:52.899Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-18T08:37:19.784Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/19271567/pexels-photo-19271567.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Namdaemun Market",
+    "qualityGate": {
+      "pass": false,
+      "reason": "로컬 AI가 주제·문장·주장 품질 문제를 감지함",
+      "model": "ollaya/laya:multilingual",
+      "confidence": 0.6935,
+      "checkedAt": "2026-10-18T08:36:02.880Z"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-10-18T08:37:19.638Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "2322c952-898b-4049-a180-a55b07c23847",
+    "text": "Most first‑timers head straight for the N Seoul Tower elevator and waste money.\n\nThe free hiking trail from Myeongdong to the tower takes about 30‑40 minutes and costs nothing.\n\nThe path is marked, mostly stairs and paved, and gives a great city view before you reach the paid deck.\n\nIf you want a quiet view, go early morning; sunset crowds the plaza.\n\nDid you ever skip the elevator? Share your experience and open the Land in Korea link in the profile.\n\n📖 Open the Land in Korea link in our profile and search “N Seoul Tower (Namsan)”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1792315055368-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1792315055368-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-10-18T09:24:02.461Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-18T09:17:53.136Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31414671/pexels-photo-31414671.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "N Seoul Tower (Namsan)",
+    "qualityGate": {
+      "pass": true,
+      "reason": "관련 주제에 맞고 문장이 자연스럽고 사실도 크게 과장되지 않아 여행자에게 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-10-18T09:17:32.499Z",
+      "pattern": "E"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "9bcd22e9-ee19-466a-a76e-ae834984d709",
+    "text": "Think the N Seoul Tower elevator is the only way up? You can hike from Myeongdong for free in 30‑40 minutes.\n\n1️⃣ Follow the marked trail from Myeongdong—mostly stairs and paved.\n2️⃣ The free plaza already offers skyline views above most of the city.\n3️⃣ Choose sunrise for peace or sunset for crowds and colors.\n4️⃣ Skip the elevator fee and save money for food or souvenirs.\n✅ Hike, enjoy the view, skip the lift.\nWhen did you first discover a free alternative in Seoul? Save this for your trip.\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1792315055368-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1792315055368-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-10-18T09:28:32.593Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-18T09:17:53.183Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31414671/pexels-photo-31414671.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "N Seoul Tower (Namsan)",
+    "qualityGate": {
+      "pass": true,
+      "reason": "관련 주제에 맞고 문장이 자연스럽고 사실도 크게 과장되지 않아 여행자에게 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-10-18T09:17:32.499Z",
+      "pattern": "E"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "4d12c83a-c45b-4008-85b9-930f23d661f3",
+    "text": "Want the best view of Seoul without paying for the lift?\nTake the 30‑40 minute marked hike from Myeongdong—free, scenic, and quicker than you think.\nSave this tip for your itinerary!\n\n📖 Open the Land in Korea link in our profile and search “N Seoul Tower (Namsan)”.\n\n#KoreaTravel #SeoulTrip #NSeoulTower #TravelTips #VisitSeoul",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-18T09:33:17.082Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-18T09:17:53.254Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31414671/pexels-photo-31414671.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "N Seoul Tower (Namsan)",
+    "qualityGate": {
+      "pass": true,
+      "reason": "관련 주제에 맞고 문장이 자연스럽고 사실도 크게 과장되지 않아 여행자에게 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-10-18T09:17:32.499Z",
+      "pattern": "E"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-10-18T09:17:53.216Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "8241533f-9473-48ba-989c-a182e77db1de",
+    "text": "If you're planning your first visit to N Seoul Tower, here's a free way to get great views without the elevator fee.\n\n1. From Myeongdong, follow the marked trail—about a 30‑40 minute walk, mostly stairs and paved.\n2. The free plaza already offers a panoramic city view; the paid deck just adds height.\n3. For fewer crowds, go early morning; sunset draws many visitors.\n\nFeel free to ask any follow‑up questions—I’ve written more details on my blog if you need them.\n\n📖 Full article: https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=reddit&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": null,
+    "platforms": [
+      "reddit"
+    ],
+    "scheduledAt": "2026-10-18T11:23:43.761Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-18T09:17:53.306Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31414671/pexels-photo-31414671.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "N Seoul Tower (Namsan)",
+    "qualityGate": {
+      "pass": true,
+      "reason": "관련 주제에 맞고 문장이 자연스럽고 사실도 크게 과장되지 않아 여행자에게 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-10-18T09:17:32.499Z",
+      "pattern": "E"
+    },
+    "subreddit": "koreatravel"
+  },
+  {
+    "id": "001749a2-e1c3-4f76-85d7-8dc71f909dee",
+    "text": "Most tourists rush to the N Seoul Tower lift and lose money.\n\nThe marked trail from Myeongdong climbs Namsan in 30‑40 minutes and is completely free.\n\nThe path is paved, mostly stairs, and the free plaza already gives a panoramic city view.\n\nVisit early morning for quiet; sunset means crowds at the plaza.\n\nDid you ever take the hike? #TravelBlog #KoreaTravel",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1792315055368-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1792315055368-v0-0.jpg"
+    ],
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-10-18T09:51:12.304Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-18T09:17:53.355Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31414671/pexels-photo-31414671.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "N Seoul Tower (Namsan)",
+    "qualityGate": {
+      "pass": true,
+      "reason": "관련 주제에 맞고 문장이 자연스럽고 사실도 크게 과장되지 않아 여행자에게 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-10-18T09:17:32.499Z",
+      "pattern": "E"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "61b471ef-9c1d-4d4d-be49-744e532756f9",
+    "text": "Many first‑timers head straight for the N Seoul Tower elevator and pay extra.\n\nThe free hiking route from Myeongdong to the tower takes about 30‑40 minutes and costs nothing.\n\nThe trail is clearly marked, mostly stairs and paved, and the free plaza already offers a sweeping city panorama.\n\nIf you prefer fewer people, aim for early morning; the sunset slot gets crowded.\n\nHave you tried the hike? #KoreaTravel #TravelTips #Seoul",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1792315055368-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1792315055368-v0-0.jpg"
+    ],
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-10-18T10:25:20.651Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-18T09:17:53.434Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31414671/pexels-photo-31414671.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "N Seoul Tower (Namsan)",
+    "qualityGate": {
+      "pass": true,
+      "reason": "관련 주제에 맞고 문장이 자연스럽고 사실도 크게 과장되지 않아 여행자에게 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-10-18T09:17:32.499Z",
+      "pattern": "E"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "35e4a3b6-2c53-4b40-90f0-8eed4da8dde0",
+    "text": "You can skip the N Seoul Tower elevator and hike from Myeongdong for free in just 30‑40 minutes.\n\n1. The marked trail is mostly stairs and paved, offering great skyline views before you reach the paid deck.\n2. The free plaza already provides a panoramic view above most of the city.\n3. Go early morning for a quiet experience; sunset brings crowds.\n\nTry the hike and keep the extra cash for a Korean meal.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1792315055368-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1792315055368-v0-0.jpg"
+    ],
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-10-18T12:22:03.997Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-18T09:17:53.492Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31414671/pexels-photo-31414671.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "N Seoul Tower (Namsan)",
+    "qualityGate": {
+      "pass": true,
+      "reason": "관련 주제에 맞고 문장이 자연스럽고 사실도 크게 과장되지 않아 여행자에게 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-10-18T09:17:32.499Z",
+      "pattern": "E"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
   }
 ]
