@@ -30729,5 +30729,36 @@
     "rejectedBy": "no-media",
     "rejectedAt": "2026-10-19T11:31:58.999Z",
     "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "78d77aec-039e-4211-a82d-ebdfb8f8901e",
+    "text": "Ever wonder why KTX can’t take you to Jeju?\nBecause Jeju has no rail connection – the only fast way is a domestic flight from Gimpo, running every 30‑45 min.\nSave this tip before you book!\n\n📖 Open the Land in Korea link in our profile and search “Domestic flights vs. KTX for Jeju and long-distance trips”.\n\n#KoreaTravel #SeoulTrip #TravelTips #Jeju #KTX",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-19T20:22:26.161Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-19T12:29:03.881Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/2455395/pexels-photo-2455395.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Domestic flights vs. KTX for Jeju and long-distance trips",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽으며 사실 관계도 크게 문제 없고 여행 정보로 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-10-19T12:25:16.264Z"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-10-19T12:29:03.836Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
   }
 ]
