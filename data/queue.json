@@ -30760,5 +30760,37 @@
     "rejectedBy": "no-media",
     "rejectedAt": "2026-10-19T12:29:03.836Z",
     "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "442e36ba-8dc5-442d-9a96-81fd0f563d81",
+    "text": "You won't find this in the usual travel advice.\n\nPasses work best on days packed with paid palace/museum/tower visits back to back, and worst on days mixing in a lot of free attractions (parks, markets, walking neighborhoods) that don't need a pass at all.\n\nDone any of these? Comment your story below.\n\n📖 Open the Land in Korea link in our profile and search “Seoul attraction pass comparison”.\n\n#KoreaTravel #SeoulTrip #KoreaTips #TravelKorea #VisitSeoul",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-19T19:51:31.696Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-19T13:35:38.953Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/37968751/pexels-photo-37968751.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Seoul attraction pass comparison",
+    "qualityGate": {
+      "pass": true,
+      "reason": "로컬 AI 품질 검사 통과",
+      "model": "ollaya/laya:multilingual",
+      "confidence": 0.7813,
+      "checkedAt": "2026-10-19T13:31:57.442Z"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-10-19T13:35:38.891Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
   }
 ]
