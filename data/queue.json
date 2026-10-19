@@ -30693,5 +30693,41 @@
     "rejectedBy": "no-media",
     "rejectedAt": "2026-10-19T10:48:39.087Z",
     "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "181bb2de-796d-4919-95aa-bb860a1f1276",
+    "text": "Here's what actually happens once you're standing there.\n\nMost tourists only walk a short section near the entrance and miss that the fortress wraps around the whole old town — renting a bike or taking the local tour tram covers more ground than walking the entire loop on foot.\n\nComment: which one surprised you the most?\n\n📖 Open the Land in Korea link in our profile and search “Suwon Hwaseong Fortress”.\n\n#KoreaTravel #SeoulTrip #KoreaTips #TravelKorea #VisitSeoul",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-19T20:18:34.819Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-19T11:31:59.653Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31955783/pexels-photo-31955783.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Suwon Hwaseong Fortress",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: reddit: payoff incomplete and missing reaction; content ends abruptly \"...the whole old t\" | tumblr: missing hook (first line does not promise or name a confusion) and missing reaction; first line is \"Suwon sits close enough to Seoul...\"",
+      "failedPlatforms": [
+        "reddit",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "C",
+      "checkedAt": "2026-10-19T11:31:02.602Z"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-10-19T11:31:58.999Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
   }
 ]
