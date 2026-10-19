@@ -30323,5 +30323,309 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-10-19T04:34:10.630Z",
     "blogUrl": "https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "5849a517-9402-464c-9769-316ef48210b2",
+    "text": "Think you’ve seen all of Insadong?\n\nThe real antique dealers, galleries, and craft workshops hide in the side alleys off the main street – and they’re quiet on weekday mornings.\n\nSave this guide so you don’t miss the hidden gems.\n\n📖 Open the Land in Korea link in our profile and search “Insadong traditional culture street”.\n\n#KoreaTravel #SeoulTrip #Insadong #TravelTips #FirstTimeInKorea",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-19T15:23:40.077Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-19T04:56:30.832Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31680629/pexels-photo-31680629.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Insadong traditional culture street",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연하며 과장된 주장 없이 유용한 여행 팁을 제공한다",
+      "model": "groq",
+      "checkedAt": "2026-10-19T04:52:21.095Z"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-10-19T04:56:28.976Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "bc2069c0-28e0-4139-8fa9-32ed2e30982d",
+    "text": "Nobody tells you this before you land.\n\nSorting recyclables isn't what actually trips people up in Korea — it's using the wrong bag.\n\nGeneral waste has to go into an official, district-specific bag (종량제 봉투, sold at local convenience stores and supermarkets); bags bought in a different district aren't accepted even if they look identical, since the collection fee is built into that specific bag's price.\n\nThis catches foreign residents and short-term renters far more than tourists in hotels, since nobody hands you the local bag with your key.\n\nHow much did this actually cost you on your trip?\n\n📖 Open the Land in Korea link in our profile and search “Trash and recycling rules for residents”.",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-10-20T05:16:04.763Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-19T05:31:41.610Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Trash and recycling rules for residents",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: threads: hook failed because first line is generic ('Nobody tells you this before you land.') and does not specify a promise or confusion. | facebook: hook failed because first line is generic ('Nobody tells you this before you land.') and does not specify a promise or confusion. | instagram: hook failed because first line is generic ('Nobody tells you this before you land.') and does not specify a promise or confusion. | reddit: hook failed because first line is generic; payoff incomplete (text truncated); reaction missing (no CTA). | bluesky: hook failed because first line is generic ('Nobody tells you this before you land.') and does not specify a promise or confusion. | mastodon: hook failed because first line is generic ('Nobody tells you this before you land.') and does not specify a promise or confusion. | tumblr: hook failed because first line is generic; reaction missing (no CTA).",
+      "failedPlatforms": [
+        "threads",
+        "facebook",
+        "instagram",
+        "reddit",
+        "bluesky",
+        "mastodon",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "A",
+      "checkedAt": "2026-10-19T05:31:41.471Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-19T05:31:41.531Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-trash-and-recycling-rules-for-residents.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "40fb1ecf-7fba-4fc0-b642-b580c27423f3",
+    "text": "Nobody tells you this before you land. Sorting recyclables isn't what actually trips people up in Korea — it's using the wrong bag.\n\n1. General waste has to go into an official, district-specific bag (종량제 봉투, sold at local convenience stores and supermarkets); bags bought in a different district aren't accepted even if they look identical, since the collection fee is built into that specific bag's price.\n2. This catches foreign residents and short-term renters far more than tourists in hotels, since nobody hands you the local bag with your key.\n\nHave you learned this the hard way? Tell your story.\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-trash-and-recycling-rules-for-residents.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": null,
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-10-20T05:18:18.683Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-19T05:31:41.674Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Trash and recycling rules for residents",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: threads: hook failed because first line is generic ('Nobody tells you this before you land.') and does not specify a promise or confusion. | facebook: hook failed because first line is generic ('Nobody tells you this before you land.') and does not specify a promise or confusion. | instagram: hook failed because first line is generic ('Nobody tells you this before you land.') and does not specify a promise or confusion. | reddit: hook failed because first line is generic; payoff incomplete (text truncated); reaction missing (no CTA). | bluesky: hook failed because first line is generic ('Nobody tells you this before you land.') and does not specify a promise or confusion. | mastodon: hook failed because first line is generic ('Nobody tells you this before you land.') and does not specify a promise or confusion. | tumblr: hook failed because first line is generic; reaction missing (no CTA).",
+      "failedPlatforms": [
+        "threads",
+        "facebook",
+        "instagram",
+        "reddit",
+        "bluesky",
+        "mastodon",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "A",
+      "checkedAt": "2026-10-19T05:31:41.471Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-19T05:31:41.637Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-trash-and-recycling-rules-for-residents.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "89e77ec4-1422-4b5f-be0f-250ab4aa9506",
+    "text": "Nobody tells you this before you land.\n\nGeneral waste has to go into an official, district-specific bag (종량제 봉투, sold at local convenience stores and supermarkets); bags bought in a different district aren't accepted even if they look identical, since the collection fee is built into that specific bag's price.\n\nSave this guide — trust me on this one.\n\n📖 Open the Land in Korea link in our profile and search “Trash and recycling rules for residents”.\n\n#KoreaTravel #SeoulTrip #KoreaTips #TravelKorea #VisitSeoul",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-20T05:24:34.573Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-19T05:31:41.713Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Trash and recycling rules for residents",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: threads: hook failed because first line is generic ('Nobody tells you this before you land.') and does not specify a promise or confusion. | facebook: hook failed because first line is generic ('Nobody tells you this before you land.') and does not specify a promise or confusion. | instagram: hook failed because first line is generic ('Nobody tells you this before you land.') and does not specify a promise or confusion. | reddit: hook failed because first line is generic; payoff incomplete (text truncated); reaction missing (no CTA). | bluesky: hook failed because first line is generic ('Nobody tells you this before you land.') and does not specify a promise or confusion. | mastodon: hook failed because first line is generic ('Nobody tells you this before you land.') and does not specify a promise or confusion. | tumblr: hook failed because first line is generic; reaction missing (no CTA).",
+      "failedPlatforms": [
+        "threads",
+        "facebook",
+        "instagram",
+        "reddit",
+        "bluesky",
+        "mastodon",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "A",
+      "checkedAt": "2026-10-19T05:31:41.471Z"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-10-19T05:31:41.691Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "002bee3c-3c5c-40d6-ad84-7190e10ad4d8",
+    "text": "Sorting recyclables isn't what actually trips people up in Korea — it's using the wrong bag. General waste has to go into an official, district-specific bag (종량제 봉투, sold at local convenience stores and supermarkets); bags bought in a different district aren't accepted even if th\n\n📖 Full article: https://landinkorea.com/posts/korea-trash-and-recycling-rules-for-residents.html?utm_source=reddit&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": null,
+    "platforms": [
+      "reddit"
+    ],
+    "scheduledAt": "2026-10-20T07:14:28.699Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-19T05:31:41.747Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Trash and recycling rules for residents",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: threads: hook failed because first line is generic ('Nobody tells you this before you land.') and does not specify a promise or confusion. | facebook: hook failed because first line is generic ('Nobody tells you this before you land.') and does not specify a promise or confusion. | instagram: hook failed because first line is generic ('Nobody tells you this before you land.') and does not specify a promise or confusion. | reddit: hook failed because first line is generic; payoff incomplete (text truncated); reaction missing (no CTA). | bluesky: hook failed because first line is generic ('Nobody tells you this before you land.') and does not specify a promise or confusion. | mastodon: hook failed because first line is generic ('Nobody tells you this before you land.') and does not specify a promise or confusion. | tumblr: hook failed because first line is generic; reaction missing (no CTA).",
+      "failedPlatforms": [
+        "threads",
+        "facebook",
+        "instagram",
+        "reddit",
+        "bluesky",
+        "mastodon",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "A",
+      "checkedAt": "2026-10-19T05:31:41.471Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-19T05:31:41.731Z",
+    "subreddit": "expats"
+  },
+  {
+    "id": "9a8228a5-80e7-4ba8-b564-6dd674d98a4f",
+    "text": "Nobody tells you this before you land.\n\nSorting recyclables isn't what actually trips people up in Korea — it's using the wrong bag.\n\nGeneral waste has to go into an official, district-specific bag (종량제 봉투, sold at local convenience stores and supermarkets); bags bought in a different district aren't accepted even if they look identical, since the collection fee is built into that specific bag's price.\n\nThis catches foreign residents and short-term renters far more than tourists in hotels, since nobody hands you the local bag with your key.\n\nHow much did this actually cost you on your trip?",
+    "imageUrl": null,
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-10-20T05:46:23.881Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-19T05:31:41.782Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Trash and recycling rules for residents",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: threads: hook failed because first line is generic ('Nobody tells you this before you land.') and does not specify a promise or confusion. | facebook: hook failed because first line is generic ('Nobody tells you this before you land.') and does not specify a promise or confusion. | instagram: hook failed because first line is generic ('Nobody tells you this before you land.') and does not specify a promise or confusion. | reddit: hook failed because first line is generic; payoff incomplete (text truncated); reaction missing (no CTA). | bluesky: hook failed because first line is generic ('Nobody tells you this before you land.') and does not specify a promise or confusion. | mastodon: hook failed because first line is generic ('Nobody tells you this before you land.') and does not specify a promise or confusion. | tumblr: hook failed because first line is generic; reaction missing (no CTA).",
+      "failedPlatforms": [
+        "threads",
+        "facebook",
+        "instagram",
+        "reddit",
+        "bluesky",
+        "mastodon",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "A",
+      "checkedAt": "2026-10-19T05:31:41.471Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-19T05:31:41.765Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-trash-and-recycling-rules-for-residents.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "e5358ff3-ed7c-43a0-9149-f38e25e6b439",
+    "text": "Nobody tells you this before you land.\n\nSorting recyclables isn't what actually trips people up in Korea — it's using the wrong bag.\n\nGeneral waste has to go into an official, district-specific bag (종량제 봉투, sold at local convenience stores and supermarkets); bags bought in a different district aren't accepted even if they look identical, since the collection fee is built into that specific bag's price.\n\nThis catches foreign residents and short-term renters far more than tourists in hotels, since nobody hands you the local bag with your key.\n\nHow much did this actually cost you on your trip?",
+    "imageUrl": null,
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-10-20T06:17:43.838Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-19T05:31:41.817Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Trash and recycling rules for residents",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: threads: hook failed because first line is generic ('Nobody tells you this before you land.') and does not specify a promise or confusion. | facebook: hook failed because first line is generic ('Nobody tells you this before you land.') and does not specify a promise or confusion. | instagram: hook failed because first line is generic ('Nobody tells you this before you land.') and does not specify a promise or confusion. | reddit: hook failed because first line is generic; payoff incomplete (text truncated); reaction missing (no CTA). | bluesky: hook failed because first line is generic ('Nobody tells you this before you land.') and does not specify a promise or confusion. | mastodon: hook failed because first line is generic ('Nobody tells you this before you land.') and does not specify a promise or confusion. | tumblr: hook failed because first line is generic; reaction missing (no CTA).",
+      "failedPlatforms": [
+        "threads",
+        "facebook",
+        "instagram",
+        "reddit",
+        "bluesky",
+        "mastodon",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "A",
+      "checkedAt": "2026-10-19T05:31:41.471Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-19T05:31:41.800Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-trash-and-recycling-rules-for-residents.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "70d40d76-09df-41bb-9a37-e5f71d582ab0",
+    "text": "Sorting recyclables isn't what actually trips people up in Korea — it's using the wrong bag.\n\n1. General waste has to go into an official, district-specific bag (종량제 봉투, sold at local convenience stores and supermarkets); bags bought in a different district aren't accepted even if they look identical, since the collection fee is built into that specific bag's price.\n2. This catches foreign residents and short-term renters far more than tourists in hotels, since nobody hands you the local bag with your key.",
+    "imageUrl": null,
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-10-20T08:18:55.937Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-19T05:31:41.851Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Trash and recycling rules for residents",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: threads: hook failed because first line is generic ('Nobody tells you this before you land.') and does not specify a promise or confusion. | facebook: hook failed because first line is generic ('Nobody tells you this before you land.') and does not specify a promise or confusion. | instagram: hook failed because first line is generic ('Nobody tells you this before you land.') and does not specify a promise or confusion. | reddit: hook failed because first line is generic; payoff incomplete (text truncated); reaction missing (no CTA). | bluesky: hook failed because first line is generic ('Nobody tells you this before you land.') and does not specify a promise or confusion. | mastodon: hook failed because first line is generic ('Nobody tells you this before you land.') and does not specify a promise or confusion. | tumblr: hook failed because first line is generic; reaction missing (no CTA).",
+      "failedPlatforms": [
+        "threads",
+        "facebook",
+        "instagram",
+        "reddit",
+        "bluesky",
+        "mastodon",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "A",
+      "checkedAt": "2026-10-19T05:31:41.471Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-19T05:31:41.836Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-trash-and-recycling-rules-for-residents.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
   }
 ]
