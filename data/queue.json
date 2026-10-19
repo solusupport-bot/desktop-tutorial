@@ -29562,13 +29562,13 @@
       "instagram"
     ],
     "scheduledAt": "2026-10-18T22:28:14.986Z",
-    "status": "claimed",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-10-18T08:30:21.656Z",
     "approved": true,
     "factCheckStatus": "pending",
     "reviewedBy": null,
-    "reviewedAt": null,
+    "reviewedAt": "2026-10-19T03:26:44.423Z",
     "sourceImageUrls": [],
     "sourceVideoUrl": "https://cdn.pixabay.com/video/2018/05/02/15954-268112365_large.mp4",
     "videoAttribution": "Pixabay",
@@ -29582,7 +29582,8 @@
       "model": "groq",
       "pattern": "A",
       "checkedAt": "2026-10-18T08:29:58.231Z"
-    }
+    },
+    "rejectReason": "unwatermarked external video: Land in Korea watermark required"
   },
   {
     "id": "cbceebef-ca7f-4d33-a0d4-832452e87069",
@@ -29627,8 +29628,12 @@
       "threads"
     ],
     "scheduledAt": "2026-10-18T09:24:02.461Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18148980655524485"
+      }
+    },
     "createdAt": "2026-10-18T09:17:53.136Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -29647,7 +29652,8 @@
       "checkedAt": "2026-10-18T09:17:32.499Z",
       "pattern": "E"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-10-19T03:28:19.972Z"
   },
   {
     "id": "9bcd22e9-ee19-466a-a76e-ae834984d709",
