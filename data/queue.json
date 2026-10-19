@@ -29562,7 +29562,7 @@
       "instagram"
     ],
     "scheduledAt": "2026-10-18T22:28:14.986Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-10-18T08:30:21.656Z",
     "approved": true,
@@ -29627,7 +29627,7 @@
       "threads"
     ],
     "scheduledAt": "2026-10-18T09:24:02.461Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-10-18T09:17:53.136Z",
     "approved": true,
