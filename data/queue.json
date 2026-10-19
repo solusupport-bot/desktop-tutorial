@@ -30658,5 +30658,40 @@
     "rejectedBy": "no-media",
     "rejectedAt": "2026-10-19T06:37:36.645Z",
     "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "f92c93ac-1ea0-4e39-9abe-ff06ffcfa5f9",
+    "text": "Ever tried to walk straight onto Nami Island?\n\nThere’s no bridge—just a 5‑minute ferry (or zipline if you’re daring) from Gapyeong.\n\nSave this tip so you don’t waste a day planning a walk.\n\n📖 Open the Land in Korea link in our profile and search “Nami Island and Petite France day trip”.\n\n#KoreaTravel #SeoulTrip #NamiIsland #PetiteFrance #TravelTips",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-19T19:17:59.147Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-19T10:48:39.140Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/32148711/pexels-photo-32148711.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Nami Island and Petite France day trip",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: tumblr: reaction failed – closing does not prompt comment, save, or share, only a generic statement \"Keep this in mind and enjoy a smooth day‑trip.\"",
+      "failedPlatforms": [
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "D",
+      "checkedAt": "2026-10-19T10:48:01.212Z"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-10-19T10:48:39.087Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
   }
 ]
