@@ -1,5 +1,5 @@
 {
-  "lastIndex": 10,
+  "lastIndex": 11,
   "history": [
     {
       "index": 7,
@@ -950,6 +950,11 @@
       "index": 10,
       "topic": "Airport transfer options",
       "at": "2026-10-20T06:24:14.545Z"
+    },
+    {
+      "index": 11,
+      "topic": "First-timer etiquette & common mistakes",
+      "at": "2026-10-20T07:24:17.949Z"
     }
   ],
   "recentImageUrls": [

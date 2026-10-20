@@ -30874,5 +30874,34 @@
     "rejectedBy": "no-media",
     "rejectedAt": "2026-10-20T06:28:56.067Z",
     "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "e8131cb3-4f83-478e-897a-c0053701726d",
+    "text": "Ever wondered why your tip leaves Korean servers puzzled?\n✔️ Tip? Not needed – service charge is already in the bill.\n✔️ Escalators: stand on the left side, walk on the right.\n✔️ Many small places prefer cash only and won’t split the check.\n✔️ Take off your shoes at hanok stays and floor‑seated restaurants.\n💾 Save this guide for your first visit!\n\n📖 Open the Land in Korea link in our profile and search “First-timer etiquette & common mistakes”.\n\n#KoreaTravel #SeoulTrip #TravelTips #FirstTimeInKorea #Etiquette",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-20T10:09:46.525Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-20T07:28:09.285Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "First-timer etiquette & common mistakes",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 부합하고 내용이 정확·자연스럽게 전달돼 여행자에게 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-10-20T07:27:08.797Z"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-10-20T07:28:09.092Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
   }
 ]
