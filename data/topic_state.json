@@ -1,5 +1,5 @@
 {
-  "lastIndex": 30,
+  "lastIndex": 10,
   "history": [
     {
       "index": 7,
@@ -945,6 +945,11 @@
       "index": 30,
       "topic": "Korean public holidays that disrupt travel plans",
       "at": "2026-10-20T05:25:07.845Z"
+    },
+    {
+      "index": 10,
+      "topic": "Airport transfer options",
+      "at": "2026-10-20T06:24:14.545Z"
     }
   ],
   "recentImageUrls": [

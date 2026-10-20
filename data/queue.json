@@ -30836,5 +30836,43 @@
     "rejectedBy": "no-media",
     "rejectedAt": "2026-10-20T05:29:25.944Z",
     "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "385a1922-2ca6-4c78-80a8-15198f03d2f8",
+    "text": "This is the part that separates a smooth trip from a stressful one.\n\nRide-hailing apps like Kakao T work at both ICN and GMP and often cost less than flagging a taxi curbside, with fares shown upfront in the app.\n\nWhich one did you NOT know? Drop a 🇰🇷\n\n📖 Open the Land in Korea link in our profile and search “Airport transfer options”.\n\n#KoreaTravel #SeoulTrip #KoreaTips #TravelKorea #VisitSeoul",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-20T11:25:50.268Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-20T06:28:56.153Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Airport transfer options",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: threads: hook fails – first line \"This is the part that separates a smooth trip from a stressful one.\" is a generic teaser, not a specific promise or confusion/mistake. | facebook: hook fails – first line \"This is the part that separates a smooth trip from a stressful one.\" is generic. | instagram: hook fails – first line \"This is the part that separates a smooth trip from a stressful one.\" is generic. | bluesky: hook fails – first line \"This is the part that separates a smooth trip from a stressful one.\" is generic. | mastodon: hook fails – first line \"This is the part that separates a smooth trip from a stressful one.\" is generic. | reddit: payoff fails – draft ends abruptly at \"If you're arriving lat\" and does not deliver the promised solutions; reaction fails – no closing call to comment, save or share.",
+      "failedPlatforms": [
+        "threads",
+        "facebook",
+        "instagram",
+        "bluesky",
+        "mastodon",
+        "reddit"
+      ],
+      "model": "groq",
+      "pattern": "O",
+      "checkedAt": "2026-10-20T06:28:56.049Z"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-10-20T06:28:56.067Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
   }
 ]
