@@ -25,8 +25,9 @@ function PullFirst($repo) {
     try {
         git pull -q --rebase --autostash origin main 2>&1 | Out-Null
         if ($LASTEXITCODE -ne 0) {
+            $pullExit = $LASTEXITCODE
             git rebase --abort 2>&1 | Out-Null
-            throw "git pull failed (exit $LASTEXITCODE) in $repo — check 'git status' there"
+            throw "git pull failed (exit $pullExit) in $repo — check 'git status' there"
         }
     } finally { Pop-Location }
 }
@@ -66,13 +67,21 @@ try {
     PullFirst $desktop
     PullFirst $blog
 
-    # 1) 블로그 글 없는 SNS 주제가 있으면 새로 써서 land-in-korea-blog에 직접 푸시
+    # 1) 검수된 사전 작성 글을 land-in-korea-blog 원격 저장소에 등록
     Push-Location $desktop
     Run node @('scripts/sync-blog-posts.js') $desktop
     Pop-Location
     CommitAndPush $desktop @('data/topic_blog_links.json', 'data/blog_content_queue.json') 'chore: update published post queue'
 
-    # 2) land-in-korea-blog 이미지 채우기 + 사이트 빌드 (0단계에서 이미 최신으로 당김)
+    # sync-blog-posts.js는 별도 임시 clone에서 원격 main에 글을 올린다.
+    # 시작 시 pull만으로는 방금 올라간 글이 로컬 빌드에 포함되지 않는다.
+    PullFirst $blog
+
+    # 2) 새 원문을 검사한 뒤 이미지 채우기 + 사이트 빌드
+    Push-Location "$blog\automation"
+    try {
+        Run python @('validate.py') "$blog\automation"
+    } finally { Pop-Location }
 
     $env:PEXELS_API_KEY = (Get-Content "$desktop\.env" | Select-String '^PEXELS_API_KEY=(.*)$').Matches.Groups[1].Value
     $env:GITHUB_TOKEN = (Get-Content "$desktop\.env" | Select-String '^GITHUB_TOKEN=(.*)$').Matches.Groups[1].Value
@@ -81,6 +90,7 @@ try {
     Push-Location "$blog\automation"
     Run python @('fetch_images.py') "$blog\automation"
     Run python @('build.py') "$blog\automation"
+    Run python @('verify_seo.py') "$blog\automation"
     Pop-Location
     # used_media.json = 블로그에 쓴 사진 고유번호 영구 기록(중복 금지). 커밋 안 하면 재클론 시 사라진다.
     CommitAndPush $blog @('content/posts', 'automation/used_media.json') 'chore: persist fetched/watermarked post images'
