@@ -30797,5 +30797,44 @@
     "rejectedBy": "no-media",
     "rejectedAt": "2026-10-19T13:35:38.891Z",
     "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "dab78e67-7caa-4f14-8fa3-d3cb36bd0eb3",
+    "text": "Locals do this differently than every blog post says.\n\nLanding a trip in the middle of either without checking the calendar first is one of the most avoidable planning mistakes for visitors.\n\nSave this guide — trust me on this one.\n\n📖 Open the Land in Korea link in our profile and search “Korean public holidays that disrupt travel plans”.\n\n#KoreaTravel #SeoulTrip #KoreaTips #TravelKorea #VisitSeoul",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-20T06:35:42.886Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-20T05:29:26.256Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Korean public holidays that disrupt travel plans",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: threads: hook fails – first line is generic contrarian statement, not a specific promise or confusion | facebook: hook fails – first line is generic contrarian statement, not a specific promise | instagram: hook fails – first line is generic contrarian statement, not a specific promise | reddit: hook fails – first line is generic statement, not a specific promise; also missing payoff and reaction | bluesky: hook fails – first line is generic contrarian statement, not a specific promise | mastodon: hook fails – first line is generic contrarian statement, not a specific promise | tumblr: hook fails – first line is generic statement, not a specific promise",
+      "failedPlatforms": [
+        "threads",
+        "facebook",
+        "instagram",
+        "reddit",
+        "bluesky",
+        "mastodon",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "C",
+      "checkedAt": "2026-10-20T05:29:25.857Z"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-10-20T05:29:25.944Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
   }
 ]

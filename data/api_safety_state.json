@@ -90,15 +90,15 @@
     },
     "instagram": {
       "attempts": [
-        "2026-10-19T02:53:58.375Z"
+        "2026-10-20T05:25:04.470Z"
       ],
       "successes": [
-        "2026-10-19T02:53:58.375Z"
+        "2026-10-20T05:25:04.470Z"
       ],
       "consecutiveFailures": 0,
       "blockedUntil": null,
-      "lastAttemptAt": "2026-10-19T02:53:58.375Z",
-      "lastSuccessAt": "2026-10-19T02:53:58.375Z"
+      "lastAttemptAt": "2026-10-20T05:25:04.470Z",
+      "lastSuccessAt": "2026-10-20T05:25:04.470Z"
     }
   }
 }
