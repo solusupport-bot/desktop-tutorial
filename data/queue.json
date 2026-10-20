@@ -29943,8 +29943,12 @@
       "instagram"
     ],
     "scheduledAt": "2026-10-19T15:55:50.228Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "18172699192404774"
+      }
+    },
     "createdAt": "2026-10-19T03:54:00.573Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -29962,7 +29966,8 @@
       "model": "groq",
       "checkedAt": "2026-10-19T03:51:49.829Z",
       "pattern": "A"
-    }
+    },
+    "processedAt": "2026-10-20T05:25:04.487Z"
   },
   {
     "id": "01d088c9-acb2-4341-ac34-de51ce18b8b6",
