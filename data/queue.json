@@ -31064,5 +31064,37 @@
     "rejectedBy": "no-media",
     "rejectedAt": "2026-10-21T06:28:06.433Z",
     "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "8047d411-c5b4-4d1b-b03a-0cbbaf8272cd",
+    "text": "Struggling to flag a taxi in Seoul?\nDownload Kakao T – the app lets you pick up points on a map in Korean, so you never have to shout an address.\nSave this post so you can ride stress‑free on arrival.\n\n📖 Open the Land in Korea link in our profile and search “Hailing a taxi in Korea: Kakao T vs. street taxis vs. airport 'deluxe' cabs”.\n\n#KoreaTravel #SeoulTrip #TravelTips #TaxiHack #VisitKorea",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-21T22:37:05.081Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-21T16:02:53.568Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.unsplash.com/photo-1592898919114-2f23d536cb85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA2MTc1fDB8MXxzZWFyY2h8NXx8c291dGglMjBrb3JlYSUyMGhhbmQlMjBob2xkaW5nJTIwcGhvbmUlMjB0YXhpJTIwYXBwJTIwU2VvdWx8ZW58MHwwfHx8MTc5MjU5ODM5MXww&ixlib=rb-4.1.0&q=80&w=1080#unsplash=OBjYlqUq8Mc"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Hailing a taxi in Korea: Kakao T vs. street taxis vs. airport 'deluxe' cabs",
+    "qualityGate": {
+      "pass": false,
+      "reason": "로컬 AI가 주제·문장·주장 품질 문제를 감지함",
+      "model": "ollaya/laya:multilingual",
+      "confidence": 0.9833,
+      "checkedAt": "2026-10-21T16:01:46.540Z"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-10-21T16:02:52.267Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
   }
 ]
