@@ -30997,5 +30997,39 @@
     "rejectedBy": "no-media",
     "rejectedAt": "2026-10-21T03:27:30.306Z",
     "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "04bc2617-06e5-42dd-b959-0a8c962c6cb1",
+    "text": "Only buying snacks at Korean convenience stores? Think again.\n\nCU, GS25 and 7‑Eleven are open 24/7 and let you pay bills, grab pharmacy items, use ATMs, buy concert tickets, and even ship parcels—plus hot water and microwaves for instant meals.\n\nBookmark this cheat sheet for every stop.\n\n📖 Open the Land in Korea link in our profile and search “Convenience store hacks”.\n\n#KoreaTravel #SeoulTrip #ConvenienceStoreHacks #TravelTips #FirstTimeInKorea",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-21T09:56:51.632Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-21T06:10:37.068Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Convenience store hacks",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: reddit: missing reaction – no call to comment, save, or share at the end | tumblr: missing reaction – no call to comment, save, or share at the end",
+      "failedPlatforms": [
+        "reddit",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "D",
+      "checkedAt": "2026-10-21T06:10:36.673Z"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-10-21T06:10:36.708Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
   }
 ]
