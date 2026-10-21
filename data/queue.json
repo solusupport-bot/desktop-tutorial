@@ -30903,5 +30903,40 @@
     "rejectedBy": "no-media",
     "rejectedAt": "2026-10-20T07:28:09.092Z",
     "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "bbd03c00-33bb-4068-9eac-d3af6a326409",
+    "text": "Thinking of tapping your credit card in Seoul? Don’t let the terminal trick you.\n\nAlways select Korean won at the payment screen – the home‑currency option adds hidden markup via dynamic conversion.\n\nSave this tip before you checkout!\n\n📖 Open the Land in Korea link in our profile and search “Currency & card payments”.\n\n#KoreaTravel #SeoulTrip #TravelTips #CurrencyHack #FirstTimeInKorea",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-21T14:59:30.130Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-21T01:26:51.664Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g68af35b683696341c143d95a58beb0240dc5c112a5c46128dd1994fc0655a4d778992dda24d8a4d51c37876faf2e606a686e324c48d817cbfd793100f29cffa8_1280.jpg#pixabay=5475283"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Currency & card payments",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: reddit: reaction missing a clear call to comment, save, or share – only a blog link is provided.",
+      "failedPlatforms": [
+        "reddit"
+      ],
+      "model": "groq",
+      "pattern": "E",
+      "checkedAt": "2026-10-21T01:26:10.231Z"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-10-21T01:26:51.578Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
   }
 ]
