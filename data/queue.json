@@ -30938,5 +30938,34 @@
     "rejectedBy": "no-media",
     "rejectedAt": "2026-10-21T01:26:51.578Z",
     "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "00cb9671-0e15-409f-b1c6-a97d8890e2df",
+    "text": "Think 112 is your go‑to number for any travel hiccup in Korea?\n\nFor lost passports or hospital translation, dial 1330 – the 24/7 English travel hotline.\n\nSave this number; it could save you hours.\n\n📖 Open the Land in Korea link in our profile and search “Emergency numbers & 24hr pharmacies”.\n\n#KoreaTravel #SeoulTrip #TravelTips #FirstTimeInKorea #ExploreKorea",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-21T08:20:15.004Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-21T03:05:58.563Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Emergency numbers & 24hr pharmacies",
+    "qualityGate": {
+      "pass": false,
+      "reason": "주제인 'Emergency numbers & 24hr pharmacies'에 24시간 약국 언급이 없어 관련성이 부족합니다",
+      "model": "groq",
+      "checkedAt": "2026-10-21T03:05:58.399Z"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-10-21T03:05:58.462Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
   }
 ]
