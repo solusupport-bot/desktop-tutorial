@@ -1,5 +1,5 @@
 {
-  "lastIndex": 13,
+  "lastIndex": 14,
   "history": [
     {
       "index": 7,
@@ -965,6 +965,11 @@
       "index": 13,
       "topic": "Emergency numbers & 24hr pharmacies",
       "at": "2026-10-21T03:03:00.756Z"
+    },
+    {
+      "index": 14,
+      "topic": "Useful travel apps",
+      "at": "2026-10-21T03:24:15.499Z"
     }
   ],
   "recentImageUrls": [

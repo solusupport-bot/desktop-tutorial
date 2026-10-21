@@ -30967,5 +30967,35 @@
     "rejectedBy": "no-media",
     "rejectedAt": "2026-10-21T03:05:58.462Z",
     "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "e2422b88-009c-41be-8452-58577be4cc21",
+    "text": "You’ll waste minutes in Seoul’s subway if you skip this app.\nNaver Map (and Papago) give real‑time arrivals, exact platform transfers, and the freshest restaurant reviews—download before you land and pair with a Korean SIM or eSIM.\nSave this post for your trip!\n\n📖 Open the Land in Korea link in our profile and search “Useful travel apps”.\n\n#KoreaTravel #SeoulTrip #TravelTips #SubwayHack #VisitKorea",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-21T10:11:37.834Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-21T03:27:30.369Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Useful travel apps",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련 있으며 문장이 자연스럽고 사실도 신뢰할 수 있어 발행 가능",
+      "model": "groq",
+      "checkedAt": "2026-10-21T03:26:53.211Z",
+      "pattern": "C"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-10-21T03:27:30.306Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
   }
 ]
