@@ -31096,5 +31096,35 @@
     "rejectedBy": "no-media",
     "rejectedAt": "2026-10-21T16:02:52.267Z",
     "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "e3ea025f-08dd-44a5-8a7e-521fa1432908",
+    "text": "Ever wonder why your Google Maps pin lands a block away in Seoul?\nKorea switched to road‑name addresses; most places hide the building number, so the app misplaces you. Use the exact Korean‑language address or follow the nearest subway‑exit number for spot‑on directions.\nSave this tip for your trip!\n\n📖 Open the Land in Korea link in our profile and search “Why Google Maps fails in Korea and how the road-name address system actually works”.\n\n#KoreaTravel #SeoulTrip #TravelTips #FirstTimeInKorea #ExploreKorea",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-21T22:24:33.734Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-21T16:27:32.828Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Why Google Maps fails in Korea and how the road-name address system actually works",
+    "qualityGate": {
+      "pass": false,
+      "reason": "로컬 AI가 주제·문장·주장 품질 문제를 감지함",
+      "model": "ollaya/laya:multilingual",
+      "confidence": 0.9947,
+      "checkedAt": "2026-10-21T16:27:32.644Z"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-10-21T16:27:32.718Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
   }
 ]
