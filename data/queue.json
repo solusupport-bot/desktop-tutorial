@@ -31031,5 +31031,38 @@
     "rejectedBy": "no-media",
     "rejectedAt": "2026-10-21T06:10:36.708Z",
     "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "d88c9b78-9fa9-43ab-b4a6-e4f5bfe5a17e",
+    "text": "Ever felt the temperature jump from a cold street to a warm subway in Korea?\nLayer with a thin base, light fleece, and a zip‑up jacket—you’ll stay comfy on freezing sidewalks and heated stations, plus beat the chilly AC in summer malls.\nSave this guide before you pack!\n\n📖 Open the Land in Korea link in our profile and search “Seasonal packing & weather tips”.\n\n#KoreaTravel #SeoulTrip #TravelTips #PackingHacks #VisitKorea",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-21T21:24:27.502Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-21T06:28:06.625Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Seasonal packing & weather tips",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: tumblr: reaction missing a clear call to comment, save, or share; closing only says \"Try this layering plan on your next trip.\"",
+      "failedPlatforms": [
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "O",
+      "checkedAt": "2026-10-21T06:28:06.279Z"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-10-21T06:28:06.433Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
   }
 ]
