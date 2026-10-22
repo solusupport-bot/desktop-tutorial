@@ -32356,5 +32356,39 @@
     "rejectedBy": "no-media",
     "rejectedAt": "2026-10-22T12:28:43.888Z",
     "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "087208b7-2422-4e50-89d6-da30c8d5bc2c",
+    "text": "Planning to set up your laptop in a trendy Hongdae dessert café this Saturday? 🚫\nMany indie spots ban laptops on weekends, marked by a crossed‑out laptop icon.\nBig chains like Starbucks, Twosome Place, Hollys stay laptop‑friendly with plenty of outlets.\nEver been turned away? Save this for your Korea trip 📌\n\n📖 Open the Land in Korea link in our profile and search “Cafes as workspaces in Korea: unspoken rules of study cafes, franchise chains, and 'no-laptop' signs”.\n\n#KoreaTravel #SeoulTrip #CafeWork #TravelTips #FirstTimeKorea",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-22T20:20:49.913Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-22T13:28:58.774Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Cafes as workspaces in Korea: unspoken rules of study cafes, franchise chains, and 'no-laptop' signs",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: reddit: reaction failed – closing does not prompt comment, save, or share. Closing text: \"I’ve written more on this on the Land in Korea blog (link in the comments).\" | tumblr: reaction failed – closing does not prompt comment, save, or share. Closing text: \"Now you know when to pack your laptop or not.\"",
+      "failedPlatforms": [
+        "reddit",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "A",
+      "checkedAt": "2026-10-22T13:28:58.412Z"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-10-22T13:28:58.451Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
   }
 ]
