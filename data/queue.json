@@ -31949,5 +31949,35 @@
     "rejectedBy": "no-media",
     "rejectedAt": "2026-10-22T02:28:27.071Z",
     "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "b2a5ce28-2290-41aa-a922-f14aa314b35e",
+    "text": "Ever wonder why Korean servers never expect a tip?\n\nIn Korea, the menu price already includes service, so leaving cash can confuse staff.\n\nBookmark this – it’ll save you awkward moments.\n\n📖 Open the Land in Korea link in our profile and search “Tipping in Korea: why you shouldn't and what to do instead”.\n\n#KoreaTravel #SeoulTrip #TravelTips #FirstTimeInKorea #NoTipNeeded",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-22T16:54:51.633Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-22T03:26:28.870Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Tipping in Korea: why you shouldn't and what to do instead",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 맞으며 내용이 자연스럽고 사실에 크게 어긋나지 않아 여행 정보로 충분히 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-10-22T03:26:25.044Z",
+      "pattern": "A"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-10-22T03:26:28.791Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
   }
 ]
