@@ -31843,5 +31843,39 @@
     },
     "blogUrl": "https://landinkorea.com/posts/korea-opening-a-korean-bank-account-as-a-foreigner-and-why-your-arc-and-phone-number-come-first.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
     "verifyStatus": "passed"
+  },
+  {
+    "id": "c76495f8-d1dc-4d69-adc4-dad8231d05da",
+    "text": "Thinking you can grab a solo bowl of Korean stew?\nMost restaurants list “2인분부터” and will refuse a single order, so solo diners need a side or a “honbap” spot.\nSave this tip before you sit down.\n\n📖 Open the Land in Korea link in our profile and search “Eating alone in Korea: which restaurants refuse solo diners and where honbap works”.\n\n🎬 Video source: Pexels\n\n#KoreaTravel #SeoulTrip #Foodie #SoloTravel #Honbap\n\n🎵 🎵 Track: Melanie Ungar - What Is Love\nMusic provided by Jamendo (CC BY).",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1792628890681-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-22T15:32:29.873Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-22T00:29:03.664Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31892093/pexels-photo-31892093.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/29267692/12625266_2160_3840_60fps.mp4",
+    "videoAttribution": "Pexels",
+    "topic": "Eating alone in Korea: which restaurants refuse solo diners and where honbap works",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: facebook: hook failed - first line is a generic question \"Did you know many Korean eateries won’t serve solo diners?\" not a specific promise or named confusion. | tumblr: hook failed - first line states a rule rather than a specific promise or confusion \"Many Korean restaurants won’t serve you if you’re alone, because they post “2인분부터” (minimum two servings) on the menu.\"",
+      "failedPlatforms": [
+        "facebook",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "D",
+      "checkedAt": "2026-10-22T00:27:23.159Z"
+    }
   }
 ]
