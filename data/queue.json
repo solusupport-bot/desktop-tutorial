@@ -31877,5 +31877,40 @@
       "pattern": "D",
       "checkedAt": "2026-10-22T00:27:23.159Z"
     }
+  },
+  {
+    "id": "74627970-25de-4616-9a50-77c43743dcf7",
+    "text": "Trying to order from Baemin as soon as you land? There's a hidden step most miss.\nYou need a Korean mobile number for the SMS code, and a Korean card or Kakao Pay to pay; otherwise the order stalls.\nBookmark this before your first delivery.\n\n📖 Open the Land in Korea link in our profile and search “Food delivery apps in Korea: why signing up is harder than ordering”.\n\n#KoreaTravel #SeoulTrip #FoodDelivery #TravelTips #FirstTimeInKorea",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-22T06:05:42.762Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-22T01:26:20.749Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31663815/pexels-photo-31663815.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Food delivery apps in Korea: why signing up is harder than ordering",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: reddit: reaction failed – closing does not give a real reason to comment, save, or share.",
+      "failedPlatforms": [
+        "reddit"
+      ],
+      "model": "groq",
+      "pattern": "D",
+      "checkedAt": "2026-10-22T01:25:51.351Z"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-10-22T01:26:20.654Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
   }
 ]
