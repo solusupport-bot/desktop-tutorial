@@ -29754,7 +29754,8 @@
       "checkedAt": "2026-10-18T09:17:32.499Z",
       "pattern": "E"
     },
-    "subreddit": "koreatravel"
+    "subreddit": "koreatravel",
+    "verifyStatus": "passed"
   },
   {
     "id": "001749a2-e1c3-4f76-85d7-8dc71f909dee",
@@ -31126,5 +31127,721 @@
     "rejectedBy": "no-media",
     "rejectedAt": "2026-10-21T16:27:32.718Z",
     "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "9bc364cd-4aa3-45fd-8bda-0abb5656a4b7",
+    "text": "Most visitors waste time on their first day because they ignore one simple subway secret.\n\nAt busy stations like Jongno 3‑ga, picking the wrong exit can add a 10‑minute walk back to your destination.\n\nUse Naver or Kakao Map to see the exact exit number and even which subway car door to board.\n\nIf you’re unsure, follow the signs that show the transfer stairs – they’re placed right by the correct exit.\n\nWhat’s the longest walk you’ve had after exiting the wrong subway door in Seoul? Open the Land in Korea link in my profile.\n\n📖 Open the Land in Korea link in our profile and search “Seoul subway details nobody tells you: exit numbers, transfer walks, express trains, and the last train”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1792627762996-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1792627762996-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-10-22T02:59:10.502Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-22T00:10:00.825Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/40145615/pexels-photo-40145615.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Seoul subway details nobody tells you: exit numbers, transfer walks, express trains, and the last train",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: threads: hook failed because the first line is generic and does not name a specific confusion or make a concrete promise, \"Most visitors waste time on their first day because they ignore one simple subway secret.\" | bluesky: hook failed because the first line is generic and does not name a specific confusion or make a concrete promise, \"Most newcomers waste precious minutes on Seoul’s subway because they miss one simple detail.\" | mastodon: hook failed because the first line is generic and does not name a specific confusion or make a concrete promise, \"Most newcomers waste precious minutes on Seoul’s subway because they miss one simple detail.\"",
+      "failedPlatforms": [
+        "threads",
+        "bluesky",
+        "mastodon"
+      ],
+      "model": "groq",
+      "pattern": "A",
+      "checkedAt": "2026-10-22T00:09:22.939Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-22T00:10:00.675Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-seoul-subway-details-nobody-tells-you-exit-numbers-transfer-walks-express-trains-and-the-last-train.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "1b94ffdd-2c80-4837-ae34-84f091f4faf3",
+    "text": "Most first‑timers think any exit will do, but at Jongno 3‑ga the wrong exit adds a 10‑minute walk. \n1️⃣ Check Naver/Kakao Map for the exact exit number. \n2️⃣ Follow the transfer‑stairs signs – they point to the right exit. \n3️⃣ At stations like Gongdeok, longer corridors mean extra time, so plan accordingly. \n✅ Exit number = arrival time. \nWhat’s your biggest subway mishap? Save this for your trip.\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-seoul-subway-details-nobody-tells-you-exit-numbers-transfer-walks-express-trains-and-the-last-train.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1792627762996-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1792627762996-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-10-22T03:06:15.129Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-22T00:10:00.877Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/40145615/pexels-photo-40145615.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Seoul subway details nobody tells you: exit numbers, transfer walks, express trains, and the last train",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: threads: hook failed because the first line is generic and does not name a specific confusion or make a concrete promise, \"Most visitors waste time on their first day because they ignore one simple subway secret.\" | bluesky: hook failed because the first line is generic and does not name a specific confusion or make a concrete promise, \"Most newcomers waste precious minutes on Seoul’s subway because they miss one simple detail.\" | mastodon: hook failed because the first line is generic and does not name a specific confusion or make a concrete promise, \"Most newcomers waste precious minutes on Seoul’s subway because they miss one simple detail.\"",
+      "failedPlatforms": [
+        "threads",
+        "bluesky",
+        "mastodon"
+      ],
+      "model": "groq",
+      "pattern": "A",
+      "checkedAt": "2026-10-22T00:09:22.939Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-seoul-subway-details-nobody-tells-you-exit-numbers-transfer-walks-express-trains-and-the-last-train.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "a2ba9302-c252-4ae8-bc70-e2ed69263ae1",
+    "text": "Think any subway exit will get you where you need to be?\nAt stations like Jongno 3‑ga, the wrong exit can add a 10‑minute walk, but the right exit drops you right by the transfer stairs.\nSave this tip for your next Seoul adventure.\n\n📖 Open the Land in Korea link in our profile and search “Seoul subway details nobody tells you: exit numbers, transfer walks, express trains, and the last train”.\n\n#KoreaTravel #SeoulTrip #TravelTips #SubwayHack #VisitKorea",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-22T03:14:32.530Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-22T00:10:00.934Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/40145615/pexels-photo-40145615.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Seoul subway details nobody tells you: exit numbers, transfer walks, express trains, and the last train",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: threads: hook failed because the first line is generic and does not name a specific confusion or make a concrete promise, \"Most visitors waste time on their first day because they ignore one simple subway secret.\" | bluesky: hook failed because the first line is generic and does not name a specific confusion or make a concrete promise, \"Most newcomers waste precious minutes on Seoul’s subway because they miss one simple detail.\" | mastodon: hook failed because the first line is generic and does not name a specific confusion or make a concrete promise, \"Most newcomers waste precious minutes on Seoul’s subway because they miss one simple detail.\"",
+      "failedPlatforms": [
+        "threads",
+        "bluesky",
+        "mastodon"
+      ],
+      "model": "groq",
+      "pattern": "A",
+      "checkedAt": "2026-10-22T00:09:22.939Z"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-10-22T00:10:00.907Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "a5f6a69a-eb16-4f8b-a474-bb352d8f415d",
+    "text": "If you're navigating Seoul's subway for the first time, knowing which exit to take can save you minutes.\n\n- At Jongno 3‑ga, Exit 4 leaves you across a busy road; Exit 1 puts you right at the transfer stairs.\n- Gongdeok Station’s transfer corridor stretches over 300 m; using the recommended exit cuts walking time.\n- Naver and Kakao Map let you select the exact exit and even the optimal subway car door.\n\nAnyone else have a story about a wrong exit costing you time?\n\n📖 Full article: https://landinkorea.com/posts/korea-seoul-subway-details-nobody-tells-you-exit-numbers-transfer-walks-express-trains-and-the-last-train.html?utm_source=reddit&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": null,
+    "platforms": [
+      "reddit"
+    ],
+    "scheduledAt": "2026-10-22T05:02:11.630Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-22T00:10:00.973Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/40145615/pexels-photo-40145615.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Seoul subway details nobody tells you: exit numbers, transfer walks, express trains, and the last train",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: threads: hook failed because the first line is generic and does not name a specific confusion or make a concrete promise, \"Most visitors waste time on their first day because they ignore one simple subway secret.\" | bluesky: hook failed because the first line is generic and does not name a specific confusion or make a concrete promise, \"Most newcomers waste precious minutes on Seoul’s subway because they miss one simple detail.\" | mastodon: hook failed because the first line is generic and does not name a specific confusion or make a concrete promise, \"Most newcomers waste precious minutes on Seoul’s subway because they miss one simple detail.\"",
+      "failedPlatforms": [
+        "threads",
+        "bluesky",
+        "mastodon"
+      ],
+      "model": "groq",
+      "pattern": "A",
+      "checkedAt": "2026-10-22T00:09:22.939Z"
+    },
+    "subreddit": "koreatravel",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "46f385a3-02c8-40e6-86d4-ddb8c681cafe",
+    "text": "Most newcomers waste precious minutes on Seoul’s subway because they miss one simple detail.\n\nAt busy hubs like Jongno 3‑ga, picking the wrong exit can add a 10‑minute walk back to your target. #SeoulTrip\n\nUse Naver or Kakao Map – they show the exact exit number and even the optimal car door.\n\nIf signs seem unclear, follow the arrows that point directly to the transfer stairs; they’re placed by the correct exit.\n\nWhat’s the longest detour you’ve taken after a wrong subway exit? #TravelBlog",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1792627762996-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1792627762996-v0-0.jpg"
+    ],
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-10-22T03:29:28.227Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-22T00:10:01.013Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/40145615/pexels-photo-40145615.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Seoul subway details nobody tells you: exit numbers, transfer walks, express trains, and the last train",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: threads: hook failed because the first line is generic and does not name a specific confusion or make a concrete promise, \"Most visitors waste time on their first day because they ignore one simple subway secret.\" | bluesky: hook failed because the first line is generic and does not name a specific confusion or make a concrete promise, \"Most newcomers waste precious minutes on Seoul’s subway because they miss one simple detail.\" | mastodon: hook failed because the first line is generic and does not name a specific confusion or make a concrete promise, \"Most newcomers waste precious minutes on Seoul’s subway because they miss one simple detail.\"",
+      "failedPlatforms": [
+        "threads",
+        "bluesky",
+        "mastodon"
+      ],
+      "model": "groq",
+      "pattern": "A",
+      "checkedAt": "2026-10-22T00:09:22.939Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-22T00:10:00.991Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-seoul-subway-details-nobody-tells-you-exit-numbers-transfer-walks-express-trains-and-the-last-train.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "dd909aed-3cad-4a27-a9ba-2e437eb26704",
+    "text": "Most newcomers waste precious minutes on Seoul’s subway because they miss one simple detail.\n\nAt busy hubs like Jongno 3‑ga, picking the wrong exit can add a 10‑minute walk back to your target.\n\nUse Naver or Kakao Map – they show the exact exit number and even the optimal car door.\n\nIf signs seem unclear, follow the arrows that point directly to the transfer stairs; they’re placed by the correct exit.\n\nWhat’s the longest detour you’ve taken after a wrong subway exit? #KoreaTravel #Seoul #TravelTips",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1792627762996-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1792627762996-v0-0.jpg"
+    ],
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-10-22T04:03:02.061Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-22T00:10:01.048Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/40145615/pexels-photo-40145615.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Seoul subway details nobody tells you: exit numbers, transfer walks, express trains, and the last train",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: threads: hook failed because the first line is generic and does not name a specific confusion or make a concrete promise, \"Most visitors waste time on their first day because they ignore one simple subway secret.\" | bluesky: hook failed because the first line is generic and does not name a specific confusion or make a concrete promise, \"Most newcomers waste precious minutes on Seoul’s subway because they miss one simple detail.\" | mastodon: hook failed because the first line is generic and does not name a specific confusion or make a concrete promise, \"Most newcomers waste precious minutes on Seoul’s subway because they miss one simple detail.\"",
+      "failedPlatforms": [
+        "threads",
+        "bluesky",
+        "mastodon"
+      ],
+      "model": "groq",
+      "pattern": "A",
+      "checkedAt": "2026-10-22T00:09:22.939Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-22T00:10:01.032Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-seoul-subway-details-nobody-tells-you-exit-numbers-transfer-walks-express-trains-and-the-last-train.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "3d43be07-44c8-4b3e-9c2f-8e4307e4eeaf",
+    "text": "Most first‑time visitors think any subway exit works, but at Jongno 3‑ga the wrong exit adds a 10‑minute walk.\n1. Check Naver/Kakao Map for the exact exit and which car door to board.\n2. Follow the transfer‑stairs signs – they’re placed by the correct exit.\n3. At stations like Gongdeok, longer corridors mean you should pick the exit that leads straight to your line.\nKeep this in mind to save time on your Seoul journey.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1792627762996-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1792627762996-v0-0.jpg"
+    ],
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-10-22T06:02:17.858Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-22T00:10:01.081Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/40145615/pexels-photo-40145615.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Seoul subway details nobody tells you: exit numbers, transfer walks, express trains, and the last train",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: threads: hook failed because the first line is generic and does not name a specific confusion or make a concrete promise, \"Most visitors waste time on their first day because they ignore one simple subway secret.\" | bluesky: hook failed because the first line is generic and does not name a specific confusion or make a concrete promise, \"Most newcomers waste precious minutes on Seoul’s subway because they miss one simple detail.\" | mastodon: hook failed because the first line is generic and does not name a specific confusion or make a concrete promise, \"Most newcomers waste precious minutes on Seoul’s subway because they miss one simple detail.\"",
+      "failedPlatforms": [
+        "threads",
+        "bluesky",
+        "mastodon"
+      ],
+      "model": "groq",
+      "pattern": "A",
+      "checkedAt": "2026-10-22T00:09:22.939Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-seoul-subway-details-nobody-tells-you-exit-numbers-transfer-walks-express-trains-and-the-last-train.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "062e91be-3259-4146-bdd0-ffe44dd17741",
+    "text": "Most first‑time renters miss one critical step before moving into a Korean lease.\n\nSigning a jeonse for a guesthouse in Hong‑dae without extra checks can cost you your entire deposit.\n\nRegister the lease and move‑in date at the local district office to secure priority on the deposit.\n\nAlways verify the landlord’s name matches the property registry and watch for hidden mortgages.\n\nDid you or someone you know encounter a jeonse issue? Share your story below. Open the Land in Korea link in the profile.\n\n📖 Open the Land in Korea link in our profile and search “Short-term vs. long-term housing in Korea: guesthouse, goshiwon, officetel, and the deposit system”.",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-10-22T16:09:44.094Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-22T00:15:16.753Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Short-term vs. long-term housing in Korea: guesthouse, goshiwon, officetel, and the deposit system",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: instagram: hook failed because the first line is a generic question rather than a specific promise or mistake, \"Thinking of a jeonse lease for your first Korean home?\" | reddit: reaction failed because the closing does not include a clear call to comment, save, or share, \"Following these steps saved a friend from a deposit‑return scam last year. Hope it helps!\" | tumblr: reaction failed because the closing lacks a specific engagement prompt, \"Stay safe and keep your money.\"",
+      "failedPlatforms": [
+        "instagram",
+        "reddit",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "E",
+      "checkedAt": "2026-10-22T00:15:16.652Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-short-term-vs-long-term-housing-in-korea-guesthouse-goshiwon-officetel-and-the-deposit-system.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "8d168520-4f9e-46ca-bd6e-ccef3467025a",
+    "text": "Signing a jeonse for a guesthouse in Hong‑dae? Without proper checks you could lose the whole deposit.\n\n1️⃣ Register lease & move‑in date at the district office.\n2️⃣ Check the property’s registry for existing mortgages.\n3️⃣ Use a licensed real‑estate agent and confirm the landlord’s name matches the registry.\n4️⃣ Agents charge a commission set by law, split between tenant and landlord.\n\n✅ Do these steps before signing any jeonse.\nSend this to a friend going to Korea for a lease.\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-short-term-vs-long-term-housing-in-korea-guesthouse-goshiwon-officetel-and-the-deposit-system.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": null,
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-10-22T16:15:39.584Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-22T00:15:16.867Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Short-term vs. long-term housing in Korea: guesthouse, goshiwon, officetel, and the deposit system",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: instagram: hook failed because the first line is a generic question rather than a specific promise or mistake, \"Thinking of a jeonse lease for your first Korean home?\" | reddit: reaction failed because the closing does not include a clear call to comment, save, or share, \"Following these steps saved a friend from a deposit‑return scam last year. Hope it helps!\" | tumblr: reaction failed because the closing lacks a specific engagement prompt, \"Stay safe and keep your money.\"",
+      "failedPlatforms": [
+        "instagram",
+        "reddit",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "E",
+      "checkedAt": "2026-10-22T00:15:16.652Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-short-term-vs-long-term-housing-in-korea-guesthouse-goshiwon-officetel-and-the-deposit-system.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "52d5a543-2f5a-4e0a-ae24-e682c1e5ec57",
+    "text": "Thinking of a jeonse lease for your first Korean home?\nIf you skip registering the lease and verifying the landlord’s name, you risk losing the whole deposit.\nSave this checklist before you sign.\n\n📖 Open the Land in Korea link in our profile and search “Short-term vs. long-term housing in Korea: guesthouse, goshiwon, officetel, and the deposit system”.\n\n#KoreaTravel #SeoulTrip #FirstTimeInKorea #RentalTips #TravelAdvice",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-22T16:22:08.227Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-22T00:15:16.978Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Short-term vs. long-term housing in Korea: guesthouse, goshiwon, officetel, and the deposit system",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: instagram: hook failed because the first line is a generic question rather than a specific promise or mistake, \"Thinking of a jeonse lease for your first Korean home?\" | reddit: reaction failed because the closing does not include a clear call to comment, save, or share, \"Following these steps saved a friend from a deposit‑return scam last year. Hope it helps!\" | tumblr: reaction failed because the closing lacks a specific engagement prompt, \"Stay safe and keep your money.\"",
+      "failedPlatforms": [
+        "instagram",
+        "reddit",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "E",
+      "checkedAt": "2026-10-22T00:15:16.652Z"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-10-22T00:15:16.904Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "162c0784-36d5-4ae7-a176-c3d3fa5b8593",
+    "text": "If you're planning a jeonse lease—especially for a guesthouse in Hong‑dae—here’s how to protect your deposit:\n\n* Register the lease and your move‑in date at the local district office; this gives you priority on the deposit if the landlord defaults.\n* Look up the property’s official registry (등기부등본) to see any existing mortgages and confirm the landlord’s name matches.\n* Use a licensed real‑estate agent; they’re required to follow the legal commission scale and can help verify the landlord.\n\nFollowing these steps saved a friend from a deposit‑return scam last year. Hope it helps!\n\n📖 Full article: https://landinkorea.com/posts/korea-short-term-vs-long-term-housing-in-korea-guesthouse-goshiwon-officetel-and-the-deposit-system.html?utm_source=reddit&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": null,
+    "platforms": [
+      "reddit"
+    ],
+    "scheduledAt": "2026-10-22T18:07:39.910Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-22T00:15:17.031Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Short-term vs. long-term housing in Korea: guesthouse, goshiwon, officetel, and the deposit system",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: instagram: hook failed because the first line is a generic question rather than a specific promise or mistake, \"Thinking of a jeonse lease for your first Korean home?\" | reddit: reaction failed because the closing does not include a clear call to comment, save, or share, \"Following these steps saved a friend from a deposit‑return scam last year. Hope it helps!\" | tumblr: reaction failed because the closing lacks a specific engagement prompt, \"Stay safe and keep your money.\"",
+      "failedPlatforms": [
+        "instagram",
+        "reddit",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "E",
+      "checkedAt": "2026-10-22T00:15:16.652Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-22T00:15:17.004Z",
+    "subreddit": "expats"
+  },
+  {
+    "id": "6337a537-31ef-4b2b-9ed9-e3b11be2df6c",
+    "text": "Most first‑time renters overlook a vital step before signing a Korean lease.\n\nSigning a jeonse for a guesthouse in Hong‑dae without extra checks can wipe out your deposit.\n\nRegister the lease and move‑in date at the local district office to lock in priority on the deposit.\n\nAlways cross‑check the landlord’s name against the property registry and watch for hidden mortgages.\n\nHave you ever faced a jeonse problem? Share below. #TravelBlog #KoreaTravel",
+    "imageUrl": null,
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-10-22T16:36:52.633Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-22T00:15:17.104Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Short-term vs. long-term housing in Korea: guesthouse, goshiwon, officetel, and the deposit system",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: instagram: hook failed because the first line is a generic question rather than a specific promise or mistake, \"Thinking of a jeonse lease for your first Korean home?\" | reddit: reaction failed because the closing does not include a clear call to comment, save, or share, \"Following these steps saved a friend from a deposit‑return scam last year. Hope it helps!\" | tumblr: reaction failed because the closing lacks a specific engagement prompt, \"Stay safe and keep your money.\"",
+      "failedPlatforms": [
+        "instagram",
+        "reddit",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "E",
+      "checkedAt": "2026-10-22T00:15:16.652Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-short-term-vs-long-term-housing-in-korea-guesthouse-goshiwon-officetel-and-the-deposit-system.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "2b0624ac-c4af-4b3a-a428-915c54248478",
+    "text": "Most first‑time renters overlook a vital step before signing a Korean lease.\n\nIf you sign a jeonse for a guesthouse in Hong‑dae without extra verification, you could lose the entire deposit.\n\nSecure your money by registering the lease and move‑in date at the local district office; this gives you priority claim on the deposit.\n\nDouble‑check that the landlord’s name matches the official property registry and ensure no hidden mortgages are attached.\n\nDid you or someone you know encounter a jeonse scam? How did you resolve it? #KoreaTravel #TravelTips #Seoul",
+    "imageUrl": null,
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-10-22T17:08:53.049Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-22T00:15:17.148Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Short-term vs. long-term housing in Korea: guesthouse, goshiwon, officetel, and the deposit system",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: instagram: hook failed because the first line is a generic question rather than a specific promise or mistake, \"Thinking of a jeonse lease for your first Korean home?\" | reddit: reaction failed because the closing does not include a clear call to comment, save, or share, \"Following these steps saved a friend from a deposit‑return scam last year. Hope it helps!\" | tumblr: reaction failed because the closing lacks a specific engagement prompt, \"Stay safe and keep your money.\"",
+      "failedPlatforms": [
+        "instagram",
+        "reddit",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "E",
+      "checkedAt": "2026-10-22T00:15:16.652Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-short-term-vs-long-term-housing-in-korea-guesthouse-goshiwon-officetel-and-the-deposit-system.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "526d113c-4d91-4b2f-9246-155ebf3a5306",
+    "text": "Signing a jeonse for a guesthouse in Hong‑dae? Skipping lease registration and landlord verification can cost you the whole deposit.\n1. Register the lease and move‑in date at the district office to protect deposit priority.\n2. Check the property’s registry for mortgages and confirm the landlord’s name.\n3. Use a licensed agent; commissions follow a legal scale.\nStay safe and keep your money.",
+    "imageUrl": null,
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-10-22T19:11:38.708Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-22T00:15:17.189Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Short-term vs. long-term housing in Korea: guesthouse, goshiwon, officetel, and the deposit system",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: instagram: hook failed because the first line is a generic question rather than a specific promise or mistake, \"Thinking of a jeonse lease for your first Korean home?\" | reddit: reaction failed because the closing does not include a clear call to comment, save, or share, \"Following these steps saved a friend from a deposit‑return scam last year. Hope it helps!\" | tumblr: reaction failed because the closing lacks a specific engagement prompt, \"Stay safe and keep your money.\"",
+      "failedPlatforms": [
+        "instagram",
+        "reddit",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "E",
+      "checkedAt": "2026-10-22T00:15:16.652Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-22T00:15:17.164Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-short-term-vs-long-term-housing-in-korea-guesthouse-goshiwon-officetel-and-the-deposit-system.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "9a398083-c165-40c2-a52c-f050f9d7cb9b",
+    "text": "Just landed at Incheon and headed to a bank? Most newbies try to open an account immediately—and hit a wall.\n\nIn Seoul, banks won’t give you a full account until you have your ARC (Alien Registration Card) from the immigration office in Hongdae.\n\nVisit a foreign‑customer desk near university districts; bring passport, ARC receipt, proof of address, and your Korean phone.\n\nBeware of passport‑only accounts: they limit transfers and block overseas remittance until your ARC arrives.\n\nDid you discover this the hard way? What paperwork surprised you most? Open the Land in Korea link in the profile.\n\n📖 Open the Land in Korea link in our profile and search “Opening a Korean bank account as a foreigner — and why your ARC and phone number come first”.",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-10-23T00:04:13.015Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-22T00:18:53.069Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Opening a Korean bank account as a foreigner — and why your ARC and phone number come first",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연하며 사실도 크게 문제되지 않아 여행자에게 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-10-22T00:18:33.574Z",
+      "pattern": "A"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-opening-a-korean-bank-account-as-a-foreigner-and-why-your-arc-and-phone-number-come-first.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "e34d5cd9-8e3c-41a4-a5af-1618fb4ec28b",
+    "text": "Think you can open a Korean bank account the moment you step off the plane? You actually need an ARC first, plus a Korean phone number. 📌\n\n1️⃣ Get your Alien Registration Card (ARC) at the immigration office – often in Hongdae or near your university.\n2️⃣ Register a Korean mobile number in your name; it’s required for online banking verification.\n3️⃣ Bring passport, ARC receipt, proof of address or employment, and your phone to a foreign‑customer desk (found near university districts, industrial areas, and central Seoul).\n4️⃣ Passport‑only accounts exist but block overseas remittance and have low transfer caps.\n\n✅ Remember: ARC + personal phone = full banking.\n\nWhat surprised you most about the process? Save this for your trip!\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-opening-a-korean-bank-account-as-a-foreigner-and-why-your-arc-and-phone-number-come-first.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": null,
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-10-23T00:11:31.124Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-22T00:18:54.019Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Opening a Korean bank account as a foreigner — and why your ARC and phone number come first",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연하며 사실도 크게 문제되지 않아 여행자에게 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-10-22T00:18:33.574Z",
+      "pattern": "A"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-opening-a-korean-bank-account-as-a-foreigner-and-why-your-arc-and-phone-number-come-first.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "b2443b1a-1514-4814-aca0-12f4bfb72863",
+    "text": "Ready to open a Korean bank account right after landing?\nYou’ll need your Alien Registration Card (ARC) and a Korean‑registered phone number before a full account works.\nSave this tip before you book your flight!\n\n📖 Open the Land in Korea link in our profile and search “Opening a Korean bank account as a foreigner — and why your ARC and phone number come first”.\n\n#KoreaTravel #SeoulTrip #ExpatsInKorea #BankingTips #TravelAdvice",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-23T00:13:14.950Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-22T00:18:54.424Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Opening a Korean bank account as a foreigner — and why your ARC and phone number come first",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연하며 사실도 크게 문제되지 않아 여행자에게 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-10-22T00:18:33.574Z",
+      "pattern": "A"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-10-22T00:18:54.331Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "71e25617-303a-41c2-bb9e-6dc028f39a77",
+    "text": "As someone who recently moved to Seoul, I figured out the exact steps to get a usable Korean bank account.\n\nFirst, obtain your Alien Registration Card (ARC) – you can apply at the immigration office in Hongdae or the district office near your university. Without it, banks only offer a limited passport‑only account that blocks overseas remittance.\n\nSecond, register a Korean mobile number in your own name; online banking verification requires it.\n\nThird, head to a foreign‑customer desk (most are located near university areas, industrial zones, and central Seoul). Bring your passport, ARC receipt, proof of address or employment, and the Korean phone you just registered.\n\nDoing it in this order saves you weeks of back‑and‑forth and avoids the frustrating transfer caps of passport‑only accounts.\n\nAnyone else run into unexpected paperwork? Happy to share more details!\n\n📖 Full article: https://landinkorea.com/posts/korea-opening-a-korean-bank-account-as-a-foreigner-and-why-your-arc-and-phone-number-come-first.html?utm_source=reddit&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": null,
+    "platforms": [
+      "reddit"
+    ],
+    "scheduledAt": "2026-10-23T02:03:02.304Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-22T00:18:54.611Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Opening a Korean bank account as a foreigner — and why your ARC and phone number come first",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연하며 사실도 크게 문제되지 않아 여행자에게 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-10-22T00:18:33.574Z",
+      "pattern": "A"
+    },
+    "subreddit": "expats",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "de15f8a6-3701-4856-941b-09cf34961997",
+    "text": "Just stepped off the Incheon plane and thinking about opening a bank account? Most newcomers jump the gun and hit a wall.\n\nIn Seoul, banks won’t grant a full account until you have your Alien Registration Card (ARC) from the immigration office in Hongdae.\n\nHead to a foreign‑customer desk near university districts; bring passport, ARC receipt, proof of address or employment, and your Korean‑registered phone.\n\nBeware of passport‑only accounts – they cap transfers and block overseas remittance until your ARC arrives.\n\nDid this catch you off guard? What document surprised you most? #KoreaTravel #FirstTimeInKorea",
+    "imageUrl": null,
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-10-23T00:37:54.750Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-22T00:18:54.690Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Opening a Korean bank account as a foreigner — and why your ARC and phone number come first",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연하며 사실도 크게 문제되지 않아 여행자에게 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-10-22T00:18:33.574Z",
+      "pattern": "A"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-opening-a-korean-bank-account-as-a-foreigner-and-why-your-arc-and-phone-number-come-first.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "c1436abb-7b83-46d8-9fa6-b01bb5e0f755",
+    "text": "Just got off the Incheon flight and already planning a visit to the nearest bank? Most first‑time residents try to open an account immediately and end up stuck.\n\nIn Seoul, a full bank account won’t be issued until you have your Alien Registration Card (ARC), which you obtain at the immigration office in Hongdae or the district office near your school.\n\nGo to a foreign‑customer desk – they’re common around university districts, industrial areas, and central Seoul. Pack your passport, ARC receipt, proof of address or employment, and the Korean phone you’ve registered.\n\nWatch out for passport‑only accounts; they limit transfer amounts and block overseas remittance until your ARC is on file, turning a simple transaction into a hassle.\n\nDid you hit this roadblock? Which document was the biggest surprise? #TravelBlog #KoreaTravel #Seoul #FirstTimeInKorea",
+    "imageUrl": null,
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-10-23T01:06:09.600Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-22T00:18:54.770Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Opening a Korean bank account as a foreigner — and why your ARC and phone number come first",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연하며 사실도 크게 문제되지 않아 여행자에게 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-10-22T00:18:33.574Z",
+      "pattern": "A"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-opening-a-korean-bank-account-as-a-foreigner-and-why-your-arc-and-phone-number-come-first.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
+  },
+  {
+    "id": "e9e8ffbf-3aa6-485c-8a65-0f930ebdb000",
+    "text": "Think you can open a Korean bank account the moment you land? You actually need an ARC and a Korean‑registered phone number first.\n1. Get your Alien Registration Card (ARC) at the immigration office – many find it in Hongdae or near university districts.\n2. Register a Korean mobile number in your name; it’s required for online banking verification.\n3. Visit a foreign‑customer desk (common near universities, industrial zones, central Seoul) with passport, ARC receipt, proof of address/employment, and your phone.\nKeep this checklist handy for a smooth banking start.",
+    "imageUrl": null,
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-10-23T03:04:20.346Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-22T00:18:54.855Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Opening a Korean bank account as a foreigner — and why your ARC and phone number come first",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연하며 사실도 크게 문제되지 않아 여행자에게 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-10-22T00:18:33.574Z",
+      "pattern": "A"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-opening-a-korean-bank-account-as-a-foreigner-and-why-your-arc-and-phone-number-come-first.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
+    "verifyStatus": "passed"
   }
 ]
