@@ -31,15 +31,15 @@
     },
     "tumblr": {
       "attempts": [
-        "2026-10-18T12:25:27.199Z"
+        "2026-10-22T09:14:11.899Z"
       ],
       "successes": [
-        "2026-10-18T12:25:27.199Z"
+        "2026-10-22T09:14:11.899Z"
       ],
       "consecutiveFailures": 0,
       "blockedUntil": null,
-      "lastAttemptAt": "2026-10-18T12:25:27.199Z",
-      "lastSuccessAt": "2026-10-18T12:25:27.199Z"
+      "lastAttemptAt": "2026-10-22T09:14:11.899Z",
+      "lastSuccessAt": "2026-10-22T09:14:11.899Z"
     },
     "pinterest": {
       "attempts": [
