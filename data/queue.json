@@ -32287,5 +32287,40 @@
     "rejectedBy": "no-media",
     "rejectedAt": "2026-10-22T12:12:54.524Z",
     "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "3b46178f-f26f-41d0-af57-4b971370d9fb",
+    "text": "Stuck at a Seoul coffee kiosk without a phrasebook?\nJust learn the 24 Hangul letters – you can read 아메리카노, 치즈, 라면 instantly.\nWhat’s the most confusing Korean menu word you’ve seen? Save this for your Korea trip.\n\n📖 Open the Land in Korea link in our profile and search “Learning to read Hangul in a weekend — and why romanized signs still confuse you”.\n\n#KoreaTravel #SeoulTrip #Hangul #TravelTips #Foodie",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-22T16:22:52.529Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-22T12:19:56.112Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/32028720/pexels-photo-32028720.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Learning to read Hangul in a weekend — and why romanized signs still confuse you",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: tumblr: reaction failed – closing does not prompt comment, save, or share, it only says “Keep this guide handy for your next visit.”",
+      "failedPlatforms": [
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "A",
+      "checkedAt": "2026-10-22T12:18:49.449Z"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-10-22T12:19:55.998Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
   }
 ]
