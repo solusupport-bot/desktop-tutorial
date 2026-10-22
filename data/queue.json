@@ -31979,5 +31979,36 @@
     "rejectedBy": "no-media",
     "rejectedAt": "2026-10-22T03:26:28.791Z",
     "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "82fa7f50-a7a3-48d7-923d-291539b1e3bf",
+    "text": "Want to dodge the cherry‑blossom crowds?\nIn Korea the blooms travel north – they start in Jeju, Busan & Changwon late March and reach Seoul in early April.\nSave this tip for your itinerary.\n\n📖 Open the Land in Korea link in our profile and search “Timing cherry blossoms and fall foliage in Korea without hitting peak crowds”.\n\n#KoreaTravel #SeoulTrip #CherryBlossom #FallFoliage #TravelTips",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-22T13:44:47.650Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-22T05:27:30.545Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/40149756/pexels-photo-40149756.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Timing cherry blossoms and fall foliage in Korea without hitting peak crowds",
+    "qualityGate": {
+      "pass": false,
+      "reason": "캡션이 벚꽃 시기만 다루고 가을 단풍 내용이 없어 주제와 완전히 일치하지 않는다.",
+      "model": "groq",
+      "checkedAt": "2026-10-22T05:26:11.147Z"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-10-22T05:27:29.780Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
   }
 ]
