@@ -32322,5 +32322,39 @@
     "rejectedBy": "no-media",
     "rejectedAt": "2026-10-22T12:19:55.998Z",
     "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "e480b5a5-6bb8-4442-8f78-5aad52a3f0e7",
+    "text": "Don’t rush to a university hospital for a sore throat at Seoul Station.\n\nGo to a neighborhood clinic (look for 의원 signs) – walk‑ins are fast and cheap.\n\nWhat's the weirdest medical mix‑up you’ve had abroad? Save this for your Korea trip.\n\n📖 Open the Land in Korea link in our profile and search “Hospital vs. clinic vs. pharmacy in Korea: where to actually go when you get sick”.\n\n#KoreaTravel #SeoulTrip #TravelTips #FirstTimeInKorea #HealthInKorea",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-22T20:26:31.716Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-22T12:28:44.159Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Hospital vs. clinic vs. pharmacy in Korea: where to actually go when you get sick",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: reddit: reaction missing – no call to comment/save/share, only a hopeful statement | tumblr: reaction missing – no engagement prompt, just a reminder",
+      "failedPlatforms": [
+        "reddit",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "A",
+      "checkedAt": "2026-10-22T12:28:43.751Z"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-10-22T12:28:43.888Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
   }
 ]
