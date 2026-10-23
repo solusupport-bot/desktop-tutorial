@@ -1,11 +1,6 @@
 {
-  "lastIndex": 17,
+  "lastIndex": 18,
   "history": [
-    {
-      "index": 4,
-      "topic": "Airport transfer options",
-      "at": "2026-08-29T06:55:46.748Z"
-    },
     {
       "index": 5,
       "topic": "First-timer etiquette & common mistakes",
@@ -1000,6 +995,11 @@
       "index": 17,
       "topic": "Luggage storage & forwarding services",
       "at": "2026-10-23T14:11:17.077Z"
+    },
+    {
+      "index": 18,
+      "topic": "KTX vs. SRT vs. intercity bus for long-distance travel",
+      "at": "2026-10-23T15:24:28.837Z"
     }
   ],
   "recentImageUrls": [
