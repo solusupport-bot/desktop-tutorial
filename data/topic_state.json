@@ -1,16 +1,6 @@
 {
-  "lastIndex": 42,
+  "lastIndex": 44,
   "history": [
-    {
-      "index": 8,
-      "topic": "Useful travel apps",
-      "at": "2026-08-27T05:54:55.230Z"
-    },
-    {
-      "index": 9,
-      "topic": "Convenience store hacks",
-      "at": "2026-08-27T05:54:55.881Z"
-    },
     {
       "index": 10,
       "topic": "Seasonal packing & weather tips",
@@ -1000,6 +990,16 @@
       "index": 42,
       "topic": "Cafes as workspaces in Korea: unspoken rules of study cafes, franchise chains, and 'no-laptop' signs",
       "at": "2026-10-22T13:24:59.412Z"
+    },
+    {
+      "index": 43,
+      "topic": "Bus travel inside Korean cities: color codes, tag-off transfers, and why you must flag the bus",
+      "at": "2026-10-22T14:24:41.907Z"
+    },
+    {
+      "index": 44,
+      "topic": "Reserving restaurants and joining waitlists in Korea: Catch Table, Naver booking, and the Tabling tablet",
+      "at": "2026-10-23T02:27:04.564Z"
     }
   ],
   "recentImageUrls": [
@@ -1645,7 +1645,8 @@
     "https://images.pexels.com/photos/36873984/pexels-photo-36873984.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://images.pexels.com/photos/40149756/pexels-photo-40149756.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://images.pexels.com/photos/237718/pexels-photo-237718.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://images.pexels.com/photos/32028720/pexels-photo-32028720.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "https://images.pexels.com/photos/32028720/pexels-photo-32028720.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/32073526/pexels-photo-32073526.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
   ],
   "recentVideoUrls": [
     "https://videos.pexels.com/video-files/19577787/19577787-uhd_2160_3840_30fps.mp4",

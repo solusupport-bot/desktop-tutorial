@@ -32412,5 +32412,35 @@
     "rejectedBy": "no-media",
     "rejectedAt": "2026-10-22T13:28:58.451Z",
     "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "5b7a8934-fbbf-4d0a-961f-32d59b9ec8d7",
+    "text": "Trying to call a Seoul eatery with your foreign phone? That won’t get you a table.\n\nUse Naver Place or Catch Table to reserve, but both apps need a Korean phone number.\n\nWhat’s the most surprising reservation trick you discovered? Save this for your Korea trip.\n\n📖 Open the Land in Korea link in our profile and search “Reserving restaurants and joining waitlists in Korea: Catch Table, Naver booking, and the Tabling tablet”.\n\n#KoreaTravel #SeoulFood #TravelTips #FirstTimeInKorea #RestaurantReservations",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-23T14:47:07.365Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-23T02:29:47.750Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Reserving restaurants and joining waitlists in Korea: Catch Table, Naver booking, and the Tabling tablet",
+    "qualityGate": {
+      "pass": false,
+      "reason": "로컬 AI가 주제·문장·주장 품질 문제를 감지함",
+      "model": "ollaya/laya:multilingual",
+      "confidence": 0.8038,
+      "checkedAt": "2026-10-23T02:29:47.685Z"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-10-23T02:29:47.697Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
   }
 ]
