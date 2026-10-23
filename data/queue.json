@@ -32465,5 +32465,36 @@
     "rejectedBy": "no-media",
     "rejectedAt": "2026-10-23T02:29:47.697Z",
     "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "d6c5e243-8e2a-4f74-b06c-04137daecd6b",
+    "text": "Planning a day trip from Seoul to Chuncheon? You’ll be shocked by which train is actually faster.\nThe ITX‑Saemaeul gets you there in ~1h 15m, beating the KTX once you add the extra transfer.\nWhat’s your favorite off‑beat day‑trip town?\n\n📖 Open the Land in Korea link in our profile and search “Day-tripping from Seoul by regular train: Mugunghwa, ITX-Saemaeul, and the Gyeongui-Jungang line”.\n\n#KoreaTravel #SeoulTrip #TravelTips #DayTrip #ExploreKorea",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-23T09:20:02.549Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-23T04:27:52.860Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.unsplash.com/photo-1788572276239-7eb82f6ae47c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA2MTc1fDB8MXxzZWFyY2h8Mnx8c291dGglMjBrb3JlYSUyMGtvcmVhJTIwdHJhaW4lMjBwbGF0Zm9ybSUyMHN0YXRpb258ZW58MHwwfHx8MTc5MjcyOTQ5NHww&ixlib=rb-4.1.0&q=80&w=1080#unsplash=kpKQNOFHjSk"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Day-tripping from Seoul by regular train: Mugunghwa, ITX-Saemaeul, and the Gyeongui-Jungang line",
+    "qualityGate": {
+      "pass": false,
+      "reason": "주제에 포함된 경의중앙선 언급이 없고 내용이 춘천 중심으로 제한돼 있어 주제와 완전히 맞지 않음",
+      "model": "groq",
+      "checkedAt": "2026-10-23T04:26:52.230Z"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-10-23T04:27:52.774Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
   }
 ]
