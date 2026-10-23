@@ -15,15 +15,17 @@
     },
     "threads": {
       "attempts": [
-        "2026-10-23T02:26:13.748Z"
+        "2026-10-23T02:26:13.748Z",
+        "2026-10-23T05:53:51.091Z"
       ],
       "successes": [
-        "2026-10-23T02:26:13.748Z"
+        "2026-10-23T02:26:13.748Z",
+        "2026-10-23T05:53:51.091Z"
       ],
       "consecutiveFailures": 0,
       "blockedUntil": null,
-      "lastAttemptAt": "2026-10-23T02:26:13.748Z",
-      "lastSuccessAt": "2026-10-23T02:26:13.748Z"
+      "lastAttemptAt": "2026-10-23T05:53:51.091Z",
+      "lastSuccessAt": "2026-10-23T05:53:51.091Z"
     },
     "tumblr": {
       "attempts": [
