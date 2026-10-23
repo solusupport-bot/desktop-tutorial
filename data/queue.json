@@ -31682,7 +31682,7 @@
       "threads"
     ],
     "scheduledAt": "2026-10-23T00:04:13.015Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-10-22T00:18:53.069Z",
     "approved": true,
