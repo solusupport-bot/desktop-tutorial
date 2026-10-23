@@ -31458,8 +31458,12 @@
       "facebook"
     ],
     "scheduledAt": "2026-10-22T16:15:39.584Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "1288453561012463_122126365245446391"
+      }
+    },
     "createdAt": "2026-10-22T00:15:16.867Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -31482,7 +31486,8 @@
       "checkedAt": "2026-10-22T00:15:16.652Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-short-term-vs-long-term-housing-in-korea-guesthouse-goshiwon-officetel-and-the-deposit-system.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-10-23T04:24:36.730Z"
   },
   {
     "id": "52d5a543-2f5a-4e0a-ae24-e682c1e5ec57",
@@ -31794,8 +31799,13 @@
       "bluesky"
     ],
     "scheduledAt": "2026-10-23T00:37:54.750Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3myjdhvm47y2i",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3myjdhvm47y2i"
+      }
+    },
     "createdAt": "2026-10-22T00:18:54.690Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -31813,7 +31823,8 @@
       "pattern": "A"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-opening-a-korean-bank-account-as-a-foreigner-and-why-your-arc-and-phone-number-come-first.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-10-23T04:24:39.254Z"
   },
   {
     "id": "c1436abb-7b83-46d8-9fa6-b01bb5e0f755",
@@ -31823,8 +31834,13 @@
       "mastodon"
     ],
     "scheduledAt": "2026-10-23T01:06:09.600Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "mastodon": {
+        "id": "117488319238240128",
+        "url": "https://mastodon.social/@landinkorea/117488319238240128"
+      }
+    },
     "createdAt": "2026-10-22T00:18:54.770Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -31842,7 +31858,8 @@
       "pattern": "A"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-opening-a-korean-bank-account-as-a-foreigner-and-why-your-arc-and-phone-number-come-first.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-10-23T04:24:43.366Z"
   },
   {
     "id": "e9e8ffbf-3aa6-485c-8a65-0f930ebdb000",
@@ -31852,8 +31869,13 @@
       "tumblr"
     ],
     "scheduledAt": "2026-10-23T03:04:20.346Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "tumblr": {
+        "id": "831237111548166144",
+        "url": "https://landinkorea.tumblr.com/post/831237111548166144"
+      }
+    },
     "createdAt": "2026-10-22T00:18:54.855Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -31871,7 +31893,8 @@
       "pattern": "A"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-opening-a-korean-bank-account-as-a-foreigner-and-why-your-arc-and-phone-number-come-first.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-10-23T04:24:44.142Z"
   },
   {
     "id": "c76495f8-d1dc-4d69-adc4-dad8231d05da",
