@@ -31716,8 +31716,12 @@
       "facebook"
     ],
     "scheduledAt": "2026-10-23T00:11:31.124Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "1288453561012463_122126383773446391"
+      }
+    },
     "createdAt": "2026-10-22T00:18:54.019Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -31735,7 +31739,8 @@
       "pattern": "A"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-opening-a-korean-bank-account-as-a-foreigner-and-why-your-arc-and-phone-number-come-first.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
-    "verifyStatus": "passed"
+    "verifyStatus": "passed",
+    "processedAt": "2026-10-23T07:34:42.802Z"
   },
   {
     "id": "b2443b1a-1514-4814-aca0-12f4bfb72863",
