@@ -32538,5 +32538,38 @@
     "rejectedBy": "no-media",
     "rejectedAt": "2026-10-23T10:29:48.103Z",
     "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "8ad87e12-5dbb-4987-9a59-6de35d54558d",
+    "text": "Arriving at Seoul Station on a Saturday and hunting for a coin locker?\nAll the lockers are likely full – weekends fill them in minutes.\nWhere have you found the most reliable luggage storage in Seoul?\n\n📖 Open the Land in Korea link in our profile and search “Luggage storage & forwarding services”.\n\n#KoreaTravel #SeoulTrip #TravelTips #Luggage #VisitKorea",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-23T23:00:52.139Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-23T14:14:49.381Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Luggage storage & forwarding services",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: reddit: missing reaction – no question or CTA prompting comment, save, or share. (e.g., \"This saves you the hunt and extra cost.\")",
+      "failedPlatforms": [
+        "reddit"
+      ],
+      "model": "groq",
+      "pattern": "A",
+      "checkedAt": "2026-10-23T14:14:49.206Z"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-10-23T14:14:49.268Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
   }
 ]
