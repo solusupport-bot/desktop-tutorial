@@ -32601,5 +32601,41 @@
     "rejectedBy": "no-media",
     "rejectedAt": "2026-10-23T15:32:01.946Z",
     "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "296afe24-1202-470f-8795-b81c93b53dbd",
+    "text": "Planning to shop both Namdaemun and Myeongdong in one go? You’re probably treating them as the same spot.\nNamdaemun sits just a 10‑minute walk away and is a centuries‑old wholesale market, not a fixed‑price mall.\nDo you prefer the hustle of a traditional market or the polished stores of Myeongdong? Comment below!\n\n📖 Open the Land in Korea link in our profile and search “Namdaemun Market”.\n\n#KoreaTravel #SeoulTrip #TravelTips #MarketHunting #ExploreSeoul",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-23T18:11:05.561Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-23T16:30:53.449Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31826568/pexels-photo-31826568.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Namdaemun Market",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: reddit: missing reaction – closing line \"Hope this helps plan your market tour!\" does not prompt comment, save, or share. | tumblr: missing reaction – closing line \"Enjoy the historic hustle!\" does not prompt comment, save, or share.",
+      "failedPlatforms": [
+        "reddit",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "A",
+      "checkedAt": "2026-10-23T16:27:39.917Z"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-10-23T16:30:51.687Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
   }
 ]
