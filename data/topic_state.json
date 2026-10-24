@@ -1,11 +1,6 @@
 {
-  "lastIndex": 20,
+  "lastIndex": 21,
   "history": [
-    {
-      "index": 7,
-      "topic": "Emergency numbers & 24hr pharmacies",
-      "at": "2026-08-29T07:11:01.298Z"
-    },
     {
       "index": 8,
       "topic": "Useful travel apps",
@@ -1000,6 +995,11 @@
       "index": 20,
       "topic": "Trash and recycling rules for residents",
       "at": "2026-10-24T02:07:06.409Z"
+    },
+    {
+      "index": 21,
+      "topic": "DMZ and JSA tours",
+      "at": "2026-10-24T02:24:30.691Z"
     }
   ],
   "recentImageUrls": [
@@ -1788,7 +1788,8 @@
     "https://cdn.pixabay.com/video/2017/01/24/7506-200794620_large.mp4",
     "https://cdn.pixabay.com/video/2021/01/12/61756-500762208_large.mp4",
     "https://cdn.pixabay.com/video/2019/09/05/26591-359160161_large.mp4",
-    "https://videos.pexels.com/video-files/29267692/12625266_2160_3840_60fps.mp4"
+    "https://videos.pexels.com/video-files/29267692/12625266_2160_3840_60fps.mp4",
+    "https://cdn.pixabay.com/video/2019/11/08/28849-372617711_large.mp4"
   ],
   "recentMusicUrls": [
     "https://prod-1.storage.jamendo.com/?trackid=20237&format=mp32",
@@ -1862,6 +1863,7 @@
     "https://prod-1.storage.jamendo.com/download/track/1057482/mp32/",
     "https://prod-1.storage.jamendo.com/download/track/1204669/mp32/",
     "https://prod-1.storage.jamendo.com/download/track/1204669/mp32/",
-    "https://prod-1.storage.jamendo.com/download/track/1204669/mp32/"
+    "https://prod-1.storage.jamendo.com/download/track/1204669/mp32/",
+    "https://prod-1.storage.jamendo.com/download/track/26742/mp32/"
   ]
 }

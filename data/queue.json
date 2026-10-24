@@ -32671,5 +32671,37 @@
     "rejectedBy": "no-media",
     "rejectedAt": "2026-10-24T02:12:19.522Z",
     "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "9da120b3-7808-42bf-86fd-5a7874db2158",
+    "text": "Planning a DMZ tour? Don’t assume you’ll also see the JSA – they’re two different trips.\nJSA tours need a week‑ahead booking, passport details up front, and a real passport at the gate.\nWhich tour are you booking? Comment below! 📍 Save this for your Korea trip.\n\n📖 Open the Land in Korea link in our profile and search “DMZ and JSA tours”.\n\n🎬 Video source: Pixabay\n\n#KoreaTravel #SeoulTrip #DMZ #JSA #TravelTips\n\n🎵 🎵 Track: Tryad - Beauty\nMusic provided by Jamendo (CC BY-SA).",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1792809104584-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-24T14:33:25.328Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-24T02:33:38.000Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2019/11/08/28849-372617711_large.mp4",
+    "videoAttribution": "Pixabay",
+    "topic": "DMZ and JSA tours",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: reddit: reaction failed – closing line 'Make sure you know which experience you want before you book.' does not prompt comment, save, or share. | tumblr: reaction failed – closing line 'Make sure you book the right tour and bring your passport!' lacks a call to comment, save, or share.",
+      "failedPlatforms": [
+        "reddit",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "A",
+      "checkedAt": "2026-10-24T02:28:34.131Z"
+    }
   }
 ]
