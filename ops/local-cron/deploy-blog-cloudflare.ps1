@@ -96,8 +96,25 @@ try {
         'automation\homepage\index.html',
         'automation\homepage\district-data-seed.json',
         'automation\homepage\blog-index-seed.json',
+        'automation\homepage\photo-revisions.json',
         'automation\homepage\assets\busan.jpg',
-        'automation\homepage\assets\fonts\manrope.ttf'
+        'automation\homepage\assets\seoul.jpg',
+        'automation\homepage\assets\jeju.jpg',
+        'automation\homepage\assets\fonts\manrope.ttf',
+        # 2026-10-24: 모바일 전용 교체 사진(지역 아틀라스 — 데스크톱용 원본 + 모바일/저용량용
+        # -1024 변형 둘 다 필요. 하나만 빠져도 모바일에서 사진이 깨지거나 과도한 용량으로 나간다.
+        'automation\homepage\assets\dokdo.webp',
+        'automation\homepage\assets\dokdo-1024.webp',
+        'automation\homepage\assets\ulleungdo.webp',
+        'automation\homepage\assets\ulleungdo-1024.webp',
+        'automation\homepage\assets\gangwon.webp',
+        'automation\homepage\assets\gangwon-1024.webp',
+        'automation\homepage\assets\gyeonggi.webp',
+        'automation\homepage\assets\gyeonggi-1024.webp',
+        'automation\homepage\assets\jinju-city.webp',
+        'automation\homepage\assets\jinju-city-1024.webp',
+        'automation\homepage\assets\palace-night.webp',
+        'automation\homepage\assets\palace-night-1024.webp'
     )
     $missing = $requiredHomepageFiles | Where-Object { -not (Test-Path (Join-Path $blog $_)) }
     if ($missing.Count -gt 0) {
@@ -142,13 +159,17 @@ try {
     Run python @('localize_media.py', $site) "$blog\automation"
     Pop-Location
 
-    # 2026-10-24: localize_media.py가 home-ui 폴더(JS/CSS/사진/폰트)를 실제로 배포 폴더에
-    # 전부 복사했는지도 확인 — 복사가 누락되면 라이브에서 홈페이지가 깨진 채로 나간다.
-    foreach ($f in @('home-ui\app.js', 'home-ui\styles.css', 'home-ui\explore.js', 'home-ui\editorial.js', 'home-ui\district-data.js', 'home-ui\blog-index.js', 'home-ui\assets\busan.jpg', 'home-ui\assets\fonts\manrope.ttf')) {
-        if (-not (Test-Path (Join-Path $site $f))) {
-            Log "ABORT: 배포 폴더에 $f 가 없음 — 배포 중단"
-            throw "Deploy target is missing $f after localize_media.py — aborting before wrangler deploy."
-        }
+    # 2026-10-24: 고정 목록 대신 빌드 결과(site/home-ui 전체)와 배포 폴더(site/home-ui)를
+    # 통째로 비교한다 — 새 지역/사진이 추가돼도 목록을 매번 손으로 안 고쳐도 되고, 고정
+    # 목록에 없는 파일이 빠지는 경우도 잡는다. localize_media.py가 home-ui를 그대로
+    # 복사만 하므로(경로 치환은 HTML 쪽 텍스트만) 상대경로 집합이 완전히 같아야 한다.
+    $builtHomeUi = Join-Path $blog "site\home-ui"
+    $deployedHomeUi = Join-Path $site "home-ui"
+    $builtFiles = Get-ChildItem -Path $builtHomeUi -Recurse -File | ForEach-Object { $_.FullName.Substring($builtHomeUi.Length + 1) }
+    $missingInDeploy = $builtFiles | Where-Object { -not (Test-Path (Join-Path $deployedHomeUi $_)) }
+    if ($missingInDeploy.Count -gt 0) {
+        Log "ABORT: localize_media.py 복사 후 배포 폴더에 home-ui 파일 누락 — $($missingInDeploy -join ', ')"
+        throw "Deploy target is missing home-ui file(s) after localize_media.py: $($missingInDeploy -join ', ') — aborting before wrangler deploy."
     }
 
     # 4) Cloudflare에 배포 (land-in-korea는 Pages가 아니라 Worker/정적assets 방식,
