@@ -32735,5 +32735,273 @@
     "rejectedBy": "no-media",
     "rejectedAt": "2026-10-24T04:28:51.073Z",
     "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "8ab427f5-8404-4f40-af90-f5f5d82201de",
+    "text": "You think Hwaseong Fortress in Suwon is just a backdrop you snap photos of, not a walkable wall?\n\nActually you can walk the entire wall—several kilometers of gates, watchtowers, and command posts form a continuous path.\n\nInside the grounds, Hwaseong Haenggung hosts historical reenactments on select days, so check the schedule before you go.\n\nWear comfy shoes and bring water; some sections are steep and can tire you faster than expected.\n\nWhat fortress wall have you walked in Korea, and what caught you off guard?\n\nOpen the Land in Korea link in the profile.\n\n📖 Open the Land in Korea link in our profile and search “Suwon Hwaseong Fortress”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1792824120976-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1792824120976-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-10-24T06:56:23.333Z",
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18127857970847921"
+      }
+    },
+    "createdAt": "2026-10-24T06:42:18.292Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31986874/pexels-photo-31986874.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2020/05/30/40617-425893137_large.mp4",
+    "videoAttribution": null,
+    "topic": "Suwon Hwaseong Fortress",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: reddit: reaction check failed – no closing prompt for comment/save/share, ends with \"check the official site for dates.\" | tumblr: reaction check failed – closing line \"Keep this in mind for a smoother visit.\" does not prompt engagement.",
+      "failedPlatforms": [
+        "reddit",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "C",
+      "checkedAt": "2026-10-24T06:39:57.030Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-suwon-hwaseong-fortress.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-10-24T07:02:38.353Z"
+  },
+  {
+    "id": "29d99841-2682-4091-8199-462da8809492",
+    "text": "Most visitors think Hwaseong Fortress is just a photo spot, but you can actually walk its several‑kilometer wall.\n1️⃣ The loop spans several kilometers, passing 8 gates, watchtowers, and command posts.\n2️⃣ It usually takes over an hour, so give yourself enough time.\n3️⃣ Hwaseong Haenggung inside offers reenactment ceremonies on select days—check ahead.\n4️⃣ Bring comfortable shoes and water; some stretches are steep.\n✅ Wear comfy shoes, bring water, and check the Haenggung schedule.\nWhich part of the fortress are you most excited to explore? Save this for your trip.\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-suwon-hwaseong-fortress.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1792824120976-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1792824120976-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-10-24T07:01:14.374Z",
+    "status": "claimed",
+    "results": {},
+    "createdAt": "2026-10-24T06:42:18.325Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31986874/pexels-photo-31986874.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2020/05/30/40617-425893137_large.mp4",
+    "videoAttribution": null,
+    "topic": "Suwon Hwaseong Fortress",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: reddit: reaction check failed – no closing prompt for comment/save/share, ends with \"check the official site for dates.\" | tumblr: reaction check failed – closing line \"Keep this in mind for a smoother visit.\" does not prompt engagement.",
+      "failedPlatforms": [
+        "reddit",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "C",
+      "checkedAt": "2026-10-24T06:39:57.030Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-suwon-hwaseong-fortress.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "c89a8cb8-9183-4ff9-8ab2-e78f8e45e5d0",
+    "text": "Thinking Suwon’s Hwaseong Fortress is only a photo backdrop? Think again…\nYou can trek its several‑kilometer wall, passing gates, watchtowers, and the Haenggung palace.\nWhat surprised you most about walking a Korean fortress? Save this for your Korea trip.\n\n📖 Open the Land in Korea link in our profile and search “Suwon Hwaseong Fortress”.\n\n🎬 Video source: Pixabay\n\n#KoreaTravel #Suwon #HwaseongFortress #TravelTips #VisitKorea\n\n🎵 🎵 Track: Oranseil - how_far\nMusic provided by Jamendo (CC BY-SA).",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1792824071467-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-24T07:08:21.603Z",
+    "status": "claimed",
+    "results": {
+      "instagram": {
+        "error": "watermarked media unavailable"
+      }
+    },
+    "createdAt": "2026-10-24T06:42:18.349Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31986874/pexels-photo-31986874.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2020/05/30/40617-425893137_large.mp4",
+    "videoAttribution": "Pixabay",
+    "topic": "Suwon Hwaseong Fortress",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: reddit: reaction check failed – no closing prompt for comment/save/share, ends with \"check the official site for dates.\" | tumblr: reaction check failed – closing line \"Keep this in mind for a smoother visit.\" does not prompt engagement.",
+      "failedPlatforms": [
+        "reddit",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "C",
+      "checkedAt": "2026-10-24T06:39:57.030Z"
+    },
+    "processedAt": "2026-10-24T07:25:37.524Z",
+    "retryCount": 1
+  },
+  {
+    "id": "344d8e29-057f-4379-9fb9-c50e51a20a14",
+    "text": "If you're planning a day trip to Suwon, don't skip walking the Hwaseong Fortress wall. It's a several‑kilometer loop that includes 8 gates and multiple watchtowers. Expect it to take over an hour, so wear good shoes and bring water. The Haenggung palace inside hosts reenactment ceremonies on select days—check the official site for dates.\n\n📖 Full article: https://landinkorea.com/posts/korea-suwon-hwaseong-fortress.html?utm_source=reddit&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": null,
+    "platforms": [
+      "reddit"
+    ],
+    "scheduledAt": "2026-10-24T08:58:56.337Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-24T06:42:18.372Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31986874/pexels-photo-31986874.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2020/05/30/40617-425893137_large.mp4",
+    "videoAttribution": null,
+    "topic": "Suwon Hwaseong Fortress",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: reddit: reaction check failed – no closing prompt for comment/save/share, ends with \"check the official site for dates.\" | tumblr: reaction check failed – closing line \"Keep this in mind for a smoother visit.\" does not prompt engagement.",
+      "failedPlatforms": [
+        "reddit",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "C",
+      "checkedAt": "2026-10-24T06:39:57.030Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-24T06:42:18.361Z",
+    "subreddit": "koreatravel"
+  },
+  {
+    "id": "0d166a76-60ef-4e6a-a65a-f370336ed7ce",
+    "text": "You think Hwaseong Fortress in Suwon is just a photo backdrop, not a walkable wall?\nYou can actually walk its several‑kilometer wall, looping past gates, watchtowers, and command posts.\nInside, the Hwaseong Haenggung palace offers historical reenactments on select days; check the schedule.\nWear comfortable shoes and bring water; some sections are steep and can wear you out quickly.\nWhich Korean fortress have you walked, and what part surprised you most? #KoreaTravel",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1792824120976-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1792824120976-v0-0.jpg"
+    ],
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-10-24T07:27:26.629Z",
+    "status": "claimed",
+    "results": {},
+    "createdAt": "2026-10-24T06:42:18.393Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31986874/pexels-photo-31986874.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2020/05/30/40617-425893137_large.mp4",
+    "videoAttribution": null,
+    "topic": "Suwon Hwaseong Fortress",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: reddit: reaction check failed – no closing prompt for comment/save/share, ends with \"check the official site for dates.\" | tumblr: reaction check failed – closing line \"Keep this in mind for a smoother visit.\" does not prompt engagement.",
+      "failedPlatforms": [
+        "reddit",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "C",
+      "checkedAt": "2026-10-24T06:39:57.030Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-suwon-hwaseong-fortress.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "853d1d3c-7d5b-46c9-859b-7389330be37d",
+    "text": "You think Hwaseong Fortress in Suwon is just a photo backdrop, not a walkable wall?\nYou can actually walk its several‑kilometer wall, looping past gates, watchtowers, and command posts.\nInside, the Hwaseong Haenggung palace offers historical reenactments on select days; check the schedule.\nWear comfortable shoes and bring water; some sections are steep and can wear you out quickly.\nWhich Korean fortress have you walked, and what part surprised you most? #KoreaTravel #TravelTips",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1792824120976-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1792824120976-v0-0.jpg"
+    ],
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-10-24T07:55:30.629Z",
+    "status": "claimed",
+    "results": {},
+    "createdAt": "2026-10-24T06:42:18.412Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31986874/pexels-photo-31986874.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2020/05/30/40617-425893137_large.mp4",
+    "videoAttribution": null,
+    "topic": "Suwon Hwaseong Fortress",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: reddit: reaction check failed – no closing prompt for comment/save/share, ends with \"check the official site for dates.\" | tumblr: reaction check failed – closing line \"Keep this in mind for a smoother visit.\" does not prompt engagement.",
+      "failedPlatforms": [
+        "reddit",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "C",
+      "checkedAt": "2026-10-24T06:39:57.030Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-suwon-hwaseong-fortress.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "9849f7e8-4be9-4658-8926-11b400586c18",
+    "text": "Most think Suwon’s Hwaseong Fortress is only a photo spot, but you can actually walk its several‑kilometer wall and explore its gates, watchtowers, and the Haenggung palace.\n1. The wall loop stretches several kilometers and typically takes over an hour to complete.\n2. Inside, Hwaseong Haenggung hosts historical reenactment ceremonies on select days—check dates before you go.\n3. Bring comfortable shoes and water; some sections are steep.\nKeep this in mind for a smoother visit.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1792824120976-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1792824120976-v0-0.jpg"
+    ],
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-10-24T09:55:39.404Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-24T06:42:18.433Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31986874/pexels-photo-31986874.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2020/05/30/40617-425893137_large.mp4",
+    "videoAttribution": null,
+    "topic": "Suwon Hwaseong Fortress",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: reddit: reaction check failed – no closing prompt for comment/save/share, ends with \"check the official site for dates.\" | tumblr: reaction check failed – closing line \"Keep this in mind for a smoother visit.\" does not prompt engagement.",
+      "failedPlatforms": [
+        "reddit",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "C",
+      "checkedAt": "2026-10-24T06:39:57.030Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-24T06:42:18.425Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-suwon-hwaseong-fortress.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
   }
 ]
