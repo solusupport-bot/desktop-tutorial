@@ -247,6 +247,80 @@ agent-reach install --env=auto --system --channels=<channel_name>
 
 ---
 
+## 📚 아웃라이어(잘 터진 글) 구조는 한 번 쓰고 버리지 않고 누적 저장 (2026-10-17 사용자 지시 — "이거 규칙이야")
+
+**"이렇게 잘된 것들을 모아서 우리것으로 사용할 거야... 구조를 계속 저장하는 거야"** — 반응 좋은
+다른 계정 글을 리서치할 때마다 매번 새 날짜 파일만 만들고 끝내지 않는다.
+
+- 찾은 구조는 **카테고리별로 `data/outlier_structure_library.md`에 계속 추가**한다. 리서치
+  세션이 끝나도 이 파일은 안 끝난다 — 다음 리서치 때 같은 카테고리 밑에 새 카드를 추가하거나,
+  새 카테고리면 섹션을 새로 만든다.
+- 장면 단위 영상 분석 같은 상세 원문은 `data/outlier_structure_YYYY-MM-DD.md`(날짜 파일)에 남기고,
+  라이브러리에는 구조 요약 카드 + 날짜 파일 링크만 쌓는다(카드 형식은 라이브러리 파일 상단 참고).
+- 팔로워 대비 배율 기준(10배 등) 리서치는 vidIQ MCP로만 한다 — OpenCLI로 Instagram을 직접
+  긁는 방식(`viral-outliers` 스킬의 기본 방법)은 과거 429를 받아 중단한 적이 있어 쓰지 않는다.
+- 라이브러리에 쌓인 구조를 실제 발행에 쓰면(코드 패턴 추가든, 수동 1회 발행이든) 해당 카드에
+  "적용됨" 기록과 발행 결과(조회수 등, 거짓 수치 금지)를 남겨서 뭐가 실제로 먹혔는지 추적한다.
+- 같은 카테고리에 카드가 쌓여 통계적으로 반복 확인되면 `lib/curation/curate.js`의 A~E 패턴
+  프롬프트에 새 패턴으로 반영할지 검토한다.
+
+---
+
+## 🖼️ 2026-10-18 이미지 소스 확장 (완성도 개선)
+
+사용자 지적("무료 툴만 쓰면 완성도 떨어지지 않냐") 대응:
+- **TourAPI(한국관광공사 Odii 공식 사진) 키 연결함** — `.env`에 4개 TOUR_*_API_KEY 전부
+  추가(data.go.kr 일반 인증키 1개 공유). `scripts/test-tour-api.js` 실행 시 "SERVICE_KEY_IS_NOT_REGISTERED_ERROR" 가 나면 data.go.kr 승인 전파 지연(보통 몇 시간~24시간)일 가능성이 큼 —
+  마이페이지엔 4개 다 "승인"으로 떠 있고 미리보기도 성공하는데 실제 게이트웨이 반영만 늦는
+  경우라 **코드 문제가 아니다**. 시간 두고 재시도할 것, 바로 코드부터 의심하지 말 것.
+- **Unsplash 추가함** — `lib/ingestion/unsplash_image.js`(`findKoreaPhotoUnsplash`), `UNSPLASH_ACCESS_KEY` 필요(.env에 이미 있음). `queue_topic.js`의 `collectImageCandidates`에서
+  Pexels 다음, Pixabay 전에 보충용으로 들어감. Demo 등급이라 시간당 50회 제한 — 이 규모엔
+  충분하나 트래픽 늘면 "Apply for production" 필요(unsplash.com/oauth/applications).
+  사용 시 `links.download_location` GET 등록을 반드시 유지할 것(Unsplash 가이드라인 필수
+  — 안 지키면 프로덕션 신청 거절 사유).
+
+---
+
+## 🏠 랜드인코리아 승인된 홈페이지 = "신버전 지역 아틀라스" (2026-10-24 사용자 최종 확정)
+
+**승인본(바뀌지 않는 기준점):** 부산 광안대교 바다 사진 히어로, `/home-ui/` 구조, 전국
+지역 지도 → 구·동 세부지도 → 관련 블로그 연결, EN/JA/ZH 언어 전환, 모바일 최신 글에
+울릉도·성산일출봉·독도 실제 사진, 진주 지도 아래 실제 진주·남강 사진. **이전에 "구버전
+`discovery_home()`(Nami Island 히어로, 인라인 Korea map SVG)이 운영에 떠 있다"고 기록했던
+내용은 그 시점(2026-10-24 오전)엔 사실이었지만 승인 기준이 아니었다 — 착오였음.** 그 구버전
+생성기로 돌아가는 어떤 수정도 승인본 위반이다.
+
+**실제로 있었던 일:** `land-in-korea-blog` main을 이전 커밋(`a6c5982`)으로 되돌리는 과정에서
+`automation/homepage.py`/`automation/homepage/`가 main에서 잠깐 빠졌다. 삭제된 건 아니고
+`future-work` 브랜치(`ffd7e26`)에 그대로 보존돼 있었으며, 최신 수동 백업/zip과 바이트 단위로
+동일함을 diff로 확인했다. 이후 해당 파일들만(다른 진행 중 작업— 리뷰 사진, candidate_photos,
+새 블로그 글 초안 — 은 제외) `homepage-approved` 브랜치로 분리해 main에 반영했고, 격리된
+worktree에서 `build.py → validate.py → localize_media.py`까지 전체 파이프라인을 모의 배포
+폴더에 실행해 `home-ui`의 JS/CSS/사진/폰트가 전부 복사되는지, 새 글 추가 시 글 목록만
+갱신되고 `styles.css`/`app.js`/`district-data.js`는 바이트 단위로 불변인지(해시 비교) 확인함.
+
+**실제 배포 경로 (반드시 기억할 것):** GitHub Actions(`blog-build.yml`)는 GitHub Pages로만
+배포하고 **운영 도메인과 무관**하다. 실제 `landinkorea.com`을 바꾸는 건 이 저장소의 작업
+스케줄러 작업 3개뿐이다:
+- `DesktopTutorial-SchedulerDispatch`(15분 주기, `run-local.ps1 -Mode publish`) — SNS 발행
+- `DesktopTutorial-DailyTopic`(1일 1회, `run-local.ps1 -Mode daily`) — 주제 보충
+- `DesktopTutorial-BlogDeploy` — `ops/local-cron/deploy-blog-cloudflare.ps1`: `land-in-korea-blog`
+  main을 pull → `automation/build.py` 실행 → `localize_media.py`로 `landinkorea_site`에 복사 →
+  `wrangler deploy`. **이 스크립트가 유일하게 landinkorea.com을 실제로 바꾼다.**
+
+**규칙 (2026-10-24, 조건부 → 무조건 검사로 강화):** `deploy-blog-cloudflare.ps1`은 빌드 전에
+위 승인본 필수 소스 10개 파일이 전부 있는지, `build.py`가 반드시 `from homepage import
+write_homepage`를 쓰는지 **무조건** 검사한다(예전엔 "import가 있을 때만" 검사해서 구버전
+빌더로 되돌아간 경우를 못 잡았음). 빌드 후에는 `site/index.html`이 실제로 `home-ui/app.js`를
+참조하는지, `localize_media.py` 복사 후 배포 폴더에 home-ui JS/CSS/사진/폰트가 전부 있는지도
+검사한다. 하나라도 실패하면 빌드/배포 전체를 중단한다. **이 체크들을 완화하거나 건너뛰는
+방향의 수정 금지.** 홈페이지 관련 작업으로 `land-in-korea-blog`의 브랜치를 전환/reset/병합할
+때는 **먼저 이 세 작업 스케줄러 작업이 중간에 끼어들지 않는지 확인**하고
+(`Get-ScheduledTask`), 필요하면 작업 전 `Disable-ScheduledTask`로 일시 중지한 뒤 끝나고 다시
+`Enable-ScheduledTask`로 켤 것.
+
+---
+
 ## 🔧 참고 리소스: Claude Code 플러그인 마켓플레이스
 
 - **`davepoon/buildwithclaude`** (https://github.com/davepoon/buildwithclaude) — Claude Code용 에이전트(117개)·커맨드(175개)·훅(28개)·스킬(26개)·플러그인(51개) 모음 마켓플레이스.
@@ -304,6 +378,29 @@ agent-reach install --env=auto --system --channels=<channel_name>
   장소가 눈에 보이는 관광지 주제는 영상 재고가 풍부해 통과율이 높다 — 인스타그램에
   새 글을 만들 때는 영상(curated_videos.json 우선, 없으면 Pexels/Pixabay 실시간 검색)을
   먼저 확보한 뒤 그 영상 내용에 맞춰 주제/캡션을 고르거나 쓴다.
+  **2026-10-18 구현 완료**: `scripts/ensure-instagram-daily.js`가 15분 주기 발행 크론
+  (`ops/local-cron/run-local.ps1` publish 모드)에 같이 돈다. 오늘(UTC) Instagram 성공
+  건수가 하루 목표(3건, `TARGET_PER_DAY`)보다 적으면 공유 로테이션(`pickNextTopic`,
+  중복 주제 자동 방지)에서 다음 주제를 하나씩 더 뽑아 Instagram 전용으로만(다른 플랫폼은
+  안 건드림) 큐잉을 시도한다. 영상이 없어 반려되면 그 주제는 버리고 바로 다음 후보로
+  넘어간다(최대 5회 시도). 시간은 `queueOneTopic`의 window=[0,24] 클램핑으로 "지금부터
+  오늘 자정까지" 중 무작위다 — 고정 시각을 지정하지 않는다(2026-10-18 사용자 지시: "글올리는
+  시간은 정하지말고 랜덤으로 해라"). 급하게 채울 때도 이 스크립트나 `pickNextTopic`을
+  거치지 않고 주제를 손으로 골라 넣지 말 것 — 중복 주제가 나간다(2026-10-18 실측: "T-money
+  transit card"를 17번째로 또 고를 뻔함).
+  **2026-10-18 미학 몽타주 모드로 전환** (사용자 결정: "실물촬영은 싫어" + "인스타/틱톡/
+  유튜브은 미학 위주로 전환" — 목적은 팔로우·조회수). 아웃라이어 리서치(카테고리 G,
+  `data/outlier_structure_library.md`) 근거: 실물 출연 없이 터진 영상은 전부 영상 1개를
+  늘린 게 아니라 **여러 짧은 클립을 음악 박자에 맞춰 이어붙인 몽타주** + 화면 중앙 고정
+  훅 텍스트 한 줄("12 PLACES TO VISIT IN PRAGUE"류) + 나레이션 없음("Music only")이었다.
+  `queue_topic.js`가 이제 영상을 1개가 아니라 최대 5개까지 찾고(`MONTAGE_CLIP_TARGET`),
+  2개 이상 모이면 `lib/media/mix_audio.js`의 `buildAestheticMontage`(클립마다 3초씩 잘라
+  concat 필터로 이어붙이고 훅 텍스트 하나만 중앙에 올림, `attachAestheticMontage` 경유)
+  로 간다 — 기존 정보형 다문단 자막(`attachTopicMusic`)은 클립이 1개뿐일 때만 폴백으로
+  남는다. 훅 텍스트는 현재 `item.source`를 그대로 씀(단순 지명/소재명 + 🇰🇷) — 더
+  다듬을 여지 있음. **실용정보(블로그·Threads)는 그대로 유지, 영상 플랫폼만 미학으로
+  분리**. 로컬 ffmpeg 합성 테스트로 클립 전환·훅 텍스트 유지 확인함(실제 Pexels 다중
+  클립으로 end-to-end 발행 테스트는 아직 안 함 — 다음 확인 포인트).
 - **Threads = 훅 + 답글 체인 최대 4개(총 5조각), "1/5" 구조.** 기존엔 훅+답글 1개(2단)
   였으나, 실제 고성과 계정 벤치마킹(스크린샷의 "1/2" 구조)을 참고해 답글을 최대
   4개까지 늘림. `lib/publishing/threads.js`가 본문을 빈 줄(문단) 기준 최대 5조각으로

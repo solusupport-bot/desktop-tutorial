@@ -77,6 +77,38 @@ try {
     # 시작 시 pull만으로는 방금 올라간 글이 로컬 빌드에 포함되지 않는다.
     PullFirst $blog
 
+    # 2026-10-24: 처음엔 "build.py가 homepage.py를 import할 때만" 검사했는데, 이러면
+    # build.py가 구버전 discovery_home()으로 되돌아간(import 자체가 없어진) 경우는 전혀
+    # 못 잡는다 — 조건부 검사가 아니라 "승인된 홈페이지 연결이 항상 있어야 한다"는 무조건
+    # 검사로 바꾼다. 승인본(2026-10-24 확정): 부산 광안대교 히어로 + /home-ui/ 구조 +
+    # 지역 지도(district-data) + EN/JA/ZH 전환. 필수 소스 중 하나라도 없거나 build.py가
+    # write_homepage 연결을 안 쓰면, 또는 빌드 결과 index.html이 승인된 home-ui 구조를
+    # 쓰지 않으면 빌드/배포 전부 중단한다.
+    $buildPy = Join-Path $blog "automation\build.py"
+    $homepagePy = Join-Path $blog "automation\homepage.py"
+    $homepageDir = Join-Path $blog "automation\homepage"
+    $requiredHomepageFiles = @(
+        'automation\homepage.py',
+        'automation\homepage\app.js',
+        'automation\homepage\styles.css',
+        'automation\homepage\explore.js',
+        'automation\homepage\editorial.js',
+        'automation\homepage\index.html',
+        'automation\homepage\district-data-seed.json',
+        'automation\homepage\blog-index-seed.json',
+        'automation\homepage\assets\busan.jpg',
+        'automation\homepage\assets\fonts\manrope.ttf'
+    )
+    $missing = $requiredHomepageFiles | Where-Object { -not (Test-Path (Join-Path $blog $_)) }
+    if ($missing.Count -gt 0) {
+        Log "ABORT: 승인된 홈페이지 필수 소스 누락 — $($missing -join ', ')"
+        throw "Approved homepage essential source(s) missing: $($missing -join ', ') — aborting before build/deploy."
+    }
+    if (-not (Select-String -Path $buildPy -Pattern '^\s*from homepage import write_homepage' -Quiet)) {
+        Log "ABORT: build.py가 승인된 write_homepage 연결을 쓰지 않음(구버전 discovery_home으로 되돌아간 것으로 추정) — 배포 중단"
+        throw "build.py is not wired to the approved write_homepage() generator — aborting before build/deploy."
+    }
+
     # 2) 새 원문을 검사한 뒤 이미지 채우기 + 사이트 빌드
     Push-Location "$blog\automation"
     try {
@@ -95,10 +127,29 @@ try {
     # used_media.json = 블로그에 쓴 사진 고유번호 영구 기록(중복 금지). 커밋 안 하면 재클론 시 사라진다.
     CommitAndPush $blog @('content/posts', 'automation/used_media.json') 'chore: persist fetched/watermarked post images'
 
+    # 2026-10-24: 위 사전 검사를 통과해도 build.py 내부 로직이 바뀌어 실제로는 승인된
+    # home-ui를 안 쓰는 index.html을 뽑을 수 있으니, 빌드 결과물 자체도 승인된 구조인지
+    # 확인한다 — "글 내용만 다르고 디자인은 동일"해야 하므로 home-ui 참조 자체가
+    # 없으면(=구버전 discovery_home 출력) 배포하지 않는다.
+    $builtIndex = Join-Path $blog "site\index.html"
+    if (-not (Select-String -Path $builtIndex -Pattern 'home-ui/app\.js' -Quiet)) {
+        Log "ABORT: 빌드된 site/index.html이 승인된 home-ui 구조를 참조하지 않음 — 배포 중단"
+        throw "Built site/index.html does not reference the approved home-ui structure — aborting before deploy."
+    }
+
     # 3) Cloudflare 배포용 폴더 준비(빌드 결과 복사 + 이미지 로컬화 + 경로 치환)
     Push-Location "$blog\automation"
     Run python @('localize_media.py', $site) "$blog\automation"
     Pop-Location
+
+    # 2026-10-24: localize_media.py가 home-ui 폴더(JS/CSS/사진/폰트)를 실제로 배포 폴더에
+    # 전부 복사했는지도 확인 — 복사가 누락되면 라이브에서 홈페이지가 깨진 채로 나간다.
+    foreach ($f in @('home-ui\app.js', 'home-ui\styles.css', 'home-ui\explore.js', 'home-ui\editorial.js', 'home-ui\district-data.js', 'home-ui\blog-index.js', 'home-ui\assets\busan.jpg', 'home-ui\assets\fonts\manrope.ttf')) {
+        if (-not (Test-Path (Join-Path $site $f))) {
+            Log "ABORT: 배포 폴더에 $f 가 없음 — 배포 중단"
+            throw "Deploy target is missing $f after localize_media.py — aborting before wrangler deploy."
+        }
+    }
 
     # 4) Cloudflare에 배포 (land-in-korea는 Pages가 아니라 Worker/정적assets 방식,
     # wrangler.jsonc 참고 — `pages deploy`는 "not a Pages project"로 매번 실패한다)
