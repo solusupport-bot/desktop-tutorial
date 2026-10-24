@@ -32637,5 +32637,39 @@
     "rejectedBy": "no-media",
     "rejectedAt": "2026-10-23T16:30:51.687Z",
     "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "aeede29f-9239-4b7c-ac72-08f5613916c0",
+    "text": "Just moved into a Seoul apartment and grabbed a random trash bag? Stop!\nOnly the official 종량제 봉투 sold in *your* district will be collected—any other bag gets left behind.\nSave this for your Korea trip\n\n📖 Open the Land in Korea link in our profile and search “Trash and recycling rules for residents”.\n\n#KoreaTravel #SeoulLiving #ExpatLife #TrashTips #FirstTimeInKorea",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-24T21:41:18.589Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-24T02:12:19.650Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Trash and recycling rules for residents",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: reddit: hook failed – the opening line \"When you move to a new district in Seoul, the waste collection system uses district‑specific 종량제 봉투. Here’s what you need to know:\" is a generic teaser, not a specific promise or confusion. | tumblr: reaction failed – the closing \"Make a note of this to avoid wasted trash and fines.\" does not give readers a concrete reason to comment, save, or share.",
+      "failedPlatforms": [
+        "reddit",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "A",
+      "checkedAt": "2026-10-24T02:12:19.477Z"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-10-24T02:12:19.522Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
   }
 ]
