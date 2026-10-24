@@ -1,11 +1,6 @@
 {
-  "lastIndex": 22,
+  "lastIndex": 0,
   "history": [
-    {
-      "index": 9,
-      "topic": "Convenience store hacks",
-      "at": "2026-08-29T07:11:03.848Z"
-    },
     {
       "index": 10,
       "topic": "Seasonal packing & weather tips",
@@ -1000,6 +995,11 @@
       "index": 22,
       "topic": "Jjimjilbang etiquette",
       "at": "2026-10-24T04:24:32.109Z"
+    },
+    {
+      "index": 0,
+      "topic": "Gyeongbokgung Palace",
+      "at": "2026-10-24T12:25:39.781Z"
     }
   ],
   "recentImageUrls": [
@@ -1653,7 +1653,9 @@
     "https://images.pexels.com/photos/35214760/pexels-photo-35214760.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://images.pexels.com/photos/19658285/pexels-photo-19658285.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://images.pexels.com/photos/31826568/pexels-photo-31826568.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://images.pexels.com/photos/16724195/pexels-photo-16724195.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "https://images.pexels.com/photos/16724195/pexels-photo-16724195.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/31986874/pexels-photo-31986874.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/31842452/pexels-photo-31842452.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
   ],
   "recentVideoUrls": [
     "https://videos.pexels.com/video-files/19577787/19577787-uhd_2160_3840_30fps.mp4",
@@ -1790,7 +1792,8 @@
     "https://cdn.pixabay.com/video/2021/01/12/61756-500762208_large.mp4",
     "https://cdn.pixabay.com/video/2019/09/05/26591-359160161_large.mp4",
     "https://videos.pexels.com/video-files/29267692/12625266_2160_3840_60fps.mp4",
-    "https://cdn.pixabay.com/video/2019/11/08/28849-372617711_large.mp4"
+    "https://cdn.pixabay.com/video/2019/11/08/28849-372617711_large.mp4",
+    "https://cdn.pixabay.com/video/2020/05/30/40617-425893137_large.mp4"
   ],
   "recentMusicUrls": [
     "https://prod-1.storage.jamendo.com/?trackid=20237&format=mp32",
@@ -1865,6 +1868,7 @@
     "https://prod-1.storage.jamendo.com/download/track/1204669/mp32/",
     "https://prod-1.storage.jamendo.com/download/track/1204669/mp32/",
     "https://prod-1.storage.jamendo.com/download/track/1204669/mp32/",
-    "https://prod-1.storage.jamendo.com/download/track/26742/mp32/"
+    "https://prod-1.storage.jamendo.com/download/track/26742/mp32/",
+    "https://prod-1.storage.jamendo.com/download/track/1042763/mp32/"
   ]
 }

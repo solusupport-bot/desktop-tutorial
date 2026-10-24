@@ -3,31 +3,27 @@
   "platforms": {
     "facebook": {
       "attempts": [
-        "2026-10-23T04:24:36.699Z",
-        "2026-10-23T07:34:42.752Z"
+        "2026-10-24T12:24:53.204Z"
       ],
       "successes": [
-        "2026-10-23T04:24:36.699Z",
-        "2026-10-23T07:34:42.752Z"
+        "2026-10-24T12:24:53.204Z"
       ],
       "consecutiveFailures": 0,
       "blockedUntil": null,
-      "lastAttemptAt": "2026-10-23T07:34:42.752Z",
-      "lastSuccessAt": "2026-10-23T07:34:42.752Z"
+      "lastAttemptAt": "2026-10-24T12:24:53.204Z",
+      "lastSuccessAt": "2026-10-24T12:24:53.204Z"
     },
     "threads": {
       "attempts": [
-        "2026-10-23T02:26:13.748Z",
-        "2026-10-23T05:53:51.091Z"
+        "2026-10-24T07:02:38.324Z"
       ],
       "successes": [
-        "2026-10-23T02:26:13.748Z",
-        "2026-10-23T05:53:51.091Z"
+        "2026-10-24T07:02:38.324Z"
       ],
       "consecutiveFailures": 0,
       "blockedUntil": null,
-      "lastAttemptAt": "2026-10-23T05:53:51.091Z",
-      "lastSuccessAt": "2026-10-23T05:53:51.091Z"
+      "lastAttemptAt": "2026-10-24T07:02:38.324Z",
+      "lastSuccessAt": "2026-10-24T07:02:38.324Z"
     },
     "tumblr": {
       "attempts": [
@@ -55,44 +51,40 @@
     },
     "bluesky": {
       "attempts": [
-        "2026-10-23T02:26:16.035Z",
-        "2026-10-23T04:24:39.249Z"
+        "2026-10-24T12:25:32.133Z"
       ],
       "successes": [
-        "2026-10-23T02:26:16.035Z",
-        "2026-10-23T04:24:39.249Z"
+        "2026-10-24T12:25:32.133Z"
       ],
       "consecutiveFailures": 0,
       "blockedUntil": null,
-      "lastAttemptAt": "2026-10-23T04:24:39.249Z",
-      "lastSuccessAt": "2026-10-23T04:24:39.249Z"
+      "lastAttemptAt": "2026-10-24T12:25:32.133Z",
+      "lastSuccessAt": "2026-10-24T12:25:32.133Z"
     },
     "mastodon": {
       "attempts": [
-        "2026-10-23T02:26:19.885Z",
-        "2026-10-23T04:24:43.360Z"
+        "2026-10-24T12:25:36.589Z"
       ],
       "successes": [
-        "2026-10-23T02:26:19.885Z",
-        "2026-10-23T04:24:43.360Z"
+        "2026-10-24T12:25:36.589Z"
       ],
       "consecutiveFailures": 0,
       "blockedUntil": null,
-      "lastAttemptAt": "2026-10-23T04:24:43.360Z",
-      "lastSuccessAt": "2026-10-23T04:24:43.360Z",
+      "lastAttemptAt": "2026-10-24T12:25:36.589Z",
+      "lastSuccessAt": "2026-10-24T12:25:36.589Z",
       "lastFailureAt": "2026-10-01T09:39:44.332Z"
     },
     "instagram": {
       "attempts": [
-        "2026-10-23T02:26:53.989Z"
+        "2026-10-24T12:25:25.388Z"
       ],
       "successes": [
-        "2026-10-23T02:26:53.989Z"
+        "2026-10-24T12:25:25.388Z"
       ],
       "consecutiveFailures": 0,
       "blockedUntil": null,
-      "lastAttemptAt": "2026-10-23T02:26:53.989Z",
-      "lastSuccessAt": "2026-10-23T02:26:53.989Z"
+      "lastAttemptAt": "2026-10-24T12:25:25.388Z",
+      "lastSuccessAt": "2026-10-24T12:25:25.388Z"
     }
   }
 }
