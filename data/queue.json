@@ -33021,5 +33021,39 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-10-24T06:42:18.425Z",
     "blogUrl": "https://landinkorea.com/posts/korea-suwon-hwaseong-fortress.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "e223bd1a-9db1-4d9a-87d8-ef86e612c522",
+    "text": "Think Bukchon Hanok Village is just a museum? It’s actually a residential neighborhood.\nIt sits between Gyeongbokgung and Changdeokgung, and locals post quiet‑please signs after certain hours.\nDid you ever snap photos in a place where people live? Share your experience!\n\n📖 Open the Land in Korea link in our profile and search “Bukchon Hanok Village”.\n\n🎬 Video source: Pixabay\n\n#KoreaTravel #SeoulTrip #Bukchon #TravelTips #FirstTimeInKorea\n\n🎵 🎵 Track: NABAN - Icarus Part 2. (이카루스)\nMusic provided by Jamendo (CC BY-SA).",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1792851394253-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-24T21:21:19.988Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-24T14:16:42.740Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/39037955/pexels-photo-39037955.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/08/22/128770-742053625_large.mp4",
+    "videoAttribution": "Pixabay",
+    "topic": "Bukchon Hanok Village",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: reddit: reaction check failed – the post ends with factual info and no closing question or CTA (\"Adding Bukchon to a palace tour ... works well because it's right between them.\") | tumblr: reaction check failed – the post ends with advice and no closing engagement prompt (\"Treat it like home, not a set, and you’ll have a smoother experience.\")",
+      "failedPlatforms": [
+        "reddit",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "C",
+      "checkedAt": "2026-10-24T14:15:54.116Z"
+    }
   }
 ]
