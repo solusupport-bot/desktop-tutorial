@@ -32703,5 +32703,37 @@
       "pattern": "A",
       "checkedAt": "2026-10-24T02:28:34.131Z"
     }
+  },
+  {
+    "id": "7ace4fb4-4504-4946-89f1-c86ad2e3eb42",
+    "text": "Thinking the biggest jjimjilbang faux pas is being naked? Think again.\nThere are two zones: bath (nude) and co‑ed lounge (t‑shirt & shorts).\nEver mixed them up? Save this for your Korea trip!\n\n📖 Open the Land in Korea link in our profile and search “Jjimjilbang etiquette”.\n\n#KoreaTravel #SeoulTrip #Jjimjilbang #TravelTips #FirstTimeInKorea",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-24T07:51:09.945Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-24T04:28:51.401Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/16724195/pexels-photo-16724195.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Jjimjilbang etiquette",
+    "qualityGate": {
+      "pass": false,
+      "reason": "로컬 AI가 주제·문장·주장 품질 문제를 감지함",
+      "model": "ollaya/laya:multilingual",
+      "confidence": 0.7812,
+      "checkedAt": "2026-10-24T04:26:43.206Z"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-10-24T04:28:51.073Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
   }
 ]
