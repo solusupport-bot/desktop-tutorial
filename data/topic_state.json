@@ -1,11 +1,6 @@
 {
-  "lastIndex": 5,
+  "lastIndex": 6,
   "history": [
-    {
-      "index": 15,
-      "topic": "Convenience store hacks",
-      "at": "2026-08-31T05:19:37.218Z"
-    },
     {
       "index": 16,
       "topic": "Seasonal packing & weather tips",
@@ -1000,6 +995,11 @@
       "index": 5,
       "topic": "Jeju Island",
       "at": "2026-10-25T05:24:14.792Z"
+    },
+    {
+      "index": 6,
+      "topic": "eSIM & mobile data",
+      "at": "2026-10-25T06:57:36.226Z"
     }
   ],
   "recentImageUrls": [

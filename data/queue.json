@@ -33099,5 +33099,35 @@
       "pattern": "A",
       "checkedAt": "2026-10-25T03:26:55.449Z"
     }
+  },
+  {
+    "id": "60b050fd-e0ee-4882-99cf-0530a1e3e074",
+    "text": "Stuck at Incheon wondering if you need to swap SIMs?\nSkip the kiosk – scan your pre‑bought eSIM QR and you’re online in seconds.\nWhat’s your go‑to data hack for day 1 in Korea?\n\n📖 Open the Land in Korea link in our profile and search “eSIM & mobile data”.\n\n#KoreaTravel #SeoulTrip #eSIM #TravelTips #FirstTimeInKorea",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-25T21:08:19.276Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-25T06:59:29.901Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "eSIM & mobile data",
+    "qualityGate": {
+      "pass": true,
+      "reason": "Relevant, natural, factual and provides useful advice for eSIM and mobile data in Korea",
+      "model": "groq",
+      "checkedAt": "2026-10-25T06:59:25.624Z",
+      "pattern": "O"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-10-25T06:59:29.784Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
   }
 ]
