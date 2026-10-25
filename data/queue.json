@@ -33164,5 +33164,35 @@
     "rejectedBy": "no-media",
     "rejectedAt": "2026-10-25T11:29:14.387Z",
     "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "5a86da21-1777-45c6-8f42-dd9063481a67",
+    "text": "At Incheon, should your tax‑free purchase go in carry‑on or checked luggage?\nYou must claim the VAT before the item is checked, or you’ll lose the refund.\nDid you ever miss a refund? Save this for your Korea trip!\n\n📖 Open the Land in Korea link in our profile and search “Tax refund (Tax Free) shopping”.\n\n#KoreaTravel #SeoulTrip #TaxFree #TravelTips #VisitKorea",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-25T22:54:25.354Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-25T12:27:25.353Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Tax refund (Tax Free) shopping",
+    "qualityGate": {
+      "pass": false,
+      "reason": "로컬 AI가 주제·문장·주장 품질 문제를 감지함",
+      "model": "ollaya/laya:multilingual",
+      "confidence": 0.734,
+      "checkedAt": "2026-10-25T12:27:25.207Z"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-10-25T12:27:25.242Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
   }
 ]

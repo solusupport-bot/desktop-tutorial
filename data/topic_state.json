@@ -1,11 +1,6 @@
 {
-  "lastIndex": 7,
+  "lastIndex": 8,
   "history": [
-    {
-      "index": 17,
-      "topic": "Luggage storage & forwarding services",
-      "at": "2026-09-01T04:53:47.475Z"
-    },
     {
       "index": 18,
       "topic": "KTX vs. SRT vs. intercity bus for long-distance travel",
@@ -1000,6 +995,11 @@
       "index": 7,
       "topic": "T-money transit card",
       "at": "2026-10-25T11:25:23.949Z"
+    },
+    {
+      "index": 8,
+      "topic": "Tax refund (Tax Free) shopping",
+      "at": "2026-10-25T12:24:24.104Z"
     }
   ],
   "recentImageUrls": [
