@@ -1,11 +1,6 @@
 {
-  "lastIndex": 8,
+  "lastIndex": 9,
   "history": [
-    {
-      "index": 18,
-      "topic": "KTX vs. SRT vs. intercity bus for long-distance travel",
-      "at": "2026-09-01T04:53:58.807Z"
-    },
     {
       "index": 0,
       "topic": "Gyeongbokgung Palace",
@@ -1000,6 +995,11 @@
       "index": 8,
       "topic": "Tax refund (Tax Free) shopping",
       "at": "2026-10-25T12:24:24.104Z"
+    },
+    {
+      "index": 9,
+      "topic": "Travel advisories & safety notices",
+      "at": "2026-10-25T15:24:24.098Z"
     }
   ],
   "recentImageUrls": [

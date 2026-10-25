@@ -33194,5 +33194,39 @@
     "rejectedBy": "no-media",
     "rejectedAt": "2026-10-25T12:27:25.242Z",
     "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "0c6a27e5-465b-40ee-b199-2693b0709e02",
+    "text": "Thinking Seoul’s night streets are totally safe?\nViolent crime is actually lower than most Western capitals, yet pickpockets still target busy markets.\nWhat’s the sneakiest theft you’ve experienced while traveling? Save this for your Korea trip.\n\n📖 Open the Land in Korea link in our profile and search “Travel advisories & safety notices”.\n\n#KoreaTravel #SeoulTrip #TravelSafety #PickpocketTips #FirstTimeInKorea",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-25T19:28:00.446Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-25T15:28:26.011Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Travel advisories & safety notices",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: reddit: reaction missing a specific call to comment/save/share; closing just says 'Hope this helps anyone planning a trip!' | tumblr: reaction missing a specific call to comment/save/share; closing is just a statement 'Stay alert and enjoy Korea with peace of mind.'",
+      "failedPlatforms": [
+        "reddit",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "C",
+      "checkedAt": "2026-10-25T15:28:25.319Z"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-10-25T15:28:25.647Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
   }
 ]
