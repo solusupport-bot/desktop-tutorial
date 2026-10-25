@@ -33060,5 +33060,39 @@
       "pattern": "C",
       "checkedAt": "2026-10-24T14:15:54.116Z"
     }
+  },
+  {
+    "id": "f28cb015-977f-4152-9f46-28e6654f124b",
+    "text": "Planning to grab Myeongdong street food at noon? Not yet!\nStalls only fire up around 3 pm, so head there late afternoon for the bites.\nWhat’s the best late‑afternoon snack you’ve tried in Seoul? Save this for your Korea trip.\n\n📖 Open the Land in Korea link in our profile and search “Myeongdong shopping district”.\n\n🎬 Video source: Pexels\n\n#KoreaTravel #SeoulTrip #Myeongdong #StreetFood #TravelTips\n\n🎵 🎵 Track: Melanie Ungar - What Is Love\nMusic provided by Jamendo (CC BY).",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1792898838187-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-25T09:08:56.323Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-25T03:27:26.642Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/32014935/pexels-photo-32014935.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/39474341/16813639_1080_1920_30fps.mp4",
+    "videoAttribution": "Pexels",
+    "topic": "Myeongdong shopping district",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: reddit: reaction missing (no prompt to comment, save, or share) | tumblr: reaction missing (no prompt to comment, save, or share)",
+      "failedPlatforms": [
+        "reddit",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "A",
+      "checkedAt": "2026-10-25T03:26:55.449Z"
+    }
   }
 ]
