@@ -33134,5 +33134,35 @@
     "rejectedBy": "no-media",
     "rejectedAt": "2026-10-25T06:59:29.784Z",
     "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "7c1a9901-699f-456d-9968-255825c24ad5",
+    "text": "At Incheon Airport you grab a T‑money for ₩4,000 but most forget the refund on the last day.\nAsk the kiosk to refund any remaining balance before you leave and keep that cash.\nDid you ever lose T‑money money on a trip? Save this for your Korea trip.\n\n📖 Open the Land in Korea link in our profile and search “T-money transit card”.\n\n#KoreaTravel #SeoulTrip #Tmoney #TravelTips #VisitKorea",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-25T13:08:21.607Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-25T11:29:14.489Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "T-money transit card",
+    "qualityGate": {
+      "pass": false,
+      "reason": "로컬 AI가 주제·문장·주장 품질 문제를 감지함",
+      "model": "ollaya/laya:multilingual",
+      "confidence": 0.7937,
+      "checkedAt": "2026-10-25T11:29:14.360Z"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-10-25T11:29:14.387Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
   }
 ]

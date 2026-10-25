@@ -1,11 +1,6 @@
 {
-  "lastIndex": 6,
+  "lastIndex": 7,
   "history": [
-    {
-      "index": 16,
-      "topic": "Seasonal packing & weather tips",
-      "at": "2026-09-01T04:53:35.104Z"
-    },
     {
       "index": 17,
       "topic": "Luggage storage & forwarding services",
@@ -1000,6 +995,11 @@
       "index": 6,
       "topic": "eSIM & mobile data",
       "at": "2026-10-25T06:57:36.226Z"
+    },
+    {
+      "index": 7,
+      "topic": "T-money transit card",
+      "at": "2026-10-25T11:25:23.949Z"
     }
   ],
   "recentImageUrls": [
