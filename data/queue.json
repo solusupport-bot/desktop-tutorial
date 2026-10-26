@@ -33293,5 +33293,38 @@
     },
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-10-26T03:45:10.923Z"
+  },
+  {
+    "id": "3342fe9f-a268-4491-a7b5-1546065b5170",
+    "text": "Planning to buy a 24‑hour Seoul attraction pass for your first day?\nIt only becomes cheaper after you visit enough paid attractions that day.\nDid the pass save you money or not? Save this for your Korea trip.\n\n📖 Open the Land in Korea link in our profile and search “Seoul attraction pass comparison”.\n\n#KoreaTravel #SeoulTrip #TravelTips #VisitSeoul #FirstTimeInKorea",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-27T00:06:22.552Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-26T23:57:43.632Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Seoul attraction pass comparison",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: tumblr: reaction failed because the closing does not prompt a comment, save, or share—it only gives a statement without a clear engagement cue.",
+      "failedPlatforms": [
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "B",
+      "checkedAt": "2026-10-26T23:57:43.469Z"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-10-26T23:57:43.487Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
   }
 ]

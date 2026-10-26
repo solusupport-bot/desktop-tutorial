@@ -1,11 +1,6 @@
 {
-  "lastIndex": 28,
+  "lastIndex": 29,
   "history": [
-    {
-      "index": 6,
-      "topic": "eSIM & mobile data",
-      "at": "2026-09-03T03:13:37.634Z"
-    },
     {
       "index": 7,
       "topic": "T-money transit card",
@@ -1000,6 +995,11 @@
       "index": 28,
       "topic": "Domestic flights vs. KTX for Jeju and long-distance trips",
       "at": "2026-10-26T16:24:31.283Z"
+    },
+    {
+      "index": 29,
+      "topic": "Seoul attraction pass comparison",
+      "at": "2026-10-26T23:54:00.968Z"
     }
   ],
   "recentImageUrls": [
