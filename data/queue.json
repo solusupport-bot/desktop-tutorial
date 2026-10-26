@@ -33262,5 +33262,36 @@
     "rejectedBy": "no-media",
     "rejectedAt": "2026-10-26T02:28:00.897Z",
     "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "7f333b61-753e-4bb8-98e9-ab755c40195e",
+    "text": "Thinking you can just walk onto Nami Island? Think again.\nThe only way in is a 5‑minute ferry ride (or zipline if you’re daring).\nWhich spot would you snap first – the ginkgo lane or the metasequoia?\nSave this for your Korea trip.\n\n📖 Open the Land in Korea link in our profile and search “Nami Island and Petite France day trip”.\n\n🎬 Video source: Pixabay\n\n#KoreaTravel #SeoulTrip #TravelTips #NamiIsland #PetiteFrance\n\n🎵 🎵 Track: Melanie Ungar - What Is Love\nMusic provided by Jamendo (CC BY).",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1792986297597-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-26T05:48:54.443Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-26T03:45:11.075Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/18088133/pexels-photo-18088133.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/05/08/116351-707531430_large.mp4",
+    "videoAttribution": "Pixabay",
+    "topic": "Nami Island and Petite France day trip",
+    "qualityGate": {
+      "pass": false,
+      "reason": "캡션이 나미섬만 다루고 페티트프랑스에 대한 언급이 없어 주제와 완전히 맞지 않음",
+      "model": "groq",
+      "checkedAt": "2026-10-26T03:44:03.995Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-26T03:45:10.923Z"
   }
 ]
