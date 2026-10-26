@@ -1,11 +1,6 @@
 {
-  "lastIndex": 24,
+  "lastIndex": 25,
   "history": [
-    {
-      "index": 2,
-      "topic": "N Seoul Tower (Namsan)",
-      "at": "2026-09-02T04:15:50.693Z"
-    },
     {
       "index": 3,
       "topic": "Myeongdong shopping district",
@@ -1000,6 +995,11 @@
       "index": 24,
       "topic": "Everland vs. Lotte World theme parks",
       "at": "2026-10-26T01:54:31.472Z"
+    },
+    {
+      "index": 25,
+      "topic": "Hongdae nightlife and youth culture district",
+      "at": "2026-10-26T02:24:20.812Z"
     }
   ],
   "recentImageUrls": [

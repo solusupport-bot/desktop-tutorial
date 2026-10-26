@@ -33228,5 +33228,39 @@
     "rejectedBy": "no-media",
     "rejectedAt": "2026-10-25T15:28:25.647Z",
     "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "03e3f14b-787a-4542-bb0d-0393c9903903",
+    "text": "Thinking Hongdae is lively from sunrise? Not true—it's practically empty until night.\nThe action kicks in around 6 pm (5 pm weekends) at Hongdae Playground.\nWhat’s the latest hour you’ve explored Hongdae?\n\n📖 Open the Land in Korea link in our profile and search “Hongdae nightlife and youth culture district”.\n\n#KoreaTravel #SeoulTrip #Hongdae #TravelTips #VisitKorea",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-26T04:14:53.832Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-26T02:28:01.104Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Hongdae nightlife and youth culture district",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: reddit: reaction failed - closing does not prompt comment/save/share, ends with generic offer \"Happy to share more details if you need them.\" | tumblr: reaction failed - closing lacks a call to action, only states \"Plan your Hongdae adventure for the evening and you won’t miss the fun.\"",
+      "failedPlatforms": [
+        "reddit",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "C",
+      "checkedAt": "2026-10-26T02:28:00.883Z"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-10-26T02:28:00.897Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
   }
 ]
