@@ -33326,5 +33326,39 @@
     "rejectedBy": "no-media",
     "rejectedAt": "2026-10-26T23:57:43.487Z",
     "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "43022f9e-884d-4913-8a70-d500be705e8a",
+    "text": "Lost your passport at Incheon and not sure who to call?\n\nDial 1330 Korea Travel Hotline – 24/7 English help for lost docs, hospital translation, and more.\n\nWhat’s the most confusing number you’ve faced in Korea? Save this for your Korea trip!\n\n📖 Open the Land in Korea link in our profile and search “Emergency numbers & 24hr pharmacies”.\n\n#KoreaTravel #SeoulTrip #TravelTips #FirstTimeInKorea #TravelSafety",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-27T23:43:17.576Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-27T07:27:49.988Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Emergency numbers & 24hr pharmacies",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: reddit: reaction failed – no clear call to comment/save/share, text \"Hope this helps! (More details in the comments.)\" | tumblr: hook failed – first line does not make a specific promise or name a confusion/mistake, text \"Call 1330 Korea Travel Hotline – the 24/7 English‑speaking line for lost passports, hospital translation, and other travel snags.\"; reaction failed – no engagement prompt, text \"Keep this handy for your next Korean adventure.\"",
+      "failedPlatforms": [
+        "reddit",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "O",
+      "checkedAt": "2026-10-27T07:27:49.886Z"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-10-27T07:27:49.906Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
   }
 ]
