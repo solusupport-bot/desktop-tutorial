@@ -1,11 +1,6 @@
 {
-  "lastIndex": 13,
+  "lastIndex": 14,
   "history": [
-    {
-      "index": 12,
-      "topic": "Currency & card payments",
-      "at": "2026-09-05T02:06:28.688Z"
-    },
     {
       "index": 13,
       "topic": "Emergency numbers & 24hr pharmacies",
@@ -1000,6 +995,11 @@
       "index": 13,
       "topic": "Emergency numbers & 24hr pharmacies",
       "at": "2026-10-27T07:24:16.216Z"
+    },
+    {
+      "index": 14,
+      "topic": "Useful travel apps",
+      "at": "2026-10-27T14:36:22.046Z"
     }
   ],
   "recentImageUrls": [

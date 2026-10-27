@@ -33360,5 +33360,39 @@
     "rejectedBy": "no-media",
     "rejectedAt": "2026-10-27T07:27:49.906Z",
     "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "cbece45c-5cc6-434c-95c3-a78e54ff0f26",
+    "text": "Just landed at Incheon and think Google Maps will steer you perfectly through Seoul? It won’t—swap to Naver Map or KakaoMap for real‑time routes.\nUse Naver/Kakao for accurate walking, subway & bus directions; Papago for instant menu translation; Kakao T for safe night taxis.\nWhat app saved your first day in Korea? Save this for your Korea trip.\n\n📖 Open the Land in Korea link in our profile and search “Useful travel apps”.\n\n#KoreaTravel #SeoulTrip #TravelTips #KoreanApps #FirstTimeKorea",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-27T17:55:56.403Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-27T14:40:34.648Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Useful travel apps",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: reddit: reaction failed - no engagement prompt, ends with generic hope statement \"Hope this helps anyone planning their arrival!\" | tumblr: reaction failed - no engagement prompt, ends with statement \"Keep these apps handy for a smooth first day in Korea.\"",
+      "failedPlatforms": [
+        "reddit",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "A",
+      "checkedAt": "2026-10-27T14:40:34.479Z"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-10-27T14:40:34.548Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
   }
 ]
