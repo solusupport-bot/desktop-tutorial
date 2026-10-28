@@ -33497,5 +33497,39 @@
     "rejectedBy": "no-media",
     "rejectedAt": "2026-10-28T08:27:41.908Z",
     "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "521d8df2-b32e-4998-ae20-af78d2e4139b",
+    "text": "Just arrived at Incheon and wonder if you can open a bank account with only your passport?\nYou actually need your ARC first and a Korean‑registered phone number for full services.\nDid you expect a passport‑only account to work? Save this for your Korea trip!\n\n📖 Open the Land in Korea link in our profile and search “Opening a Korean bank account as a foreigner — and why your ARC and phone number come first”.\n\n#KoreaTravel #SeoulTrip #ExpatLife #Banking #FirstTimeInKorea",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-28T15:57:01.540Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-28T15:41:53.296Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Opening a Korean bank account as a foreigner — and why your ARC and phone number come first",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: reddit: reaction check failed – no closing prompt for comment/save/share. | tumblr: reaction check failed – closing lacks a call to comment, save, or share.",
+      "failedPlatforms": [
+        "reddit",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "A",
+      "checkedAt": "2026-10-28T15:41:53.177Z"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-10-28T15:41:53.224Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
   }
 ]
