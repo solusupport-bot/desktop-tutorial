@@ -33463,5 +33463,39 @@
     "rejectedBy": "no-media",
     "rejectedAt": "2026-10-27T16:28:14.385Z",
     "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "32911982-d54d-407a-b887-0ec5d920e768",
+    "text": "Landing at Incheon and need a place to stay for a month?\nA goshiwon gives you a private room by the month, no deposit, utilities all set.\nWhat’s the smallest space you’ve ever called home?\n\n📖 Open the Land in Korea link in our profile and search “Short-term vs. long-term housing in Korea: guesthouse, goshiwon, officetel, and the deposit system”.\n\n#KoreaTravel #SeoulTrip #HousingTips #TravelAdvice #FirstTimeInKorea",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-28T09:40:20.063Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-28T08:27:42.005Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Short-term vs. long-term housing in Korea: guesthouse, goshiwon, officetel, and the deposit system",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: reddit: reaction check failed – closing only says \"Hope this helps anyone planning a short‑term stay in Korea!\" without prompting comment, save or share. | tumblr: reaction check failed – closing \"Pick the spot that matches your comfort level and enjoy a hassle‑free start in Korea.\" does not give a reason to comment, save, or share.",
+      "failedPlatforms": [
+        "reddit",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "O",
+      "checkedAt": "2026-10-28T08:27:41.884Z"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-10-28T08:27:41.908Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
   }
 ]

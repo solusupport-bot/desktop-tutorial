@@ -1,11 +1,6 @@
 {
-  "lastIndex": 33,
+  "lastIndex": 34,
   "history": [
-    {
-      "index": 18,
-      "topic": "KTX vs. SRT vs. intercity bus for long-distance travel",
-      "at": "2026-09-07T02:06:10.180Z"
-    },
     {
       "index": 19,
       "topic": "Namdaemun Market",
@@ -1000,6 +995,11 @@
       "index": 33,
       "topic": "Seoul subway details nobody tells you: exit numbers, transfer walks, express trains, and the last train",
       "at": "2026-10-28T08:13:45.347Z"
+    },
+    {
+      "index": 34,
+      "topic": "Short-term vs. long-term housing in Korea: guesthouse, goshiwon, officetel, and the deposit system",
+      "at": "2026-10-28T08:24:15.815Z"
     }
   ],
   "recentImageUrls": [
