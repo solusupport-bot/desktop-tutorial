@@ -15,15 +15,15 @@
     },
     "threads": {
       "attempts": [
-        "2026-10-24T07:02:38.324Z"
+        "2026-10-29T13:19:30.822Z"
       ],
       "successes": [
-        "2026-10-24T07:02:38.324Z"
+        "2026-10-29T13:19:30.822Z"
       ],
       "consecutiveFailures": 0,
       "blockedUntil": null,
-      "lastAttemptAt": "2026-10-24T07:02:38.324Z",
-      "lastSuccessAt": "2026-10-24T07:02:38.324Z"
+      "lastAttemptAt": "2026-10-29T13:19:30.822Z",
+      "lastSuccessAt": "2026-10-29T13:19:30.822Z"
     },
     "tumblr": {
       "attempts": [

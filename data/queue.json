@@ -33632,5 +33632,40 @@
     "rejectedBy": "no-media",
     "rejectedAt": "2026-10-29T09:28:10.825Z",
     "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "3d75ee2e-f687-4192-a5c0-e310916357ef",
+    "text": "When is the perfect time to see Seoul’s cherry blossoms without the crowds?\nEarly April – after the blooms start in Jeju and Busan in late March.\nDid you catch the blossoms early or wait for the rush? Save this for your Korea trip.\n\n📖 Open the Land in Korea link in our profile and search “Timing cherry blossoms and fall foliage in Korea without hitting peak crowds”.\n\n#KoreaTravel #SeoulTrip #CherryBlossom #TravelTips #SpringInKorea",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-29T16:24:26.438Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-29T13:27:07.074Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/40541852/pexels-photo-40541852.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Timing cherry blossoms and fall foliage in Korea without hitting peak crowds",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: reddit: reaction failed - no closing call to comment, save, or share; missing explicit engagement prompt.",
+      "failedPlatforms": [
+        "reddit"
+      ],
+      "model": "groq",
+      "pattern": "O",
+      "checkedAt": "2026-10-29T13:27:00.807Z"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-10-29T13:27:06.977Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
   }
 ]
