@@ -1,11 +1,6 @@
 {
-  "lastIndex": 39,
+  "lastIndex": 54,
   "history": [
-    {
-      "index": 3,
-      "topic": "Myeongdong shopping district",
-      "at": "2026-09-09T02:07:40.238Z"
-    },
     {
       "index": 4,
       "topic": "Busan Haeundae Beach & Gamcheon Culture Village",
@@ -1000,6 +995,11 @@
       "index": 39,
       "topic": "Timing cherry blossoms and fall foliage in Korea without hitting peak crowds",
       "at": "2026-10-29T13:24:40.787Z"
+    },
+    {
+      "index": 54,
+      "topic": "Unmanned kiosk ordering in Korea: why humans are disappearing from the counter",
+      "at": "2026-10-29T14:24:32.823Z"
     }
   ],
   "recentImageUrls": [
@@ -1822,7 +1822,8 @@
     "https://cdn.pixabay.com/video/2023/08/12/175699-854057937_large.mp4",
     "https://cdn.pixabay.com/video/2023/08/12/175698-854057932_large.mp4",
     "https://cdn.pixabay.com/video/2019/08/29/26356-357839112_large.mp4",
-    "https://cdn.pixabay.com/video/2022/05/08/116351-707531430_large.mp4"
+    "https://cdn.pixabay.com/video/2022/05/08/116351-707531430_large.mp4",
+    "https://videos.pexels.com/video-files/30012659/12876566_1080_1920_60fps.mp4"
   ],
   "recentMusicUrls": [
     "https://prod-1.storage.jamendo.com/?trackid=20237&format=mp32",

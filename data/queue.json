@@ -33667,5 +33667,35 @@
     "rejectedBy": "no-media",
     "rejectedAt": "2026-10-29T13:27:06.977Z",
     "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "fcdc0e0b-e366-4f4f-ae25-f6bb782e5c44",
+    "text": "Stuck at a Korean fast‑food kiosk because the menu’s all Korean?\nJust tap the tiny ENGLISH flag in the corner and the whole menu changes.\nWhat’s the weirdest menu you’ve seen abroad? Save this for your Korea trip.\n\n📖 Open the Land in Korea link in our profile and search “Unmanned kiosk ordering in Korea: why humans are disappearing from the counter”.\n\n#KoreaTravel #SeoulFood #TravelTips #FirstTimeInKorea #Foodie",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-29T16:22:39.303Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-29T14:27:42.228Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Unmanned kiosk ordering in Korea: why humans are disappearing from the counter",
+    "qualityGate": {
+      "pass": false,
+      "reason": "로컬 AI가 주제·문장·주장 품질 문제를 감지함",
+      "model": "ollaya/laya:multilingual",
+      "confidence": 0.8634,
+      "checkedAt": "2026-10-29T14:27:41.924Z"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-10-29T14:27:41.969Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
   }
 ]
