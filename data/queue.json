@@ -33531,5 +33531,39 @@
     "rejectedBy": "no-media",
     "rejectedAt": "2026-10-28T15:41:53.224Z",
     "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "84eb1ad8-e3dd-4d4f-8b0b-1ef97d312992",
+    "text": "Stuck at Baemin’s sign‑up asking for a Korean phone number while waiting at Incheon Airport?\nYou can register using a temporary Korean SIM or a virtual number that accepts SMS.\nWhat’s the weirdest menu item you’ve had to translate?\n\n📖 Open the Land in Korea link in our profile and search “Food delivery apps in Korea: why signing up is harder than ordering”.\n\n#KoreaTravel #SeoulFood #DeliveryTips #FirstTimeInKorea #TravelHacks",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-29T08:43:53.225Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-29T06:24:43.091Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Food delivery apps in Korea: why signing up is harder than ordering",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: reddit: missing reaction – closing has no prompt to comment, save, or share (\"Hope this helps! Happy ordering.\") | tumblr: missing reaction – closing has no prompt to comment, save, or share (\"Now you can enjoy Korean delivery without the hassle.\")",
+      "failedPlatforms": [
+        "reddit",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "O",
+      "checkedAt": "2026-10-29T06:24:42.965Z"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-10-29T06:24:42.998Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
   }
 ]
