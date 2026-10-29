@@ -33599,5 +33599,38 @@
     "rejectedBy": "no-media",
     "rejectedAt": "2026-10-29T08:42:33.212Z",
     "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "bfcfcf06-1f0c-45b0-b30c-c0eb602130ae",
+    "text": "Walking into a Seoul noraebang expecting a karaoke bar?\nYou’ll find a private room you can rent by the hour with your crew.\nWhat’s the first song you’d pick for a private booth? Save this for your Korea trip!\n\n📖 Open the Land in Korea link in our profile and search “Noraebang etiquette: how Korean karaoke actually works for first-timers”.\n\n#KoreaTravel #SeoulTrip #Noraebang #Karaoke #TravelTips",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-29T12:47:03.098Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-29T09:28:10.959Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Noraebang etiquette: how Korean karaoke actually works for first-timers",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: tumblr: reaction failed – the closing provides no explicit reason to comment, save, or share; it ends with \"Enjoy the privacy and sing your heart out!\" which is not a call to action.",
+      "failedPlatforms": [
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "C",
+      "checkedAt": "2026-10-29T09:28:10.771Z"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-10-29T09:28:10.825Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
   }
 ]
