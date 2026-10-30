@@ -33936,7 +33936,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-10-30T08:16:56.993Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-10-30T07:58:59.977Z",
     "approved": true,
@@ -34277,7 +34277,7 @@
       "bluesky"
     ],
     "scheduledAt": "2026-10-30T13:38:25.388Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-10-30T08:02:50.205Z",
     "approved": true,
@@ -34309,7 +34309,7 @@
       "mastodon"
     ],
     "scheduledAt": "2026-10-30T14:10:10.387Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-10-30T08:02:50.269Z",
     "approved": true,
