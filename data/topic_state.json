@@ -1,11 +1,6 @@
 {
-  "lastIndex": 54,
+  "lastIndex": 55,
   "history": [
-    {
-      "index": 4,
-      "topic": "Busan Haeundae Beach & Gamcheon Culture Village",
-      "at": "2026-09-10T02:06:20.266Z"
-    },
     {
       "index": 5,
       "topic": "Jeju Island",
@@ -1000,6 +995,11 @@
       "index": 54,
       "topic": "Unmanned kiosk ordering in Korea: why humans are disappearing from the counter",
       "at": "2026-10-29T14:24:32.823Z"
+    },
+    {
+      "index": 55,
+      "topic": "Mobile payments in Korea: Kakao Pay, Naver Pay, and why Apple Pay doesn’t work",
+      "at": "2026-10-30T02:24:24.994Z"
     }
   ],
   "recentImageUrls": [

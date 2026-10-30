@@ -33697,5 +33697,35 @@
     "rejectedBy": "no-media",
     "rejectedAt": "2026-10-29T14:27:41.969Z",
     "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "ea1f9640-8a92-4525-84f6-65cba5d784b4",
+    "text": "Trying Apple Pay at a Seoul subway gate and it just won’t register?\nKorean card terminals use a local NFC standard, so Apple Pay and Google Pay are unreliable. Locals rely on QR‑code wallets like Kakao Pay or Naver Pay.\nWhat’s the weirdest payment hiccup you’ve faced in Korea?\n\n📖 Open the Land in Korea link in our profile and search “Mobile payments in Korea: Kakao Pay, Naver Pay, and why Apple Pay doesn’t work”.\n\n#KoreaTravel #SeoulTrip #TravelTips #ApplePay #KakaoPay",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-30T08:57:08.960Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-30T02:27:40.756Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Mobile payments in Korea: Kakao Pay, Naver Pay, and why Apple Pay doesn’t work",
+    "qualityGate": {
+      "pass": false,
+      "reason": "로컬 AI가 주제·문장·주장 품질 문제를 감지함",
+      "model": "ollaya/laya:multilingual",
+      "confidence": 0.9464,
+      "checkedAt": "2026-10-30T02:27:39.976Z"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-10-30T02:27:40.168Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
   }
 ]
