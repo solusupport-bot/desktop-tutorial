@@ -33936,8 +33936,13 @@
       "facebook"
     ],
     "scheduledAt": "2026-10-30T08:16:56.993Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "122127900549446391",
+        "post_id": "1288453561012463_122127900579446391"
+      }
+    },
     "createdAt": "2026-10-30T07:58:59.977Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -33956,7 +33961,8 @@
       "checkedAt": "2026-10-30T07:58:53.633Z",
       "pattern": "A"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-day-tripping-from-seoul-by-regular-train-mugunghwa-itx-saemaeul-and-the-gyeongui-jungang-line.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-day-tripping-from-seoul-by-regular-train-mugunghwa-itx-saemaeul-and-the-gyeongui-jungang-line.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-10-30T16:18:59.392Z"
   },
   {
     "id": "5af1812c-0bd5-4e7c-b0ed-50ffdaf43557",
@@ -34277,8 +34283,13 @@
       "bluesky"
     ],
     "scheduledAt": "2026-10-30T13:38:25.388Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mz46nqchvf2t",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3mz46nqchvf2t"
+      }
+    },
     "createdAt": "2026-10-30T08:02:50.205Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -34299,7 +34310,8 @@
       "pattern": "O",
       "checkedAt": "2026-10-30T08:02:49.783Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-doing-laundry-in-korea-coin-laundromats-the-dryer-problem-and-neighborhood-dry-cleaners.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-doing-laundry-in-korea-coin-laundromats-the-dryer-problem-and-neighborhood-dry-cleaners.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-10-30T16:19:01.439Z"
   },
   {
     "id": "c7081adb-3403-48e8-b113-efb5ff2342b7",
@@ -34309,8 +34321,13 @@
       "mastodon"
     ],
     "scheduledAt": "2026-10-30T14:10:10.387Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "mastodon": {
+        "id": "117530764341953613",
+        "url": "https://mastodon.social/@landinkorea/117530764341953613"
+      }
+    },
     "createdAt": "2026-10-30T08:02:50.269Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -34331,7 +34348,8 @@
       "pattern": "O",
       "checkedAt": "2026-10-30T08:02:49.783Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-doing-laundry-in-korea-coin-laundromats-the-dryer-problem-and-neighborhood-dry-cleaners.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-doing-laundry-in-korea-coin-laundromats-the-dryer-problem-and-neighborhood-dry-cleaners.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-10-30T16:19:03.046Z"
   },
   {
     "id": "49546269-98d6-4085-ab61-2facaa02e473",
