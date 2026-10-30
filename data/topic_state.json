@@ -1,11 +1,6 @@
 {
-  "lastIndex": 56,
+  "lastIndex": 40,
   "history": [
-    {
-      "index": 6,
-      "topic": "eSIM & mobile data",
-      "at": "2026-09-10T02:07:55.078Z"
-    },
     {
       "index": 7,
       "topic": "T-money transit card",
@@ -1000,6 +995,11 @@
       "index": 56,
       "topic": "Public bathhouse culture in Korea beyond the jjimjilbang: the mogyoktang rules",
       "at": "2026-10-30T05:24:30.594Z"
+    },
+    {
+      "index": 40,
+      "topic": "Learning to read Hangul in a weekend — and why romanized signs still confuse you",
+      "at": "2026-10-30T07:24:25.600Z"
     }
   ],
   "recentImageUrls": [
@@ -1673,7 +1673,8 @@
     "https://images.pexels.com/photos/40145616/pexels-photo-40145616.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://images.pexels.com/photos/40394267/pexels-photo-40394267.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://images.pexels.com/photos/11320486/pexels-photo-11320486.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://images.pexels.com/photos/40541852/pexels-photo-40541852.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "https://images.pexels.com/photos/40541852/pexels-photo-40541852.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/31955747/pexels-photo-31955747.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
   ],
   "recentVideoUrls": [
     "https://videos.pexels.com/video-files/19577787/19577787-uhd_2160_3840_30fps.mp4",
