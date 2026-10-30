@@ -3,15 +3,15 @@
   "platforms": {
     "facebook": {
       "attempts": [
-        "2026-10-24T12:24:53.204Z"
+        "2026-10-30T16:18:59.333Z"
       ],
       "successes": [
-        "2026-10-24T12:24:53.204Z"
+        "2026-10-30T16:18:59.333Z"
       ],
       "consecutiveFailures": 0,
       "blockedUntil": null,
-      "lastAttemptAt": "2026-10-24T12:24:53.204Z",
-      "lastSuccessAt": "2026-10-24T12:24:53.204Z"
+      "lastAttemptAt": "2026-10-30T16:18:59.333Z",
+      "lastSuccessAt": "2026-10-30T16:18:59.333Z"
     },
     "threads": {
       "attempts": [
@@ -51,27 +51,31 @@
     },
     "bluesky": {
       "attempts": [
-        "2026-10-30T08:17:13.592Z"
+        "2026-10-30T08:17:13.592Z",
+        "2026-10-30T16:19:01.430Z"
       ],
       "successes": [
-        "2026-10-30T08:17:13.592Z"
+        "2026-10-30T08:17:13.592Z",
+        "2026-10-30T16:19:01.430Z"
       ],
       "consecutiveFailures": 0,
       "blockedUntil": null,
-      "lastAttemptAt": "2026-10-30T08:17:13.592Z",
-      "lastSuccessAt": "2026-10-30T08:17:13.592Z"
+      "lastAttemptAt": "2026-10-30T16:19:01.430Z",
+      "lastSuccessAt": "2026-10-30T16:19:01.430Z"
     },
     "mastodon": {
       "attempts": [
-        "2026-10-30T08:17:30.047Z"
+        "2026-10-30T08:17:30.047Z",
+        "2026-10-30T16:19:03.042Z"
       ],
       "successes": [
-        "2026-10-30T08:17:30.047Z"
+        "2026-10-30T08:17:30.047Z",
+        "2026-10-30T16:19:03.042Z"
       ],
       "consecutiveFailures": 0,
       "blockedUntil": null,
-      "lastAttemptAt": "2026-10-30T08:17:30.047Z",
-      "lastSuccessAt": "2026-10-30T08:17:30.047Z",
+      "lastAttemptAt": "2026-10-30T16:19:03.042Z",
+      "lastSuccessAt": "2026-10-30T16:19:03.042Z",
       "lastFailureAt": "2026-10-01T09:39:44.332Z"
     },
     "instagram": {
