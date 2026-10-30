@@ -15,29 +15,29 @@
     },
     "threads": {
       "attempts": [
-        "2026-10-29T13:19:30.822Z"
+        "2026-10-29T13:19:30.822Z",
+        "2026-10-30T08:08:20.522Z"
       ],
       "successes": [
-        "2026-10-29T13:19:30.822Z"
+        "2026-10-29T13:19:30.822Z",
+        "2026-10-30T08:08:20.522Z"
       ],
       "consecutiveFailures": 0,
       "blockedUntil": null,
-      "lastAttemptAt": "2026-10-29T13:19:30.822Z",
-      "lastSuccessAt": "2026-10-29T13:19:30.822Z"
+      "lastAttemptAt": "2026-10-30T08:08:20.522Z",
+      "lastSuccessAt": "2026-10-30T08:08:20.522Z"
     },
     "tumblr": {
       "attempts": [
-        "2026-10-22T09:14:11.899Z",
-        "2026-10-23T04:24:44.131Z"
+        "2026-10-30T08:17:33.799Z"
       ],
       "successes": [
-        "2026-10-22T09:14:11.899Z",
-        "2026-10-23T04:24:44.131Z"
+        "2026-10-30T08:17:33.799Z"
       ],
       "consecutiveFailures": 0,
       "blockedUntil": null,
-      "lastAttemptAt": "2026-10-23T04:24:44.131Z",
-      "lastSuccessAt": "2026-10-23T04:24:44.131Z"
+      "lastAttemptAt": "2026-10-30T08:17:33.799Z",
+      "lastSuccessAt": "2026-10-30T08:17:33.799Z"
     },
     "pinterest": {
       "attempts": [
@@ -51,27 +51,27 @@
     },
     "bluesky": {
       "attempts": [
-        "2026-10-24T12:25:32.133Z"
+        "2026-10-30T08:17:13.592Z"
       ],
       "successes": [
-        "2026-10-24T12:25:32.133Z"
+        "2026-10-30T08:17:13.592Z"
       ],
       "consecutiveFailures": 0,
       "blockedUntil": null,
-      "lastAttemptAt": "2026-10-24T12:25:32.133Z",
-      "lastSuccessAt": "2026-10-24T12:25:32.133Z"
+      "lastAttemptAt": "2026-10-30T08:17:13.592Z",
+      "lastSuccessAt": "2026-10-30T08:17:13.592Z"
     },
     "mastodon": {
       "attempts": [
-        "2026-10-24T12:25:36.589Z"
+        "2026-10-30T08:17:30.047Z"
       ],
       "successes": [
-        "2026-10-24T12:25:36.589Z"
+        "2026-10-30T08:17:30.047Z"
       ],
       "consecutiveFailures": 0,
       "blockedUntil": null,
-      "lastAttemptAt": "2026-10-24T12:25:36.589Z",
-      "lastSuccessAt": "2026-10-24T12:25:36.589Z",
+      "lastAttemptAt": "2026-10-30T08:17:30.047Z",
+      "lastSuccessAt": "2026-10-30T08:17:30.047Z",
       "lastFailureAt": "2026-10-01T09:39:44.332Z"
     },
     "instagram": {
