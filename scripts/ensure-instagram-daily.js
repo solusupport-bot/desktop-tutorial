@@ -56,7 +56,7 @@ const main = async () => {
   let attempts = 0;
   while (todayCount() < TARGET_PER_DAY && attempts < MAX_ATTEMPTS) {
     attempts += 1;
-    const topicAndSeed = pickNextTopic(topics);
+    const topicAndSeed = pickNextTopic(topics, 'instagram-fill');
     log.ok(`시도 ${attempts}/${MAX_ATTEMPTS}: ${topicAndSeed.topic.source}`);
     await queueOneTopic(topicAndSeed, [0, 24], ['instagram']);
     const latest = lastInstagramStatus();

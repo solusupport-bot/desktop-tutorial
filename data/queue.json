@@ -33757,5 +33757,806 @@
     "rejectedBy": "no-media",
     "rejectedAt": "2026-10-30T05:27:42.073Z",
     "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "5149af75-bebb-49d4-a923-e151da35b2e2",
+    "text": "Got a sore throat right after getting off at Seoul Station and think you need a university hospital?\nSkip that—head to a neighborhood clinic (signs end in 의원) with a specialty like 내과, 이비인후과, or 피부과.\nWhich clinic sign surprised you most? Save this for your Korea trip.\n\n📖 Open the Land in Korea link in our profile and search “Hospital vs. clinic vs. pharmacy in Korea: where to actually go when you get sick”.\n\n#KoreaTravel #Seoul #SeoulTrip #의원 #KoreanHealthcare",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-30T18:08:52.299Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-30T07:40:37.963Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Hospital vs. clinic vs. pharmacy in Korea: where to actually go when you get sick",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: tumblr: reaction check failed – closing does not prompt comment, save, or share, e.g., \"Next time you’re sick, skip the big hospital and head to the local clinic.\"",
+      "failedPlatforms": [
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "A",
+      "checkedAt": "2026-10-30T07:40:37.910Z"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-10-30T07:40:37.923Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "b85728f5-ec92-40a3-a896-fe1f38291397",
+    "text": "Planning to work from a cute Hongdae café on a Saturday? Wait—\nIf you see a crossed‑out laptop sign on the door, laptops are banned that day.\nWhich café rule surprised you the most? Save this for your Korea trip.\n\n📖 Open the Land in Korea link in our profile and search “Cafes as workspaces in Korea: unspoken rules of study cafes, franchise chains, and 'no-laptop' signs”.\n\n#KoreaTravel #VisitKorea #SeoulTrip #HongdaeCafes #LaptopFreeCafes",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-30T15:12:45.467Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-30T07:45:43.810Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Cafes as workspaces in Korea: unspoken rules of study cafes, franchise chains, and 'no-laptop' signs",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: reddit: reaction missing – closing does not prompt comment, save, or share. Example: \"Hope this clears up where you can set up shop!\" | tumblr: reaction missing – closing lacks engagement prompt. Example: \"Keep this in mind next time you hunt for a work‑friendly café in Korea.\"",
+      "failedPlatforms": [
+        "reddit",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "A",
+      "checkedAt": "2026-10-30T07:45:43.705Z"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-10-30T07:45:43.731Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "21ab1b37-c159-42e2-af5f-ae3519a75f86",
+    "text": "At a Seoul bus stop, thinking blue always means a long‑haul bus?\nIn Busan the same blue runs short circulators, and each city uses its own palette.\nWhat’s the strangest bus color rule you’ve seen? Save this for your Korea trip.\n\n📖 Open the Land in Korea link in our profile and search “Bus travel inside Korean cities: color codes, tag-off transfers, and why you must flag the bus”.\n\n#KoreaTravel #VisitKorea #SeoulTrip #SeoulBus #BusanBus",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-30T18:02:28.329Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-30T07:47:18.377Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/39995462/pexels-photo-39995462.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Bus travel inside Korean cities: color codes, tag-off transfers, and why you must flag the bus",
+    "qualityGate": {
+      "pass": false,
+      "reason": "로컬 AI가 주제·문장·주장 품질 문제를 감지함",
+      "model": "ollaya/laya:multilingual",
+      "confidence": 0.8968,
+      "checkedAt": "2026-10-30T07:47:12.873Z"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-10-30T07:47:18.342Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "86a13aa7-7977-498c-a4f1-fdb4d36a35c9",
+    "text": "Trying to call a Seoul restaurant for a table and getting no answer?\nThey only take reservations on Naver Place or Catch Table, and both demand a Korean phone number.\nWhat’s the most creative way you got a Korean number? Share below!\n\n📖 Open the Land in Korea link in our profile and search “Reserving restaurants and joining waitlists in Korea: Catch Table, Naver booking, and the Tabling tablet”.\n\n#KoreaTravel #VisitKorea #SeoulTrip #NaverPlace #CatchTable",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-30T13:06:40.628Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-30T07:57:33.610Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Reserving restaurants and joining waitlists in Korea: Catch Table, Naver booking, and the Tabling tablet",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽게 구성돼 있으며 사실도 과장 없이 여행자에게 유용한 정보를 제공한다.",
+      "model": "groq",
+      "checkedAt": "2026-10-30T07:57:31.118Z",
+      "pattern": "A"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-10-30T07:57:33.515Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "2cb2058f-751e-4e5c-992f-27630dcb706d",
+    "text": "Thinking of buying a ticket for Heyri on the Gyeongui‑Jungang line? Stop before you tap your T‑money.\n\nYou can ride there with just your T‑money; it’s a regular commuter train, no reservation required.\n\nThe trip takes over an hour each way, so bring a snack and enjoy the scenery.\n\nIf you catch an ITX‑Saemaeul express, you’ll need a separate ticket – check the schedule at Let’s Korail.\n\nWhich commuter line have you used for a free day‑trip from Seoul? Open the Land in Korea link in profile.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1793347135730-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1793347135730-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-10-30T08:07:08.753Z",
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "17865064023693284"
+      }
+    },
+    "createdAt": "2026-10-30T07:58:59.930Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g11ae18888f31e6cfe72e9faa0570a20b1af4dd3b81402f205b52f0f90b59dc9d7bd972460b2515ce9c70074038d80d8d883c2bb51bfe2612fa53b957a24c606c_1280.jpg#pixabay=2610207"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Day-tripping from Seoul by regular train: Mugunghwa, ITX-Saemaeul, and the Gyeongui-Jungang line",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련된 내용이며 문장도 자연스럽고 사실 주장도 신뢰할 수 있어 여행 정보로 충분히 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-10-30T07:58:53.633Z",
+      "pattern": "A"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-day-tripping-from-seoul-by-regular-train-mugunghwa-itx-saemaeul-and-the-gyeongui-jungang-line.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-10-30T08:08:20.533Z"
+  },
+  {
+    "id": "c8885b05-f90b-46e4-b2c9-2c396aa2bb82",
+    "text": "Don’t buy a separate ticket for Paju’s Heyri area if you have a T‑money card – you can ride there for free. 🚇\n1️⃣ Gyeongui‑Jungang line runs like a subway beyond Seoul.\n2️⃣ Just tap your card, no reservation needed.\n3️⃣ Expect >1 hour each way.\n4️⃣ Express ITX services require an extra ticket.\n5️⃣ Check station stops on Let’s Korail.\n✅ Remember: tap, ride, enjoy.\nSave this for your next day trip!\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-day-tripping-from-seoul-by-regular-train-mugunghwa-itx-saemaeul-and-the-gyeongui-jungang-line.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1793347135730-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1793347135730-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-10-31T04:35:27.007Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-30T07:58:59.977Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g11ae18888f31e6cfe72e9faa0570a20b1af4dd3b81402f205b52f0f90b59dc9d7bd972460b2515ce9c70074038d80d8d883c2bb51bfe2612fa53b957a24c606c_1280.jpg#pixabay=2610207"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Day-tripping from Seoul by regular train: Mugunghwa, ITX-Saemaeul, and the Gyeongui-Jungang line",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련된 내용이며 문장도 자연스럽고 사실 주장도 신뢰할 수 있어 여행 정보로 충분히 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-10-30T07:58:53.633Z",
+      "pattern": "A"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-day-tripping-from-seoul-by-regular-train-mugunghwa-itx-saemaeul-and-the-gyeongui-jungang-line.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "5af1812c-0bd5-4e7c-b0ed-50ffdaf43557",
+    "text": "Planning a day trip to Heyri in Paju? Don’t buy a ticket first.\nYour T‑money card gets you on the Gyeongui‑Jungang line with no reservation.\nWhat’s your favorite free‑ticket commuter adventure?\n\n📖 Open the Land in Korea link in our profile and search “Day-tripping from Seoul by regular train: Mugunghwa, ITX-Saemaeul, and the Gyeongui-Jungang line”.\n\n#KoreaTravel #VisitKorea #SeoulTrip #Heyri #GyeonguiJungangLine",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-31T04:36:34.175Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-30T07:59:00.035Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g11ae18888f31e6cfe72e9faa0570a20b1af4dd3b81402f205b52f0f90b59dc9d7bd972460b2515ce9c70074038d80d8d883c2bb51bfe2612fa53b957a24c606c_1280.jpg#pixabay=2610207"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Day-tripping from Seoul by regular train: Mugunghwa, ITX-Saemaeul, and the Gyeongui-Jungang line",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련된 내용이며 문장도 자연스럽고 사실 주장도 신뢰할 수 있어 여행 정보로 충분히 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-10-30T07:58:53.633Z",
+      "pattern": "A"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-10-30T07:58:59.996Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "16924762-3f0f-4a02-8285-909db1cfc8fd",
+    "text": "If you’re wondering whether you need a separate ticket to reach Heyri in Paju by train, the answer is no when you use the commuter line.\n- Just tap your T‑money on the Gyeongui‑Jungang line; it’s treated like the subway and needs no reservation.\n- The ride is over an hour each way, so plan your schedule.\n- Fast ITX‑Saemaeul services do require an extra ticket, so check the timetable.\nHas anyone tried this route and how was the experience?\n\n📖 Full article: https://landinkorea.com/posts/korea-day-tripping-from-seoul-by-regular-train-mugunghwa-itx-saemaeul-and-the-gyeongui-jungang-line.html?utm_source=reddit&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": null,
+    "platforms": [
+      "reddit"
+    ],
+    "scheduledAt": "2026-10-31T06:26:46.075Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-30T07:59:00.086Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g11ae18888f31e6cfe72e9faa0570a20b1af4dd3b81402f205b52f0f90b59dc9d7bd972460b2515ce9c70074038d80d8d883c2bb51bfe2612fa53b957a24c606c_1280.jpg#pixabay=2610207"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Day-tripping from Seoul by regular train: Mugunghwa, ITX-Saemaeul, and the Gyeongui-Jungang line",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련된 내용이며 문장도 자연스럽고 사실 주장도 신뢰할 수 있어 여행 정보로 충분히 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-10-30T07:58:53.633Z",
+      "pattern": "A"
+    },
+    "subreddit": "koreatravel"
+  },
+  {
+    "id": "1cd2c751-31ac-44d8-98b5-01e13bd34e5b",
+    "text": "Thinking of buying a ticket for Heyri on the Gyeongui‑Jungang line? Stop before you tap your T‑money.\n\nYou can ride there with just your T‑money; it’s a regular commuter train, no reservation required.\n\nThe journey exceeds an hour each way, perfect for a relaxed day‑trip.\n\nIf you board an ITX‑Saemaeul express, you’ll need a separate ticket – double‑check the schedule.\n\nWhich free‑ticket commuter line have you used from Seoul? #KoreaTravel #Heyri",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1793347135730-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1793347135730-v0-0.jpg"
+    ],
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-10-31T05:00:53.477Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-30T07:59:00.127Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g11ae18888f31e6cfe72e9faa0570a20b1af4dd3b81402f205b52f0f90b59dc9d7bd972460b2515ce9c70074038d80d8d883c2bb51bfe2612fa53b957a24c606c_1280.jpg#pixabay=2610207"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Day-tripping from Seoul by regular train: Mugunghwa, ITX-Saemaeul, and the Gyeongui-Jungang line",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련된 내용이며 문장도 자연스럽고 사실 주장도 신뢰할 수 있어 여행 정보로 충분히 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-10-30T07:58:53.633Z",
+      "pattern": "A"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-day-tripping-from-seoul-by-regular-train-mugunghwa-itx-saemaeul-and-the-gyeongui-jungang-line.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "30f32718-1fc8-4fbc-8b5b-e5d4037afbf5",
+    "text": "Thinking of buying a ticket for Heyri on the Gyeongui‑Jungang line? Stop before you tap your T‑money.\n\nYou can travel there with only your T‑money card; the line operates as a regular commuter train and needs no reservation.\n\nThe trip takes well over an hour each way, so bring a snack and enjoy the countryside views.\n\nBe aware that the faster ITX‑Saemaeul express services require an additional ticket – verify the timetable on Let’s Korail.\n\nWhich commuter line have you used for a free day‑trip from Seoul? #TravelTips #Heyri",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1793347135730-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1793347135730-v0-0.jpg"
+    ],
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-10-31T05:27:10.436Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-30T07:59:00.164Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g11ae18888f31e6cfe72e9faa0570a20b1af4dd3b81402f205b52f0f90b59dc9d7bd972460b2515ce9c70074038d80d8d883c2bb51bfe2612fa53b957a24c606c_1280.jpg#pixabay=2610207"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Day-tripping from Seoul by regular train: Mugunghwa, ITX-Saemaeul, and the Gyeongui-Jungang line",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련된 내용이며 문장도 자연스럽고 사실 주장도 신뢰할 수 있어 여행 정보로 충분히 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-10-30T07:58:53.633Z",
+      "pattern": "A"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-day-tripping-from-seoul-by-regular-train-mugunghwa-itx-saemaeul-and-the-gyeongui-jungang-line.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "36e702e8-9dff-4e90-ae29-c5629fd55e01",
+    "text": "You don’t need a separate ticket to reach Heyri in Paju – just tap your T‑money on the Gyeongui‑Jungang line.\n1. The line runs like a subway beyond Seoul, no reservation needed.\n2. Expect over an hour each way, so plan your time.\n3. If you catch an ITX‑Saemaeul express, buy an extra ticket.\nEnjoy the ride and save this tip for later.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1793347135730-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1793347135730-v0-0.jpg"
+    ],
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-10-31T07:26:55.560Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-30T07:59:00.203Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g11ae18888f31e6cfe72e9faa0570a20b1af4dd3b81402f205b52f0f90b59dc9d7bd972460b2515ce9c70074038d80d8d883c2bb51bfe2612fa53b957a24c606c_1280.jpg#pixabay=2610207"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Day-tripping from Seoul by regular train: Mugunghwa, ITX-Saemaeul, and the Gyeongui-Jungang line",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련된 내용이며 문장도 자연스럽고 사실 주장도 신뢰할 수 있어 여행 정보로 충분히 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-10-30T07:58:53.633Z",
+      "pattern": "A"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-day-tripping-from-seoul-by-regular-train-mugunghwa-itx-saemaeul-and-the-gyeongui-jungang-line.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "1b379681-913e-470e-9b26-83b26ba3ef6b",
+    "text": "Stuck at your Seoul Airbnb with a pile of wet laundry and no dryer?\nKorea's answer: 24‑hour coin laundromats everywhere, and they automatically add detergent.\nMachines are sorted by load size, not by type, and you can pay with card or mobile.\nInstructions are Korean‑only, but the button icons follow a simple wash‑dry‑time pattern—look for the picture guide on the wall.\nDid you ever waste time searching for a dryer? Open the Land in Korea link in my profile for more tips.\n\n📖 Open the Land in Korea link in our profile and search “Doing laundry in Korea: coin laundromats, the dryer problem, and neighborhood dry cleaners”.",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-10-30T13:08:22.503Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-30T08:02:49.859Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Doing laundry in Korea: coin laundromats, the dryer problem, and neighborhood dry cleaners",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: reddit: reaction check failed – closing has no specific CTA, only \"Hope this helps!\" | tumblr: reaction check failed – closing lacks CTA, just \"Next time you travel, just bring your clothes, not the detergent.\"",
+      "failedPlatforms": [
+        "reddit",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "O",
+      "checkedAt": "2026-10-30T08:02:49.783Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-doing-laundry-in-korea-coin-laundromats-the-dryer-problem-and-neighborhood-dry-cleaners.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "68a84dd9-4d69-4322-bb7a-77a6a1213421",
+    "text": "📌 Think Korean homes have dryers? Nope—most rely on 24‑hour coin laundromats that already add detergent for you.\n1️⃣ Machines are sorted by capacity, not fabric type.\n2️⃣ Pay with card, mobile or coins.\n3️⃣ English picture guides show the wash‑dry‑time buttons.\n✅ Checklist: Bring laundry, not detergent.\nDid this change your plan? Save this for your Korea trip\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-doing-laundry-in-korea-coin-laundromats-the-dryer-problem-and-neighborhood-dry-cleaners.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": null,
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-10-30T13:14:42.546Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-30T08:02:49.992Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Doing laundry in Korea: coin laundromats, the dryer problem, and neighborhood dry cleaners",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: reddit: reaction check failed – closing has no specific CTA, only \"Hope this helps!\" | tumblr: reaction check failed – closing lacks CTA, just \"Next time you travel, just bring your clothes, not the detergent.\"",
+      "failedPlatforms": [
+        "reddit",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "O",
+      "checkedAt": "2026-10-30T08:02:49.783Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-doing-laundry-in-korea-coin-laundromats-the-dryer-problem-and-neighborhood-dry-cleaners.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "b62793d9-d7bb-4ab6-9335-c6188b629cce",
+    "text": "Stuck at a Seoul Airbnb with wet clothes and no dryer?\nUse a 24‑hour coin laundromat—detergent is added automatically, and you can pay by card.\nWhat’s the weirdest laundry surprise you’ve had in a new country?\n\n📖 Open the Land in Korea link in our profile and search “Doing laundry in Korea: coin laundromats, the dryer problem, and neighborhood dry cleaners”.\n\n#KoreaTravel #VisitKorea #SeoulTrip #CoinLaundry #LaundryInKorea",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-30T13:21:59.752Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-30T08:02:50.078Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Doing laundry in Korea: coin laundromats, the dryer problem, and neighborhood dry cleaners",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: reddit: reaction check failed – closing has no specific CTA, only \"Hope this helps!\" | tumblr: reaction check failed – closing lacks CTA, just \"Next time you travel, just bring your clothes, not the detergent.\"",
+      "failedPlatforms": [
+        "reddit",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "O",
+      "checkedAt": "2026-10-30T08:02:49.783Z"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-10-30T08:02:50.025Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "aa11b783-d673-4ee4-9fa8-1b1a182f6453",
+    "text": "Finding a place to dry clothes in Seoul can be tricky because most apartments don’t have dryers. Here’s what works:\n\n- 24‑hour coin laundromats (코인빨래방) are on every block in residential and university areas; the machines dispense detergent automatically.\n- Machines are organized by load capacity, so pick the size that matches your basket and press the wash‑dry‑time sequence.\n- Payments accept coins, credit cards, or mobile apps, and many locations post an English picture guide for the Korean‑only buttons.\n\nI’ve used them near Hongdae and in Gangnam without any hassle. Hope this helps!\n\n📖 Full article: https://landinkorea.com/posts/korea-doing-laundry-in-korea-coin-laundromats-the-dryer-problem-and-neighborhood-dry-cleaners.html?utm_source=reddit&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": null,
+    "platforms": [
+      "reddit"
+    ],
+    "scheduledAt": "2026-10-30T15:10:03.329Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-30T08:02:50.139Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Doing laundry in Korea: coin laundromats, the dryer problem, and neighborhood dry cleaners",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: reddit: reaction check failed – closing has no specific CTA, only \"Hope this helps!\" | tumblr: reaction check failed – closing lacks CTA, just \"Next time you travel, just bring your clothes, not the detergent.\"",
+      "failedPlatforms": [
+        "reddit",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "O",
+      "checkedAt": "2026-10-30T08:02:49.783Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-30T08:02:50.107Z",
+    "subreddit": "koreatravel"
+  },
+  {
+    "id": "9176f28c-7933-4762-b32c-d517229ba092",
+    "text": "At the Seoul train station, your suitcase is full of wet socks and the hostel says there’s no dryer.\nThe city’s solution: 24‑hour coin laundromats that automatically add detergent and accept card payments.\nMachines are labeled by load capacity, not fabric type, so just match the drum size.\nButtons are Korean‑only, but the icons follow a wash‑dry‑time pattern—look for the wall guide.\nEver wasted time hunting for a dryer in a foreign city? #KoreaTravel #CoinLaundry",
+    "imageUrl": null,
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-10-30T13:38:25.388Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-30T08:02:50.205Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Doing laundry in Korea: coin laundromats, the dryer problem, and neighborhood dry cleaners",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: reddit: reaction check failed – closing has no specific CTA, only \"Hope this helps!\" | tumblr: reaction check failed – closing lacks CTA, just \"Next time you travel, just bring your clothes, not the detergent.\"",
+      "failedPlatforms": [
+        "reddit",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "O",
+      "checkedAt": "2026-10-30T08:02:49.783Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-doing-laundry-in-korea-coin-laundromats-the-dryer-problem-and-neighborhood-dry-cleaners.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "c7081adb-3403-48e8-b113-efb5ff2342b7",
+    "text": "At the Seoul train station, your suitcase is full of wet socks and the hostel says there’s no dryer.\nKorea’s fix: 24‑hour coin laundromats that automatically dispense detergent and take cards, mobile or coins.\nThe machines are grouped by load capacity, not by fabric, so choose the right drum size for your pile.\nEven though the panels are Korean‑only, the icons follow a simple wash‑dry‑time sequence and most sites post an English picture guide.\nHave you ever struggled to find a dryer abroad? Share your story! #KoreaTravel #Seoul #CoinLaundry",
+    "imageUrl": null,
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-10-30T14:10:10.387Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-10-30T08:02:50.269Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Doing laundry in Korea: coin laundromats, the dryer problem, and neighborhood dry cleaners",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: reddit: reaction check failed – closing has no specific CTA, only \"Hope this helps!\" | tumblr: reaction check failed – closing lacks CTA, just \"Next time you travel, just bring your clothes, not the detergent.\"",
+      "failedPlatforms": [
+        "reddit",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "O",
+      "checkedAt": "2026-10-30T08:02:49.783Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-doing-laundry-in-korea-coin-laundromats-the-dryer-problem-and-neighborhood-dry-cleaners.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "49546269-98d6-4085-ab61-2facaa02e473",
+    "text": "Stuck at a Seoul Airbnb with a mountain of wet laundry? Korea solves it with 24‑hour coin laundromats that automatically dispense detergent—no dryer needed.\n1. Machines are organized by load size, not fabric, and accept coins, cards, or mobile payments.\n2. English picture guides on the wall show the simple wash‑dry‑time button icons.\n3. Most neighborhoods and university districts have one within a few minutes walk.\nNext time you travel, just bring your clothes, not the detergent.",
+    "imageUrl": null,
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-10-30T16:10:33.856Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-30T08:02:50.326Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Doing laundry in Korea: coin laundromats, the dryer problem, and neighborhood dry cleaners",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: reddit: reaction check failed – closing has no specific CTA, only \"Hope this helps!\" | tumblr: reaction check failed – closing lacks CTA, just \"Next time you travel, just bring your clothes, not the detergent.\"",
+      "failedPlatforms": [
+        "reddit",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "O",
+      "checkedAt": "2026-10-30T08:02:49.783Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-30T08:02:50.296Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-doing-laundry-in-korea-coin-laundromats-the-dryer-problem-and-neighborhood-dry-cleaners.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "86a98338-4a3e-4f72-98eb-8861157494b6",
+    "text": "Planning a Monday museum run in Seoul? You might end up at a closed palace.\n\nGyeongbokgung stays open Monday, but Changdeokgung, Changgyeonggung, Deoksugung, and Jongmyo are all shut.\n\nMost city museums also close Monday, and ticket booths stop selling about an hour before gates close.\n\nJongmyo only allows free roaming on its few special days; otherwise you need a timed guided tour.\n\nWhat surprise closures have you hit? Open the Land in Korea link in the profile.\n\n📖 Open the Land in Korea link in our profile and search “The closed-on-Monday trap: how Korean palaces and museums schedule their days off”.",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-10-31T01:43:08.374Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-30T08:06:37.996Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "The closed-on-Monday trap: how Korean palaces and museums schedule their days off",
+    "qualityGate": {
+      "pass": false,
+      "reason": "로컬 AI가 주제·문장·주장 품질 문제를 감지함",
+      "model": "ollaya/laya:multilingual",
+      "confidence": 0.7752,
+      "checkedAt": "2026-10-30T08:06:37.968Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-30T08:06:37.973Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-the-closed-on-monday-trap-how-korean-palaces-and-museums-schedule-their-days-off.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "0d0d37bb-bfc7-4ce9-9640-74ce6d9c96ac",
+    "text": "Korea has this rule: major palaces close on different weekdays, so a Monday museum crawl can backfire.\n\n1️⃣ Gyeongbokgung – open Monday, closed Tuesday.\n2️⃣ Changdeokgung, Changgyeonggung, Deoksugung & Jongmyo – closed Monday.\n3️⃣ Most city museums also shut Monday; ticket booths stop about an hour before closing.\n4️⃣ Jongmyo free‑roam only on designated days, otherwise join a timed tour.\n\n✔️ Check each site's weekly closing day before you plan.\n\nWhich palace surprise caught you off guard? Save this for your trip.\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-the-closed-on-monday-trap-how-korean-palaces-and-museums-schedule-their-days-off.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": null,
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-10-31T01:47:37.256Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-30T08:06:38.023Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "The closed-on-Monday trap: how Korean palaces and museums schedule their days off",
+    "qualityGate": {
+      "pass": false,
+      "reason": "로컬 AI가 주제·문장·주장 품질 문제를 감지함",
+      "model": "ollaya/laya:multilingual",
+      "confidence": 0.7752,
+      "checkedAt": "2026-10-30T08:06:37.968Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-30T08:06:38.009Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-the-closed-on-monday-trap-how-korean-palaces-and-museums-schedule-their-days-off.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "acf009d7-c4a6-48f7-97a4-2e7617637218",
+    "text": "Thinking of hitting Seoul’s palaces on a Monday? You’ll hit closed doors.\n\nGyeongbokgung stays open, but Changdeokgung, Changgyeonggung, Deoksugung and Jongmyo are all shut that day.\n\nEver walked past a closed palace? Drop your story below or save this for your Korea trip.\n\n📖 Open the Land in Korea link in our profile and search “The closed-on-Monday trap: how Korean palaces and museums schedule their days off”.\n\n#KoreaTravel #VisitKorea #SeoulTrip #Gyeongbokgung #Jongmyo",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-31T01:50:35.913Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-30T08:06:38.049Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "The closed-on-Monday trap: how Korean palaces and museums schedule their days off",
+    "qualityGate": {
+      "pass": false,
+      "reason": "로컬 AI가 주제·문장·주장 품질 문제를 감지함",
+      "model": "ollaya/laya:multilingual",
+      "confidence": 0.7752,
+      "checkedAt": "2026-10-30T08:06:37.968Z"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-10-30T08:06:38.038Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "38dd411d-154f-4ff0-bc71-940afc579878",
+    "text": "First‑time visitors often assume all Seoul palaces are open every day, but they each have their own weekly off‑day. Gyeongbokgung is closed Tuesdays, while Changdeokgung, Changgyeonggung, Deoksugung and Jongmyo shut on Mondays. Most city museums follow the same Monday closure and ticket windows stop about an hour before gates close. Jongmyo only allows free roaming on its designated days; otherwise you need a timed guided tour. Planning around these days saves you a wasted morning.\n\nHas anyone gotten stuck at a closed palace? How did you rearrange your itinerary?\n\n📖 Full article: https://landinkorea.com/posts/korea-the-closed-on-monday-trap-how-korean-palaces-and-museums-schedule-their-days-off.html?utm_source=reddit&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": null,
+    "platforms": [
+      "reddit"
+    ],
+    "scheduledAt": "2026-10-31T03:40:48.132Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-30T08:06:38.072Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "The closed-on-Monday trap: how Korean palaces and museums schedule their days off",
+    "qualityGate": {
+      "pass": false,
+      "reason": "로컬 AI가 주제·문장·주장 품질 문제를 감지함",
+      "model": "ollaya/laya:multilingual",
+      "confidence": 0.7752,
+      "checkedAt": "2026-10-30T08:06:37.968Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-30T08:06:38.062Z",
+    "subreddit": "koreatravel"
+  },
+  {
+    "id": "9fb630b5-08bb-4abe-87e8-1c8c27f98913",
+    "text": "Planning a Monday palace tour in Seoul? You might end up at a closed gate.\n\nGyeongbokgung stays open Monday, but Changdeokgung, Changgyeonggung, Deoksugung and Jongmyo all close that day.\n\nMost city museums also close Monday; ticket booths stop selling about an hour before gates shut.\n\nJongmyo only offers free‑roam on special days – otherwise you need a timed guided tour.\n\nWhat unexpected closures have you faced? #KoreaTravel #PalaceClosures",
+    "imageUrl": null,
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-10-31T02:14:47.273Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-30T08:06:38.096Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "The closed-on-Monday trap: how Korean palaces and museums schedule their days off",
+    "qualityGate": {
+      "pass": false,
+      "reason": "로컬 AI가 주제·문장·주장 품질 문제를 감지함",
+      "model": "ollaya/laya:multilingual",
+      "confidence": 0.7752,
+      "checkedAt": "2026-10-30T08:06:37.968Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-30T08:06:38.084Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-the-closed-on-monday-trap-how-korean-palaces-and-museums-schedule-their-days-off.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "a1af3e40-98dd-4e77-8d6f-38d3d9e6550d",
+    "text": "Planning a Monday palace tour in Seoul? You might end up at a closed gate.\n\nGyeongbokgung stays open Monday, but Changdeokgung, Changgyeonggung, Deoksugung and Jongmyo all close that day.\n\nMost city museums also close Monday; ticket booths stop selling about an hour before gates shut.\n\nJongmyo only offers free‑roam on special days – otherwise you need a timed guided tour.\n\nWhat unexpected closures have you faced? #KoreaTravel #Seoul #PalaceClosures",
+    "imageUrl": null,
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-10-31T02:42:37.217Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-30T08:06:38.118Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "The closed-on-Monday trap: how Korean palaces and museums schedule their days off",
+    "qualityGate": {
+      "pass": false,
+      "reason": "로컬 AI가 주제·문장·주장 품질 문제를 감지함",
+      "model": "ollaya/laya:multilingual",
+      "confidence": 0.7752,
+      "checkedAt": "2026-10-30T08:06:37.968Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-30T08:06:38.108Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-the-closed-on-monday-trap-how-korean-palaces-and-museums-schedule-their-days-off.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "f50df54d-bb0b-448b-896b-90b4537c9937",
+    "text": "Korea has this rule: major palaces close on different weekdays, so a Monday museum crawl can backfire.\n1. Gyeongbokgung – open Monday, closed Tuesday.\n2. Changdeokgung, Changgyeonggung, Deoksugung & Jongmyo – closed Monday.\n3. Most city museums also shut Monday; ticket booths stop about an hour before gates close.\nKeep this in mind when planning your itinerary.",
+    "imageUrl": null,
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-10-31T04:40:51.873Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-30T08:06:38.141Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "The closed-on-Monday trap: how Korean palaces and museums schedule their days off",
+    "qualityGate": {
+      "pass": false,
+      "reason": "로컬 AI가 주제·문장·주장 품질 문제를 감지함",
+      "model": "ollaya/laya:multilingual",
+      "confidence": 0.7752,
+      "checkedAt": "2026-10-30T08:06:37.968Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-10-30T08:06:38.131Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-the-closed-on-monday-trap-how-korean-palaces-and-museums-schedule-their-days-off.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
   }
 ]

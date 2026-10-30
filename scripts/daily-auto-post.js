@@ -33,10 +33,15 @@ const DAY_WINDOWS_HOURS = [
 // scheduler.yml과 달리 이 스크립트는 claim-then-publish 락이 없어 하루에 두 번 실행되면
 // 주제가 그대로 2배로 큐잉된다. 오늘 UTC 날짜로 이미 큐잉한 기록이 history에 있으면
 // 조용히 건너뛰어, 몇 번을 재시도로 트리거해도 하루 최대 1회만 실제로 큐잉되게 한다.
+// 2026-10-30 발견: ensure-instagram-daily.js도 같은 pickNextTopic/history를 15분마다
+// 호출하면서, source 구분 없이 "오늘 이력 있음"만 보던 이 체크가 그 Instagram 전용
+// 시도만으로 항상 true가 돼 10/24 이후 daily-auto-post가 계속 조용히 스킵됐다
+// (threads/facebook/bluesky/mastodon/reddit/tumblr가 6일간 새 글을 못 받음) —
+// 이 스크립트(daily)가 직접 남긴 history만 센다.
 const alreadyQueuedToday = () => {
   const { history } = loadState();
   const today = new Date().toISOString().slice(0, 10);
-  return history.some((h) => h.at && h.at.slice(0, 10) === today);
+  return history.some((h) => h.source === 'daily' && h.at && h.at.slice(0, 10) === today);
 };
 
 const main = async () => {
@@ -49,7 +54,7 @@ const main = async () => {
 
   const topics = await fetchKoreaTravelTopics();
   for (let i = 0; i < POSTS_PER_DAY; i += 1) {
-    const topicAndSeed = pickNextTopic(topics);
+    const topicAndSeed = pickNextTopic(topics, 'daily');
     await queueOneTopic(topicAndSeed, DAY_WINDOWS_HOURS[i % DAY_WINDOWS_HOURS.length]);
   }
 
