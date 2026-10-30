@@ -34594,5 +34594,42 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-10-30T08:06:38.131Z",
     "blogUrl": "https://landinkorea.com/posts/korea-the-closed-on-monday-trap-how-korean-palaces-and-museums-schedule-their-days-off.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "6b178525-6b35-417f-82ca-c6129cbcc8de",
+    "text": "Trying to lock your bag in a subway locker on a Saturday?\nThey’re almost always full – head to a nearby storage counter instead.\nWhat’s the most unexpected place you’ve stored luggage in Korea? Save this for your Korea trip.\n\n📖 Open the Land in Korea link in our profile and search “Luggage storage & forwarding services”.\n\n#KoreaTravel #VisitKorea #SeoulTrip #CoinLockers #LuggageStorage",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-30T22:24:28.411Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-30T16:28:41.492Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Luggage storage & forwarding services",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: threads: hook failed – first line is a scenario question \"Planning to stash your bag...\" not a specific promise or named mistake. | instagram: hook failed – first line is a question \"Trying to lock your bag...\" not a specific promise or named mistake. | bluesky: hook failed – first line is a scenario question \"Planning to use a subway coin locker...\" not a specific promise or named mistake. | mastodon: hook failed – first line is a scenario question \"Planning to use a subway coin locker...\" not a specific promise or named mistake. | tumblr: reaction failed – no closing call to comment, save, or share; ends with advice only.",
+      "failedPlatforms": [
+        "threads",
+        "instagram",
+        "bluesky",
+        "mastodon",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "A",
+      "checkedAt": "2026-10-30T16:28:41.287Z"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-10-30T16:28:41.317Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
   }
 ]
