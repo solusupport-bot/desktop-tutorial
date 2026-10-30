@@ -33727,5 +33727,35 @@
     "rejectedBy": "no-media",
     "rejectedAt": "2026-10-30T02:27:40.168Z",
     "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "88481956-75ea-4777-91d4-0b4fae7059b0",
+    "text": "Heading to a mogyoktang and wondering about swimsuits?\nLeave the swimwear at home—full nudity is the rule, and swimsuits aren’t allowed.\nWhat’s the most surprising thing you’ve seen at a Korean bathhouse?\n\n📖 Open the Land in Korea link in our profile and search “Public bathhouse culture in Korea beyond the jjimjilbang: the mogyoktang rules”.\n\n#KoreaTravel #SeoulTrip #TravelTips #Bathhouse #ExploreKorea",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-30T20:10:09.894Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-30T05:27:42.184Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Public bathhouse culture in Korea beyond the jjimjilbang: the mogyoktang rules",
+    "qualityGate": {
+      "pass": false,
+      "reason": "로컬 AI가 주제·문장·주장 품질 문제를 감지함",
+      "model": "ollaya/laya:multilingual",
+      "confidence": 0.6873,
+      "checkedAt": "2026-10-30T05:27:42.050Z"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-10-30T05:27:42.073Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
   }
 ]
