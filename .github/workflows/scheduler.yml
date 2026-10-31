@@ -1,8 +1,12 @@
 name: SNS Scheduler
 
 on:
-  # 2026-09-25: 계정 Actions 정지로 발행은 이 PC가 맡는다(ops/local-cron/run-local.ps1 -Mode publish).
-  # Actions가 복구돼도 PC와 동시에 돌아 중복 발행되지 않도록 schedule은 뺐다 — 수동 실행만 가능.
+  schedule:
+    # 2026-10-31: 계정 Actions 정지 해제 확인, 로컬 PC 작업 스케줄러는 끄고 Actions로 복귀.
+    # 정각/15분 정각은 전 세계 크론이 몰려 지연/스킵되기 쉬워(GitHub 공식 문서 경고) 07분
+    # 오프셋을 쓴다. 15분 간격 자체는 2026-09-16 실측상 92.5% 스킵되는 플랫폼 한계라
+    # 시간당 1회를 "기본 보장"으로 쓴다(정지 전 마지막 설정과 동일).
+    - cron: '7 * * * *'
   workflow_dispatch:
 
 # 동일 큐를 처리하는 실행을 겹치지 않게 해 중복 발행을 방지합니다.
@@ -89,4 +93,28 @@ jobs:
           git config user.email "actions@github.com"
           git add data/queue.json
           git commit -m "chore: update published post queue"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
+
+      - name: Backfill today's Instagram quota
+        # 2026-10-18 로컬 전용으로 추가됐던 스텝 — Instagram만 "영상 없으면 반려" 하드룰 때문에
+        # 하루 3개 목표에서 자주 빠졌다. Actions 복귀 시 이 보완 로직도 같이 옮긴다.
+        env:
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+          PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TOUR_AUDIO_GUIDE_API_KEY: ${{ secrets.TOUR_AUDIO_GUIDE_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: node scripts/ensure-instagram-daily.js
+
+      - name: Commit Instagram quota backfill
+        run: |
+          if git diff --quiet -- data; then
+            echo "No Instagram backfill; no commit required."
+            exit 0
+          fi
+
+          git config user.name "sns-automation-bot"
+          git config user.email "actions@github.com"
+          git add data
+          git commit -m "chore: backfill today Instagram quota"
           git push origin "HEAD:${GITHUB_REF_NAME}"
