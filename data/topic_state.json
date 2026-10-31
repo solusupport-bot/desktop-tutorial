@@ -1,11 +1,6 @@
 {
-  "lastIndex": 17,
+  "lastIndex": 18,
   "history": [
-    {
-      "index": 30,
-      "topic": "Korean public holidays that disrupt travel plans",
-      "at": "2026-09-14T02:06:42.992Z"
-    },
     {
       "index": 10,
       "topic": "Airport transfer options",
@@ -1005,6 +1000,12 @@
       "index": 17,
       "topic": "Luggage storage & forwarding services",
       "at": "2026-10-30T16:24:39.413Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 18,
+      "topic": "KTX vs. SRT vs. intercity bus for long-distance travel",
+      "at": "2026-10-31T05:24:56.096Z",
       "source": "instagram-fill"
     }
   ],

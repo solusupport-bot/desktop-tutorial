@@ -34636,5 +34636,34 @@
     "rejectedBy": "no-media",
     "rejectedAt": "2026-10-30T16:28:41.317Z",
     "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "1b002d2f-8dbc-4be7-a65e-b2f3c8e04e33",
+    "text": "Planning a Seoul‑to‑Busan train and only seeing KTX?\n\nSRT also runs the route in 2.5 h for ₩54,400 – same price, different station.\n\nWhich station is nearer your hotel? Comment below!\n\n📖 Open the Land in Korea link in our profile and search “KTX vs. SRT vs. intercity bus for long-distance travel”.\n\n#KoreaTravel #VisitKorea #SeoulTrip #SRT #SuseoStation",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-10-31T09:17:07.384Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-10-31T05:28:48.046Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "KTX vs. SRT vs. intercity bus for long-distance travel",
+    "qualityGate": {
+      "pass": false,
+      "reason": "캡션에 KTX와 SRT는 언급했지만 인터시티 버스 비교 내용이 없어 주제와 완전히 맞지 않는다",
+      "model": "groq",
+      "checkedAt": "2026-10-31T05:28:47.872Z"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-10-31T05:28:47.913Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
   }
 ]
