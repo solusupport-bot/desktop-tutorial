@@ -34670,5 +34670,35 @@
     "rejectedBy": "no-media",
     "rejectedAt": "2026-10-31T05:28:47.913Z",
     "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "3d1fab28-9f11-41dd-ad27-4346e543eaef",
+    "text": "Throwing trash into a bag from another district? That’s a big no‑no in Seoul!\nOnly the district‑specific 종량제 봉투 bought locally will be collected.\nWhat’s the weirdest waste rule you’ve run into?\n\n📖 Open the Land in Korea link in our profile and search “Trash and recycling rules for residents”.\n\n#KoreaTravel #VisitKorea #SeoulTrip #종량제봉투 #TrashBagKorea",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-11-01T21:41:54.410Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-01T17:24:39.764Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Trash and recycling rules for residents",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스러우며 사실도 정확해 여행자에게 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-01T17:24:21.029Z",
+      "pattern": "A"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-11-01T17:24:39.743Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
   }
 ]
