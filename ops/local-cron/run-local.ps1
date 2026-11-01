@@ -56,6 +56,11 @@ try {
         CommitData @('data/queue.json') 'chore: claim due posts for publishing'
         Run 'scripts/publish-claimed-posts.js'
         CommitData @('data/queue.json') 'chore: update published post queue'
+        # 2026-10-18: Instagram만 영상 하드룰 때문에 하루 3개 목표에서 자주 빠졌다(실측) —
+        # 15분 주기로 같이 돌면서 오늘 몫이 부족하면 공유 로테이션에서 다음 주제를 더
+        # 뽑아 채운다(중복 방지는 pickNextTopic이, 시간 랜덤은 queueOneTopic이 그대로 담당).
+        Run 'scripts/ensure-instagram-daily.js'
+        CommitData @('data') 'chore: backfill today Instagram quota'
     } else {
         Run 'scripts/generate-topics.js'
         Run 'scripts/daily-auto-post.js'

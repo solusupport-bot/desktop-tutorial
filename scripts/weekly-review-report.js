@@ -65,11 +65,42 @@ const groupBy = (key) => {
 const row = (p) => `| ${p.platform} | ${p.pattern} | ${p.hourKst}시 | ${p.media} | ${p.views} | ${p.likes}/${p.comments}/${p.shares} | ${p.firstLine.slice(0, 70).replace(/\|/g, '/')} | ${p.lastLine.slice(0, 60).replace(/\|/g, '/')} |`;
 const head = '| 플랫폼 | 유형 | 시간(KST) | 미디어 | 조회 | 좋아요/댓글/공유 | 첫 줄 | 끝 줄 |\n|---|---|---|---|---|---|---|---|';
 
+// 2026-10-17: SNS 반응만 보고 블로그 자체 조회수는 한 번도 실측한 적이 없었다 — GoatCounter
+// 스크립트는 land-in-korea-blog 템플릿에 이미 박혀 있지만(automation/config.json의
+// goatcounter_code), 이 저장소의 어떤 스크립트도 그 API를 호출하지 않았다. 토큰이 아직
+// 없으면(사용자가 goatcounter.com → Settings → API에서 발급해야 함) 조용히 건너뛰지 않고
+// 뭘 해야 하는지 리뷰 안에 그대로 남긴다.
+const GOATCOUNTER_CODE = process.env.GOATCOUNTER_CODE || 'land-in-korea';
+const fetchBlogStats = async () => {
+  const token = process.env.GOATCOUNTER_API_TOKEN;
+  if (!token) {
+    return `⚠️ 블로그 조회수 미확인 — GOATCOUNTER_API_TOKEN이 없음. `
+      + `https://${GOATCOUNTER_CODE}.goatcounter.com/settings/api 에서 발급 후 .env에 추가하면 다음 리뷰부터 자동 반영됨.`;
+  }
+  try {
+    const end = new Date();
+    const start = new Date(end.getTime() - DAYS * 24 * 60 * 60 * 1000);
+    const url = `https://${GOATCOUNTER_CODE}.goatcounter.com/api/v0/stats/total`
+      + `?start=${start.toISOString().slice(0, 10)}&end=${end.toISOString().slice(0, 10)}`;
+    const res = await fetch(url, { headers: { Authorization: `Bearer ${token}` } });
+    if (!res.ok) return `⚠️ 블로그 조회수 조회 실패 (HTTP ${res.status}) — 토큰 권한(stats 읽기)을 확인할 것.`;
+    const data = await res.json();
+    return `최근 ${DAYS}일 블로그 페이지뷰: ${data.total ?? '?'} (GoatCounter 실측, 봇 제외 ${data.total_unique_utc ?? '?'}명)`;
+  } catch (err) {
+    return `⚠️ 블로그 조회수 조회 중 오류: ${err.message}`;
+  }
+};
+
 const today = new Date(Date.now() + 9 * 3600 * 1000).toISOString().slice(0, 10);
+
+const finish = (blogStatsLine) => {
 const md = `# 주간 성과 리뷰 재료 (${today}, 최근 ${DAYS}일)
 
 발행 ${posts.length}건 · 성과 측정됨 ${measured.length}건 · 반응 0건 ${noReaction.length}건
 (성과가 안 잡힌 플랫폼: ${[...new Set(posts.filter((p) => !p.measured).map((p) => p.platform))].join(', ') || '없음'})
+
+## 블로그 (SNS와 별도)
+${blogStatsLine}
 
 ## 잘된 글 (벤치마킹 대상)
 ${head}
@@ -103,3 +134,6 @@ const out = path.join(dir, `${today}.md`);
 fs.writeFileSync(out, md);
 console.log(md);
 console.log(`저장: ${out}`);
+};
+
+fetchBlogStats().then(finish);

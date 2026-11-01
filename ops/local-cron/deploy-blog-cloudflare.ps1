@@ -68,8 +68,16 @@ try {
     PullFirst $blog
 
     # 1) 검수된 사전 작성 글을 land-in-korea-blog 원격 저장소에 등록
+    # 2026-10-24: sync-blog-posts.js는 "진짜 실패"와 "이번엔 발행 가능한 글이 없었음"
+    # 둘 다 exit 1로 구분 없이 내보낸다(의도적 — 재고 부족을 다음 세션에서 눈치채게
+    # 하려는 경고성 종료). Run을 쓰면 이 경고성 종료도 fatal로 처리돼 빌드/배포 전체가
+    # 막혔다 — 글 큐에 막힌 항목이 하나만 있어도 배포가 영원히 안 되는 상태였다. 이
+    # 단계만 던지지 않고 로그만 남긴 뒤 계속 진행한다(다음 단계는 이 글 발행 여부와
+    # 무관하게 안전하게 진행 가능).
     Push-Location $desktop
-    Run node @('scripts/sync-blog-posts.js') $desktop
+    $out = & node @('scripts/sync-blog-posts.js') 2>&1 | Out-String
+    Add-Content -Path $logFile -Value $out -Encoding utf8
+    if ($LASTEXITCODE -ne 0) { Log "WARN: sync-blog-posts.js exited $LASTEXITCODE (fatal 에러가 아니라 '발행 가능한 글 없음'일 수 있음) — 계속 진행" }
     Pop-Location
     CommitAndPush $desktop @('data/topic_blog_links.json', 'data/blog_content_queue.json') 'chore: update published post queue'
 
@@ -176,7 +184,20 @@ try {
     # wrangler.jsonc 참고 — `pages deploy`는 "not a Pages project"로 매번 실패한다)
     Push-Location $site
     $env:CLOUDFLARE_ACCOUNT_ID = $accountId
-    Run npx @('-y', 'wrangler@latest', 'deploy') $site
+    # Retry only transient upload/server errors. Validation and authorization
+    # failures still stop immediately, and the existing quality checks stay intact.
+    for ($deployAttempt = 1; $deployAttempt -le 3; $deployAttempt++) {
+        try {
+            Log "START: Cloudflare deployment attempt $deployAttempt/3 (wrangler 4.155.0)"
+            Run npx.cmd @('--yes', 'wrangler@4.155.0', 'deploy') $site
+            break
+        } catch {
+            $transient = $_.ToString() -match '10013|HTTP\s*5\d\d|ECONNRESET|ETIMEDOUT|timed out|429'
+            if (-not $transient -or $deployAttempt -eq 3) { throw }
+            Log "WARN: transient Cloudflare failure; retrying attempt $($deployAttempt + 1)/3"
+            Start-Sleep -Seconds (5 * $deployAttempt)
+        }
+    }
     Pop-Location
 
     Log "DONE"

@@ -14,7 +14,7 @@ require('dotenv').config();
 const fs = require('fs');
 const log = require('../lib/logger');
 const { fetchKoreaTravelTopics } = require('../lib/ingestion/korea_travel');
-const { curateContent } = require('../lib/curation/curate');
+const { curateContent, videoCaptionLines } = require('../lib/curation/curate');
 const { fetchTopicImages } = require('../lib/ingestion/pexels_image');
 const { findKoreaVideo } = require('../lib/ingestion/pexels_video');
 const { findKoreaAttractionPhoto } = require('../lib/ingestion/tour_odii_image');
@@ -92,8 +92,8 @@ const main = async () => {
   if (video && process.env.GITHUB_TOKEN) {
     const music = await findMusicForTopic(findMusic, item, getRecentMusicUrls());
     if (music) {
-      const captionText = (curated.instagram || '').split('\n\n')[0] || null;
-      const mergedPath = await attachMusicToVideo(video, music.url, captionText);
+      const captionLines = videoCaptionLines(curated.instagram);
+      const mergedPath = await attachMusicToVideo(video, music.url, captionLines);
       if (mergedPath) {
         try {
           const buffer = fs.readFileSync(mergedPath);

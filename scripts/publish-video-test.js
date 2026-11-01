@@ -7,7 +7,7 @@ require('dotenv').config();
 const log = require('../lib/logger');
 const { fetchKoreaTravelTopics } = require('../lib/ingestion/korea_travel');
 const { findKoreaVideo } = require('../lib/ingestion/pexels_video');
-const { curateContent } = require('../lib/curation/curate');
+const { curateContent, videoCaptionLines } = require('../lib/curation/curate');
 const { PLATFORMS } = require('../lib/publishing');
 const { getPermalink } = require('../lib/publishing/permalink');
 const { attachTopicMusic } = require('../lib/media/attach_topic_music');
@@ -58,8 +58,8 @@ const main = async () => {
     // daily-auto-post.js와 동일한 attachTopicMusic을 그대로 재사용해 실제 운영 로직과
     // 다른 코드 경로로 테스트하는 실수를 막는다.
     if (platform === 'instagram') {
-      const captionText = (text || '').split('\n\n')[0] || null;
-      const musicResult = await attachTopicMusic(videoUrl, item, process.env.GITHUB_TOKEN, captionText, []);
+      const captionLines = videoCaptionLines(text);
+      const musicResult = await attachTopicMusic(videoUrl, item, process.env.GITHUB_TOKEN, captionLines, []);
       if (musicResult) {
         publishVideoUrl = musicResult.videoUrl;
         if (musicResult.attribution) text = `${text}\n\n${musicResult.attribution}`;
