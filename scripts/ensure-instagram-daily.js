@@ -13,7 +13,7 @@ require('dotenv').config();
 const log = require('../lib/logger');
 const { loadQueue } = require('../lib/scheduler/queue');
 const { fetchKoreaTravelTopics } = require('../lib/ingestion/korea_travel');
-const { pickNextTopic } = require('../lib/scheduler/topic_rotation');
+const { pickNextTopic, loadState, saveState } = require('../lib/scheduler/topic_rotation');
 const { queueOneTopic } = require('../lib/scheduler/queue_topic');
 
 const TARGET_PER_DAY = 3;
@@ -56,9 +56,19 @@ const main = async () => {
   let attempts = 0;
   while (todayCount() < TARGET_PER_DAY && attempts < MAX_ATTEMPTS) {
     attempts += 1;
+    const historyLengthBefore = loadState().history.length;
     const topicAndSeed = pickNextTopic(topics, 'instagram-fill');
     log.ok(`시도 ${attempts}/${MAX_ATTEMPTS}: ${topicAndSeed.topic.source}`);
-    await queueOneTopic(topicAndSeed, [0, 24], ['instagram']);
+    try {
+      await queueOneTopic(topicAndSeed, [0, 24], ['instagram']);
+    } catch (err) {
+      // 큐잉 자체가 실패하면(반려가 아니라 예외) 이 주제를 "쓴 것"으로 기록하지 않는다 —
+      // 그래야 로테이션에서 공연히 건너뛰지 않고 다음 실행에서 같은 후보를 다시 시도한다.
+      const state = loadState();
+      state.history = state.history.slice(0, historyLengthBefore);
+      saveState(state);
+      throw err;
+    }
     const latest = lastInstagramStatus();
     if (latest && latest.status === 'rejected') {
       log.warn(`반려(${latest.rejectedBy || latest.rejectReason || '사유 미상'}) — 다음 후보로 넘어갑니다.`);
