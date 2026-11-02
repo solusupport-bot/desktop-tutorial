@@ -34740,5 +34740,38 @@
     },
     "blogUrl": "https://landinkorea.com/posts/korea-gyeongbokgung-palace.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
     "processedAt": "2026-11-02T17:25:49.699Z"
+  },
+  {
+    "id": "31ecf0ae-f7e5-4b03-a074-202864a14257",
+    "text": "Thinking Bukchon Hanok Village is just a museum?\nIt’s a real neighborhood where locals still live in hanok houses.\nWhat’s your favorite quiet spot there? Save this for your Korea trip.\n\n📖 Open the Land in Korea link in our profile and search “Bukchon Hanok Village”.\n\n🎬 Video source: Pixabay\n\n#KoreaTravel #VisitKorea #SeoulTrip #BukchonHanokVillage #HanokVillage",
+    "imageUrl": null,
+    "videoUrl": "https://cdn.pixabay.com/video/2022/10/17/135372-761601367_large.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-11-02T20:34:07.582Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-02T20:20:11.376Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/13885524/pexels-photo-13885524.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/10/17/135372-761601367_large.mp4",
+    "videoAttribution": "Pixabay",
+    "topic": "Bukchon Hanok Village",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: tumblr: reaction missing – closing only says \"Keep this in mind for your Seoul itinerary.\" without prompting comment, save, or share.",
+      "failedPlatforms": [
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "C",
+      "checkedAt": "2026-11-02T20:18:32.898Z"
+    }
   }
 ]
