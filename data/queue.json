@@ -34700,5 +34700,45 @@
     "rejectedBy": "no-media",
     "rejectedAt": "2026-11-01T17:24:39.743Z",
     "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "f1e424c9-b9a0-4cbb-8c5d-67ba9ebde453",
+    "text": "At Gyeongbokgung’s main gate you’ll assume you need a ticket to get in.\n\nRent a hanbok nearby and you walk right in for free, plus the photos look way better.\n\nThe guard‑changing ceremony runs only at set times—check the schedule before you go.\n\nDon’t spend 20 minutes inside and miss the ceremony; plan a quick 20‑minute walk to Bukchon afterward.\n\nWhat’s the one thing you’d ask before your first palace visit? Open the Land in Korea link in the profile.\n\n📖 Open the Land in Korea link in our profile and search “Gyeongbokgung Palace”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1793640171231-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1793640171231-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-02T17:24:19.320Z",
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18164093662445571"
+      }
+    },
+    "createdAt": "2026-11-02T17:22:53.658Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31835410/pexels-photo-31835410.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/40156105/17151458_1080_1920_30fps.mp4",
+    "videoAttribution": null,
+    "topic": "Gyeongbokgung Palace",
+    "qualityGate": {
+      "pass": false,
+      "reason": "원본 자료에 없는 금액: tumblr: ₩15,000",
+      "model": "rule",
+      "failedPlatforms": [
+        "tumblr"
+      ],
+      "checkedAt": "2026-11-02T17:22:24.591Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-gyeongbokgung-palace.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-02T17:25:49.699Z"
   }
 ]
