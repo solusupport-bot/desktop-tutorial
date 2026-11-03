@@ -35565,5 +35565,46 @@
       "pattern": "D",
       "checkedAt": "2026-11-03T03:40:26.812Z"
     }
+  },
+  {
+    "id": "94b348de-a3dc-4e73-89de-2c73c0c1c7e8",
+    "text": "Locals do this differently than every blog post says.\n\nMost Korean eSIM plans for tourists can be purchased online before arrival and activated by scanning a QR code once you land — no physical SIM swap needed.\n\nSave this guide — trust me on this one.\n\n📖 Open the Land in Korea link in our profile and search “eSIM & mobile data”.\n\n#KoreaTravel #SeoulTrip #KoreaTips #TravelKorea #VisitSeoul",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-11-03T14:05:33.252Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-03T03:59:19.447Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/36046034/pexels-photo-36046034.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "eSIM & mobile data",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: threads: hook failed – first line \"Locals do this differently than every blog post says.\" does not make a specific promise or name a specific confusion/mistake. | facebook: hook failed – first line \"Locals do this differently than every blog post says.\" does not make a specific promise or name a specific confusion/mistake. | instagram: hook failed – first line \"Locals do this differently than every blog post says.\" does not make a specific promise or name a specific confusion/mistake. | bluesky: hook failed – first line \"Locals do this differently than every blog post says.\" does not make a specific promise or name a specific confusion/mistake. | mastodon: hook failed – first line \"Locals do this differently than every blog post says.\" does not make a specific promise or name a specific confusion/mistake. | reddit: reaction failed – no closing call to comment, save, or share (ends with \"Coverage matches the big three\"). | tumblr: reaction failed – no closing call to comment, save, or share (ends with list item 3).",
+      "failedPlatforms": [
+        "threads",
+        "facebook",
+        "instagram",
+        "bluesky",
+        "mastodon",
+        "reddit",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "C",
+      "checkedAt": "2026-11-03T03:59:18.760Z"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-11-03T03:59:19.429Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
   }
 ]
