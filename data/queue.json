@@ -34750,7 +34750,7 @@
       "instagram"
     ],
     "scheduledAt": "2026-11-02T20:34:07.582Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-02T20:20:11.376Z",
     "approved": true,
@@ -34785,7 +34785,7 @@
       "threads"
     ],
     "scheduledAt": "2026-11-03T03:15:50.661Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-03T01:52:38.915Z",
     "approved": true,
@@ -34925,7 +34925,7 @@
       "bluesky"
     ],
     "scheduledAt": "2026-11-03T03:49:00.488Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-03T01:52:39.009Z",
     "approved": true,
