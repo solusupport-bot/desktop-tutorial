@@ -15,15 +15,17 @@
     },
     "threads": {
       "attempts": [
-        "2026-11-02T17:25:49.682Z"
+        "2026-11-02T17:25:49.682Z",
+        "2026-11-03T10:45:35.075Z"
       ],
       "successes": [
-        "2026-11-02T17:25:49.682Z"
+        "2026-11-02T17:25:49.682Z",
+        "2026-11-03T10:45:35.075Z"
       ],
       "consecutiveFailures": 0,
       "blockedUntil": null,
-      "lastAttemptAt": "2026-11-02T17:25:49.682Z",
-      "lastSuccessAt": "2026-11-02T17:25:49.682Z"
+      "lastAttemptAt": "2026-11-03T10:45:35.075Z",
+      "lastSuccessAt": "2026-11-03T10:45:35.075Z"
     },
     "tumblr": {
       "attempts": [
@@ -49,17 +51,15 @@
     },
     "bluesky": {
       "attempts": [
-        "2026-10-30T08:17:13.592Z",
-        "2026-10-30T16:19:01.430Z"
+        "2026-11-03T10:45:37.198Z"
       ],
       "successes": [
-        "2026-10-30T08:17:13.592Z",
-        "2026-10-30T16:19:01.430Z"
+        "2026-11-03T10:45:37.198Z"
       ],
       "consecutiveFailures": 0,
       "blockedUntil": null,
-      "lastAttemptAt": "2026-10-30T16:19:01.430Z",
-      "lastSuccessAt": "2026-10-30T16:19:01.430Z"
+      "lastAttemptAt": "2026-11-03T10:45:37.198Z",
+      "lastSuccessAt": "2026-11-03T10:45:37.198Z"
     },
     "mastodon": {
       "attempts": [
@@ -78,15 +78,17 @@
     },
     "instagram": {
       "attempts": [
-        "2026-11-03T04:09:35.623Z"
+        "2026-11-03T04:09:35.623Z",
+        "2026-11-03T10:44:12.828Z"
       ],
       "successes": [
-        "2026-11-03T04:09:35.623Z"
+        "2026-11-03T04:09:35.623Z",
+        "2026-11-03T10:44:12.828Z"
       ],
       "consecutiveFailures": 0,
       "blockedUntil": null,
-      "lastAttemptAt": "2026-11-03T04:09:35.623Z",
-      "lastSuccessAt": "2026-11-03T04:09:35.623Z"
+      "lastAttemptAt": "2026-11-03T10:44:12.828Z",
+      "lastSuccessAt": "2026-11-03T10:44:12.828Z"
     }
   }
 }

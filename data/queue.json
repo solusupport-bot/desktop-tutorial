@@ -35622,5 +35622,45 @@
     "rejectedBy": "no-media",
     "rejectedAt": "2026-11-03T03:59:19.429Z",
     "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "88a0deb8-eff0-4d70-a191-95ae2959685c",
+    "text": "Planning your last subway ride in Seoul? Don't waste ₩100 on a paper ticket.\nTap a T‑money card instead – the ride is only ₩1,550 (vs ₩1,650).\nSave this for your Korea trip.\n\n📖 Open the Land in Korea link in our profile and search “T-money transit card”.\n\n#KoreaTravel #VisitKorea #SeoulTrip #Tmoney #SubwaySavings",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-11-03T21:01:27.325Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-03T10:47:49.415Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/40602828/pexels-photo-40602828.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "T-money transit card",
+    "qualityGate": {
+      "pass": false,
+      "reason": "원본 자료에 없는 금액: threads: ₩100, facebook: ₩100, instagram: ₩100, reddit: ₩100, bluesky: ₩100, mastodon: ₩100, tumblr: ₩100",
+      "model": "rule",
+      "failedPlatforms": [
+        "threads",
+        "facebook",
+        "instagram",
+        "reddit",
+        "bluesky",
+        "mastodon",
+        "tumblr"
+      ],
+      "checkedAt": "2026-11-03T10:47:48.563Z"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-11-03T10:47:49.398Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
   }
 ]
