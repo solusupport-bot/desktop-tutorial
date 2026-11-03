@@ -1,11 +1,6 @@
 {
-  "lastIndex": 4,
+  "lastIndex": 5,
   "history": [
-    {
-      "index": 33,
-      "topic": "Seoul subway details nobody tells you: exit numbers, transfer walks, express trains, and the last train",
-      "at": "2026-09-18T02:11:40.941Z"
-    },
     {
       "index": 34,
       "topic": "Short-term vs. long-term housing in Korea: guesthouse, goshiwon, officetel, and the deposit system",
@@ -1016,6 +1011,12 @@
       "topic": "Busan Haeundae Beach & Gamcheon Culture Village",
       "at": "2026-11-03T01:55:52.952Z",
       "source": "daily"
+    },
+    {
+      "index": 5,
+      "topic": "Jeju Island",
+      "at": "2026-11-03T03:37:41.226Z",
+      "source": "instagram-fill"
     }
   ],
   "recentImageUrls": [
@@ -1703,7 +1704,8 @@
     "https://images.pexels.com/photos/13885524/pexels-photo-13885524.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://images.pexels.com/photos/7095339/pexels-photo-7095339.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://images.pexels.com/photos/32028707/pexels-photo-32028707.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://images.pexels.com/photos/17318326/pexels-photo-17318326.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "https://images.pexels.com/photos/17318326/pexels-photo-17318326.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/30966647/pexels-photo-30966647.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
   ],
   "recentVideoUrls": [
     "https://videos.pexels.com/video-files/19577787/19577787-uhd_2160_3840_30fps.mp4",
@@ -1855,7 +1857,10 @@
     "https://cdn.pixabay.com/video/2022/05/08/116351-707531430_large.mp4",
     "https://videos.pexels.com/video-files/30012659/12876566_1080_1920_60fps.mp4",
     "https://videos.pexels.com/video-files/40156105/17151458_1080_1920_30fps.mp4",
-    "https://cdn.pixabay.com/video/2022/10/17/135372-761601367_large.mp4"
+    "https://cdn.pixabay.com/video/2022/10/17/135372-761601367_large.mp4",
+    "https://cdn.pixabay.com/video/2026/10/22/384550_large.mp4",
+    "https://cdn.pixabay.com/video/2020/04/01/34718-403432512_large.mp4",
+    "https://cdn.pixabay.com/video/2026/10/22/384544_large.mp4"
   ],
   "recentMusicUrls": [
     "https://prod-1.storage.jamendo.com/?trackid=20237&format=mp32",
