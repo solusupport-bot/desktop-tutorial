@@ -35662,5 +35662,36 @@
     "rejectedBy": "no-media",
     "rejectedAt": "2026-11-03T10:47:49.398Z",
     "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "8d2b1bb3-5465-4b6b-897e-e838cbd9e3e9",
+    "text": "Packed your new shoes in a checked suitcase? You’re about to lose your tax refund.\nKeep the item in your carry‑on and hit the Incheon Tax Free kiosk before you drop your bag.\nWhat’s the most surprising thing you’ve lost at the airport? Save this for your Korea trip.\n\n📖 Open the Land in Korea link in our profile and search “Tax refund (Tax Free) shopping”.\n\n#KoreaTravel #VisitKorea #SeoulTrip #TaxFree #IncheonAirport",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-11-03T23:04:07.203Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-03T18:27:49.845Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g9011d72f0d6505c186e9f41547bc158234414bf4e29b206fc69458d2daeee1e75aa5235eea2e89ad7ac8dba59043bf1713c62fb7561fbb2431d7f0ef3093b3dc_1280.jpg#pixabay=9761776"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Tax refund (Tax Free) shopping",
+    "qualityGate": {
+      "pass": false,
+      "reason": "세금 환급 관련 구체적인 금액·조건이 실제 인천공항 기준과 다를 가능성이 있어 사실성이 의심됩니다",
+      "model": "groq",
+      "checkedAt": "2026-11-03T18:27:48.946Z"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-11-03T18:27:49.827Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
   }
 ]
