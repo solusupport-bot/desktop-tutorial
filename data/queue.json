@@ -34773,5 +34773,764 @@
       "pattern": "C",
       "checkedAt": "2026-11-02T20:18:32.898Z"
     }
+  },
+  {
+    "id": "e2275804-d3bd-4cbb-a493-10eb114c2e17",
+    "text": "Thinking you have to buy the N Seoul Tower observation deck ticket right after landing at Myeongdong?\n\nYou don't— the free plaza at the summit gives the same city panorama without spending a won.\n\nA marked trail from Myeongdong takes 30‑40 minutes; the cable car is just a shortcut if you’re short on time.\n\nSunset draws crowds, so aim for early afternoon or right after opening to enjoy the view in peace.\n\nDid you ever skip a paid deck and still get the perfect shot? Open the Land in Korea link in the profile.\n\n📖 Open the Land in Korea link in our profile and search “N Seoul Tower (Namsan)”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1793670758169-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1793670758169-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-03T03:15:50.661Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-03T01:52:38.915Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/7095339/pexels-photo-7095339.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "N Seoul Tower (Namsan)",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: tumblr: reaction missing a specific call to comment/save/share; closing line \"Enjoy the view without spending a won!\" does not prompt engagement.",
+      "failedPlatforms": [
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "C",
+      "checkedAt": "2026-11-03T01:52:38.168Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "af37ca7d-5b98-40a5-b7c7-8c92ddad5b19",
+    "text": "You can see Seoul’s skyline for free at N Seoul Tower’s plaza—no ticket needed.\n\n1️⃣ Take the 30‑40 min hike from Myeongdong; the cable car is optional.\n2️⃣ The love‑locks fence near the base is real and still growing.\n3️⃣ Visit early afternoon or right after opening to avoid sunset crowds.\n\n✅ Free view, optional ride, crowd‑smart timing.\n\nWhich tip will you try first? Save this for your trip.\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1793670758169-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1793670758169-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-03T03:22:01.431Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-03T01:52:38.940Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/7095339/pexels-photo-7095339.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "N Seoul Tower (Namsan)",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: tumblr: reaction missing a specific call to comment/save/share; closing line \"Enjoy the view without spending a won!\" does not prompt engagement.",
+      "failedPlatforms": [
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "C",
+      "checkedAt": "2026-11-03T01:52:38.168Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "cfaabaf9-c7aa-4d85-8173-06a6182780a5",
+    "text": "Thinking you must buy a ticket for the best view at N Seoul Tower?\nThe free plaza at the summit offers the same panorama—no fee required.\nHike 30‑40 min from Myeongdong or hop the cable car; visit early to dodge sunset crowds.\nWhat’s your favorite free viewpoint in Seoul? Save this for your Korea trip.\n#KoreaTravel #VisitKorea #SeoulTrip #NSeoulTower #NamsanView\n\n📖 Open the Land in Korea link in our profile and search “N Seoul Tower (Namsan)”.",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-11-03T03:25:51.090Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-03T01:52:38.967Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/7095339/pexels-photo-7095339.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "N Seoul Tower (Namsan)",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: tumblr: reaction missing a specific call to comment/save/share; closing line \"Enjoy the view without spending a won!\" does not prompt engagement.",
+      "failedPlatforms": [
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "C",
+      "checkedAt": "2026-11-03T01:52:38.168Z"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-11-03T01:52:38.949Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "825d2eb6-2272-4de0-a68a-2c8c596b12e5",
+    "text": "If you’re looking to enjoy N Seoul Tower without paying for the observation deck, here’s what works:\n\n- The plaza at the top of Namsan offers the same city panorama for free. No ticket required.\n- A clearly marked hiking trail from Myeongdong gets you to the summit in 30‑40 minutes; the cable car is just a faster alternative if you’re short on time.\n- The love‑locks fence near the base is genuine and still growing, a fun photo spot.\n- Crowds peak at sunset, so aim for early afternoon or right after the tower opens to enjoy a quieter view.\nThese tips let you see Seoul’s skyline without spending extra money.\n(Feel free to ask for more details or share your own free‑view experiences!)\n\n📖 Full article: https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=reddit&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": null,
+    "platforms": [
+      "reddit"
+    ],
+    "scheduledAt": "2026-11-03T05:13:31.366Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-03T01:52:38.987Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/7095339/pexels-photo-7095339.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "N Seoul Tower (Namsan)",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: tumblr: reaction missing a specific call to comment/save/share; closing line \"Enjoy the view without spending a won!\" does not prompt engagement.",
+      "failedPlatforms": [
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "C",
+      "checkedAt": "2026-11-03T01:52:38.168Z"
+    },
+    "subreddit": "koreatravel"
+  },
+  {
+    "id": "dd3cd80b-1f77-41ee-a924-516fe30ae2cb",
+    "text": "Thinking you need to buy a ticket for the best view at N Seoul Tower right after arriving in Myeongdong?\n\nYou don’t— the free plaza at the summit gives the same city panorama without any fee.\n\nThe marked trail from Myeongdong takes about 30‑40 minutes; the cable car is optional if you’re in a hurry.\n\nSunset draws the biggest crowds, so go early afternoon or right after opening for a calmer experience.\n\nDid you ever skip the paid deck and still get the perfect shot? #KoreaTravel #NSeoulTower",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1793670758169-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1793670758169-v0-0.jpg"
+    ],
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-11-03T03:49:00.488Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-03T01:52:39.009Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/7095339/pexels-photo-7095339.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "N Seoul Tower (Namsan)",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: tumblr: reaction missing a specific call to comment/save/share; closing line \"Enjoy the view without spending a won!\" does not prompt engagement.",
+      "failedPlatforms": [
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "C",
+      "checkedAt": "2026-11-03T01:52:38.168Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "1e468513-b83e-478a-9999-966c33c66361",
+    "text": "Thinking you need to buy a ticket for the best view at N Seoul Tower right after arriving in Myeongdong?\n\nYou don’t— the free plaza at the summit offers the same city panorama without any cost.\n\nA marked hiking trail from Myeongdong reaches the top in 30‑40 minutes; the cable car is optional if you prefer a quicker ride.\n\nSunset brings crowds, so visit early afternoon or right after opening to enjoy a quieter scene.\n\nDid you ever skip the paid deck and still capture the perfect shot? #TravelTips #NSeoulTower",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1793670758169-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1793670758169-v0-0.jpg"
+    ],
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-11-03T04:18:59.095Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-03T01:52:39.029Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/7095339/pexels-photo-7095339.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "N Seoul Tower (Namsan)",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: tumblr: reaction missing a specific call to comment/save/share; closing line \"Enjoy the view without spending a won!\" does not prompt engagement.",
+      "failedPlatforms": [
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "C",
+      "checkedAt": "2026-11-03T01:52:38.168Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "4eb86ee7-a733-45e7-b4bd-a8b69fe6dee7",
+    "text": "You can enjoy Seoul’s skyline for free at N Seoul Tower’s summit plaza—no ticket needed.\n1. Hike the marked trail from Myeongdong (30‑40 min) or take the cable car if you’re short on time.\n2. The love‑locks fence near the base is real and still growing, perfect for photos.\n3. Visit early afternoon or right after opening to avoid sunset crowds.\nEnjoy the view without spending a won!",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1793670758169-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1793670758169-v0-0.jpg"
+    ],
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-11-03T06:16:47.602Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-03T01:52:39.048Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/7095339/pexels-photo-7095339.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "N Seoul Tower (Namsan)",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: tumblr: reaction missing a specific call to comment/save/share; closing line \"Enjoy the view without spending a won!\" does not prompt engagement.",
+      "failedPlatforms": [
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "C",
+      "checkedAt": "2026-11-03T01:52:38.168Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-03T01:52:39.037Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "9168237c-50a1-46f6-8f4c-e210e499daf2",
+    "text": "Walk into Myeongdong at lunchtime expecting street food?\n\nThe stalls only start serving in the late afternoon, around 4 pm.\n\nCosmetics shops stay open and many staff speak basic English, Japanese, or Chinese.\n\nWeekends are jam‑packed; a weekday visit is noticeably more walkable.\n\nDid you ever miss a food stall because of the timing? Open the link in our profile for more.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1793670951982-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1793670951982-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-03T15:03:05.523Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-03T01:55:52.812Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/32028707/pexels-photo-32028707.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Myeongdong shopping district",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: tumblr: reaction missing a clear call to comment, save, or share; closing line 'Now you can plan your perfect Myeongdong day.' does not prompt engagement.",
+      "failedPlatforms": [
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "A",
+      "checkedAt": "2026-11-03T01:55:51.982Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-myeongdong-shopping-district.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "92c1fe73-daf7-4a49-b977-a6f63e3c70c6",
+    "text": "Think Myeongdong’s street food is ready at noon? It only opens in the late afternoon, around 4 pm. 😊\n1️⃣ Show up after 4 pm to catch the famous snacks.\n2️⃣ Cosmetics stores stay open; staff often speak English, Japanese, or Chinese.\n3️⃣ Look for the Tax‑Free sticker before you buy.\n4️⃣ Weekends are crowded; weekdays are easier to stroll.\n✔️ Timing ✔️ Tax‑Free ✔️ Crowd‑smart\nSave this for your Korea trip!\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-myeongdong-shopping-district.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1793670951982-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1793670951982-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-03T15:09:42.949Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-03T01:55:52.838Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/32028707/pexels-photo-32028707.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Myeongdong shopping district",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: tumblr: reaction missing a clear call to comment, save, or share; closing line 'Now you can plan your perfect Myeongdong day.' does not prompt engagement.",
+      "failedPlatforms": [
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "A",
+      "checkedAt": "2026-11-03T01:55:51.982Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-myeongdong-shopping-district.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "872ad486-13af-417a-b05b-693a87b12609",
+    "text": "Arriving at Myeongdong at noon and craving street food?\nThose stalls don’t start until the late afternoon (≈4 pm).\nDid you know this? Save for your Korea adventure!\n\n📖 Open the Land in Korea link in our profile and search “Myeongdong shopping district”.\n\n#KoreaTravel #VisitKorea #SeoulTrip #Myeongdong #StreetFood",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-11-03T15:13:31.804Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-03T01:55:52.857Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/32028707/pexels-photo-32028707.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Myeongdong shopping district",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: tumblr: reaction missing a clear call to comment, save, or share; closing line 'Now you can plan your perfect Myeongdong day.' does not prompt engagement.",
+      "failedPlatforms": [
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "A",
+      "checkedAt": "2026-11-03T01:55:51.982Z"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-11-03T01:55:52.847Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "9ba0c3ed-64bb-422f-b151-c6534ac1a44c",
+    "text": "I’ve seen many first‑timers wonder why they can’t find street food in Myeongdong at lunch.\n- The stalls only begin serving around 4 pm, so midday visits miss them.\n- Cosmetics shops stay open all day; look for the Tax‑Free sticker before buying.\n- Weekends get packed—weekdays are much more walkable.\nAnyone else got surprised by the hours?\n\n📖 Full article: https://landinkorea.com/posts/korea-myeongdong-shopping-district.html?utm_source=reddit&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": null,
+    "platforms": [
+      "reddit"
+    ],
+    "scheduledAt": "2026-11-03T17:03:06.761Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-03T01:55:52.879Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/32028707/pexels-photo-32028707.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Myeongdong shopping district",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: tumblr: reaction missing a clear call to comment, save, or share; closing line 'Now you can plan your perfect Myeongdong day.' does not prompt engagement.",
+      "failedPlatforms": [
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "A",
+      "checkedAt": "2026-11-03T01:55:51.982Z"
+    },
+    "subreddit": "koreatravel"
+  },
+  {
+    "id": "fd93f602-0a6b-4f0c-afd8-3cd608e8d8ae",
+    "text": "Walk into Myeongdong at noon expecting street food?\n\nStalls only open around 4 pm.\n\nCosmetics shops stay open; many staff speak English, Japanese, or Chinese.\n\nWeekends are jam‑packed; weekdays are far easier to wander.\n\nDid you ever miss a snack because of the timing? #KoreaTravel #Myeongdong",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1793670951982-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1793670951982-v0-0.jpg"
+    ],
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-11-03T15:36:47.655Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-03T01:55:52.901Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/32028707/pexels-photo-32028707.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Myeongdong shopping district",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: tumblr: reaction missing a clear call to comment, save, or share; closing line 'Now you can plan your perfect Myeongdong day.' does not prompt engagement.",
+      "failedPlatforms": [
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "A",
+      "checkedAt": "2026-11-03T01:55:51.982Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-myeongdong-shopping-district.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "810cc205-afba-4de3-a271-5880869e3f6a",
+    "text": "Walk into Myeongdong at noon expecting street food?\n\nStalls only open around 4 pm.\n\nCosmetics shops stay open; many staff speak English, Japanese, or Chinese.\n\nWeekends are jam‑packed; weekdays are far easier to wander.\n\nDid you ever miss a snack because of the timing? #Seoul #Myeongdong #TravelTips",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1793670951982-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1793670951982-v0-0.jpg"
+    ],
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-11-03T16:01:50.661Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-03T01:55:52.921Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/32028707/pexels-photo-32028707.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Myeongdong shopping district",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: tumblr: reaction missing a clear call to comment, save, or share; closing line 'Now you can plan your perfect Myeongdong day.' does not prompt engagement.",
+      "failedPlatforms": [
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "A",
+      "checkedAt": "2026-11-03T01:55:51.982Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-myeongdong-shopping-district.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "582ca9ac-6b15-4ac8-a0bc-d8d49899c633",
+    "text": "Thinking Myeongdong’s street food is ready at noon? It only starts serving in the late afternoon, around 4 pm.\n1. Arrive after 4 pm to enjoy the famous stalls.\n2. Cosmetics shops stay open all day; look for Tax‑Free stickers before buying.\n3. Weekends are crowded—weekday visits are more relaxed.\nNow you can plan your perfect Myeongdong day.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1793670951982-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1793670951982-v0-0.jpg"
+    ],
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-11-03T18:06:08.168Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-03T01:55:52.941Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/32028707/pexels-photo-32028707.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Myeongdong shopping district",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: tumblr: reaction missing a clear call to comment, save, or share; closing line 'Now you can plan your perfect Myeongdong day.' does not prompt engagement.",
+      "failedPlatforms": [
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "A",
+      "checkedAt": "2026-11-03T01:55:51.982Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-03T01:55:52.931Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-myeongdong-shopping-district.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "0fef9046-7a83-4621-9dcc-f87f79331f25",
+    "text": "Don't assume you can hop from Haeundae Beach to Gamcheon Culture Village without checking transit time.\n\nThey sit on opposite sides of Busan – Haeundae in the east, Gamcheon in the north‑west – so it’s not a quick hop.\n\nTake subway Line 2 to Haeundae, then transfer to City Bus 2 for Gamcheon; expect steep stairs.\n\nWear sturdy, comfortable shoes for Gamcheon’s hills – sneakers are essential.\n\nDid you ever try both in one day? What was your experience? Open the Land in Korea link in the profile.\n\n📖 Open the Land in Korea link in our profile and search “Busan Haeundae Beach & Gamcheon Culture Village”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1793671122648-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1793671122648-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-03T23:33:23.434Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-03T01:58:43.363Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/17318326/pexels-photo-17318326.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Busan Haeundae Beach & Gamcheon Culture Village",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: reddit: reaction missing – no engagement prompt, ending with \"so consider spending a full day in Busan to enjoy both without rush.\" | tumblr: reaction missing – no engagement prompt, ending with \"Plan accordingly and enjoy both spots without the rush.\"",
+      "failedPlatforms": [
+        "reddit",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "A",
+      "checkedAt": "2026-11-03T01:58:42.648Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-busan-haeundae-beach-gamcheon-culture-village.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "6c05f384-257c-42af-b084-c723425d2ee3",
+    "text": "Don't plan to hop from Haeundae Beach to Gamcheon Culture Village without budgeting transit time – they're on opposite sides of Busan.\n\n1️⃣ Haeundae sits on the east coast, Gamcheon on the north‑west hillside.\n2️⃣ Subway + bus between them takes 45‑60 min plus walking; allocate at least 2 hrs.\n3️⃣ Gamcheon’s steep stairs demand comfortable shoes.\n4️⃣ From Seoul, KTX to Busan is 2.5‑3 hrs; add a day if you want both comfortably.\n✅ Checklist: map route, set 2‑3 hrs, wear sneakers.\nSave this for your trip – which spot would you visit first? 🌊🏘️\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-busan-haeundae-beach-gamcheon-culture-village.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1793671122648-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1793671122648-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-03T23:35:58.566Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-03T01:58:43.391Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/17318326/pexels-photo-17318326.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Busan Haeundae Beach & Gamcheon Culture Village",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: reddit: reaction missing – no engagement prompt, ending with \"so consider spending a full day in Busan to enjoy both without rush.\" | tumblr: reaction missing – no engagement prompt, ending with \"Plan accordingly and enjoy both spots without the rush.\"",
+      "failedPlatforms": [
+        "reddit",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "A",
+      "checkedAt": "2026-11-03T01:58:42.648Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-busan-haeundae-beach-gamcheon-culture-village.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "35fde0e2-368f-4f4e-870d-c9b07b95974a",
+    "text": "Thinking you can zip from Haeundae Beach to Gamcheon Culture Village in minutes?\nThey’re on opposite sides of Busan, so you must budget extra transit time.\nWhat’s your go‑to shoe for steep Korean streets? Save this for your Korea trip.\n\n📖 Open the Land in Korea link in our profile and search “Busan Haeundae Beach & Gamcheon Culture Village”.\n\n#KoreaTravel #VisitKorea #BusanTrip #HaeundaeBeach #GamcheonCultureVillage",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-11-03T23:38:03.909Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-03T01:58:43.425Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/17318326/pexels-photo-17318326.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Busan Haeundae Beach & Gamcheon Culture Village",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: reddit: reaction missing – no engagement prompt, ending with \"so consider spending a full day in Busan to enjoy both without rush.\" | tumblr: reaction missing – no engagement prompt, ending with \"Plan accordingly and enjoy both spots without the rush.\"",
+      "failedPlatforms": [
+        "reddit",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "A",
+      "checkedAt": "2026-11-03T01:58:42.648Z"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-11-03T01:58:43.401Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "64df79c3-135b-49c6-86a0-f8c1fe491e14",
+    "text": "From experience, trying to see Haeundae Beach and Gamcheon Culture Village in a single day is a stretch. They’re on opposite ends of Busan – Haeundae on the east coast and Gamcheon up the north‑west hills – so you need to budget at least an hour each way on subway and bus, plus walking time. I recommend allocating at least 2‑3 hours for travel alone and wearing sturdy shoes for Gamcheon’s steep stairs. If you’re coming from Seoul, the KTX ride itself takes 2.5‑3 hours, so consider spending a full day in Busan to enjoy both without rush.\n\n📖 Full article: https://landinkorea.com/posts/korea-busan-haeundae-beach-gamcheon-culture-village.html?utm_source=reddit&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": null,
+    "platforms": [
+      "reddit"
+    ],
+    "scheduledAt": "2026-11-04T01:28:26.858Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-03T01:58:43.454Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/17318326/pexels-photo-17318326.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Busan Haeundae Beach & Gamcheon Culture Village",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: reddit: reaction missing – no engagement prompt, ending with \"so consider spending a full day in Busan to enjoy both without rush.\" | tumblr: reaction missing – no engagement prompt, ending with \"Plan accordingly and enjoy both spots without the rush.\"",
+      "failedPlatforms": [
+        "reddit",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "A",
+      "checkedAt": "2026-11-03T01:58:42.648Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-03T01:58:43.438Z",
+    "subreddit": "koreatravel"
+  },
+  {
+    "id": "2f419771-2a32-41b9-9c15-59c07fa66c87",
+    "text": "Don’t plan to hop from Haeundae Beach to Gamcheon Culture Village without checking transit time.\n\nThey sit on opposite sides of Busan – Haeundae east, Gamcheon north‑west – so it’s not a quick hop.\n\nTake subway Line 2 to Haeundae, then City Bus 2 to Gamcheon; expect steep stairs.\n\nWear sturdy, comfortable shoes for the hills – sneakers are a must.\n\nDid you ever try both in one day? What was your experience? #KoreaTravel #Gamcheon",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1793671122648-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1793671122648-v0-0.jpg"
+    ],
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-11-04T00:02:11.853Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-03T01:58:43.478Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/17318326/pexels-photo-17318326.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Busan Haeundae Beach & Gamcheon Culture Village",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: reddit: reaction missing – no engagement prompt, ending with \"so consider spending a full day in Busan to enjoy both without rush.\" | tumblr: reaction missing – no engagement prompt, ending with \"Plan accordingly and enjoy both spots without the rush.\"",
+      "failedPlatforms": [
+        "reddit",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "A",
+      "checkedAt": "2026-11-03T01:58:42.648Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-busan-haeundae-beach-gamcheon-culture-village.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "1d87d6df-b558-4d65-8562-9d52ea5f1ba2",
+    "text": "Don’t plan to hop from Haeundae Beach to Gamcheon Culture Village without checking transit time.\n\nThey sit on opposite sides of Busan – Haeundae east, Gamcheon north‑west – so it’s not a quick hop.\n\nTake subway Line 2 to Haeundae, then City Bus 2 to Gamcheon; expect steep stairs.\n\nWear sturdy, comfortable shoes for the hills – sneakers are a must.\n\nDid you ever try both in one day? What was your experience? #KoreaTravel #Busan #GamcheonCultureVillage",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1793671122648-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1793671122648-v0-0.jpg"
+    ],
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-11-04T00:30:29.575Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-03T01:58:43.499Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/17318326/pexels-photo-17318326.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Busan Haeundae Beach & Gamcheon Culture Village",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: reddit: reaction missing – no engagement prompt, ending with \"so consider spending a full day in Busan to enjoy both without rush.\" | tumblr: reaction missing – no engagement prompt, ending with \"Plan accordingly and enjoy both spots without the rush.\"",
+      "failedPlatforms": [
+        "reddit",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "A",
+      "checkedAt": "2026-11-03T01:58:42.648Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-busan-haeundae-beach-gamcheon-culture-village.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "1512ed7b-a07e-4074-91cc-545686222fe4",
+    "text": "Don’t plan to hop from Haeundae Beach to Gamcheon Culture Village without budgeting transit time – they’re on opposite sides of Busan.\n1. Haeundae sits on the east coast, while Gamcheon is up the north‑west hillside.\n2. Subway to Haeundae then City Bus 2 to Gamcheon takes about an hour each way; allow at least 2 hours total travel.\n3. Gamcheon’s steep stairs require comfortable shoes; sneakers are essential.\nPlan accordingly and enjoy both spots without the rush.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1793671122648-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1793671122648-v0-0.jpg"
+    ],
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-11-04T02:32:34.119Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-03T01:58:43.521Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/17318326/pexels-photo-17318326.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Busan Haeundae Beach & Gamcheon Culture Village",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: reddit: reaction missing – no engagement prompt, ending with \"so consider spending a full day in Busan to enjoy both without rush.\" | tumblr: reaction missing – no engagement prompt, ending with \"Plan accordingly and enjoy both spots without the rush.\"",
+      "failedPlatforms": [
+        "reddit",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "A",
+      "checkedAt": "2026-11-03T01:58:42.648Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-03T01:58:43.510Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-busan-haeundae-beach-gamcheon-culture-village.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
   }
 ]
