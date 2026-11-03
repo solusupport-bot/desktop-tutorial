@@ -34750,8 +34750,12 @@
       "instagram"
     ],
     "scheduledAt": "2026-11-02T20:34:07.582Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "18136642948673566"
+      }
+    },
     "createdAt": "2026-11-02T20:20:11.376Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -34772,7 +34776,8 @@
       "model": "groq",
       "pattern": "C",
       "checkedAt": "2026-11-02T20:18:32.898Z"
-    }
+    },
+    "processedAt": "2026-11-03T10:44:12.828Z"
   },
   {
     "id": "e2275804-d3bd-4cbb-a493-10eb114c2e17",
@@ -34785,8 +34790,12 @@
       "threads"
     ],
     "scheduledAt": "2026-11-03T03:15:50.661Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18190679737405292"
+      }
+    },
     "createdAt": "2026-11-03T01:52:38.915Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -34808,7 +34817,8 @@
       "pattern": "C",
       "checkedAt": "2026-11-03T01:52:38.168Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-03T10:45:35.076Z"
   },
   {
     "id": "af37ca7d-5b98-40a5-b7c7-8c92ddad5b19",
@@ -34925,8 +34935,13 @@
       "bluesky"
     ],
     "scheduledAt": "2026-11-03T03:49:00.488Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mzfnvbafug2t",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3mzfnvbafug2t"
+      }
+    },
     "createdAt": "2026-11-03T01:52:39.009Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -34948,7 +34963,8 @@
       "pattern": "C",
       "checkedAt": "2026-11-03T01:52:38.168Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-03T10:45:37.199Z"
   },
   {
     "id": "1e468513-b83e-478a-9999-966c33c66361",
