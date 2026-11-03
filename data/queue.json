@@ -35693,5 +35693,37 @@
     "rejectedBy": "no-media",
     "rejectedAt": "2026-11-03T18:27:49.827Z",
     "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "ab80df0e-5f96-4bf3-bc0a-04d83a73379d",
+    "text": "Walking out of Hongdae clubs at 2 am and wondering if Seoul’s streets are safe?\n\nThey’re surprisingly safe: violent crime rates are lower than most Western capitals.\n\nWhat’s your late‑night safety tip in Korea? Save this for your Korea trip.\n\n📖 Open the Land in Korea link in our profile and search “Travel advisories & safety notices”.\n\n#KoreaTravel #SeoulTrip #HongdaeNight #TravelSafety #SouthKorea",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-11-04T00:05:21.747Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-03T23:57:26.164Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/40728563/pexels-photo-40728563.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Travel advisories & safety notices",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제가 안전 안내와 일치하고, 문장이 자연스럽고 사실 주장도 과장되지 않아 여행에 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-03T23:57:21.294Z",
+      "pattern": "C"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-11-03T23:57:26.143Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
   }
 ]
