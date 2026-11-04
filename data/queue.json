@@ -37615,5 +37615,35 @@
       "pattern": "D"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-noraebang-etiquette-how-korean-karaoke-actually-works-for-first-timers.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "6468f4ea-19ea-4982-8e45-9af3b02dc355",
+    "text": "If you land at Incheon in March, you’re probably expecting cherry blossoms everywhere right away.\nBut the blooms start down south – Jeju, Busan, Changwon – and only hit Seoul in early April.\nWhich region will you visit first to catch the flowers?\n\n📖 Open the Land in Korea link in our profile and search “Timing cherry blossoms and fall foliage in Korea without hitting peak crowds”.\n\n🎬 Video source: Pexels\n\n#KoreaTravel #VisitKorea #SeoulTrip #JejuCherryBlossom #SeoraksanAutumn",
+    "imageUrl": null,
+    "videoUrl": "https://videos.pexels.com/video-files/32242974/13751041_2160_3840_60fps.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-11-04T21:13:19.594Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-04T16:58:22.702Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/40149779/pexels-photo-40149779.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/32242974/13751041_2160_3840_60fps.mp4",
+    "videoAttribution": "Pexels",
+    "topic": "Timing cherry blossoms and fall foliage in Korea without hitting peak crowds",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽고 과장된 주장이 없어 여행 정보로 유용합니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-04T16:58:04.519Z",
+      "pattern": "C"
+    }
   }
 ]
