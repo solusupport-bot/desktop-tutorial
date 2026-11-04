@@ -37060,7 +37060,7 @@
       "threads"
     ],
     "scheduledAt": "2026-11-03T15:00:00.000Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-11-04T13:15:50.942Z",
     "approved": true,
@@ -37080,7 +37080,8 @@
       "checkedAt": "2026-11-04T13:15:44.719Z",
       "pattern": "O"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-useful-travel-apps.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-useful-travel-apps.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "rejectReason": "user-cancelled test post 2026-11-04"
   },
   {
     "id": "302c939f-7785-4d07-82b6-64fc784b9319",
@@ -37093,7 +37094,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-11-03T15:00:00.000Z",
-    "status": "published",
+    "status": "rejected",
     "results": {
       "facebook": {
         "id": "122128931007446391",
@@ -37119,7 +37120,8 @@
       "pattern": "O"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-useful-travel-apps.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
-    "processedAt": "2026-11-04T13:25:25.850Z"
+    "processedAt": "2026-11-04T13:25:25.850Z",
+    "rejectReason": "user-deleted test post 2026-11-04"
   },
   {
     "id": "7befec3b-1ec2-4dd8-a8d2-71c2f9512e20",
@@ -37132,7 +37134,7 @@
       "bluesky"
     ],
     "scheduledAt": "2026-11-03T15:00:00.000Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-11-04T13:15:51.123Z",
     "approved": true,
@@ -37152,7 +37154,8 @@
       "checkedAt": "2026-11-04T13:15:44.719Z",
       "pattern": "O"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-useful-travel-apps.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-useful-travel-apps.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "rejectReason": "user-cancelled test post 2026-11-04"
   },
   {
     "id": "76544c59-aac0-4ca6-9b46-cdb1b1e37319",
@@ -37165,7 +37168,7 @@
       "mastodon"
     ],
     "scheduledAt": "2026-11-03T15:00:00.000Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-11-04T13:15:51.190Z",
     "approved": true,
@@ -37185,7 +37188,8 @@
       "checkedAt": "2026-11-04T13:15:44.719Z",
       "pattern": "O"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-useful-travel-apps.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-useful-travel-apps.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
+    "rejectReason": "user-cancelled test post 2026-11-04"
   },
   {
     "id": "d40dafc2-6bfa-43ff-a085-75e767e1f9fb",
