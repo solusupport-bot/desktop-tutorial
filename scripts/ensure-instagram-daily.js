@@ -16,9 +16,10 @@ const { fetchKoreaTravelTopics } = require('../lib/ingestion/korea_travel');
 const { pickNextTopic, loadState, saveState } = require('../lib/scheduler/topic_rotation');
 const { queueOneTopic } = require('../lib/scheduler/queue_topic');
 
-// 2026-11-04 사용자 지시로 daily-auto-post.js의 POSTS_PER_DAY와 함께 2배로 — 이 스크립트는
-// Instagram만 그 목표에 맞춰 보충하는 역할이라 값을 반드시 같이 맞춰야 한다.
-const TARGET_PER_DAY = 6;
+// 2026-11-04 사용자 지시 정정: Instagram은 하루 3~5건(목표 4) — daily-auto-post.js의
+// 공유 배치(POSTS_PER_DAY=4)가 그대로 충족하는 경우가 많겠지만, "영상 없으면 반려" 하드룰로
+// 빠지는 날을 위해 이 보충 스크립트는 남겨둔다.
+const TARGET_PER_DAY = 4;
 // 이 스크립트는 매 예약 발행 실행마다 다시 호출된다. 한 번에 후보 5개를 차례로
 // 만들면 이미지·영상 검색과 품질 검사가 한 시간 넘게 이어져 다음 Windows 예약
 // 실행이 기존 프로세스를 종료했다. 실행당 후보는 1개만 처리하고, 목표 미달분은
