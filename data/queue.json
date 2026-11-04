@@ -35725,5 +35725,35 @@
     "rejectedBy": "no-media",
     "rejectedAt": "2026-11-03T23:57:26.143Z",
     "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "1f358b7e-3294-4a22-86c1-aa30c562afa0",
+    "text": "Trying to drive through Insadong on a Sunday? You can’t – it’s car‑free.\n\nEvery Sunday the street closes to traffic, turning into a live market with performers, stalls, and the spiral Ssamziegil.\n\nWhich hidden tea house would you try first? Save this for your Korea trip.\n\n📖 Open the Land in Korea link in our profile and search “Insadong traditional culture street”.\n\n🎬 Video source: Pixabay\n\n#KoreaTravel #VisitKorea #SeoulTrip #Insadong #Ssamziegil",
+    "imageUrl": null,
+    "videoUrl": "https://cdn.pixabay.com/video/2019/08/29/26358-357839122_large.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-11-04T08:43:57.060Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-04T06:02:04.991Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/40727348/pexels-photo-40727348.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2019/08/29/26358-357839122_large.mp4",
+    "videoAttribution": "Pixabay",
+    "topic": "Insadong traditional culture street",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제에 부합하고 문장도 자연하며 사실도 크게 문제되지 않아 여행 콘텐츠로 충분히 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-04T06:01:54.765Z",
+      "pattern": "A"
+    }
   }
 ]
