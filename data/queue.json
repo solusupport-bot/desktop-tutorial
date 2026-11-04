@@ -37769,5 +37769,37 @@
     "rejectedBy": "no-media",
     "rejectedAt": "2026-11-04T19:55:15.356Z",
     "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "43da5d47-0f7c-42bf-ad25-5a2a7f85ade6",
+    "text": "Stuck at a Korean-only kiosk thinking you need a translator app?\nHangul’s 24 letters let you sound out 아메리카노, 치즈, 라면 in minutes.\nWhat Korean word surprised you you could read? Save this for your Korea trip.\n\n📖 Open the Land in Korea link in our profile and search “Learning to read Hangul in a weekend — and why romanized signs still confuse you”.\n\n#KoreaTravel #VisitKorea #SeoulTrip #Hangul #KoreanMenu",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-11-04T23:49:30.964Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-04T21:16:57.154Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/40748839/pexels-photo-40748839.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Learning to read Hangul in a weekend — and why romanized signs still confuse you",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 부합하고 문장이 자연스럽으며 과장된 사실이 없고 여행자에게 유용한 내용입니다",
+      "model": "groq",
+      "checkedAt": "2026-11-04T21:16:54.396Z",
+      "pattern": "A"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-11-04T21:16:57.139Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
   }
 ]
