@@ -37093,7 +37093,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-11-03T15:00:00.000Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-04T13:15:51.044Z",
     "approved": true,
