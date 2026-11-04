@@ -35378,8 +35378,13 @@
       "facebook"
     ],
     "scheduledAt": "2026-11-03T23:35:58.566Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "122129002023446391",
+        "post_id": "1288453561012463_122129002059446391"
+      }
+    },
     "createdAt": "2026-11-03T01:58:43.391Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -35402,7 +35407,8 @@
       "pattern": "A",
       "checkedAt": "2026-11-03T01:58:42.648Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-busan-haeundae-beach-gamcheon-culture-village.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-busan-haeundae-beach-gamcheon-culture-village.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-04T19:53:43.178Z"
   },
   {
     "id": "35fde0e2-368f-4f4e-870d-c9b07b95974a",
@@ -36628,8 +36634,13 @@
       "mastodon"
     ],
     "scheduledAt": "2026-11-04T15:48:24.673Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "mastodon": {
+        "id": "117559920261288062",
+        "url": "https://mastodon.social/@landinkorea/117559920261288062"
+      }
+    },
     "createdAt": "2026-11-04T06:13:43.466Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -36648,7 +36659,8 @@
       "checkedAt": "2026-11-04T06:13:40.557Z",
       "pattern": "D"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-domestic-flights-vs-ktx-for-jeju-and-long-distance-trips.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-domestic-flights-vs-ktx-for-jeju-and-long-distance-trips.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-04T19:53:47.772Z"
   },
   {
     "id": "922cbd92-b591-46e1-a460-e3c1062ef566",
