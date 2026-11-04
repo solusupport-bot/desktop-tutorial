@@ -37801,5 +37801,37 @@
     "rejectedBy": "no-media",
     "rejectedAt": "2026-11-04T21:16:57.139Z",
     "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "a9eef720-031b-4343-adea-4174d8dbe830",
+    "text": "Landing in Seoul with a sore throat? Don’t rush to the big hospital.\nHead to a local clinic (uiwon) – they’ll see you fast, no referral needed.\nWhich clinic saved you time? Save this for your Korea trip.\n\n📖 Open the Land in Korea link in our profile and search “Hospital vs. clinic vs. pharmacy in Korea: where to actually go when you get sick”.\n\n#KoreaTravel #VisitKorea #SeoulTrip #UiwonClinic #LocalHealthKorea",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-11-04T22:17:30.619Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-04T21:25:04.072Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/32073528/pexels-photo-32073528.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Hospital vs. clinic vs. pharmacy in Korea: where to actually go when you get sick",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련된 내용이며 문장이 자연스럽고 사실 주장도 과장되지 않아 여행자에게 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-04T21:25:01.196Z",
+      "pattern": "A"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-11-04T21:25:04.054Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
   }
 ]

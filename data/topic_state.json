@@ -1,11 +1,6 @@
 {
-  "lastIndex": 40,
+  "lastIndex": 41,
   "history": [
-    {
-      "index": 54,
-      "topic": "Trash/recycling rules",
-      "at": "2026-10-02T02:15:09.750Z"
-    },
     {
       "index": 55,
       "topic": "First-timer mistakes part 2",
@@ -1051,6 +1046,12 @@
       "topic": "Learning to read Hangul in a weekend — and why romanized signs still confuse you",
       "at": "2026-11-04T21:16:22.568Z",
       "source": "instagram-fill"
+    },
+    {
+      "index": 41,
+      "topic": "Hospital vs. clinic vs. pharmacy in Korea: where to actually go when you get sick",
+      "at": "2026-11-04T21:24:29.428Z",
+      "source": "instagram-fill"
     }
   ],
   "recentImageUrls": [
@@ -1773,7 +1774,8 @@
     "https://images.pexels.com/photos/35812899/pexels-photo-35812899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://images.pexels.com/photos/12546075/pexels-photo-12546075.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://images.pexels.com/photos/34416822/pexels-photo-34416822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://images.pexels.com/photos/40748839/pexels-photo-40748839.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "https://images.pexels.com/photos/40748839/pexels-photo-40748839.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/32073528/pexels-photo-32073528.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
   ],
   "recentVideoUrls": [
     "https://videos.pexels.com/video-files/19577787/19577787-uhd_2160_3840_30fps.mp4",
