@@ -35755,5 +35755,983 @@
       "checkedAt": "2026-11-04T06:01:54.765Z",
       "pattern": "A"
     }
+  },
+  {
+    "id": "0df17152-b407-4215-b1ba-d0b18ed7d804",
+    "text": "Korea has two 'Disneyland' parks, but only one you can hop onto the subway for.\n\nLotte World in Jamsil sits on Line 2, so you’re at the entrance in about 15 minutes from central Seoul.\n\nEverland in Yongin requires a bus or shuttle from Seoul Station, adding 1‑2 hours of travel before you even ride the rides.\n\nTrying to do both in one day means you’ll lose roughly half a day just in transit at Everland.\n\nWhich park fits your schedule? Open the Land in Korea link in profile.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1793772600728-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1793772600728-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-05T03:56:51.094Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-04T06:10:01.112Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/11200882/pexels-photo-11200882.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/40418539/17272316_2160_3840_30fps.mp4",
+    "videoAttribution": null,
+    "topic": "Everland vs. Lotte World theme parks",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 내용이 일치하고 문장이 자연하며 사실도 과장되지 않아 여행에 유용합니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-04T06:09:36.429Z",
+      "pattern": "D"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-everland-vs-lotte-world-theme-parks.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "ae65de1a-34fe-40c9-a512-f755c6159ec9",
+    "text": "Korea has two 'Disneyland' parks, but only Lotte World is subway‑ready – Everland needs a bus ride.\n\n1️⃣ Lotte World (Jamsil) – directly on Line 2, ~15 min from city center.\n2️⃣ Everland (Yongin) – shuttle from Seoul Station, 1‑2 hr travel.\n3️⃣ Lotte World also offers indoor park, Magic Island and nearby Lotte Tower.\n\n✔️ Save this when planning your theme‑park day.\n\nWhich one will you choose? Save this for your trip.\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-everland-vs-lotte-world-theme-parks.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1793772600728-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1793772600728-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-05T04:05:21.897Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-04T06:10:01.134Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/11200882/pexels-photo-11200882.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/40418539/17272316_2160_3840_30fps.mp4",
+    "videoAttribution": null,
+    "topic": "Everland vs. Lotte World theme parks",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 내용이 일치하고 문장이 자연하며 사실도 과장되지 않아 여행에 유용합니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-04T06:09:36.429Z",
+      "pattern": "D"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-everland-vs-lotte-world-theme-parks.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "6f9d31eb-8c7c-455b-adfc-2c0f2af29217",
+    "text": "Korea has two ‘Disneyland’ parks, but only one you can catch by subway!\n\nLotte World in Jamsil sits on Line 2 – 15 min from downtown; Everland in Yongin needs a 1‑2 hr bus ride.\n\nWhich park fits your schedule? Comment below!\n\n📖 Open the Land in Korea link in our profile and search “Everland vs. Lotte World theme parks”.\n\n🎬 Video source: Pexels\n\n#KoreaTravel #VisitKorea #SeoulTrip #LotteWorld #Everland\n\n🎵 \"Playful Ikie - The White Boxer Knight, Op 33 #2\" by Edward Schaffer is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1793772600060-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-11-05T04:06:37.970Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-04T06:10:01.156Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/11200882/pexels-photo-11200882.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/40418539/17272316_2160_3840_30fps.mp4",
+    "videoAttribution": "Pexels",
+    "topic": "Everland vs. Lotte World theme parks",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 내용이 일치하고 문장이 자연하며 사실도 과장되지 않아 여행에 유용합니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-04T06:09:36.429Z",
+      "pattern": "D"
+    }
+  },
+  {
+    "id": "bc98bf58-0110-45ea-bc22-2dfa1d85245b",
+    "text": "Korea has two 'Disneyland' parks, but only one you can hop onto the subway for.\n\nLotte World in Jamsil sits on Line 2, so you’re at the gates in about 15 minutes from central Seoul.\n\nEverland in Yongin requires a bus or shuttle from Seoul Station, adding 1‑2 hours of travel before the rides even start.\n\nTrying to squeeze both parks into one day means you lose roughly half a day just in transit at Everland.\n\nWhich park fits your schedule? #KoreaTravel #LotteWorld",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1793772600728-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1793772600728-v0-0.jpg"
+    ],
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-11-05T04:30:11.024Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-04T06:10:01.177Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/11200882/pexels-photo-11200882.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/40418539/17272316_2160_3840_30fps.mp4",
+    "videoAttribution": null,
+    "topic": "Everland vs. Lotte World theme parks",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 내용이 일치하고 문장이 자연하며 사실도 과장되지 않아 여행에 유용합니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-04T06:09:36.429Z",
+      "pattern": "D"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-everland-vs-lotte-world-theme-parks.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "32734919-7696-4d1b-bfd5-3fefbc6fe1b8",
+    "text": "Korea has two 'Disneyland' parks, but only one you can hop onto the subway for.\n\nLotte World in Jamsil sits on Line 2, getting you to the entrance in about 15 minutes from central Seoul.\n\nEverland in Yongin needs a bus or shuttle from Seoul Station, adding 1‑2 hours of travel before you even reach the gates.\n\nIf you try to do both in a single day, you’ll lose roughly half a day to transit at Everland.\n\nWhich park works better for your itinerary? #KoreaTravel #TravelTips #LotteWorld #Everland",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1793772600728-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1793772600728-v0-0.jpg"
+    ],
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-11-05T04:56:24.782Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-04T06:10:01.198Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/11200882/pexels-photo-11200882.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/40418539/17272316_2160_3840_30fps.mp4",
+    "videoAttribution": null,
+    "topic": "Everland vs. Lotte World theme parks",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 내용이 일치하고 문장이 자연하며 사실도 과장되지 않아 여행에 유용합니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-04T06:09:36.429Z",
+      "pattern": "D"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-everland-vs-lotte-world-theme-parks.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "a553dcb6-8186-4f13-956b-0f07cfcb1385",
+    "text": "I expected nonstop Hongdae vibes at 2 pm on Saturday, but the streets were empty.\n\nThe real action only kicks in after 6 pm, especially on weekends.\n\nBuskers gather at Hongdae Playground from 6 pm onward, filling the area with live music.\n\nIf you want nightlife, plan to start exploring after dinner; daytime is best for cafés and indie shops.\n\nDid you discover this timing surprise in any Korean neighborhood? Open the Land in Korea link in the profile.\n\n📖 Open the Land in Korea link in our profile and search “Hongdae nightlife and youth culture district”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1793772652680-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1793772652680-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-04T14:21:17.966Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-04T06:10:53.347Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/40351505/pexels-photo-40351505.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Hongdae nightlife and youth culture district",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연하며 사실도 과장되지 않아 여행 정보로 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-04T06:10:43.806Z",
+      "pattern": "C"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-hongdae-nightlife-and-youth-culture-district.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "77b3a9b0-217f-4924-9ea0-d03ec569fca9",
+    "text": "Think Hongdae never sleeps? Actually, the district is quiet until evening, especially on weekends.\n\n1. Afternoons (12‑5 pm) the streets are almost empty.\n2. Live busking starts around 6 pm at Hongdae Playground.\n3. Clubs & bars stay open till early morning.\n4. Daytime is perfect for indie shops and cafés.\n\n✅ Remember: schedule your night out after 6 pm.\n\nDid you expect Hongdae to be lively all day? Save this for your trip.\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-hongdae-nightlife-and-youth-culture-district.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1793772652680-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1793772652680-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-04T14:24:39.617Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-04T06:10:53.370Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/40351505/pexels-photo-40351505.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Hongdae nightlife and youth culture district",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연하며 사실도 과장되지 않아 여행 정보로 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-04T06:10:43.806Z",
+      "pattern": "C"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-hongdae-nightlife-and-youth-culture-district.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "08a477b4-3fca-4c68-8865-ede06d721742",
+    "text": "Arriving at Hongdae at 3 pm on a Saturday?\nThe nightlife only starts after 6 pm, so the streets look calm until then.\nWhen did you first notice Hongdae’s evening vibe?\n\n📖 Open the Land in Korea link in our profile and search “Hongdae nightlife and youth culture district”.\n\n#KoreaTravel #Seoul #SeoulTrip #Hongdae #HongdaeNightlife",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-11-04T14:30:50.789Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-04T06:10:53.398Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/40351505/pexels-photo-40351505.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Hongdae nightlife and youth culture district",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연하며 사실도 과장되지 않아 여행 정보로 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-04T06:10:43.806Z",
+      "pattern": "C"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-11-04T06:10:53.383Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "e8ea4aee-d01a-45c4-8f22-85da2218deae",
+    "text": "I thought Hongdae would be buzzing at 2 pm on Saturday, but the streets were empty.\n\nThe district really comes alive after 6 pm, especially on weekend evenings.\n\nBuskers fill Hongdae Playground from 6 pm onward, and clubs stay open until dawn.\n\nPlan your night out after dinner; daytime visits are better for cafés and indie shops.\n\nDid you notice this timing shift in other Korean neighborhoods? #KoreaTravel #Hongdae",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1793772652680-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1793772652680-v0-0.jpg"
+    ],
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-11-04T14:46:52.591Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-04T06:10:53.430Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/40351505/pexels-photo-40351505.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Hongdae nightlife and youth culture district",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연하며 사실도 과장되지 않아 여행 정보로 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-04T06:10:43.806Z",
+      "pattern": "C"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-hongdae-nightlife-and-youth-culture-district.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "ee0fc3e5-4d94-48c9-ba5b-2ee7411f08fa",
+    "text": "I thought Hongdae would be buzzing at 2 pm on Saturday, but the streets were empty.\n\nThe district really comes alive after 6 pm, especially on weekend evenings.\n\nBuskers fill Hongdae Playground from 6 pm onward, and clubs stay open until dawn.\n\nPlan your night out after dinner; daytime visits are better for cafés and indie shops.\n\nDid you notice this timing shift in other Korean neighborhoods? #KoreaTravel #Seoul #Hongdae #HongdaeNightlife",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1793772652680-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1793772652680-v0-0.jpg"
+    ],
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-11-04T15:21:31.308Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-04T06:10:53.457Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/40351505/pexels-photo-40351505.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Hongdae nightlife and youth culture district",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연하며 사실도 과장되지 않아 여행 정보로 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-04T06:10:43.806Z",
+      "pattern": "C"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-hongdae-nightlife-and-youth-culture-district.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "e9401a82-a491-49da-8bf4-da966b1b8235",
+    "text": "Everyone thinks Nami Island is a park you can just walk into, but you actually need a ferry.\n\nIn Gapyeong, the half‑moon island is accessed only by a 5‑minute ferry (or a zipline if you’re adventurous).\n\nOnce aboard, stroll the famous ginkgo and metasequoia lanes – the drama ‘Winter Sonata’ backdrop – and then head to nearby Petite France.\n\nFerry tickets sell out quickly in peak season, so buy them at the dock or online beforehand.\n\nAgree, or did it go differently for you?\n\n📖 Open the Land in Korea link in our profile and search “Nami Island and Petite France day trip”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1793772722554-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1793772722554-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-05T00:14:27.966Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-04T06:12:03.108Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/32196423/pexels-photo-32196423.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2020/06/26/43201-435893323_large.mp4",
+    "videoAttribution": null,
+    "topic": "Nami Island and Petite France day trip",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스러우며 사실 주장도 타당해 여행 정보로 충분히 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-04T06:11:35.344Z",
+      "pattern": "C"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-nami-island-and-petite-france-day-trip.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "f38fcfd4-e745-4fc8-8e74-ebea17588b7c",
+    "text": "Everyone thinks Nami Island is a walk‑over park, but you actually need a ferry to reach the half‑moon island. ✨\n\n1️⃣ Ferry ride is only about 5 minutes from Gapyeong dock.\n2️⃣ The island’s ginkgo and metasequoia lanes were the set of “Winter Sonata.”\n3️⃣ Zipline option exists for the adventurous.\n4️⃣ Petite France, a French‑village theme park, is right next door for a combined day trip.\n\n✅ Ferry ticket, scenic walk, then Petite France.\n\nWhat surprised you most about Nami Island’s arrival?\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-nami-island-and-petite-france-day-trip.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1793772722554-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1793772722554-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-05T00:17:08.282Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-04T06:12:03.133Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/32196423/pexels-photo-32196423.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2020/06/26/43201-435893323_large.mp4",
+    "videoAttribution": null,
+    "topic": "Nami Island and Petite France day trip",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스러우며 사실 주장도 타당해 여행 정보로 충분히 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-04T06:11:35.344Z",
+      "pattern": "C"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-nami-island-and-petite-france-day-trip.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "1e473966-c1fb-4145-bdb8-0fef1d0ede65",
+    "text": "Everyone thinks Nami Island is a walk‑over park, but you actually need a ferry.\nJust hop on a 5‑minute ferry from Gapyeong – no bridge, just water (or zipline if daring).\nDid you expect a bridge? Share your first‑time surprise!\n\n📖 Open the Land in Korea link in our profile and search “Nami Island and Petite France day trip”.\n\n🎬 Video source: Pixabay\n\n#KoreaTravel #VisitKorea #KoreaTrip #NamiIsland #PetiteFrance\n\n🎵 \"Madly, Deeply (Acoustic)\" by Melanie Ungar is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/.",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1793772721707-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-11-05T00:22:57.054Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-04T06:12:03.159Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/32196423/pexels-photo-32196423.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2020/06/26/43201-435893323_large.mp4",
+    "videoAttribution": "Pixabay",
+    "topic": "Nami Island and Petite France day trip",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스러우며 사실 주장도 타당해 여행 정보로 충분히 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-04T06:11:35.344Z",
+      "pattern": "C"
+    }
+  },
+  {
+    "id": "edbd40b2-94fd-42cf-aff6-73d5a9ff6f3f",
+    "text": "Everyone thinks Nami Island is a park you can just walk into, but you actually need a ferry.\n\nIn Gapyeong the half‑moon island is reached only by a 5‑minute ferry (or zipline for the daring).\n\nAfter the ride, wander the ginkgo and metasequoia lanes made famous by ‘Winter Sonata,’ then visit nearby Petite France.\n\nPeak season means ferry tickets run out fast – grab yours early at the dock or online.\n\nWhat surprised you most about the arrival? #KoreaTravel #NamiIsland",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1793772722554-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1793772722554-v0-0.jpg"
+    ],
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-11-05T00:43:57.979Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-04T06:12:03.181Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/32196423/pexels-photo-32196423.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2020/06/26/43201-435893323_large.mp4",
+    "videoAttribution": null,
+    "topic": "Nami Island and Petite France day trip",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스러우며 사실 주장도 타당해 여행 정보로 충분히 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-04T06:11:35.344Z",
+      "pattern": "C"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-nami-island-and-petite-france-day-trip.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "e2b714d2-0d20-4837-ae0f-c6e9082dee8a",
+    "text": "Everyone thinks Nami Island is a park you can just walk into, but you actually need a ferry.\n\nIn Gapyeong, the half‑moon island is only accessible via a 5‑minute ferry ride (or zipline if you’re adventurous).\n\nOnce there, the iconic ginkgo and metasequoia lanes – the backdrop of ‘Winter Sonata’ – await, plus the nearby French‑village themed Petite France.\n\nFerry tickets sell out quickly during holidays, so purchase ahead at the dock or online to avoid waiting.\n\nDid you expect a bridge and get surprised? #TravelTips #KoreaTravel #NamiIsland",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1793772722554-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1793772722554-v0-0.jpg"
+    ],
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-11-05T01:13:31.053Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-04T06:12:03.204Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/32196423/pexels-photo-32196423.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2020/06/26/43201-435893323_large.mp4",
+    "videoAttribution": null,
+    "topic": "Nami Island and Petite France day trip",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스러우며 사실 주장도 타당해 여행 정보로 충분히 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-04T06:11:35.344Z",
+      "pattern": "C"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-nami-island-and-petite-france-day-trip.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "e0ae644a-a191-42a4-bc59-c817917ce479",
+    "text": "Korea has a UNESCO World Heritage fortress wall you can actually walk, not just photograph from the outside.\n\nHwaseong Fortress, built in 1796, still encircles old Suwon city. The full wall walk spans several kilometres with gates, command posts and watchtowers.\n\nMost first‑timers underestimate the time needed; plan at least a couple of hours to enjoy the entire loop.\n\nRain makes the stone steps slippery, especially near the watchtowers, so bring appropriate shoes.\n\nIs walking historic walls common where you travel? Open the Land in Korea link in our profile for more.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1793772799670-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1793772799670-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-05T02:48:52.077Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-04T06:13:20.157Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/28782547/pexels-photo-28782547.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/03/22/111646-691223153_large.mp4",
+    "videoAttribution": null,
+    "topic": "Suwon Hwaseong Fortress",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 사실이 정확하며 문장이 자연스럽고 여행자에게 유용한 정보가 포함돼 있습니다",
+      "model": "groq",
+      "checkedAt": "2026-11-04T06:12:36.530Z",
+      "pattern": "D"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-suwon-hwaseong-fortress.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "fb92a2da-f05e-4b76-9171-46019c8c6b9d",
+    "text": "Did you know Korea’s Hwaseong Fortress is a walkable UNESCO wall, not just a photo backdrop? 1. Built in 1796, it still encircles old Suwon city. 2. The full wall walk covers several kilometres, passing gates, command posts and watchtowers. 3. Most visitors underestimate the time—allow a couple of hours. 4. Check Hwaseong Haenggung’s reenactment schedule before you go. 5. Pack comfy shoes and a light rain jacket. ✅ Checklist: map, water, shoes, time. Is this the first historic walk you’re planning in Korea? Save this for your trip.\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-suwon-hwaseong-fortress.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1793772799670-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1793772799670-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-05T02:54:36.322Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-04T06:13:20.183Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/28782547/pexels-photo-28782547.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/03/22/111646-691223153_large.mp4",
+    "videoAttribution": null,
+    "topic": "Suwon Hwaseong Fortress",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 사실이 정확하며 문장이 자연스럽고 여행자에게 유용한 정보가 포함돼 있습니다",
+      "model": "groq",
+      "checkedAt": "2026-11-04T06:12:36.530Z",
+      "pattern": "D"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-suwon-hwaseong-fortress.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "83600a13-1aa1-40f3-969c-8a7ec2a29476",
+    "text": "Thinking the Hwaseong Fortress is just a photo spot? Think again.\nThe 1796 UNESCO wall circles Suwon and you can walk its several‑kilometre loop, complete with gates and watchtowers.\nWhat historic walk is on your Korea bucket list? Save this for your trip!\n\n📖 Open the Land in Korea link in our profile and search “Suwon Hwaseong Fortress”.\n\n🎬 Video source: Pixabay\n\n#KoreaTravel #VisitKorea #KoreaTrip #HwaseongFortress #Suwon\n\n🎵 \"Korean taste (146 bpm)\" by Prana Yama is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1793772798812-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-11-05T02:57:14.519Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-04T06:13:20.211Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/28782547/pexels-photo-28782547.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/03/22/111646-691223153_large.mp4",
+    "videoAttribution": "Pixabay",
+    "topic": "Suwon Hwaseong Fortress",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 사실이 정확하며 문장이 자연스럽고 여행자에게 유용한 정보가 포함돼 있습니다",
+      "model": "groq",
+      "checkedAt": "2026-11-04T06:12:36.530Z",
+      "pattern": "D"
+    }
+  },
+  {
+    "id": "5efe8dcc-b23a-4b8a-8fd5-caa2488cefa8",
+    "text": "Korea has a UNESCO World Heritage fortress wall you can actually walk, not just photograph from the outside.\n\nHwaseong Fortress, built in 1796, still encircles old Suwon city. The full wall walk spans several kilometres with gates, command posts and watchtowers.\n\nMost first‑timers underestimate the time needed; plan at least a couple of hours to enjoy the whole circuit.\n\nRain makes the stone steps slippery, especially near the watchtowers—bring good shoes.\n\nIs walking historic walls common where you travel? #KoreaTravel #Hwaseong",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1793772799670-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1793772799670-v0-0.jpg"
+    ],
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-11-05T03:17:16.053Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-04T06:13:20.232Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/28782547/pexels-photo-28782547.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/03/22/111646-691223153_large.mp4",
+    "videoAttribution": null,
+    "topic": "Suwon Hwaseong Fortress",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 사실이 정확하며 문장이 자연스럽고 여행자에게 유용한 정보가 포함돼 있습니다",
+      "model": "groq",
+      "checkedAt": "2026-11-04T06:12:36.530Z",
+      "pattern": "D"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-suwon-hwaseong-fortress.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "ba41b79f-a19d-4029-b50c-05a17f1d5ad6",
+    "text": "Korea has a UNESCO World Heritage fortress wall you can actually walk, not just photograph from the outside.\n\nHwaseong Fortress, built in 1796, still encircles old Suwon city. The full wall walk spans several kilometres with gates, command posts and watchtowers.\n\nMost first‑timers underestimate the time needed; allow at least a couple of hours for the full loop.\n\nRain makes the stone steps slippery, especially near the watchtowers—wear appropriate shoes.\n\nIs walking historic walls common where you travel? #KoreaTravel #TravelTips #Hwaseong #Suwon",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1793772799670-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1793772799670-v0-0.jpg"
+    ],
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-11-05T03:48:06.169Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-04T06:13:20.254Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/28782547/pexels-photo-28782547.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/03/22/111646-691223153_large.mp4",
+    "videoAttribution": null,
+    "topic": "Suwon Hwaseong Fortress",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 사실이 정확하며 문장이 자연스럽고 여행자에게 유용한 정보가 포함돼 있습니다",
+      "model": "groq",
+      "checkedAt": "2026-11-04T06:12:36.530Z",
+      "pattern": "D"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-suwon-hwaseong-fortress.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "8f700dae-b820-4d34-9fe8-88872cc5c8c8",
+    "text": "At Incheon Airport, you’re wondering if you can hop on a KTX to Jeju Island.\n\nYou can’t – Jeju has zero rail, so flying is the only practical way, and Gimpo‑Jeju is one of the world’s busiest domestic air routes.\n\nFlights take about an hour and run many times a day, saving you hours compared to any imagined train.\n\nDon’t waste time checking KTX schedules for Jeju; head straight to the airline desk.\n\nDid you ever try to find a train to Jeju? Tell us below. Open the Land in Korea link in the profile.\n\n📖 Open the Land in Korea link in our profile and search “Domestic flights vs. KTX for Jeju and long-distance trips”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1793772822915-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1793772822915-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-04T14:50:16.571Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-04T06:13:43.384Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/5183072/pexels-photo-5183072.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Domestic flights vs. KTX for Jeju and long-distance trips",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련 있고 사실도 정확하며 문장도 자연스럽다",
+      "model": "groq",
+      "checkedAt": "2026-11-04T06:13:40.557Z",
+      "pattern": "D"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-domestic-flights-vs-ktx-for-jeju-and-long-distance-trips.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "0646702e-8096-48ad-a1fa-e104f0c4cf0e",
+    "text": "Think you can take a KTX to Jeju? Think again – Jeju has zero rail, so you must fly, and Gimpo‑Jeju is one of the busiest domestic routes. 1️⃣ No train, only planes. 2️⃣ 1‑hour flight beats any imagined rail trip. 3️⃣ For Seoul‑Busan, KTX often wins after airport time. ✅ Remember: check rail vs flight before booking. Did you assume there was a train to Jeju? Save this for your trip.\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-domestic-flights-vs-ktx-for-jeju-and-long-distance-trips.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1793772822915-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1793772822915-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-04T14:52:18.829Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-04T06:13:43.404Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/5183072/pexels-photo-5183072.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Domestic flights vs. KTX for Jeju and long-distance trips",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련 있고 사실도 정확하며 문장도 자연스럽다",
+      "model": "groq",
+      "checkedAt": "2026-11-04T06:13:40.557Z",
+      "pattern": "D"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-domestic-flights-vs-ktx-for-jeju-and-long-distance-trips.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "a3fc7428-8e7b-4d37-bba1-5995302b6fdf",
+    "text": "Thinking you can catch a KTX to Jeju Island?\nThere’s no rail at all – you must fly, and Gimpo‑Jeju is one of the busiest air lanes.\nHave you ever planned a train to an island? Drop your story!\n\n📖 Open the Land in Korea link in our profile and search “Domestic flights vs. KTX for Jeju and long-distance trips”.\n\n#KoreaTravel #VisitKorea #SeoulTrip #JejuIsland #JejuTravel",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-11-04T14:57:16.273Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-04T06:13:43.424Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/5183072/pexels-photo-5183072.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Domestic flights vs. KTX for Jeju and long-distance trips",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련 있고 사실도 정확하며 문장도 자연스럽다",
+      "model": "groq",
+      "checkedAt": "2026-11-04T06:13:40.557Z",
+      "pattern": "D"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-11-04T06:13:43.414Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "580409a6-0036-45bf-91a3-f27973e3a353",
+    "text": "At Incheon, you might wonder if you can hop on a KTX to Jeju.\n\nYou can’t—Jeju has no rail, so the only fast way is a flight; Gimpo‑Jeju is one of the busiest domestic routes.\n\nA 1‑hour flight runs many times daily, beating any imagined train.\n\nSkip checking KTX schedules for Jeju; go straight to the airline counter.\n\nAnyone ever tried to find a train to Jeju? Share your experience. #KoreaTravel #Jeju",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1793772822915-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1793772822915-v0-0.jpg"
+    ],
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-11-04T15:18:30.719Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-04T06:13:43.446Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/5183072/pexels-photo-5183072.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Domestic flights vs. KTX for Jeju and long-distance trips",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련 있고 사실도 정확하며 문장도 자연스럽다",
+      "model": "groq",
+      "checkedAt": "2026-11-04T06:13:40.557Z",
+      "pattern": "D"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-domestic-flights-vs-ktx-for-jeju-and-long-distance-trips.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "74dfd502-6559-4533-aee7-47a77170ccfe",
+    "text": "At Incheon Airport you may ask, can I take the KTX to Jeju Island?\n\nThe answer is no – Jeju has zero rail connection, so flying is the only practical option, and the Gimpo‑Jeju corridor is among the world’s busiest domestic air routes.\n\nA typical flight is about an hour and departs frequently, saving you hours over any nonexistent train journey.\n\nDon’t waste time looking at KTX timetables for Jeju; head directly to the airline desk.\n\nDid you ever try to book a train to Jeju? Let us know. #KoreaTravel #Jeju",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1793772822915-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1793772822915-v0-0.jpg"
+    ],
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-11-04T15:48:24.673Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-04T06:13:43.466Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/5183072/pexels-photo-5183072.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Domestic flights vs. KTX for Jeju and long-distance trips",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련 있고 사실도 정확하며 문장도 자연스럽다",
+      "model": "groq",
+      "checkedAt": "2026-11-04T06:13:40.557Z",
+      "pattern": "D"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-domestic-flights-vs-ktx-for-jeju-and-long-distance-trips.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "922cbd92-b591-46e1-a460-e3c1062ef566",
+    "text": "Planning to buy a Seoul attraction pass at the airport kiosk before your first day’s schedule?\n\nIt only saves you money if you hit the break‑even number of paid attractions in one day; otherwise you’ll pay more than buying tickets individually.\n\nMost passes are 24/48/72 hours and start counting from the moment you scan for the first time, not from purchase.\n\nSo activate it only after you’ve confirmed you’ll visit enough sites that day.\n\nDid you ever waste a pass on a light sightseeing day? Open the Land in Korea link in my profile for the full guide.\n\n📖 Open the Land in Korea link in our profile and search “Seoul attraction pass comparison”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1793772878094-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1793772878094-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-05T01:57:07.749Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-04T06:14:38.698Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/19902236/pexels-photo-19902236.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Seoul attraction pass comparison",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제가 맞고 문장이 자연하며 사실도 과장되지 않아 여행자에게 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-04T06:14:36.326Z",
+      "pattern": "A"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-seoul-attraction-pass-comparison.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "a721c196-2dbe-4678-94bf-9d55dc231abe",
+    "text": "A Seoul attraction pass only pays off after you visit enough paid sites in a day—buying it early can cost you more. \n1️⃣ Check how many paid attractions you plan for the day.\n2️⃣ Passes activate on the first scan, not purchase.\n3️⃣ If you’ll see only a few sites, pay per ticket.\n4️⃣ For packed days, a 24/48/72‑hour pass can be worth it.\n✅ Match the pass to your daily itinerary.\nSave this for your trip and let us know—have you ever mis‑timed a pass? 😊\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-seoul-attraction-pass-comparison.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1793772878094-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1793772878094-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-05T02:03:32.417Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-04T06:14:38.719Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/19902236/pexels-photo-19902236.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Seoul attraction pass comparison",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제가 맞고 문장이 자연하며 사실도 과장되지 않아 여행자에게 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-04T06:14:36.326Z",
+      "pattern": "A"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-seoul-attraction-pass-comparison.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "1a80b499-5d5e-46f3-815f-914b26af653b",
+    "text": "Thinking of grabbing a Seoul attraction pass at Incheon before your itinerary is set?\nIt only becomes cheaper when you hit the break‑even number of paid attractions in a single day; otherwise you pay extra.\nWhat’s the most attractions you squeezed into one day?\n\n📖 Open the Land in Korea link in our profile and search “Seoul attraction pass comparison”.\n\n#KoreaTravel #VisitKorea #SeoulTrip #SeoulPass #AttractionPass",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-11-05T02:10:59.702Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-04T06:14:38.740Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/19902236/pexels-photo-19902236.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Seoul attraction pass comparison",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제가 맞고 문장이 자연하며 사실도 과장되지 않아 여행자에게 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-04T06:14:36.326Z",
+      "pattern": "A"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-11-04T06:14:38.729Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "4e862523-a50e-4925-8a6c-53b447026663",
+    "text": "Buying a Seoul attraction pass at the airport before you’ve mapped your day?\n\nThe pass only saves money after you reach the break‑even count of paid attractions in a single day; otherwise it costs more than separate tickets.\n\nPasses come in 24, 48 or 72‑hour versions and start the clock from the first scan, not the purchase moment.\n\nActivate it only once you’re sure your itinerary includes enough paid sites to make it worthwhile.\n\nHave you ever activated a pass too early? #KoreaTravel #SeoulPass",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1793772878094-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1793772878094-v0-0.jpg"
+    ],
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-11-05T02:28:52.694Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-04T06:14:38.766Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/19902236/pexels-photo-19902236.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Seoul attraction pass comparison",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제가 맞고 문장이 자연하며 사실도 과장되지 않아 여행자에게 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-04T06:14:36.326Z",
+      "pattern": "A"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-seoul-attraction-pass-comparison.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "aedbac33-5f3a-422f-98a6-aa04f0127e93",
+    "text": "Planning to snap up a Seoul attraction pass at the Incheon kiosk before you’ve decided which museums to visit?\n\nThe pass only becomes cheaper when you hit the break‑even number of paid attractions in one day; with only a few sites, paying per entry is cheaper.\n\nPasses are sold for 24, 48 or 72 hours and begin counting from the moment you first scan, not from purchase.\n\nSo hold off on activation until you confirm your day’s schedule includes enough attractions to justify the pass.\n\nDid you ever waste a pass on a light day? #KoreaTravel #TravelTips #SeoulPass #Seoul",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1793772878094-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1793772878094-v0-0.jpg"
+    ],
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-11-05T02:59:18.135Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-04T06:14:38.793Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/19902236/pexels-photo-19902236.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Seoul attraction pass comparison",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제가 맞고 문장이 자연하며 사실도 과장되지 않아 여행자에게 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-04T06:14:36.326Z",
+      "pattern": "A"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-seoul-attraction-pass-comparison.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
   }
 ]
