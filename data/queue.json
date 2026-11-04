@@ -35330,7 +35330,7 @@
       "threads"
     ],
     "scheduledAt": "2026-11-03T23:33:23.434Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-03T01:58:43.363Z",
     "approved": true,
@@ -36078,7 +36078,7 @@
       "bluesky"
     ],
     "scheduledAt": "2026-11-04T14:46:52.591Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-04T06:10:53.430Z",
     "approved": true,
