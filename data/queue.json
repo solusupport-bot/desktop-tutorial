@@ -36788,5 +36788,38 @@
     "rejectedBy": "no-media",
     "rejectedAt": "2026-11-04T07:05:04.562Z",
     "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "5b7bc910-66a8-46bd-b5d6-58f206e98dcd",
+    "text": "Is the AREX express train really the cheapest way to Seoul if I’m lugging a big suitcase at Incheon?\n\nThe all‑stop AREX costs only ₩4,150‑₩4,750 and takes ~59 min, while the express is ₩13,000 for ~43 min.\n\nIf you have heavy luggage, the N6701 bus drops you near Seoul Station for ₩18,000 and a 60‑min ride, avoiding train stairs.\n\nDuring rush hour taxis can surge far above ₩13,000, so budget extra or use a card‑ready deluxe taxi.\n\nDid this confuse you too? What’s your go‑to airport ride? Open the Land in Korea link in the profile.\n\n📖 Open the Land in Korea link in our profile and search “Airport transfer options”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1793776004180-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1793776004180-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-04T09:12:24.101Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-04T07:06:44.866Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g4cd08de036bb3e552725b52048869f8cee1171162bf580e7e3a1feeba2cbbecfd3e2661597f6f6c6500c2b0ae01512962f450ac1bfd8358d134996cbf8c2c84b_1280.jpg#pixabay=4899759"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Airport transfer options",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련 있고 문장이 자연스러우며 사실도 크게 문제 없고 여행자에게 유용한 정보를 제공한다",
+      "model": "groq",
+      "checkedAt": "2026-11-04T07:06:42.140Z",
+      "pattern": "B"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-airport-transfer-options.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
