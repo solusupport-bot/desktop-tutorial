@@ -36875,5 +36875,38 @@
     "rejectedBy": "no-media",
     "rejectedAt": "2026-11-04T12:27:43.870Z",
     "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "dd6085c1-9723-4688-b1e5-4905223cffbb",
+    "text": "At Gwangjang Market, you might reach for your Visa and get stuck.\n\nThe market only takes cash—no foreign cards are accepted.\n\nCity cafés, convenience stores and restaurants usually accept Visa/Mastercard.\n\nFind a ‘Global’ ATM—Woori, KEB Hana or 7‑Eleven—to pull won before you shop.\n\nDid you ever get caught without cash in a Korean market? Open the Land in Korea link in profile.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1793795324065-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1793795324065-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-04T17:12:13.454Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-04T12:28:44.906Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/40727772/pexels-photo-40727772.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Currency & card payments",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽으며 사실도 신뢰할 수 있어 발행 가능",
+      "model": "groq",
+      "checkedAt": "2026-11-04T12:28:32.709Z",
+      "pattern": "A"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-currency-card-payments.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
