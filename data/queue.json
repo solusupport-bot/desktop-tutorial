@@ -35378,7 +35378,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-11-03T23:35:58.566Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-03T01:58:43.391Z",
     "approved": true,
@@ -36628,7 +36628,7 @@
       "mastodon"
     ],
     "scheduledAt": "2026-11-04T15:48:24.673Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-04T06:13:43.466Z",
     "approved": true,
