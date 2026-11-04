@@ -37457,5 +37457,35 @@
       "pattern": "D"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-eating-alone-in-korea-which-restaurants-refuse-solo-diners-and-where-honbap-works.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "bbb23bae-8d25-458f-8a5a-2886eabc80fe",
+    "text": "Trying to order on Baemin at the airport and your phone says “invalid number”?\nThe app only accepts Korean numbers, but there’s an easy workaround.\nGrab a cheap prepaid Korean SIM or a virtual number that can receive SMS, then verify.\nWhat’s the most surprising thing you’ve had to do to order food in Korea? Save this for your trip!\n\n📖 Open the Land in Korea link in our profile and search “Food delivery apps in Korea: why signing up is harder than ordering”.\n\n#KoreaTravel #VisitKorea #SeoulTrip #Baemin #KoreanFoodDelivery",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-11-04T18:59:04.046Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-04T14:20:54.181Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Food delivery apps in Korea: why signing up is harder than ordering",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 맞고, 문장이 자연스럽고 사실도 신뢰할 수 있어 여행자에게 유용하므로 통과합니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-04T14:20:52.000Z",
+      "pattern": "D"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-11-04T14:20:54.168Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
   }
 ]

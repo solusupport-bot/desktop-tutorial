@@ -1,11 +1,6 @@
 {
-  "lastIndex": 36,
+  "lastIndex": 37,
   "history": [
-    {
-      "index": 1,
-      "topic": "Bukchon Hanok Village",
-      "at": "2026-09-27T07:10:11.066Z"
-    },
     {
       "index": 2,
       "topic": "N Seoul Tower (Namsan)",
@@ -1042,6 +1037,12 @@
       "topic": "Eating alone in Korea: which restaurants refuse solo diners and where honbap works",
       "at": "2026-11-04T14:11:58.269Z",
       "source": "threads-fill"
+    },
+    {
+      "index": 37,
+      "topic": "Food delivery apps in Korea: why signing up is harder than ordering",
+      "at": "2026-11-04T14:19:33.735Z",
+      "source": "instagram-fill"
     }
   ],
   "recentImageUrls": [
