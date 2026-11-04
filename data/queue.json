@@ -37352,5 +37352,39 @@
     "rejectedBy": "no-media",
     "rejectedAt": "2026-11-04T13:53:50.290Z",
     "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "892e4755-dfb1-4f16-b6e9-0eca890ab47e",
+    "text": "Is a goshiwon the right place for a month‑long stay in Seoul?\n\nYes – a goshiwon is a tiny private room you can rent month‑to‑month, with no deposit and utilities included.\n\nOriginally built for exam‑takers, rooms are often windowless and very tight, but you can move in instantly.\n\nIf you need more space or privacy, share houses or licensed guesthouses offer larger rooms and lighter contracts.\n\nWhich option fits your style? Open the Land in Korea link in the profile.\n\n📖 Open the Land in Korea link in our profile and search “Short-term vs. long-term housing in Korea: guesthouse, goshiwon, officetel, and the deposit system”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1793800536696-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1793800536696-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-04T14:23:33.009Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-04T13:55:37.533Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/12612945/pexels-photo-12612945.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Short-term vs. long-term housing in Korea: guesthouse, goshiwon, officetel, and the deposit system",
+    "qualityGate": {
+      "pass": false,
+      "reason": "고시원에 보증금이 없다는 주장 등이 실제와 다워 사실성이 부족합니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-04T13:55:36.695Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-04T13:55:37.500Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-short-term-vs-long-term-housing-in-korea-guesthouse-goshiwon-officetel-and-the-deposit-system.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]

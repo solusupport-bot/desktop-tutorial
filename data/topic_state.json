@@ -1,11 +1,6 @@
 {
-  "lastIndex": 33,
+  "lastIndex": 34,
   "history": [
-    {
-      "index": 21,
-      "topic": "DMZ and JSA tours",
-      "at": "2026-09-26T12:45:50.078Z"
-    },
     {
       "index": 22,
       "topic": "Jjimjilbang etiquette",
@@ -1039,6 +1034,12 @@
       "topic": "Seoul subway details nobody tells you: exit numbers, transfer walks, express trains, and the last train",
       "at": "2026-11-04T13:53:28.505Z",
       "source": "instagram-fill"
+    },
+    {
+      "index": 34,
+      "topic": "Short-term vs. long-term housing in Korea: guesthouse, goshiwon, officetel, and the deposit system",
+      "at": "2026-11-04T13:53:52.066Z",
+      "source": "threads-fill"
     }
   ],
   "recentImageUrls": [
@@ -1750,7 +1751,8 @@
     "https://images.pexels.com/photos/6178650/pexels-photo-6178650.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://pixabay.com/get/g452a257ac9108cf12cdb8736a47896c016e3e95105f4022ca7e14257468fc07afd0dc8e0785d4a0cfe3045118d312da5558802e729bb07f4792e9358a89f2e66_1280.jpg#pixabay=7523474",
     "https://images.pexels.com/photos/40394271/pexels-photo-40394271.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://images.pexels.com/photos/32014956/pexels-photo-32014956.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "https://images.pexels.com/photos/32014956/pexels-photo-32014956.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/12612945/pexels-photo-12612945.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
   ],
   "recentVideoUrls": [
     "https://videos.pexels.com/video-files/19577787/19577787-uhd_2160_3840_30fps.mp4",
