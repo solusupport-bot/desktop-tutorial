@@ -98,12 +98,12 @@ const main = async () => {
   let created = 0;
 
   // 링크 맵에 slug가 있다고 실제 파일이 있다는 보장이 없다(유령 링크 버그, 위
-  // blog_repo.js 주석 참고) — GitHub API로 진짜 파일 목록을 확인해 교차 검증한다.
+  // blog_repo.js 주석 참고) — 저장소 API로 진짜 파일 목록을 확인해 교차 검증한다.
   // API 조회 자체가 실패하면(오프라인 등) 기존처럼 링크 맵만 믿는다.
   const existingSlugs = await listExistingSlugs();
   const pending = topics.filter((t) => {
     if (!slugs[t.source]) return true;
-    if (existingSlugs && !existingSlugs.has(slugify(t.source))) {
+    if (existingSlugs && !existingSlugs.has(slugs[t.source])) {
       log.warn(`"${t.source}"는 링크(${slugs[t.source]})만 있고 실제 글 파일이 없습니다 — 다시 씁니다.`);
       return true;
     }
@@ -140,7 +140,7 @@ const main = async () => {
     log.ok(`검수 완료된 사전 작성 글 사용 (${topic.source})`);
 
     const markdown = buildMarkdown(slug, category, generated);
-    const url = pushBlogPost({ slug, markdown });
+    const url = await pushBlogPost({ slug, markdown });
     if (!url) {
       log.err(`"${topic.source}" 블로그 글 푸시 실패 — 다음 실행에서 다시 시도합니다.`);
       continue;
