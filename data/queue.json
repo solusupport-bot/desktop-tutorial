@@ -35063,8 +35063,12 @@
       "threads"
     ],
     "scheduledAt": "2026-11-03T15:03:05.523Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18101370446535187"
+      }
+    },
     "createdAt": "2026-11-03T01:55:52.812Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -35086,7 +35090,8 @@
       "pattern": "A",
       "checkedAt": "2026-11-03T01:55:51.982Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-myeongdong-shopping-district.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-myeongdong-shopping-district.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-04T12:26:39.098Z"
   },
   {
     "id": "92c1fe73-daf7-4a49-b977-a6f63e3c70c6",
@@ -35245,8 +35250,13 @@
       "mastodon"
     ],
     "scheduledAt": "2026-11-03T16:01:50.661Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "mastodon": {
+        "id": "117558162302993888",
+        "url": "https://mastodon.social/@landinkorea/117558162302993888"
+      }
+    },
     "createdAt": "2026-11-03T01:55:52.921Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -35268,7 +35278,8 @@
       "pattern": "A",
       "checkedAt": "2026-11-03T01:55:51.982Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-myeongdong-shopping-district.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-myeongdong-shopping-district.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-04T12:26:43.722Z"
   },
   {
     "id": "582ca9ac-6b15-4ac8-a0bc-d8d49899c633",
@@ -35465,8 +35476,13 @@
       "bluesky"
     ],
     "scheduledAt": "2026-11-04T00:02:11.853Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mzidz2d7ow22",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3mzidz2d7ow22"
+      }
+    },
     "createdAt": "2026-11-03T01:58:43.478Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -35489,7 +35505,8 @@
       "pattern": "A",
       "checkedAt": "2026-11-03T01:58:42.648Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-busan-haeundae-beach-gamcheon-culture-village.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-busan-haeundae-beach-gamcheon-culture-village.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-04T12:26:46.822Z"
   },
   {
     "id": "1d87d6df-b558-4d65-8562-9d52ea5f1ba2",
@@ -35758,8 +35775,12 @@
       "instagram"
     ],
     "scheduledAt": "2026-11-04T08:43:57.060Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "17888487657687623"
+      }
+    },
     "createdAt": "2026-11-04T06:02:04.991Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -35777,7 +35798,8 @@
       "model": "groq",
       "checkedAt": "2026-11-04T06:01:54.765Z",
       "pattern": "A"
-    }
+    },
+    "processedAt": "2026-11-04T12:27:22.320Z"
   },
   {
     "id": "0df17152-b407-4215-b1ba-d0b18ed7d804",
