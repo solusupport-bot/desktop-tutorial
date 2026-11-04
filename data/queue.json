@@ -36035,8 +36035,13 @@
       "facebook"
     ],
     "scheduledAt": "2026-11-04T14:24:39.617Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "122129033055446391",
+        "post_id": "1288453561012463_122129033193446391"
+      }
+    },
     "createdAt": "2026-11-04T06:10:53.370Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -36055,7 +36060,8 @@
       "checkedAt": "2026-11-04T06:10:43.806Z",
       "pattern": "C"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-hongdae-nightlife-and-youth-culture-district.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-hongdae-nightlife-and-youth-culture-district.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-04T22:53:49.136Z"
   },
   {
     "id": "08a477b4-3fca-4c68-8865-ede06d721742",
