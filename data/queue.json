@@ -37424,5 +37424,38 @@
     "rejectedBy": "no-media",
     "rejectedAt": "2026-11-04T14:11:56.576Z",
     "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "492553c8-7786-4574-814c-36ca2be1058f",
+    "text": "Korea doesn’t serve single portions at many traditional stews and BBQ spots.\n\nMenus often read ‘2인분부터’, so you must order at least two servings.\n\nYou’ll see this on budae jjigae, dakgalbi, jjimdak, and most Korean BBQ places.\n\nDuring a busy lunch rush, single diners may be politely turned away.\n\nHas a restaurant ever refused you because you were solo? Open the Land in Korea link in my profile.\n\n📖 Open the Land in Korea link in our profile and search “Eating alone in Korea: which restaurants refuse solo diners and where honbap works”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1793801567454-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1793801567454-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-04T20:11:51.367Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-04T14:12:48.168Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g3d9ff63e04639a2e745d99f2b14874581f5bd6137dcf6427a868ee2108f14f1b6bf4a7f783d3321721cc30816411351f63b07becfe61b6e8f6ab9153515c8073_1280.jpg#pixabay=1148883"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Eating alone in Korea: which restaurants refuse solo diners and where honbap works",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽으며 사실이 크게 과장되지 않아 여행 정보로 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-04T14:12:19.782Z",
+      "pattern": "D"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-eating-alone-in-korea-which-restaurants-refuse-solo-diners-and-where-honbap-works.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
