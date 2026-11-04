@@ -36756,5 +36756,37 @@
       "pattern": "A"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-seoul-attraction-pass-comparison.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "647e16bc-163e-4747-b1a3-20ac4c0780d8",
+    "text": "Planning a KTX trip during Chuseok? Stop before you book!\n\nChuseok and Seollal flood the country with travelers, emptying trains weeks ahead.\n\nWhat’s the craziest holiday travel surprise you’ve faced in Korea? Save this for your Korea trip.\n\n📖 Open the Land in Korea link in our profile and search “Korean public holidays that disrupt travel plans”.\n\n#KoreaTravel #VisitKorea #SeoulTrip #ChuseokTravel #KTXTips",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-11-04T11:37:06.788Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-04T07:05:04.580Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/17113720/pexels-photo-17113720.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Korean public holidays that disrupt travel plans",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제에 맞고 내용도 자연스럽고 과장된 주장 없이 여행에 유용한 정보다",
+      "model": "groq",
+      "checkedAt": "2026-11-04T07:05:01.426Z",
+      "pattern": "A"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-11-04T07:05:04.562Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
   }
 ]
