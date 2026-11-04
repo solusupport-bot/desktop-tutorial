@@ -36843,5 +36843,37 @@
       "pattern": "B"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-airport-transfer-options.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "6f8e3a87-b447-4a6b-b398-db44c9e5d779",
+    "text": "Thinking a tip will impress your server in Seoul? It might just confuse them.\n\nKoreans consider service included, so extra cash can feel like a mistake.\n\nWhat’s the most surprising etiquette rule you’ve faced in Korea? Save this for your Korea trip.\n\n📖 Open the Land in Korea link in our profile and search “First-timer etiquette & common mistakes”.\n\n#KoreaTravel #VisitKorea #SeoulTrip #KoreanEtiquette #NoTipKorea",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-11-04T16:46:32.513Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-04T12:27:43.889Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/19271576/pexels-photo-19271576.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "First-timer etiquette & common mistakes",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 맞고 자연스러운 문장이며 사실도 정확해 여행자에게 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-04T12:27:40.956Z",
+      "pattern": "A"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-11-04T12:27:43.870Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
   }
 ]
