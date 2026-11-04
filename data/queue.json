@@ -37645,5 +37645,38 @@
       "checkedAt": "2026-11-04T16:58:04.519Z",
       "pattern": "C"
     }
+  },
+  {
+    "id": "fdeceac0-3044-499d-8351-e67ed40e3901",
+    "text": "You assume every fast‑food kiosk in Seoul automatically shows English menus…\n\nActually, most default to Korean‑only on the first screen; you need to tap the small “ENGLISH” icon or flag.\n\nBig chains like Lotteria, Mom’s Touch, Starbucks, and Baskin‑Robbins have offered English for years.\n\nIf a kiosk truly lacks English, use Google Translate’s camera mode to read the screen in a pinch.\n\nDid you ever get stuck at a kiosk? Share your story and open the Land in Korea link in the profile.\n\n📖 Open the Land in Korea link in our profile and search “Unmanned kiosk ordering in Korea: why humans are disappearing from the counter”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1793811535364-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1793811535364-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-04T21:34:24.260Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-04T16:58:56.313Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/35812899/pexels-photo-35812899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Unmanned kiosk ordering in Korea: why humans are disappearing from the counter",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련된 무인 키오스크 이용 팁을 자연스럽게 전달하며, 과장된 내용 없이 여행자에게 유용한 정보를 제공한다",
+      "model": "groq",
+      "checkedAt": "2026-11-04T16:58:52.000Z",
+      "pattern": "C"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-unmanned-kiosk-ordering-in-korea-why-humans-are-disappearing-from-the-counter.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
