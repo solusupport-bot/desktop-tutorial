@@ -37218,5 +37218,38 @@
     "rejectedBy": "no-media",
     "rejectedAt": "2026-11-04T13:26:08.033Z",
     "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "d8f43519-1c94-4460-a1b8-0bb1ea5f4103",
+    "text": "At Incheon Airport, you assume a T‑shirt is enough for Korea’s summer—stop right there.\n\nSummer (Jun‑Aug) is hot, humid, with a July monsoon; bring light breathable clothes and a compact umbrella, not a heavy raincoat.\n\nRain can hit suddenly in Seoul; a small umbrella folds into any bag and saves you from a drenched walk.\n\nWinter (Dec‑Feb) brings dry cold and occasional snow outside Seoul—layer with a proper coat, not just a light jacket.\n\nDid you ever get caught without one? Open the Land in Korea link in the profile.\n\n📖 Open the Land in Korea link in our profile and search “Seasonal packing & weather tips”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1793798827417-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1793798827417-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-04T16:52:23.134Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-04T13:27:08.309Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/6178650/pexels-photo-6178650.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Seasonal packing & weather tips",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 맞고 문장도 자연하며 과장된 내용 없이 여행자에게 유용한 팁을 제공한다",
+      "model": "groq",
+      "checkedAt": "2026-11-04T13:27:05.523Z",
+      "pattern": "A"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-seasonal-packing-weather-tips.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
