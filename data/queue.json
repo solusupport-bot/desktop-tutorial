@@ -35330,8 +35330,12 @@
       "threads"
     ],
     "scheduledAt": "2026-11-03T23:33:23.434Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18054222557817169"
+      }
+    },
     "createdAt": "2026-11-03T01:58:43.363Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -35354,7 +35358,8 @@
       "pattern": "A",
       "checkedAt": "2026-11-03T01:58:42.648Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-busan-haeundae-beach-gamcheon-culture-village.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-busan-haeundae-beach-gamcheon-culture-village.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-04T15:25:28.788Z"
   },
   {
     "id": "6c05f384-257c-42af-b084-c723425d2ee3",
@@ -36078,8 +36083,13 @@
       "bluesky"
     ],
     "scheduledAt": "2026-11-04T14:46:52.591Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mzinypcazb2t",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3mzinypcazb2t"
+      }
+    },
     "createdAt": "2026-11-04T06:10:53.430Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -36098,7 +36108,8 @@
       "checkedAt": "2026-11-04T06:10:43.806Z",
       "pattern": "C"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-hongdae-nightlife-and-youth-culture-district.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-hongdae-nightlife-and-youth-culture-district.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-04T15:25:33.350Z"
   },
   {
     "id": "ee0fc3e5-4d94-48c9-ba5b-2ee7411f08fa",
