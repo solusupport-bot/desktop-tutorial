@@ -34831,8 +34831,13 @@
       "facebook"
     ],
     "scheduledAt": "2026-11-03T03:22:01.431Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "122128876551446391",
+        "post_id": "1288453561012463_122128876575446391"
+      }
+    },
     "createdAt": "2026-11-03T01:52:38.940Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -34854,7 +34859,8 @@
       "pattern": "C",
       "checkedAt": "2026-11-03T01:52:38.168Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-04T07:04:05.099Z"
   },
   {
     "id": "cfaabaf9-c7aa-4d85-8173-06a6182780a5",
@@ -34977,8 +34983,13 @@
       "mastodon"
     ],
     "scheduledAt": "2026-11-03T04:18:59.095Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "mastodon": {
+        "id": "117556893887269450",
+        "url": "https://mastodon.social/@landinkorea/117556893887269450"
+      }
+    },
     "createdAt": "2026-11-03T01:52:39.029Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -35000,7 +35011,8 @@
       "pattern": "C",
       "checkedAt": "2026-11-03T01:52:38.168Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-04T07:04:08.222Z"
   },
   {
     "id": "4eb86ee7-a733-45e7-b4bd-a8b69fe6dee7",
@@ -35191,8 +35203,13 @@
       "bluesky"
     ],
     "scheduledAt": "2026-11-03T15:36:47.655Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mzhry73ipg2r",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3mzhry73ipg2r"
+      }
+    },
     "createdAt": "2026-11-03T01:55:52.901Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -35214,7 +35231,8 @@
       "pattern": "A",
       "checkedAt": "2026-11-03T01:55:51.982Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-myeongdong-shopping-district.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-myeongdong-shopping-district.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-04T07:04:10.650Z"
   },
   {
     "id": "810cc205-afba-4de3-a271-5880869e3f6a",
@@ -35558,8 +35576,12 @@
       "instagram"
     ],
     "scheduledAt": "2026-11-03T17:26:09.111Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "18048404684837568"
+      }
+    },
     "createdAt": "2026-11-03T03:40:47.183Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -35580,7 +35602,8 @@
       "model": "groq",
       "pattern": "D",
       "checkedAt": "2026-11-03T03:40:26.812Z"
-    }
+    },
+    "processedAt": "2026-11-04T07:04:46.339Z"
   },
   {
     "id": "94b348de-a3dc-4e73-89de-2c73c0c1c7e8",
