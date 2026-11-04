@@ -37186,5 +37186,37 @@
       "pattern": "O"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-useful-travel-apps.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "d40dafc2-6bfa-43ff-a085-75e767e1f9fb",
+    "text": "You’re at a CU in Seoul and think it’s just for chips?\nIt’s also a 24/7 mini‑pharmacy, ATM, bill‑pay desk, ticket counter, and hot‑food station.\nWhich of these will you try first? Save this for your Korea trip 📖\n#KoreaTravel #Seoul #SeoulTrip #CU #ConvenienceStore\n\n📖 Open the Land in Korea link in our profile and search “Convenience store hacks”.",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-11-04T17:54:34.225Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-04T13:26:08.056Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/40704004/pexels-photo-40704004.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Convenience store hacks",
+    "qualityGate": {
+      "pass": true,
+      "reason": "The caption is on‑topic, reads naturally, contains realistic convenience‑store services and tips, and offers useful travel information.",
+      "model": "groq",
+      "checkedAt": "2026-11-04T13:26:05.750Z",
+      "pattern": "C"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-11-04T13:26:08.033Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
   }
 ]
