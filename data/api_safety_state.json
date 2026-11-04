@@ -17,15 +17,17 @@
     },
     "threads": {
       "attempts": [
-        "2026-11-04T12:26:39.098Z"
+        "2026-11-04T12:26:39.098Z",
+        "2026-11-04T15:25:28.788Z"
       ],
       "successes": [
-        "2026-11-04T12:26:39.098Z"
+        "2026-11-04T12:26:39.098Z",
+        "2026-11-04T15:25:28.788Z"
       ],
       "consecutiveFailures": 0,
       "blockedUntil": null,
-      "lastAttemptAt": "2026-11-04T12:26:39.098Z",
-      "lastSuccessAt": "2026-11-04T12:26:39.098Z"
+      "lastAttemptAt": "2026-11-04T15:25:28.788Z",
+      "lastSuccessAt": "2026-11-04T15:25:28.788Z"
     },
     "tumblr": {
       "attempts": [
@@ -52,16 +54,18 @@
     "bluesky": {
       "attempts": [
         "2026-11-04T07:04:10.649Z",
-        "2026-11-04T12:26:46.822Z"
+        "2026-11-04T12:26:46.822Z",
+        "2026-11-04T15:25:33.350Z"
       ],
       "successes": [
         "2026-11-04T07:04:10.649Z",
-        "2026-11-04T12:26:46.822Z"
+        "2026-11-04T12:26:46.822Z",
+        "2026-11-04T15:25:33.350Z"
       ],
       "consecutiveFailures": 0,
       "blockedUntil": null,
-      "lastAttemptAt": "2026-11-04T12:26:46.822Z",
-      "lastSuccessAt": "2026-11-04T12:26:46.822Z"
+      "lastAttemptAt": "2026-11-04T15:25:33.350Z",
+      "lastSuccessAt": "2026-11-04T15:25:33.350Z"
     },
     "mastodon": {
       "attempts": [
