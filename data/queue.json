@@ -37564,5 +37564,38 @@
     "rejectedBy": "no-media",
     "rejectedAt": "2026-11-04T15:25:59.912Z",
     "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "beaa184b-013c-4062-946a-380b020c9d61",
+    "text": "Thinking Korean karaoke means singing on a stage in front of strangers at a bar?\n\nOne hour of rental gives you a private noraebang room for your group.\n\nThe song machine includes English search, so you can queue up your favorite tracks without Korean.\n\nDon’t assume you need a reservation; many spots let you walk in, but peak times fill fast.\n\nWhat song would you pick first for your noraebang night?\n\n📖 Open the Land in Korea link in our profile and search “Noraebang etiquette: how Korean karaoke actually works for first-timers”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1793806010390-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1793806010390-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-04T16:38:33.673Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-04T15:26:51.299Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/35874813/pexels-photo-35874813.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Noraebang etiquette: how Korean karaoke actually works for first-timers",
+    "qualityGate": {
+      "pass": true,
+      "reason": "내용이 주제에 맞고 자연스러우며 사실도 과장되지 않아 여행자에게 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-04T15:26:44.965Z",
+      "pattern": "D"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-noraebang-etiquette-how-korean-karaoke-actually-works-for-first-timers.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
