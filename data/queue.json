@@ -37839,5 +37839,37 @@
     "rejectedBy": "no-media",
     "rejectedAt": "2026-11-04T21:25:04.054Z",
     "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "e9868837-c6a5-4ca4-b711-69704d105c68",
+    "text": "Trying to set up your laptop at a cute Hongdae dessert café and see a crossed‑out laptop sign?\nThose indie spots ban laptops on weekends to keep seats free for quick drink orders.\nWhat’s the strangest café rule you’ve run into?\n\n📖 Open the Land in Korea link in our profile and search “Cafes as workspaces in Korea: unspoken rules of study cafes, franchise chains, and 'no-laptop' signs”.\n\n#KoreaTravel #VisitKorea #SeoulTrip #HongdaeCafes #LaptopFreeCafes",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-11-04T23:32:12.082Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-04T22:54:15.440Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/40246636/pexels-photo-40246636.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Cafes as workspaces in Korea: unspoken rules of study cafes, franchise chains, and 'no-laptop' signs",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 맞고, 문장이 자연스럽고 사실도 크게 과장되지 않아 여행 콘텐츠로 유용함",
+      "model": "groq",
+      "checkedAt": "2026-11-04T22:54:11.735Z",
+      "pattern": "D"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-11-04T22:54:15.422Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
   }
 ]
