@@ -1,0 +1,9 @@
+{
+  "name": "sns-scheduler-dispatch",
+  "main": "worker.js",
+  "compatibility_date": "2026-09-25",
+  "workers_dev": false,
+  "observability": { "enabled": true },
+  // 90분 간격(하루 16회). Threads 최소 간격 2.5시간과 맞물려 3시간마다 1건, 하루 8건이 나간다.
+  "triggers": { "crons": ["23 0/3 * * *", "53 1/3 * * *"] }
+}
