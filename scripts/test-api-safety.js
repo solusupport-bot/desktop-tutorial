@@ -7,7 +7,7 @@ const tempDir = fs.mkdtempSync(path.join(os.tmpdir(), 'landinkorea-api-safety-')
 process.env.API_SAFETY_STATE_PATH = path.join(tempDir, 'state.json');
 delete process.env.API_SAFETY_DISABLED;
 
-const { canPublishNow, recordPublishResult } = require('../lib/scheduler/api_safety');
+const { canPublishNow, recordPublishResult, POLICY } = require('../lib/scheduler/api_safety');
 const start = new Date('2026-09-28T00:00:00.000Z');
 
 assert(canPublishNow('threads', start).allowed);
@@ -16,10 +16,16 @@ assert(!canPublishNow('threads', new Date(start.getTime() + 60 * 60 * 1000)).all
 assert(!canPublishNow('facebook', new Date(start.getTime() + 10 * 60 * 1000)).allowed);
 assert(canPublishNow('facebook', new Date(start.getTime() + 60 * 60 * 1000)).allowed);
 
-for (let index = 0; index < 8; index += 1) {
-  recordPublishResult('bluesky', true, new Date(start.getTime() + index * 2 * 60 * 60 * 1000));
+// dailyMax가 바뀌어도 깨지지 않도록 POLICY에서 직접 읽는다 — minIntervalMs 간격으로
+// dailyMax번 채우면 정확히 24시간을 다 쓰므로, 그 직후 시점은 간격 조건은 통과하지만
+// 일일 한도에는 걸려야 한다.
+const { minIntervalMs: blueskyInterval, dailyMax: blueskyMax } = POLICY.bluesky;
+let t = start.getTime();
+for (let index = 0; index < blueskyMax; index += 1) {
+  recordPublishResult('bluesky', true, new Date(t));
+  t += blueskyInterval;
 }
-assert(!canPublishNow('bluesky', new Date(start.getTime() + 17 * 60 * 60 * 1000)).allowed);
+assert(!canPublishNow('bluesky', new Date(t)).allowed);
 
 const later = new Date(start.getTime() + 7 * 60 * 60 * 1000);
 recordPublishResult('pinterest', false, later);

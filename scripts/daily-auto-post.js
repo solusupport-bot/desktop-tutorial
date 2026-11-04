@@ -16,7 +16,9 @@ const { fetchKoreaTravelTopics } = require('../lib/ingestion/korea_travel');
 const { pickNextTopic, loadState, saveState } = require('../lib/scheduler/topic_rotation');
 const { queueOneTopic, PLATFORMS } = require('../lib/scheduler/queue_topic');
 
-const POSTS_PER_DAY = 3;
+// 2026-11-04 사용자 지시: 게시량 2배로 (api_safety.js의 dailyMax도 같이 올렸음 — 안 그러면
+// threads/instagram처럼 하루 한도가 낮은 플랫폼은 큐에만 쌓이고 안 나간다).
+const POSTS_PER_DAY = 6;
 
 // 콘텐츠가 영어라 미국과 아시아 두 독자층을 다 노리도록 시간대를 섞습니다:
 // - 아시아 낮 시간(한국/싱가포르/필리핀 등 UTC+8~+9 오전~정오): UTC 01:00-05:00
