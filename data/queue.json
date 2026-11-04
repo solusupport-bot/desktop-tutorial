@@ -36908,5 +36908,277 @@
       "pattern": "A"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-currency-card-payments.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "c309e6c2-e2b8-4572-9f2c-c4c4ba7f74d9",
+    "text": "Korea has a 24‑hour English travel hotline that most visitors overlook.\n\nDial 1330 anytime—English, Chinese, Japanese, and more—to get help with lost passports, hospital translation, or any travel snag.\n\n112 is only for police emergencies; 119 handles fire and medical emergencies.\n\nIf it’s a non‑emergency, calling 1330 saves you waiting for the police or ambulance.\n\nDid you ever wish you had a local help line when you arrived? Open the Land in Korea link in our profile.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1793798020635-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1793798020635-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-05T00:16:22.630Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-04T13:13:42.763Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/39599750/pexels-photo-39599750.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Emergency numbers & 24hr pharmacies",
+    "qualityGate": {
+      "pass": false,
+      "reason": "로컬 AI가 주제·문장·주장 품질 문제를 감지함",
+      "model": "ollaya/laya:multilingual",
+      "confidence": 0.8796,
+      "checkedAt": "2026-11-04T13:13:40.627Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-04T13:13:42.689Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-emergency-numbers-24hr-pharmacies.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "865d42b1-4ead-40bc-843e-f798313c602a",
+    "text": "Korea has a 24‑hour English travel hotline most visitors miss – dial 1330 for any non‑emergency help.\n1️⃣ 1330 is multilingual 24/7 for lost passports, hospital translation, and other travel snags.\n2️⃣ 112 is police only; 119 is fire/ambulance.\n3️⃣ Major Seoul hospitals like Severance and Samsung have English international clinics.\n✅ Save 1330 in your phone for quick aid.\nDid you know this? Save it for your next Korea trip.\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-emergency-numbers-24hr-pharmacies.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1793798020635-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1793798020635-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-05T00:23:31.353Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-04T13:13:42.878Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/39599750/pexels-photo-39599750.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Emergency numbers & 24hr pharmacies",
+    "qualityGate": {
+      "pass": false,
+      "reason": "로컬 AI가 주제·문장·주장 품질 문제를 감지함",
+      "model": "ollaya/laya:multilingual",
+      "confidence": 0.8796,
+      "checkedAt": "2026-11-04T13:13:40.627Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-04T13:13:42.811Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-emergency-numbers-24hr-pharmacies.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "1a7d1d4c-4b54-4298-af59-76b79e069c96",
+    "text": "Korea has a 24‑hour English travel hotline most visitors overlook.\n\nDial 1330 anytime – multilingual help for lost passports, hospital interpreting, and other travel snags. #KoreaTravel\n\nBig Seoul hospitals like Severance and Samsung have English international clinics.\n\nFor non‑emergencies, calling 1330 avoids waiting for police or ambulance.\n\nHave you ever needed a local help line in a foreign country? #TravelHelp",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1793798020635-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1793798020635-v0-0.jpg"
+    ],
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-11-05T00:45:54.671Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-04T13:13:42.968Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/39599750/pexels-photo-39599750.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Emergency numbers & 24hr pharmacies",
+    "qualityGate": {
+      "pass": false,
+      "reason": "로컬 AI가 주제·문장·주장 품질 문제를 감지함",
+      "model": "ollaya/laya:multilingual",
+      "confidence": 0.8796,
+      "checkedAt": "2026-11-04T13:13:40.627Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-04T13:13:42.919Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-emergency-numbers-24hr-pharmacies.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "65ef8f4b-0989-4355-96a3-a93d1b45fc25",
+    "text": "Korea has a 24‑hour English travel hotline most visitors overlook.\n\nDial 1330 anytime – multilingual help for lost passports, hospital interpreting, and other travel snags. #KoreaTravel\n\nLarge Seoul hospitals such as Severance and Samsung offer English international clinics.\n\nUse 1330 for non‑emergencies; it saves you from waiting on police or ambulance services.\n\nHave you ever needed a local help line abroad? #TravelTips #Seoul #1330",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1793798020635-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1793798020635-v0-0.jpg"
+    ],
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-11-05T01:12:47.525Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-04T13:13:43.046Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/39599750/pexels-photo-39599750.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Emergency numbers & 24hr pharmacies",
+    "qualityGate": {
+      "pass": false,
+      "reason": "로컬 AI가 주제·문장·주장 품질 문제를 감지함",
+      "model": "ollaya/laya:multilingual",
+      "confidence": 0.8796,
+      "checkedAt": "2026-11-04T13:13:40.627Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-04T13:13:43.003Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-emergency-numbers-24hr-pharmacies.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "2ff9f49b-91f4-4d90-8ce5-18aab204b202",
+    "text": "Do I need to download Naver Map before I land at Incheon Airport?\n\nYes—install Naver Map (and Papago) now; they give real‑time subway arrivals and platform‑level directions once your Korean SIM/eSIM is active.\n\nKakaoMap also shows arrivals, but Naver’s reviews update faster, so you’ll spot the newest restaurant ratings.\n\nAvoid relying on Google Maps for transfers; its Korean data often lags or skips station exits.\n\nWhich Korean navigation app saved you the most time? Open the Land in Korea link in the profile.\n\n📖 Open the Land in Korea link in our profile and search “Useful travel apps”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1793798148968-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1793798148968-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-03T15:00:00.000Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-04T13:15:50.942Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.unsplash.com/photo-1640831526144-32a5c072a9d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA2MTc1fDB8MXxzZWFyY2h8OHx8c291dGglMjBrb3JlYSUyMHRvdXJpc3QlMjBzbWFydHBob25lJTIwbWFwJTIwc2VvdWwlMjBzdHJlZXQlMjBuYXZpZ2F0aW9ufGVufDB8MHx8fDE3OTM3OTgxMjN8MA&ixlib=rb-4.1.0&q=80&w=1080#unsplash=ob5tlfduOeo"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Useful travel apps",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 내용이 일치하고 문장이 자연하며 사실 주장도 크게 문제되지 않아 발행 가능",
+      "model": "groq",
+      "checkedAt": "2026-11-04T13:15:44.719Z",
+      "pattern": "O"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-useful-travel-apps.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "302c939f-7785-4d07-82b6-64fc784b9319",
+    "text": "Do I need to download Naver Map before I land at Incheon Airport? Yes—install it now for real‑time subway times and platform directions.\n1️⃣ Naver Map + Papago work best with a Korean SIM/eSIM.\n2️⃣ Real‑time bus/subway arrivals and exact transfer routes inside stations.\n3️⃣ Naver’s restaurant reviews update faster than international apps.\n4️⃣ KakaoMap is useful too, but Naver’s data is richer.\n5️⃣ Skip Google Maps for transfers; it often lags.\n✔️ Download Naver Map & Papago before you fly.\nWhich app do you trust most for navigation?\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-useful-travel-apps.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1793798148968-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1793798148968-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-03T15:00:00.000Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-04T13:15:51.044Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.unsplash.com/photo-1640831526144-32a5c072a9d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA2MTc1fDB8MXxzZWFyY2h8OHx8c291dGglMjBrb3JlYSUyMHRvdXJpc3QlMjBzbWFydHBob25lJTIwbWFwJTIwc2VvdWwlMjBzdHJlZXQlMjBuYXZpZ2F0aW9ufGVufDB8MHx8fDE3OTM3OTgxMjN8MA&ixlib=rb-4.1.0&q=80&w=1080#unsplash=ob5tlfduOeo"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Useful travel apps",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 내용이 일치하고 문장이 자연하며 사실 주장도 크게 문제되지 않아 발행 가능",
+      "model": "groq",
+      "checkedAt": "2026-11-04T13:15:44.719Z",
+      "pattern": "O"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-useful-travel-apps.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "7befec3b-1ec2-4dd8-a8d2-71c2f9512e20",
+    "text": "Do I need to download Naver Map before I land at Incheon Airport?\n\nYes—install Naver Map (and Papago) now; they give real‑time subway arrivals and platform‑level directions once your Korean SIM/eSIM is active. #KoreaTravel\n\nKakaoMap also shows arrivals, but Naver’s reviews refresh faster, letting you find the newest restaurant ratings. #NaverMap\n\nAvoid Google Maps for transfers; its Korean data often lags or omits station exits.\n\nWhich navigation app saved you the most time? Open the Land in Korea link in the profile.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1793798148968-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1793798148968-v0-0.jpg"
+    ],
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-11-03T15:00:00.000Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-04T13:15:51.123Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.unsplash.com/photo-1640831526144-32a5c072a9d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA2MTc1fDB8MXxzZWFyY2h8OHx8c291dGglMjBrb3JlYSUyMHRvdXJpc3QlMjBzbWFydHBob25lJTIwbWFwJTIwc2VvdWwlMjBzdHJlZXQlMjBuYXZpZ2F0aW9ufGVufDB8MHx8fDE3OTM3OTgxMjN8MA&ixlib=rb-4.1.0&q=80&w=1080#unsplash=ob5tlfduOeo"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Useful travel apps",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 내용이 일치하고 문장이 자연하며 사실 주장도 크게 문제되지 않아 발행 가능",
+      "model": "groq",
+      "checkedAt": "2026-11-04T13:15:44.719Z",
+      "pattern": "O"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-useful-travel-apps.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "76544c59-aac0-4ca6-9b46-cdb1b1e37319",
+    "text": "Do I need to download Naver Map before I land at Incheon Airport?\n\nYes—install Naver Map (and Papago) now; they provide real‑time subway arrivals and platform‑level directions once your Korean SIM/eSIM is active.\n\nKakaoMap also shows arrivals, but Naver’s reviews update faster, so you can discover the latest restaurant spots.\n\nDon’t rely on Google Maps for transfers; its Korean data frequently lags or misses station exits.\n\nWhich navigation app saved you the most time? #KoreaTravel #TravelTips #NaverMap #Papago",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1793798148968-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1793798148968-v0-0.jpg"
+    ],
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-11-03T15:00:00.000Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-04T13:15:51.190Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.unsplash.com/photo-1640831526144-32a5c072a9d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTA2MTc1fDB8MXxzZWFyY2h8OHx8c291dGglMjBrb3JlYSUyMHRvdXJpc3QlMjBzbWFydHBob25lJTIwbWFwJTIwc2VvdWwlMjBzdHJlZXQlMjBuYXZpZ2F0aW9ufGVufDB8MHx8fDE3OTM3OTgxMjN8MA&ixlib=rb-4.1.0&q=80&w=1080#unsplash=ob5tlfduOeo"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Useful travel apps",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 내용이 일치하고 문장이 자연하며 사실 주장도 크게 문제되지 않아 발행 가능",
+      "model": "groq",
+      "checkedAt": "2026-11-04T13:15:44.719Z",
+      "pattern": "O"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-useful-travel-apps.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
   }
 ]
