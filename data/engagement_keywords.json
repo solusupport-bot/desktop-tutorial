@@ -15,5 +15,8 @@
   "excludeIfContains": ["visa denied", "scam", "giveaway", "nft", "crypto"],
   "requireQuestionSignal": true,
   "questionSignalPattern": "\\?|\\b(anyone|advice|help|should i|is it worth|any tips|recommend|first time|worth it)\\b",
+  "_koreaSignal_comment": "2026-11-05 사고: @politicallyinclined.net의 정치 글이 'anyone'이라는 단어 하나로 질문신호를 통과해서 한국과 무관한 댓글이 실제로 게시됐다(삭제함). 검색 키워드에 'korea'가 들어있어도 Bluesky/Mastodon 검색이 느슨하게 매칭해서 들어올 수 있다는 게 실측으로 확인됨 — 질문신호와 별개로 본문에 한국 관련 단어가 실제로 있는지 반드시 한 번 더 확인한다.",
+  "requireKoreaSignal": true,
+  "koreaSignalPattern": "\\b(korea|seoul|busan|jeju|incheon|gyeongju|hongdae|myeongdong|gangnam|dmz|k-pop|kpop)\\b",
   "maxCandidatesPerRun": 3
 }

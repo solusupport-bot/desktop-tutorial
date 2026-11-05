@@ -24,6 +24,10 @@ on:
 jobs:
   engage:
     runs-on: ubuntu-latest
+    # 2026-11-05: 기본 GITHUB_TOKEN이 이 저장소에서 read-only라, 이게 없으면 상태
+    # 저장(persist) 스텝의 git push가 403으로 실패한다(실측 — 첫 live 실행에서 발견).
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4

@@ -1,0 +1,24 @@
+name: Delete Bluesky post (cleanup)
+
+on:
+  workflow_dispatch:
+    inputs:
+      rkey:
+        description: '지울 글의 rkey (URL 마지막 조각)'
+        type: string
+        required: true
+
+jobs:
+  delete:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm ci
+      - name: Delete post
+        env:
+          BLUESKY_IDENTIFIER: ${{ secrets.BLUESKY_IDENTIFIER }}
+          BLUESKY_APP_PASSWORD: ${{ secrets.BLUESKY_APP_PASSWORD }}
+        run: node scripts/delete-bluesky-post.js --rkey "${{ inputs.rkey }}"

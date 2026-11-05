@@ -15,8 +15,9 @@
  *
  * 2026-11-05 실측 교훈: "planning a trip to korea" 같은 포괄 키워드는 실제 질문하는
  * 여행자보다 우리와 같은 한국여행 콘텐츠/블로그 계정 글을 더 많이 찾아낸다. 키워드를
- * 질문형 문장으로 좁히고(data/engagement_keywords.json), 물음표/조언 요청 표현이 없는
- * 글은 looksLikeAQuestion()로 한 번 더 거른다.
+ * 질문형 문장으로 좁히고(data/engagement_keywords.json), isRelevantCandidate()로
+ * 질문 신호 + 한국 관련 단어 둘 다 있는지 확인한다 — 같은 날 "anyone"이라는 단어
+ * 하나만으로 한국과 무관한 정치 글에 실제로 댓글이 올라간 사고가 있었다(삭제 조치함).
  *
  * 실제 API 호출로 올리는 거라 "사람처럼 보이려고 미리 다른 글을 둘러보는" 위장은
  * 의미가 없다(브라우저 흔적이 아예 없음) — 대신 챙기는 건: ① 댓글 내용이 매번
@@ -76,6 +77,18 @@ const QUESTION_SIGNAL = KEYWORDS_CONFIG.requireQuestionSignal
   : null;
 const looksLikeAQuestion = (text) => !QUESTION_SIGNAL || QUESTION_SIGNAL.test(text || '');
 
+/**
+ * 2026-11-05 실제 사고: @politicallyinclined.net의 정치 글이 "anyone" 한 단어로
+ * 질문신호를 통과해서 한국과 무관한 댓글이 실제로 게시됐다(삭제 조치함). 검색 결과가
+ * 느슨하게 매칭될 수 있다는 게 확인됐으니, 질문신호와는 별개로 본문에 한국 관련
+ * 단어가 실제로 있는지 반드시 한 번 더 확인한다. 둘 다 통과해야 후보로 남는다.
+ */
+const KOREA_SIGNAL = KEYWORDS_CONFIG.requireKoreaSignal
+  ? new RegExp(KEYWORDS_CONFIG.koreaSignalPattern, 'i')
+  : null;
+const isActuallyAboutKorea = (text) => !KOREA_SIGNAL || KOREA_SIGNAL.test(text || '');
+const isRelevantCandidate = (text) => looksLikeAQuestion(text) && isActuallyAboutKorea(text);
+
 const saveLog = (state) => {
   fs.writeFileSync(LOG_PATH, `${JSON.stringify(state, null, 2)}\n`, 'utf8');
 };
@@ -126,7 +139,7 @@ const runBluesky = async ({ live, max, logState }) => {
     dedupe.add(c.uri);
     if (seen.has(c.uri)) continue;
     if (c.author && c.author.toLowerCase().includes(ownHandle) && ownHandle) continue;
-    if (!looksLikeAQuestion(c.text)) continue;
+    if (!isRelevantCandidate(c.text)) continue;
     unique.push(c);
   }
   log.ok(`후보 ${unique.length}건 (중복/본인 글/질문 신호 없음/이미 처리됨 제외)`);
@@ -184,7 +197,7 @@ const runReddit = async ({ live, max, logState }) => {
     if (ownUsername && p.author && p.author.toLowerCase() === ownUsername) continue;
     const haystack = `${p.title} ${p.selftext}`.toLowerCase();
     if (KEYWORDS_CONFIG.excludeIfContains.some((bad) => haystack.includes(bad))) continue;
-    if (!looksLikeAQuestion(`${p.title} ${p.selftext}`)) continue;
+    if (!isRelevantCandidate(`${p.title} ${p.selftext}`)) continue;
     unique.push(p);
   }
   log.ok(`후보 ${unique.length}건 (중복/본인 글/제외 키워드/질문 신호 없음/이미 처리됨 제외)`);
@@ -243,7 +256,7 @@ const runMastodon = async ({ live, max, logState }) => {
     dedupe.add(c.id);
     if (seen.has(c.id)) continue;
     if (ownAcct && c.author && c.author.toLowerCase() === ownAcct.toLowerCase()) continue;
-    if (!looksLikeAQuestion(c.text)) continue;
+    if (!isRelevantCandidate(c.text)) continue;
     unique.push(c);
   }
   log.ok(`후보 ${unique.length}건 (중복/본인 글/질문 신호 없음/이미 처리됨 제외)`);
