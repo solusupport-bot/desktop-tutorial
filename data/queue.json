@@ -37913,5 +37913,38 @@
     "rejectedBy": "no-media",
     "rejectedAt": "2026-11-05T00:28:01.069Z",
     "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "587f8abd-8be5-4385-b9ae-ba69d50d1c1d",
+    "text": "Calling a trendy Hongdae restaurant for a reservation? You’re probably hitting a dead end.\n\nMost popular spots only take bookings via Naver Place or Catch Table, not phone calls.\n\nNaver shows a '예약' button with time slots; Catch Table drops slots minutes after opening.\n\nBoth apps need a Korean phone number—short‑term visitors often can’t complete a booking.\n\nHow did you secure a table without a Korean number? Open the Land in Korea link in the profile for workarounds.\n\n📖 Open the Land in Korea link in our profile and search “Reserving restaurants and joining waitlists in Korea: Catch Table, Naver booking, and the Tabling tablet”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1793838546078-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1793838546078-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-05T16:15:17.163Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-05T00:29:07.187Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/233129/pexels-photo-233129.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Reserving restaurants and joining waitlists in Korea: Catch Table, Naver booking, and the Tabling tablet",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련된 내용이며 문장이 자연스럽고 여행자에게 유용한 정보를 제공한다",
+      "model": "groq",
+      "checkedAt": "2026-11-05T00:29:03.995Z",
+      "pattern": "A"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-reserving-restaurants-and-joining-waitlists-in-korea-catch-table-naver-booking-and-the-tabling-tablet.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
