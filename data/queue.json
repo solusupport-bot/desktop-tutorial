@@ -38184,5 +38184,36 @@
       "pattern": "D"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-luggage-storage-forwarding-services.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "7987b882-0f3b-4d74-9a66-e73bcbb989f0",
+    "text": "Locals do this differently than every blog post says.\n\nthe bus — it's KTX vs.\n\nSave this guide — trust me on this one.\n\n📖 Open the Land in Korea link in our profile and search “KTX vs. SRT vs. intercity bus for long-distance travel”.\n\n#KoreaTravel #SeoulTrip #KoreaTips #TravelKorea #VisitSeoul",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-11-05T07:39:19.617Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-05T05:01:29.463Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/10984308/pexels-photo-10984308.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "KTX vs. SRT vs. intercity bus for long-distance travel",
+    "qualityGate": {
+      "pass": false,
+      "reason": "문장이 끊기고 반복되어 부자연스럽고, KTX·SRT·버스 비교에 대한 구체적 정보가 없어 주제와 부합하지 않음",
+      "model": "groq",
+      "checkedAt": "2026-11-05T05:01:28.611Z"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-11-05T05:01:29.446Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
   }
 ]
