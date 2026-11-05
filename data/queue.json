@@ -36285,8 +36285,13 @@
       "bluesky"
     ],
     "scheduledAt": "2026-11-05T00:43:57.979Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mzjr3np6go22",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3mzjr3np6go22"
+      }
+    },
     "createdAt": "2026-11-04T06:12:03.181Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -36305,7 +36310,8 @@
       "checkedAt": "2026-11-04T06:11:35.344Z",
       "pattern": "C"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-nami-island-and-petite-france-day-trip.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-nami-island-and-petite-france-day-trip.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-05T01:53:32.705Z"
   },
   {
     "id": "e2b714d2-0d20-4837-ae0f-c6e9082dee8a",
@@ -36318,8 +36324,13 @@
       "mastodon"
     ],
     "scheduledAt": "2026-11-05T01:13:31.053Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "mastodon": {
+        "id": "117561335133013401",
+        "url": "https://mastodon.social/@landinkorea/117561335133013401"
+      }
+    },
     "createdAt": "2026-11-04T06:12:03.204Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -36338,7 +36349,8 @@
       "checkedAt": "2026-11-04T06:11:35.344Z",
       "pattern": "C"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-nami-island-and-petite-france-day-trip.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-nami-island-and-petite-france-day-trip.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-05T01:53:36.280Z"
   },
   {
     "id": "e0ae644a-a191-42a4-bc59-c817917ce479",
@@ -36551,8 +36563,13 @@
       "facebook"
     ],
     "scheduledAt": "2026-11-04T14:52:18.829Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "122129051151446391",
+        "post_id": "1288453561012463_122129051175446391"
+      }
+    },
     "createdAt": "2026-11-04T06:13:43.404Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -36571,7 +36588,8 @@
       "checkedAt": "2026-11-04T06:13:40.557Z",
       "pattern": "D"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-domestic-flights-vs-ktx-for-jeju-and-long-distance-trips.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-domestic-flights-vs-ktx-for-jeju-and-long-distance-trips.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-05T01:53:40.696Z"
   },
   {
     "id": "a3fc7428-8e7b-4d37-bba1-5995302b6fdf",
