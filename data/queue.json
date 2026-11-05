@@ -38354,5 +38354,36 @@
     "rejectedBy": "no-media",
     "rejectedAt": "2026-11-05T07:59:12.603Z",
     "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "81a053a3-410d-4bcf-8a2f-0a979d7ab582",
+    "text": "Locals do this differently than every blog post says.\n\nThe gender-separated bathing area requires nudity as a hygiene standard, while the co-ed common area (saunas, lounge) requires the uniform t-shirt and shorts provided at check-in.\n\nSave this guide — trust me on this one.\n\n📖 Open the Land in Korea link in our profile and search “Jjimjilbang etiquette”.\n\n#KoreaTravel #SeoulTrip #KoreaTips #TravelKorea #VisitSeoul",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-11-05T17:51:02.599Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-05T09:41:13.617Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/19716558/pexels-photo-19716558.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2026/10/21/384207_large.mp4",
+    "videoAttribution": null,
+    "topic": "Jjimjilbang etiquette",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제에 맞고 문장이 자연하며 사실관계도 타당하고 여행자에게 유용한 정보입니다",
+      "model": "groq",
+      "checkedAt": "2026-11-05T09:37:40.585Z"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-11-05T09:41:13.604Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
   }
 ]
