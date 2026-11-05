@@ -38029,5 +38029,36 @@
       "pattern": "A"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-doing-laundry-in-korea-coin-laundromats-the-dryer-problem-and-neighborhood-dry-cleaners.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "5ac880bd-3eb1-4fa0-8ef8-a46e5f8e4aa4",
+    "text": "You won't find this in the usual travel advice.\n\nGyeongbokgung takes Tuesday off, while Changdeokgung, Changgyeonggung, Deoksugung and Jongmyo close on Mondays — so a Monday in Seoul quietly becomes a Gyeongbokgung day whether you planned it or not.\n\nDone any of these? Comment your story below.\n\n📖 Open the Land in Korea link in our profile and search “The closed-on-Monday trap: how Korean palaces and museums schedule their days off”.\n\n#KoreaTravel #SeoulTrip #KoreaTips #TravelKorea #VisitSeoul",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-11-05T22:35:32.638Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-05T02:27:29.405Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/3233090/pexels-photo-3233090.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "The closed-on-Monday trap: how Korean palaces and museums schedule their days off",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 내용이 자연스럽고 사실이 정확해 여행자에게 유용한 정보이므로 통과합니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-05T02:24:12.847Z"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-11-05T02:27:29.380Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
   }
 ]
