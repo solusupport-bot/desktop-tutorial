@@ -37881,5 +37881,37 @@
     "rejectedBy": "no-media",
     "rejectedAt": "2026-11-04T22:54:15.422Z",
     "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "b21fceeb-17f8-4d0c-882e-3447bcfb0e31",
+    "text": "Boarding a Seoul bus? Don’t trust the colors everywhere.\nSeoul’s blue, green, yellow, red system is unique; Busan, Daegu, Incheon each color‑code differently.\nWhich city’s bus colors threw you off?\n\n📖 Open the Land in Korea link in our profile and search “Bus travel inside Korean cities: color codes, tag-off transfers, and why you must flag the bus”.\n\n#KoreaTravel #VisitKorea #SeoulTrip #BusColors #SeoulBus",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-11-05T12:33:56.061Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-05T00:28:01.089Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31680705/pexels-photo-31680705.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Bus travel inside Korean cities: color codes, tag-off transfers, and why you must flag the bus",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련된 내용이며 문장도 자연스럽고 사실 주장에 문제 없어 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-05T00:27:57.924Z",
+      "pattern": "D"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-11-05T00:28:01.069Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
   }
 ]
