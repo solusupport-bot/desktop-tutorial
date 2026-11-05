@@ -36217,8 +36217,13 @@
       "facebook"
     ],
     "scheduledAt": "2026-11-05T00:17:08.282Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "122129073951446391",
+        "post_id": "1288453561012463_122129073975446391"
+      }
+    },
     "createdAt": "2026-11-04T06:12:03.133Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -36237,7 +36242,8 @@
       "checkedAt": "2026-11-04T06:11:35.344Z",
       "pattern": "C"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-nami-island-and-petite-france-day-trip.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-nami-island-and-petite-france-day-trip.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-05T04:53:31.086Z"
   },
   {
     "id": "1e473966-c1fb-4145-bdb8-0fef1d0ede65",
@@ -36427,8 +36433,12 @@
       "instagram"
     ],
     "scheduledAt": "2026-11-05T02:57:14.519Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "18336934684273706"
+      }
+    },
     "createdAt": "2026-11-04T06:13:20.211Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -36446,7 +36456,8 @@
       "model": "groq",
       "checkedAt": "2026-11-04T06:12:36.530Z",
       "pattern": "D"
-    }
+    },
+    "processedAt": "2026-11-05T04:54:56.823Z"
   },
   {
     "id": "5efe8dcc-b23a-4b8a-8fd5-caa2488cefa8",
