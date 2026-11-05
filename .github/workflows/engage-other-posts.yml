@@ -1,0 +1,61 @@
+name: Engage other posts (comments)
+
+# scripts/engage-other-posts.js를 수동으로 돌리는 워크플로. 로컬 PC/네트워크와
+# 무관하게 GitHub Actions 러너에서 실행되므로, 로컬 샌드박스에서 Bluesky 공개 검색이
+# 403으로 막히는 문제와 별개로 실제 동작을 확인할 수 있다. 기본은 dry-run(live=false) —
+# 미리보기만 하고 아무것도 올리지 않는다.
+on:
+  workflow_dispatch:
+    inputs:
+      live:
+        description: '실제로 게시할지 (false면 미리보기만)'
+        type: boolean
+        default: false
+      platform:
+        description: '대상 플랫폼 (all / bluesky / reddit)'
+        type: choice
+        options: [all, bluesky, reddit]
+        default: all
+      max:
+        description: '이번 실행에서 플랫폼당 최대 댓글 수'
+        type: string
+        default: '2'
+
+jobs:
+  engage:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm ci
+      - name: Run engagement script
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          BLUESKY_IDENTIFIER: ${{ secrets.BLUESKY_IDENTIFIER }}
+          BLUESKY_APP_PASSWORD: ${{ secrets.BLUESKY_APP_PASSWORD }}
+          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+          REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
+          REDDIT_USERNAME: ${{ secrets.REDDIT_USERNAME }}
+          REDDIT_PASSWORD: ${{ secrets.REDDIT_PASSWORD }}
+        run: |
+          ARGS="--platform ${{ inputs.platform }} --max ${{ inputs.max }}"
+          if [ "${{ inputs.live }}" = "true" ]; then ARGS="$ARGS --live"; fi
+          node scripts/engage-other-posts.js $ARGS
+
+      - name: Persist engagement/rate-limit state
+        # 실제 게시(live) 시에만 data/engagement_log.json·data/api_safety_state.json이
+        # 바뀐다 — 다음 실행이 중복 댓글/한도 초과를 피하려면 이 변경을 저장소에
+        # 커밋해둬야 한다(scheduler.yml의 claim 커밋과 같은 이유).
+        if: always()
+        run: |
+          if git diff --quiet -- data/engagement_log.json data/api_safety_state.json; then
+            echo "No state changes to persist."
+            exit 0
+          fi
+          git config user.name "sns-automation-bot"
+          git config user.email "actions@github.com"
+          git add data/engagement_log.json data/api_safety_state.json
+          git commit -m "chore: update engagement log / rate-limit state"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
