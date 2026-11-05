@@ -37996,5 +37996,38 @@
     "rejectedBy": "no-media",
     "rejectedAt": "2026-11-05T01:54:09.780Z",
     "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "a7e1e520-0356-41d5-af88-1e15fccd86b0",
+    "text": "At a Hongdae coin‑laundromat, you’re about to grab detergent—don’t.\n\nYou don’t need any; the machine adds detergent and softener automatically.\n\nMachines are organized by drum capacity, so just match the load size, not fabric type.\n\nInstructions are Korean‑only, but most places post picture guides—follow them to avoid errors.\n\nEver brought detergent for a Korean wash? Open the Land in Korea link in our profile for the full guide.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1793843698008-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1793843698008-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-05T05:36:41.882Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-05T01:54:59.493Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/32028708/pexels-photo-32028708.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Doing laundry in Korea: coin laundromats, the dryer problem, and neighborhood dry cleaners",
+    "qualityGate": {
+      "pass": true,
+      "reason": "캡션이 주제와 부합하고 문장이 자연스러우며 과장된 내용 없이 여행자에게 실용적인 정보를 제공한다",
+      "model": "groq",
+      "checkedAt": "2026-11-05T01:54:55.984Z",
+      "pattern": "A"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-doing-laundry-in-korea-coin-laundromats-the-dryer-problem-and-neighborhood-dry-cleaners.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
