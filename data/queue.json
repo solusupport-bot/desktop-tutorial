@@ -36470,8 +36470,13 @@
       "bluesky"
     ],
     "scheduledAt": "2026-11-05T03:17:16.053Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mzka7wjazt2m",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3mzka7wjazt2m"
+      }
+    },
     "createdAt": "2026-11-04T06:13:20.232Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -36490,7 +36495,8 @@
       "checkedAt": "2026-11-04T06:12:36.530Z",
       "pattern": "D"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-suwon-hwaseong-fortress.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-suwon-hwaseong-fortress.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-05T06:24:21.823Z"
   },
   {
     "id": "ba41b79f-a19d-4029-b50c-05a17f1d5ad6",
@@ -36503,8 +36509,13 @@
       "mastodon"
     ],
     "scheduledAt": "2026-11-05T03:48:06.169Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "mastodon": {
+        "id": "117562400037461245",
+        "url": "https://mastodon.social/@landinkorea/117562400037461245"
+      }
+    },
     "createdAt": "2026-11-04T06:13:20.254Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -36523,7 +36534,8 @@
       "checkedAt": "2026-11-04T06:12:36.530Z",
       "pattern": "D"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-suwon-hwaseong-fortress.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-suwon-hwaseong-fortress.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-05T06:24:25.868Z"
   },
   {
     "id": "8f700dae-b820-4d34-9fe8-88872cc5c8c8",
@@ -37678,8 +37690,12 @@
       "threads"
     ],
     "scheduledAt": "2026-11-04T16:38:33.673Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "17877310497636580"
+      }
+    },
     "createdAt": "2026-11-04T15:26:51.299Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -37698,7 +37714,8 @@
       "checkedAt": "2026-11-04T15:26:44.965Z",
       "pattern": "D"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-noraebang-etiquette-how-korean-karaoke-actually-works-for-first-timers.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-noraebang-etiquette-how-korean-karaoke-actually-works-for-first-timers.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-05T06:25:58.339Z"
   },
   {
     "id": "6468f4ea-19ea-4982-8e45-9af3b02dc355",
