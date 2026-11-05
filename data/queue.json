@@ -36248,7 +36248,7 @@
       "instagram"
     ],
     "scheduledAt": "2026-11-05T00:22:57.054Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-04T06:12:03.159Z",
     "approved": true,
@@ -36508,7 +36508,7 @@
       "threads"
     ],
     "scheduledAt": "2026-11-04T14:50:16.571Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-04T06:13:43.384Z",
     "approved": true,
