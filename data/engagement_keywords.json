@@ -1,0 +1,13 @@
+{
+  "keywords": [
+    "planning a trip to korea",
+    "first time in korea advice",
+    "korea itinerary help",
+    "visiting seoul advice",
+    "korea travel questions",
+    "south korea trip tips"
+  ],
+  "redditSubreddits": ["korea", "KoreaTravel", "solotravel", "travel", "AskKorea"],
+  "excludeIfContains": ["visa denied", "scam", "giveaway", "nft", "crypto"],
+  "maxCandidatesPerRun": 3
+}

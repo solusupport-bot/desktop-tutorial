@@ -348,6 +348,29 @@ write_homepage`를 쓰는지 **무조건** 검사한다(예전엔 "import가 있
   발견(discovery) 메커니즘이 API로 안 되면, 후보 게시물 링크를 사람이 넣어주고 답글 작성/발행만
   자동화하는 반자동 구조부터 시작할 것 — 안 되는 걸 된다고 하고 넘어가지 말 것.
 
+### 구현: `scripts/engage-other-posts.js` (2026-11-05)
+
+- **왜 Bluesky + Reddit만:** Threads/Instagram/Facebook은 위 기술적 제약 그대로 — 임의의
+  타 계정 글을 API로 검색하는 공식 기능이 없음(2026-11-05 재확인). Bluesky(AT Protocol
+  공개 검색, `app.bsky.feed.searchPosts`)와 Reddit(이미 등록된 OAuth script app으로
+  `/r/{subreddit}/search`)은 둘 다 발견(discovery)이 API로 되는 게 확인돼서 두 곳만 먼저
+  end-to-end 자동화함.
+- **진짜 사람처럼 보이는 것의 의미:** 이건 브라우저 자동화가 아니라 공식 API 호출이라
+  "댓글 달기 전에 다른 글도 둘러보는" 위장은 아무 의미가 없음(API에는 그런 흔적 자체가
+  없음). 대신 챙기는 두 가지만: ① 댓글 내용이 매번 사실에 근거해 실제로 다를 것
+  (`lib/ai/comment_draft.js`가 `data/topic_bank.json`에서 매칭되는 사실만 근거로 쓰고
+  지어낸 1인칭 경험담 금지), ② `lib/scheduler/api_safety.js`의 `reddit_comment`/
+  `bluesky_comment` 정책(최소 간격 + 하루 한도) 안에서 추가로 무작위 지터를 둬서 기계적인
+  주기로 찍히지 않게 함.
+- **기본값은 항상 dry-run.** `--live`를 명시해야 실제로 올라간다. 처음 며칠은 dry-run
+  결과만 보고 톤/정확도를 검수한 뒤 `--live`로 전환할 것.
+- **Reddit은 `lib/scheduler/paused_platforms.js`에서 일시 중지 중이면 자동으로 건너뜀**
+  (2026-11-03부터 자체 콘텐츠 발행 방식이 고장난 상태 — 그 문제를 먼저 고치기 전엔
+  Reddit 댓글도 의미가 없으므로 같은 플래그를 공유함).
+- 이미 댓글 단 글은 `data/engagement_log.json`에 기록해 중복 댓글을 막음(실제 게시 성공
+  시에만 기록 — dry-run은 기록하지 않아서 매번 같은 후보로 미리보기 가능).
+- 검색 키워드/대상 subreddit은 `data/engagement_keywords.json`에서 관리.
+
 ---
 
 ## 🎛️ 플랫폼별 발행 형식 (2026-09-01 사용자 실측 피드백 반영, 사용자가 명시적으로 지시)
