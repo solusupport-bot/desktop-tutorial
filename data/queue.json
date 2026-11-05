@@ -36217,7 +36217,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-11-05T00:17:08.282Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-04T06:12:03.133Z",
     "approved": true,
@@ -36427,7 +36427,7 @@
       "instagram"
     ],
     "scheduledAt": "2026-11-05T02:57:14.519Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-04T06:13:20.211Z",
     "approved": true,
