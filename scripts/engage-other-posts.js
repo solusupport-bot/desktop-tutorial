@@ -281,19 +281,29 @@ const runMastodon = async ({ live, max, logState }) => {
   }
 };
 
+/** 한 플랫폼이 터져도 나머지 플랫폼은 이번 실행에서 계속 돌게 한다(2026-11-05 실측 —
+ * Mastodon에서 Groq 에러로 전체 프로세스가 죽어서 뒤에 올 플랫폼이 통째로 스킵됐었다). */
+const runSafely = async (name, fn) => {
+  try {
+    await fn();
+  } catch (err) {
+    log.err(`${name} 실행 중 실패, 다음 플랫폼으로 계속 진행: ${err.message}`);
+  }
+};
+
 const main = async () => {
   const opts = parseArgs();
   log.section(`다른 게시물 댓글 자동화 — ${opts.live ? '실제 게시' : 'DRY RUN (미리보기만)'}`);
   const logState = loadLog();
 
   if (opts.platform === 'all' || opts.platform === 'bluesky') {
-    await runBluesky({ live: opts.live, max: opts.max, logState });
+    await runSafely('Bluesky', () => runBluesky({ live: opts.live, max: opts.max, logState }));
   }
   if (opts.platform === 'all' || opts.platform === 'reddit') {
-    await runReddit({ live: opts.live, max: opts.max, logState });
+    await runSafely('Reddit', () => runReddit({ live: opts.live, max: opts.max, logState }));
   }
   if (opts.platform === 'all' || opts.platform === 'mastodon') {
-    await runMastodon({ live: opts.live, max: opts.max, logState });
+    await runSafely('Mastodon', () => runMastodon({ live: opts.live, max: opts.max, logState }));
   }
 
   if (!opts.live) {
