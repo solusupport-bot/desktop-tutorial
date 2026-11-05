@@ -37964,5 +37964,37 @@
       "pattern": "A"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-reserving-restaurants-and-joining-waitlists-in-korea-catch-table-naver-booking-and-the-tabling-tablet.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "95f619fb-b38a-4d3a-b291-9700738238e6",
+    "text": "At Seoul Station wondering if KTX is worth it for a day trip to Chuncheon?\nTake the ITX‑Saemaeul – 1h 20m, cheap, and stops right there.\nDid you know this? Save this for your Korea trip.\n\n📖 Open the Land in Korea link in our profile and search “Day-tripping from Seoul by regular train: Mugunghwa, ITX-Saemaeul, and the Gyeongui-Jungang line”.\n\n#KoreaTravel #VisitKorea #SeoulTrip #Chuncheon #ITX",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-11-05T15:52:01.087Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-05T01:54:09.796Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g844150b534c3b8af71fe521673f4ccb19abe3821593bee78061010c45384668c60b1e50ad783fe2a034392c2653475e272a93584ce5d6d0762040843044fd5b3_1280.jpg#pixabay=778297"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Day-tripping from Seoul by regular train: Mugunghwa, ITX-Saemaeul, and the Gyeongui-Jungang line",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련된 내용이며 문장도 자연스럽고 사실 주장도 과장되지 않아 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-05T01:54:06.562Z",
+      "pattern": "C"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-11-05T01:54:09.780Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
   }
 ]
