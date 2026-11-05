@@ -1,0 +1,23 @@
+name: Diagnose Reddit (read-only)
+
+# Reddit이 2026-11-03부터 paused_platforms.js로 막혀있는 원인을 찾기 위한 수동
+# 진단 워크플로. 아무것도 게시하지 않는다 — OAuth 토큰 발급 + 검색 1건만 시도.
+on:
+  workflow_dispatch: {}
+
+jobs:
+  diagnose:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm ci
+      - name: Diagnose Reddit OAuth/search
+        env:
+          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+          REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
+          REDDIT_USERNAME: ${{ secrets.REDDIT_USERNAME }}
+          REDDIT_PASSWORD: ${{ secrets.REDDIT_PASSWORD }}
+        run: node scripts/diagnose-reddit.js
