@@ -36810,8 +36810,13 @@
       "bluesky"
     ],
     "scheduledAt": "2026-11-05T02:28:52.694Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mzjw65dtbi2b",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3mzjw65dtbi2b"
+      }
+    },
     "createdAt": "2026-11-04T06:14:38.766Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -36830,7 +36835,8 @@
       "checkedAt": "2026-11-04T06:14:36.326Z",
       "pattern": "A"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-seoul-attraction-pass-comparison.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-seoul-attraction-pass-comparison.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-05T03:24:25.270Z"
   },
   {
     "id": "aedbac33-5f3a-422f-98a6-aa04f0127e93",
@@ -36843,8 +36849,13 @@
       "mastodon"
     ],
     "scheduledAt": "2026-11-05T02:59:18.135Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "mastodon": {
+        "id": "117561692461697916",
+        "url": "https://mastodon.social/@landinkorea/117561692461697916"
+      }
+    },
     "createdAt": "2026-11-04T06:14:38.793Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -36863,7 +36874,8 @@
       "checkedAt": "2026-11-04T06:14:36.326Z",
       "pattern": "A"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-seoul-attraction-pass-comparison.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-seoul-attraction-pass-comparison.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-05T03:24:28.919Z"
   },
   {
     "id": "647e16bc-163e-4747-b1a3-20ac4c0780d8",
@@ -37390,8 +37402,12 @@
       "threads"
     ],
     "scheduledAt": "2026-11-04T16:19:31.233Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "17997061020030320"
+      }
+    },
     "createdAt": "2026-11-04T13:33:07.490Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -37410,7 +37426,8 @@
       "checkedAt": "2026-11-04T13:32:56.564Z",
       "pattern": "A"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-why-google-maps-fails-in-korea-and-how-the-road-name-address-system-actually-works.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-why-google-maps-fails-in-korea-and-how-the-road-name-address-system-actually-works.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-05T03:25:10.902Z"
   },
   {
     "id": "1f19edf2-ecf6-4a83-bc2d-b6efe0a4cedb",
