@@ -75,17 +75,10 @@ jobs:
         run: node scripts/sync-blog-posts.js
 
       - name: Commit queued post and topic state
-        run: |
-          if git diff --quiet -- data/queue.json data/topic_state.json data/topic_blog_links.json data/topic_bank.json data/blog_content_queue.json; then
-            echo "No new topic queued; no commit required."
-            exit 0
-          fi
-
-          git config user.name "sns-automation-bot"
-          git config user.email "actions@github.com"
-          git add data/queue.json data/topic_state.json data/topic_blog_links.json data/topic_bank.json data/blog_content_queue.json
-          git commit -m "chore: queue daily Land in Korea topic"
-          git push origin "HEAD:${GITHUB_REF_NAME}"
+        # 2026-11-05: scheduler.yml(시간당 1회)이 같은 파일들에 동시에 커밋하면서
+        # push가 non-fast-forward로 거부되는 사고가 실측됐다(42분짜리 실행 전체가
+        # 날아감). ci-commit-push.sh가 거부 시 pull --rebase 후 재시도한다.
+        run: './scripts/ci-commit-push.sh "chore: queue daily Land in Korea topic" data/queue.json data/topic_state.json data/topic_blog_links.json data/topic_bank.json data/blog_content_queue.json'
 
       - name: Verify no duplicate media across posts
         # 실패해도 워크플로 전체를 빨갛게 만들지 않는다 — 이건 이미 발행 큐에 들어간
@@ -117,17 +110,7 @@ jobs:
         run: node scripts/collect-insights.js
 
       - name: Commit collected insights
-        run: |
-          if git diff --quiet -- data/collected_insights.json; then
-            echo "No new insights; no commit required."
-            exit 0
-          fi
-
-          git config user.name "sns-automation-bot"
-          git config user.email "actions@github.com"
-          git add data/collected_insights.json
-          git commit -m "chore: collect SNS post performance insights"
-          git push origin "HEAD:${GITHUB_REF_NAME}"
+        run: './scripts/ci-commit-push.sh "chore: collect SNS post performance insights" data/collected_insights.json'
 
       - name: Fail run if today's blog post was blocked
         # 2026-09-23: 크레딧 소진으로 얇은 글이 5일간 나가는 동안 워크플로는 계속 초록불이었다.

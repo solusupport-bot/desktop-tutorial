@@ -111,17 +111,9 @@ jobs:
         run: node scripts/publish-claimed-posts.js
 
       - name: Commit published queue state
-        run: |
-          if git diff --quiet -- data/queue.json; then
-            echo "Queue unchanged; no commit required."
-            exit 0
-          fi
-
-          git config user.name "sns-automation-bot"
-          git config user.email "actions@github.com"
-          git add data/queue.json
-          git commit -m "chore: update published post queue"
-          git push origin "HEAD:${GITHUB_REF_NAME}"
+        # 2026-11-05: daily-topic.yml(하루 1회)과 겹쳐 push가 거부되는 사고가 실측됐다
+        # (claim 락 스텝과 달리, 여기서는 재시도해도 중복 발행 위험이 없다).
+        run: './scripts/ci-commit-push.sh "chore: update published post queue" data/queue.json'
 
       - name: Backfill today's Instagram quota
         # 2026-10-18 로컬 전용으로 추가됐던 스텝 — Instagram만 "영상 없으면 반려" 하드룰 때문에
@@ -137,17 +129,7 @@ jobs:
         run: node scripts/ensure-instagram-daily.js
 
       - name: Commit Instagram quota backfill
-        run: |
-          if git diff --quiet -- data; then
-            echo "No Instagram backfill; no commit required."
-            exit 0
-          fi
-
-          git config user.name "sns-automation-bot"
-          git config user.email "actions@github.com"
-          git add data
-          git commit -m "chore: backfill today Instagram quota"
-          git push origin "HEAD:${GITHUB_REF_NAME}"
+        run: './scripts/ci-commit-push.sh "chore: backfill today Instagram quota" data'
 
       - name: Backfill today's Threads quota
         # 2026-11-04 사용자 지시: Threads는 하루 8~10건(목표 9), 공유 daily-auto-post 배치는
@@ -163,14 +145,4 @@ jobs:
         run: node scripts/ensure-threads-daily.js
 
       - name: Commit Threads quota backfill
-        run: |
-          if git diff --quiet -- data; then
-            echo "No Threads backfill; no commit required."
-            exit 0
-          fi
-
-          git config user.name "sns-automation-bot"
-          git config user.email "actions@github.com"
-          git add data
-          git commit -m "chore: backfill today Threads quota"
-          git push origin "HEAD:${GITHUB_REF_NAME}"
+        run: './scripts/ci-commit-push.sh "chore: backfill today Threads quota" data'
