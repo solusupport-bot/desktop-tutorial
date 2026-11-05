@@ -12,9 +12,9 @@ on:
         type: boolean
         default: false
       platform:
-        description: '대상 플랫폼 (all / bluesky / reddit)'
+        description: '대상 플랫폼 (all / bluesky / reddit / mastodon)'
         type: choice
-        options: [all, bluesky, reddit]
+        options: [all, bluesky, reddit, mastodon]
         default: all
       max:
         description: '이번 실행에서 플랫폼당 최대 댓글 수'
@@ -39,6 +39,8 @@ jobs:
           REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
           REDDIT_USERNAME: ${{ secrets.REDDIT_USERNAME }}
           REDDIT_PASSWORD: ${{ secrets.REDDIT_PASSWORD }}
+          MASTODON_INSTANCE: ${{ secrets.MASTODON_INSTANCE }}
+          MASTODON_ACCESS_TOKEN: ${{ secrets.MASTODON_ACCESS_TOKEN }}
         run: |
           ARGS="--platform ${{ inputs.platform }} --max ${{ inputs.max }}"
           if [ "${{ inputs.live }}" = "true" ]; then ARGS="$ARGS --live"; fi

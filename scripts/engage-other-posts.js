@@ -8,9 +8,15 @@
  * 콘텐츠 안전장치(지어낸 경험담 금지, 상대 언어로 답변, 진짜 팔로우업 톤)는 그대로
  * 유지한다.
  *
- * "발견(discovery)"은 공식 검색 API가 열려있는 두 곳만 쓴다 — Bluesky(AT Protocol
- * 공개 검색)와 Reddit(OAuth script app, 이미 등록됨). Threads/Instagram/Facebook은
- * 임의의 타 계정 글을 API로 검색하는 기능이 없어서 대상에서 제외했다(2026-11-05).
+ * "발견(discovery)"은 공식 검색/타임라인 API가 열려있는 세 곳만 쓴다 — Bluesky(AT
+ * Protocol 로그인 검색), Reddit(OAuth script app), Mastodon(해시태그 타임라인).
+ * Threads/Instagram/Facebook은 임의의 타 계정 글을 API로 검색하는 기능이 없어서
+ * 대상에서 제외했다(2026-11-05).
+ *
+ * 2026-11-05 실측 교훈: "planning a trip to korea" 같은 포괄 키워드는 실제 질문하는
+ * 여행자보다 우리와 같은 한국여행 콘텐츠/블로그 계정 글을 더 많이 찾아낸다. 키워드를
+ * 질문형 문장으로 좁히고(data/engagement_keywords.json), 물음표/조언 요청 표현이 없는
+ * 글은 looksLikeAQuestion()로 한 번 더 거른다.
  *
  * 실제 API 호출로 올리는 거라 "사람처럼 보이려고 미리 다른 글을 둘러보는" 위장은
  * 의미가 없다(브라우저 흔적이 아예 없음) — 대신 챙기는 건: ① 댓글 내용이 매번
@@ -29,6 +35,7 @@ const path = require('path');
 const log = require('../lib/logger');
 const { searchBlueskyPosts, replyToBlueskyPost } = require('../lib/publishing/bluesky');
 const { searchReddit, postRedditComment } = require('../lib/publishing/reddit');
+const { searchMastodonByHashtag, replyToMastodonStatus, getOwnHandle } = require('../lib/publishing/mastodon');
 const { draftComment } = require('../lib/ai/comment_draft');
 const { canPublishNow, recordPublishResult } = require('../lib/scheduler/api_safety');
 const { isPlatformPaused } = require('../lib/scheduler/paused_platforms');
@@ -54,9 +61,20 @@ const loadLog = () => {
   try {
     return JSON.parse(fs.readFileSync(LOG_PATH, 'utf8'));
   } catch (_) {
-    return { bluesky: { seen: [] }, reddit: { seen: [] } };
+    return { bluesky: { seen: [] }, reddit: { seen: [] }, mastodon: { seen: [] } };
   }
 };
+
+/**
+ * 2026-11-05: 포괄 키워드("planning a trip to korea")가 실제 질문하는 여행자보다
+ * 우리와 같은 한국여행 콘텐츠/블로그 계정 글을 더 많이 걸러낸 게 실측으로 확인돼서
+ * (koreaplainly.bsky.social, listingal.bsky.social 등) 추가한 필터. 물음표나 진짜
+ * 조언을 구하는 표현이 없으면 "질문이 아니라 홍보/안내 글"로 보고 건너뛴다.
+ */
+const QUESTION_SIGNAL = KEYWORDS_CONFIG.requireQuestionSignal
+  ? new RegExp(KEYWORDS_CONFIG.questionSignalPattern, 'i')
+  : null;
+const looksLikeAQuestion = (text) => !QUESTION_SIGNAL || QUESTION_SIGNAL.test(text || '');
 
 const saveLog = (state) => {
   fs.writeFileSync(LOG_PATH, `${JSON.stringify(state, null, 2)}\n`, 'utf8');
@@ -108,9 +126,10 @@ const runBluesky = async ({ live, max, logState }) => {
     dedupe.add(c.uri);
     if (seen.has(c.uri)) continue;
     if (c.author && c.author.toLowerCase().includes(ownHandle) && ownHandle) continue;
+    if (!looksLikeAQuestion(c.text)) continue;
     unique.push(c);
   }
-  log.ok(`후보 ${unique.length}건 (중복/본인 글/이미 처리됨 제외)`);
+  log.ok(`후보 ${unique.length}건 (중복/본인 글/질문 신호 없음/이미 처리됨 제외)`);
 
   const picked = unique.slice(0, max);
   for (const post of picked) {
@@ -165,9 +184,10 @@ const runReddit = async ({ live, max, logState }) => {
     if (ownUsername && p.author && p.author.toLowerCase() === ownUsername) continue;
     const haystack = `${p.title} ${p.selftext}`.toLowerCase();
     if (KEYWORDS_CONFIG.excludeIfContains.some((bad) => haystack.includes(bad))) continue;
+    if (!looksLikeAQuestion(`${p.title} ${p.selftext}`)) continue;
     unique.push(p);
   }
-  log.ok(`후보 ${unique.length}건 (중복/본인 글/제외 키워드/이미 처리됨 제외)`);
+  log.ok(`후보 ${unique.length}건 (중복/본인 글/제외 키워드/질문 신호 없음/이미 처리됨 제외)`);
 
   const picked = unique.slice(0, max);
   for (const post of picked) {
@@ -203,6 +223,64 @@ const runReddit = async ({ live, max, logState }) => {
   }
 };
 
+const runMastodon = async ({ live, max, logState }) => {
+  log.section('Mastodon — 다른 계정 글 찾기');
+  const ownAcct = (await getOwnHandle()) || '';
+  const seen = new Set(logState.mastodon?.seen || []);
+  const candidates = [];
+  for (const hashtag of KEYWORDS_CONFIG.mastodonHashtags || []) {
+    try {
+      const posts = await searchMastodonByHashtag({ hashtag, limit: 20 });
+      candidates.push(...posts);
+    } catch (err) {
+      log.warn(`Mastodon #${hashtag} 조회 실패: ${err.response?.data?.error || err.message}`);
+    }
+  }
+  const unique = [];
+  const dedupe = new Set();
+  for (const c of candidates) {
+    if (dedupe.has(c.id)) continue;
+    dedupe.add(c.id);
+    if (seen.has(c.id)) continue;
+    if (ownAcct && c.author && c.author.toLowerCase() === ownAcct.toLowerCase()) continue;
+    if (!looksLikeAQuestion(c.text)) continue;
+    unique.push(c);
+  }
+  log.ok(`후보 ${unique.length}건 (중복/본인 글/질문 신호 없음/이미 처리됨 제외)`);
+
+  const picked = unique.slice(0, max);
+  for (const post of picked) {
+    const { facts, blogUrl } = findFactsFor(post.text, 'mastodon');
+    const draft = await draftComment({ postText: post.text, facts, blogUrl });
+    if (!draft) {
+      log.warn(`댓글 초안 생성 실패: ${post.permalink}`);
+      continue;
+    }
+
+    log.step(`@${post.author}: "${post.text.slice(0, 80)}"`);
+    log.step(`-> [${draft.language}] ${draft.comment}`);
+    log.post(post.permalink);
+
+    if (!live) {
+      log.info('[DRY RUN] 게시하지 않음 — 위 댓글은 미리보기입니다.');
+      continue;
+    }
+
+    const gate = canPublishNow('mastodon_comment');
+    if (!gate.allowed) {
+      log.warn(`Mastodon 댓글 한도/간격 미충족 — 이번엔 건너뜀 (${gate.reason})`);
+      break;
+    }
+    const result = await replyToMastodonStatus({ statusId: post.id, text: draft.comment });
+    recordPublishResult('mastodon_comment', Boolean(result));
+    if (result) {
+      markSeen(logState, 'mastodon', post.id);
+      saveLog(logState);
+    }
+    await jitter(20000, 70000);
+  }
+};
+
 const main = async () => {
   const opts = parseArgs();
   log.section(`다른 게시물 댓글 자동화 — ${opts.live ? '실제 게시' : 'DRY RUN (미리보기만)'}`);
@@ -213,6 +291,9 @@ const main = async () => {
   }
   if (opts.platform === 'all' || opts.platform === 'reddit') {
     await runReddit({ live: opts.live, max: opts.max, logState });
+  }
+  if (opts.platform === 'all' || opts.platform === 'mastodon') {
+    await runMastodon({ live: opts.live, max: opts.max, logState });
   }
 
   if (!opts.live) {

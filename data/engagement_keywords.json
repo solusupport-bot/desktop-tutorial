@@ -1,13 +1,19 @@
 {
+  "_comment": "2026-11-05: 'planning a trip to korea' 식 포괄 키워드는 질문하는 실제 여행자보다 우리와 같은 한국여행 콘텐츠/블로그 계정 글을 더 많이 걸러냈다(실측: koreaplainly.bsky.social, listingal.bsky.social 등). 질문형 문장으로 좁히고, requireQuestionSignal로 한 번 더 거른다.",
   "keywords": [
-    "planning a trip to korea",
-    "first time in korea advice",
-    "korea itinerary help",
-    "visiting seoul advice",
-    "korea travel questions",
-    "south korea trip tips"
+    "anyone been to korea recently",
+    "need advice for korea trip",
+    "is it worth visiting korea",
+    "first time in korea any tips",
+    "help planning korea trip",
+    "should i visit seoul",
+    "worth visiting seoul",
+    "korea trip questions"
   ],
   "redditSubreddits": ["korea", "KoreaTravel", "solotravel", "travel", "AskKorea"],
+  "mastodonHashtags": ["KoreaTravel", "VisitKorea", "SeoulTravel", "AskKorea", "TravelKorea"],
   "excludeIfContains": ["visa denied", "scam", "giveaway", "nft", "crypto"],
+  "requireQuestionSignal": true,
+  "questionSignalPattern": "\\?|\\b(anyone|advice|help|should i|is it worth|any tips|recommend|first time|worth it)\\b",
   "maxCandidatesPerRun": 3
 }
