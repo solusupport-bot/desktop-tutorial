@@ -38301,5 +38301,36 @@
     "rejectedBy": "no-media",
     "rejectedAt": "2026-11-05T06:32:48.917Z",
     "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "f34dc076-b677-488b-8717-ec962e4ce230",
+    "text": "At the DMZ ticket window, you might think the JSA is just another stop…\nBut a JSA tour actually crosses the Military Demarcation Line and requires a week‑ahead booking with your passport.\nSave this for your Korea trip!\n\n📖 Open the Land in Korea link in our profile and search “DMZ and JSA tours”.\n\n#KoreaTravel #VisitKorea #SeoulTrip #DMZTour #JSA",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-11-05T13:19:30.228Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-05T07:59:12.620Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31720191/pexels-photo-31720191.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "DMZ and JSA tours",
+    "qualityGate": {
+      "pass": true,
+      "reason": "내용이 DMZ와 JSA 투어 주제와 일치하고 문장이 자연하며 사실도 적절합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-05T07:55:56.159Z"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-11-05T07:59:12.603Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
   }
 ]
