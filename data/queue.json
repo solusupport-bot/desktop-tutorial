@@ -38215,5 +38215,37 @@
     "rejectedBy": "no-media",
     "rejectedAt": "2026-11-05T05:01:29.446Z",
     "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "b5468dfe-299c-49fa-bdae-d316a9801399",
+    "text": "The guidebooks skip this part entirely.\n\nSorting recyclables isn't what actually trips people up in Korea — it's using the wrong bag.\n\nGeneral waste has to go into an official, district-specific bag (종량제 봉투, sold at local convenience stores and supermarkets); bags bought in a different district aren't accepted even if they look identical, since the collection fee is built into that specific bag's price.\n\nThis catches foreign residents and short-term renters far more than tourists in hotels, since nobody hands you the local bag with your key.\n\nWorth knowing before you land? Reply with what surprised you.\n\n📖 Open the Land in Korea link in our profile and search “Trash and recycling rules for residents”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1793855350318-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1793855350318-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-05T09:42:54.195Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-05T05:09:11.122Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/38249703/pexels-photo-38249703.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2021/01/05/61193-497862950_large.mp4",
+    "videoAttribution": null,
+    "topic": "Trash and recycling rules for residents",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽고 사실도 타당하며 여행자에게 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-05T05:05:47.052Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-trash-and-recycling-rules-for-residents.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
