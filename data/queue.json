@@ -38452,5 +38452,38 @@
     "rejectedBy": "no-media",
     "rejectedAt": "2026-11-06T14:58:16.978Z",
     "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "2bd2421b-85f4-4a7d-8799-c5b770b25cf9",
+    "text": "Thinking Bukchon Hanok Village is just a tourist museum? Not at all.\n\nIt's actually a living neighborhood—real families still call these hanok homes theirs.\n\nMany alleys display 'Quiet please' signs after evening hours out of respect for residents.\n\nIf you’re snapping photos, stay clear of narrow lanes during rush hour to avoid blocking locals.\n\nDid you ever assume a Korean heritage site was only for tourists? Open the Land in Korea link in our profile for more.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1793977165277-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1793977165277-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-06T21:54:31.669Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-06T14:59:26.283Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/1637788/pexels-photo-1637788.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Bukchon Hanok Village",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제에 맞고 문장이 자연하며 과장된 사실이 없고 여행 팁으로 유용함",
+      "model": "groq",
+      "checkedAt": "2026-11-06T14:59:11.656Z",
+      "pattern": "C"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-bukchon-hanok-village.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
