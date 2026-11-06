@@ -35868,8 +35868,12 @@
       "facebook"
     ],
     "scheduledAt": "2026-11-05T04:05:21.897Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "facebook": {
+        "note": "resolved manually 2026-11-06: ci-commit-push.sh permission bug (exit 126) stopped status saves, causing live republish every scheduler run; marking done to stop further duplicates. See fix commit db422ca."
+      }
+    },
     "createdAt": "2026-11-04T06:10:01.134Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -35888,7 +35892,8 @@
       "checkedAt": "2026-11-04T06:09:36.429Z",
       "pattern": "D"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-everland-vs-lotte-world-theme-parks.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-everland-vs-lotte-world-theme-parks.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-06T06:40:06.166Z"
   },
   {
     "id": "6f9d31eb-8c7c-455b-adfc-2c0f2af29217",
@@ -36201,8 +36206,12 @@
       "threads"
     ],
     "scheduledAt": "2026-11-05T00:14:27.966Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "note": "resolved manually 2026-11-06: ci-commit-push.sh permission bug (exit 126) stopped status saves, causing live republish every scheduler run; marking done to stop further duplicates. See fix commit db422ca."
+      }
+    },
     "createdAt": "2026-11-04T06:12:03.108Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -36221,7 +36230,8 @@
       "checkedAt": "2026-11-04T06:11:35.344Z",
       "pattern": "C"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-nami-island-and-petite-france-day-trip.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-nami-island-and-petite-france-day-trip.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-06T06:40:06.167Z"
   },
   {
     "id": "f38fcfd4-e745-4fc8-8e74-ebea17588b7c",
@@ -36419,8 +36429,12 @@
       "facebook"
     ],
     "scheduledAt": "2026-11-05T02:54:36.322Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "facebook": {
+        "note": "resolved manually 2026-11-06: ci-commit-push.sh permission bug (exit 126) stopped status saves, causing live republish every scheduler run; marking done to stop further duplicates. See fix commit db422ca."
+      }
+    },
     "createdAt": "2026-11-04T06:13:20.183Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -36439,7 +36453,8 @@
       "checkedAt": "2026-11-04T06:12:36.530Z",
       "pattern": "D"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-suwon-hwaseong-fortress.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-suwon-hwaseong-fortress.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-06T06:40:06.167Z"
   },
   {
     "id": "83600a13-1aa1-40f3-969c-8a7ec2a29476",
@@ -37036,8 +37051,12 @@
       "threads"
     ],
     "scheduledAt": "2026-11-04T17:12:13.454Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "note": "resolved manually 2026-11-06: ci-commit-push.sh permission bug (exit 126) stopped status saves, causing live republish every scheduler run; marking done to stop further duplicates. See fix commit db422ca."
+      }
+    },
     "createdAt": "2026-11-04T12:28:44.906Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -37056,7 +37075,8 @@
       "checkedAt": "2026-11-04T12:28:32.709Z",
       "pattern": "A"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-currency-card-payments.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-currency-card-payments.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-06T06:40:06.167Z"
   },
   {
     "id": "c309e6c2-e2b8-4572-9f2c-c4c4ba7f74d9",
@@ -37589,8 +37609,12 @@
       "threads"
     ],
     "scheduledAt": "2026-11-04T20:11:51.367Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "note": "resolved manually 2026-11-06: ci-commit-push.sh permission bug (exit 126) stopped status saves, causing live republish every scheduler run; marking done to stop further duplicates. See fix commit db422ca."
+      }
+    },
     "createdAt": "2026-11-04T14:12:48.168Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -37609,7 +37633,8 @@
       "checkedAt": "2026-11-04T14:12:19.782Z",
       "pattern": "D"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-eating-alone-in-korea-which-restaurants-refuse-solo-diners-and-where-honbap-works.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-eating-alone-in-korea-which-restaurants-refuse-solo-diners-and-where-honbap-works.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-06T06:40:06.167Z"
   },
   {
     "id": "bbb23bae-8d25-458f-8a5a-2886eabc80fe",
@@ -37791,8 +37816,12 @@
       "threads"
     ],
     "scheduledAt": "2026-11-04T21:34:24.260Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "note": "resolved manually 2026-11-06: ci-commit-push.sh permission bug (exit 126) stopped status saves, causing live republish every scheduler run; marking done to stop further duplicates. See fix commit db422ca."
+      }
+    },
     "createdAt": "2026-11-04T16:58:56.313Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -37811,7 +37840,8 @@
       "checkedAt": "2026-11-04T16:58:52.000Z",
       "pattern": "C"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-unmanned-kiosk-ordering-in-korea-why-humans-are-disappearing-from-the-counter.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-unmanned-kiosk-ordering-in-korea-why-humans-are-disappearing-from-the-counter.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-06T06:40:06.167Z"
   },
   {
     "id": "33d49c8c-fe4a-497c-b976-0c12b389577c",
