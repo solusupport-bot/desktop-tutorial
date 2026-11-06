@@ -38582,5 +38582,38 @@
     "rejectedBy": "no-media",
     "rejectedAt": "2026-11-06T16:53:48.405Z",
     "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "e68a3dae-605e-4dd2-9c77-e44da4c563aa",
+    "text": "At Incheon Airport you might assume you can hop on a KTX to Jeju Island.\n\nThere’s no KTX to Jeju – you must fly or take a long ferry to reach the volcanic island.\n\nSince trains don’t serve Jeju, most visitors rent a car for the freedom to explore Hallasan and the coasts.\n\nWeather shifts fast on the coast, so a rain layer is worth packing even in summer.\n\nDid you expect a train to Jeju? Open the Land in Korea link in the profile.\n\n📖 Open the Land in Korea link in our profile and search “Jeju Island”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1793984094809-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1793984094809-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-06T18:45:30.336Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-06T16:54:55.562Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/9963871/pexels-photo-9963871.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/10/25/136483-764399928_large.mp4",
+    "videoAttribution": null,
+    "topic": "Jeju Island",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고, 문장이 자연스럽고 사실도 정확해 여행 정보로 충분히 유용합니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-06T16:54:34.346Z",
+      "pattern": "D"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-jeju-island.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
