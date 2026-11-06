@@ -38652,5 +38652,38 @@
     "rejectedBy": "no-media",
     "rejectedAt": "2026-11-06T18:26:45.146Z",
     "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "833c11a4-3140-445a-a7f9-16f925a979b4",
+    "text": "Leaving Korea tomorrow and still have leftover T‑money? Don't skip the refund step at Incheon Airport.\n\nYou can get a partial refund of your balance at the airport T‑money kiosk – just show the card.\n\nThe card itself costs ₩4,000, but you only lose that if you never use it.\n\nMake sure to request the refund before you pass through security; after that you can't claim it.\n\nDid you know about this refund? Let us know and open the Land in Korea link in our profile for more tips.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1793989666362-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1793989666362-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-06T19:16:33.069Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-06T18:27:47.397Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/26812578/pexels-photo-26812578.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "T-money transit card",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽고 사실도 정확해 여행자에게 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-06T18:27:28.170Z",
+      "pattern": "A"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-t-money-transit-card.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
