@@ -38852,5 +38852,39 @@
     "rejectedBy": "no-media",
     "rejectedAt": "2026-11-06T21:25:14.990Z",
     "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "c77942ff-32fa-465a-9ff9-ea3ec08c2c6b",
+    "text": "Arriving at Gapyeong station and seeing a bridge sign? You’ll be confused when Nami Island isn’t reachable by bridge.\n\nThe island is only accessible via a 5‑minute ferry ride (or zipline for the brave) across the river.\n\nThe ferry departs every 20 minutes and lets you bring a small backpack on board.\n\nDon’t waste time looking for a road—head straight to the ferry ticket booth to avoid missing the last boat.\n\nWhich transport surprise has caught you off guard in Korea? Open the Land in Korea link in the profile.\n\n📖 Open the Land in Korea link in our profile and search “Nami Island and Petite France day trip”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794000450368-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794000450368-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-06T22:14:51.545Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-06T21:27:31.685Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/14949126/pexels-photo-14949126.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Nami Island and Petite France day trip",
+    "qualityGate": {
+      "pass": false,
+      "reason": "캡션에 나미섬은 다루지만 페티트 프랑스에 대한 언급이 없어 주제와 완전히 일치하지 않음",
+      "model": "groq",
+      "checkedAt": "2026-11-06T21:27:30.368Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-06T21:27:31.662Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-nami-island-and-petite-france-day-trip.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
