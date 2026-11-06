@@ -38420,5 +38420,37 @@
     "rejectedBy": "no-media",
     "rejectedAt": "2026-11-05T09:41:13.604Z",
     "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "5b866d05-153a-4fa8-a24b-68edca9f0a48",
+    "text": "Thinking Gyeongbokgung is just a photo backdrop? Most visitors miss the guard ceremony because they show up anytime.\n\nThe ceremony only runs at set times at the main gate – plan ahead.\n\nWhat’s the most unexpected thing you’ve learned about a Korean landmark? Save this for your Korea trip!\n\n📖 Open the Land in Korea link in our profile and search “Gyeongbokgung Palace”.\n\n#KoreaTravel #VisitKorea #SeoulTrip #Gyeongbokgung #Hanbok",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-11-06T22:07:09.421Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-06T14:58:16.999Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/4840730/pexels-photo-4840730.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Gyeongbokgung Palace",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련된 정확한 정보와 자연스러운 문장으로 유용성이 충분히 확보되어 있음",
+      "model": "groq",
+      "checkedAt": "2026-11-06T14:58:13.382Z",
+      "pattern": "A"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-11-06T14:58:16.978Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
   }
 ]
