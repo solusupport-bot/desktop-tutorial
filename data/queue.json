@@ -38886,5 +38886,37 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-06T21:27:31.662Z",
     "blogUrl": "https://landinkorea.com/posts/korea-nami-island-and-petite-france-day-trip.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "313d5d80-3e9a-41ac-b45a-662028025398",
+    "text": "Thinking the Hwaseong Fortress is only a photo spot?\nYou can actually walk its full 5 km wall and catch the royal palace reenactments.\nWhat’s your favorite fortress view? Save this for your Korea trip.\n\n📖 Open the Land in Korea link in our profile and search “Suwon Hwaseong Fortress”.\n\n#KoreaTravel #VisitKorea #SuwonTrip #HwaseongFortress #HwaseongWall",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-11-06T23:53:44.776Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-06T22:53:54.541Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31971663/pexels-photo-31971663.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Suwon Hwaseong Fortress",
+    "qualityGate": {
+      "pass": true,
+      "reason": "Caption is on topic, well‑formed, factually reasonable and provides useful travel tips.",
+      "model": "groq",
+      "checkedAt": "2026-11-06T22:53:47.056Z",
+      "pattern": "O"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-11-06T22:53:54.520Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
   }
 ]
