@@ -38620,5 +38620,37 @@
       "pattern": "D"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-jeju-island.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "d223f605-4932-4f84-a639-11711e453f4e",
+    "text": "Stuck at Incheon Airport wondering if you need a physical SIM?\n\nBuy a tourist eSIM for $3‑4 (1 GB/7 days) or $10 (5 GB/30 days) and activate by scanning the QR code – no swap.\n\nWhat’s the biggest data hiccup you faced on arrival? Save this for your Korea trip.\n\n📖 Open the Land in Korea link in our profile and search “eSIM & mobile data”.\n\n#KoreaTravel #VisitKorea #SeoulTrip #eSIM #KoreaESIM",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-11-06T19:13:41.248Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-06T18:26:45.160Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/29188032/pexels-photo-29188032.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "eSIM & mobile data",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 내용이 일치하고 문장이 자연하며 사실도 크게 과장되지 않아 여행자에게 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-06T18:26:17.096Z",
+      "pattern": "O"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-11-06T18:26:45.146Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
   }
 ]

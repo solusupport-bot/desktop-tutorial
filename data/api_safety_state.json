@@ -27,15 +27,17 @@
     },
     "threads": {
       "attempts": [
-        "2026-11-06T14:57:34.312Z"
+        "2026-11-06T14:57:34.312Z",
+        "2026-11-06T18:24:53.540Z"
       ],
       "successes": [
-        "2026-11-06T14:57:34.312Z"
+        "2026-11-06T14:57:34.312Z",
+        "2026-11-06T18:24:53.540Z"
       ],
       "consecutiveFailures": 0,
       "blockedUntil": null,
-      "lastAttemptAt": "2026-11-06T14:57:34.312Z",
-      "lastSuccessAt": "2026-11-06T14:57:34.312Z"
+      "lastAttemptAt": "2026-11-06T18:24:53.540Z",
+      "lastSuccessAt": "2026-11-06T18:24:53.540Z"
     },
     "tumblr": {
       "attempts": [
