@@ -38685,5 +38685,37 @@
       "pattern": "A"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-t-money-transit-card.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "5bee112a-a5b2-47fb-8565-8c208c8c6095",
+    "text": "Packing your new K‑beauty products? You might be throwing away a tax refund at Incheon.\nIf your receipt is at least ₩15,000 and you put the item in checked baggage before the kiosk, you lose the VAT refund.\nHave you ever missed a refund because of packing? Save this for your Korea trip!\n\n📖 Open the Land in Korea link in our profile and search “Tax refund (Tax Free) shopping”.\n\n#KoreaTravel #VisitKorea #SeoulTrip #TaxFreeKorea #VATRefund",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-11-06T20:50:10.166Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-06T19:53:53.893Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/33425386/pexels-photo-33425386.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Tax refund (Tax Free) shopping",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련되고 자연스러운 문장으로 정확한 세금 환급 정보를 제공해 여행자에게 유용합니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-06T19:53:48.973Z",
+      "pattern": "E"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-11-06T19:53:53.874Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
   }
 ]
