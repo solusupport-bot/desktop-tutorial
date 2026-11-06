@@ -36767,8 +36767,12 @@
       "threads"
     ],
     "scheduledAt": "2026-11-05T01:57:07.749Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18351928831270001"
+      }
+    },
     "createdAt": "2026-11-04T06:14:38.698Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -36787,7 +36791,8 @@
       "checkedAt": "2026-11-04T06:14:36.326Z",
       "pattern": "A"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-seoul-attraction-pass-comparison.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-seoul-attraction-pass-comparison.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-06T14:57:34.312Z"
   },
   {
     "id": "a721c196-2dbe-4678-94bf-9d55dc231abe",
