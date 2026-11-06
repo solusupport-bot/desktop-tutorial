@@ -38517,5 +38517,38 @@
     "rejectedBy": "no-media",
     "rejectedAt": "2026-11-06T15:25:27.759Z",
     "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "9268e798-838d-48aa-b355-40f20ba7659c",
+    "text": "Is Myeongdong's famous street food actually open when you arrive at noon?\n\nNo – most stalls only start serving around 3 pm, so lunchtime visitors miss the snack crowd.\n\nThe district stays busy all day; weekdays are less packed, making it easier to browse cosmetics and fashion.\n\nDon’t forget to spot the “Tax Free” sticker before buying, otherwise you lose the refund opportunity.\n\nDid you arrive at the wrong time before? Let us know, and open the Land in Korea link in our profile for more tips.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1793978756909-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1793978756909-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-06T18:16:59.591Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-06T15:25:57.556Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31680630/pexels-photo-31680630.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Myeongdong shopping district",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 맞고 문장이 자연스럽고 사실도 크게 문제 없으며 여행자에게 유용한 정보라 통과합니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-06T15:25:53.497Z",
+      "pattern": "C"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-myeongdong-shopping-district.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
