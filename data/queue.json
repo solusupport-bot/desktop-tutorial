@@ -39086,5 +39086,37 @@
       "pattern": "C"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-first-timer-etiquette-common-mistakes.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "01060ed1-ba5c-404e-bff2-3daed8cd9113",
+    "text": "At Gwangjang Market you’ll hear ‘Korea is cash‑optional’ – but stalls only take cash.\nGrab cash at a Global ATM (Woori, Hana, 7‑Eleven) before you wander the market.\nWhat’s the most surprising cash‑only spot you’ve hit in Korea?\n\n📖 Open the Land in Korea link in our profile and search “Currency & card payments”.\n\n#KoreaTravel #VisitKorea #SeoulTrip #GwangjangMarket #CashOnly",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-11-07T23:16:48.586Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-07T01:53:57.639Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g066ea242b2d44bcf0e51dbd908f9a8b5c1af98bffffbca901427212198e5610401f4337448e9cea58b06c042f34afb69d9daf9531dd8ea099bd187832f4f7fcd_1280.jpg#pixabay=6918828"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Currency & card payments",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽으며 사실도 과장되지 않아 여행자에게 유용합니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-07T01:53:54.631Z",
+      "pattern": "D"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-11-07T01:53:57.620Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
   }
 ]
