@@ -38956,5 +38956,37 @@
       "pattern": "D"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-domestic-flights-vs-ktx-for-jeju-and-long-distance-trips.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "75a9f7d8-3d92-46db-8896-54c2cf4131aa",
+    "text": "About to scan your Seoul Attraction Pass at the first museum on a light day?\nIt only pays off after you hit more than 3 paid attractions that day.\nHow many sites did you actually visit on your busiest Seoul day?\n\n📖 Open the Land in Korea link in our profile and search “Seoul attraction pass comparison”.\n\n#KoreaTravel #VisitKorea #SeoulTrip #SeoulAttractionPass #SeoulPass",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-11-07T21:21:26.360Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-07T00:25:28.108Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/35396679/pexels-photo-35396679.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Seoul attraction pass comparison",
+    "qualityGate": {
+      "pass": true,
+      "reason": "Relevant, clear, factually reasonable and provides useful travel advice",
+      "model": "groq",
+      "checkedAt": "2026-11-07T00:25:25.329Z",
+      "pattern": "A"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-11-07T00:25:28.088Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
   }
 ]

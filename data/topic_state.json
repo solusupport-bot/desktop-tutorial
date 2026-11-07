@@ -1,11 +1,6 @@
 {
-  "lastIndex": 28,
+  "lastIndex": 29,
   "history": [
-    {
-      "index": 54,
-      "topic": "Unmanned kiosk ordering in Korea: why humans are disappearing from the counter",
-      "at": "2026-10-17T15:38:52.437Z"
-    },
     {
       "index": 55,
       "topic": "Mobile payments in Korea: Kakao Pay, Naver Pay, and why Apple Pay doesn’t work",
@@ -1082,6 +1077,12 @@
       "topic": "Domestic flights vs. KTX for Jeju and long-distance trips",
       "at": "2026-11-06T22:53:55.928Z",
       "source": "threads-fill"
+    },
+    {
+      "index": 29,
+      "topic": "Seoul attraction pass comparison",
+      "at": "2026-11-07T00:24:53.219Z",
+      "source": "instagram-fill"
     }
   ],
   "recentImageUrls": [
@@ -1835,7 +1836,8 @@
     "https://images.pexels.com/photos/31768173/pexels-photo-31768173.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://images.pexels.com/photos/14949126/pexels-photo-14949126.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://images.pexels.com/photos/31971663/pexels-photo-31971663.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://images.pexels.com/photos/38043568/pexels-photo-38043568.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "https://images.pexels.com/photos/38043568/pexels-photo-38043568.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/35396679/pexels-photo-35396679.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
   ],
   "recentVideoUrls": [
     "https://videos.pexels.com/video-files/19577787/19577787-uhd_2160_3840_30fps.mp4",
