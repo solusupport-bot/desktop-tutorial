@@ -39984,5 +39984,33 @@
     "rejectedBy": "no-media",
     "rejectedAt": "2026-11-07T06:25:17.006Z",
     "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "3ac4221b-96b3-447b-8b00-b42cc5ad0cd0",
+    "text": "Do I need a Korean phone number to order food on Baemin right after I land at Incheon Airport?\n\nYes—most delivery apps only accept a Korean mobile number for verification; foreign numbers are rejected.\n\nA quick fix is to grab a cheap prepaid Korean SIM at the airport or use a local virtual number for the SMS code.\n\nEven with a Korean number, payment usually needs a Korean‑issued card or Kakao/Naver Pay; foreign cards may fail.\n\nDid you run into this same hurdle on your first Korean food‑delivery try? Check the link in our profile for the full guide.",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-07T12:24:36.531Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-07T06:26:15.084Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Food delivery apps in Korea: why signing up is harder than ordering",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장도 자연하며 사실도 과장되지 않아 여행자에게 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-07T06:26:13.087Z",
+      "pattern": "O"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-food-delivery-apps-in-korea-why-signing-up-is-harder-than-ordering.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
