@@ -39222,5 +39222,37 @@
       "pattern": "D"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-convenience-store-hacks.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "7ef36ec1-a9c2-48cf-9fdb-b614ed5299c4",
+    "text": "Planning a July vacation in Korea and think you only need shorts?\nYou’ll actually need breathable clothing *and* a compact umbrella for the monsoon.\nWhat’s the most surprising thing you discovered packing for Korea?\n\n📖 Open the Land in Korea link in our profile and search “Seasonal packing & weather tips”.\n\n#KoreaTravel #VisitKorea #SeoulTrip #SummerPacking #MonsoonReady",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-11-07T17:57:27.136Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-07T04:53:49.631Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/366107/pexels-photo-366107.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Seasonal packing & weather tips",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 내용이 일치하고 문장이 자연스럽으며 과장된 사실이 없고 유용한 여행 팁을 제공한다",
+      "model": "groq",
+      "checkedAt": "2026-11-07T04:53:46.266Z",
+      "pattern": "O"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-11-07T04:53:49.615Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
   }
 ]
