@@ -39021,5 +39021,37 @@
       "pattern": "A"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-korean-public-holidays-that-disrupt-travel-plans.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "11c5deac-cd74-4852-9263-8cd4a152b161",
+    "text": "Stuck at Incheon wondering if the ₩13,000 express AREX is worth it over the ₩4,750 all‑stop?\nThe all‑stop costs less than half and only adds ~16 min, great if you’re lugging suitcases.\nWhich train would you hop on with heavy bags? Save this for your Korea trip.\n\n📖 Open the Land in Korea link in our profile and search “Airport transfer options”.\n\n#KoreaTravel #VisitKorea #SeoulTrip #AREX #IncheonAirport",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-11-07T01:54:34.352Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-07T00:51:41.200Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31892084/pexels-photo-31892084.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Airport transfer options",
+    "qualityGate": {
+      "pass": true,
+      "reason": "캡션이 주제와 맞으며 문맥도 자연하고 사실 주장도 신뢰할 수 있어 여행자에게 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-07T00:51:30.161Z",
+      "pattern": "B"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-11-07T00:51:41.182Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
   }
 ]
