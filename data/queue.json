@@ -40012,5 +40012,36 @@
       "pattern": "O"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-food-delivery-apps-in-korea-why-signing-up-is-harder-than-ordering.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "89b3303f-e71d-4244-b379-7f141d6e191e",
+    "text": "Locals do this differently than every blog post says.\n\nJeju, the Gangwon coast, rural temples, and small-town markets are much easier with a car because bus frequencies drop off sharply outside cities.\n\nSave this guide — trust me on this one.\n\n📖 Open the Land in Korea link in our profile and search “Renting a car in Korea: when it's smart, when it's a waste, and what the rental desk will ask for”.\n\n#KoreaTravel #SeoulTrip #KoreaTips #TravelKorea #VisitSeoul",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-11-07T12:42:27.689Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-07T07:12:06.718Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/34350261/pexels-photo-34350261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Renting a car in Korea: when it's smart, when it's a waste, and what the rental desk will ask for",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련된 내용이며 문장도 자연스럽고 유용한 정보를 제공한다",
+      "model": "groq",
+      "checkedAt": "2026-11-07T07:08:50.678Z"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-11-07T07:12:06.696Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
   }
 ]
