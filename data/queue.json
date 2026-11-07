@@ -38322,7 +38322,7 @@
       "threads"
     ],
     "scheduledAt": "2026-11-05T09:42:54.195Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-05T05:09:11.122Z",
     "approved": true,
