@@ -39053,5 +39053,38 @@
     "rejectedBy": "no-media",
     "rejectedAt": "2026-11-07T00:51:41.182Z",
     "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "c4f4944e-8058-4f2d-b1eb-86ca5f3ba850",
+    "text": "You assume leaving a tip at a Seoul street‑food stall is polite, but it actually confuses the staff.\n\nIn Seoul restaurants, tips are rarely expected and many workers think the extra cash is a mistake.\n\nMost small places prefer cash only and don’t split bills, so plan to cover the whole tab yourself.\n\nAlso, stand on the right side of escalators; standing on the left can block the flow.\n\nHas a tip ever made a Korean server look puzzled? Share your story! Open the Land in Korea link in the profile.\n\n📖 Open the Land in Korea link in our profile and search “First-timer etiquette & common mistakes”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794012814313-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794012814313-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-07T10:14:06.427Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-07T00:53:35.126Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/32196394/pexels-photo-32196394.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "First-timer etiquette & common mistakes",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제에 맞고 문장도 자연하며 사실도 과장되지 않아 여행자에게 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-07T00:53:00.266Z",
+      "pattern": "C"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-first-timer-etiquette-common-mistakes.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
