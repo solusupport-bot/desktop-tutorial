@@ -40144,5 +40144,36 @@
       "pattern": "O"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-timing-cherry-blossoms-and-fall-foliage-in-korea-without-hitting-peak-crowds.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "5e45e9f1-3fd5-4a5f-afa9-bdd41aab78a1",
+    "text": "Locals do this differently than every blog post says.\n\nLook for a small 'ENGLISH' or flag icon in a corner — tapping it switches the whole menu, and most major chains (Lotteria, Mom's Touch, Starbucks, Baskin Robbins) have had this for years.\n\nSave this guide — trust me on this one.\n\n📖 Open the Land in Korea link in our profile and search “Unmanned kiosk ordering in Korea: why humans are disappearing from the counter”.\n\n#KoreaTravel #SeoulTrip #KoreaTips #TravelKorea #VisitSeoul",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-11-07T20:58:03.504Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-07T09:35:16.609Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/32180330/pexels-photo-32180330.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Unmanned kiosk ordering in Korea: why humans are disappearing from the counter",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽으며 사실도 과장되지 않아 여행자에게 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-07T09:32:00.317Z"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-11-07T09:35:16.591Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
   }
 ]
