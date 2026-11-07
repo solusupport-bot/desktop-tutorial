@@ -38704,8 +38704,12 @@
       "threads"
     ],
     "scheduledAt": "2026-11-06T19:16:33.069Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18149365987576030"
+      }
+    },
     "createdAt": "2026-11-06T18:27:47.397Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -38724,7 +38728,8 @@
       "checkedAt": "2026-11-06T18:27:28.170Z",
       "pattern": "A"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-t-money-transit-card.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-t-money-transit-card.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-07T21:25:26.373Z"
   },
   {
     "id": "5bee112a-a5b2-47fb-8565-8c208c8c6095",
