@@ -121,6 +121,7 @@ jobs:
         env:
           PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
           PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
+          COVERR_API_KEY: ${{ secrets.COVERR_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           TOUR_AUDIO_GUIDE_API_KEY: ${{ secrets.TOUR_AUDIO_GUIDE_API_KEY }}
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
@@ -137,6 +138,7 @@ jobs:
         env:
           PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
           PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
+          COVERR_API_KEY: ${{ secrets.COVERR_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           TOUR_AUDIO_GUIDE_API_KEY: ${{ secrets.TOUR_AUDIO_GUIDE_API_KEY }}
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
