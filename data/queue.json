@@ -39254,5 +39254,39 @@
     "rejectedBy": "no-media",
     "rejectedAt": "2026-11-07T04:53:49.615Z",
     "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "7ef4e5f3-2418-495b-a1ee-ce067b805b18",
+    "text": "Don't flag a street taxi in Hongdae after 11 PM if you can use Kakao T.\n\nKakao T works with foreign numbers, sets the Korean address for you, and lets you pay by card or cash – the fare starts at ₩4,800.\n\nStreet cabs still appear in busy areas, but at night drivers often favor passengers heading their preferred direction.\n\nRemember the night surcharge: 20% from 10‑11 PM and 2‑4 AM, 40% from 11 PM‑2 AM, so budget a bit extra.\n\nDid you ever wait for a street taxi at 2 AM? Share your story and open the Land in Korea link in the profile.\n\n📖 Open the Land in Korea link in our profile and search “Hailing a taxi in Korea: Kakao T vs. street taxis vs. airport 'deluxe' cabs”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794027393334-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794027393334-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-07T16:58:28.376Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-07T04:56:34.088Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/32028715/pexels-photo-32028715.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Hailing a taxi in Korea: Kakao T vs. street taxis vs. airport 'deluxe' cabs",
+    "qualityGate": {
+      "pass": false,
+      "reason": "밤 시간대 요금 할증률이 실제와 달라 사실성이 부족합니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-07T04:56:33.334Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-07T04:56:34.071Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-hailing-a-taxi-in-korea-kakao-t-vs-street-taxis-vs-airport-deluxe-cabs.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
