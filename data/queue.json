@@ -39189,5 +39189,38 @@
     "rejectedBy": "no-media",
     "rejectedAt": "2026-11-07T03:25:32.405Z",
     "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "94f8685c-e9d2-45e1-b71b-2b745a24cf72",
+    "text": "At a CU in Myeongdong you think it’s just snacks—what if it could also be your pharmacy, ATM, and ticket booth?\n\nCU, GS25, and 7‑Eleven all serve as mini pharmacies, ATMs, and ticket counters, plus you can ship parcels at the counter.\n\nThey’re open 24/7 and even have microwaves and hot water, so you can heat noodles right at the counter.\n\nDon’t miss the 1+1 or 2+1 stickers for bundle discounts; they’re easy to overlook but worth the savings.\n\nDid you find a hidden service at a Korean convenience store? Check the link in our profile for more.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794022006327-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794022006327-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-07T18:13:07.310Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-07T03:26:47.090Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/28505118/pexels-photo-28505118.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Convenience store hacks",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 내용이 일치하고 문장도 자연하며, 사실도 과장되지 않아 여행자에게 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-07T03:26:35.126Z",
+      "pattern": "D"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-convenience-store-hacks.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
