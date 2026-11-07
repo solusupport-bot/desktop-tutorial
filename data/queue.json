@@ -39952,5 +39952,37 @@
       "pattern": "A"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-opening-a-korean-bank-account-as-a-foreigner-and-why-your-arc-and-phone-number-come-first.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "56b084bb-5435-4975-8ffe-4d42933149d7",
+    "text": "Thinking you can order a single bowl of budae jjigae at a packed Seoul restaurant?\n\nIn Korea most shared‑pot dishes and BBQ require a minimum of two servings – look for ‘2인분부터’ on the menu.\n\nEver been turned away for dining solo? Save this for your Korea trip.\n\n📖 Open the Land in Korea link in our profile and search “Eating alone in Korea: which restaurants refuse solo diners and where honbap works”.\n\n#KoreaTravel #VisitKorea #SeoulTrip #Honbap #TwoServingRule",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-11-07T20:43:26.375Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-07T06:25:17.028Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31811690/pexels-photo-31811690.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Eating alone in Korea: which restaurants refuse solo diners and where honbap works",
+    "qualityGate": {
+      "pass": true,
+      "reason": "관련 주제에 맞고 문장이 자연하며 사실이 과장되지 않아 여행 콘텐츠로 유용합니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-07T06:25:14.530Z",
+      "pattern": "D"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-11-07T06:25:17.006Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
   }
 ]
