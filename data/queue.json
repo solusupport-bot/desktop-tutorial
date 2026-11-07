@@ -38634,8 +38634,12 @@
       "threads"
     ],
     "scheduledAt": "2026-11-06T18:45:30.336Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18218932279348279"
+      }
+    },
     "createdAt": "2026-11-06T16:54:55.562Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -38654,7 +38658,8 @@
       "checkedAt": "2026-11-06T16:54:34.346Z",
       "pattern": "D"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-jeju-island.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-jeju-island.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-07T18:25:28.258Z"
   },
   {
     "id": "d223f605-4932-4f84-a639-11711e453f4e",
