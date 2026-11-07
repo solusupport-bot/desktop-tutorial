@@ -1716,7 +1716,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-04T06:15:10.752Z"
+    "collectedAt": "2026-11-07T05:57:15.449Z"
   },
   "facebook:122122311945446391": {
     "platform": "facebook",
@@ -1725,7 +1725,7 @@
     "pattern": null,
     "publishedAt": "2026-10-08T16:24:23.980Z",
     "metrics": {},
-    "collectedAt": "2026-11-04T06:15:11.428Z"
+    "collectedAt": "2026-11-07T05:57:16.688Z"
   },
   "threads:18329596738263164": {
     "platform": "threads",
@@ -1740,7 +1740,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-04T06:15:14.104Z"
+    "collectedAt": "2026-11-07T05:57:17.990Z"
   },
   "facebook:122122440477446391": {
     "platform": "facebook",
@@ -1749,7 +1749,7 @@
     "pattern": null,
     "publishedAt": "2026-10-09T03:59:01.693Z",
     "metrics": {},
-    "collectedAt": "2026-11-04T06:15:14.788Z"
+    "collectedAt": "2026-11-07T05:57:18.797Z"
   },
   "threads:17887540878686787": {
     "platform": "threads",
@@ -1764,7 +1764,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-04T06:15:17.643Z"
+    "collectedAt": "2026-11-07T05:57:20.104Z"
   },
   "facebook:122122500807446391": {
     "platform": "facebook",
@@ -1773,7 +1773,7 @@
     "pattern": null,
     "publishedAt": "2026-10-09T07:24:21.290Z",
     "metrics": {},
-    "collectedAt": "2026-11-04T06:15:18.313Z"
+    "collectedAt": "2026-11-07T05:57:20.775Z"
   },
   "threads:18036794111851932": {
     "platform": "threads",
@@ -1788,7 +1788,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-04T06:15:21.451Z"
+    "collectedAt": "2026-11-07T05:57:22.131Z"
   },
   "facebook:122122643139446391": {
     "platform": "facebook",
@@ -1797,7 +1797,7 @@
     "pattern": null,
     "publishedAt": "2026-10-09T16:24:45.552Z",
     "metrics": {},
-    "collectedAt": "2026-11-04T06:15:22.103Z"
+    "collectedAt": "2026-11-07T05:57:22.929Z"
   },
   "threads:17882545926529334": {
     "platform": "threads",
@@ -1812,7 +1812,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-04T06:15:24.830Z"
+    "collectedAt": "2026-11-07T05:57:26.386Z"
   },
   "facebook:122122806819446391": {
     "platform": "facebook",
@@ -1821,7 +1821,7 @@
     "pattern": null,
     "publishedAt": "2026-10-10T05:24:33.851Z",
     "metrics": {},
-    "collectedAt": "2026-11-04T06:15:25.502Z"
+    "collectedAt": "2026-11-07T05:57:27.121Z"
   },
   "threads:18117749908977931": {
     "platform": "threads",
@@ -1836,7 +1836,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-04T06:15:28.036Z"
+    "collectedAt": "2026-11-07T05:57:29.617Z"
   },
   "facebook:122122947255446391": {
     "platform": "facebook",
@@ -1845,7 +1845,7 @@
     "pattern": null,
     "publishedAt": "2026-10-10T14:24:27.757Z",
     "metrics": {},
-    "collectedAt": "2026-11-04T06:15:28.711Z"
+    "collectedAt": "2026-11-07T05:57:30.379Z"
   },
   "threads:18135755539679561": {
     "platform": "threads",
@@ -1860,7 +1860,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-04T06:15:31.266Z"
+    "collectedAt": "2026-11-07T05:57:32.935Z"
   },
   "facebook:122123615361446391": {
     "platform": "facebook",
@@ -1869,7 +1869,7 @@
     "pattern": null,
     "publishedAt": "2026-10-12T08:20:41.488Z",
     "metrics": {},
-    "collectedAt": "2026-11-04T06:15:31.934Z"
+    "collectedAt": "2026-11-07T05:57:33.691Z"
   },
   "threads:18087985574276481": {
     "platform": "threads",
@@ -1884,7 +1884,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-04T06:15:34.544Z"
+    "collectedAt": "2026-11-07T05:57:36.224Z"
   },
   "facebook:122123703099446391": {
     "platform": "facebook",
@@ -1893,7 +1893,7 @@
     "pattern": null,
     "publishedAt": "2026-10-12T13:25:57.371Z",
     "metrics": {},
-    "collectedAt": "2026-11-04T06:15:35.206Z"
+    "collectedAt": "2026-11-07T05:57:36.968Z"
   },
   "mastodon:117260797837933680": {
     "platform": "mastodon",
@@ -3486,7 +3486,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-04T06:15:23.245Z"
+    "collectedAt": "2026-11-07T05:57:24.312Z"
   },
   "mastodon:117406215331885877": {
     "platform": "mastodon",
@@ -3499,7 +3499,7 @@
       "replies": 1,
       "reposts": 0
     },
-    "collectedAt": "2026-11-04T06:15:24.010Z"
+    "collectedAt": "2026-11-07T05:57:25.766Z"
   },
   "bluesky:at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mxg3jdaafc2b": {
     "platform": "bluesky",
@@ -3513,7 +3513,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-04T06:15:26.649Z"
+    "collectedAt": "2026-11-07T05:57:28.283Z"
   },
   "mastodon:117408946596186795": {
     "platform": "mastodon",
@@ -3526,7 +3526,7 @@
       "replies": 1,
       "reposts": 0
     },
-    "collectedAt": "2026-11-04T06:15:27.334Z"
+    "collectedAt": "2026-11-07T05:57:28.978Z"
   },
   "bluesky:at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mxgdooogn22q": {
     "platform": "bluesky",
@@ -3540,7 +3540,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-04T06:15:29.842Z"
+    "collectedAt": "2026-11-07T05:57:31.548Z"
   },
   "mastodon:117409521432577976": {
     "platform": "mastodon",
@@ -3553,7 +3553,7 @@
       "replies": 1,
       "reposts": 0
     },
-    "collectedAt": "2026-11-04T06:15:30.532Z"
+    "collectedAt": "2026-11-07T05:57:32.232Z"
   },
   "bluesky:at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mxhf6ssgwh2o": {
     "platform": "bluesky",
@@ -3567,7 +3567,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-04T06:15:33.083Z"
+    "collectedAt": "2026-11-07T05:57:34.881Z"
   },
   "mastodon:117412112551596623": {
     "platform": "mastodon",
@@ -3580,7 +3580,7 @@
       "replies": 1,
       "reposts": 0
     },
-    "collectedAt": "2026-11-04T06:15:33.771Z"
+    "collectedAt": "2026-11-07T05:57:35.595Z"
   },
   "bluesky:at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mxini3iteh2y": {
     "platform": "bluesky",
@@ -3594,7 +3594,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-04T06:15:35.796Z"
+    "collectedAt": "2026-11-07T05:57:37.569Z"
   },
   "mastodon:117414714359533852": {
     "platform": "mastodon",
@@ -3607,7 +3607,7 @@
       "replies": 1,
       "reposts": 0
     },
-    "collectedAt": "2026-11-04T06:15:36.537Z"
+    "collectedAt": "2026-11-07T05:57:38.266Z"
   },
   "bluesky:at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mxjj2adbd62l": {
     "platform": "bluesky",
@@ -3621,7 +3621,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-04T06:15:38.598Z"
+    "collectedAt": "2026-11-07T05:57:40.311Z"
   },
   "mastodon:117416654055342282": {
     "platform": "mastodon",
@@ -3634,7 +3634,7 @@
       "replies": 1,
       "reposts": 0
     },
-    "collectedAt": "2026-11-04T06:15:39.318Z"
+    "collectedAt": "2026-11-07T05:57:41.067Z"
   },
   "bluesky:at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mxl2lge5422l": {
     "platform": "bluesky",
@@ -3648,7 +3648,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-04T06:15:41.271Z"
+    "collectedAt": "2026-11-07T05:57:43.153Z"
   },
   "mastodon:117420139865991905": {
     "platform": "mastodon",
@@ -3661,7 +3661,7 @@
       "replies": 1,
       "reposts": 0
     },
-    "collectedAt": "2026-11-04T06:15:41.993Z"
+    "collectedAt": "2026-11-07T05:57:43.847Z"
   },
   "instagram:17973648662934819": {
     "platform": "instagram",
@@ -4129,7 +4129,7 @@
       "likes": 0,
       "replies": 0
     },
-    "collectedAt": "2026-11-04T06:15:05.258Z"
+    "collectedAt": "2026-11-07T05:57:14.042Z"
   },
   "instagram:18413363317085460": {
     "platform": "instagram",
@@ -4141,7 +4141,7 @@
       "likes": 0,
       "replies": 0
     },
-    "collectedAt": "2026-11-04T06:15:08.556Z"
+    "collectedAt": "2026-11-07T05:57:14.633Z"
   },
   "instagram:18078258338535887": {
     "platform": "instagram",
@@ -4153,7 +4153,7 @@
       "likes": 4,
       "replies": 0
     },
-    "collectedAt": "2026-11-04T06:15:12.088Z"
+    "collectedAt": "2026-11-07T05:57:17.248Z"
   },
   "instagram:18171278521459905": {
     "platform": "instagram",
@@ -4165,7 +4165,7 @@
       "likes": 1,
       "replies": 0
     },
-    "collectedAt": "2026-11-04T06:15:15.384Z"
+    "collectedAt": "2026-11-07T05:57:19.384Z"
   },
   "instagram:18119660057058714": {
     "platform": "instagram",
@@ -4177,7 +4177,7 @@
       "likes": 0,
       "replies": 0
     },
-    "collectedAt": "2026-11-04T06:15:18.858Z"
+    "collectedAt": "2026-11-07T05:57:21.347Z"
   },
   "instagram:18143443960588410": {
     "platform": "instagram",
@@ -4189,7 +4189,7 @@
       "likes": 2,
       "replies": 0
     },
-    "collectedAt": "2026-11-04T06:15:22.656Z"
+    "collectedAt": "2026-11-07T05:57:23.500Z"
   },
   "instagram:18354277693223257": {
     "platform": "instagram",
@@ -4201,7 +4201,7 @@
       "likes": 1,
       "replies": 0
     },
-    "collectedAt": "2026-11-04T06:15:26.063Z"
+    "collectedAt": "2026-11-07T05:57:27.687Z"
   },
   "instagram:18105966857264508": {
     "platform": "instagram",
@@ -4213,7 +4213,7 @@
       "likes": 3,
       "replies": 0
     },
-    "collectedAt": "2026-11-04T06:15:29.260Z"
+    "collectedAt": "2026-11-07T05:57:30.945Z"
   },
   "instagram:17915136426531636": {
     "platform": "instagram",
@@ -4225,7 +4225,7 @@
       "likes": 2,
       "replies": 0
     },
-    "collectedAt": "2026-11-04T06:15:32.486Z"
+    "collectedAt": "2026-11-07T05:57:34.278Z"
   },
   "threads:18117794497974071": {
     "platform": "threads",
@@ -4240,7 +4240,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-04T06:15:37.222Z"
+    "collectedAt": "2026-11-07T05:57:38.921Z"
   },
   "facebook:122123881431446391": {
     "platform": "facebook",
@@ -4249,7 +4249,7 @@
     "pattern": null,
     "publishedAt": "2026-10-13T02:24:24.405Z",
     "metrics": {},
-    "collectedAt": "2026-11-04T06:15:38.014Z"
+    "collectedAt": "2026-11-07T05:57:39.668Z"
   },
   "threads:18108990007908575": {
     "platform": "threads",
@@ -4264,7 +4264,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-04T06:15:39.994Z"
+    "collectedAt": "2026-11-07T05:57:41.871Z"
   },
   "facebook:122123939523446391": {
     "platform": "facebook",
@@ -4273,7 +4273,7 @@
     "pattern": null,
     "publishedAt": "2026-10-13T07:13:22.910Z",
     "metrics": {},
-    "collectedAt": "2026-11-04T06:15:40.686Z"
+    "collectedAt": "2026-11-07T05:57:42.549Z"
   },
   "threads:18191494870395485": {
     "platform": "threads",
@@ -4288,7 +4288,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-04T06:15:42.693Z"
+    "collectedAt": "2026-11-07T05:57:44.507Z"
   },
   "facebook:1288453561012463_122124220323446391": {
     "platform": "facebook",
@@ -4297,7 +4297,7 @@
     "pattern": "O",
     "publishedAt": "2026-10-14T06:24:33.768Z",
     "metrics": {},
-    "collectedAt": "2026-11-04T06:15:43.288Z"
+    "collectedAt": "2026-11-07T05:57:45.116Z"
   },
   "bluesky:at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mxpy3rzx632y": {
     "platform": "bluesky",
@@ -4311,7 +4311,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-04T06:15:43.860Z"
+    "collectedAt": "2026-11-07T05:57:45.714Z"
   },
   "mastodon:117431297363901962": {
     "platform": "mastodon",
@@ -4324,7 +4324,7 @@
       "replies": 1,
       "reposts": 0
     },
-    "collectedAt": "2026-11-04T06:15:44.548Z"
+    "collectedAt": "2026-11-07T05:57:46.427Z"
   },
   "threads:18635420743037667": {
     "platform": "threads",
@@ -4339,7 +4339,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-04T06:15:45.279Z"
+    "collectedAt": "2026-11-07T05:57:47.115Z"
   },
   "facebook:1288453561012463_122124505389446391": {
     "platform": "facebook",
@@ -4348,7 +4348,7 @@
     "pattern": "O",
     "publishedAt": "2026-10-15T04:08:10.473Z",
     "metrics": {},
-    "collectedAt": "2026-11-04T06:15:45.859Z"
+    "collectedAt": "2026-11-07T05:57:47.722Z"
   },
   "bluesky:at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mxq6rzbkgu2o": {
     "platform": "bluesky",
@@ -4362,7 +4362,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-04T06:15:46.444Z"
+    "collectedAt": "2026-11-07T05:57:48.329Z"
   },
   "mastodon:117431694631633828": {
     "platform": "mastodon",
@@ -4375,7 +4375,7 @@
       "replies": 1,
       "reposts": 0
     },
-    "collectedAt": "2026-11-04T06:15:47.175Z"
+    "collectedAt": "2026-11-07T05:57:49.050Z"
   },
   "threads:17952106005274777": {
     "platform": "threads",
@@ -4390,7 +4390,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-04T06:15:48.062Z"
+    "collectedAt": "2026-11-07T05:57:49.774Z"
   },
   "facebook:122124528171446391": {
     "platform": "facebook",
@@ -4399,7 +4399,7 @@
     "pattern": "D",
     "publishedAt": "2026-10-15T06:33:37.893Z",
     "metrics": {},
-    "collectedAt": "2026-11-04T06:15:48.761Z"
+    "collectedAt": "2026-11-07T05:57:50.523Z"
   },
   "bluesky:at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mxvd3fta3t2l": {
     "platform": "bluesky",
@@ -4413,7 +4413,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-04T06:15:49.356Z"
+    "collectedAt": "2026-11-07T05:57:51.121Z"
   },
   "mastodon:117443528154663438": {
     "platform": "mastodon",
@@ -4426,7 +4426,7 @@
       "replies": 1,
       "reposts": 0
     },
-    "collectedAt": "2026-11-04T06:15:50.068Z"
+    "collectedAt": "2026-11-07T05:57:51.922Z"
   },
   "threads:17896096683613469": {
     "platform": "threads",
@@ -4441,7 +4441,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-04T06:15:50.861Z"
+    "collectedAt": "2026-11-07T05:57:52.577Z"
   },
   "facebook:122124821115446391": {
     "platform": "facebook",
@@ -4450,7 +4450,7 @@
     "pattern": "D",
     "publishedAt": "2026-10-16T05:24:20.472Z",
     "metrics": {},
-    "collectedAt": "2026-11-04T06:15:51.525Z"
+    "collectedAt": "2026-11-07T05:57:53.250Z"
   },
   "bluesky:at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mxvjnaj23x2l": {
     "platform": "bluesky",
@@ -4464,7 +4464,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-04T06:15:52.735Z"
+    "collectedAt": "2026-11-07T05:57:54.446Z"
   },
   "mastodon:117448687067621288": {
     "platform": "mastodon",
@@ -4477,7 +4477,7 @@
       "replies": 1,
       "reposts": 0
     },
-    "collectedAt": "2026-11-04T06:15:53.433Z"
+    "collectedAt": "2026-11-07T05:57:55.152Z"
   },
   "threads:18100774079453408": {
     "platform": "threads",
@@ -4492,7 +4492,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-04T06:15:54.258Z"
+    "collectedAt": "2026-11-07T05:57:55.847Z"
   },
   "facebook:1288453561012463_122125049235446391": {
     "platform": "facebook",
@@ -4501,7 +4501,7 @@
     "pattern": "D",
     "publishedAt": "2026-10-17T04:24:31.598Z",
     "metrics": {},
-    "collectedAt": "2026-11-04T06:15:55.114Z"
+    "collectedAt": "2026-11-07T05:57:56.458Z"
   },
   "bluesky:at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mxyrppejpe27": {
     "platform": "bluesky",
@@ -4515,7 +4515,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-04T06:15:56.379Z"
+    "collectedAt": "2026-11-07T05:57:57.620Z"
   },
   "mastodon:117451041071704491": {
     "platform": "mastodon",
@@ -4528,7 +4528,7 @@
       "replies": 1,
       "reposts": 0
     },
-    "collectedAt": "2026-11-04T06:15:57.312Z"
+    "collectedAt": "2026-11-07T05:57:58.379Z"
   },
   "threads:18087162698320252": {
     "platform": "threads",
@@ -4543,7 +4543,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-04T06:15:58.010Z"
+    "collectedAt": "2026-11-07T05:57:59.103Z"
   },
   "facebook:1288453561012463_122124914799446391": {
     "platform": "facebook",
@@ -4552,7 +4552,7 @@
     "pattern": "C",
     "publishedAt": "2026-10-16T13:25:55.187Z",
     "metrics": {},
-    "collectedAt": "2026-11-04T06:15:58.589Z"
+    "collectedAt": "2026-11-07T05:57:59.767Z"
   },
   "bluesky:at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mxyk7isyls2y": {
     "platform": "bluesky",
@@ -4566,7 +4566,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-04T06:15:59.170Z"
+    "collectedAt": "2026-11-07T05:58:00.372Z"
   },
   "mastodon:117450512760122553": {
     "platform": "mastodon",
@@ -4579,7 +4579,7 @@
       "replies": 1,
       "reposts": 0
     },
-    "collectedAt": "2026-11-04T06:15:59.885Z"
+    "collectedAt": "2026-11-07T05:58:01.125Z"
   },
   "threads:18118513022101411": {
     "platform": "threads",
@@ -4594,7 +4594,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-04T06:16:00.489Z"
+    "collectedAt": "2026-11-07T05:58:01.893Z"
   },
   "facebook:1288453561012463_122125077693446391": {
     "platform": "facebook",
@@ -4603,7 +4603,7 @@
     "pattern": "A",
     "publishedAt": "2026-10-17T07:24:28.439Z",
     "metrics": {},
-    "collectedAt": "2026-11-04T06:16:01.070Z"
+    "collectedAt": "2026-11-07T05:58:02.500Z"
   },
   "bluesky:at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3my2kpyewy22o": {
     "platform": "bluesky",
@@ -4617,7 +4617,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-04T06:16:01.653Z"
+    "collectedAt": "2026-11-07T05:58:03.100Z"
   },
   "mastodon:117456775036306457": {
     "platform": "mastodon",
@@ -4630,7 +4630,7 @@
       "replies": 1,
       "reposts": 0
     },
-    "collectedAt": "2026-11-04T06:16:02.435Z"
+    "collectedAt": "2026-11-07T05:58:03.805Z"
   },
   "facebook:122125180353446391": {
     "platform": "facebook",
@@ -4639,7 +4639,7 @@
     "pattern": "B",
     "publishedAt": "2026-10-17T15:38:49.879Z",
     "metrics": {},
-    "collectedAt": "2026-11-04T06:16:04.026Z"
+    "collectedAt": "2026-11-07T05:58:05.203Z"
   },
   "bluesky:at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3my3d7ix6t72l": {
     "platform": "bluesky",
@@ -4653,7 +4653,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-04T06:16:04.612Z"
+    "collectedAt": "2026-11-07T05:58:05.799Z"
   },
   "mastodon:117459614770221524": {
     "platform": "mastodon",
@@ -4666,7 +4666,7 @@
       "replies": 1,
       "reposts": 0
     },
-    "collectedAt": "2026-11-04T06:16:05.303Z"
+    "collectedAt": "2026-11-07T05:58:06.577Z"
   },
   "instagram:17963701227207519": {
     "platform": "instagram",
@@ -4678,7 +4678,7 @@
       "likes": 1,
       "replies": 0
     },
-    "collectedAt": "2026-11-04T06:16:06.051Z"
+    "collectedAt": "2026-11-07T05:58:07.188Z"
   },
   "bluesky:at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3my4lkscz3g2e": {
     "platform": "bluesky",
@@ -4692,7 +4692,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-04T06:16:07.410Z"
+    "collectedAt": "2026-11-07T05:58:08.483Z"
   },
   "instagram:17941616535382711": {
     "platform": "instagram",
@@ -4704,7 +4704,7 @@
       "likes": 0,
       "replies": 0
     },
-    "collectedAt": "2026-11-04T06:16:08.794Z"
+    "collectedAt": "2026-11-07T05:58:09.759Z"
   },
   "threads:18142986724592902": {
     "platform": "threads",
@@ -4719,7 +4719,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-04T06:16:03.229Z"
+    "collectedAt": "2026-11-07T05:58:04.467Z"
   },
   "threads:18150257725565574": {
     "platform": "threads",
@@ -4734,7 +4734,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-04T06:16:06.819Z"
+    "collectedAt": "2026-11-07T05:58:07.886Z"
   },
   "mastodon:117460954520560430": {
     "platform": "mastodon",
@@ -4747,7 +4747,7 @@
       "replies": 1,
       "reposts": 0
     },
-    "collectedAt": "2026-11-04T06:16:08.093Z"
+    "collectedAt": "2026-11-07T05:58:09.198Z"
   },
   "facebook:122125356147446391": {
     "platform": "facebook",
@@ -4756,7 +4756,7 @@
     "pattern": "E",
     "publishedAt": "2026-10-18T11:00:28.283Z",
     "metrics": {},
-    "collectedAt": "2026-11-04T06:16:10.124Z"
+    "collectedAt": "2026-11-07T05:58:11.098Z"
   },
   "bluesky:at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3my5hb7hqdc2l": {
     "platform": "bluesky",
@@ -4770,7 +4770,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-04T06:16:10.698Z"
+    "collectedAt": "2026-11-07T05:58:11.706Z"
   },
   "mastodon:117461564535520213": {
     "platform": "mastodon",
@@ -4783,7 +4783,7 @@
       "replies": 1,
       "reposts": 0
     },
-    "collectedAt": "2026-11-04T06:16:11.390Z"
+    "collectedAt": "2026-11-07T05:58:12.401Z"
   },
   "instagram:18172699192404774": {
     "platform": "instagram",
@@ -4795,7 +4795,7 @@
       "likes": 0,
       "replies": 0
     },
-    "collectedAt": "2026-11-04T06:16:11.963Z"
+    "collectedAt": "2026-11-07T05:58:12.977Z"
   },
   "facebook:122126162775446391": {
     "platform": "facebook",
@@ -4804,7 +4804,7 @@
     "pattern": "A",
     "publishedAt": "2026-10-22T03:24:22.334Z",
     "metrics": {},
-    "collectedAt": "2026-11-04T06:16:12.628Z"
+    "collectedAt": "2026-11-07T05:58:13.723Z"
   },
   "threads:18401434432204174": {
     "platform": "threads",
@@ -4813,13 +4813,13 @@
     "pattern": "E",
     "publishedAt": "2026-10-23T02:26:13.777Z",
     "metrics": {
-      "views": 182,
+      "views": 183,
       "likes": 0,
       "replies": 2,
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-04T06:16:13.390Z"
+    "collectedAt": "2026-11-07T05:58:14.364Z"
   },
   "facebook:1288453561012463_122126365245446391": {
     "platform": "facebook",
@@ -4828,7 +4828,7 @@
     "pattern": "E",
     "publishedAt": "2026-10-23T04:24:36.730Z",
     "metrics": {},
-    "collectedAt": "2026-11-04T06:16:13.973Z"
+    "collectedAt": "2026-11-07T05:58:14.972Z"
   },
   "bluesky:at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3myj4u7j7kx2w": {
     "platform": "bluesky",
@@ -4842,7 +4842,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-04T06:16:14.561Z"
+    "collectedAt": "2026-11-07T05:58:15.568Z"
   },
   "mastodon:117487853692986144": {
     "platform": "mastodon",
@@ -4855,7 +4855,7 @@
       "replies": 1,
       "reposts": 0
     },
-    "collectedAt": "2026-11-04T06:16:15.460Z"
+    "collectedAt": "2026-11-07T05:58:16.260Z"
   },
   "threads:17950915215299389": {
     "platform": "threads",
@@ -4864,13 +4864,13 @@
     "pattern": "A",
     "publishedAt": "2026-10-23T05:53:51.159Z",
     "metrics": {
-      "views": 127,
+      "views": 128,
       "likes": 0,
       "replies": 2,
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-04T06:16:16.282Z"
+    "collectedAt": "2026-11-07T05:58:16.876Z"
   },
   "facebook:1288453561012463_122126383773446391": {
     "platform": "facebook",
@@ -4879,7 +4879,7 @@
     "pattern": "A",
     "publishedAt": "2026-10-23T07:34:42.802Z",
     "metrics": {},
-    "collectedAt": "2026-11-04T06:16:16.919Z"
+    "collectedAt": "2026-11-07T05:58:17.542Z"
   },
   "bluesky:at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3myjdhvm47y2i": {
     "platform": "bluesky",
@@ -4893,7 +4893,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-04T06:16:17.518Z"
+    "collectedAt": "2026-11-07T05:58:18.137Z"
   },
   "mastodon:117488319238240128": {
     "platform": "mastodon",
@@ -4906,7 +4906,7 @@
       "replies": 1,
       "reposts": 0
     },
-    "collectedAt": "2026-11-04T06:16:18.213Z"
+    "collectedAt": "2026-11-07T05:58:18.872Z"
   },
   "instagram:18150943477554052": {
     "platform": "instagram",
@@ -4918,7 +4918,7 @@
       "likes": 0,
       "replies": 0
     },
-    "collectedAt": "2026-11-04T06:16:18.822Z"
+    "collectedAt": "2026-11-07T05:58:19.501Z"
   },
   "instagram:18128660956842215": {
     "platform": "instagram",
@@ -4930,7 +4930,7 @@
       "likes": 1,
       "replies": 0
     },
-    "collectedAt": "2026-11-04T06:16:19.387Z"
+    "collectedAt": "2026-11-07T05:58:20.062Z"
   },
   "threads:18127857970847921": {
     "platform": "threads",
@@ -4939,13 +4939,13 @@
     "pattern": "C",
     "publishedAt": "2026-10-24T07:02:38.353Z",
     "metrics": {
-      "views": 560,
+      "views": 569,
       "likes": 1,
       "replies": 4,
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-04T06:16:20.067Z"
+    "collectedAt": "2026-11-07T05:58:20.701Z"
   },
   "facebook:122126623575446391": {
     "platform": "facebook",
@@ -4954,7 +4954,7 @@
     "pattern": "C",
     "publishedAt": "2026-10-24T12:24:53.261Z",
     "metrics": {},
-    "collectedAt": "2026-11-04T06:16:20.738Z"
+    "collectedAt": "2026-11-07T05:58:21.347Z"
   },
   "instagram:18025003013948764": {
     "platform": "instagram",
@@ -4966,7 +4966,7 @@
       "likes": 1,
       "replies": 0
     },
-    "collectedAt": "2026-11-04T06:16:21.307Z"
+    "collectedAt": "2026-11-07T05:58:21.919Z"
   },
   "bluesky:at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mymosphokd2t": {
     "platform": "bluesky",
@@ -4980,7 +4980,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-04T06:16:21.898Z"
+    "collectedAt": "2026-11-07T05:58:22.517Z"
   },
   "mastodon:117495872612846373": {
     "platform": "mastodon",
@@ -4993,7 +4993,7 @@
       "replies": 1,
       "reposts": 0
     },
-    "collectedAt": "2026-11-04T06:16:22.589Z"
+    "collectedAt": "2026-11-07T05:58:23.203Z"
   },
   "instagram:17910482673586896": {
     "platform": "instagram",
@@ -5005,7 +5005,7 @@
       "likes": 3,
       "replies": 0
     },
-    "collectedAt": "2026-11-04T06:16:23.160Z"
+    "collectedAt": "2026-11-07T05:58:23.767Z"
   },
   "instagram:18249558292312068": {
     "platform": "instagram",
@@ -5017,7 +5017,7 @@
       "likes": 1,
       "replies": 3
     },
-    "collectedAt": "2026-11-04T06:16:23.729Z"
+    "collectedAt": "2026-11-07T05:58:24.336Z"
   },
   "threads:17865064023693284": {
     "platform": "threads",
@@ -5026,13 +5026,13 @@
     "pattern": "A",
     "publishedAt": "2026-10-30T08:08:20.533Z",
     "metrics": {
-      "views": 134,
+      "views": 135,
       "likes": 0,
       "replies": 2,
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-04T06:16:24.704Z"
+    "collectedAt": "2026-11-07T05:58:25.100Z"
   },
   "facebook:122127900549446391": {
     "platform": "facebook",
@@ -5041,7 +5041,7 @@
     "pattern": "A",
     "publishedAt": "2026-10-30T16:18:59.392Z",
     "metrics": {},
-    "collectedAt": "2026-11-04T06:16:25.302Z"
+    "collectedAt": "2026-11-07T05:58:25.792Z"
   },
   "bluesky:at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mz3dq6ll272j": {
     "platform": "bluesky",
@@ -5055,7 +5055,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-04T06:16:25.894Z"
+    "collectedAt": "2026-11-07T05:58:26.394Z"
   },
   "mastodon:117528870694618410": {
     "platform": "mastodon",
@@ -5068,7 +5068,7 @@
       "replies": 1,
       "reposts": 0
     },
-    "collectedAt": "2026-11-04T06:16:26.583Z"
+    "collectedAt": "2026-11-07T05:58:27.112Z"
   },
   "threads:18115344611148136": {
     "platform": "threads",
@@ -5077,13 +5077,13 @@
     "pattern": "O",
     "publishedAt": "2026-10-31T05:24:51.651Z",
     "metrics": {
-      "views": 116,
+      "views": 117,
       "likes": 1,
       "replies": 1,
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-04T06:16:27.216Z"
+    "collectedAt": "2026-11-07T05:58:27.839Z"
   },
   "facebook:1288453561012463_122128283703446391": {
     "platform": "facebook",
@@ -5092,7 +5092,7 @@
     "pattern": "O",
     "publishedAt": "2026-11-01T07:28:47.345Z",
     "metrics": {},
-    "collectedAt": "2026-11-04T06:16:27.885Z"
+    "collectedAt": "2026-11-07T05:58:28.509Z"
   },
   "bluesky:at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mz46nqchvf2t": {
     "platform": "bluesky",
@@ -5106,7 +5106,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-04T06:16:28.475Z"
+    "collectedAt": "2026-11-07T05:58:29.112Z"
   },
   "mastodon:117530764341953613": {
     "platform": "mastodon",
@@ -5119,7 +5119,7 @@
       "replies": 1,
       "reposts": 0
     },
-    "collectedAt": "2026-11-04T06:16:29.309Z"
+    "collectedAt": "2026-11-07T05:58:29.827Z"
   },
   "threads:18164093662445571": {
     "platform": "threads",
@@ -5128,13 +5128,13 @@
     "pattern": null,
     "publishedAt": "2026-11-02T17:25:49.699Z",
     "metrics": {
-      "views": 575,
+      "views": 580,
       "likes": 1,
       "replies": 1,
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-04T06:16:29.990Z"
+    "collectedAt": "2026-11-07T05:58:30.452Z"
   },
   "bluesky:at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mzfnvbafug2t": {
     "platform": "bluesky",
@@ -5148,6 +5148,565 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-04T06:16:31.781Z"
+    "collectedAt": "2026-11-07T05:58:32.904Z"
+  },
+  "facebook:122128876551446391": {
+    "platform": "facebook",
+    "postId": "122128876551446391",
+    "topic": "N Seoul Tower (Namsan)",
+    "pattern": "C",
+    "publishedAt": "2026-11-04T07:04:05.099Z",
+    "metrics": {},
+    "collectedAt": "2026-11-07T05:58:32.303Z"
+  },
+  "mastodon:117556893887269450": {
+    "platform": "mastodon",
+    "postId": "117556893887269450",
+    "topic": "N Seoul Tower (Namsan)",
+    "pattern": "C",
+    "publishedAt": "2026-11-04T07:04:08.222Z",
+    "metrics": {
+      "likes": 0,
+      "replies": 1,
+      "reposts": 0
+    },
+    "collectedAt": "2026-11-07T05:58:33.598Z"
+  },
+  "threads:18101370446535187": {
+    "platform": "threads",
+    "postId": "18101370446535187",
+    "topic": "Myeongdong shopping district",
+    "pattern": "A",
+    "publishedAt": "2026-11-04T12:26:39.098Z",
+    "metrics": {
+      "views": 76,
+      "likes": 3,
+      "replies": 0,
+      "reposts": 0,
+      "quotes": 0
+    },
+    "collectedAt": "2026-11-07T05:58:34.344Z"
+  },
+  "facebook:122128974153446391": {
+    "platform": "facebook",
+    "postId": "122128974153446391",
+    "topic": "Myeongdong shopping district",
+    "pattern": "A",
+    "publishedAt": "2026-11-04T16:57:01.111Z",
+    "metrics": {},
+    "collectedAt": "2026-11-07T05:58:34.935Z"
+  },
+  "bluesky:at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mzhry73ipg2r": {
+    "platform": "bluesky",
+    "postId": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mzhry73ipg2r",
+    "topic": "Myeongdong shopping district",
+    "pattern": "A",
+    "publishedAt": "2026-11-04T07:04:10.650Z",
+    "metrics": {
+      "likes": 0,
+      "replies": 1,
+      "reposts": 0,
+      "quotes": 0
+    },
+    "collectedAt": "2026-11-07T05:58:35.540Z"
+  },
+  "mastodon:117558162302993888": {
+    "platform": "mastodon",
+    "postId": "117558162302993888",
+    "topic": "Myeongdong shopping district",
+    "pattern": "A",
+    "publishedAt": "2026-11-04T12:26:43.722Z",
+    "metrics": {
+      "likes": 0,
+      "replies": 1,
+      "reposts": 0
+    },
+    "collectedAt": "2026-11-07T05:58:36.277Z"
+  },
+  "threads:18054222557817169": {
+    "platform": "threads",
+    "postId": "18054222557817169",
+    "topic": "Busan Haeundae Beach & Gamcheon Culture Village",
+    "pattern": "A",
+    "publishedAt": "2026-11-04T15:25:28.788Z",
+    "metrics": {
+      "views": 163,
+      "likes": 0,
+      "replies": 2,
+      "reposts": 0,
+      "quotes": 0
+    },
+    "collectedAt": "2026-11-07T05:58:36.951Z"
+  },
+  "facebook:122129002023446391": {
+    "platform": "facebook",
+    "postId": "122129002023446391",
+    "topic": "Busan Haeundae Beach & Gamcheon Culture Village",
+    "pattern": "A",
+    "publishedAt": "2026-11-04T19:53:43.178Z",
+    "metrics": {},
+    "collectedAt": "2026-11-07T05:58:37.621Z"
+  },
+  "bluesky:at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mzidz2d7ow22": {
+    "platform": "bluesky",
+    "postId": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mzidz2d7ow22",
+    "topic": "Busan Haeundae Beach & Gamcheon Culture Village",
+    "pattern": "A",
+    "publishedAt": "2026-11-04T12:26:46.822Z",
+    "metrics": {
+      "likes": 0,
+      "replies": 1,
+      "reposts": 0,
+      "quotes": 0
+    },
+    "collectedAt": "2026-11-07T05:58:38.218Z"
+  },
+  "mastodon:117558573427267430": {
+    "platform": "mastodon",
+    "postId": "117558573427267430",
+    "topic": "Busan Haeundae Beach & Gamcheon Culture Village",
+    "pattern": "A",
+    "publishedAt": "2026-11-04T14:11:16.321Z",
+    "metrics": {
+      "likes": 0,
+      "replies": 1,
+      "reposts": 0
+    },
+    "collectedAt": "2026-11-07T05:58:38.911Z"
+  },
+  "instagram:18048404684837568": {
+    "platform": "instagram",
+    "postId": "18048404684837568",
+    "topic": "Jeju Island",
+    "pattern": "D",
+    "publishedAt": "2026-11-04T07:04:46.339Z",
+    "metrics": {
+      "likes": 0,
+      "replies": 0
+    },
+    "collectedAt": "2026-11-07T05:58:39.521Z"
+  },
+  "instagram:17888487657687623": {
+    "platform": "instagram",
+    "postId": "17888487657687623",
+    "topic": "Insadong traditional culture street",
+    "pattern": "A",
+    "publishedAt": "2026-11-04T12:27:22.320Z",
+    "metrics": {
+      "likes": 0,
+      "replies": 0
+    },
+    "collectedAt": "2026-11-07T05:58:40.094Z"
+  },
+  "threads:18102069689093720": {
+    "platform": "threads",
+    "postId": "18102069689093720",
+    "topic": "Everland vs. Lotte World theme parks",
+    "pattern": "D",
+    "publishedAt": "2026-11-06T21:24:50.110Z",
+    "metrics": {
+      "views": 108,
+      "likes": 0,
+      "replies": 0,
+      "reposts": 0,
+      "quotes": 0
+    },
+    "collectedAt": "2026-11-07T05:58:40.718Z"
+  },
+  "instagram:18181869136434202": {
+    "platform": "instagram",
+    "postId": "18181869136434202",
+    "topic": "Everland vs. Lotte World theme parks",
+    "pattern": "D",
+    "publishedAt": "2026-11-05T09:24:47.624Z",
+    "metrics": {
+      "likes": 2,
+      "replies": 0
+    },
+    "collectedAt": "2026-11-07T05:58:41.279Z"
+  },
+  "bluesky:at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mzkkcmwit424": {
+    "platform": "bluesky",
+    "postId": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mzkkcmwit424",
+    "topic": "Everland vs. Lotte World theme parks",
+    "pattern": "D",
+    "publishedAt": "2026-11-05T09:24:49.878Z",
+    "metrics": {
+      "likes": 0,
+      "replies": 1,
+      "reposts": 0,
+      "quotes": 0
+    },
+    "collectedAt": "2026-11-07T05:58:41.878Z"
+  },
+  "mastodon:117563109681844594": {
+    "platform": "mastodon",
+    "postId": "117563109681844594",
+    "topic": "Everland vs. Lotte World theme parks",
+    "pattern": "D",
+    "publishedAt": "2026-11-05T09:24:55.133Z",
+    "metrics": {
+      "likes": 0,
+      "replies": 1,
+      "reposts": 0
+    },
+    "collectedAt": "2026-11-07T05:58:42.591Z"
+  },
+  "threads:18026427608923578": {
+    "platform": "threads",
+    "postId": "18026427608923578",
+    "topic": "Hongdae nightlife and youth culture district",
+    "pattern": "C",
+    "publishedAt": "2026-11-04T21:15:45.277Z",
+    "metrics": {
+      "views": 117,
+      "likes": 1,
+      "replies": 2,
+      "reposts": 0,
+      "quotes": 0
+    },
+    "collectedAt": "2026-11-07T05:58:43.208Z"
+  },
+  "facebook:122129033055446391": {
+    "platform": "facebook",
+    "postId": "122129033055446391",
+    "topic": "Hongdae nightlife and youth culture district",
+    "pattern": "C",
+    "publishedAt": "2026-11-04T22:53:49.136Z",
+    "metrics": {},
+    "collectedAt": "2026-11-07T05:58:43.829Z"
+  },
+  "bluesky:at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mzinypcazb2t": {
+    "platform": "bluesky",
+    "postId": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mzinypcazb2t",
+    "topic": "Hongdae nightlife and youth culture district",
+    "pattern": "C",
+    "publishedAt": "2026-11-04T15:25:33.350Z",
+    "metrics": {
+      "likes": 1,
+      "replies": 1,
+      "reposts": 0,
+      "quotes": 0
+    },
+    "collectedAt": "2026-11-07T05:58:44.435Z"
+  },
+  "mastodon:117559225466323794": {
+    "platform": "mastodon",
+    "postId": "117559225466323794",
+    "topic": "Hongdae nightlife and youth culture district",
+    "pattern": "C",
+    "publishedAt": "2026-11-04T16:57:05.533Z",
+    "metrics": {
+      "likes": 0,
+      "replies": 1,
+      "reposts": 0
+    },
+    "collectedAt": "2026-11-07T05:58:45.420Z"
+  },
+  "facebook:122129073951446391": {
+    "platform": "facebook",
+    "postId": "122129073951446391",
+    "topic": "Nami Island and Petite France day trip",
+    "pattern": "C",
+    "publishedAt": "2026-11-05T04:53:31.086Z",
+    "metrics": {},
+    "collectedAt": "2026-11-07T05:58:46.073Z"
+  },
+  "instagram:17973580545159947": {
+    "platform": "instagram",
+    "postId": "17973580545159947",
+    "topic": "Nami Island and Petite France day trip",
+    "pattern": "C",
+    "publishedAt": "2026-11-05T00:24:54.981Z",
+    "metrics": {
+      "likes": 0,
+      "replies": 0
+    },
+    "collectedAt": "2026-11-07T05:58:46.666Z"
+  },
+  "bluesky:at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mzjr3np6go22": {
+    "platform": "bluesky",
+    "postId": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mzjr3np6go22",
+    "topic": "Nami Island and Petite France day trip",
+    "pattern": "C",
+    "publishedAt": "2026-11-05T01:53:32.705Z",
+    "metrics": {
+      "likes": 0,
+      "replies": 1,
+      "reposts": 0,
+      "quotes": 0
+    },
+    "collectedAt": "2026-11-07T05:58:47.301Z"
+  },
+  "mastodon:117561335133013401": {
+    "platform": "mastodon",
+    "postId": "117561335133013401",
+    "topic": "Nami Island and Petite France day trip",
+    "pattern": "C",
+    "publishedAt": "2026-11-05T01:53:36.280Z",
+    "metrics": {
+      "likes": 0,
+      "replies": 1,
+      "reposts": 0
+    },
+    "collectedAt": "2026-11-07T05:58:48.031Z"
+  },
+  "threads:17937749991147553": {
+    "platform": "threads",
+    "postId": "17937749991147553",
+    "topic": "Suwon Hwaseong Fortress",
+    "pattern": "D",
+    "publishedAt": "2026-11-06T18:24:53.541Z",
+    "metrics": {
+      "views": 207,
+      "likes": 7,
+      "replies": 1,
+      "reposts": 1,
+      "quotes": 0
+    },
+    "collectedAt": "2026-11-07T05:58:48.765Z"
+  },
+  "instagram:18336934684273706": {
+    "platform": "instagram",
+    "postId": "18336934684273706",
+    "topic": "Suwon Hwaseong Fortress",
+    "pattern": "D",
+    "publishedAt": "2026-11-05T04:54:56.823Z",
+    "metrics": {
+      "likes": 0,
+      "replies": 0
+    },
+    "collectedAt": "2026-11-07T05:58:49.352Z"
+  },
+  "bluesky:at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mzka7wjazt2m": {
+    "platform": "bluesky",
+    "postId": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mzka7wjazt2m",
+    "topic": "Suwon Hwaseong Fortress",
+    "pattern": "D",
+    "publishedAt": "2026-11-05T06:24:21.823Z",
+    "metrics": {
+      "likes": 0,
+      "replies": 1,
+      "reposts": 0,
+      "quotes": 0
+    },
+    "collectedAt": "2026-11-07T05:58:49.956Z"
+  },
+  "mastodon:117562400037461245": {
+    "platform": "mastodon",
+    "postId": "117562400037461245",
+    "topic": "Suwon Hwaseong Fortress",
+    "pattern": "D",
+    "publishedAt": "2026-11-05T06:24:25.868Z",
+    "metrics": {
+      "likes": 0,
+      "replies": 1,
+      "reposts": 0
+    },
+    "collectedAt": "2026-11-07T05:58:50.675Z"
+  },
+  "threads:17865611352693174": {
+    "platform": "threads",
+    "postId": "17865611352693174",
+    "topic": "Domestic flights vs. KTX for Jeju and long-distance trips",
+    "pattern": "D",
+    "publishedAt": "2026-11-05T00:26:03.659Z",
+    "metrics": {
+      "views": 311,
+      "likes": 0,
+      "replies": 2,
+      "reposts": 0,
+      "quotes": 0
+    },
+    "collectedAt": "2026-11-07T05:58:51.359Z"
+  },
+  "facebook:122129051151446391": {
+    "platform": "facebook",
+    "postId": "122129051151446391",
+    "topic": "Domestic flights vs. KTX for Jeju and long-distance trips",
+    "pattern": "D",
+    "publishedAt": "2026-11-05T01:53:40.696Z",
+    "metrics": {},
+    "collectedAt": "2026-11-07T05:58:52.035Z"
+  },
+  "bluesky:at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mzit4ipzrb2m": {
+    "platform": "bluesky",
+    "postId": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mzit4ipzrb2m",
+    "topic": "Domestic flights vs. KTX for Jeju and long-distance trips",
+    "pattern": "D",
+    "publishedAt": "2026-11-04T16:57:09.250Z",
+    "metrics": {
+      "likes": 0,
+      "replies": 1,
+      "reposts": 0,
+      "quotes": 0
+    },
+    "collectedAt": "2026-11-07T05:58:52.632Z"
+  },
+  "mastodon:117559920261288062": {
+    "platform": "mastodon",
+    "postId": "117559920261288062",
+    "topic": "Domestic flights vs. KTX for Jeju and long-distance trips",
+    "pattern": "D",
+    "publishedAt": "2026-11-04T19:53:47.772Z",
+    "metrics": {
+      "likes": 0,
+      "replies": 1,
+      "reposts": 0
+    },
+    "collectedAt": "2026-11-07T05:58:53.321Z"
+  },
+  "threads:18351928831270001": {
+    "platform": "threads",
+    "postId": "18351928831270001",
+    "topic": "Seoul attraction pass comparison",
+    "pattern": "A",
+    "publishedAt": "2026-11-06T14:57:34.312Z",
+    "metrics": {
+      "views": 64,
+      "likes": 0,
+      "replies": 0,
+      "reposts": 0,
+      "quotes": 0
+    },
+    "collectedAt": "2026-11-07T05:58:53.960Z"
+  },
+  "facebook:122129113881446391": {
+    "platform": "facebook",
+    "postId": "122129113881446391",
+    "topic": "Seoul attraction pass comparison",
+    "pattern": "A",
+    "publishedAt": "2026-11-05T07:53:34.482Z",
+    "metrics": {},
+    "collectedAt": "2026-11-07T05:58:54.642Z"
+  },
+  "bluesky:at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mzjw65dtbi2b": {
+    "platform": "bluesky",
+    "postId": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mzjw65dtbi2b",
+    "topic": "Seoul attraction pass comparison",
+    "pattern": "A",
+    "publishedAt": "2026-11-05T03:24:25.270Z",
+    "metrics": {
+      "likes": 0,
+      "replies": 1,
+      "reposts": 0,
+      "quotes": 0
+    },
+    "collectedAt": "2026-11-07T05:58:55.242Z"
+  },
+  "mastodon:117561692461697916": {
+    "platform": "mastodon",
+    "postId": "117561692461697916",
+    "topic": "Seoul attraction pass comparison",
+    "pattern": "A",
+    "publishedAt": "2026-11-05T03:24:28.919Z",
+    "metrics": {
+      "likes": 0,
+      "replies": 1,
+      "reposts": 0
+    },
+    "collectedAt": "2026-11-07T05:58:55.959Z"
+  },
+  "threads:18126404537316044": {
+    "platform": "threads",
+    "postId": "18126404537316044",
+    "topic": "Airport transfer options",
+    "pattern": "B",
+    "publishedAt": "2026-11-04T18:26:13.197Z",
+    "metrics": {
+      "views": 434,
+      "likes": 0,
+      "replies": 5,
+      "reposts": 0,
+      "quotes": 0
+    },
+    "collectedAt": "2026-11-07T05:58:56.675Z"
+  },
+  "threads:17927282295430454": {
+    "platform": "threads",
+    "postId": "17927282295430454",
+    "topic": "Seasonal packing & weather tips",
+    "pattern": "A",
+    "publishedAt": "2026-11-05T09:25:27.836Z",
+    "metrics": {
+      "views": 113,
+      "likes": 0,
+      "replies": 0,
+      "reposts": 0,
+      "quotes": 0
+    },
+    "collectedAt": "2026-11-07T05:58:57.362Z"
+  },
+  "threads:17997061020030320": {
+    "platform": "threads",
+    "postId": "17997061020030320",
+    "topic": "Why Google Maps fails in Korea and how the road-name address system actually works",
+    "pattern": "A",
+    "publishedAt": "2026-11-05T03:25:10.902Z",
+    "metrics": {
+      "views": 140,
+      "likes": 1,
+      "replies": 0,
+      "reposts": 0,
+      "quotes": 0
+    },
+    "collectedAt": "2026-11-07T05:58:58.111Z"
+  },
+  "threads:17877310497636580": {
+    "platform": "threads",
+    "postId": "17877310497636580",
+    "topic": "Noraebang etiquette: how Korean karaoke actually works for first-timers",
+    "pattern": "D",
+    "publishedAt": "2026-11-05T06:25:58.339Z",
+    "metrics": {
+      "views": 181,
+      "likes": 0,
+      "replies": 1,
+      "reposts": 0,
+      "quotes": 0
+    },
+    "collectedAt": "2026-11-07T05:58:58.753Z"
+  },
+  "instagram:18226187098340604": {
+    "platform": "instagram",
+    "postId": "18226187098340604",
+    "topic": "Timing cherry blossoms and fall foliage in Korea without hitting peak crowds",
+    "pattern": "C",
+    "publishedAt": "2026-11-04T21:16:21.110Z",
+    "metrics": {
+      "likes": 0,
+      "replies": 0
+    },
+    "collectedAt": "2026-11-07T05:58:59.350Z"
+  },
+  "threads:18170642176470511": {
+    "platform": "threads",
+    "postId": "18170642176470511",
+    "topic": "Doing laundry in Korea: coin laundromats, the dryer problem, and neighborhood dry cleaners",
+    "pattern": "A",
+    "publishedAt": "2026-11-07T00:24:51.700Z",
+    "metrics": {
+      "views": 156,
+      "likes": 1,
+      "replies": 0,
+      "reposts": 0,
+      "quotes": 0
+    },
+    "collectedAt": "2026-11-07T05:59:00.021Z"
+  },
+  "threads:17925798627444322": {
+    "platform": "threads",
+    "postId": "17925798627444322",
+    "topic": "Trash and recycling rules for residents",
+    "pattern": null,
+    "publishedAt": "2026-11-07T03:24:58.047Z",
+    "metrics": {
+      "views": 9,
+      "likes": 0,
+      "replies": 0,
+      "reposts": 0,
+      "quotes": 0
+    },
+    "collectedAt": "2026-11-07T05:59:00.641Z"
   }
 }
