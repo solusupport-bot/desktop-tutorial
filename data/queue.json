@@ -38195,8 +38195,12 @@
       "threads"
     ],
     "scheduledAt": "2026-11-05T15:28:26.823Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18038517296853588"
+      }
+    },
     "createdAt": "2026-11-05T02:34:57.804Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -38214,7 +38218,8 @@
       "model": "groq",
       "checkedAt": "2026-11-05T02:31:27.466Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-hiking-in-korea-like-a-local-subway-accessible-peaks-seasonal-trail-closures-and-the-gear-culture.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-hiking-in-korea-like-a-local-subway-accessible-peaks-seasonal-trail-closures-and-the-gear-culture.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-07T06:24:51.734Z"
   },
   {
     "id": "bf512677-7c02-44c6-ab5b-91913e623d73",
