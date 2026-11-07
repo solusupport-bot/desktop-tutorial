@@ -39288,5 +39288,664 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-07T04:56:34.071Z",
     "blogUrl": "https://landinkorea.com/posts/korea-hailing-a-taxi-in-korea-kakao-t-vs-street-taxis-vs-airport-deluxe-cabs.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "77ef1184-16de-457f-9df8-a00416f90499",
+    "text": "Google Maps works everywhere… except Korea’s streets.\n\nBecause Korean law bans exporting precise map data, Google can’t give detailed walking or driving routes.\n\nLocals switch to Naver Map or Kakao Map, which have English UI and show exact subway exits and bus arrivals.\n\nIf you rely on Google, you may end up at the wrong entrance or miss the bus.\n\nDid you ever get lost using Google Maps in Seoul? Check the link in profile for the full fix.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794030798337-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794030798337-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-08T02:49:05.676Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-07T05:53:19.132Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/gcb4166cc1cb224c1a6cb3f1e71b8b83f699ce941a0ae368bbf6fccd5e943c7e0188e021a1b1a30c8885cbf80adf3f96f3f1a2bba39f1d1890195efb96e5948e7_1280.jpg#pixabay=7366036"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Why Google Maps fails in Korea and how the road-name address system actually works",
+    "qualityGate": {
+      "pass": false,
+      "reason": "주제인 Google Maps 실패 이유와 도로명 주소 시스템 설명 중 후자를 다루지 않아 내용이 부족합니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-07T05:53:18.337Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-07T05:53:19.107Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-why-google-maps-fails-in-korea-and-how-the-road-name-address-system-actually-works.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "077ac151-1267-4fa3-a42b-cdd885304164",
+    "text": "Google Maps works everywhere… except Korea, where it can’t give detailed walking routes because of export restrictions.\n1️⃣ Use Naver Map or Kakao Map (English available) for accurate on‑ground directions.\n2️⃣ Search a place on Google, copy the Korean name, then paste it into Naver/Kakao.\n3️⃣ These apps show real‑time bus arrivals and exact subway exits.\n4️⃣ Business hours and menus are far more reliable on the Korean apps.\n✅ Switch to Naver/Kakao for reliable navigation.\nHave you tried Naver Map yet? Save this for your trip 🌏\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-why-google-maps-fails-in-korea-and-how-the-road-name-address-system-actually-works.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794030798337-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794030798337-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-08T02:52:58.326Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-07T05:53:19.165Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/gcb4166cc1cb224c1a6cb3f1e71b8b83f699ce941a0ae368bbf6fccd5e943c7e0188e021a1b1a30c8885cbf80adf3f96f3f1a2bba39f1d1890195efb96e5948e7_1280.jpg#pixabay=7366036"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Why Google Maps fails in Korea and how the road-name address system actually works",
+    "qualityGate": {
+      "pass": false,
+      "reason": "주제인 Google Maps 실패 이유와 도로명 주소 시스템 설명 중 후자를 다루지 않아 내용이 부족합니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-07T05:53:18.337Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-07T05:53:19.144Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-why-google-maps-fails-in-korea-and-how-the-road-name-address-system-actually-works.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "406215b4-13b2-4efb-a59c-e2628a57c8f8",
+    "text": "Think Google Maps will guide you through Seoul’s streets?\nIt can’t—Korean law blocks detailed routes, so switch to Naver Map or Kakao Map (English available).\nWhat’s the most surprising thing you discovered when navigating Korea? Save this for your Korea trip.\n\n📖 Open the Land in Korea link in our profile and search “Why Google Maps fails in Korea and how the road-name address system actually works”.\n\n#KoreaTravel #VisitKorea #SeoulTrip #NaverMap #KakaoMap",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-11-08T02:57:28.230Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-07T05:53:19.190Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/gcb4166cc1cb224c1a6cb3f1e71b8b83f699ce941a0ae368bbf6fccd5e943c7e0188e021a1b1a30c8885cbf80adf3f96f3f1a2bba39f1d1890195efb96e5948e7_1280.jpg#pixabay=7366036"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Why Google Maps fails in Korea and how the road-name address system actually works",
+    "qualityGate": {
+      "pass": false,
+      "reason": "주제인 Google Maps 실패 이유와 도로명 주소 시스템 설명 중 후자를 다루지 않아 내용이 부족합니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-07T05:53:18.337Z"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-11-07T05:53:19.176Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "a08823eb-daf4-4f24-87bb-301ebc232c4b",
+    "text": "Google Maps works everywhere… except Korea’s streets.\n\nKorean law forbids exporting precise map data, so Google can’t give you detailed walking or driving directions.\n\nLocals use Naver Map or Kakao Map, both with English interfaces, for exact subway exits and bus arrivals.\n\nRelying on Google may drop you at the wrong entrance or make you miss the bus.\n\nDid Google ever lead you astray in Seoul? #KoreaTravel #NaverMap",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794030798337-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794030798337-v0-0.jpg"
+    ],
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-11-08T03:17:43.761Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-07T05:53:19.213Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/gcb4166cc1cb224c1a6cb3f1e71b8b83f699ce941a0ae368bbf6fccd5e943c7e0188e021a1b1a30c8885cbf80adf3f96f3f1a2bba39f1d1890195efb96e5948e7_1280.jpg#pixabay=7366036"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Why Google Maps fails in Korea and how the road-name address system actually works",
+    "qualityGate": {
+      "pass": false,
+      "reason": "주제인 Google Maps 실패 이유와 도로명 주소 시스템 설명 중 후자를 다루지 않아 내용이 부족합니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-07T05:53:18.337Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-07T05:53:19.200Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-why-google-maps-fails-in-korea-and-how-the-road-name-address-system-actually-works.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "c9c22b54-84d1-4783-93c4-1dedc1a6d99b",
+    "text": "Google Maps works everywhere… except Korea’s streets.\n\nKorean law prohibits exporting precise map data, so Google can’t provide detailed walking or driving routes.\n\nLocals rely on Naver Map or Kakao Map, both offering English interfaces and precise subway exit and bus arrival info.\n\nIf you stick with Google, you risk ending up at the wrong entrance or missing your bus.\n\nDid you ever get misdirected by Google in Seoul? #TravelTips #Seoul #NaverMap #KakaoMap",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794030798337-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794030798337-v0-0.jpg"
+    ],
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-11-08T03:46:57.190Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-07T05:53:19.235Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/gcb4166cc1cb224c1a6cb3f1e71b8b83f699ce941a0ae368bbf6fccd5e943c7e0188e021a1b1a30c8885cbf80adf3f96f3f1a2bba39f1d1890195efb96e5948e7_1280.jpg#pixabay=7366036"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Why Google Maps fails in Korea and how the road-name address system actually works",
+    "qualityGate": {
+      "pass": false,
+      "reason": "주제인 Google Maps 실패 이유와 도로명 주소 시스템 설명 중 후자를 다루지 않아 내용이 부족합니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-07T05:53:18.337Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-07T05:53:19.222Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-why-google-maps-fails-in-korea-and-how-the-road-name-address-system-actually-works.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "9cab8b0c-869b-491b-9f5b-1b35019483a5",
+    "text": "At Jongno 3‑ga subway station, using the wrong exit can add a ten‑minute walk back to your destination.\n\nLarge stations often have 10 + exits; Naver and Kakao Maps label the exact exit and even the car door you should board to land right by the stairs.\n\nTransfers differ: some are cross‑platform, but stations like Gongdeok require long corridors, so fewer transfers can be faster than a shorter line.\n\nAlways check the exit number before you descend – a quick map glance saves time and avoids missing the last train.\n\nDid you ever get lost because of an exit? Share your story and open the Land in Korea link in the profile.\n\n📖 Open the Land in Korea link in our profile and search “Seoul subway details nobody tells you: exit numbers, transfer walks, express trains, and the last train”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794030853203-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794030853203-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-07T14:07:04.640Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-07T05:54:13.957Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/gbe105ee3a5e8aa689fa048088228b1d2ef6490cce9d0d3bb1325b452635e60a01a3f9f793a04813061596a2c85f1c07bf64504a916691f41fc4a9a95aa4017b5_1280.jpg#pixabay=7459162"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Seoul subway details nobody tells you: exit numbers, transfer walks, express trains, and the last train",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련 있으며 문장도 자연스럽고 사실도 크게 과장되지 않아 여행 콘텐츠로 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-07T05:54:08.972Z",
+      "pattern": "A"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-seoul-subway-details-nobody-tells-you-exit-numbers-transfer-walks-express-trains-and-the-last-train.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "0d270334-c183-468f-9f87-b112fc9b0463",
+    "text": "Choosing the wrong exit at Seoul's subway stations can add up to a ten‑minute detour – here’s how to avoid it.\n1️⃣ Check the exit number on Naver or Kakao before you leave the platform.\n2️⃣ Look for car‑door info so you step out right by the transfer stairs.\n3️⃣ Favor routes with fewer transfers, even if the line is longer.\n4️⃣ Remember stations like Gongdeok or Jongno 3‑ga have long corridors.\n✅ Exit‑check  ✅ Transfer‑plan  ✅ Save time\nWhich exit saved you the most time on your first Seoul trip? Send this to a friend heading to Korea.\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-seoul-subway-details-nobody-tells-you-exit-numbers-transfer-walks-express-trains-and-the-last-train.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794030853203-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794030853203-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-07T14:09:24.812Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-07T05:54:13.983Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/gbe105ee3a5e8aa689fa048088228b1d2ef6490cce9d0d3bb1325b452635e60a01a3f9f793a04813061596a2c85f1c07bf64504a916691f41fc4a9a95aa4017b5_1280.jpg#pixabay=7459162"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Seoul subway details nobody tells you: exit numbers, transfer walks, express trains, and the last train",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련 있으며 문장도 자연스럽고 사실도 크게 과장되지 않아 여행 콘텐츠로 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-07T05:54:08.972Z",
+      "pattern": "A"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-seoul-subway-details-nobody-tells-you-exit-numbers-transfer-walks-express-trains-and-the-last-train.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "a29d945c-2353-4b22-8dd7-ccd211474153",
+    "text": "Stuck at Jongno 3‑ga because you picked the wrong exit? 🤔\nSeoul stations have 10 + exits – use Naver/Kakao to see the exact exit and the train car you need.\nWhat’s the most confusing exit you’ve faced? Save this for your Korea trip.\n\n📖 Open the Land in Korea link in our profile and search “Seoul subway details nobody tells you: exit numbers, transfer walks, express trains, and the last train”.\n\n#KoreaTravel #VisitKorea #SeoulTrip #Jongno3ga #SeoulSubway",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-11-07T14:14:20.335Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-07T05:54:14.011Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/gbe105ee3a5e8aa689fa048088228b1d2ef6490cce9d0d3bb1325b452635e60a01a3f9f793a04813061596a2c85f1c07bf64504a916691f41fc4a9a95aa4017b5_1280.jpg#pixabay=7459162"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Seoul subway details nobody tells you: exit numbers, transfer walks, express trains, and the last train",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련 있으며 문장도 자연스럽고 사실도 크게 과장되지 않아 여행 콘텐츠로 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-07T05:54:08.972Z",
+      "pattern": "A"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-11-07T05:54:13.997Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "97d01fe7-1a72-43c0-9d32-9b5c0a0bae96",
+    "text": "At Jongno 3‑ga station, picking the wrong exit can add a ten‑minute walk to your route.\n\nStations often have more than ten exits; Naver and Kakao Maps list the exact exit and even the car door you should board to land right by the transfer stairs.\n\nTransfers vary – some are cross‑platform, but places like Gongdeok require long corridors, so fewer transfers may be quicker.\n\nAlways confirm the exit number before you descend; a quick map check prevents missing the last train.\n\nDid an exit ever cost you time in Seoul? #KoreaTravel #Jongno3ga",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794030853203-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794030853203-v0-0.jpg"
+    ],
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-11-07T14:33:35.229Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-07T05:54:14.040Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/gbe105ee3a5e8aa689fa048088228b1d2ef6490cce9d0d3bb1325b452635e60a01a3f9f793a04813061596a2c85f1c07bf64504a916691f41fc4a9a95aa4017b5_1280.jpg#pixabay=7459162"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Seoul subway details nobody tells you: exit numbers, transfer walks, express trains, and the last train",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련 있으며 문장도 자연스럽고 사실도 크게 과장되지 않아 여행 콘텐츠로 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-07T05:54:08.972Z",
+      "pattern": "A"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-seoul-subway-details-nobody-tells-you-exit-numbers-transfer-walks-express-trains-and-the-last-train.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "1352f3ea-e2c4-4642-aa43-c4075115157f",
+    "text": "At Jongno 3‑ga station, using the wrong exit can add a ten‑minute walk to your route.\n\nStations often have more than ten exits; Naver and Kakao Maps list the exact exit and even the car door you should board to land right by the transfer stairs.\n\nTransfers vary – some are cross‑platform, but stations like Gongdeok have long corridors, so fewer transfers may be faster.\n\nAlways verify the exit number before you go down; a quick map glance saves time and avoids missing the last train.\n\nDid an exit ever add minutes to your Seoul trip? #KoreaTravel #TravelTips #Jongno3ga #SeoulSubway",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794030853203-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794030853203-v0-0.jpg"
+    ],
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-11-07T15:06:05.176Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-07T05:54:14.068Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/gbe105ee3a5e8aa689fa048088228b1d2ef6490cce9d0d3bb1325b452635e60a01a3f9f793a04813061596a2c85f1c07bf64504a916691f41fc4a9a95aa4017b5_1280.jpg#pixabay=7459162"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Seoul subway details nobody tells you: exit numbers, transfer walks, express trains, and the last train",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련 있으며 문장도 자연스럽고 사실도 크게 과장되지 않아 여행 콘텐츠로 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-07T05:54:08.972Z",
+      "pattern": "A"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-seoul-subway-details-nobody-tells-you-exit-numbers-transfer-walks-express-trains-and-the-last-train.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "ee7876f5-dcc7-4623-b5ec-1d9745c73ffd",
+    "text": "You think you need a hotel and big deposit to stay a month in Seoul? Not anymore.\n\nInstead, many foreigners choose goshiwons—tiny private rooms with no deposit and utilities included.\n\nGoshiwons were built for exam takers, so they’re windowless but instantly available for a few weeks.\n\nIf you need more space, share houses or monthly guesthouses give private or shared rooms with lighter contracts—watch for hidden fees.\n\nDid you expect affordable month‑long stays without a deposit? Share your surprise or other options you tried. Open the Land in Korea link.\n\n📖 Open the Land in Korea link in our profile and search “Short-term vs. long-term housing in Korea: guesthouse, goshiwon, officetel, and the deposit system”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794030953044-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794030953044-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-08T00:50:18.809Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-07T05:55:53.672Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/29373791/pexels-photo-29373791.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Short-term vs. long-term housing in Korea: guesthouse, goshiwon, officetel, and the deposit system",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 자연스러운 문장이며 사실도 크게 과장되지 않아 여행 콘텐츠로 충분히 유용합니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-07T05:55:39.984Z",
+      "pattern": "C"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-short-term-vs-long-term-housing-in-korea-guesthouse-goshiwon-officetel-and-the-deposit-system.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "c91b25ed-e6e1-4dc7-8cc5-349fdf727dc2",
+    "text": "Think you need a hotel and a hefty deposit for a month in Seoul? Think again—goshiwons let you rent a tiny room with no deposit and utilities included.\n\n1️⃣ Goshiwon: private room, month‑to‑month, no deposit, utilities covered.\n2️⃣ Share house/guesthouse: private or shared rooms, lighter contracts, more space.\n3️⃣ Airbnb‑style rentals exist but many are unregistered and can be cancelled.\n4️⃣ Quick tip: verify the listing’s license before booking.\n\n✅ No‑deposit stay? Check goshiwon or share house listings first.\n\nDid you know about these options? Save this for your trip or send to a friend heading to Korea.\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-short-term-vs-long-term-housing-in-korea-guesthouse-goshiwon-officetel-and-the-deposit-system.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794030953044-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794030953044-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-08T00:55:06.026Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-07T05:55:53.702Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/29373791/pexels-photo-29373791.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Short-term vs. long-term housing in Korea: guesthouse, goshiwon, officetel, and the deposit system",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 자연스러운 문장이며 사실도 크게 과장되지 않아 여행 콘텐츠로 충분히 유용합니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-07T05:55:39.984Z",
+      "pattern": "C"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-short-term-vs-long-term-housing-in-korea-guesthouse-goshiwon-officetel-and-the-deposit-system.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "6609e63f-5c2d-44ff-87ad-f94e1aebe464",
+    "text": "Staying a month in Seoul without a hotel deposit? Here's the secret.\n\nGoshiwons are tiny private rooms you can rent monthly—no deposit, utilities included.\n\nDid you expect to find affordable month‑long stays like this? Save this for your Korea trip.\n\n📖 Open the Land in Korea link in our profile and search “Short-term vs. long-term housing in Korea: guesthouse, goshiwon, officetel, and the deposit system”.\n\n#KoreaTravel #VisitKorea #SeoulTrip #Goshiwon #ShareHouse",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-11-08T00:57:05.050Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-07T05:55:53.730Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/29373791/pexels-photo-29373791.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Short-term vs. long-term housing in Korea: guesthouse, goshiwon, officetel, and the deposit system",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 자연스러운 문장이며 사실도 크게 과장되지 않아 여행 콘텐츠로 충분히 유용합니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-07T05:55:39.984Z",
+      "pattern": "C"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-11-07T05:55:53.712Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "cf1900d2-f736-4d1e-82c9-19baa18f04a4",
+    "text": "You think you need a hotel and a big deposit to stay a month in Seoul? Not anymore.\n\nInstead, many foreigners pick goshiwons—tiny private rooms, month‑to‑month, no deposit, utilities included.\n\nGoshiwons were made for exam takers, so they’re windowless but ready instantly for a few weeks.\n\nIf you want more space, share houses or monthly guesthouses offer private or shared rooms with lighter contracts—watch for hidden fees.\n\nDid you expect affordable month‑long stays without a deposit? What’s your experience? #KoreaTravel #Goshiwon",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794030953044-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794030953044-v0-0.jpg"
+    ],
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-11-08T01:19:44.205Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-07T05:55:53.753Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/29373791/pexels-photo-29373791.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Short-term vs. long-term housing in Korea: guesthouse, goshiwon, officetel, and the deposit system",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 자연스러운 문장이며 사실도 크게 과장되지 않아 여행 콘텐츠로 충분히 유용합니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-07T05:55:39.984Z",
+      "pattern": "C"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-short-term-vs-long-term-housing-in-korea-guesthouse-goshiwon-officetel-and-the-deposit-system.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "5307333f-7544-4917-b9a3-8a7b50fb6b90",
+    "text": "You think you need a hotel and a big deposit to stay a month in Seoul? Not anymore.\n\nInstead, many foreigners pick goshiwons—tiny private rooms, month‑to‑month, no deposit, utilities included.\n\nGoshiwons were built for exam takers, so they’re windowless but instantly available for a few weeks.\n\nNeed more space? Share houses or monthly guesthouses give private or shared rooms with lighter contracts—just check for hidden fees.\n\nDid you expect affordable month‑long stays without a deposit? Share your story. #KoreaTravel #Seoul #Goshiwon",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794030953044-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794030953044-v0-0.jpg"
+    ],
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-11-08T01:47:00.069Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-07T05:55:53.776Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/29373791/pexels-photo-29373791.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Short-term vs. long-term housing in Korea: guesthouse, goshiwon, officetel, and the deposit system",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 자연스러운 문장이며 사실도 크게 과장되지 않아 여행 콘텐츠로 충분히 유용합니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-07T05:55:39.984Z",
+      "pattern": "C"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-short-term-vs-long-term-housing-in-korea-guesthouse-goshiwon-officetel-and-the-deposit-system.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "9b226e4d-449e-4d6a-861f-ee93656b0eef",
+    "text": "Trying to open a Korean bank account right after landing at Incheon? Stop before you sign any forms.\n\nYou need your Alien Registration Card (ARC) first—banks won’t give you full access without it.\n\nA passport‑only account exists, but it caps transfers and blocks overseas remittance until the ARC arrives.\n\nAlso, register a Korean phone number in your name; online banking and ID verification rely on it.\n\nDid you waste time on a limited account before getting your ARC? Share your story and open the Land in Korea link in the profile.\n\n📖 Open the Land in Korea link in our profile and search “Opening a Korean bank account as a foreigner — and why your ARC and phone number come first”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794031029910-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794031029910-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-08T01:15:26.815Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-07T05:57:10.631Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31909240/pexels-photo-31909240.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Opening a Korean bank account as a foreigner — and why your ARC and phone number come first",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽게 구성돼 있으며, 과장된 주장 없이 유용한 정보를 제공한다",
+      "model": "groq",
+      "checkedAt": "2026-11-07T05:56:59.210Z",
+      "pattern": "A"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-opening-a-korean-bank-account-as-a-foreigner-and-why-your-arc-and-phone-number-come-first.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "0911a884-a328-4f07-9ca0-54f80535c934",
+    "text": "Don't try to open a Korean bank account before you have your ARC—here's why:\n1️⃣ ARC is required for a full account and online banking.\n2️⃣ A Korean phone number in your name is needed for identity verification.\n3️⃣ Passport‑only accounts are limited and block overseas remittance.\n4️⃣ Visit foreign‑customer desks near universities or industrial areas.\n5️⃣ Bring passport, ARC (or receipt), address or employment proof, and your phone.\n✔️ ARC, Korean phone, address proof – ready to open.\nSend this to a friend who’s moving to Korea.\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-opening-a-korean-bank-account-as-a-foreigner-and-why-your-arc-and-phone-number-come-first.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794031029910-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794031029910-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-08T01:23:09.231Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-07T05:57:10.654Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31909240/pexels-photo-31909240.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Opening a Korean bank account as a foreigner — and why your ARC and phone number come first",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽게 구성돼 있으며, 과장된 주장 없이 유용한 정보를 제공한다",
+      "model": "groq",
+      "checkedAt": "2026-11-07T05:56:59.210Z",
+      "pattern": "A"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-opening-a-korean-bank-account-as-a-foreigner-and-why-your-arc-and-phone-number-come-first.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "bf4b0417-c1db-4e04-9a4d-4a4174ccce71",
+    "text": "About to fill out a bank form at a Seoul branch right after landing? Hold that pen!\nYou must have your Alien Registration Card (ARC) first, plus a Korean phone number in your name, or the account stays limited.\nWhat surprised you most about Korea’s banking paperwork? Save this for your Korea trip.\n\n📖 Open the Land in Korea link in our profile and search “Opening a Korean bank account as a foreigner — and why your ARC and phone number come first”.\n\n#KoreaTravel #SeoulTrip #ARC #KoreanBankAccount #FirstTimeInKorea",
+    "imageUrl": null,
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-11-08T01:28:26.092Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-07T05:57:10.680Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31909240/pexels-photo-31909240.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Opening a Korean bank account as a foreigner — and why your ARC and phone number come first",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽게 구성돼 있으며, 과장된 주장 없이 유용한 정보를 제공한다",
+      "model": "groq",
+      "checkedAt": "2026-11-07T05:56:59.210Z",
+      "pattern": "A"
+    },
+    "rejectedBy": "no-media",
+    "rejectedAt": "2026-11-07T05:57:10.666Z",
+    "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "e816905a-7a73-466e-b99f-2d3272a772c4",
+    "text": "Planning to open a Korean bank account the day you arrive at Incheon? Don't sign anything yet.\n\nBanks require your Alien Registration Card (ARC) before they’ll give you a fully functional account.\n\nA passport‑only account exists, but it caps transfers and blocks overseas remittance until your ARC arrives.\n\nYou also need a Korean phone number registered in your name for online banking and identity verification.\n\nDid you waste time on a limited account before getting your ARC? Check the Land in Korea link in my profile. #KoreaTravel #ARC",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794031029910-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794031029910-v0-0.jpg"
+    ],
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-11-08T01:43:02.191Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-07T05:57:10.706Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31909240/pexels-photo-31909240.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Opening a Korean bank account as a foreigner — and why your ARC and phone number come first",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽게 구성돼 있으며, 과장된 주장 없이 유용한 정보를 제공한다",
+      "model": "groq",
+      "checkedAt": "2026-11-07T05:56:59.210Z",
+      "pattern": "A"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-opening-a-korean-bank-account-as-a-foreigner-and-why-your-arc-and-phone-number-come-first.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "bd09d9ef-2fd4-40ff-ae26-10ee91892868",
+    "text": "Planning to open a Korean bank account the moment you step off the Incheon plane? Pause before you fill out forms.\n\nThe bank will only issue a full account once you present your Alien Registration Card (ARC).\n\nPassport‑only accounts are possible but they limit transfers and block overseas remittance until the ARC is issued.\n\nA Korean phone number in your own name is also mandatory for online banking and ID checks.\n\nDid you run into these hurdles? Share your experience. #KoreaTravel #ARC #BankAccount",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794031029910-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794031029910-v0-0.jpg"
+    ],
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-11-08T02:17:42.004Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-07T05:57:10.735Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31909240/pexels-photo-31909240.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Opening a Korean bank account as a foreigner — and why your ARC and phone number come first",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽게 구성돼 있으며, 과장된 주장 없이 유용한 정보를 제공한다",
+      "model": "groq",
+      "checkedAt": "2026-11-07T05:56:59.210Z",
+      "pattern": "A"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-opening-a-korean-bank-account-as-a-foreigner-and-why-your-arc-and-phone-number-come-first.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
   }
 ]
