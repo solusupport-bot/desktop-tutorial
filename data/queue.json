@@ -38988,5 +38988,38 @@
     "rejectedBy": "no-media",
     "rejectedAt": "2026-11-07T00:25:28.088Z",
     "rejectReason": "검증 통과한 사진/영상 없음"
+  },
+  {
+    "id": "5246131b-fa36-4deb-984b-21bb98c7aea1",
+    "text": "Planning to hop on a KTX from Seoul to Busan tomorrow? Don't book unless you check the Korean holiday calendar first.\n\nChuseok (mid‑Sept) and Seollal (late Jan/Feb) are the only two times the whole country travels, filling trains and flights weeks ahead.\n\nEven highways gridlock, and many attractions close, so you’ll waste hours stuck in traffic.\n\nIf you must travel then, book tickets at least a month early or pick off‑peak dates right after the holidays.\n\nDid you ever get stranded because you missed these holidays? Share your story. Open the Land in Korea link in my profile for more.\n\n📖 Open the Land in Korea link in our profile and search “Korean public holidays that disrupt travel plans”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794011181104-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794011181104-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-07T05:34:53.855Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-07T00:26:22.432Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/6019392/pexels-photo-6019392.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Korean public holidays that disrupt travel plans",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 부합하고 문장이 자연스러우며 사실도 크게 과장되지 않아 여행 정보로서 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-07T00:26:19.106Z",
+      "pattern": "A"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-korean-public-holidays-that-disrupt-travel-plans.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
