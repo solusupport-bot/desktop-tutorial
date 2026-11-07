@@ -38061,8 +38061,12 @@
       "threads"
     ],
     "scheduledAt": "2026-11-05T16:15:17.163Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18119500538087647"
+      }
+    },
     "createdAt": "2026-11-05T00:29:07.187Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -38081,7 +38085,8 @@
       "checkedAt": "2026-11-05T00:29:03.995Z",
       "pattern": "A"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-reserving-restaurants-and-joining-waitlists-in-korea-catch-table-naver-booking-and-the-tabling-tablet.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-reserving-restaurants-and-joining-waitlists-in-korea-catch-table-naver-booking-and-the-tabling-tablet.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-07T09:24:54.535Z"
   },
   {
     "id": "95f619fb-b38a-4d3a-b291-9700738238e6",
