@@ -38980,7 +38980,7 @@
       "threads"
     ],
     "scheduledAt": "2026-11-06T23:53:48.999Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-06T22:54:43.106Z",
     "approved": true,
