@@ -40,6 +40,7 @@ const { searchMastodonByHashtag, replyToMastodonStatus, getOwnHandle } = require
 const { draftComment } = require('../lib/ai/comment_draft');
 const { canPublishNow, recordPublishResult } = require('../lib/scheduler/api_safety');
 const { isPlatformPaused } = require('../lib/scheduler/paused_platforms');
+const { isHalted, checkAndHalt } = require('../lib/scheduler/engagement_halt');
 const { getBlogLinkForTopic, withUtm } = require('../lib/ingestion/topic_blog_links');
 
 const TOPIC_BANK = require('../data/topic_bank.json');
@@ -121,6 +122,10 @@ const jitter = (minMs, maxMs) => sleep(minMs + Math.random() * (maxMs - minMs));
 
 const runBluesky = async ({ live, max, logState }) => {
   log.section('Bluesky — 다른 계정 글 찾기');
+  if (isHalted('bluesky')) {
+    log.warn('Bluesky 비상정지 상태(data/engagement_halt.json) — 봇 탐지 신호가 있었습니다. 건너뜁니다.');
+    return;
+  }
   const ownHandle = (process.env.BLUESKY_IDENTIFIER || '').replace(/\.bsky\.social$/, '').toLowerCase();
   const seen = new Set(logState.bluesky?.seen || []);
   const candidates = [];
@@ -168,10 +173,13 @@ const runBluesky = async ({ live, max, logState }) => {
       break;
     }
     const result = await replyToBlueskyPost({ uri: post.uri, cid: post.cid, text: draft.comment });
-    recordPublishResult('bluesky_comment', Boolean(result));
-    if (result) {
+    const success = Boolean(result && !result.error);
+    recordPublishResult('bluesky_comment', success);
+    if (success) {
       markSeen(logState, 'bluesky', post.uri);
       saveLog(logState);
+    } else if (result?.error && checkAndHalt('bluesky', result.error)) {
+      break;
     }
     await jitter(20000, 70000);
   }
@@ -181,6 +189,10 @@ const runReddit = async ({ live, max, logState }) => {
   log.section('Reddit — 다른 계정 글 찾기');
   if (isPlatformPaused('reddit')) {
     log.warn('Reddit이 일시 중지 상태입니다(lib/scheduler/paused_platforms.js) — 발행 방식이 고장난 원인을 먼저 고칠 것. 건너뜁니다.');
+    return;
+  }
+  if (isHalted('reddit')) {
+    log.warn('Reddit 비상정지 상태(data/engagement_halt.json) — 봇 탐지 신호가 있었습니다. 건너뜁니다.');
     return;
   }
   const ownUsername = (process.env.REDDIT_USERNAME || '').toLowerCase();
@@ -227,10 +239,13 @@ const runReddit = async ({ live, max, logState }) => {
       break;
     }
     const result = await postRedditComment({ thingId: post.id, text: draft.comment });
-    recordPublishResult('reddit_comment', Boolean(result));
-    if (result) {
+    const success = Boolean(result && !result.error);
+    recordPublishResult('reddit_comment', success);
+    if (success) {
       markSeen(logState, 'reddit', post.id);
       saveLog(logState);
+    } else if (result?.error && checkAndHalt('reddit', result.error)) {
+      break;
     }
     await jitter(20000, 70000);
   }
@@ -238,6 +253,10 @@ const runReddit = async ({ live, max, logState }) => {
 
 const runMastodon = async ({ live, max, logState }) => {
   log.section('Mastodon — 다른 계정 글 찾기');
+  if (isHalted('mastodon')) {
+    log.warn('Mastodon 비상정지 상태(data/engagement_halt.json) — 봇 탐지 신호가 있었습니다. 건너뜁니다.');
+    return;
+  }
   const ownAcct = (await getOwnHandle()) || '';
   const seen = new Set(logState.mastodon?.seen || []);
   const candidates = [];
@@ -285,10 +304,13 @@ const runMastodon = async ({ live, max, logState }) => {
       break;
     }
     const result = await replyToMastodonStatus({ statusId: post.id, text: draft.comment });
-    recordPublishResult('mastodon_comment', Boolean(result));
-    if (result) {
+    const success = Boolean(result && !result.error);
+    recordPublishResult('mastodon_comment', success);
+    if (success) {
       markSeen(logState, 'mastodon', post.id);
       saveLog(logState);
+    } else if (result?.error && checkAndHalt('mastodon', result.error)) {
+      break;
     }
     await jitter(20000, 70000);
   }

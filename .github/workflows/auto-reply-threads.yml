@@ -1,0 +1,68 @@
+name: Auto-reply to Threads comments
+
+# scripts/auto-reply-threads.js를 돌리는 워크플로 — 우리 Threads 게시물에 달린 새
+# 댓글을 스스로 찾아 AI로 답글을 작성해 올린다(2026-11-08 사용자 요청: "진짜
+# 자동화로 가자"). 간격/일일한도는 lib/scheduler/api_safety.js의 threads_reply
+# 정책을 따르고, 봇 탐지 신호가 오면 lib/scheduler/engagement_halt.js가 즉시
+# 영구정지한다. 특정 댓글을 직접 지정해서 답하는 기존 수동 도구
+# (.github/workflows/reply-to-thread.yml)와는 별개 — 그쪽은 그대로 둔다.
+on:
+  schedule:
+    - cron: '*/10 * * * *'
+  workflow_dispatch:
+    inputs:
+      live:
+        description: '실제로 게시할지 (false면 미리보기만)'
+        type: boolean
+        default: false
+      max:
+        description: '이번 실행에서 최대 답글 수'
+        type: string
+        default: '3'
+
+# 10분 간격 스케줄 실행끼리 겹쳐서 상태저장 git push가 충돌나지 않도록 동시 실행을
+# 1개로 제한한다.
+concurrency:
+  group: auto-reply-threads
+  cancel-in-progress: false
+
+jobs:
+  reply:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm ci
+      - name: Run auto-reply script
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+          THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
+        run: |
+          if [ "${{ github.event_name }}" = "schedule" ]; then
+            ARGS="--live"
+          else
+            ARGS="--max ${{ inputs.max }}"
+            if [ "${{ inputs.live }}" = "true" ]; then ARGS="$ARGS --live"; fi
+          fi
+          node scripts/auto-reply-threads.js $ARGS
+
+      - name: Persist reply log / rate-limit state
+        if: always()
+        run: |
+          FILES="data/thread_reply_log.json data/api_safety_state.json"
+          if [ -f data/engagement_halt.json ]; then FILES="$FILES data/engagement_halt.json"; fi
+          if [ -z "$(git status --porcelain -- $FILES)" ]; then
+            echo "No state changes to persist."
+            exit 0
+          fi
+          git config user.name "sns-automation-bot"
+          git config user.email "actions@github.com"
+          git add $FILES
+          git commit -m "chore: update thread reply log / rate-limit state"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"

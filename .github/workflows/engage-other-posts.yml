@@ -1,10 +1,15 @@
 name: Engage other posts (comments)
 
-# scripts/engage-other-posts.js를 수동으로 돌리는 워크플로. 로컬 PC/네트워크와
-# 무관하게 GitHub Actions 러너에서 실행되므로, 로컬 샌드박스에서 Bluesky 공개 검색이
-# 403으로 막히는 문제와 별개로 실제 동작을 확인할 수 있다. 기본은 dry-run(live=false) —
-# 미리보기만 하고 아무것도 올리지 않는다.
+# scripts/engage-other-posts.js를 돌리는 워크플로. 로컬 PC/네트워크와 무관하게
+# GitHub Actions 러너에서 실행된다.
+# 2026-11-08 사용자 지시("진짜 자동화로 가자", "공격적으로"): 15분마다 스케줄 실행을
+# 추가, live=true가 기본. 실제 속도는 lib/scheduler/api_safety.js의 플랫폼별
+# minIntervalMs/dailyMax가 정하고(이 워크플로는 그 안에서 기회가 될 때마다 시도만
+# 한다), 봇 탐지 신호가 오면 lib/scheduler/engagement_halt.js가 즉시 영구정지한다.
+# workflow_dispatch는 수동 테스트/미리보기용으로 그대로 남겨둔다(기본 dry-run).
 on:
+  schedule:
+    - cron: '*/15 * * * *'
   workflow_dispatch:
     inputs:
       live:
@@ -20,6 +25,12 @@ on:
         description: '이번 실행에서 플랫폼당 최대 댓글 수'
         type: string
         default: '2'
+
+# 15분 간격 스케줄 실행끼리 겹쳐서 상태저장 git push가 충돌나지 않도록(2026-11-05
+# 실측: 같은 날 수동 2연속 실행에서 이미 한 번 발생) 동시 실행을 1개로 제한한다.
+concurrency:
+  group: engage-other-posts
+  cancel-in-progress: false
 
 jobs:
   engage:
@@ -46,22 +57,30 @@ jobs:
           MASTODON_INSTANCE: ${{ secrets.MASTODON_INSTANCE }}
           MASTODON_ACCESS_TOKEN: ${{ secrets.MASTODON_ACCESS_TOKEN }}
         run: |
-          ARGS="--platform ${{ inputs.platform }} --max ${{ inputs.max }}"
-          if [ "${{ inputs.live }}" = "true" ]; then ARGS="$ARGS --live"; fi
+          if [ "${{ github.event_name }}" = "schedule" ]; then
+            ARGS="--platform all --live"
+          else
+            ARGS="--platform ${{ inputs.platform }} --max ${{ inputs.max }}"
+            if [ "${{ inputs.live }}" = "true" ]; then ARGS="$ARGS --live"; fi
+          fi
           node scripts/engage-other-posts.js $ARGS
 
       - name: Persist engagement/rate-limit state
-        # 실제 게시(live) 시에만 data/engagement_log.json·data/api_safety_state.json이
-        # 바뀐다 — 다음 실행이 중복 댓글/한도 초과를 피하려면 이 변경을 저장소에
-        # 커밋해둬야 한다(scheduler.yml의 claim 커밋과 같은 이유).
+        # 실제 게시(live) 시에만 data/engagement_log.json·data/api_safety_state.json·
+        # data/engagement_halt.json이 바뀐다 — 다음 실행이 중복 댓글/한도 초과/봇탐지
+        # 재시도를 피하려면 이 변경을 저장소에 커밋해둬야 한다(scheduler.yml의 claim
+        # 커밋과 같은 이유).
         if: always()
         run: |
-          if git diff --quiet -- data/engagement_log.json data/api_safety_state.json; then
+          FILES="data/engagement_log.json data/api_safety_state.json"
+          if [ -f data/engagement_halt.json ]; then FILES="$FILES data/engagement_halt.json"; fi
+          if [ -z "$(git status --porcelain -- $FILES)" ]; then
             echo "No state changes to persist."
             exit 0
           fi
           git config user.name "sns-automation-bot"
           git config user.email "actions@github.com"
-          git add data/engagement_log.json data/api_safety_state.json
+          git add $FILES
           git commit -m "chore: update engagement log / rate-limit state"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
           git push origin "HEAD:${GITHUB_REF_NAME}"
