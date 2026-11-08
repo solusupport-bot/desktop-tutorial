@@ -119,6 +119,30 @@
       "blockedUntil": null,
       "lastAttemptAt": "2026-11-05T09:24:47.623Z",
       "lastSuccessAt": "2026-11-05T09:24:47.623Z"
+    },
+    "bluesky_comment": {
+      "attempts": [
+        "2026-11-08T17:07:37.077Z"
+      ],
+      "successes": [
+        "2026-11-08T17:07:37.077Z"
+      ],
+      "consecutiveFailures": 0,
+      "blockedUntil": null,
+      "lastAttemptAt": "2026-11-08T17:07:37.077Z",
+      "lastSuccessAt": "2026-11-08T17:07:37.077Z"
+    },
+    "mastodon_comment": {
+      "attempts": [
+        "2026-11-08T17:08:49.706Z"
+      ],
+      "successes": [
+        "2026-11-08T17:08:49.706Z"
+      ],
+      "consecutiveFailures": 0,
+      "blockedUntil": null,
+      "lastAttemptAt": "2026-11-08T17:08:49.706Z",
+      "lastSuccessAt": "2026-11-08T17:08:49.706Z"
     }
   }
 }
