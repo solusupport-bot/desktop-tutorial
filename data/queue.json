@@ -38849,8 +38849,12 @@
       "threads"
     ],
     "scheduledAt": "2026-11-06T23:58:31.588Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18061952324549072"
+      }
+    },
     "createdAt": "2026-11-06T20:51:35.681Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -38869,7 +38873,8 @@
       "checkedAt": "2026-11-06T20:51:25.480Z",
       "pattern": "C"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-everland-vs-lotte-world-theme-parks.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-everland-vs-lotte-world-theme-parks.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-08T07:54:40.791Z"
   },
   {
     "id": "f0ef9e57-22e6-4745-b272-8fef34932cf5",
