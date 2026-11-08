@@ -39717,8 +39717,13 @@
       "facebook"
     ],
     "scheduledAt": "2026-11-08T00:55:06.026Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "122129659377446391",
+        "post_id": "1288453561012463_122129659401446391"
+      }
+    },
     "createdAt": "2026-11-07T05:55:53.702Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -39737,7 +39742,8 @@
       "checkedAt": "2026-11-07T05:55:39.984Z",
       "pattern": "C"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-short-term-vs-long-term-housing-in-korea-guesthouse-goshiwon-officetel-and-the-deposit-system.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-short-term-vs-long-term-housing-in-korea-guesthouse-goshiwon-officetel-and-the-deposit-system.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-08T01:53:30.743Z"
   },
   {
     "id": "6609e63f-5c2d-44ff-87ad-f94e1aebe464",
@@ -39782,8 +39788,13 @@
       "bluesky"
     ],
     "scheduledAt": "2026-11-08T01:19:44.205Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mzrcigwhuf2v",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3mzrcigwhuf2v"
+      }
+    },
     "createdAt": "2026-11-07T05:55:53.753Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -39802,7 +39813,8 @@
       "checkedAt": "2026-11-07T05:55:39.984Z",
       "pattern": "C"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-short-term-vs-long-term-housing-in-korea-guesthouse-goshiwon-officetel-and-the-deposit-system.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-short-term-vs-long-term-housing-in-korea-guesthouse-goshiwon-officetel-and-the-deposit-system.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-08T01:53:33.432Z"
   },
   {
     "id": "5307333f-7544-4917-b9a3-8a7b50fb6b90",
@@ -39815,8 +39827,13 @@
       "mastodon"
     ],
     "scheduledAt": "2026-11-08T01:47:00.069Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "mastodon": {
+        "id": "117578322097988803",
+        "url": "https://mastodon.social/@landinkorea/117578322097988803"
+      }
+    },
     "createdAt": "2026-11-07T05:55:53.776Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -39835,7 +39852,8 @@
       "checkedAt": "2026-11-07T05:55:39.984Z",
       "pattern": "C"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-short-term-vs-long-term-housing-in-korea-guesthouse-goshiwon-officetel-and-the-deposit-system.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-short-term-vs-long-term-housing-in-korea-guesthouse-goshiwon-officetel-and-the-deposit-system.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-08T01:53:36.557Z"
   },
   {
     "id": "9b226e4d-449e-4d6a-861f-ee93656b0eef",
