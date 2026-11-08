@@ -40159,8 +40159,12 @@
       "threads"
     ],
     "scheduledAt": "2026-11-07T07:36:23.214Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18134065618689920"
+      }
+    },
     "createdAt": "2026-11-07T07:19:03.652Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -40178,7 +40182,8 @@
       "model": "groq",
       "checkedAt": "2026-11-07T07:15:47.760Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-tipping-and-service-charges.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-tipping-and-service-charges.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-08T13:54:06.033Z"
   },
   {
     "id": "d8014b3f-70a1-4559-a351-f257bd3e7d65",
