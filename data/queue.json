@@ -41072,5 +41072,37 @@
       "checkedAt": "2026-11-08T06:23:48.345Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-tax-refund-tax-free-shopping.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "6c981edf-3595-48e6-b321-1c68b27d3c2b",
+    "text": "You won't find this in the usual travel advice.\n\nInsadong looks like a tourist strip until you realize it's Seoul's actual center for traditional Korean art, antiques, and hanji (traditional paper) — not a themed recreation.\n\nThe main street bans cars every Sunday, turning it into a full pedestrian zone with street performers and craft stalls.\n\nSsamziegil, a spiral-shaped shopping complex just off the main road, packs small design studios and craft shops into one building worth a dedicated stop.\n\nDid this trip you up your first time too? Drop a comment.\n\n📖 Open the Land in Korea link in our profile and search “Insadong traditional culture street”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794125126030-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794125126030-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-08T11:37:37.178Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-08T08:05:27.224Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31680627/pexels-photo-31680627.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Insadong traditional culture street",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련된 내용이며 문장도 자연스럽고 사실 주장에 큰 문제가 없어 발행해도 적합합니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-08T08:02:10.408Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-insadong-traditional-culture-street.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
