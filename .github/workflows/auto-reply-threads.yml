@@ -8,7 +8,10 @@ name: Auto-reply to Threads comments
 # (.github/workflows/reply-to-thread.yml)와는 별개 — 그쪽은 그대로 둔다.
 on:
   schedule:
-    - cron: '*/10 * * * *'
+    # 정각 기준 간격(0,10,20...분)은 전 세계 크론이 몰려 GitHub가 지연/스킵시킨다
+    # (scheduler.yml과 같은 공식 문서 경고, 2026-11-08 실측: */10으로 1시간+ 동안 한 번도
+    # 안 돎) — 04분 오프셋을 쓴다.
+    - cron: '4,14,24,34,44,54 * * * *'
   workflow_dispatch:
     inputs:
       live:

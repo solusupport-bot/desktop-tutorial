@@ -9,7 +9,10 @@ name: Engage other posts (comments)
 # workflow_dispatch는 수동 테스트/미리보기용으로 그대로 남겨둔다(기본 dry-run).
 on:
   schedule:
-    - cron: '*/15 * * * *'
+    # 정각/15분 정각(0,15,30,45분)은 전 세계 크론이 몰려 GitHub가 지연/스킵시킨다
+    # (scheduler.yml과 같은 공식 문서 경고, 2026-11-08 실측: */15로 1시간+ 동안 한 번도
+    # 안 돎) — 03분 오프셋을 쓴다.
+    - cron: '3,18,33,48 * * * *'
   workflow_dispatch:
     inputs:
       live:
