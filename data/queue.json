@@ -39055,8 +39055,12 @@
       "threads"
     ],
     "scheduledAt": "2026-11-07T05:34:53.855Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "17912651817489290"
+      }
+    },
     "createdAt": "2026-11-07T00:26:22.432Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -39075,7 +39079,8 @@
       "checkedAt": "2026-11-07T00:26:19.106Z",
       "pattern": "A"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-korean-public-holidays-that-disrupt-travel-plans.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-korean-public-holidays-that-disrupt-travel-plans.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-08T10:54:01.898Z"
   },
   {
     "id": "11c5deac-cd74-4852-9263-8cd4a152b161",
