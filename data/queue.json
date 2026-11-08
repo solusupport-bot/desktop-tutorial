@@ -40102,8 +40102,12 @@
       "threads"
     ],
     "scheduledAt": "2026-11-07T12:24:36.531Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "17996925731841072"
+      }
+    },
     "createdAt": "2026-11-07T06:26:15.084Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -40120,7 +40124,8 @@
       "checkedAt": "2026-11-07T06:26:13.087Z",
       "pattern": "O"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-food-delivery-apps-in-korea-why-signing-up-is-harder-than-ordering.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-food-delivery-apps-in-korea-why-signing-up-is-harder-than-ordering.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-08T19:54:57.232Z"
   },
   {
     "id": "89b3303f-e71d-4244-b379-7f141d6e191e",
