@@ -9,10 +9,13 @@ name: Engage other posts (comments)
 # workflow_dispatch는 수동 테스트/미리보기용으로 그대로 남겨둔다(기본 dry-run).
 on:
   schedule:
-    # 정각/15분 정각(0,15,30,45분)은 전 세계 크론이 몰려 GitHub가 지연/스킵시킨다
-    # (scheduler.yml과 같은 공식 문서 경고, 2026-11-08 실측: */15로 1시간+ 동안 한 번도
-    # 안 돎) — 03분 오프셋을 쓴다.
-    - cron: '3,18,33,48 * * * *'
+    # 2026-11-08 사용자 지시: "GitHub 같은 저장소에 트래픽이 몰려서 지난번처럼
+    # 정지되는 일이 없도록" — 기존 규칙(크론/자동화 고빈도 금지, 과거 Actions 정지
+    # 이력 있음)을 처음엔 놓치고 15분 간격으로 만들었다가 되돌림. 메인
+    # scheduler.yml과 같은 시간당 1회로 낮춘다 — "공격적으로"는 체크 빈도가 아니라
+    # lib/scheduler/api_safety.js의 dailyMax로 이미 반영돼 있어 시간당 1회로도
+    # 하루 목표치는 그대로 채울 수 있다. :07(scheduler.yml)과 겹치지 않게 :22 오프셋.
+    - cron: '22 * * * *'
   workflow_dispatch:
     inputs:
       live:
