@@ -122,15 +122,17 @@
     },
     "bluesky_comment": {
       "attempts": [
-        "2026-11-08T17:07:37.077Z"
+        "2026-11-08T17:07:37.077Z",
+        "2026-11-08T21:14:01.527Z"
       ],
       "successes": [
-        "2026-11-08T17:07:37.077Z"
+        "2026-11-08T17:07:37.077Z",
+        "2026-11-08T21:14:01.527Z"
       ],
       "consecutiveFailures": 0,
       "blockedUntil": null,
-      "lastAttemptAt": "2026-11-08T17:07:37.077Z",
-      "lastSuccessAt": "2026-11-08T17:07:37.077Z"
+      "lastAttemptAt": "2026-11-08T21:14:01.527Z",
+      "lastSuccessAt": "2026-11-08T21:14:01.527Z"
     },
     "mastodon_comment": {
       "attempts": [
