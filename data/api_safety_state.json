@@ -143,6 +143,18 @@
       "blockedUntil": null,
       "lastAttemptAt": "2026-11-08T17:08:49.706Z",
       "lastSuccessAt": "2026-11-08T17:08:49.706Z"
+    },
+    "threads_reply": {
+      "attempts": [
+        "2026-11-08T21:21:43.362Z"
+      ],
+      "successes": [
+        "2026-11-08T21:21:43.362Z"
+      ],
+      "consecutiveFailures": 0,
+      "blockedUntil": null,
+      "lastAttemptAt": "2026-11-08T21:21:43.362Z",
+      "lastSuccessAt": "2026-11-08T21:21:43.362Z"
     }
   }
 }
