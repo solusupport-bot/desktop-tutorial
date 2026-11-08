@@ -39125,8 +39125,12 @@
       "threads"
     ],
     "scheduledAt": "2026-11-07T10:14:06.427Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18111727610194231"
+      }
+    },
     "createdAt": "2026-11-07T00:53:35.126Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -39145,7 +39149,8 @@
       "checkedAt": "2026-11-07T00:53:00.266Z",
       "pattern": "C"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-first-timer-etiquette-common-mistakes.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-first-timer-etiquette-common-mistakes.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-08T16:53:55.601Z"
   },
   {
     "id": "01060ed1-ba5c-404e-bff2-3daed8cd9113",
@@ -40780,8 +40785,13 @@
       "bluesky"
     ],
     "scheduledAt": "2026-11-08T15:36:03.119Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mzsusixoyc2g",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3mzsusixoyc2g"
+      }
+    },
     "createdAt": "2026-11-08T06:03:55.557Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -40799,7 +40809,8 @@
       "model": "groq",
       "checkedAt": "2026-11-08T06:00:38.976Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-esim-mobile-data.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-esim-mobile-data.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-08T16:53:58.203Z"
   },
   {
     "id": "f86f7898-12ea-4a37-9a60-2181070f81a1",
@@ -40812,8 +40823,13 @@
       "mastodon"
     ],
     "scheduledAt": "2026-11-08T16:10:27.120Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "mastodon": {
+        "id": "117581862677658882",
+        "url": "https://mastodon.social/@landinkorea/117581862677658882"
+      }
+    },
     "createdAt": "2026-11-08T06:03:55.575Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -40831,7 +40847,8 @@
       "model": "groq",
       "checkedAt": "2026-11-08T06:00:38.976Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-esim-mobile-data.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-esim-mobile-data.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-08T16:54:01.500Z"
   },
   {
     "id": "343273c0-1fd7-4a7f-83c2-f97d1e77f16a",
