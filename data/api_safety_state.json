@@ -3,15 +3,17 @@
   "platforms": {
     "facebook": {
       "attempts": [
-        "2026-11-07T16:53:38.867Z"
+        "2026-11-07T16:53:38.867Z",
+        "2026-11-08T01:53:30.743Z"
       ],
       "successes": [
-        "2026-11-07T16:53:38.867Z"
+        "2026-11-07T16:53:38.867Z",
+        "2026-11-08T01:53:30.743Z"
       ],
       "consecutiveFailures": 0,
       "blockedUntil": null,
-      "lastAttemptAt": "2026-11-07T16:53:38.867Z",
-      "lastSuccessAt": "2026-11-07T16:53:38.867Z"
+      "lastAttemptAt": "2026-11-08T01:53:30.743Z",
+      "lastSuccessAt": "2026-11-08T01:53:30.743Z"
     },
     "threads": {
       "attempts": [
@@ -63,27 +65,31 @@
     },
     "bluesky": {
       "attempts": [
-        "2026-11-07T15:26:04.676Z"
+        "2026-11-07T15:26:04.676Z",
+        "2026-11-08T01:53:33.431Z"
       ],
       "successes": [
-        "2026-11-07T15:26:04.676Z"
+        "2026-11-07T15:26:04.676Z",
+        "2026-11-08T01:53:33.431Z"
       ],
       "consecutiveFailures": 0,
       "blockedUntil": null,
-      "lastAttemptAt": "2026-11-07T15:26:04.676Z",
-      "lastSuccessAt": "2026-11-07T15:26:04.676Z"
+      "lastAttemptAt": "2026-11-08T01:53:33.431Z",
+      "lastSuccessAt": "2026-11-08T01:53:33.431Z"
     },
     "mastodon": {
       "attempts": [
-        "2026-11-07T15:26:08.309Z"
+        "2026-11-07T15:26:08.309Z",
+        "2026-11-08T01:53:36.557Z"
       ],
       "successes": [
-        "2026-11-07T15:26:08.309Z"
+        "2026-11-07T15:26:08.309Z",
+        "2026-11-08T01:53:36.557Z"
       ],
       "consecutiveFailures": 0,
       "blockedUntil": null,
-      "lastAttemptAt": "2026-11-07T15:26:08.309Z",
-      "lastSuccessAt": "2026-11-07T15:26:08.309Z",
+      "lastAttemptAt": "2026-11-08T01:53:36.557Z",
+      "lastSuccessAt": "2026-11-08T01:53:36.557Z",
       "lastFailureAt": "2026-10-01T09:39:44.332Z"
     },
     "instagram": {
