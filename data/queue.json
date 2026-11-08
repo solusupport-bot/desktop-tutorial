@@ -38779,8 +38779,12 @@
       "threads"
     ],
     "scheduledAt": "2026-11-06T22:54:16.061Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18377366389241965"
+      }
+    },
     "createdAt": "2026-11-06T19:54:52.191Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -38799,7 +38803,8 @@
       "checkedAt": "2026-11-06T19:54:23.075Z",
       "pattern": "C"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-travel-advisories-safety-notices.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-travel-advisories-safety-notices.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-08T03:25:30.225Z"
   },
   {
     "id": "a7181a63-67bb-498a-8d31-b4bb3bf8f04d",
@@ -39964,8 +39969,13 @@
       "bluesky"
     ],
     "scheduledAt": "2026-11-08T01:43:02.191Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mzrhmwvc562w",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3mzrhmwvc562w"
+      }
+    },
     "createdAt": "2026-11-07T05:57:10.706Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -39984,7 +39994,8 @@
       "checkedAt": "2026-11-07T05:56:59.210Z",
       "pattern": "A"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-opening-a-korean-bank-account-as-a-foreigner-and-why-your-arc-and-phone-number-come-first.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-opening-a-korean-bank-account-as-a-foreigner-and-why-your-arc-and-phone-number-come-first.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-08T03:25:32.992Z"
   },
   {
     "id": "bd09d9ef-2fd4-40ff-ae26-10ee91892868",
@@ -39997,8 +40008,13 @@
       "mastodon"
     ],
     "scheduledAt": "2026-11-08T02:17:42.004Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "mastodon": {
+        "id": "117578683818164611",
+        "url": "https://mastodon.social/@landinkorea/117578683818164611"
+      }
+    },
     "createdAt": "2026-11-07T05:57:10.735Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -40017,7 +40033,8 @@
       "checkedAt": "2026-11-07T05:56:59.210Z",
       "pattern": "A"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-opening-a-korean-bank-account-as-a-foreigner-and-why-your-arc-and-phone-number-come-first.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-opening-a-korean-bank-account-as-a-foreigner-and-why-your-arc-and-phone-number-come-first.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-08T03:25:36.019Z"
   },
   {
     "id": "56b084bb-5435-4975-8ffe-4d42933149d7",
