@@ -41549,5 +41549,37 @@
       "checkedAt": "2026-11-09T12:31:49.817Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-reserving-restaurants-and-joining-waitlists-in-korea-catch-table-naver-booking-and-the-tabling-tablet.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "44852976-4fd1-46f3-b27b-1a4a692d77cd",
+    "text": "The guidebooks skip this part entirely. Self-service coin laundries (코인빨래방) are everywhere in residential and university neighborhoods, usually unstaffed and open 24 hours.\n\n1. Machines are sorted by capacity rather than load type, and detergent and softener are typically dispensed automatically as part of the wash cycle, so you don't need to bring your own.\n2. Payment is often by card or mobile as well as coins, and most shops have large dryers — which matters, because dryers are still far from standard in Korean homes.\n3. Instructions are frequently Korean-only, but the buttons follow a simple wash/dry/time pattern and many shops post an English or picture guide on the wall.\n\nDone any of these? Which surprised you most?\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-doing-laundry-in-korea-coin-laundromats-the-dryer-problem-and-neighborhood-dry-cleaners.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794233597686-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794233597686-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-09T22:59:42.812Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-09T14:13:18.476Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/18940195/pexels-photo-18940195.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Doing laundry in Korea: coin laundromats, the dryer problem, and neighborhood dry cleaners",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽고 사실도 신뢰할 수 있어 여행자에게 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-09T14:10:02.378Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-doing-laundry-in-korea-coin-laundromats-the-dryer-problem-and-neighborhood-dry-cleaners.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]
