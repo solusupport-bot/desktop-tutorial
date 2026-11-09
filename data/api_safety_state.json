@@ -123,28 +123,32 @@
     "bluesky_comment": {
       "attempts": [
         "2026-11-08T17:07:37.077Z",
-        "2026-11-08T21:14:01.527Z"
+        "2026-11-08T21:14:01.527Z",
+        "2026-11-09T08:04:52.079Z"
       ],
       "successes": [
         "2026-11-08T17:07:37.077Z",
-        "2026-11-08T21:14:01.527Z"
+        "2026-11-08T21:14:01.527Z",
+        "2026-11-09T08:04:52.079Z"
       ],
       "consecutiveFailures": 0,
       "blockedUntil": null,
-      "lastAttemptAt": "2026-11-08T21:14:01.527Z",
-      "lastSuccessAt": "2026-11-08T21:14:01.527Z"
+      "lastAttemptAt": "2026-11-09T08:04:52.079Z",
+      "lastSuccessAt": "2026-11-09T08:04:52.079Z"
     },
     "mastodon_comment": {
       "attempts": [
-        "2026-11-08T17:08:49.706Z"
+        "2026-11-08T17:08:49.706Z",
+        "2026-11-09T08:18:04.340Z"
       ],
       "successes": [
-        "2026-11-08T17:08:49.706Z"
+        "2026-11-08T17:08:49.706Z",
+        "2026-11-09T08:18:04.340Z"
       ],
       "consecutiveFailures": 0,
       "blockedUntil": null,
-      "lastAttemptAt": "2026-11-08T17:08:49.706Z",
-      "lastSuccessAt": "2026-11-08T17:08:49.706Z"
+      "lastAttemptAt": "2026-11-09T08:18:04.340Z",
+      "lastSuccessAt": "2026-11-09T08:18:04.340Z"
     },
     "threads_reply": {
       "attempts": [

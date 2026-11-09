@@ -2,7 +2,8 @@
   "bluesky": {
     "seen": [
       "at://did:plc:7dj7z7xj6m4pdulf65zmxnxq/app.bsky.feed.post/3mvtrakk5ps2l",
-      "at://did:plc:r7bp462cu4qqsstdvnf2ypyx/app.bsky.feed.post/3mcxhis7bx226"
+      "at://did:plc:r7bp462cu4qqsstdvnf2ypyx/app.bsky.feed.post/3mcxhis7bx226",
+      "at://did:plc:fr6j3klgg6t5gqk5dvocurnj/app.bsky.feed.post/3m632myg5ss2h"
     ]
   },
   "reddit": {
@@ -10,7 +11,8 @@
   },
   "mastodon": {
     "seen": [
-      "117580752883004870"
+      "117580752883004870",
+      "117576740555138240"
     ]
   }
 }
