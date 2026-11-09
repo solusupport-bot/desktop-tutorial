@@ -41147,5 +41147,37 @@
       "checkedAt": "2026-11-08T08:02:10.408Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-insadong-traditional-culture-street.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "de13402d-b5da-445d-93f5-a6a76fa30e3e",
+    "text": "You don’t need to wave at a taxi in Seoul – the app does it for you.\n\nMost locals use Kakao T; it drops your Korean destination on the map, so you never have to pronounce an address.\n\nThe app works with a foreign number, and you can pay the driver or link a card for automatic payment.\n\nStreet‑hailing late‑night in nightlife districts still works, but you may compete with many riders and drivers favor direction.\n\nDid you ever try flagging a cab in Seoul? What worked best for you? Open the Land in Korea link in the profile.\n\n📖 Open the Land in Korea link in our profile and search “Hailing a taxi in Korea: Kakao T vs. street taxis vs. airport 'deluxe' cabs”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794184342462-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794184342462-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-09T10:18:25.584Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-09T00:32:23.250Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g08ad5228ffbd680f14b5e73ff579b11d6561034730311753245c7507a1d48783e9a2448206b564b9eb43a61210e211281bf1f9eada64e27f0aad145685c02d9a_1280.jpg#pixabay=7111380"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Hailing a taxi in Korea: Kakao T vs. street taxis vs. airport 'deluxe' cabs",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 부합하고 문장이 자연스럽게 구성돼 있으며 과장된 주장 없이 여행자에게 유용한 정보가 포함되어 있습니다",
+      "model": "groq",
+      "checkedAt": "2026-11-09T00:29:07.042Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-hailing-a-taxi-in-korea-kakao-t-vs-street-taxis-vs-airport-deluxe-cabs.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
