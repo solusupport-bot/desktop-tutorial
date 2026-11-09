@@ -148,3 +148,21 @@ jobs:
 
       - name: Commit Threads quota backfill
         run: './scripts/ci-commit-push.sh "chore: backfill today Threads quota" data'
+
+      - name: Backfill today's Facebook quota
+        # 2026-11-09 사용자 지시: 페이스북이 링크 클릭 전환이 가장 잘 되는데 공유
+        # daily-auto-post 배치(하루 4건)만으로는 안전 한도(12건)의 1/4도 못 썼다 —
+        # ensure-instagram-daily.js/ensure-threads-daily.js와 동일 패턴.
+        env:
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+          PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
+          COVERR_API_KEY: ${{ secrets.COVERR_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TOUR_AUDIO_GUIDE_API_KEY: ${{ secrets.TOUR_AUDIO_GUIDE_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: node scripts/ensure-facebook-daily.js
+
+      - name: Commit Facebook quota backfill
+        run: './scripts/ci-commit-push.sh "chore: backfill today Facebook quota" data'
