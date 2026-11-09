@@ -1,0 +1,67 @@
+name: Auto-reply to Facebook comments
+
+# scripts/auto-reply-facebook.js를 돌리는 워크플로 — 우리 Facebook 페이지 글에 달린 새
+# 댓글을 스스로 찾아 AI로 답글을 작성해 올린다(2026-11-09 사용자 요청: "돈 안들이고
+# 할 수 있는 건 해보자" — auto-reply-threads.yml과 동일 패턴). 간격/일일한도는
+# lib/scheduler/api_safety.js의 facebook_reply 정책을 따르고, 봇 탐지 신호가 오면
+# lib/scheduler/engagement_halt.js가 즉시 영구정지한다.
+on:
+  schedule:
+    # 기존 규칙(크론/자동화 고빈도 금지) — 시간당 1회. :07(scheduler.yml)/:22
+    # (engage-other-posts)/:37(auto-reply-threads)와 겹치지 않게 :52 오프셋.
+    - cron: '52 * * * *'
+  workflow_dispatch:
+    inputs:
+      live:
+        description: '실제로 게시할지 (false면 미리보기만)'
+        type: boolean
+        default: false
+      max:
+        description: '이번 실행에서 최대 답글 수'
+        type: string
+        default: '3'
+
+concurrency:
+  group: auto-reply-facebook
+  cancel-in-progress: false
+
+jobs:
+  reply:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm ci
+      - name: Run auto-reply script
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+        run: |
+          if [ "${{ github.event_name }}" = "schedule" ]; then
+            ARGS="--live"
+          else
+            ARGS="--max ${{ inputs.max }}"
+            if [ "${{ inputs.live }}" = "true" ]; then ARGS="$ARGS --live"; fi
+          fi
+          node scripts/auto-reply-facebook.js $ARGS
+
+      - name: Persist reply log / rate-limit state
+        if: always()
+        run: |
+          FILES="data/facebook_reply_log.json data/api_safety_state.json"
+          if [ -f data/engagement_halt.json ]; then FILES="$FILES data/engagement_halt.json"; fi
+          if [ -z "$(git status --porcelain -- $FILES)" ]; then
+            echo "No state changes to persist."
+            exit 0
+          fi
+          git config user.name "sns-automation-bot"
+          git config user.email "actions@github.com"
+          git add $FILES
+          git commit -m "chore: update facebook reply log / rate-limit state"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
