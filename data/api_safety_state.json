@@ -153,16 +153,17 @@
     "threads_reply": {
       "attempts": [
         "2026-11-08T21:21:43.362Z",
-        "2026-11-09T01:11:04.962Z"
+        "2026-11-09T01:11:04.962Z",
+        "2026-11-09T08:38:11.217Z"
       ],
       "successes": [
         "2026-11-08T21:21:43.362Z"
       ],
-      "consecutiveFailures": 1,
-      "blockedUntil": null,
-      "lastAttemptAt": "2026-11-09T01:11:04.962Z",
+      "consecutiveFailures": 2,
+      "blockedUntil": "2026-11-09T14:38:11.217Z",
+      "lastAttemptAt": "2026-11-09T08:38:11.217Z",
       "lastSuccessAt": "2026-11-08T21:21:43.362Z",
-      "lastFailureAt": "2026-11-09T01:11:04.962Z"
+      "lastFailureAt": "2026-11-09T08:38:11.217Z"
     }
   }
 }
