@@ -41303,5 +41303,38 @@
       "checkedAt": "2026-11-09T03:33:07.799Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-food-delivery-apps-in-korea-why-signing-up-is-harder-than-ordering.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "79ab67c3-d737-42b8-a019-e7a6e3cceeb0",
+    "text": "The guidebooks skip this part entirely.\n\nTipping isn't part of Korean service culture, and leaving cash on the table in a restaurant sometimes triggers a server to chase you down thinking you forgot it.\n\nService is already considered included in the price, so adding extra money on top can come across as implying the staff wasn't paid properly, which is mildly insulting rather than generous.\n\nHotels and some tour guides are the rare exception where a small tip is quietly accepted, but it's never expected or asked for.\n\nWorth knowing before you land? Reply with what surprised you.\n\n📖 Open the Land in Korea link in our profile and search “Tipping in Korea: why you shouldn't and what to do instead”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794200656410-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794200656410-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-09T06:13:24.723Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-09T05:04:17.298Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/40874397/pexels-photo-40874397.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Tipping in Korea: why you shouldn't and what to do instead",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽으며 사실도 과장 없이 정확하고 여행자에게 유용한 정보다",
+      "model": "groq",
+      "checkedAt": "2026-11-09T05:02:04.046Z",
+      "pattern": "D"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-tipping-and-service-charges.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
