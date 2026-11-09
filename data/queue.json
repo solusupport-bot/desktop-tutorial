@@ -40636,8 +40636,13 @@
       "facebook"
     ],
     "scheduledAt": "2026-11-09T02:28:55.145Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "122129894133446391",
+        "post_id": "1288453561012463_122129894157446391"
+      }
+    },
     "createdAt": "2026-11-08T05:54:53.298Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -40656,7 +40661,8 @@
       "checkedAt": "2026-11-08T05:54:49.116Z",
       "pattern": "D"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-jeju-island.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-jeju-island.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-09T06:24:25.280Z"
   },
   {
     "id": "da6f5b6e-206a-46ce-9519-838b606398a4",
@@ -40669,8 +40675,13 @@
       "bluesky"
     ],
     "scheduledAt": "2026-11-09T02:55:01.223Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mzuc3ruw272v",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3mzuc3ruw272v"
+      }
+    },
     "createdAt": "2026-11-08T05:54:53.316Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -40689,7 +40700,8 @@
       "checkedAt": "2026-11-08T05:54:49.116Z",
       "pattern": "D"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-jeju-island.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-jeju-island.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-09T06:24:27.785Z"
   },
   {
     "id": "29b90243-d94e-47fb-bed4-6d223493a938",
@@ -40702,8 +40714,13 @@
       "mastodon"
     ],
     "scheduledAt": "2026-11-09T03:27:14.908Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "mastodon": {
+        "id": "117585049713832010",
+        "url": "https://mastodon.social/@landinkorea/117585049713832010"
+      }
+    },
     "createdAt": "2026-11-08T05:54:53.335Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -40722,7 +40739,8 @@
       "checkedAt": "2026-11-08T05:54:49.116Z",
       "pattern": "D"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-jeju-island.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-jeju-island.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-09T06:24:32.286Z"
   },
   {
     "id": "9afe2b20-bc60-43d2-928f-5b75ccabff8d",
