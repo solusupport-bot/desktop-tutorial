@@ -41391,5 +41391,39 @@
       "checkedAt": "2026-11-09T06:35:50.077Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-timing-cherry-blossoms-and-fall-foliage-in-korea-without-hitting-peak-crowds.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "b891540b-3b7d-4753-a499-c613ddb3b86d",
+    "text": "Locals do this differently than every blog post says. Korea is one of the few major markets where Apple Pay barely functions and Google Pay's tap-to-pay is spotty, because most Korean card terminals were built around a local standard (and a long-running NFC licensing dispute with Apple that only partly resolved in 2023) rather than the Visa/Mastercard contactless network phones use everywhere else.\n\n1. Locals pay with Kakao Pay or Naver Pay instead — both are QR-code and barcode-based wallets tied to a Korean bank account or registered card, built into apps most Koreans already have open all day.\n\nHave you learned this the hard way? Tell your story.\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-mobile-payments-in-korea-kakao-pay-naver-pay-and-why-apple-pay-doesn-t-work.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794212494287-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794212494287-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-09T18:52:59.769Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-09T08:21:35.342Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/gcd9e5d5c23e1b69c80527c7f084abd16d8d5a3d90944390d717ee8b81e08ef96c5ec6a317ed0c9d8bb012d5337b67cb7cd4b56142b6ed9d4864809dc767bcdbb_1280.jpg#pixabay=7619503"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Mobile payments in Korea: Kakao Pay, Naver Pay, and why Apple Pay doesn’t work",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq 호출 실패: Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kzzdmjzveggs757apxyanzes` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199513, Requested 912. Please try again in 3m3.6s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing",
+      "model": "groq",
+      "checkedAt": "2026-11-09T08:21:34.286Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-09T08:21:35.323Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-mobile-payments-in-korea-kakao-pay-naver-pay-and-why-apple-pay-doesn-t-work.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]
