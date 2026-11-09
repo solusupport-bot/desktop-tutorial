@@ -39261,8 +39261,12 @@
       "threads"
     ],
     "scheduledAt": "2026-11-07T18:13:07.310Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18090578252301262"
+      }
+    },
     "createdAt": "2026-11-07T03:26:47.090Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -39281,7 +39285,8 @@
       "checkedAt": "2026-11-07T03:26:35.126Z",
       "pattern": "D"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-convenience-store-hacks.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-convenience-store-hacks.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-09T04:54:24.324Z"
   },
   {
     "id": "7ef36ec1-a9c2-48cf-9fdb-b614ed5299c4",
