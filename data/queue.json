@@ -41179,5 +41179,37 @@
       "checkedAt": "2026-11-09T00:29:07.042Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-hailing-a-taxi-in-korea-kakao-t-vs-street-taxis-vs-airport-deluxe-cabs.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "ad9e6e27-9f4b-4515-80c3-55c909058357",
+    "text": "The guidebooks skip this part entirely.\n\nChoosing the right exit matters more than choosing the right station.\n\nLarge stations can have a dozen or more exits spread over several blocks, and coming up at the wrong one can mean a ten-minute walk back underground or across a major road with no crosswalk.\n\nNaver and Kakao Map both tell you which exit to use, and many also tell you which car and door to board so you arrive next to the transfer stairs.\n\nWorth knowing before you land? Reply with what surprised you.\n\n📖 Open the Land in Korea link in our profile and search “Seoul subway details nobody tells you: exit numbers, transfer walks, express trains, and the last train”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794186608053-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794186608053-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-09T16:08:48.655Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-09T01:10:09.071Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/gaaae647045ce0bf437ceb54b8bc176350d2593fbfc8509d4de1a63a7815d39d73883347856ad8057cefed4069b8ecc99df8d7a22bbdf7d8099702a62fe5c802b_1280.jpg#pixabay=5065900"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Seoul subway details nobody tells you: exit numbers, transfer walks, express trains, and the last train",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련 있고 문장이 자연스럽게 완성되어 있으며 과장된 주장 없이 유용한 여행 정보가 포함돼 있습니다",
+      "model": "groq",
+      "checkedAt": "2026-11-09T01:06:52.352Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-seoul-subway-details-nobody-tells-you-exit-numbers-transfer-walks-express-trains-and-the-last-train.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
