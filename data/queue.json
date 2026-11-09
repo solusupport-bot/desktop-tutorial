@@ -39719,8 +39719,12 @@
       "threads"
     ],
     "scheduledAt": "2026-11-08T00:50:18.809Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "17917769526536882"
+      }
+    },
     "createdAt": "2026-11-07T05:55:53.672Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -39739,7 +39743,8 @@
       "checkedAt": "2026-11-07T05:55:39.984Z",
       "pattern": "C"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-short-term-vs-long-term-housing-in-korea-guesthouse-goshiwon-officetel-and-the-deposit-system.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-short-term-vs-long-term-housing-in-korea-guesthouse-goshiwon-officetel-and-the-deposit-system.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-09T13:55:52.409Z"
   },
   {
     "id": "c91b25ed-e6e1-4dc7-8cc5-349fdf727dc2",
