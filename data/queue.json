@@ -40574,10 +40574,10 @@
       "threads"
     ],
     "scheduledAt": "2026-11-08T18:39:29.227Z",
-    "status": "claimed",
+    "status": "published",
     "results": {
       "threads": {
-        "error": "publish failed"
+        "id": "18123999137064706"
       }
     },
     "createdAt": "2026-11-08T03:42:20.436Z",
@@ -40598,7 +40598,7 @@
       "checkedAt": "2026-11-08T03:39:25.051Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
-    "processedAt": "2026-11-10T09:24:48.888Z",
+    "processedAt": "2026-11-10T12:26:13.779Z",
     "retryCount": 1
   },
   {
