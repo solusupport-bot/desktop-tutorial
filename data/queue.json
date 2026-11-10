@@ -41620,5 +41620,38 @@
     },
     "blogUrl": "https://landinkorea.com/posts/korea-doing-laundry-in-korea-coin-laundromats-the-dryer-problem-and-neighborhood-dry-cleaners.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
     "processedAt": "2026-11-10T00:24:21.856Z"
+  },
+  {
+    "id": "36399b9f-001b-4368-9c50-b0ab3794b6e8",
+    "text": "Korea has a two‑zone dress code in jjimjilbangs that trips up most first‑timers.\n\nIn the gender‑separated bath you must be completely nude, while the co‑ed sauna lounge requires the t‑shirt and shorts given at check‑in.\n\nGrab the uniform at the front desk, then head straight to the saunas—no extra steps needed.\n\nSome older jjimjilbangs still ban visible tattoos, so verify their policy if you have ink.\n\nDid you ever mix up the zones and get a warning? Open the Land in Korea link in the profile.\n\n📖 Open the Land in Korea link in our profile and search “Jjimjilbang etiquette”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794270347692-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794270347692-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-10T08:49:52.408Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-10T00:25:48.389Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/16827098/pexels-photo-16827098.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Jjimjilbang etiquette",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 내용이 일치하고, 문장이 자연스럽고 사실 주장도 과장되지 않아 여행 정보로 충분히 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-10T00:25:37.886Z",
+      "pattern": "D"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-jjimjilbang-etiquette.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
