@@ -41834,5 +41834,37 @@
       "checkedAt": "2026-11-10T03:56:00.946Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-esim-mobile-data.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "bd994b64-31c7-4b0c-947a-71526f09317d",
+    "text": "You won't find this in the usual travel advice.\n\nMost tourists lose their Tax Free refund before they even reach the airport — not from missing paperwork, but from where they packed the item.\n\nTourists spending over the minimum threshold at Tax Free-affiliated stores can reclaim VAT paid on purchases.\n\nAsk for a Tax Free receipt/form at checkout, keep the item unused, and process the refund at airport kiosks (self-service or counter) before checking in your luggage if the item goes in checked baggage.\n\nDid this trip you up your first time too? Drop a comment.\n\n📖 Open the Land in Korea link in our profile and search “Tax refund (Tax Free) shopping”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794292655714-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794292655714-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-10T21:49:19.820Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-10T06:37:36.625Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/40902802/pexels-photo-40902802.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Tax refund (Tax Free) shopping",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽게 완성돼 있으며, 과장 없는 사실 기반의 유용한 내용이다",
+      "model": "groq",
+      "checkedAt": "2026-11-10T06:34:20.058Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-tax-refund-tax-free-shopping.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
