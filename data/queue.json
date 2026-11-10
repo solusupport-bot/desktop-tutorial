@@ -41722,5 +41722,37 @@
       "checkedAt": "2026-11-10T02:10:21.108Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "d7f9178a-ec10-4b13-b3f5-b6b85e43e1d3",
+    "text": "You won't find this in the usual travel advice. Myeongdong's street food stalls mostly open in the late afternoon, so showing up at lunchtime expecting the famous street food scene is the single most common first-timer mistake.\n\n1. It's Seoul's biggest shopping district for cosmetics and fashion, with staff at many stores speaking basic English, Japanese, or Chinese.\n2. Tax Free shopping is everywhere here — look for the sticker before you buy.\n3. It gets extremely crowded on weekends, so weekday visits are noticeably more walkable.\n\nWhat's your biggest tip for first-timers landing in Korea?\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-myeongdong-shopping-district.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794277629822-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794277629822-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-10T07:29:29.926Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-10T02:27:10.833Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/38727605/pexels-photo-38727605.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Myeongdong shopping district",
+    "qualityGate": {
+      "pass": true,
+      "reason": "Relevant, mostly natural, factually accurate tips make it suitable for posting",
+      "model": "groq",
+      "checkedAt": "2026-11-10T02:23:54.244Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-myeongdong-shopping-district.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]
