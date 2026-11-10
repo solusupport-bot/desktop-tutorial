@@ -5,7 +5,8 @@
       "at://did:plc:r7bp462cu4qqsstdvnf2ypyx/app.bsky.feed.post/3mcxhis7bx226",
       "at://did:plc:fr6j3klgg6t5gqk5dvocurnj/app.bsky.feed.post/3m632myg5ss2h",
       "at://did:plc:eygwli2uy4oheogwijvvbf4n/app.bsky.feed.post/3m37vu4ayts2p",
-      "at://did:plc:z6phioqd5wrigle4t4jbveif/app.bsky.feed.post/3ls4jwbzgd22k"
+      "at://did:plc:z6phioqd5wrigle4t4jbveif/app.bsky.feed.post/3ls4jwbzgd22k",
+      "at://did:plc:hex7kwe54kvjqp65lgck5umt/app.bsky.feed.post/3ljdvuvx2yk2m"
     ]
   },
   "reddit": {
@@ -15,7 +16,8 @@
     "seen": [
       "117580752883004870",
       "117576740555138240",
-      "117587604285496118"
+      "117587604285496118",
+      "117586204606892960"
     ]
   }
 }
