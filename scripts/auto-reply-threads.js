@@ -169,14 +169,30 @@ const main = async () => {
       break;
     }
 
+    // lib/publishing/threads.js의 publishToThreads와 동일한 재시도: 댓글 발행 직후
+    // 곧바로 답글을 달면 상대 댓글이 Threads 서버에 아직 완전히 반영되지 않아
+    // "리소스를 찾을 수 없음"(code=24, subcode=4279009)이 뜨는 레이스 컨디션이
+    // 실측 확인됨(2026-11-10) — 여기도 같은 대기 후 재시도를 적용한다.
     let success = false;
-    try {
-      const replyId = await publishTextReply({ userId, accessToken, text: draft.reply, replyToId: comment.id });
-      log.ok(`Threads 답글 발행 완료 (Media ID: ${replyId})`);
-      success = true;
-    } catch (err) {
-      const apiError = err.response?.data?.error;
-      const detail = apiError ? `${apiError.message} (code=${apiError.code}, subcode=${apiError.error_subcode})` : err.message;
+    let lastErr;
+    for (const delayMs of [3000, 5000, 8000]) {
+      await new Promise((r) => setTimeout(r, delayMs));
+      try {
+        const replyId = await publishTextReply({ userId, accessToken, text: draft.reply, replyToId: comment.id });
+        log.ok(`Threads 답글 발행 완료 (Media ID: ${replyId})`);
+        success = true;
+        lastErr = null;
+        break;
+      } catch (err) {
+        lastErr = err;
+        const apiError = err.response?.data?.error;
+        const resourceNotReady = apiError?.code === 24 || apiError?.error_subcode === 4279009;
+        if (!resourceNotReady) break;
+      }
+    }
+    if (lastErr) {
+      const apiError = lastErr.response?.data?.error;
+      const detail = apiError ? `${apiError.message} (code=${apiError.code}, subcode=${apiError.error_subcode})` : lastErr.message;
       log.err(`Threads 답글 발행 실패: ${detail}`);
       if (checkAndHalt('threads', detail)) break;
     }
