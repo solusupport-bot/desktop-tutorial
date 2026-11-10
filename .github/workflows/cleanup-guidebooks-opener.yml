@@ -1,0 +1,42 @@
+name: Cleanup guidebooks-opener posts (one-off)
+
+# "The guidebooks skip this part entirely." 훅으로 나간/큐에 남은 글을 정리하는
+# 일회성 스크립트(scripts/cleanup-guidebooks-opener.js) 실행용. 2026-11-11.
+on:
+  workflow_dispatch:
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm ci
+      - name: Run cleanup
+        env:
+          THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+          FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          MASTODON_INSTANCE: ${{ secrets.MASTODON_INSTANCE }}
+          MASTODON_ACCESS_TOKEN: ${{ secrets.MASTODON_ACCESS_TOKEN }}
+          BLUESKY_IDENTIFIER: ${{ secrets.BLUESKY_IDENTIFIER }}
+          BLUESKY_APP_PASSWORD: ${{ secrets.BLUESKY_APP_PASSWORD }}
+        run: node scripts/cleanup-guidebooks-opener.js
+
+      - name: Persist queue state
+        if: always()
+        run: |
+          if [ -z "$(git status --porcelain -- data/queue.json)" ]; then
+            echo "No state changes to persist."
+            exit 0
+          fi
+          git config user.name "sns-automation-bot"
+          git config user.email "actions@github.com"
+          git add data/queue.json
+          git commit -m "chore: mark guidebooks-opener posts deleted/rejected"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
