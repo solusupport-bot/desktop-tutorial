@@ -40612,8 +40612,12 @@
       "threads"
     ],
     "scheduledAt": "2026-11-08T19:04:42.807Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18125214493926885"
+      }
+    },
     "createdAt": "2026-11-08T05:10:41.110Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -40631,7 +40635,8 @@
       "model": "groq",
       "checkedAt": "2026-11-08T05:07:24.784Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-busan-haeundae-beach-gamcheon-culture-village.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-busan-haeundae-beach-gamcheon-culture-village.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-10T15:26:46.670Z"
   },
   {
     "id": "cf010b53-731d-4b98-9912-4bcb2041bee8",
@@ -42115,8 +42120,13 @@
       "bluesky"
     ],
     "scheduledAt": "2026-11-10T14:40:50.226Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mzxquji2eu26",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3mzxquji2eu26"
+      }
+    },
     "createdAt": "2026-11-10T07:26:50.854Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -42134,7 +42144,8 @@
       "model": "groq",
       "checkedAt": "2026-11-10T07:23:34.042Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-everland-vs-lotte-world-theme-parks.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-everland-vs-lotte-world-theme-parks.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-10T15:26:49.365Z"
   },
   {
     "id": "1fc15402-b02c-4db1-8ff9-ca7447af3f60",
@@ -42147,8 +42158,13 @@
       "mastodon"
     ],
     "scheduledAt": "2026-11-10T15:14:44.645Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "mastodon": {
+        "id": "117592844643903088",
+        "url": "https://mastodon.social/@landinkorea/117592844643903088"
+      }
+    },
     "createdAt": "2026-11-10T07:26:50.874Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -42166,7 +42182,8 @@
       "model": "groq",
       "checkedAt": "2026-11-10T07:23:34.042Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-everland-vs-lotte-world-theme-parks.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-everland-vs-lotte-world-theme-parks.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-10T15:26:53.970Z"
   },
   {
     "id": "2cfcd777-ff62-4710-9801-6323ca2ef933",
