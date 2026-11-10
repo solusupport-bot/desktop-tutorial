@@ -41760,5 +41760,37 @@
       "checkedAt": "2026-11-10T02:23:54.244Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-myeongdong-shopping-district.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "7004aa0b-2beb-41b1-9054-56570e351365",
+    "text": "The guidebooks skip this part entirely.\n\nJeju Island isn't reachable by train or the KTX network at all — it's a flight or a long ferry, which surprises visitors used to mainland Korea's rail coverage.\n\nIt's a volcanic island known for Hallasan (South Korea's tallest mountain), black sand beaches, and a noticeably different local dialect.\n\nRenting a car is genuinely the practical option here since public transit is thinner than in Seoul or Busan.\n\nWorth knowing before you land? Reply with what surprised you.\n\n📖 Open the Land in Korea link in our profile and search “Jeju Island”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794282101356-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794282101356-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-10T11:36:22.307Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-10T03:41:42.275Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/30966650/pexels-photo-30966650.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2019/09/05/26590-359160151_large.mp4",
+    "videoAttribution": null,
+    "topic": "Jeju Island",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 내용이 일치하고 문장도 자연하며 사실도 정확해 여행 정보로 충분히 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-10T03:38:19.165Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-jeju-island.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
