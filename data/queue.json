@@ -41841,8 +41841,13 @@
       "facebook"
     ],
     "scheduledAt": "2026-11-10T20:19:26.273Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "122130319341446391",
+        "post_id": "1288453561012463_122130319365446391"
+      }
+    },
     "createdAt": "2026-11-10T03:59:17.261Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -41860,7 +41865,8 @@
       "model": "groq",
       "checkedAt": "2026-11-10T03:56:00.946Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-esim-mobile-data.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-esim-mobile-data.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-10T22:53:28.304Z"
   },
   {
     "id": "bd994b64-31c7-4b0c-947a-71526f09317d",
