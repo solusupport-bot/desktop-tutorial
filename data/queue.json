@@ -42449,5 +42449,37 @@
       "checkedAt": "2026-11-10T08:08:20.184Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-domestic-flights-vs-ktx-for-jeju-and-long-distance-trips.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "b791d09b-274f-4f35-9958-358366a86f12",
+    "text": "Locals do this differently than every blog post says. A Seoul attraction pass (bundling entry to multiple paid sites, sometimes with transit included) only pays off past a specific number of paid attractions per day — buy one for a light sightseeing day and you'll likely spend more than paying individually.\n\n1. Passes typically come in 24/48/72-hour versions activated from first use, not from purchase, so timing your first scan matters for getting full value.\n\nHave you learned this the hard way? Tell your story.\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-seoul-attraction-pass-comparison.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794299322879-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794299322879-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-10T20:31:22.012Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-10T08:28:44.015Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/5574891/pexels-photo-5574891.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Seoul attraction pass comparison",
+    "qualityGate": {
+      "pass": true,
+      "reason": "Relevant, clear, factual and useful for Seoul attraction pass comparison",
+      "model": "groq",
+      "checkedAt": "2026-11-10T08:25:27.631Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-seoul-attraction-pass-comparison.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]
