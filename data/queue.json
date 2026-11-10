@@ -41792,5 +41792,37 @@
       "checkedAt": "2026-11-10T03:38:19.165Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-jeju-island.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "d6c640fe-8e71-4552-be75-ab1615adae1d",
+    "text": "Locals do this differently than every blog post says. eSIM, physical SIM, or pocket Wi-Fi — most people pick based on price and regret it by day 3.\n\n1. Most Korean eSIM plans for tourists can be purchased online before arrival and activated by scanning a QR code once you land — no physical SIM swap needed.\n2. Coverage matches the big three Korean carriers (SKT, KT, LG U+).\n3. Typical tourist plans run 5-8 days with unlimited or high-cap data.\n\nHave you learned this the hard way? Tell your story.\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-esim-mobile-data.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794283156436-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794283156436-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-10T20:19:26.273Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-10T03:59:17.261Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g8019a5239a5d69681c3e95a0d8a5bcf79b2db2056ddb836ec47529d56eb13b8811799fc62456702f153a6a176cf03ee06e5958cfad77c83496edcf02bd4648ab_1280.jpg#pixabay=7995906"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "eSIM & mobile data",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제가 일치하고 문장도 자연하며 사실 주장도 크게 문제되지 않아 발행 가능",
+      "model": "groq",
+      "checkedAt": "2026-11-10T03:56:00.946Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-esim-mobile-data.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]
