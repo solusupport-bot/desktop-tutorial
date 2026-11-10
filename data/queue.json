@@ -41900,8 +41900,13 @@
       "facebook"
     ],
     "scheduledAt": "2026-11-10T14:37:55.978Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "122130300399446391",
+        "post_id": "1288453561012463_122130300423446391"
+      }
+    },
     "createdAt": "2026-11-10T06:44:37.909Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -41920,7 +41925,8 @@
       "checkedAt": "2026-11-10T06:41:19.756Z",
       "pattern": "C"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-travel-advisories-safety-notices.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-travel-advisories-safety-notices.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-10T19:53:35.268Z"
   },
   {
     "id": "4759ae52-3927-425f-933e-ca0862ac60a6",
