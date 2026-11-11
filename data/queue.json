@@ -42804,8 +42804,12 @@
       "threads"
     ],
     "scheduledAt": "2026-11-10T17:28:32.682Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "17973310272191112"
+      }
+    },
     "createdAt": "2026-11-10T09:42:18.226Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -42823,7 +42827,8 @@
       "model": "groq",
       "checkedAt": "2026-11-10T09:39:01.719Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-airport-transfer-options.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-airport-transfer-options.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-11T16:57:20.865Z"
   },
   {
     "id": "5b2cb2d8-6313-409c-af21-d21fcc93dfce",
@@ -42900,8 +42905,12 @@
       "threads"
     ],
     "scheduledAt": "2026-11-10T15:45:48.735Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "17945708658372021"
+      }
+    },
     "createdAt": "2026-11-10T12:38:35.059Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -42917,7 +42926,8 @@
       "model": "groq",
       "checkedAt": "2026-11-10T12:35:19.764Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-convenience-store-hacks.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-convenience-store-hacks.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-11T16:59:18.751Z"
   },
   {
     "id": "236a1b2f-dcd2-4a7c-b206-ea7042fbbeff",
