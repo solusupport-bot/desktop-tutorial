@@ -43330,5 +43330,37 @@
       "checkedAt": "2026-11-11T07:04:34.761Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-trash-and-recycling-rules-for-residents.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "ede53e1b-8ca4-4513-bc94-8f313d62736f",
+    "text": "Everyone assumes this works the same as back home. It doesn't.\n\nA DMZ tour and a JSA (Joint Security Area/Panmunjom) tour get blurred together in most search results, but they're not the same trip.\n\nA standard DMZ tour covers sites like the Third Tunnel and an observatory within the buffer zone; a JSA tour goes further, into the shared area straddling the actual Military Demarcation Line, and needs booking at least a week ahead with passport details submitted in advance for an eligibility check.\n\nWhichever tour, a physical passport is required at the checkpoint — a photo or photocopy won't get you through.\n\nWorth knowing before you land? Reply with what surprised you.\n\n📖 Open the Land in Korea link in our profile and search “DMZ and JSA tours”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794384702583-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794384702583-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-11T08:33:56.998Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-11T08:11:43.234Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31752208/pexels-photo-31752208.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "DMZ and JSA tours",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제에 맞고 문장이 자연스럽게 구성돼 있으며, 여행자에게 실질적인 정보와 유용성을 제공하고 있어 발행에 적합합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-11T08:08:27.328Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-dmz-and-jsa-tours.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
