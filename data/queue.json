@@ -43439,5 +43439,37 @@
       "pattern": "O"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-bukchon-hanok-village.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "56ec16bc-a399-4d99-a486-fb017273b813",
+    "text": "There's one detail that trips up almost every first-timer.\n\nMyeongdong's street food stalls mostly open in the late afternoon, so showing up at lunchtime expecting the famous street food scene is the single most common first-timer mistake.\n\nIt's Seoul's biggest shopping district for cosmetics and fashion, with staff at many stores speaking basic English, Japanese, or Chinese.\n\nTax Free shopping is everywhere here — look for the sticker before you buy.\n\nDid this trip you up your first time too? Drop a comment.\n\n📖 Open the Land in Korea link in our profile and search “Myeongdong shopping district”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794395196441-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794395196441-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-11T18:09:41.789Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-11T11:06:37.671Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/gae41e5c14ea0a2aa177f8341954ddae3ed343013ade428a8824454bec0504558c8020bc4dd11696fd7b51f53bb295271375e3df410ff3b99cdc891836f9407f6_1280.jpg#pixabay=219129"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Myeongdong shopping district",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 맞고 내용도 자연스럽고 사실도 크게 문제 없어 발행 가능하다.",
+      "model": "groq",
+      "checkedAt": "2026-11-11T11:03:21.091Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-myeongdong-shopping-district.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
