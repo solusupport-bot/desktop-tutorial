@@ -14230,7 +14230,7 @@
       "threads"
     ],
     "scheduledAt": "2026-09-24T23:24:27.924Z",
-    "status": "delete_failed",
+    "status": "deleted",
     "results": {
       "threads": {
         "id": "18135837715630785"
@@ -14265,7 +14265,8 @@
         "detail": "Application does not have permission for this action"
       }
     },
-    "manualDeleteUrl": "https://www.threads.com/@landinkorea/post/Dd9cG0JE2Xg"
+    "manualDeleteUrl": "https://www.threads.com/@landinkorea/post/Dd9cG0JE2Xg",
+    "manualDeleteNote": "2026-11-11 Threads 웹 UI에서 직접 삭제 완료"
   },
   {
     "id": "e295b762-bfb4-4e56-87d7-4b8e6066578e",
@@ -38316,7 +38317,7 @@
       "threads"
     ],
     "scheduledAt": "2026-11-05T16:26:41.963Z",
-    "status": "delete_failed",
+    "status": "deleted",
     "results": {
       "threads": {
         "id": "17933107332165157"
@@ -38348,7 +38349,8 @@
         "detail": "Application does not have permission for this action"
       }
     },
-    "manualDeleteUrl": "https://www.threads.com/@landinkorea/post/DfcLMcBkTI9"
+    "manualDeleteUrl": "https://www.threads.com/@landinkorea/post/DfcLMcBkTI9",
+    "manualDeleteNote": "2026-11-11 Threads 웹 UI에서 직접 삭제 완료"
   },
   {
     "id": "7987b882-0f3b-4d74-9a66-e73bcbb989f0",
