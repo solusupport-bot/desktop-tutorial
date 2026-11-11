@@ -42180,7 +42180,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-11-11T03:30:21.720Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-10T07:19:51.721Z",
     "approved": true,
@@ -42212,7 +42212,7 @@
       "bluesky"
     ],
     "scheduledAt": "2026-11-11T03:56:49.881Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-10T07:19:51.739Z",
     "approved": true,
@@ -42244,7 +42244,7 @@
       "mastodon"
     ],
     "scheduledAt": "2026-11-11T04:28:17.244Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-10T07:19:51.758Z",
     "approved": true,
