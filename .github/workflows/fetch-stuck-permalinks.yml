@@ -1,0 +1,37 @@
+name: Fetch stuck-post permalinks (one-off)
+
+# cleanup-guidebooks-opener.js가 API로 못 지운 게시물(status: delete_failed)의 permalink를
+# 읽어서 수동 삭제 링크를 남기는 scripts/fetch-stuck-permalinks.js 실행용. 2026-11-11.
+on:
+  workflow_dispatch:
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm ci
+      - name: Fetch permalinks
+        env:
+          THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+        run: node scripts/fetch-stuck-permalinks.js
+
+      - name: Persist queue state
+        if: always()
+        run: |
+          if [ -z "$(git status --porcelain -- data/queue.json)" ]; then
+            echo "No state changes to persist."
+            exit 0
+          fi
+          git config user.name "sns-automation-bot"
+          git config user.email "actions@github.com"
+          git add data/queue.json
+          git commit -m "chore: record manual-delete links for stuck posts"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"

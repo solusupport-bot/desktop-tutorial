@@ -14411,7 +14411,7 @@
       "bluesky"
     ],
     "scheduledAt": "2026-09-24T23:56:52.932Z",
-    "status": "delete_failed",
+    "status": "deleted",
     "results": {
       "bluesky": {
         "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mwskrlywyi23",
@@ -18324,7 +18324,7 @@
       "bluesky"
     ],
     "scheduledAt": "2026-09-30T03:13:19.282Z",
-    "status": "delete_failed",
+    "status": "deleted",
     "results": {
       "bluesky": {
         "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mx3uh5d2iq2w",
@@ -40989,7 +40989,7 @@
       "bluesky"
     ],
     "scheduledAt": "2026-11-08T15:36:03.119Z",
-    "status": "delete_failed",
+    "status": "deleted",
     "results": {
       "bluesky": {
         "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mzsusixoyc2g",
@@ -41159,7 +41159,7 @@
       "bluesky"
     ],
     "scheduledAt": "2026-11-09T02:34:52.116Z",
-    "status": "delete_failed",
+    "status": "deleted",
     "results": {
       "bluesky": {
         "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mztxzzdtke2s",
@@ -42316,7 +42316,7 @@
       "bluesky"
     ],
     "scheduledAt": "2026-11-10T14:40:50.226Z",
-    "status": "delete_failed",
+    "status": "deleted",
     "results": {
       "bluesky": {
         "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mzxquji2eu26",

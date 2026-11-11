@@ -77,7 +77,12 @@ const deleteOnPlatform = async (platform, item) => {
   if (platform === 'threads') return deleteThreadsPost(result.id);
   if (platform === 'facebook') return deleteFacebookPost(result.id);
   if (platform === 'instagram') return deleteInstagramPost(result.id);
-  if (platform === 'bluesky') return deleteBlueskyPost({ rkey: result.id.split('/').pop() });
+  if (platform === 'bluesky') {
+    // deleteBlueskyPost는 {ok,detail}이 아니라 boolean을 반환한다 — 그대로 반환하면
+    // 성공해도 .ok가 undefined가 돼 실패로 잘못 기록된다(2026-11-11 실측).
+    const ok = await deleteBlueskyPost({ rkey: result.id.split('/').pop() });
+    return { ok };
+  }
   if (platform === 'mastodon') return deleteMastodonPost(result.id);
   return { ok: false, detail: `알 수 없는 플랫폼: ${platform}` };
 };
