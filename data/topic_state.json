@@ -1,12 +1,6 @@
 {
-  "lastIndex": 40,
+  "lastIndex": 41,
   "history": [
-    {
-      "index": 5,
-      "topic": "Jeju Island",
-      "at": "2026-11-03T03:37:41.226Z",
-      "source": "instagram-fill"
-    },
     {
       "index": 6,
       "topic": "eSIM & mobile data",
@@ -1200,6 +1194,12 @@
       "topic": "Learning to read Hangul in a weekend — and why romanized signs still confuse you",
       "at": "2026-11-11T01:59:54.248Z",
       "source": "facebook-fill"
+    },
+    {
+      "index": 41,
+      "topic": "Hospital vs. clinic vs. pharmacy in Korea: where to actually go when you get sick",
+      "at": "2026-11-11T03:26:38.090Z",
+      "source": "instagram-fill"
     }
   ],
   "recentImageUrls": [
@@ -2083,7 +2083,8 @@
     "https://pixabay.com/get/g4082b40f39d0f9b229a0b149dfdfb67c01374f51658d0f69d5d371518d63f2496f53e7f6f4ca82e6cc197d8e1f8f3575719ec2d1c5327cc708533a6540d5fd79_1280.jpg#pixabay=7648743",
     "https://pixabay.com/get/g86cdbbcf5eaead7c130b0f596bb4afd5e2b7e8a617075022fe5320a45837762bf26dbe2ee64e2c288cbe2800b418812b57670033a3aebdc35b90ba9ce33ff505_1280.jpg#pixabay=6967755",
     "https://images.pexels.com/photos/37436295/pexels-photo-37436295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://images.pexels.com/photos/31680687/pexels-photo-31680687.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "https://images.pexels.com/photos/31680687/pexels-photo-31680687.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/32028691/pexels-photo-32028691.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
   ],
   "recentVideoUrls": [
     "https://videos.pexels.com/video-files/19577787/19577787-uhd_2160_3840_30fps.mp4",
@@ -2394,6 +2395,9 @@
       "Henry Acevedo"
     ],
     "Learning to read Hangul in a weekend — and why romanized signs still confuse you": [
+      "Theodore Nguyen"
+    ],
+    "Hospital vs. clinic vs. pharmacy in Korea: where to actually go when you get sick": [
       "Theodore Nguyen"
     ]
   }
