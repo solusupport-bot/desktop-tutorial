@@ -43362,5 +43362,38 @@
       "checkedAt": "2026-11-11T08:08:27.328Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-dmz-and-jsa-tours.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "909b16bd-cd2d-4a2b-bcb1-f0f46c6d1dbf",
+    "text": "Everyone assumes this works the same as back home. It doesn't. A Korean jjimjilbang runs two different dress codes in two adjacent zones, and mixing them up is the actual etiquette mistake — not nudity itself.\n\n1. The gender-separated bathing area requires nudity as a hygiene standard, while the co-ed common area (saunas, lounge) requires the uniform t-shirt and shorts provided at check-in.\n2. Tattoo policies have loosened a lot at modern locations, though some older or conservative spots still restrict visible ones, so it's worth checking ahead if you have larger tattoos and a specific place in mind.\n\nDone any of these? Which surprised you most?\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-jjimjilbang-etiquette.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794385036987-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794385036987-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-11T11:02:58.937Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-11T08:17:17.851Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/38335195/pexels-photo-38335195.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Jjimjilbang etiquette",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제가 맞고 문장도 자연하며 과장된 사실 없이 여행자에게 유용한 에티켓 정보를 제공한다",
+      "model": "groq",
+      "checkedAt": "2026-11-11T08:15:19.716Z",
+      "pattern": "C"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-jjimjilbang-etiquette.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]
