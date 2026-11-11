@@ -43516,5 +43516,37 @@
       "checkedAt": "2026-11-11T11:03:21.091Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-myeongdong-shopping-district.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "6c17d30a-d82a-4a91-84ca-c3244946810d",
+    "text": "There's one detail that trips up almost every first-timer.\n\nNami Island isn't actually reachable by a bridge you can just walk across — it's a half-moon-shaped island in Gapyeong reached only by a short ferry ride (or a zipline for the adventurous), which surprises visitors expecting a normal park entrance.\n\nThe island's tree-lined paths, especially the ginkgo and metasequoia lanes, made it a filming location for the drama 'Winter Sonata' and remain the main draw.\n\nPetite France, a French-village-themed attraction with colorful buildings, sits nearby and is commonly paired with Nami Island in the same day-trip package.\n\nDid this trip you up your first time too? Drop a comment.\n\n📖 Open the Land in Korea link in our profile and search “Nami Island and Petite France day trip”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794438640112-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794438640112-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-11T23:44:51.692Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-11T23:10:41.352Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/35215198/pexels-photo-35215198.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Nami Island and Petite France day trip",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 맞고 문맥도 자연하며 사실 내용도 정확해 발행해도 괜찮습니다",
+      "model": "groq",
+      "checkedAt": "2026-11-11T23:07:24.646Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-nami-island-and-petite-france-day-trip.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
