@@ -43047,5 +43047,37 @@
       "checkedAt": "2026-11-11T02:06:31.817Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-learning-to-read-hangul-in-a-weekend-and-why-romanized-signs-still-confuse-you.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "02011c33-1f9c-45b3-b7b3-5689a7ac2ed9",
+    "text": "There's one detail that trips up almost every first-timer.\n\nKorea has an enormous cafe culture and plenty of people work or study in them for hours, but the norms vary sharply by venue.\n\nLarge franchise chains like Starbucks, Twosome Place, and Hollys are generally laptop-friendly, have plentiful outlets, and nobody will rush you.\n\nIndependent dessert cafes and small photogenic spots often post signs — sometimes with a crossed-out laptop icon — banning laptops entirely or on weekends, because their seats turn over on drink sales.\n\nDid this trip you up your first time too? Drop a comment.\n\n📖 Open the Land in Korea link in our profile and search “Cafes as workspaces in Korea: unspoken rules of study cafes, franchise chains, and 'no-laptop' signs”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794368364707-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794368364707-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-11T19:05:56.731Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-11T03:39:25.594Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31680625/pexels-photo-31680625.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Cafes as workspaces in Korea: unspoken rules of study cafes, franchise chains, and 'no-laptop' signs",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽고, 주장에 과장이 없으며 여행자에게 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-11T03:36:09.120Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-cafes-as-workspaces-in-korea-unspoken-rules-of-study-cafes-franchise-chains-and-no-laptop-signs.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
