@@ -42925,5 +42925,38 @@
       "checkedAt": "2026-11-11T00:33:30.939Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-timing-cherry-blossoms-and-fall-foliage-in-korea-without-hitting-peak-crowds.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "1fbdb4b4-5ff4-4969-91e9-dfe0b41033ba",
+    "text": "Everyone assumes this works the same as back home. It doesn't. Self-order kiosks (키오스크) have replaced cashiers at most Korean fast food chains, cafes, and even some sit-down restaurants, and a lot of them default to Korean-only on the first screen.\n\n1. Look for a small 'ENGLISH' or flag icon in a corner — tapping it switches the whole menu, and most major chains (Lotteria, Mom's Touch, Starbucks, Baskin Robbins) have had this for years.\n2. If a kiosk is truly Korean-only, Google Translate's camera mode read over the screen works in a pinch.\n\nDone any of these? Which surprised you most?\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-unmanned-kiosk-ordering-in-korea-why-humans-are-disappearing-from-the-counter.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794357823470-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794357823470-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-11T14:01:54.917Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-11T00:43:44.229Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g4082b40f39d0f9b229a0b149dfdfb67c01374f51658d0f69d5d371518d63f2496f53e7f6f4ca82e6cc197d8e1f8f3575719ec2d1c5327cc708533a6540d5fd79_1280.jpg#pixabay=7648743"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Unmanned kiosk ordering in Korea: why humans are disappearing from the counter",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 내용이 자연스러우며 사실도 신뢰할 수 있어 여행 정보로 유용합니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-11T00:41:49.154Z",
+      "pattern": "C"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-unmanned-kiosk-ordering-in-korea-why-humans-are-disappearing-from-the-counter.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]
