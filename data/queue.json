@@ -43227,5 +43227,37 @@
       "checkedAt": "2026-11-11T06:02:25.403Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-hiking-in-korea-like-a-local-subway-accessible-peaks-seasonal-trail-closures-and-the-gear-culture.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "0801e117-2a5e-403c-9b41-9a887e5fda2c",
+    "text": "Everyone assumes this works the same as back home. It doesn't. For cheap household basics — hangers, slippers, kitchen tools, phone cables, travel bottles — Daiso is the default, with fixed low price tiers and big multi-floor branches near major stations.\n\n1. Olive Young is the drugstore chain for skincare, sunscreen, cosmetics, masks and basic over-the-counter items like hangover drinks and pain patches, and it runs frequent bundle promotions rather than everyday low pricing.\n2. Note that actual medicines still come from a pharmacy, not a drugstore chain, so Olive Young is for toiletries rather than treatment.\n3. For anything electrical, check the plug: Korea runs 220V with round two-pin sockets, and cheap adapters are easy to find at Daiso.\n\nDone any of these? Which surprised you most?\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-where-koreans-actually-buy-everyday-stuff-daiso-vs-olive-young-vs-hypermarkets-vs-the-traditional-market.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794377752737-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794377752737-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-11T20:26:48.774Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-11T06:15:53.660Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31858127/pexels-photo-31858127.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Where Koreans actually buy everyday stuff: Daiso vs. Olive Young vs. hypermarkets vs. the traditional market",
+    "qualityGate": {
+      "pass": true,
+      "reason": "관련 주제에 맞고 자연스럽게 작성돼 여행자에게 유용한 정보다",
+      "model": "groq",
+      "checkedAt": "2026-11-11T06:12:37.110Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-where-koreans-actually-buy-everyday-stuff-daiso-vs-olive-young-vs-hypermarkets-vs-the-traditional-market.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]
