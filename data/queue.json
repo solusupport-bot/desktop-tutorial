@@ -42087,7 +42087,7 @@
       "threads"
     ],
     "scheduledAt": "2026-11-10T21:49:19.820Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-11-10T06:37:36.625Z",
     "approved": true,
@@ -42106,7 +42106,8 @@
       "model": "groq",
       "checkedAt": "2026-11-10T06:34:20.058Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-tax-refund-tax-free-shopping.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-tax-refund-tax-free-shopping.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "rejectReason": "duplicate: same text already published on this platform"
   },
   {
     "id": "b9f7d095-1005-4f87-b93c-f7701a543ffa",
@@ -42163,7 +42164,7 @@
       "threads"
     ],
     "scheduledAt": "2026-11-11T03:26:08.587Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-11-10T07:19:51.697Z",
     "approved": true,
@@ -42182,7 +42183,8 @@
       "model": "groq",
       "checkedAt": "2026-11-10T07:16:35.117Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-insadong-traditional-culture-street.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-insadong-traditional-culture-street.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "rejectReason": "duplicate: same text already published on this platform"
   },
   {
     "id": "10f99826-07ea-4806-bfaf-b954b4ee8777",
@@ -42977,7 +42979,7 @@
       "threads"
     ],
     "scheduledAt": "2026-11-11T07:41:35.230Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-11T00:37:01.397Z",
     "approved": true,
