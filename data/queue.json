@@ -41865,8 +41865,12 @@
       "threads"
     ],
     "scheduledAt": "2026-11-10T08:49:52.408Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18419590540084600"
+      }
+    },
     "createdAt": "2026-11-10T00:25:48.389Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -41885,7 +41889,8 @@
       "checkedAt": "2026-11-10T00:25:37.886Z",
       "pattern": "D"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-jjimjilbang-etiquette.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-jjimjilbang-etiquette.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-11T09:25:56.278Z"
   },
   {
     "id": "60a70d1d-5881-463b-9d59-65fc4cfc40e1",
