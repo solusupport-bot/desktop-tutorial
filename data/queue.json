@@ -14230,7 +14230,7 @@
       "threads"
     ],
     "scheduledAt": "2026-09-24T23:24:27.924Z",
-    "status": "published",
+    "status": "delete_failed",
     "results": {
       "threads": {
         "id": "18135837715630785"
@@ -14258,7 +14258,13 @@
     },
     "verifyStatus": "passed",
     "blogUrl": "https://landinkorea.com/posts/korea-ktx-vs-srt-vs-intercity-bus-for-long-distance-travel.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
-    "processedAt": "2026-10-01T17:26:01.420Z"
+    "processedAt": "2026-10-01T17:26:01.420Z",
+    "cleanupResults": {
+      "threads": {
+        "ok": false,
+        "detail": "Application does not have permission for this action"
+      }
+    }
   },
   {
     "id": "e295b762-bfb4-4e56-87d7-4b8e6066578e",
@@ -14271,7 +14277,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-09-24T23:29:08.079Z",
-    "status": "published",
+    "status": "deleted",
     "results": {
       "facebook": {
         "id": "122120077605446391",
@@ -14299,7 +14305,12 @@
       "checkedAt": "2026-09-24T02:18:03.641Z"
     },
     "verifyStatus": "passed",
-    "processedAt": "2026-10-02T01:24:28.558Z"
+    "processedAt": "2026-10-02T01:24:28.558Z",
+    "cleanupResults": {
+      "facebook": {
+        "ok": true
+      }
+    }
   },
   {
     "id": "149d8b9b-3e20-4df8-a5a8-7b0a418891f7",
@@ -14310,7 +14321,7 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-24T23:35:44.557Z",
-    "status": "partial",
+    "status": "delete_failed",
     "results": {
       "instagram": {
         "error": "watermarked media unavailable"
@@ -14339,7 +14350,13 @@
     "verifyStatus": "passed",
     "videoAttribution": "Pixabay",
     "processedAt": "2026-10-02T05:16:26.954Z",
-    "retryCount": 3
+    "retryCount": 3,
+    "cleanupResults": {
+      "instagram": {
+        "ok": false,
+        "detail": "이 플랫폼에 실제 게시물 id가 없음(발행 실패였던 것으로 보임)"
+      }
+    }
   },
   {
     "id": "b14acc30-0867-467c-a102-390e05b405a9",
@@ -14394,7 +14411,7 @@
       "bluesky"
     ],
     "scheduledAt": "2026-09-24T23:56:52.932Z",
-    "status": "published",
+    "status": "delete_failed",
     "results": {
       "bluesky": {
         "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mwskrlywyi23",
@@ -14423,7 +14440,10 @@
     },
     "blogUrl": "https://landinkorea.com/posts/korea-ktx-vs-srt-vs-intercity-bus-for-long-distance-travel.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
     "verifyStatus": "passed",
-    "processedAt": "2026-10-01T09:38:56.416Z"
+    "processedAt": "2026-10-01T09:38:56.416Z",
+    "cleanupResults": {
+      "bluesky": true
+    }
   },
   {
     "id": "461171f9-c119-4b0d-9c81-468b0f2843e4",
@@ -14436,7 +14456,7 @@
       "mastodon"
     ],
     "scheduledAt": "2026-09-25T00:25:30.795Z",
-    "status": "published",
+    "status": "deleted",
     "results": {
       "mastodon": {
         "id": "117366821078265282",
@@ -14466,7 +14486,12 @@
     "blogUrl": "https://landinkorea.com/posts/korea-ktx-vs-srt-vs-intercity-bus-for-long-distance-travel.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
     "verifyStatus": "passed",
     "processedAt": "2026-10-01T17:26:08.791Z",
-    "retryCount": 1
+    "retryCount": 1,
+    "cleanupResults": {
+      "mastodon": {
+        "ok": true
+      }
+    }
   },
   {
     "id": "98331437-b738-4202-9917-44b023da64f9",
@@ -18254,7 +18279,7 @@
       "instagram"
     ],
     "scheduledAt": "2026-09-30T02:54:50.806Z",
-    "status": "published",
+    "status": "delete_failed",
     "results": {
       "instagram": {
         "id": "18071769452754616"
@@ -18283,7 +18308,13 @@
       "checkedAt": "2026-09-30T02:35:28.151Z"
     },
     "verifyStatus": "passed",
-    "processedAt": "2026-10-05T06:38:31.797Z"
+    "processedAt": "2026-10-05T06:38:31.797Z",
+    "cleanupResults": {
+      "instagram": {
+        "ok": false,
+        "detail": "Unsupported delete request. Object with ID '18071769452754616' does not exist, cannot be loaded due to missing permissions, or does not support this operation"
+      }
+    }
   },
   {
     "id": "e1fb82b4-c7e3-4cf9-bc1c-637580c6cd20",
@@ -18293,7 +18324,7 @@
       "bluesky"
     ],
     "scheduledAt": "2026-09-30T03:13:19.282Z",
-    "status": "published",
+    "status": "delete_failed",
     "results": {
       "bluesky": {
         "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mx3uh5d2iq2w",
@@ -18324,7 +18355,10 @@
     },
     "blogUrl": "https://landinkorea.com/posts/korea-jeju-island.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
     "verifyStatus": "passed",
-    "processedAt": "2026-10-05T02:25:58.951Z"
+    "processedAt": "2026-10-05T02:25:58.951Z",
+    "cleanupResults": {
+      "bluesky": true
+    }
   },
   {
     "id": "4a3ee896-9344-4041-b705-57085d3269e8",
@@ -18334,7 +18368,7 @@
       "mastodon"
     ],
     "scheduledAt": "2026-09-30T03:44:10.531Z",
-    "status": "published",
+    "status": "deleted",
     "results": {
       "mastodon": {
         "id": "117386379700012116",
@@ -18365,7 +18399,12 @@
     },
     "blogUrl": "https://landinkorea.com/posts/korea-jeju-island.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
     "verifyStatus": "passed",
-    "processedAt": "2026-10-05T04:20:07.936Z"
+    "processedAt": "2026-10-05T04:20:07.936Z",
+    "cleanupResults": {
+      "mastodon": {
+        "ok": true
+      }
+    }
   },
   {
     "id": "75bdeac5-c25a-4ce0-9fac-eb02d6d889d6",
@@ -38200,7 +38239,7 @@
       "threads"
     ],
     "scheduledAt": "2026-11-05T15:28:26.823Z",
-    "status": "published",
+    "status": "delete_failed",
     "results": {
       "threads": {
         "id": "18038517296853588"
@@ -38224,7 +38263,13 @@
       "checkedAt": "2026-11-05T02:31:27.466Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-hiking-in-korea-like-a-local-subway-accessible-peaks-seasonal-trail-closures-and-the-gear-culture.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
-    "processedAt": "2026-11-07T06:24:51.734Z"
+    "processedAt": "2026-11-07T06:24:51.734Z",
+    "cleanupResults": {
+      "threads": {
+        "ok": false,
+        "detail": "Application does not have permission for this action"
+      }
+    }
   },
   {
     "id": "bf512677-7c02-44c6-ab5b-91913e623d73",
@@ -38268,7 +38313,7 @@
       "threads"
     ],
     "scheduledAt": "2026-11-05T16:26:41.963Z",
-    "status": "published",
+    "status": "delete_failed",
     "results": {
       "threads": {
         "id": "17933107332165157"
@@ -38293,7 +38338,13 @@
       "pattern": "D"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-luggage-storage-forwarding-services.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
-    "processedAt": "2026-11-07T12:25:36.785Z"
+    "processedAt": "2026-11-07T12:25:36.785Z",
+    "cleanupResults": {
+      "threads": {
+        "ok": false,
+        "detail": "Application does not have permission for this action"
+      }
+    }
   },
   {
     "id": "7987b882-0f3b-4d74-9a66-e73bcbb989f0",
@@ -38337,7 +38388,7 @@
       "threads"
     ],
     "scheduledAt": "2026-11-05T09:42:54.195Z",
-    "status": "published",
+    "status": "delete_failed",
     "results": {
       "threads": {
         "id": "17925798627444322"
@@ -38361,7 +38412,13 @@
       "checkedAt": "2026-11-05T05:05:47.052Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-trash-and-recycling-rules-for-residents.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
-    "processedAt": "2026-11-07T03:24:58.047Z"
+    "processedAt": "2026-11-07T03:24:58.047Z",
+    "cleanupResults": {
+      "threads": {
+        "ok": false,
+        "detail": "Application does not have permission for this action"
+      }
+    }
   },
   {
     "id": "d6c93fb5-a45e-4b21-8e2c-0c6ee978bf76",
@@ -40189,7 +40246,7 @@
       "threads"
     ],
     "scheduledAt": "2026-11-07T07:36:23.214Z",
-    "status": "published",
+    "status": "delete_failed",
     "results": {
       "threads": {
         "id": "18134065618689920"
@@ -40213,7 +40270,13 @@
       "checkedAt": "2026-11-07T07:15:47.760Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-tipping-and-service-charges.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
-    "processedAt": "2026-11-08T13:54:06.033Z"
+    "processedAt": "2026-11-08T13:54:06.033Z",
+    "cleanupResults": {
+      "threads": {
+        "ok": false,
+        "detail": "Unsupported delete request. Object with ID '18134065618689920' does not exist, cannot be loaded due to missing permissions, or does not support this operation"
+      }
+    }
   },
   {
     "id": "d8014b3f-70a1-4559-a351-f257bd3e7d65",
@@ -40257,7 +40320,7 @@
       "threads"
     ],
     "scheduledAt": "2026-11-07T22:52:30.059Z",
-    "status": "published",
+    "status": "delete_failed",
     "results": {
       "threads": {
         "id": "18118054385019165"
@@ -40282,7 +40345,13 @@
       "pattern": "O"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-timing-cherry-blossoms-and-fall-foliage-in-korea-without-hitting-peak-crowds.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
-    "processedAt": "2026-11-09T07:52:11.323Z"
+    "processedAt": "2026-11-09T07:52:11.323Z",
+    "cleanupResults": {
+      "threads": {
+        "ok": false,
+        "detail": "Unsupported delete request. Object with ID '18118054385019165' does not exist, cannot be loaded due to missing permissions, or does not support this operation"
+      }
+    }
   },
   {
     "id": "5e45e9f1-3fd5-4a5f-afa9-bdd41aab78a1",
@@ -40326,7 +40395,7 @@
       "threads"
     ],
     "scheduledAt": "2026-11-07T13:56:38.582Z",
-    "status": "published",
+    "status": "delete_failed",
     "results": {
       "threads": {
         "id": "18124014188092544"
@@ -40350,7 +40419,13 @@
       "checkedAt": "2026-11-07T09:38:49.906Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-mobile-payments-in-korea-kakao-pay-naver-pay-and-why-apple-pay-doesn-t-work.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
-    "processedAt": "2026-11-08T22:54:48.542Z"
+    "processedAt": "2026-11-08T22:54:48.542Z",
+    "cleanupResults": {
+      "threads": {
+        "ok": false,
+        "detail": "Application does not have permission for this action"
+      }
+    }
   },
   {
     "id": "8b10b8c7-ca47-418e-b340-7b69901ba0da",
@@ -40394,7 +40469,7 @@
       "threads"
     ],
     "scheduledAt": "2026-11-07T23:06:12.554Z",
-    "status": "published",
+    "status": "delete_failed",
     "results": {
       "threads": {
         "id": "18235219678323591"
@@ -40418,7 +40493,13 @@
       "checkedAt": "2026-11-07T11:10:42.244Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-learning-to-read-hangul-in-a-weekend-and-why-romanized-signs-still-confuse-you.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
-    "processedAt": "2026-11-09T10:54:43.889Z"
+    "processedAt": "2026-11-09T10:54:43.889Z",
+    "cleanupResults": {
+      "threads": {
+        "ok": false,
+        "detail": "Application does not have permission for this action"
+      }
+    }
   },
   {
     "id": "93fe7b5e-61da-4d5c-8138-e8183233b940",
@@ -40537,7 +40618,7 @@
       "threads"
     ],
     "scheduledAt": "2026-11-08T07:08:58.360Z",
-    "status": "published",
+    "status": "delete_failed",
     "results": {
       "threads": {
         "id": "18154171690548487"
@@ -40561,7 +40642,13 @@
       "checkedAt": "2026-11-08T02:32:47.574Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-gyeongbokgung-palace.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
-    "processedAt": "2026-11-09T22:54:56.455Z"
+    "processedAt": "2026-11-09T22:54:56.455Z",
+    "cleanupResults": {
+      "threads": {
+        "ok": false,
+        "detail": "Application does not have permission for this action"
+      }
+    }
   },
   {
     "id": "ef65c823-1ab3-4fc9-a5ef-8e46bd154488",
@@ -40574,7 +40661,7 @@
       "threads"
     ],
     "scheduledAt": "2026-11-08T18:39:29.227Z",
-    "status": "published",
+    "status": "delete_failed",
     "results": {
       "threads": {
         "id": "18123999137064706"
@@ -40599,7 +40686,13 @@
     },
     "blogUrl": "https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
     "processedAt": "2026-11-10T12:26:13.779Z",
-    "retryCount": 1
+    "retryCount": 1,
+    "cleanupResults": {
+      "threads": {
+        "ok": false,
+        "detail": "Application does not have permission for this action"
+      }
+    }
   },
   {
     "id": "63cff5e8-4943-4f49-ae2e-9321ff0cb9cd",
@@ -40612,7 +40705,7 @@
       "threads"
     ],
     "scheduledAt": "2026-11-08T19:04:42.807Z",
-    "status": "published",
+    "status": "delete_failed",
     "results": {
       "threads": {
         "id": "18125214493926885"
@@ -40636,7 +40729,13 @@
       "checkedAt": "2026-11-08T05:07:24.784Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-busan-haeundae-beach-gamcheon-culture-village.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
-    "processedAt": "2026-11-10T15:26:46.670Z"
+    "processedAt": "2026-11-10T15:26:46.670Z",
+    "cleanupResults": {
+      "threads": {
+        "ok": false,
+        "detail": "Application does not have permission for this action"
+      }
+    }
   },
   {
     "id": "cf010b53-731d-4b98-9912-4bcb2041bee8",
@@ -40804,7 +40903,7 @@
       "threads"
     ],
     "scheduledAt": "2026-11-08T15:07:00.896Z",
-    "status": "published",
+    "status": "delete_failed",
     "results": {
       "threads": {
         "id": "17921297745462993"
@@ -40828,7 +40927,13 @@
       "checkedAt": "2026-11-08T06:00:38.976Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-esim-mobile-data.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
-    "processedAt": "2026-11-10T04:55:47.772Z"
+    "processedAt": "2026-11-10T04:55:47.772Z",
+    "cleanupResults": {
+      "threads": {
+        "ok": false,
+        "detail": "Application does not have permission for this action"
+      }
+    }
   },
   {
     "id": "4ae24a85-b76e-4f19-8f27-dc2bb3212e7c",
@@ -40841,7 +40946,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-11-08T15:13:54.281Z",
-    "status": "published",
+    "status": "deleted",
     "results": {
       "facebook": {
         "id": "122129780343446391",
@@ -40866,7 +40971,12 @@
       "checkedAt": "2026-11-08T06:00:38.976Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-esim-mobile-data.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
-    "processedAt": "2026-11-08T15:24:19.619Z"
+    "processedAt": "2026-11-08T15:24:19.619Z",
+    "cleanupResults": {
+      "facebook": {
+        "ok": true
+      }
+    }
   },
   {
     "id": "5a7c2e6e-6ec4-4364-98a6-69903cd2216b",
@@ -40879,7 +40989,7 @@
       "bluesky"
     ],
     "scheduledAt": "2026-11-08T15:36:03.119Z",
-    "status": "published",
+    "status": "delete_failed",
     "results": {
       "bluesky": {
         "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mzsusixoyc2g",
@@ -40904,7 +41014,10 @@
       "checkedAt": "2026-11-08T06:00:38.976Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-esim-mobile-data.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
-    "processedAt": "2026-11-08T16:53:58.203Z"
+    "processedAt": "2026-11-08T16:53:58.203Z",
+    "cleanupResults": {
+      "bluesky": true
+    }
   },
   {
     "id": "f86f7898-12ea-4a37-9a60-2181070f81a1",
@@ -40917,7 +41030,7 @@
       "mastodon"
     ],
     "scheduledAt": "2026-11-08T16:10:27.120Z",
-    "status": "published",
+    "status": "deleted",
     "results": {
       "mastodon": {
         "id": "117581862677658882",
@@ -40942,7 +41055,12 @@
       "checkedAt": "2026-11-08T06:00:38.976Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-esim-mobile-data.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
-    "processedAt": "2026-11-08T16:54:01.500Z"
+    "processedAt": "2026-11-08T16:54:01.500Z",
+    "cleanupResults": {
+      "mastodon": {
+        "ok": true
+      }
+    }
   },
   {
     "id": "343273c0-1fd7-4a7f-83c2-f97d1e77f16a",
@@ -40955,7 +41073,7 @@
       "threads"
     ],
     "scheduledAt": "2026-11-09T02:06:54.465Z",
-    "status": "published",
+    "status": "delete_failed",
     "results": {
       "threads": {
         "id": "18031536188879171"
@@ -40979,7 +41097,13 @@
       "checkedAt": "2026-11-08T06:07:39.761Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-t-money-transit-card.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
-    "processedAt": "2026-11-10T18:25:49.439Z"
+    "processedAt": "2026-11-10T18:25:49.439Z",
+    "cleanupResults": {
+      "threads": {
+        "ok": false,
+        "detail": "Unsupported delete request. Object with ID '18031536188879171' does not exist, cannot be loaded due to missing permissions, or does not support this operation"
+      }
+    }
   },
   {
     "id": "9baea3e3-8ab2-4deb-80d6-6fca9385c06c",
@@ -40992,7 +41116,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-11-09T02:10:38.455Z",
-    "status": "published",
+    "status": "deleted",
     "results": {
       "facebook": {
         "id": "122129869761446391",
@@ -41017,7 +41141,12 @@
       "checkedAt": "2026-11-08T06:07:39.761Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-t-money-transit-card.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
-    "processedAt": "2026-11-09T03:24:28.238Z"
+    "processedAt": "2026-11-09T03:24:28.238Z",
+    "cleanupResults": {
+      "facebook": {
+        "ok": true
+      }
+    }
   },
   {
     "id": "5c51f82c-38d9-4f66-bee0-6b96c9158cf4",
@@ -41030,7 +41159,7 @@
       "bluesky"
     ],
     "scheduledAt": "2026-11-09T02:34:52.116Z",
-    "status": "published",
+    "status": "delete_failed",
     "results": {
       "bluesky": {
         "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mztxzzdtke2s",
@@ -41055,7 +41184,10 @@
       "checkedAt": "2026-11-08T06:07:39.761Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-t-money-transit-card.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
-    "processedAt": "2026-11-09T03:24:31.234Z"
+    "processedAt": "2026-11-09T03:24:31.234Z",
+    "cleanupResults": {
+      "bluesky": true
+    }
   },
   {
     "id": "a89f0393-d037-442d-b5c9-712a8f2d347a",
@@ -41068,7 +41200,7 @@
       "mastodon"
     ],
     "scheduledAt": "2026-11-09T03:08:50.395Z",
-    "status": "published",
+    "status": "deleted",
     "results": {
       "mastodon": {
         "id": "117584342155450321",
@@ -41093,7 +41225,12 @@
       "checkedAt": "2026-11-08T06:07:39.761Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-t-money-transit-card.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
-    "processedAt": "2026-11-09T03:24:35.895Z"
+    "processedAt": "2026-11-09T03:24:35.895Z",
+    "cleanupResults": {
+      "mastodon": {
+        "ok": true
+      }
+    }
   },
   {
     "id": "970963b2-03b3-4281-ad17-b5fa60a712f6",
@@ -41321,7 +41458,7 @@
       "threads"
     ],
     "scheduledAt": "2026-11-09T16:08:48.655Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-11-09T01:10:09.071Z",
     "approved": true,
@@ -41340,7 +41477,8 @@
       "model": "groq",
       "checkedAt": "2026-11-09T01:06:52.352Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-seoul-subway-details-nobody-tells-you-exit-numbers-transfer-walks-express-trains-and-the-last-train.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-seoul-subway-details-nobody-tells-you-exit-numbers-transfer-walks-express-trains-and-the-last-train.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "rejectReason": "guidebooks-opener-cleanup"
   },
   {
     "id": "b7028651-b32f-4941-bce5-04bc7d7e411b",
@@ -41353,7 +41491,7 @@
       "threads"
     ],
     "scheduledAt": "2026-11-09T10:29:14.139Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-11-09T02:06:46.236Z",
     "approved": true,
@@ -41372,7 +41510,8 @@
       "model": "groq",
       "checkedAt": "2026-11-09T02:03:29.933Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-opening-a-korean-bank-account-as-a-foreigner-and-why-your-arc-and-phone-number-come-first.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-opening-a-korean-bank-account-as-a-foreigner-and-why-your-arc-and-phone-number-come-first.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "rejectReason": "guidebooks-opener-cleanup"
   },
   {
     "id": "bd4784ae-cf96-446e-87d5-13a641c75888",
@@ -41417,7 +41556,7 @@
       "threads"
     ],
     "scheduledAt": "2026-11-09T06:13:24.723Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-11-09T05:04:17.298Z",
     "approved": true,
@@ -41437,7 +41576,8 @@
       "checkedAt": "2026-11-09T05:02:04.046Z",
       "pattern": "D"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-tipping-and-service-charges.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-tipping-and-service-charges.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "rejectReason": "guidebooks-opener-cleanup"
   },
   {
     "id": "11dab8b1-a0ac-4ee5-999c-bf647b50ebe8",
@@ -41450,7 +41590,7 @@
       "threads"
     ],
     "scheduledAt": "2026-11-09T08:29:02.151Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-11-09T06:39:15.680Z",
     "approved": true,
@@ -41469,7 +41609,8 @@
       "model": "groq",
       "checkedAt": "2026-11-09T06:35:50.077Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-timing-cherry-blossoms-and-fall-foliage-in-korea-without-hitting-peak-crowds.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-timing-cherry-blossoms-and-fall-foliage-in-korea-without-hitting-peak-crowds.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "rejectReason": "guidebooks-opener-cleanup"
   },
   {
     "id": "b891540b-3b7d-4753-a499-c613ddb3b86d",
@@ -41516,7 +41657,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-11-09T13:45:28.116Z",
-    "status": "published",
+    "status": "deleted",
     "results": {
       "facebook": {
         "id": "122129977893446391",
@@ -41541,7 +41682,12 @@
       "checkedAt": "2026-11-09T09:28:41.521Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-learning-to-read-hangul-in-a-weekend-and-why-romanized-signs-still-confuse-you.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
-    "processedAt": "2026-11-09T15:24:26.088Z"
+    "processedAt": "2026-11-09T15:24:26.088Z",
+    "cleanupResults": {
+      "facebook": {
+        "ok": true
+      }
+    }
   },
   {
     "id": "85cd361d-6ae1-4814-9e14-0e457a0a7a17",
@@ -41592,7 +41738,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-11-09T21:13:58.248Z",
-    "status": "published",
+    "status": "deleted",
     "results": {
       "facebook": {
         "id": "122130058053446391",
@@ -41617,7 +41763,12 @@
       "checkedAt": "2026-11-09T12:31:49.817Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-reserving-restaurants-and-joining-waitlists-in-korea-catch-table-naver-booking-and-the-tabling-tablet.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
-    "processedAt": "2026-11-09T21:24:38.207Z"
+    "processedAt": "2026-11-09T21:24:38.207Z",
+    "cleanupResults": {
+      "facebook": {
+        "ok": true
+      }
+    }
   },
   {
     "id": "44852976-4fd1-46f3-b27b-1a4a692d77cd",
@@ -41630,7 +41781,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-11-09T22:59:42.812Z",
-    "status": "published",
+    "status": "deleted",
     "results": {
       "facebook": {
         "id": "122130089133446391",
@@ -41655,7 +41806,12 @@
       "checkedAt": "2026-11-09T14:10:02.378Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-doing-laundry-in-korea-coin-laundromats-the-dryer-problem-and-neighborhood-dry-cleaners.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
-    "processedAt": "2026-11-10T00:24:21.856Z"
+    "processedAt": "2026-11-10T00:24:21.856Z",
+    "cleanupResults": {
+      "facebook": {
+        "ok": true
+      }
+    }
   },
   {
     "id": "36399b9f-001b-4368-9c50-b0ab3794b6e8",
@@ -41809,7 +41965,7 @@
       "threads"
     ],
     "scheduledAt": "2026-11-10T11:36:22.307Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-11-10T03:41:42.275Z",
     "approved": true,
@@ -41828,7 +41984,8 @@
       "model": "groq",
       "checkedAt": "2026-11-10T03:38:19.165Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-jeju-island.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-jeju-island.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "rejectReason": "guidebooks-opener-cleanup"
   },
   {
     "id": "d6c640fe-8e71-4552-be75-ab1615adae1d",
@@ -41911,7 +42068,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-11-10T14:37:55.978Z",
-    "status": "published",
+    "status": "deleted",
     "results": {
       "facebook": {
         "id": "122130300399446391",
@@ -41937,7 +42094,12 @@
       "pattern": "C"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-travel-advisories-safety-notices.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
-    "processedAt": "2026-11-10T19:53:35.268Z"
+    "processedAt": "2026-11-10T19:53:35.268Z",
+    "cleanupResults": {
+      "facebook": {
+        "ok": true
+      }
+    }
   },
   {
     "id": "4759ae52-3927-425f-933e-ca0862ac60a6",
@@ -42078,7 +42240,7 @@
       "threads"
     ],
     "scheduledAt": "2026-11-10T14:13:41.574Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-11-10T07:26:50.817Z",
     "approved": true,
@@ -42097,7 +42259,8 @@
       "model": "groq",
       "checkedAt": "2026-11-10T07:23:34.042Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-everland-vs-lotte-world-theme-parks.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-everland-vs-lotte-world-theme-parks.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "rejectReason": "guidebooks-opener-cleanup"
   },
   {
     "id": "423266d2-5083-424a-b21d-5bdc746f364b",
@@ -42110,7 +42273,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-11-10T14:17:02.047Z",
-    "status": "published",
+    "status": "deleted",
     "results": {
       "facebook": {
         "id": "122130278679446391",
@@ -42135,7 +42298,12 @@
       "checkedAt": "2026-11-10T07:23:34.042Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-everland-vs-lotte-world-theme-parks.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
-    "processedAt": "2026-11-10T16:53:33.660Z"
+    "processedAt": "2026-11-10T16:53:33.660Z",
+    "cleanupResults": {
+      "facebook": {
+        "ok": true
+      }
+    }
   },
   {
     "id": "eef03190-f034-48f4-b4c9-d5915893cec6",
@@ -42148,7 +42316,7 @@
       "bluesky"
     ],
     "scheduledAt": "2026-11-10T14:40:50.226Z",
-    "status": "published",
+    "status": "delete_failed",
     "results": {
       "bluesky": {
         "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mzxquji2eu26",
@@ -42173,7 +42341,10 @@
       "checkedAt": "2026-11-10T07:23:34.042Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-everland-vs-lotte-world-theme-parks.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
-    "processedAt": "2026-11-10T15:26:49.365Z"
+    "processedAt": "2026-11-10T15:26:49.365Z",
+    "cleanupResults": {
+      "bluesky": true
+    }
   },
   {
     "id": "1fc15402-b02c-4db1-8ff9-ca7447af3f60",
@@ -42186,7 +42357,7 @@
       "mastodon"
     ],
     "scheduledAt": "2026-11-10T15:14:44.645Z",
-    "status": "published",
+    "status": "deleted",
     "results": {
       "mastodon": {
         "id": "117592844643903088",
@@ -42211,7 +42382,12 @@
       "checkedAt": "2026-11-10T07:23:34.042Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-everland-vs-lotte-world-theme-parks.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
-    "processedAt": "2026-11-10T15:26:53.970Z"
+    "processedAt": "2026-11-10T15:26:53.970Z",
+    "cleanupResults": {
+      "mastodon": {
+        "ok": true
+      }
+    }
   },
   {
     "id": "2cfcd777-ff62-4710-9801-6323ca2ef933",
@@ -42224,7 +42400,7 @@
       "threads"
     ],
     "scheduledAt": "2026-11-11T01:02:36.609Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-11-10T07:32:24.547Z",
     "approved": true,
@@ -42243,7 +42419,8 @@
       "model": "groq",
       "checkedAt": "2026-11-10T07:30:26.108Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-hongdae-nightlife-and-youth-culture-district.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-hongdae-nightlife-and-youth-culture-district.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "rejectReason": "guidebooks-opener-cleanup"
   },
   {
     "id": "e977bf85-e32a-45c3-aa77-3b9092bda8ce",
@@ -42256,7 +42433,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-11-11T01:06:56.253Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-11-10T07:32:24.564Z",
     "approved": true,
@@ -42275,7 +42452,8 @@
       "model": "groq",
       "checkedAt": "2026-11-10T07:30:26.108Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-hongdae-nightlife-and-youth-culture-district.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-hongdae-nightlife-and-youth-culture-district.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "rejectReason": "guidebooks-opener-cleanup"
   },
   {
     "id": "4d5143d6-123f-494e-aaf8-cfde639afe97",
@@ -42288,7 +42466,7 @@
       "bluesky"
     ],
     "scheduledAt": "2026-11-11T01:35:18.786Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-11-10T07:32:24.580Z",
     "approved": true,
@@ -42307,7 +42485,8 @@
       "model": "groq",
       "checkedAt": "2026-11-10T07:30:26.108Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-hongdae-nightlife-and-youth-culture-district.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-hongdae-nightlife-and-youth-culture-district.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "rejectReason": "guidebooks-opener-cleanup"
   },
   {
     "id": "efbd8be2-b05a-4072-bd47-91e118535dec",
@@ -42320,7 +42499,7 @@
       "mastodon"
     ],
     "scheduledAt": "2026-11-11T02:05:09.626Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-11-10T07:32:24.598Z",
     "approved": true,
@@ -42339,7 +42518,8 @@
       "model": "groq",
       "checkedAt": "2026-11-10T07:30:26.108Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-hongdae-nightlife-and-youth-culture-district.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-hongdae-nightlife-and-youth-culture-district.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
+    "rejectReason": "guidebooks-opener-cleanup"
   },
   {
     "id": "29948346-c045-4131-8d48-9ee9536c1043",
@@ -42352,7 +42532,7 @@
       "threads"
     ],
     "scheduledAt": "2026-11-11T04:49:28.532Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-11-10T07:38:48.852Z",
     "approved": true,
@@ -42371,7 +42551,8 @@
       "model": "groq",
       "checkedAt": "2026-11-10T07:36:01.288Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-nami-island-and-petite-france-day-trip.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-nami-island-and-petite-france-day-trip.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "rejectReason": "guidebooks-opener-cleanup"
   },
   {
     "id": "b651ab9f-e207-4b25-846d-5ac45b2f8ce7",
@@ -42384,7 +42565,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-11-11T04:53:50.340Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-11-10T07:38:48.870Z",
     "approved": true,
@@ -42403,7 +42584,8 @@
       "model": "groq",
       "checkedAt": "2026-11-10T07:36:01.288Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-nami-island-and-petite-france-day-trip.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-nami-island-and-petite-france-day-trip.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "rejectReason": "guidebooks-opener-cleanup"
   },
   {
     "id": "3f26d010-1426-43ec-8657-4c07cae99996",
@@ -42416,7 +42598,7 @@
       "bluesky"
     ],
     "scheduledAt": "2026-11-11T05:21:06.168Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-11-10T07:38:48.887Z",
     "approved": true,
@@ -42435,7 +42617,8 @@
       "model": "groq",
       "checkedAt": "2026-11-10T07:36:01.288Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-nami-island-and-petite-france-day-trip.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-nami-island-and-petite-france-day-trip.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "rejectReason": "guidebooks-opener-cleanup"
   },
   {
     "id": "70198bcc-36d3-462b-8874-6e26e5afd01c",
@@ -42448,7 +42631,7 @@
       "mastodon"
     ],
     "scheduledAt": "2026-11-11T05:50:13.157Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-11-10T07:38:48.906Z",
     "approved": true,
@@ -42467,7 +42650,8 @@
       "model": "groq",
       "checkedAt": "2026-11-10T07:36:01.288Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-nami-island-and-petite-france-day-trip.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-nami-island-and-petite-france-day-trip.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
+    "rejectReason": "guidebooks-opener-cleanup"
   },
   {
     "id": "25fdb8c3-75c7-4d95-b1e3-d1abaf8cb9c6",
@@ -42480,7 +42664,7 @@
       "threads"
     ],
     "scheduledAt": "2026-11-10T11:07:03.481Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-11-10T08:11:36.638Z",
     "approved": true,
@@ -42499,7 +42683,8 @@
       "model": "groq",
       "checkedAt": "2026-11-10T08:08:20.184Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-domestic-flights-vs-ktx-for-jeju-and-long-distance-trips.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-domestic-flights-vs-ktx-for-jeju-and-long-distance-trips.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "rejectReason": "guidebooks-opener-cleanup"
   },
   {
     "id": "b791d09b-274f-4f35-9958-358366a86f12",
@@ -42576,7 +42761,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-11-10T21:47:28.447Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-11-10T09:49:06.790Z",
     "approved": true,
@@ -42595,7 +42780,8 @@
       "model": "groq",
       "checkedAt": "2026-11-10T09:45:50.279Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-first-timer-etiquette-common-mistakes.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-first-timer-etiquette-common-mistakes.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "rejectReason": "guidebooks-opener-cleanup"
   },
   {
     "id": "a18dd7a6-4de6-45fb-b4da-f461c7fc6296",
