@@ -43264,5 +43264,39 @@
       "checkedAt": "2026-11-11T06:12:37.110Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-where-koreans-actually-buy-everyday-stuff-daiso-vs-olive-young-vs-hypermarkets-vs-the-traditional-market.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "e619bec4-00e6-4485-884c-bb360a084bd4",
+    "text": "Nobody tells you this before you land.\n\nFor a Seoul-to-Busan-length trip, the real choice isn't just KTX vs.\n\nthe bus — it's KTX vs.\n\nSRT, and most first-timers don't even know SRT exists.\n\nHow much did this actually cost you on your trip?\n\n📖 Open the Land in Korea link in our profile and search “KTX vs. SRT vs. intercity bus for long-distance travel”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794379901131-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794379901131-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-11T07:12:37.360Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-11T06:51:41.930Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/17113716/pexels-photo-17113716.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "KTX vs. SRT vs. intercity bus for long-distance travel",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq 호출 실패: Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kzzdmjzveggs757apxyanzes` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199315, Requested 936. Please try again in 1m48.432s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing",
+      "model": "groq",
+      "checkedAt": "2026-11-11T06:51:41.131Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-11T06:51:41.908Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-ktx-vs-srt-vs-intercity-bus-for-long-distance-travel.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
