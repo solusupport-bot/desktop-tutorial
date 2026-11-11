@@ -43298,5 +43298,37 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-11T06:51:41.908Z",
     "blogUrl": "https://landinkorea.com/posts/korea-ktx-vs-srt-vs-intercity-bus-for-long-distance-travel.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "75d0c7e4-56d9-4731-92aa-6912ec5fe792",
+    "text": "There's one detail that trips up almost every first-timer. Sorting recyclables isn't what actually trips people up in Korea — it's using the wrong bag.\n\n1. General waste has to go into an official, district-specific bag (종량제 봉투, sold at local convenience stores and supermarkets); bags bought in a different district aren't accepted even if they look identical, since the collection fee is built into that specific bag's price.\n2. This catches foreign residents and short-term renters far more than tourists in hotels, since nobody hands you the local bag with your key.\n\nWhat's your biggest tip for first-timers landing in Korea?\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-trash-and-recycling-rules-for-residents.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794380870714-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794380870714-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-11T17:54:41.003Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-11T07:07:51.652Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/20818468/pexels-photo-20818468.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Trash and recycling rules for residents",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 맞으며 문장도 자연하고 사실도 정확해 여행 정보로 활용 가능",
+      "model": "groq",
+      "checkedAt": "2026-11-11T07:04:34.761Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-trash-and-recycling-rules-for-residents.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]
