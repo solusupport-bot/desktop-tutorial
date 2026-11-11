@@ -9,7 +9,8 @@
       "at://did:plc:hex7kwe54kvjqp65lgck5umt/app.bsky.feed.post/3ljdvuvx2yk2m",
       "at://did:plc:4i5aq6downq4cpgkgvxizvrk/app.bsky.feed.post/3mk6sesf26k2h",
       "at://did:plc:42rvbnn2kkxpw3xbbvdmvukq/app.bsky.feed.post/3mc5ckwhebc2a",
-      "at://did:plc:w6ghabrludkfxmmfnfd2geiv/app.bsky.feed.post/3lmqnia4k4s2n"
+      "at://did:plc:w6ghabrludkfxmmfnfd2geiv/app.bsky.feed.post/3lmqnia4k4s2n",
+      "at://did:plc:bphsvotbzylvfd6h2x5g42i2/app.bsky.feed.post/3mm47kilbah2j"
     ]
   },
   "reddit": {
@@ -23,7 +24,8 @@
       "117586204606892960",
       "117593265123633818",
       "117593741788575893",
-      "117588070908936327"
+      "117588070908936327",
+      "117592100427232768"
     ]
   }
 }
