@@ -43390,8 +43390,13 @@
       "facebook"
     ],
     "scheduledAt": "2026-11-11T11:02:58.937Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "122130458739446391",
+        "post_id": "1288453561012463_122130458763446391"
+      }
+    },
     "createdAt": "2026-11-11T08:17:17.851Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -43410,7 +43415,8 @@
       "checkedAt": "2026-11-11T08:15:19.716Z",
       "pattern": "C"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-jjimjilbang-etiquette.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-jjimjilbang-etiquette.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-11T13:53:28.924Z"
   },
   {
     "id": "35219633-a6dd-4bad-a38d-64a53839998c",
