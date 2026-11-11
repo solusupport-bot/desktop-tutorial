@@ -43400,5 +43400,38 @@
       "pattern": "C"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-jjimjilbang-etiquette.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "35219633-a6dd-4bad-a38d-64a53839998c",
+    "text": "There's one detail that trips up almost every first-timer.\n\nBukchon Hanok Village is a real residential neighborhood, not a museum — and that's exactly why so many visitors get it wrong.\n\nPeople still live in these traditional hanok houses, so some alleys post 'quiet please' signs after certain hours out of respect for residents.\n\nThe best photo spots (like the view down the sloped alley near Gahoe-dong) get crowded fast in the morning.\n\nDid this trip you up your first time too? Drop a comment.\n\n📖 Open the Land in Korea link in our profile and search “Bukchon Hanok Village”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794389996198-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794389996198-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-11T15:10:33.455Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-11T09:39:57.229Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31990913/pexels-photo-31990913.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Bukchon Hanok Village",
+    "qualityGate": {
+      "pass": true,
+      "reason": "관련 주제와 사실이 정확하고 유용하지만 약간 어색한 표현이 있어도 발행에 큰 문제는 없다",
+      "model": "groq",
+      "checkedAt": "2026-11-11T09:36:39.242Z",
+      "pattern": "O"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-bukchon-hanok-village.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
