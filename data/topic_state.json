@@ -1,12 +1,6 @@
 {
-  "lastIndex": 5,
+  "lastIndex": 6,
   "history": [
-    {
-      "index": 32,
-      "topic": "Why Google Maps fails in Korea and how the road-name address system actually works",
-      "at": "2026-11-04T13:30:44.101Z",
-      "source": "threads-fill"
-    },
     {
       "index": 33,
       "topic": "Seoul subway details nobody tells you: exit numbers, transfer walks, express trains, and the last train",
@@ -1199,6 +1193,12 @@
       "index": 5,
       "topic": "Jeju Island",
       "at": "2026-11-11T13:53:30.232Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 6,
+      "topic": "eSIM & mobile data",
+      "at": "2026-11-11T14:02:08.923Z",
       "source": "instagram-fill"
     }
   ],
@@ -2468,6 +2468,9 @@
     ],
     "Jeju Island": [
       "Jongeun Kim"
+    ],
+    "eSIM & mobile data": [
+      "thuan Nguyen"
     ]
   }
 }
