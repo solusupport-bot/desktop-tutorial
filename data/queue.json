@@ -44546,5 +44546,37 @@
       "checkedAt": "2026-11-12T08:11:27.333Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-mobile-payments-in-korea-kakao-pay-naver-pay-and-why-apple-pay-doesn-t-work.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "e634e3e4-1813-49ed-a6b3-6b38f196976e",
+    "text": "There's one detail that trips up almost every first-timer.\n\nHangul was designed to be learnable, and that's not a marketing line — it's an alphabet of 24 basic letters assembled into square syllable blocks, and most people can sound out words after a few focused hours.\n\nThe payoff is immediate in restaurants and cafes, because a big share of menu items are loanwords written phonetically: 아메리카노 (americano), 치즈 (cheese), 케이크 (cake), 라면 (ramyeon).\n\nBeing able to decode even slowly means you can order at a Korean-only kiosk, recognize a bus destination, and tell 입구 (entrance) from 출구 (exit).\n\nDid this trip you up your first time too? Drop a comment.\n\n📖 Open the Land in Korea link in our profile and search “Learning to read Hangul in a weekend — and why romanized signs still confuse you”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794476151755-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794476151755-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-12T15:34:21.237Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-12T09:35:52.750Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g004c25d7cb68fc5aeeac46a4d4271988aa78ffb55ac881f0ee3e9494b8c6a413707e11fcdb71bf4cf1ac99c4cff1f485f2657c622346ac1f657a64bf3e1910e3_1280.jpg#pixabay=5475262"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Learning to read Hangul in a weekend — and why romanized signs still confuse you",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 부합하고 문장이 자연스럽게 완성돼 있으며, 과장된 사실 없이 여행에 유용한 정보를 제공하고 있다.",
+      "model": "groq",
+      "checkedAt": "2026-11-12T09:32:36.331Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-learning-to-read-hangul-in-a-weekend-and-why-romanized-signs-still-confuse-you.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
