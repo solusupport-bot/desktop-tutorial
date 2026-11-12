@@ -43727,5 +43727,37 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-12T03:07:59.304Z",
     "blogUrl": "https://landinkorea.com/posts/korea-emergency-numbers-24hr-pharmacies.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "ac1c713c-97f2-42ac-972a-a9a5f3f2c7a4",
+    "text": "Everyone assumes this works the same as back home. It doesn't. Google Maps quietly stops being useful the moment you land in Korea — and most first-timers don't find out until they're already lost.\n\n1. Naver Map or KakaoMap work far better for walking/transit directions here, since Google's local data is limited.\n2. Papago handles Korean translation, including camera translation for menus and signs, more naturally than most general translation apps.\n3. Kakao T is the go-to app for calling taxis reliably, especially late at night.\n\nDone any of these? Which surprised you most?\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-useful-travel-apps.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794453292268-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794453292268-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-12T17:06:32.595Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-12T03:14:53.344Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31909219/pexels-photo-31909219.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Useful travel apps",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 맞는 앱 소개이며 문장이 자연스럽고 사실도 과장되지 않아 여행 콘텐츠로 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-12T03:11:36.813Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-useful-travel-apps.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]
