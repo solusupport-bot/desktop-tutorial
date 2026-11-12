@@ -1,12 +1,6 @@
 {
-  "lastIndex": 26,
+  "lastIndex": 27,
   "history": [
-    {
-      "index": 53,
-      "topic": "Noraebang etiquette: how Korean karaoke actually works for first-timers",
-      "at": "2026-11-04T15:26:01.726Z",
-      "source": "threads-fill"
-    },
     {
       "index": 39,
       "topic": "Timing cherry blossoms and fall foliage in Korea without hitting peak crowds",
@@ -1200,6 +1194,12 @@
       "topic": "Nami Island and Petite France day trip",
       "at": "2026-11-11T22:55:26.395Z",
       "source": "threads-fill"
+    },
+    {
+      "index": 27,
+      "topic": "Suwon Hwaseong Fortress",
+      "at": "2026-11-12T00:24:26.679Z",
+      "source": "instagram-fill"
     }
   ],
   "recentImageUrls": [
@@ -2111,7 +2111,8 @@
     "https://images.pexels.com/photos/3671177/pexels-photo-3671177.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://images.pexels.com/photos/36046039/pexels-photo-36046039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://images.pexels.com/photos/3142002/pexels-photo-3142002.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://images.pexels.com/photos/35215198/pexels-photo-35215198.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "https://images.pexels.com/photos/35215198/pexels-photo-35215198.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/8954423/pexels-photo-8954423.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
   ],
   "recentVideoUrls": [
     "https://videos.pexels.com/video-files/19577787/19577787-uhd_2160_3840_30fps.mp4",
@@ -2491,6 +2492,9 @@
     ],
     "Nami Island and Petite France day trip": [
       "정규송 Nui MALAMA"
+    ],
+    "Suwon Hwaseong Fortress": [
+      "makafood"
     ]
   }
 }
