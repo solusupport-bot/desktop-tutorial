@@ -43951,5 +43951,557 @@
       "checkedAt": "2026-11-12T06:38:10.166Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-food-delivery-apps-in-korea-why-signing-up-is-harder-than-ordering.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "31794bde-625d-43ac-b9c6-6d83a6db84e7",
+    "text": "Nobody tells you this before you land.\n\nDriving is a real upgrade for some trips and a liability for others.\n\nJeju, the Gangwon coast, rural temples, and small-town markets are much easier with a car because bus frequencies drop off sharply outside cities.\n\nSeoul is the opposite case: traffic is heavy, street parking is essentially nonexistent, paid lots are expensive, and the subway will beat you door-to-door almost every time.\n\nHow much did this actually cost you on your trip?\n\n📖 Open the Land in Korea link in our profile and search “Renting a car in Korea: when it's smart, when it's a waste, and what the rental desk will ask for”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794467608988-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794467608988-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-13T01:55:10.642Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-12T07:13:29.852Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/30966640/pexels-photo-30966640.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Renting a car in Korea: when it's smart, when it's a waste, and what the rental desk will ask for",
+    "qualityGate": {
+      "pass": false,
+      "reason": "주제 중 '렌탈 데스크에서 요구하는 사항' 부분이 빠져 있어 완전한 내용이 아니다",
+      "model": "groq",
+      "checkedAt": "2026-11-12T07:13:28.988Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-12T07:13:29.840Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-renting-a-car-in-korea-when-it-s-smart-when-it-s-a-waste-and-what-the-rental-desk-will-ask-for.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "992a9da1-9483-46bf-8aed-5975168957ea",
+    "text": "Nobody tells you this before you land. Driving is a real upgrade for some trips and a liability for others.\n\n1. Jeju, the Gangwon coast, rural temples, and small-town markets are much easier with a car because bus frequencies drop off sharply outside cities.\n2. Seoul is the opposite case: traffic is heavy, street parking is essentially nonexistent, paid lots are expensive, and the subway will beat you door-to-door almost every time.\n3. A common compromise is taking the KTX or a bus to a regional hub and renting a car there for a day or two.\n\nHave you learned this the hard way? Tell your story.\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-renting-a-car-in-korea-when-it-s-smart-when-it-s-a-waste-and-what-the-rental-desk-will-ask-for.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794467608988-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794467608988-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-13T02:05:39.910Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-12T07:13:29.879Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/30966640/pexels-photo-30966640.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Renting a car in Korea: when it's smart, when it's a waste, and what the rental desk will ask for",
+    "qualityGate": {
+      "pass": false,
+      "reason": "주제 중 '렌탈 데스크에서 요구하는 사항' 부분이 빠져 있어 완전한 내용이 아니다",
+      "model": "groq",
+      "checkedAt": "2026-11-12T07:13:28.988Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-12T07:13:29.867Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-renting-a-car-in-korea-when-it-s-smart-when-it-s-a-waste-and-what-the-rental-desk-will-ask-for.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "643e4dd8-b0ed-44ef-9658-1dcc4786f687",
+    "text": "Nobody tells you this before you land.\n\nDriving is a real upgrade for some trips and a liability for others.\n\nJeju, the Gangwon coast, rural temples, and small-town markets are much easier with a car because bus frequencies drop off sharply outside cities.\n\nSeoul is the opposite case: traffic is heavy, street parking is essentially nonexistent, paid lots are expensive, and the subway will beat you door-to-door almost every time.\n\nHow much did this actually cost you on your trip?",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794467608988-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794467608988-v0-0.jpg"
+    ],
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-11-13T02:29:38.526Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-12T07:13:29.898Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/30966640/pexels-photo-30966640.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Renting a car in Korea: when it's smart, when it's a waste, and what the rental desk will ask for",
+    "qualityGate": {
+      "pass": false,
+      "reason": "주제 중 '렌탈 데스크에서 요구하는 사항' 부분이 빠져 있어 완전한 내용이 아니다",
+      "model": "groq",
+      "checkedAt": "2026-11-12T07:13:28.988Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-12T07:13:29.888Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-renting-a-car-in-korea-when-it-s-smart-when-it-s-a-waste-and-what-the-rental-desk-will-ask-for.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "3919fac0-282f-4c7c-b369-11f27af3bfa3",
+    "text": "Nobody tells you this before you land.\n\nDriving is a real upgrade for some trips and a liability for others.\n\nJeju, the Gangwon coast, rural temples, and small-town markets are much easier with a car because bus frequencies drop off sharply outside cities.\n\nSeoul is the opposite case: traffic is heavy, street parking is essentially nonexistent, paid lots are expensive, and the subway will beat you door-to-door almost every time.\n\nHow much did this actually cost you on your trip?",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794467608988-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794467608988-v0-0.jpg"
+    ],
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-11-13T03:00:43.906Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-12T07:13:29.918Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/30966640/pexels-photo-30966640.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Renting a car in Korea: when it's smart, when it's a waste, and what the rental desk will ask for",
+    "qualityGate": {
+      "pass": false,
+      "reason": "주제 중 '렌탈 데스크에서 요구하는 사항' 부분이 빠져 있어 완전한 내용이 아니다",
+      "model": "groq",
+      "checkedAt": "2026-11-12T07:13:28.988Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-12T07:13:29.906Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-renting-a-car-in-korea-when-it-s-smart-when-it-s-a-waste-and-what-the-rental-desk-will-ask-for.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "d8fad29d-33f2-40ba-aeb3-598358a3a3f6",
+    "text": "Everyone assumes this works the same as back home. It doesn't.\n\nTipping isn't part of Korean service culture, and leaving cash on the table in a restaurant sometimes triggers a server to chase you down thinking you forgot it.\n\nService is already considered included in the price, so adding extra money on top can come across as implying the staff wasn't paid properly, which is mildly insulting rather than generous.\n\nHotels and some tour guides are the rare exception where a small tip is quietly accepted, but it's never expected or asked for.\n\nWorth knowing before you land? Reply with what surprised you.\n\n📖 Open the Land in Korea link in our profile and search “Tipping in Korea: why you shouldn't and what to do instead”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794468223290-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794468223290-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-12T15:55:15.641Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-12T07:23:44.058Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g5e2d9ab0df54ff91ed8e3053dd9395de70e05d1fa2112a7c0f5228975a2140077fcedf074f1a9b4b2526e681306d7aa8fe6d8b970d347afae905db01bada4270_1280.jpg#pixabay=3565703"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Tipping in Korea: why you shouldn't and what to do instead",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 맞고, 문장도 자연스럽고, 사실도 크게 문제 없으며 여행자에게 유용한 정보다.",
+      "model": "groq",
+      "checkedAt": "2026-11-12T07:20:27.827Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-tipping-and-service-charges.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "c1b5ca41-0965-40fa-8925-ff3161217be6",
+    "text": "Everyone assumes this works the same as back home. It doesn't. Tipping isn't part of Korean service culture, and leaving cash on the table in a restaurant sometimes triggers a server to chase you down thinking you forgot it.\n\n1. Service is already considered included in the price, so adding extra money on top can come across as implying the staff wasn't paid properly, which is mildly insulting rather than generous.\n2. Hotels and some tour guides are the rare exception where a small tip is quietly accepted, but it's never expected or asked for.\n\nDone any of these? Which surprised you most?\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-tipping-and-service-charges.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794468223290-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794468223290-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-12T16:04:59.812Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-12T07:23:44.073Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g5e2d9ab0df54ff91ed8e3053dd9395de70e05d1fa2112a7c0f5228975a2140077fcedf074f1a9b4b2526e681306d7aa8fe6d8b970d347afae905db01bada4270_1280.jpg#pixabay=3565703"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Tipping in Korea: why you shouldn't and what to do instead",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 맞고, 문장도 자연스럽고, 사실도 크게 문제 없으며 여행자에게 유용한 정보다.",
+      "model": "groq",
+      "checkedAt": "2026-11-12T07:20:27.827Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-tipping-and-service-charges.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "eb88c32c-6546-4327-a2a1-87c8dcb24363",
+    "text": "Everyone assumes this works the same as back home. It doesn't.\n\nTipping isn't part of Korean service culture, and leaving cash on the table in a restaurant sometimes triggers a server to chase you down thinking you forgot it.\n\nService is already considered included in the price, so adding extra money on top can come across as implying the staff wasn't paid properly, which is mildly insulting rather than generous.\n\nHotels and some tour guides are the rare exception where a small tip is quietly accepted, but it's never expected or asked for.\n\nWorth knowing before you land? Reply with what surprised you.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794468223290-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794468223290-v0-0.jpg"
+    ],
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-11-12T16:30:08.524Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-12T07:23:44.092Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g5e2d9ab0df54ff91ed8e3053dd9395de70e05d1fa2112a7c0f5228975a2140077fcedf074f1a9b4b2526e681306d7aa8fe6d8b970d347afae905db01bada4270_1280.jpg#pixabay=3565703"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Tipping in Korea: why you shouldn't and what to do instead",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 맞고, 문장도 자연스럽고, 사실도 크게 문제 없으며 여행자에게 유용한 정보다.",
+      "model": "groq",
+      "checkedAt": "2026-11-12T07:20:27.827Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-tipping-and-service-charges.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "78ab343c-b9e8-4e31-8666-4e1ede23c71e",
+    "text": "Everyone assumes this works the same as back home. It doesn't.\n\nTipping isn't part of Korean service culture, and leaving cash on the table in a restaurant sometimes triggers a server to chase you down thinking you forgot it.\n\nService is already considered included in the price, so adding extra money on top can come across as implying the staff wasn't paid properly, which is mildly insulting rather than generous.\n\nHotels and some tour guides are the rare exception where a small tip is quietly accepted, but it's never expected or asked for.\n\nWorth knowing before you land? Reply with what surprised you.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794468223290-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794468223290-v0-0.jpg"
+    ],
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-11-12T16:59:45.460Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-12T07:23:44.112Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g5e2d9ab0df54ff91ed8e3053dd9395de70e05d1fa2112a7c0f5228975a2140077fcedf074f1a9b4b2526e681306d7aa8fe6d8b970d347afae905db01bada4270_1280.jpg#pixabay=3565703"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Tipping in Korea: why you shouldn't and what to do instead",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 맞고, 문장도 자연스럽고, 사실도 크게 문제 없으며 여행자에게 유용한 정보다.",
+      "model": "groq",
+      "checkedAt": "2026-11-12T07:20:27.827Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-tipping-and-service-charges.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "b306ad08-9a4f-48dd-ab02-9f631bd3e4b8",
+    "text": "Everyone assumes this works the same as back home. It doesn't.\n\nA noraebang is a private karaoke room, not a stage in front of strangers - you rent the room by the hour with your own group, which is the opposite of Western karaoke bars where everyone sings in front of the whole room.\n\nRooms are everywhere in Korea, open late, and cost surprisingly little split between a few people.\n\nSong machines have English-language search and thousands of English songs alongside Korean ones, so language isn't actually a barrier.\n\nWorth knowing before you land? Reply with what surprised you.\n\n📖 Open the Land in Korea link in our profile and search “Noraebang etiquette: how Korean karaoke actually works for first-timers”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794468655187-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794468655187-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-13T02:53:48.978Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-12T07:30:55.934Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g795275e301e5fba88c7e479e6dae0e1dd72c9cb4bfdf6864b2e1cfa2defb57a06fa1faca226aad9c81465422bac4c50b245ce1f5788c6ac4fdbd468cb18236b8_1280.jpg#pixabay=7995858"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Noraebang etiquette: how Korean karaoke actually works for first-timers",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 부합하고, 문장이 자연스럽고, 사실도 과장되지 않아 여행자에게 유용합니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-12T07:27:39.349Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-noraebang-etiquette-how-korean-karaoke-actually-works-for-first-timers.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "5cd87a69-0e02-4f88-b399-6f0258e2d08e",
+    "text": "Everyone assumes this works the same as back home. It doesn't. A noraebang is a private karaoke room, not a stage in front of strangers - you rent the room by the hour with your own group, which is the opposite of Western karaoke bars where everyone sings in front of the whole room.\n\n1. Rooms are everywhere in Korea, open late, and cost surprisingly little split between a few people.\n2. Song machines have English-language search and thousands of English songs alongside Korean ones, so language isn't actually a barrier.\n\nDone any of these? Which surprised you most?\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-noraebang-etiquette-how-korean-karaoke-actually-works-for-first-timers.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794468655187-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794468655187-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-13T02:56:57.355Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-12T07:30:55.955Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g795275e301e5fba88c7e479e6dae0e1dd72c9cb4bfdf6864b2e1cfa2defb57a06fa1faca226aad9c81465422bac4c50b245ce1f5788c6ac4fdbd468cb18236b8_1280.jpg#pixabay=7995858"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Noraebang etiquette: how Korean karaoke actually works for first-timers",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 부합하고, 문장이 자연스럽고, 사실도 과장되지 않아 여행자에게 유용합니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-12T07:27:39.349Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-noraebang-etiquette-how-korean-karaoke-actually-works-for-first-timers.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "7cc29d3f-9d2e-4db1-b44d-794924bd334f",
+    "text": "Everyone assumes this works the same as back home. It doesn't.\n\nA noraebang is a private karaoke room, not a stage in front of strangers - you rent the room by the hour with your own group, which is the opposite of Western karaoke bars where everyone sings in front of the whole room.\n\nRooms are everywhere in Korea, open late, and cost surprisingly little split between a few people.\n\nSong machines have English-language search and thousands of English songs alongside Korean ones, so language isn't actually a barrier.\n\nWorth knowing before you land? Reply with what surprised you.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794468655187-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794468655187-v0-0.jpg"
+    ],
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-11-13T03:22:02.033Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-12T07:30:55.971Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g795275e301e5fba88c7e479e6dae0e1dd72c9cb4bfdf6864b2e1cfa2defb57a06fa1faca226aad9c81465422bac4c50b245ce1f5788c6ac4fdbd468cb18236b8_1280.jpg#pixabay=7995858"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Noraebang etiquette: how Korean karaoke actually works for first-timers",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 부합하고, 문장이 자연스럽고, 사실도 과장되지 않아 여행자에게 유용합니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-12T07:27:39.349Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-noraebang-etiquette-how-korean-karaoke-actually-works-for-first-timers.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "ac6ecd23-d22e-4f0a-8b8e-f0ef1fa6473b",
+    "text": "Everyone assumes this works the same as back home. It doesn't.\n\nA noraebang is a private karaoke room, not a stage in front of strangers - you rent the room by the hour with your own group, which is the opposite of Western karaoke bars where everyone sings in front of the whole room.\n\nRooms are everywhere in Korea, open late, and cost surprisingly little split between a few people.\n\nSong machines have English-language search and thousands of English songs alongside Korean ones, so language isn't actually a barrier.\n\nWorth knowing before you land? Reply with what surprised you.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794468655187-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794468655187-v0-0.jpg"
+    ],
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-11-13T03:52:23.173Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-12T07:30:55.993Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g795275e301e5fba88c7e479e6dae0e1dd72c9cb4bfdf6864b2e1cfa2defb57a06fa1faca226aad9c81465422bac4c50b245ce1f5788c6ac4fdbd468cb18236b8_1280.jpg#pixabay=7995858"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Noraebang etiquette: how Korean karaoke actually works for first-timers",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 부합하고, 문장이 자연스럽고, 사실도 과장되지 않아 여행자에게 유용합니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-12T07:27:39.349Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-noraebang-etiquette-how-korean-karaoke-actually-works-for-first-timers.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "567c105d-5285-4296-a446-4fd8721b5d79",
+    "text": "Everyone assumes this works the same as back home. It doesn't.\n\nKorea's flower and foliage seasons move geographically, and that's the whole planning trick.\n\nCherry blossoms open first in the far south — Jeju, Busan, Changwon — around late March, then sweep northward, usually reaching Seoul in early April.\n\nAutumn colors run in reverse: they start in the northern mountains like Seoraksan in early-to-mid October, hit Seoul roughly late October into early November, and finish in the southern provinces afterward.\n\nWorth knowing before you land? Reply with what surprised you.\n\n📖 Open the Land in Korea link in our profile and search “Timing cherry blossoms and fall foliage in Korea without hitting peak crowds”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794469117803-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794469117803-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-13T03:00:19.427Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-12T07:38:38.496Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/18863482/pexels-photo-18863482.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/03/19/111234-690770593_large.mp4",
+    "videoAttribution": null,
+    "topic": "Timing cherry blossoms and fall foliage in Korea without hitting peak crowds",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽게 완성돼 있어 여행 정보로 충분히 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-12T07:35:11.220Z",
+      "pattern": "C"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-timing-cherry-blossoms-and-fall-foliage-in-korea-without-hitting-peak-crowds.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "1434ff29-dc9a-4326-947a-7dbcffa643f0",
+    "text": "Everyone assumes this works the same as back home. It doesn't. Korea's flower and foliage seasons move geographically, and that's the whole planning trick.\n\n1. Cherry blossoms open first in the far south — Jeju, Busan, Changwon — around late March, then sweep northward, usually reaching Seoul in early April.\n2. Autumn colors run in reverse: they start in the northern mountains like Seoraksan in early-to-mid October, hit Seoul roughly late October into early November, and finish in the southern provinces afterward.\n3. Weather companies and the Korea Meteorological Administration publish bloom and foliage forecast maps each year, and those are worth checking a couple of weeks out rather than booking blind months ahead.\n\nDone any of these? Which surprised you most?\n\n🎬 Video source: Pixabay\n\n🎵 \"Classical Pop\" by Vladimir Sterzer is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-timing-cherry-blossoms-and-fall-foliage-in-korea-without-hitting-peak-crowds.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1794469116429-instagram.mp4",
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-13T03:02:45.922Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-12T07:38:38.523Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/18863482/pexels-photo-18863482.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/03/19/111234-690770593_large.mp4",
+    "videoAttribution": "Pixabay",
+    "topic": "Timing cherry blossoms and fall foliage in Korea without hitting peak crowds",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽게 완성돼 있어 여행 정보로 충분히 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-12T07:35:11.220Z",
+      "pattern": "C"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-timing-cherry-blossoms-and-fall-foliage-in-korea-without-hitting-peak-crowds.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "c039b81e-cbce-4ae8-8683-64d3198a29ab",
+    "text": "Everyone assumes this works the same as back home. It doesn't.\n\nCherry blossoms open first in the far south — Jeju, Busan, Changwon — around late March, then sweep northward, usually reaching Seoul in early April.\n\nScreenshot this before you land in Korea.\n\n📖 Open the Land in Korea link in our profile and search “Timing cherry blossoms and fall foliage in Korea without hitting peak crowds”.\n\n🎬 Video source: Pixabay\n\n#KoreaTravel #SeoulTrip #KoreaTips #TravelKorea #VisitSeoul\n\n🎵 \"Classical Pop\" by Vladimir Sterzer is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1794469116429-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-11-13T03:13:11.988Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-12T07:38:38.544Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/18863482/pexels-photo-18863482.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/03/19/111234-690770593_large.mp4",
+    "videoAttribution": "Pixabay",
+    "topic": "Timing cherry blossoms and fall foliage in Korea without hitting peak crowds",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽게 완성돼 있어 여행 정보로 충분히 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-12T07:35:11.220Z",
+      "pattern": "C"
+    }
+  },
+  {
+    "id": "7e6a9764-9b21-40a5-a684-64a29f025704",
+    "text": "Everyone assumes this works the same as back home. It doesn't.\n\nKorea's flower and foliage seasons move geographically, and that's the whole planning trick.\n\nCherry blossoms open first in the far south — Jeju, Busan, Changwon — around late March, then sweep northward, usually reaching Seoul in early April.\n\nAutumn colors run in reverse: they start in the northern mountains like Seoraksan in early-to-mid October, hit Seoul roughly late October into early November, and finish in the southern provinces afterward.\n\nWorth knowing before you land? Reply with what surprised you.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794469117803-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794469117803-v0-0.jpg"
+    ],
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-11-13T03:28:59.064Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-12T07:38:38.561Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/18863482/pexels-photo-18863482.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/03/19/111234-690770593_large.mp4",
+    "videoAttribution": null,
+    "topic": "Timing cherry blossoms and fall foliage in Korea without hitting peak crowds",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽게 완성돼 있어 여행 정보로 충분히 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-12T07:35:11.220Z",
+      "pattern": "C"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-timing-cherry-blossoms-and-fall-foliage-in-korea-without-hitting-peak-crowds.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "fdd88cba-ecb8-4c92-a801-40a92cda27c4",
+    "text": "Everyone assumes this works the same as back home. It doesn't.\n\nKorea's flower and foliage seasons move geographically, and that's the whole planning trick.\n\nCherry blossoms open first in the far south — Jeju, Busan, Changwon — around late March, then sweep northward, usually reaching Seoul in early April.\n\nAutumn colors run in reverse: they start in the northern mountains like Seoraksan in early-to-mid October, hit Seoul roughly late October into early November, and finish in the southern provinces afterward.\n\nWorth knowing before you land? Reply with what surprised you.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794469117803-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794469117803-v0-0.jpg"
+    ],
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-11-13T03:57:17.312Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-12T07:38:38.579Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/18863482/pexels-photo-18863482.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/03/19/111234-690770593_large.mp4",
+    "videoAttribution": null,
+    "topic": "Timing cherry blossoms and fall foliage in Korea without hitting peak crowds",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽게 완성돼 있어 여행 정보로 충분히 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-12T07:35:11.220Z",
+      "pattern": "C"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-timing-cherry-blossoms-and-fall-foliage-in-korea-without-hitting-peak-crowds.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
   }
 ]
