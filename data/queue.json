@@ -43607,8 +43607,12 @@
       "threads"
     ],
     "scheduledAt": "2026-11-12T06:24:20.920Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18026516135717806"
+      }
+    },
     "createdAt": "2026-11-12T00:35:40.234Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -43626,7 +43630,8 @@
       "model": "groq",
       "checkedAt": "2026-11-12T00:32:23.946Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-domestic-flights-vs-ktx-for-jeju-and-long-distance-trips.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-domestic-flights-vs-ktx-for-jeju-and-long-distance-trips.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-12T22:54:52.690Z"
   },
   {
     "id": "d01a20c7-2293-4908-9752-92aae4b1e5f6",
