@@ -43924,5 +43924,32 @@
       "checkedAt": "2026-11-12T06:30:07.455Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-eating-alone-in-korea-which-restaurants-refuse-solo-diners-and-where-honbap-works.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "030fcea4-c503-48fc-879f-d0a5f2e07691",
+    "text": "Everyone assumes this works the same as back home. It doesn't. Korea's delivery ecosystem runs on a few big apps — Baemin, Coupang Eats, and Yogiyo — and the food itself arrives fast and cheap by global standards.\n\n1. The hard part is account setup: most apps expect a Korean mobile number for verification, and payment usually flows through a Korean-issued card or a domestic wallet like Kakao Pay or Naver Pay, though foreign cards work in some cases.\n2. Menus are also mostly in Korean even when the app interface offers English, so a translation app pointed at the screen is part of normal ordering.\n3. Delivery fees and minimum order amounts are set per restaurant and shown before you check out, and choosing takeout (포장) instead of delivery often skips the fee entirely.\n\nDone any of these? Which surprised you most?\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-food-delivery-apps-in-korea-why-signing-up-is-harder-than-ordering.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": null,
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-12T17:02:09.803Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-12T06:40:44.477Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Food delivery apps in Korea: why signing up is harder than ordering",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 맞으며 문장이 자연스럽고, 사실도 과장되지 않아 여행자에게 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-12T06:38:10.166Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-food-delivery-apps-in-korea-why-signing-up-is-harder-than-ordering.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]

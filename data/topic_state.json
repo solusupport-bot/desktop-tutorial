@@ -1,12 +1,6 @@
 {
-  "lastIndex": 36,
+  "lastIndex": 37,
   "history": [
-    {
-      "index": 20,
-      "topic": "Trash and recycling rules for residents",
-      "at": "2026-11-05T05:01:30.739Z",
-      "source": "threads-fill"
-    },
     {
       "index": 19,
       "topic": "Namdaemun Market",
@@ -1200,6 +1194,12 @@
       "topic": "Eating alone in Korea: which restaurants refuse solo diners and where honbap works",
       "at": "2026-11-12T06:25:00.979Z",
       "source": "threads-fill"
+    },
+    {
+      "index": 37,
+      "topic": "Food delivery apps in Korea: why signing up is harder than ordering",
+      "at": "2026-11-12T06:33:36.189Z",
+      "source": "facebook-fill"
     }
   ],
   "recentImageUrls": [
