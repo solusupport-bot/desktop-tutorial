@@ -43192,8 +43192,12 @@
       "threads"
     ],
     "scheduledAt": "2026-11-11T10:37:14.122Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18118754162599886"
+      }
+    },
     "createdAt": "2026-11-11T05:04:25.722Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -43211,7 +43215,8 @@
       "model": "groq",
       "checkedAt": "2026-11-11T05:01:09.566Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-day-tripping-from-seoul-by-regular-train-mugunghwa-itx-saemaeul-and-the-gyeongui-jungang-line.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-day-tripping-from-seoul-by-regular-train-mugunghwa-itx-saemaeul-and-the-gyeongui-jungang-line.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-12T04:54:50.023Z"
   },
   {
     "id": "23774183-432f-4b6a-96c1-d09939141fa8",
