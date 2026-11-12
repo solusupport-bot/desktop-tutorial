@@ -1,12 +1,6 @@
 {
-  "lastIndex": 27,
+  "lastIndex": 28,
   "history": [
-    {
-      "index": 39,
-      "topic": "Timing cherry blossoms and fall foliage in Korea without hitting peak crowds",
-      "at": "2026-11-04T16:57:10.875Z",
-      "source": "instagram-fill"
-    },
     {
       "index": 54,
       "topic": "Unmanned kiosk ordering in Korea: why humans are disappearing from the counter",
@@ -1200,6 +1194,12 @@
       "topic": "Suwon Hwaseong Fortress",
       "at": "2026-11-12T00:24:26.679Z",
       "source": "instagram-fill"
+    },
+    {
+      "index": 28,
+      "topic": "Domestic flights vs. KTX for Jeju and long-distance trips",
+      "at": "2026-11-12T00:24:56.841Z",
+      "source": "threads-fill"
     }
   ],
   "recentImageUrls": [
@@ -2112,7 +2112,8 @@
     "https://images.pexels.com/photos/36046039/pexels-photo-36046039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://images.pexels.com/photos/3142002/pexels-photo-3142002.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://images.pexels.com/photos/35215198/pexels-photo-35215198.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://images.pexels.com/photos/8954423/pexels-photo-8954423.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "https://images.pexels.com/photos/8954423/pexels-photo-8954423.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/31783003/pexels-photo-31783003.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
   ],
   "recentVideoUrls": [
     "https://videos.pexels.com/video-files/19577787/19577787-uhd_2160_3840_30fps.mp4",
@@ -2495,6 +2496,10 @@
     ],
     "Suwon Hwaseong Fortress": [
       "makafood"
+    ],
+    "Domestic flights vs. KTX for Jeju and long-distance trips": [
+      "Tuan Vy  Spotter",
+      "Theodore Nguyen"
     ]
   }
 }

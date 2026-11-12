@@ -43554,5 +43554,37 @@
       "checkedAt": "2026-11-11T23:07:24.646Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-nami-island-and-petite-france-day-trip.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "8039f893-763f-4ee2-befc-13676859fa15",
+    "text": "There's one detail that trips up almost every first-timer.\n\nJeju Island has zero rail connection to the mainland — no KTX, no regular ferry option fast enough for most trip lengths — so flying is effectively the only practical way there, and the Gimpo-Jeju route is one of the busiest domestic air corridors in the world with frequent departures.\n\nFor mainland routes like Seoul-Busan, the calculation flips: KTX is often just as fast door-to-door once you factor in airport security, boarding buffers, and getting to/from airports versus city-center train stations.\n\nDid this trip you up your first time too? Drop a comment.\n\n📖 Open the Land in Korea link in our profile and search “Domestic flights vs. KTX for Jeju and long-distance trips”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794443739423-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794443739423-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-12T06:24:20.920Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-12T00:35:40.234Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31783003/pexels-photo-31783003.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Domestic flights vs. KTX for Jeju and long-distance trips",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 맞고 문장이 자연하며 사실도 과장되지 않아 여행 정보로 충분히 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-12T00:32:23.946Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-domestic-flights-vs-ktx-for-jeju-and-long-distance-trips.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
