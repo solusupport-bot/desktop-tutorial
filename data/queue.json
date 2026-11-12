@@ -44169,7 +44169,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-11-12T16:04:59.812Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-12T07:23:44.073Z",
     "approved": true,
@@ -44239,7 +44239,7 @@
       "mastodon"
     ],
     "scheduledAt": "2026-11-12T16:59:45.460Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-12T07:23:44.112Z",
     "approved": true,
