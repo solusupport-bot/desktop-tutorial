@@ -43860,5 +43860,37 @@
       "checkedAt": "2026-11-12T05:10:39.615Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-seoul-subway-details-nobody-tells-you-exit-numbers-transfer-walks-express-trains-and-the-last-train.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "a671a2bd-d552-4858-a347-3bc7b2bad0de",
+    "text": "Nobody tells you this before you land. For stays between a week and a few months, the options most foreigners don't know about are goshiwons and share houses.\n\n1. A goshiwon is a very small private room rented by the month with no deposit and utilities included, originally built for exam-takers — cheap and instantly available, but often windowless and tight.\n2. Share houses and monthly-rent guesthouses sit a step above, with private or shared rooms and a lighter contract.\n3. Short-term Airbnb-style rentals exist but the legal picture is messy: only certain registered categories (like urban homestays licensed to host foreign guests) are clearly permitted, so unregistered listings can get cancelled.\n\nHave you learned this the hard way? Tell your story.\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-short-term-vs-long-term-housing-in-korea-guesthouse-goshiwon-officetel-and-the-deposit-system.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794461382973-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794461382973-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-12T13:45:21.714Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-12T05:29:43.711Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31171714/pexels-photo-31171714.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Short-term vs. long-term housing in Korea: guesthouse, goshiwon, officetel, and the deposit system",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련된 핵심 내용이 포함돼 있고 문장이 자연스럽고 사실도 과장되지 않아 여행자에게 유용합니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-12T05:26:27.659Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-short-term-vs-long-term-housing-in-korea-guesthouse-goshiwon-officetel-and-the-deposit-system.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]
