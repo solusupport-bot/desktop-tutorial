@@ -43655,5 +43655,37 @@
       "checkedAt": "2026-11-12T02:05:14.127Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-airport-transfer-options.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "e08d81cb-d07f-4efa-ab92-f381bd573246",
+    "text": "Everyone assumes this works the same as back home. It doesn't. Tipping in Korea doesn't just go unused — it can actively confuse the person you hand it to.\n\n1. Other common first-timer mix-ups: escalators have a standing side by local custom (though rules vary by city); many small restaurants are cash-preferred or card-only with no split-bill custom; shoes usually come off indoors at traditional guesthouses and some restaurants with floor seating.\n\nDone any of these? Which surprised you most?\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-first-timer-etiquette-common-mistakes.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794449730945-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794449730945-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-12T21:18:06.999Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-12T02:15:31.910Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/20188256/pexels-photo-20188256.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "First-timer etiquette & common mistakes",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제에 부합하고 문장이 자연하며 사실이 정확해 여행자에게 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-12T02:12:15.411Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-first-timer-etiquette-common-mistakes.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]
