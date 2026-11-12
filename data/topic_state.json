@@ -1,12 +1,6 @@
 {
-  "lastIndex": 14,
+  "lastIndex": 15,
   "history": [
-    {
-      "index": 44,
-      "topic": "Reserving restaurants and joining waitlists in Korea: Catch Table, Naver booking, and the Tabling tablet",
-      "at": "2026-11-05T00:28:02.532Z",
-      "source": "threads-fill"
-    },
     {
       "index": 45,
       "topic": "Day-tripping from Seoul by regular train: Mugunghwa, ITX-Saemaeul, and the Gyeongui-Jungang line",
@@ -1200,6 +1194,12 @@
       "topic": "Useful travel apps",
       "at": "2026-11-12T03:08:01.095Z",
       "source": "facebook-fill"
+    },
+    {
+      "index": 15,
+      "topic": "Convenience store hacks",
+      "at": "2026-11-12T03:24:19.399Z",
+      "source": "instagram-fill"
     }
   ],
   "recentImageUrls": [
@@ -2521,6 +2521,10 @@
       "Shawn k"
     ],
     "Useful travel apps": [
+      "Theodore Nguyen"
+    ],
+    "Convenience store hacks": [
+      "Bruna Santos",
       "Theodore Nguyen"
     ]
   }
