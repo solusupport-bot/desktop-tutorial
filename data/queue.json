@@ -43892,5 +43892,37 @@
       "checkedAt": "2026-11-12T05:26:27.659Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-short-term-vs-long-term-housing-in-korea-guesthouse-goshiwon-officetel-and-the-deposit-system.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "ecfae63b-9bbd-4062-a213-7d332f83f4d9",
+    "text": "Everyone assumes this works the same as back home. It doesn't.\n\nA lot of Korean food is engineered for sharing, so a table for one can hit a wall.\n\nStews and braises like budae jjigae, dakgalbi, and jjimdak are usually cooked in one shared pot and sold with a two-serving minimum, and most Korean BBQ houses also require ordering meat for at least two people.\n\nThat's why you'll see the phrase '2인분부터' (from two servings) on menus, and why some small shops will politely turn a single diner away during a busy lunch rush.\n\nWorth knowing before you land? Reply with what surprised you.\n\n📖 Open the Land in Korea link in our profile and search “Eating alone in Korea: which restaurants refuse solo diners and where honbap works”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794465213835-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794465213835-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-12T18:46:08.585Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-12T06:33:34.713Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/32196401/pexels-photo-32196401.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/4768006/4768006-uhd_3840_2160_30fps.mp4",
+    "videoAttribution": null,
+    "topic": "Eating alone in Korea: which restaurants refuse solo diners and where honbap works",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽으며 과장된 사실 없이 여행자에게 유용한 정보를 제공한다",
+      "model": "groq",
+      "checkedAt": "2026-11-12T06:30:07.455Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-eating-alone-in-korea-which-restaurants-refuse-solo-diners-and-where-honbap-works.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
