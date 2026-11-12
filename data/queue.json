@@ -43528,8 +43528,12 @@
       "threads"
     ],
     "scheduledAt": "2026-11-11T18:09:41.789Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18039382055848221"
+      }
+    },
     "createdAt": "2026-11-11T11:06:37.671Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -43547,7 +43551,8 @@
       "model": "groq",
       "checkedAt": "2026-11-11T11:03:21.091Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-myeongdong-shopping-district.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-myeongdong-shopping-district.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-12T13:55:58.246Z"
   },
   {
     "id": "6c17d30a-d82a-4a91-84ca-c3244946810d",
