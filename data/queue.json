@@ -43623,5 +43623,37 @@
       "checkedAt": "2026-11-12T00:39:11.715Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-seoul-attraction-pass-comparison.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "c75a145c-b5df-4522-983a-63edbb0d2339",
+    "text": "There's one detail that trips up almost every first-timer.\n\nFour ways to get from Incheon to Seoul, and the 'cheapest' one on paper isn't always the best deal once you count your luggage.\n\nThe AREX airport railway is the cheapest and most predictable option into Seoul, with an express non-stop train to Seoul Station.\n\nAirport limousine buses drop closer to specific neighborhoods and hotels if you have heavy luggage.\n\nDid this trip you up your first time too? Drop a comment.\n\n📖 Open the Land in Korea link in our profile and search “Airport transfer options”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794449309771-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794449309771-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-12T09:07:05.624Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-12T02:08:30.699Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/gb0a1af77d294c3205c78b64cb20bb6701b4fa0e2f6eeb699552ae9c10d6470dbbf5b2c4eb4c13801b8158dd2325c8c16a0e492de24b7d7d8fc11e92fdc1365e2_1280.jpg#pixabay=2710829"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Airport transfer options",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 맞고 문장은 자연하며 사실도 정확하고 여행자에게 유용한 정보가 포함돼 있습니다",
+      "model": "groq",
+      "checkedAt": "2026-11-12T02:05:14.127Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-airport-transfer-options.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
