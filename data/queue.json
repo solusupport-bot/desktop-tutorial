@@ -43899,7 +43899,7 @@
       "threads"
     ],
     "scheduledAt": "2026-11-12T12:56:34.023Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-12T05:13:55.576Z",
     "approved": true,
@@ -44417,7 +44417,7 @@
       "mastodon"
     ],
     "scheduledAt": "2026-11-13T03:52:23.173Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-12T07:30:55.993Z",
     "approved": true,
