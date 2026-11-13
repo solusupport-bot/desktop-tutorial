@@ -45085,5 +45085,37 @@
       "checkedAt": "2026-11-13T08:01:59.266Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-hongdae-nightlife-and-youth-culture-district.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "489ffe7e-52a9-4ff2-b2c0-5cf9012d0fbb",
+    "text": "Everyone assumes this works the same as back home. It doesn't.\n\nHwaseong Fortress isn't a ruin you view from outside — it's a UNESCO World Heritage fortress wall you actually walk along, built in 1796 and still encircling much of old Suwon city.\n\nThe full wall walk covers several kilometers with gates, command posts, and watchtowers along the way, and most visitors underestimate how long the full loop takes.\n\nHwaseong Haenggung, a temporary palace within the fortress grounds, hosts historical reenactment ceremonies on select days worth checking before you go.\n\nWorth knowing before you land? Reply with what surprised you.\n\n📖 Open the Land in Korea link in our profile and search “Suwon Hwaseong Fortress”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794559227896-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794559227896-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-13T14:10:04.736Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-13T08:40:29.006Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31971659/pexels-photo-31971659.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/32676829/13931654_3840_2160_25fps.mp4",
+    "videoAttribution": null,
+    "topic": "Suwon Hwaseong Fortress",
+    "qualityGate": {
+      "pass": true,
+      "reason": "Relevant, accurate, well-written and provides useful travel information",
+      "model": "groq",
+      "checkedAt": "2026-11-13T08:36:58.306Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-suwon-hwaseong-fortress.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
