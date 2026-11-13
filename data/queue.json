@@ -44663,7 +44663,7 @@
       "threads"
     ],
     "scheduledAt": "2026-11-12T21:03:05.632Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-12T08:14:43.574Z",
     "approved": true,
@@ -44732,7 +44732,7 @@
       "threads"
     ],
     "scheduledAt": "2026-11-12T21:01:41.776Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-11-12T11:06:13.867Z",
     "approved": true,
@@ -44751,7 +44751,8 @@
       "model": "groq",
       "checkedAt": "2026-11-12T11:02:57.532Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-cafes-as-workspaces-in-korea-unspoken-rules-of-study-cafes-franchise-chains-and-no-laptop-signs.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-cafes-as-workspaces-in-korea-unspoken-rules-of-study-cafes-franchise-chains-and-no-laptop-signs.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "rejectReason": "duplicate: same text already published on this platform"
   },
   {
     "id": "cdb395bb-77a5-4939-8152-40250b12037a",
