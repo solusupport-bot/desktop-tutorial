@@ -44745,5 +44745,37 @@
       "checkedAt": "2026-11-13T00:24:45.250Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-dmz-and-jsa-tours.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "a1962e97-7e0d-4c7c-9c4b-027df93bc79c",
+    "text": "There's one detail that trips up almost every first-timer.\n\nIt's Seoul's largest palace, built in 1395, with the National Folk Museum inside the same grounds.\n\nGyeongbokgung isn't just a palace to photograph — the changing of the royal guard ceremony runs at set times most visitors miss because they show up whenever.\n\nWearing a hanbok gets you free entry — one of the few genuinely useful tourist discounts in the city.\n\nDid this trip you up your first time too? Drop a comment.\n\n📖 Open the Land in Korea link in our profile and search “Gyeongbokgung Palace”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794535861063-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794535861063-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-13T04:13:47.167Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-13T02:11:01.927Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/38062597/pexels-photo-38062597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/40352276/17241013_3840_2160_24fps.mp4",
+    "videoAttribution": null,
+    "topic": "Gyeongbokgung Palace",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 맞고 사실도 정확하며, 문장도 크게 어색하거나 끊긴 부분 없이 전달됩니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-13T02:07:35.019Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-gyeongbokgung-palace.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
