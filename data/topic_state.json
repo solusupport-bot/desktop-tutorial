@@ -1,12 +1,6 @@
 {
-  "lastIndex": 23,
+  "lastIndex": 24,
   "history": [
-    {
-      "index": 37,
-      "topic": "Food delivery apps in Korea: why signing up is harder than ordering",
-      "at": "2026-11-07T06:25:18.284Z",
-      "source": "threads-fill"
-    },
     {
       "index": 38,
       "topic": "Renting a car in Korea: when it's smart, when it's a waste, and what the rental desk will ask for",
@@ -1200,6 +1194,12 @@
       "topic": "Insadong traditional culture street",
       "at": "2026-11-13T06:42:43.045Z",
       "source": "facebook-fill"
+    },
+    {
+      "index": 24,
+      "topic": "Everland vs. Lotte World theme parks",
+      "at": "2026-11-13T07:54:52.508Z",
+      "source": "instagram-fill"
     }
   ],
   "recentImageUrls": [
@@ -2161,7 +2161,8 @@
     "https://pixabay.com/get/g3f56c9ae98cdf2770728230d3782845de9b01d62dfd881afd8b5468ed27510241aab9b0f5fee0a01382678c09faff229ece2ceef702751c7a922e170e6c4e224_1280.jpg#pixabay=5445197",
     "https://pixabay.com/get/g7f4c23ca780055af2bdb641734092b240e400b41bccd117f962d7a05dcbcd173cbf34f975172c3f5837ebc99f0db12c4592e5e34d3ccf285762332de88736f57_1280.jpg#pixabay=2682537",
     "https://pixabay.com/get/g16f795f5b91436c2e44473282857196c980e14d47fb013df2ffbb3c5cc1922114eb875ffcc5ea8fd540a23aeef72686ac8b47e4d4f04ec4e9fc2b2b0bc777afe_1280.jpg#pixabay=326138",
-    "https://pixabay.com/get/g09a46decdb48f58eea428317a04b426ef3299fdbd08c23f785ddcb34afeef0deb2d4a54cf813f6346d0ed4dfadce870291ba566b97a2b5b20ba62972d4f92576_1280.jpg#pixabay=7782841"
+    "https://pixabay.com/get/g09a46decdb48f58eea428317a04b426ef3299fdbd08c23f785ddcb34afeef0deb2d4a54cf813f6346d0ed4dfadce870291ba566b97a2b5b20ba62972d4f92576_1280.jpg#pixabay=7782841",
+    "https://images.pexels.com/photos/31892067/pexels-photo-31892067.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
   ],
   "recentVideoUrls": [
     "https://videos.pexels.com/video-files/19577787/19577787-uhd_2160_3840_30fps.mp4",
@@ -2583,7 +2584,9 @@
     ],
     "Everland vs. Lotte World theme parks": [
       "Jueon Kim 김주언",
-      "Jhany Blue"
+      "Jhany Blue",
+      "Virginia Chien",
+      "Theodore Nguyen"
     ],
     "Hongdae nightlife and youth culture district": [
       "Ethan Brooke"
