@@ -44502,8 +44502,12 @@
       "facebook"
     ],
     "scheduledAt": "2026-11-13T03:02:45.922Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "1076513562113636"
+      }
+    },
     "createdAt": "2026-11-12T07:38:38.523Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -44522,7 +44526,8 @@
       "checkedAt": "2026-11-12T07:35:11.220Z",
       "pattern": "C"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-timing-cherry-blossoms-and-fall-foliage-in-korea-without-hitting-peak-crowds.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-timing-cherry-blossoms-and-fall-foliage-in-korea-without-hitting-peak-crowds.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-13T12:24:33.419Z"
   },
   {
     "id": "c039b81e-cbce-4ae8-8683-64d3198a29ab",
