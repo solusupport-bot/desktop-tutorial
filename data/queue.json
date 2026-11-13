@@ -43719,7 +43719,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-11-12T21:18:06.999Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-12T02:15:31.910Z",
     "approved": true,
@@ -44373,7 +44373,7 @@
       "bluesky"
     ],
     "scheduledAt": "2026-11-13T03:22:02.033Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-12T07:30:55.971Z",
     "approved": true,
@@ -44499,7 +44499,7 @@
       "instagram"
     ],
     "scheduledAt": "2026-11-13T03:13:11.988Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-12T07:38:38.544Z",
     "approved": true,
