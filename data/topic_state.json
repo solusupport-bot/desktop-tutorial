@@ -1,12 +1,6 @@
 {
-  "lastIndex": 29,
+  "lastIndex": 30,
   "history": [
-    {
-      "index": 55,
-      "topic": "Mobile payments in Korea: Kakao Pay, Naver Pay, and why Apple Pay doesn’t work",
-      "at": "2026-11-07T09:35:18.060Z",
-      "source": "threads-fill"
-    },
     {
       "index": 56,
       "topic": "Public bathhouse culture in Korea beyond the jjimjilbang: the mogyoktang rules",
@@ -1200,6 +1194,12 @@
       "topic": "Seoul attraction pass comparison",
       "at": "2026-11-13T10:55:04.407Z",
       "source": "instagram-fill"
+    },
+    {
+      "index": 30,
+      "topic": "Korean public holidays that disrupt travel plans",
+      "at": "2026-11-13T12:24:34.882Z",
+      "source": "instagram-fill"
     }
   ],
   "recentImageUrls": [
@@ -2167,7 +2167,8 @@
     "https://images.pexels.com/photos/32254047/pexels-photo-32254047.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://images.pexels.com/photos/31971659/pexels-photo-31971659.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://pixabay.com/get/g4aadabbf9729d115bd330864741d8dfa33ea6afcdb182b98645e7e659fb30031d0996877f881cf15feaa6082bc800fde455a4227dda3fba1f36b9c4b10cea9e9_1280.jpg#pixabay=7428108",
-    "https://images.pexels.com/photos/31593701/pexels-photo-31593701.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "https://images.pexels.com/photos/31593701/pexels-photo-31593701.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/13854358/pexels-photo-13854358.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
   ],
   "recentVideoUrls": [
     "https://videos.pexels.com/video-files/19577787/19577787-uhd_2160_3840_30fps.mp4",
@@ -2617,7 +2618,8 @@
       "FREE VIDEO HAPPY"
     ],
     "Korean public holidays that disrupt travel plans": [
-      "성두 홍"
+      "성두 홍",
+      "HANMU STUDIO"
     ],
     "First-timer etiquette & common mistakes": [
       "Minwoo SEO"
