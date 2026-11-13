@@ -44934,5 +44934,37 @@
       "pattern": "C"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-esim-mobile-data.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "baff501b-0ccd-4712-be41-eb7478170101",
+    "text": "Everyone assumes this works the same as back home. It doesn't. One T-money habit almost every first-timer skips costs them real money on their last day in Korea.\n\n1. T-money is a rechargeable transit card sold at convenience stores (GS25, CU, 7-Eleven) and subway station kiosks for a small card fee.\n2. It works on subway, city buses, and many taxis nationwide — tap in and tap out, transfers between subway and bus within the transfer window are discounted.\n3. Balance and recharge are done with cash or card at convenience stores or station machines; unused balance can be partially refunded before leaving Korea.\n\nDone any of these? Which surprised you most?\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-t-money-transit-card.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794546580149-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794546580149-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-13T09:51:02.451Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-13T05:09:41.180Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g3f56c9ae98cdf2770728230d3782845de9b01d62dfd881afd8b5468ed27510241aab9b0f5fee0a01382678c09faff229ece2ceef702751c7a922e170e6c4e224_1280.jpg#pixabay=5445197"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "T-money transit card",
+    "qualityGate": {
+      "pass": true,
+      "reason": "관련성, 문장 완성도, 사실 정확성, 유용성 모두 충족",
+      "model": "groq",
+      "checkedAt": "2026-11-13T05:06:24.698Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-t-money-transit-card.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]
