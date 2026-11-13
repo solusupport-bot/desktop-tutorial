@@ -43899,8 +43899,12 @@
       "threads"
     ],
     "scheduledAt": "2026-11-12T12:56:34.023Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18135463045664607"
+      }
+    },
     "createdAt": "2026-11-12T05:13:55.576Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -43918,7 +43922,8 @@
       "model": "groq",
       "checkedAt": "2026-11-12T05:10:39.615Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-seoul-subway-details-nobody-tells-you-exit-numbers-transfer-walks-express-trains-and-the-last-train.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-seoul-subway-details-nobody-tells-you-exit-numbers-transfer-walks-express-trains-and-the-last-train.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-13T04:56:02.256Z"
   },
   {
     "id": "a671a2bd-d552-4858-a347-3bc7b2bad0de",
@@ -44417,8 +44422,13 @@
       "mastodon"
     ],
     "scheduledAt": "2026-11-13T03:52:23.173Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "mastodon": {
+        "id": "117607351284276373",
+        "url": "https://mastodon.social/@landinkorea/117607351284276373"
+      }
+    },
     "createdAt": "2026-11-12T07:30:55.993Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -44436,7 +44446,8 @@
       "model": "groq",
       "checkedAt": "2026-11-12T07:27:39.349Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-noraebang-etiquette-how-korean-karaoke-actually-works-for-first-timers.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-noraebang-etiquette-how-korean-karaoke-actually-works-for-first-timers.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-13T04:56:07.261Z"
   },
   {
     "id": "567c105d-5285-4296-a446-4fd8721b5d79",
