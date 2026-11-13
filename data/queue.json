@@ -44559,8 +44559,13 @@
       "bluesky"
     ],
     "scheduledAt": "2026-11-13T03:28:59.064Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3n26dx7xz4d2c",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3n26dx7xz4d2c"
+      }
+    },
     "createdAt": "2026-11-12T07:38:38.561Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -44579,7 +44584,8 @@
       "checkedAt": "2026-11-12T07:35:11.220Z",
       "pattern": "C"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-timing-cherry-blossoms-and-fall-foliage-in-korea-without-hitting-peak-crowds.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-timing-cherry-blossoms-and-fall-foliage-in-korea-without-hitting-peak-crowds.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-13T06:24:19.730Z"
   },
   {
     "id": "fdd88cba-ecb8-4c92-a801-40a92cda27c4",
@@ -44753,8 +44759,13 @@
       "facebook"
     ],
     "scheduledAt": "2026-11-13T01:43:25.563Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "122130764217446391",
+        "post_id": "1288453561012463_122130764241446391"
+      }
+    },
     "createdAt": "2026-11-13T00:28:01.759Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -44772,7 +44783,8 @@
       "model": "groq",
       "checkedAt": "2026-11-13T00:24:45.250Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-dmz-and-jsa-tours.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-dmz-and-jsa-tours.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-13T06:24:23.520Z"
   },
   {
     "id": "a1962e97-7e0d-4c7c-9c4b-027df93bc79c",
