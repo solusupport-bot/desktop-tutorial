@@ -1,12 +1,6 @@
 {
-  "lastIndex": 30,
+  "lastIndex": 10,
   "history": [
-    {
-      "index": 56,
-      "topic": "Public bathhouse culture in Korea beyond the jjimjilbang: the mogyoktang rules",
-      "at": "2026-11-07T10:53:25.263Z",
-      "source": "instagram-fill"
-    },
     {
       "index": 40,
       "topic": "Learning to read Hangul in a weekend — and why romanized signs still confuse you",
@@ -1200,6 +1194,12 @@
       "topic": "Korean public holidays that disrupt travel plans",
       "at": "2026-11-13T12:24:34.882Z",
       "source": "instagram-fill"
+    },
+    {
+      "index": 10,
+      "topic": "Airport transfer options",
+      "at": "2026-11-13T13:55:51.432Z",
+      "source": "instagram-fill"
     }
   ],
   "recentImageUrls": [
@@ -2168,7 +2168,8 @@
     "https://images.pexels.com/photos/31971659/pexels-photo-31971659.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://pixabay.com/get/g4aadabbf9729d115bd330864741d8dfa33ea6afcdb182b98645e7e659fb30031d0996877f881cf15feaa6082bc800fde455a4227dda3fba1f36b9c4b10cea9e9_1280.jpg#pixabay=7428108",
     "https://images.pexels.com/photos/31593701/pexels-photo-31593701.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://images.pexels.com/photos/13854358/pexels-photo-13854358.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "https://images.pexels.com/photos/13854358/pexels-photo-13854358.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://pixabay.com/get/g168920c00a1ad89ee9c43e927bf3b39fcf99489f1c852577733d4deb272704573806a694445cfb5e58a02f7d09cd52181021f9f9940a3337725de14441f764d9_1280.jpg#pixabay=6612387"
   ],
   "recentVideoUrls": [
     "https://videos.pexels.com/video-files/19577787/19577787-uhd_2160_3840_30fps.mp4",
