@@ -44559,7 +44559,7 @@
       "bluesky"
     ],
     "scheduledAt": "2026-11-13T03:28:59.064Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-12T07:38:38.561Z",
     "approved": true,
@@ -44753,7 +44753,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-11-13T01:43:25.563Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-13T00:28:01.759Z",
     "approved": true,
