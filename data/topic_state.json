@@ -1,12 +1,6 @@
 {
-  "lastIndex": 7,
+  "lastIndex": 8,
   "history": [
-    {
-      "index": 34,
-      "topic": "Short-term vs. long-term housing in Korea: guesthouse, goshiwon, officetel, and the deposit system",
-      "at": "2026-11-07T05:54:14.080Z",
-      "source": "daily"
-    },
     {
       "index": 35,
       "topic": "Opening a Korean bank account as a foreigner — and why your ARC and phone number come first",
@@ -1200,6 +1194,12 @@
       "topic": "T-money transit card",
       "at": "2026-11-13T05:00:34.986Z",
       "source": "facebook-fill"
+    },
+    {
+      "index": 8,
+      "topic": "Tax refund (Tax Free) shopping",
+      "at": "2026-11-13T06:24:24.810Z",
+      "source": "instagram-fill"
     }
   ],
   "recentImageUrls": [
@@ -2158,7 +2158,8 @@
     "https://images.pexels.com/photos/12163892/pexels-photo-12163892.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://images.pexels.com/photos/30966651/pexels-photo-30966651.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://d8j0ntlcm91z4.cloudfront.net/user_3Fo4ThsH9a12FnQnrCDVGFESZ8E/hf_20260822_115024_19ce33ee-cc0f-4e54-b6e3-ca3a4d4b3fa5.png",
-    "https://pixabay.com/get/g3f56c9ae98cdf2770728230d3782845de9b01d62dfd881afd8b5468ed27510241aab9b0f5fee0a01382678c09faff229ece2ceef702751c7a922e170e6c4e224_1280.jpg#pixabay=5445197"
+    "https://pixabay.com/get/g3f56c9ae98cdf2770728230d3782845de9b01d62dfd881afd8b5468ed27510241aab9b0f5fee0a01382678c09faff229ece2ceef702751c7a922e170e6c4e224_1280.jpg#pixabay=5445197",
+    "https://pixabay.com/get/g7f4c23ca780055af2bdb641734092b240e400b41bccd117f962d7a05dcbcd173cbf34f975172c3f5837ebc99f0db12c4592e5e34d3ccf285762332de88736f57_1280.jpg#pixabay=2682537"
   ],
   "recentVideoUrls": [
     "https://videos.pexels.com/video-files/19577787/19577787-uhd_2160_3840_30fps.mp4",
@@ -2375,7 +2376,8 @@
     "https://videos.pexels.com/video-files/7855643/7855643-hd_1920_1080_24fps.mp4",
     "https://videos.pexels.com/video-files/37751597/16013300_3840_2160_30fps.mp4",
     "https://videos.pexels.com/video-files/30975008/13241682_3840_2160_24fps.mp4",
-    "https://videos.pexels.com/video-files/34267136/14518918_3840_2160_60fps.mp4"
+    "https://videos.pexels.com/video-files/34267136/14518918_3840_2160_60fps.mp4",
+    "https://videos.pexels.com/video-files/40120120/17129723_1920_1080_30fps.mp4"
   ],
   "recentMusicUrls": [
     "https://prod-1.storage.jamendo.com/?trackid=20237&format=mp32",
