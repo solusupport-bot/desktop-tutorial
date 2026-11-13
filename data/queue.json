@@ -44676,5 +44676,37 @@
       "checkedAt": "2026-11-12T11:02:57.532Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-cafes-as-workspaces-in-korea-unspoken-rules-of-study-cafes-franchise-chains-and-no-laptop-signs.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "cdb395bb-77a5-4939-8152-40250b12037a",
+    "text": "There's one detail that trips up almost every first-timer.\n\nNamdaemun sits a 10-minute walk from Myeongdong, and a lot of itineraries treat the two as one stop — they're not the same kind of shopping at all.\n\nNamdaemun has operated on this site since the early 1400s, making it Korea's largest traditional market.\n\nMany sections run on a wholesale schedule (some stalls open as late as 10 PM through 5 AM), not tourist hours, and Sundays are noticeably quieter.\n\nDid this trip you up your first time too? Drop a comment.\n\n📖 Open the Land in Korea link in our profile and search “Namdaemun Market”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794529267830-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794529267830-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-13T17:19:57.486Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-13T00:21:08.844Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/29150602/pexels-photo-29150602.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/29078493/12566588_1920_1080_30fps.mp4",
+    "videoAttribution": null,
+    "topic": "Namdaemun Market",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 내용이 일치하고, 문장이 자연스럽고 사실도 크게 문제되지 않아 발행해도 좋습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-13T00:17:37.750Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-namdaemun-market.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
