@@ -43719,8 +43719,13 @@
       "facebook"
     ],
     "scheduledAt": "2026-11-12T21:18:06.999Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "122130735225446391",
+        "post_id": "1288453561012463_122130735249446391"
+      }
+    },
     "createdAt": "2026-11-12T02:15:31.910Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -43738,7 +43743,8 @@
       "model": "groq",
       "checkedAt": "2026-11-12T02:12:15.411Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-first-timer-etiquette-common-mistakes.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-first-timer-etiquette-common-mistakes.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-13T03:24:26.004Z"
   },
   {
     "id": "b0c294d3-087c-44fa-b3cb-39dab27a04e3",
@@ -44373,8 +44379,13 @@
       "bluesky"
     ],
     "scheduledAt": "2026-11-13T03:22:02.033Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3n25zvmvvbl2c",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3n25zvmvvbl2c"
+      }
+    },
     "createdAt": "2026-11-12T07:30:55.971Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -44392,7 +44403,8 @@
       "model": "groq",
       "checkedAt": "2026-11-12T07:27:39.349Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-noraebang-etiquette-how-korean-karaoke-actually-works-for-first-timers.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-noraebang-etiquette-how-korean-karaoke-actually-works-for-first-timers.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-13T03:24:28.554Z"
   },
   {
     "id": "ac6ecd23-d22e-4f0a-8b8e-f0ef1fa6473b",
@@ -44499,8 +44511,12 @@
       "instagram"
     ],
     "scheduledAt": "2026-11-13T03:13:11.988Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "18120859535089773"
+      }
+    },
     "createdAt": "2026-11-12T07:38:38.544Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -44518,7 +44534,8 @@
       "model": "groq",
       "checkedAt": "2026-11-12T07:35:11.220Z",
       "pattern": "C"
-    }
+    },
+    "processedAt": "2026-11-13T03:25:04.491Z"
   },
   {
     "id": "7e6a9764-9b21-40a5-a684-64a29f025704",
