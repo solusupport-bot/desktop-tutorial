@@ -43829,7 +43829,7 @@
       "threads"
     ],
     "scheduledAt": "2026-11-12T19:33:01.760Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-12T03:35:51.048Z",
     "approved": true,
