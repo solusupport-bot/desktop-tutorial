@@ -43829,8 +43829,12 @@
       "threads"
     ],
     "scheduledAt": "2026-11-12T19:33:01.760Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18113897750191157"
+      }
+    },
     "createdAt": "2026-11-12T03:35:51.048Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -43848,7 +43852,8 @@
       "model": "groq",
       "checkedAt": "2026-11-12T03:32:34.257Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-seasonal-packing-weather-tips.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-seasonal-packing-weather-tips.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-13T16:54:55.864Z"
   },
   {
     "id": "84befbd0-c85e-4829-a53a-bb0bd9a77a95",
