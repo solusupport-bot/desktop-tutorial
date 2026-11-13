@@ -43974,8 +43974,12 @@
       "threads"
     ],
     "scheduledAt": "2026-11-12T18:46:08.585Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18082010177453786"
+      }
+    },
     "createdAt": "2026-11-12T06:33:34.713Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -43993,7 +43997,8 @@
       "model": "groq",
       "checkedAt": "2026-11-12T06:30:07.455Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-eating-alone-in-korea-which-restaurants-refuse-solo-diners-and-where-honbap-works.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-eating-alone-in-korea-which-restaurants-refuse-solo-diners-and-where-honbap-works.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-13T13:55:49.744Z"
   },
   {
     "id": "030fcea4-c503-48fc-879f-d0a5f2e07691",
