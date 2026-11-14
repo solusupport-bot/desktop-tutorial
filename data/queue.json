@@ -45517,5 +45517,37 @@
       "checkedAt": "2026-11-14T06:49:39.856Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-cafes-as-workspaces-in-korea-unspoken-rules-of-study-cafes-franchise-chains-and-no-laptop-signs.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "675664ba-eb9f-479e-a4ff-9ac7619c6740",
+    "text": "Everyone assumes this works the same as back home. It doesn't.\n\nMany popular Korean restaurants don't take phone reservations from walk-in strangers and instead run everything through apps.\n\nNaver Place booking is the most widespread — you find the restaurant on Naver Map, and a 예약 (reserve) button appears with available time slots.\n\nCatch Table is the go-to for higher-end and trendy places, and slots for hyped restaurants can vanish within minutes of opening, often at a fixed time weeks ahead.\n\nWorth knowing before you land? Reply with what surprised you.\n\n📖 Open the Land in Korea link in our profile and search “Reserving restaurants and joining waitlists in Korea: Catch Table, Naver booking, and the Tabling tablet”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794643756555-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794643756555-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-14T09:06:17.867Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-14T08:09:17.151Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g8ee21964a11e59270298366cbf2c31efe0eb2e9a1ff201ad22c55c099257dadbcad5df0028146d8c1d9255a0623f1cd36ffad3ccfda0e1aa23986f74aa612dd9_1280.jpg#pixabay=6702428"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Reserving restaurants and joining waitlists in Korea: Catch Table, Naver booking, and the Tabling tablet",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련된 내용이며 문장이 자연스럽고 사실도 과장되지 않아 여행 콘텐츠로 유용합니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-14T08:06:00.916Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-reserving-restaurants-and-joining-waitlists-in-korea-catch-table-naver-booking-and-the-tabling-tablet.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
