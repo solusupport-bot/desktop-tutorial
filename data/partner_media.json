@@ -22,15 +22,6 @@
     },
     {
       "provider": "Klook",
-      "name": "Everland",
-      "match": "everland",
-      "url": "https://www.klook.com/en-US/activity/252-everland-seoul/?aid=132967",
-      "images": [
-        "https://res.klook.com/image/upload/c_fill,w_1080,h_1350,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/hzfuyavyxs7x03bhk4nv.jpg"
-      ]
-    },
-    {
-      "provider": "Klook",
       "name": "Lotte World",
       "match": "lotte world",
       "url": "https://www.klook.com/en-US/activity/251-lotte-world-seoul/?aid=132967",
@@ -55,15 +46,6 @@
         "https://res.klook.com/image/upload/c_fill,w_1080,h_1350,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/gvfehrh26fqbecerz811.jpg",
         "https://res.klook.com/image/upload/c_fill,w_1080,h_1350,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/pplyqz2rsiyegoawgncg.jpg",
         "https://res.klook.com/image/upload/c_fill,w_1080,h_1350,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/nbrthajnalyengazthun.jpg"
-      ]
-    },
-    {
-      "provider": "Klook",
-      "name": "Busan Day Tour",
-      "match": "busan|haeundae|gamcheon|gwangalli|jagalchi",
-      "url": "https://www.klook.com/en-US/activity/74132-busan-oneday-tour-busan/?aid=132967",
-      "images": [
-        "https://res.klook.com/image/upload/c_fill,w_1080,h_1350,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/rtievqvmfebvomrqp1o0.jpg"
       ]
     },
     {
