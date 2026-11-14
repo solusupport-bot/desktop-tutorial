@@ -45613,5 +45613,37 @@
       "checkedAt": "2026-11-14T09:39:44.464Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-the-closed-on-monday-trap-how-korean-palaces-and-museums-schedule-their-days-off.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "ac3e8364-bf97-4a96-9541-b8f7c5239246",
+    "text": "Everyone assumes this works the same as back home. It doesn't. Hiking is a mainstream national pastime, not a niche hobby, and several serious peaks sit at the end of a subway or city bus ride — Bukhansan, Dobongsan, Inwangsan and Gwanaksan are all reachable from central Seoul without a car.\n\n1. Trails are heavily signposted with distance to the summit and numbered emergency markers you can quote to rescue services if something goes wrong.\n2. Weekends, especially in October foliage season, bring serious crowds and queues at summit rock scrambles, so early starts are genuinely worth it.\n3. Descents on granite are where most injuries happen, so grippy shoes matter more than fitness on a lot of these mountains.\n\nDone any of these? Which surprised you most?\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-hiking-in-korea-like-a-local-subway-accessible-peaks-seasonal-trail-closures-and-the-gear-culture.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794649795992-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794649795992-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-14T12:32:49.548Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-14T09:49:56.793Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/14264232/pexels-photo-14264232.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Hiking in Korea like a local: subway-accessible peaks, seasonal trail closures, and the gear culture",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고, 내용이 정확하며 문장이 자연스럽고 여행 정보로 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-14T09:46:40.493Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-hiking-in-korea-like-a-local-subway-accessible-peaks-seasonal-trail-closures-and-the-gear-culture.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]
