@@ -45415,5 +45415,37 @@
       "checkedAt": "2026-11-14T05:03:08.718Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-mobile-payments-in-korea-kakao-pay-naver-pay-and-why-apple-pay-doesn-t-work.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "96dd8acc-cf20-4467-b882-1bfa08f0f7de",
+    "text": "Everyone assumes this works the same as back home. It doesn't. A mogyoktang (목욕탕) is the plain bathhouse half of what tourists usually only encounter bundled into a jjimjilbang — gender-separated, swimsuit-free, soak-and-scrub bathing with no sleeping rooms or 24-hour common areas attached.\n\n1. Full nudity is the norm and non-negotiable past the locker room door; swimsuits aren't offered or allowed in the water, which catches a lot of first-timers off guard since Western-style spas often default to covered bodies.\n\nDone any of these? Which surprised you most?\n\n📖 More on the blog: https://landinkorea.com/index.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794633194114-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794633194114-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-14T14:55:14.922Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-14T05:13:15.373Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/40100167/pexels-photo-40100167.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Public bathhouse culture in Korea beyond the jjimjilbang: the mogyoktang rules",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽으며 사실도 정확해 여행자에게 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-14T05:09:58.600Z"
+    },
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]

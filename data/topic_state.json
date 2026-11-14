@@ -1,12 +1,6 @@
 {
-  "lastIndex": 55,
+  "lastIndex": 56,
   "history": [
-    {
-      "index": 3,
-      "topic": "Myeongdong shopping district",
-      "at": "2026-11-08T04:53:30.711Z",
-      "source": "instagram-fill"
-    },
     {
       "index": 4,
       "topic": "Busan Haeundae Beach & Gamcheon Culture Village",
@@ -1200,6 +1194,12 @@
       "topic": "Mobile payments in Korea: Kakao Pay, Naver Pay, and why Apple Pay doesn’t work",
       "at": "2026-11-14T04:56:08.225Z",
       "source": "threads-fill"
+    },
+    {
+      "index": 56,
+      "topic": "Public bathhouse culture in Korea beyond the jjimjilbang: the mogyoktang rules",
+      "at": "2026-11-14T05:06:26.646Z",
+      "source": "facebook-fill"
     }
   ],
   "recentImageUrls": [
@@ -2184,7 +2184,8 @@
     "https://images.pexels.com/photos/2519330/pexels-photo-2519330.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://images.pexels.com/photos/29343954/pexels-photo-29343954.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://pixabay.com/get/g3b73b7dd1b20311567eb2c810a2d0bd10a5f95f88c7c677b579e6177eb314aa123675812d0f81cf0295bb068d68014204ac6de32288f94185aab21cb844aac70_1280.jpg#pixabay=7711019",
-    "https://images.pexels.com/photos/32087637/pexels-photo-32087637.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "https://images.pexels.com/photos/32087637/pexels-photo-32087637.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/40100167/pexels-photo-40100167.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
   ],
   "recentVideoUrls": [
     "https://videos.pexels.com/video-files/19577787/19577787-uhd_2160_3840_30fps.mp4",
@@ -2537,7 +2538,8 @@
     ],
     "Public bathhouse culture in Korea beyond the jjimjilbang: the mogyoktang rules": [
       "Henry Acevedo",
-      "FranKai Silva"
+      "FranKai Silva",
+      "Jinoni J"
     ],
     "Learning to read Hangul in a weekend — and why romanized signs still confuse you": [
       "Theodore Nguyen"
