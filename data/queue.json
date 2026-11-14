@@ -45345,5 +45345,37 @@
       "checkedAt": "2026-11-14T03:31:08.062Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-noraebang-etiquette-how-korean-karaoke-actually-works-for-first-timers.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "ee64a946-02f7-4fca-8843-e31463f5d2e6",
+    "text": "Everyone assumes this works the same as back home. It doesn't. Korea's flower and foliage seasons move geographically, and that's the whole planning trick.\n\n1. Cherry blossoms open first in the far south — Jeju, Busan, Changwon — around late March, then sweep northward, usually reaching Seoul in early April.\n2. Autumn colors run in reverse: they start in the northern mountains like Seoraksan in early-to-mid October, hit Seoul roughly late October into early November, and finish in the southern provinces afterward.\n3. Weather companies and the Korea Meteorological Administration publish bloom and foliage forecast maps each year, and those are worth checking a couple of weeks out rather than booking blind months ahead.\n\nDone any of these? Which surprised you most?\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-timing-cherry-blossoms-and-fall-foliage-in-korea-without-hitting-peak-crowds.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794627740376-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794627740376-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-14T04:51:57.431Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-14T03:42:21.430Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/29343954/pexels-photo-29343954.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/03/27/112142-693362066_large.mp4",
+    "videoAttribution": null,
+    "topic": "Timing cherry blossoms and fall foliage in Korea without hitting peak crowds",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스러우며 사실도 타당해 여행 정보로 유용함",
+      "model": "groq",
+      "checkedAt": "2026-11-14T03:38:56.967Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-timing-cherry-blossoms-and-fall-foliage-in-korea-without-hitting-peak-crowds.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]
