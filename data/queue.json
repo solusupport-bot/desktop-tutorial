@@ -45581,5 +45581,37 @@
       "checkedAt": "2026-11-14T08:12:50.850Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-day-tripping-from-seoul-by-regular-train-mugunghwa-itx-saemaeul-and-the-gyeongui-jungang-line.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "bd92c6f5-e09d-4295-a485-d0ec0d23116b",
+    "text": "Everyone assumes this works the same as back home. It doesn't.\n\nKorea's main palaces don't all close on the same day, which wrecks a lot of tightly planned itineraries.\n\nGyeongbokgung takes Tuesday off, while Changdeokgung, Changgyeonggung, Deoksugung and Jongmyo close on Mondays — so a Monday in Seoul quietly becomes a Gyeongbokgung day whether you planned it or not.\n\nMany city-run and national museums and art galleries also observe a weekly closing day, most often Monday, and ticket booths typically stop selling about an hour before the gates shut.\n\nWorth knowing before you land? Reply with what surprised you.\n\n📖 Open the Land in Korea link in our profile and search “The closed-on-Monday trap: how Korean palaces and museums schedule their days off”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794649388061-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794649388061-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-14T09:42:02.354Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-14T09:43:08.840Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/21036445/pexels-photo-21036445.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/40156299/17151793_3840_2160_29fps.mp4",
+    "videoAttribution": null,
+    "topic": "The closed-on-Monday trap: how Korean palaces and museums schedule their days off",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스러우며 사실도 신뢰할 수 있어 여행자에게 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-14T09:39:44.464Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-the-closed-on-monday-trap-how-korean-palaces-and-museums-schedule-their-days-off.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
