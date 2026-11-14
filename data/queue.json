@@ -45737,7 +45737,7 @@
       "instagram"
     ],
     "scheduledAt": "2026-11-14T23:42:33.685Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-11-14T13:55:17.247Z",
     "approved": true,
@@ -45756,6 +45756,8 @@
       "model": "groq",
       "checkedAt": "2026-11-14T13:55:14.097Z",
       "pattern": "A"
-    }
+    },
+    "rejectedBy": "user-rule",
+    "rejectReason": "2026-11-14 사용자 규칙 재확정: 인스타는 영상만 — 사진 게시 반려"
   }
 ]
