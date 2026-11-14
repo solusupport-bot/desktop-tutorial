@@ -1,6 +1,6 @@
 {
   "checkedOn": "2026-11-14",
-  "note": "Product gallery photos from approved affiliate partners. Copyright belongs to the provider; captions must credit it.",
+  "note": "Product gallery photos from approved affiliate partners. Copyright belongs to the provider; captions must credit it. Hand-reviewed 2026-11-14: removed collages, text posters/illustrations, Petite France (reads as non-Korea), and groups of non-Korean tourists (media rules).",
   "products": [
     {
       "provider": "Klook",
@@ -9,28 +9,15 @@
       "url": "https://www.klook.com/en-US/activity/2528-nami-island-garden-morning-calm-seoul/?aid=132967",
       "images": [
         "https://res.klook.com/image/upload/c_fill,w_1080,h_1350,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/i5mb61zgnmtqq8mug9sg.jpg",
-        "https://res.klook.com/image/upload/c_fill,w_1080,h_1350,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/mskb2im1gjvbdy4jfpdd.jpg",
         "https://res.klook.com/image/upload/c_fill,w_1080,h_1350,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/tdwv7vaszgny83p0zvsh.jpg",
         "https://res.klook.com/image/upload/c_fill,w_1080,h_1350,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/bdylpnjajmfkuyhe1ryi.jpg",
         "https://res.klook.com/image/upload/c_fill,w_1080,h_1350,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/fjub7am9awfnqmcqlcl6.jpg",
-        "https://res.klook.com/image/upload/c_fill,w_1080,h_1350,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/aexoy5z6ijhvc6k0bfuk.jpg",
-        "https://res.klook.com/image/upload/c_fill,w_1080,h_1350,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/hmxv5bgof59dptpibbuu.jpg",
         "https://res.klook.com/image/upload/c_fill,w_1080,h_1350,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/yhtfxgv303nmr1h9z2sd.jpg",
-        "https://res.klook.com/image/upload/c_fill,w_1080,h_1350,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/mjmkahcacxwlywc8wweo.jpg",
-        "https://res.klook.com/image/upload/c_fill,w_1080,h_1350,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/qbrfeg8bjw10zxcg9ju9.jpg",
         "https://res.klook.com/image/upload/c_fill,w_1080,h_1350,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/ml1jeiu4vvpt9hexgw9k.jpg",
-        "https://res.klook.com/image/upload/c_fill,w_1080,h_1350,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/uqdrx6aslfd0rxbwppan.jpg",
-        "https://res.klook.com/image/upload/c_fill,w_1080,h_1350,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/kpu5qqw7wppot02rziyx.jpg",
-        "https://res.klook.com/image/upload/c_fill,w_1080,h_1350,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/u409l0eicmji8zmeuxqs.jpg",
-        "https://res.klook.com/image/upload/c_fill,w_1080,h_1350,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/x9wsc7cibbfxnetbkc6f.jpg",
         "https://res.klook.com/image/upload/c_fill,w_1080,h_1350,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/putxbcfyojkkrad6fhcl.jpg",
         "https://res.klook.com/image/upload/c_fill,w_1080,h_1350,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/imdq0wed7c50zsmz6ovw.jpg",
         "https://res.klook.com/image/upload/c_fill,w_1080,h_1350,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/vtjxhadxjflpyz4dksdt.jpg",
-        "https://res.klook.com/image/upload/c_fill,w_1080,h_1350,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/sylenlyyagz1fyciyztv.jpg",
-        "https://res.klook.com/image/upload/c_fill,w_1080,h_1350,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/jenlzkqzicsxhrwyhtao.jpg",
-        "https://res.klook.com/image/upload/c_fill,w_1080,h_1350,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/pmxpzuq938fkco0dumsf.jpg",
-        "https://res.klook.com/image/upload/c_fill,w_1080,h_1350,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/zyajbzuktktvjvry8eg9.jpg",
-        "https://res.klook.com/image/upload/c_fill,w_1080,h_1350,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/u7oldqgcsqq56eb3yrwu.jpg"
+        "https://res.klook.com/image/upload/c_fill,w_1080,h_1350,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/pmxpzuq938fkco0dumsf.jpg"
       ]
     },
     {
@@ -39,11 +26,7 @@
       "match": "everland",
       "url": "https://www.klook.com/en-US/activity/252-everland-seoul/?aid=132967",
       "images": [
-        "https://res.klook.com/image/upload/c_fill,w_1080,h_1350,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/hzfuyavyxs7x03bhk4nv.jpg",
-        "https://res.klook.com/image/upload/c_fill,w_1080,h_1350,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/uyilynab8w1p5rvquxox.jpg",
-        "https://res.klook.com/image/upload/c_fill,w_1080,h_1350,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/fkbalj0nwhji3k6qfz4p.jpg",
-        "https://res.klook.com/image/upload/c_fill,w_1080,h_1350,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/v5aijbcclxidyvmgirka.jpg",
-        "https://res.klook.com/image/upload/c_fill,w_1080,h_1350,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/mchwq0kx3gww0meqwgmi.jpg"
+        "https://res.klook.com/image/upload/c_fill,w_1080,h_1350,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/hzfuyavyxs7x03bhk4nv.jpg"
       ]
     },
     {
@@ -53,8 +36,6 @@
       "url": "https://www.klook.com/en-US/activity/251-lotte-world-seoul/?aid=132967",
       "images": [
         "https://res.klook.com/image/upload/c_fill,w_1080,h_1350,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/q71cmvopjaxnvlrrhm5v.jpg",
-        "https://res.klook.com/image/upload/c_fill,w_1080,h_1350,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/mlo0esxz0c986okbghmt.jpg",
-        "https://res.klook.com/image/upload/c_fill,w_1080,h_1350,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/yekn4sburndft8ewhs5l.jpg",
         "https://res.klook.com/image/upload/c_fill,w_1080,h_1350,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/uow27oy9voq4svergaud.jpg",
         "https://res.klook.com/image/upload/c_fill,w_1080,h_1350,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/yyyulyqnqtwrlr8obgty.jpg"
       ]
@@ -65,18 +46,14 @@
       "match": "(?<![a-z])dmz(?![a-z])|(?<![a-z])jsa(?![a-z])",
       "url": "https://www.klook.com/en-US/activity/216-dmz-tour-gyeonggi-do/?aid=132967",
       "images": [
-        "https://res.klook.com/image/upload/c_fill,w_1080,h_1350,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/if7udg4rzxzkvfitn0v8.jpg",
         "https://res.klook.com/image/upload/c_fill,w_1080,h_1350,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/iqhty1wn88kic1pssteh.jpg",
         "https://res.klook.com/image/upload/c_fill,w_1080,h_1350,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/tukvcg6zkvag3xiirsch.jpg",
         "https://res.klook.com/image/upload/c_fill,w_1080,h_1350,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/q8ccjekqnc47qe1gk3sw.jpg",
         "https://res.klook.com/image/upload/c_fill,w_1080,h_1350,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/k7fhxdb0793eyq9d1fbq.jpg",
         "https://res.klook.com/image/upload/c_fill,w_1080,h_1350,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/rjgnfaxe7qpqu4cwqvvg.jpg",
-        "https://res.klook.com/image/upload/c_fill,w_1080,h_1350,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/dapryay5rrznce8drf3p.jpg",
-        "https://res.klook.com/image/upload/c_fill,w_1080,h_1350,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/onwuq1txp65ysbxlwvph.jpg",
         "https://res.klook.com/image/upload/c_fill,w_1080,h_1350,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/fqiske5xc6dmkgy8wmai.jpg",
         "https://res.klook.com/image/upload/c_fill,w_1080,h_1350,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/gvfehrh26fqbecerz811.jpg",
         "https://res.klook.com/image/upload/c_fill,w_1080,h_1350,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/pplyqz2rsiyegoawgncg.jpg",
-        "https://res.klook.com/image/upload/c_fill,w_1080,h_1350,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/mmmspr9tlhnmge8zcy0v.jpg",
         "https://res.klook.com/image/upload/c_fill,w_1080,h_1350,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/nbrthajnalyengazthun.jpg"
       ]
     },
