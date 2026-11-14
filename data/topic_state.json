@@ -1,12 +1,6 @@
 {
-  "lastIndex": 40,
+  "lastIndex": 41,
   "history": [
-    {
-      "index": 5,
-      "topic": "Jeju Island",
-      "at": "2026-11-08T05:54:17.931Z",
-      "source": "daily"
-    },
     {
       "index": 6,
       "topic": "eSIM & mobile data",
@@ -1200,6 +1194,12 @@
       "topic": "Learning to read Hangul in a weekend — and why romanized signs still confuse you",
       "at": "2026-11-14T06:24:29.860Z",
       "source": "instagram-fill"
+    },
+    {
+      "index": 41,
+      "topic": "Hospital vs. clinic vs. pharmacy in Korea: where to actually go when you get sick",
+      "at": "2026-11-14T06:31:22.175Z",
+      "source": "threads-fill"
     }
   ],
   "recentImageUrls": [
@@ -2548,7 +2548,10 @@
     "Hospital vs. clinic vs. pharmacy in Korea: where to actually go when you get sick": [
       "Theodore Nguyen",
       "Jan Židlický",
-      "Memory Lane"
+      "Memory Lane",
+      "Marius Mann",
+      "Andrea De Santis",
+      "Jaythen Bag-ayan"
     ],
     "Cafes as workspaces in Korea: unspoken rules of study cafes, franchise chains, and 'no-laptop' signs": [
       "Theodore Nguyen",
