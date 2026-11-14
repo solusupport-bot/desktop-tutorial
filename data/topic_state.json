@@ -1,12 +1,6 @@
 {
-  "lastIndex": 44,
+  "lastIndex": 45,
   "history": [
-    {
-      "index": 9,
-      "topic": "Travel advisories & safety notices",
-      "at": "2026-11-08T07:54:42.274Z",
-      "source": "instagram-fill"
-    },
     {
       "index": 23,
       "topic": "Insadong traditional culture street",
@@ -1200,6 +1194,12 @@
       "topic": "Reserving restaurants and joining waitlists in Korea: Catch Table, Naver booking, and the Tabling tablet",
       "at": "2026-11-14T08:02:30.169Z",
       "source": "threads-fill"
+    },
+    {
+      "index": 45,
+      "topic": "Day-tripping from Seoul by regular train: Mugunghwa, ITX-Saemaeul, and the Gyeongui-Jungang line",
+      "at": "2026-11-14T08:09:18.548Z",
+      "source": "facebook-fill"
     }
   ],
   "recentImageUrls": [
@@ -2189,7 +2189,8 @@
     "https://pixabay.com/get/g40fd5c414ed464d54459d7b3d9cf777109a579325f4f439c7dcd4da9ec0eece7e32d1d4e55964f782e21ce00028b8cdb3c956bce81fcc8c30969685f5213e17c_1280.jpg#pixabay=4626820",
     "https://images.pexels.com/photos/19207220/pexels-photo-19207220.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://pixabay.com/get/g56dc71796229c2c34297dc668fa05131f1b1dc127cac6c0e7e1ae99d249ffb0543b165d39c4107838eb9b7e83a169a674822b500372f4320a49dbf39a9870a32_1280.jpg#pixabay=7523473",
-    "https://pixabay.com/get/g8ee21964a11e59270298366cbf2c31efe0eb2e9a1ff201ad22c55c099257dadbcad5df0028146d8c1d9255a0623f1cd36ffad3ccfda0e1aa23986f74aa612dd9_1280.jpg#pixabay=6702428"
+    "https://pixabay.com/get/g8ee21964a11e59270298366cbf2c31efe0eb2e9a1ff201ad22c55c099257dadbcad5df0028146d8c1d9255a0623f1cd36ffad3ccfda0e1aa23986f74aa612dd9_1280.jpg#pixabay=6702428",
+    "https://pixabay.com/get/gbd4f8f4202859e1d3a046dfb48372dc721cc7ad4b2e827c00ffd7e96f1a72360e66e23973b6db018291487d576bdaef1ee31f87cbde5a2a26aa2b77391ca58f7_1280.jpg#pixabay=5827458"
   ],
   "recentVideoUrls": [
     "https://videos.pexels.com/video-files/19577787/19577787-uhd_2160_3840_30fps.mp4",
