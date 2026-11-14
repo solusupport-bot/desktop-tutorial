@@ -45248,5 +45248,32 @@
       "checkedAt": "2026-11-14T00:45:26.701Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-opening-a-korean-bank-account-as-a-foreigner-and-why-your-arc-and-phone-number-come-first.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "a7d6f24c-a150-47e2-80f1-7adf861f72a7",
+    "text": "There's one detail that trips up almost every first-timer.\n\nKorea's delivery ecosystem runs on a few big apps — Baemin, Coupang Eats, and Yogiyo — and the food itself arrives fast and cheap by global standards.\n\nThe hard part is account setup: most apps expect a Korean mobile number for verification, and payment usually flows through a Korean-issued card or a domestic wallet like Kakao Pay or Naver Pay, though foreign cards work in some cases.\n\nMenus are also mostly in Korean even when the app interface offers English, so a translation app pointed at the screen is part of normal ordering.\n\nDid this trip you up your first time too? Drop a comment.\n\n📖 Open the Land in Korea link in our profile and search “Food delivery apps in Korea: why signing up is harder than ordering”.",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-14T11:13:15.031Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-14T02:06:35.182Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Food delivery apps in Korea: why signing up is harder than ordering",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 부합하고 내용이 자연하며 사실에 큰 문제가 없고 여행자에게 유용한 정보가 포함돼 있습니다",
+      "model": "groq",
+      "checkedAt": "2026-11-14T02:03:19.674Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-food-delivery-apps-in-korea-why-signing-up-is-harder-than-ordering.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
