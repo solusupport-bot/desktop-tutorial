@@ -45725,5 +45725,37 @@
       "checkedAt": "2026-11-14T11:11:01.613Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-trash-and-recycling-rules-for-residents.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "5ffb41f7-0684-43f1-a7b1-adac4d3a3533",
+    "text": "Booked a DMZ tour and expect to walk into the Joint Security Area? Not so fast.\n\nOnly a JSA tour lets you cross the actual Military Demarcation Line.\n\nDid you know this difference? Save this for your Korea trip.\n\n📖 Open the Land in Korea link in our profile and search “DMZ and JSA tours”.\n\n#KoreaTravel #VisitKorea #SeoulTrip #DMZ #JSA\n\n📸 Photos: Klook",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794664516360-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794664516360-v0-0.jpg"
+    ],
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-11-14T23:42:33.685Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-14T13:55:17.247Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://res.klook.com/image/upload/c_fill,w_1080,h_1350,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/iqhty1wn88kic1pssteh.jpg"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "DMZ and JSA tours",
+    "qualityGate": {
+      "pass": true,
+      "reason": "내용이 DMZ와 JSA 투어에 정확히 맞으며 사실에 기반해 자연스럽게 서술되어 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-14T13:55:14.097Z",
+      "pattern": "A"
+    }
   }
 ]
