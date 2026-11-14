@@ -45313,5 +45313,37 @@
     },
     "blogUrl": "https://landinkorea.com/posts/korea-renting-a-car-in-korea-when-it-s-smart-when-it-s-a-waste-and-what-the-rental-desk-will-ask-for.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
     "processedAt": "2026-11-14T03:24:30.126Z"
+  },
+  {
+    "id": "3444e8f1-27bb-4375-843e-dc65fe2257d9",
+    "text": "Everyone assumes this works the same as back home. It doesn't.\n\nA noraebang is a private karaoke room, not a stage in front of strangers - you rent the room by the hour with your own group, which is the opposite of Western karaoke bars where everyone sings in front of the whole room.\n\nRooms are everywhere in Korea, open late, and cost surprisingly little split between a few people.\n\nSong machines have English-language search and thousands of English songs alongside Korean ones, so language isn't actually a barrier.\n\nWorth knowing before you land? Reply with what surprised you.\n\n📖 Open the Land in Korea link in our profile and search “Noraebang etiquette: how Korean karaoke actually works for first-timers”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794627263254-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794627263254-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-14T23:20:34.351Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-14T03:34:24.114Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/2519330/pexels-photo-2519330.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Noraebang etiquette: how Korean karaoke actually works for first-timers",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽고, 가격·운영·언어 등 사실이 과장되지 않아 여행자에게 유용하다",
+      "model": "groq",
+      "checkedAt": "2026-11-14T03:31:08.062Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-noraebang-etiquette-how-korean-karaoke-actually-works-for-first-timers.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
