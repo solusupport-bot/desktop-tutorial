@@ -1,12 +1,6 @@
 {
-  "lastIndex": 54,
+  "lastIndex": 55,
   "history": [
-    {
-      "index": 2,
-      "topic": "N Seoul Tower (Namsan)",
-      "at": "2026-11-08T03:35:53.963Z",
-      "source": "threads-fill"
-    },
     {
       "index": 3,
       "topic": "Myeongdong shopping district",
@@ -1200,6 +1194,12 @@
       "topic": "Unmanned kiosk ordering in Korea: why humans are disappearing from the counter",
       "at": "2026-11-14T04:54:48.058Z",
       "source": "instagram-fill"
+    },
+    {
+      "index": 55,
+      "topic": "Mobile payments in Korea: Kakao Pay, Naver Pay, and why Apple Pay doesn’t work",
+      "at": "2026-11-14T04:56:08.225Z",
+      "source": "threads-fill"
     }
   ],
   "recentImageUrls": [
@@ -2183,7 +2183,8 @@
     "https://pixabay.com/get/g3a35d51472f182cffbccce572fe0507ad71fdcd0a26abcb6be8f9bb7fe53c28e60d24817326461a7b862db9bec806e3c5b04d248db0e6ac6f9192a4c2bc4b0b4_1280.jpg#pixabay=1308823",
     "https://images.pexels.com/photos/2519330/pexels-photo-2519330.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://images.pexels.com/photos/29343954/pexels-photo-29343954.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://pixabay.com/get/g3b73b7dd1b20311567eb2c810a2d0bd10a5f95f88c7c677b579e6177eb314aa123675812d0f81cf0295bb068d68014204ac6de32288f94185aab21cb844aac70_1280.jpg#pixabay=7711019"
+    "https://pixabay.com/get/g3b73b7dd1b20311567eb2c810a2d0bd10a5f95f88c7c677b579e6177eb314aa123675812d0f81cf0295bb068d68014204ac6de32288f94185aab21cb844aac70_1280.jpg#pixabay=7711019",
+    "https://images.pexels.com/photos/32087637/pexels-photo-32087637.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
   ],
   "recentVideoUrls": [
     "https://videos.pexels.com/video-files/19577787/19577787-uhd_2160_3840_30fps.mp4",
@@ -2670,6 +2671,9 @@
     ],
     "Doing laundry in Korea: coin laundromats, the dryer problem, and neighborhood dry cleaners": [
       "Ayyeee Ayyeee"
+    ],
+    "Mobile payments in Korea: Kakao Pay, Naver Pay, and why Apple Pay doesn’t work": [
+      "Theodore Nguyen"
     ]
   }
 }
