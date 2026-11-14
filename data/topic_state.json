@@ -1,12 +1,6 @@
 {
-  "lastIndex": 35,
+  "lastIndex": 36,
   "history": [
-    {
-      "index": 18,
-      "topic": "KTX vs. SRT vs. intercity bus for long-distance travel",
-      "at": "2026-11-08T00:24:58.781Z",
-      "source": "instagram-fill"
-    },
     {
       "index": 20,
       "topic": "Trash and recycling rules for residents",
@@ -1200,6 +1194,12 @@
       "topic": "Opening a Korean bank account as a foreigner — and why your ARC and phone number come first",
       "at": "2026-11-14T00:41:50.109Z",
       "source": "facebook-fill"
+    },
+    {
+      "index": 36,
+      "topic": "Eating alone in Korea: which restaurants refuse solo diners and where honbap works",
+      "at": "2026-11-14T01:54:53.364Z",
+      "source": "instagram-fill"
     }
   ],
   "recentImageUrls": [
@@ -2177,7 +2177,8 @@
     "https://images.pexels.com/photos/31649629/pexels-photo-31649629.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://pixabay.com/get/g579ade69356781e54514074a518d146a6ff82caf32142423710ae777f5cb07f583d825329b939f5eae98f041ff1e50f2dfa0fbc47b17cd463b7b675a112c961e_1280.jpg#pixabay=5969381",
     "https://images.pexels.com/photos/33034609/pexels-photo-33034609.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://pixabay.com/get/g1eeccf1b483fdee62ea9806e645f18c1d12bf2649de0bce55d1fc409da5da499cfe477769abbb2f167ba4a0a3d7e0c1a81104c12b4025e02ceafd38361053424_1280.jpg#pixabay=6200276"
+    "https://pixabay.com/get/g1eeccf1b483fdee62ea9806e645f18c1d12bf2649de0bce55d1fc409da5da499cfe477769abbb2f167ba4a0a3d7e0c1a81104c12b4025e02ceafd38361053424_1280.jpg#pixabay=6200276",
+    "https://images.pexels.com/photos/8995209/pexels-photo-8995209.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
   ],
   "recentVideoUrls": [
     "https://videos.pexels.com/video-files/19577787/19577787-uhd_2160_3840_30fps.mp4",
@@ -2501,7 +2502,8 @@
     ],
     "Eating alone in Korea: which restaurants refuse solo diners and where honbap works": [
       "Yena Kwon",
-      "Theodore Nguyen"
+      "Theodore Nguyen",
+      "makafood"
     ],
     "Food delivery apps in Korea: why signing up is harder than ordering": [
       "Theodore Nguyen",
