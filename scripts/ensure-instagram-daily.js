@@ -15,6 +15,8 @@ const { loadQueue } = require('../lib/scheduler/queue');
 const { fetchKoreaTravelTopics } = require('../lib/ingestion/korea_travel');
 const { pickNextTopic, loadState, saveState } = require('../lib/scheduler/topic_rotation');
 const { queueOneTopic } = require('../lib/scheduler/queue_topic');
+const { hasUnusedPartnerMedia } = require('../lib/ingestion/partner_media');
+const { getRecentImageUrls } = require('../lib/scheduler/topic_rotation');
 
 // 2026-11-04 사용자 지시 정정: Instagram은 하루 3~5건(목표 4) — daily-auto-post.js의
 // 공유 배치(POSTS_PER_DAY=4)가 그대로 충족하는 경우가 많겠지만, "영상 없으면 반려" 하드룰로
@@ -60,7 +62,11 @@ const main = async () => {
   while (todayCount() < TARGET_PER_DAY && attempts < MAX_ATTEMPTS) {
     attempts += 1;
     const historyLengthBefore = loadState().history.length;
-    const topicAndSeed = pickNextTopic(topics, 'instagram-fill');
+    // 2026-11-14: 영상 없는 생활정보 주제만 연달아 골라 인스타가 30시간 넘게 멈췄다 — 제휴
+    // 사진이 2장 이상 남은 주제(슬라이드 영상 가능)를 먼저 고른다. 없으면 기존처럼 전체에서.
+    const used = getRecentImageUrls();
+    const partnerTopics = topics.filter((t) => hasUnusedPartnerMedia(t.source, used, 2));
+    const topicAndSeed = pickNextTopic(partnerTopics.length ? partnerTopics : topics, 'instagram-fill');
     log.ok(`시도 ${attempts}/${MAX_ATTEMPTS}: ${topicAndSeed.topic.source}`);
     try {
       await queueOneTopic(topicAndSeed, [0, 24], ['instagram']);
