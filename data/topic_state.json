@@ -1,12 +1,6 @@
 {
-  "lastIndex": 38,
+  "lastIndex": 52,
   "history": [
-    {
-      "index": 21,
-      "topic": "DMZ and JSA tours",
-      "at": "2026-11-08T01:54:24.041Z",
-      "source": "threads-fill"
-    },
     {
       "index": 22,
       "topic": "Jjimjilbang etiquette",
@@ -1200,6 +1194,12 @@
       "topic": "Renting a car in Korea: when it's smart, when it's a waste, and what the rental desk will ask for",
       "at": "2026-11-14T02:06:36.756Z",
       "source": "facebook-fill"
+    },
+    {
+      "index": 52,
+      "topic": "Tipping in Korea: why you shouldn't and what to do instead",
+      "at": "2026-11-14T03:24:31.491Z",
+      "source": "instagram-fill"
     }
   ],
   "recentImageUrls": [
@@ -2179,7 +2179,8 @@
     "https://images.pexels.com/photos/33034609/pexels-photo-33034609.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://pixabay.com/get/g1eeccf1b483fdee62ea9806e645f18c1d12bf2649de0bce55d1fc409da5da499cfe477769abbb2f167ba4a0a3d7e0c1a81104c12b4025e02ceafd38361053424_1280.jpg#pixabay=6200276",
     "https://images.pexels.com/photos/8995209/pexels-photo-8995209.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://images.pexels.com/photos/16008410/pexels-photo-16008410.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "https://images.pexels.com/photos/16008410/pexels-photo-16008410.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://pixabay.com/get/g3a35d51472f182cffbccce572fe0507ad71fdcd0a26abcb6be8f9bb7fe53c28e60d24817326461a7b862db9bec806e3c5b04d248db0e6ac6f9192a4c2bc4b0b4_1280.jpg#pixabay=1308823"
   ],
   "recentVideoUrls": [
     "https://videos.pexels.com/video-files/19577787/19577787-uhd_2160_3840_30fps.mp4",
