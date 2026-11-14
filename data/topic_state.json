@@ -1,12 +1,6 @@
 {
-  "lastIndex": 33,
+  "lastIndex": 34,
   "history": [
-    {
-      "index": 49,
-      "topic": "Where Koreans actually buy everyday stuff: Daiso vs. Olive Young vs. hypermarkets vs. the traditional market",
-      "at": "2026-11-07T22:39:36.458Z",
-      "source": "instagram-fill"
-    },
     {
       "index": 17,
       "topic": "Luggage storage & forwarding services",
@@ -1200,6 +1194,12 @@
       "topic": "Seoul subway details nobody tells you: exit numbers, transfer walks, express trains, and the last train",
       "at": "2026-11-14T00:24:28.544Z",
       "source": "instagram-fill"
+    },
+    {
+      "index": 34,
+      "topic": "Short-term vs. long-term housing in Korea: guesthouse, goshiwon, officetel, and the deposit system",
+      "at": "2026-11-14T00:31:30.934Z",
+      "source": "threads-fill"
     }
   ],
   "recentImageUrls": [
@@ -2175,7 +2175,8 @@
     "https://images.pexels.com/photos/32028702/pexels-photo-32028702.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://images.pexels.com/photos/11642689/pexels-photo-11642689.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://images.pexels.com/photos/31649629/pexels-photo-31649629.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://pixabay.com/get/g579ade69356781e54514074a518d146a6ff82caf32142423710ae777f5cb07f583d825329b939f5eae98f041ff1e50f2dfa0fbc47b17cd463b7b675a112c961e_1280.jpg#pixabay=5969381"
+    "https://pixabay.com/get/g579ade69356781e54514074a518d146a6ff82caf32142423710ae777f5cb07f583d825329b939f5eae98f041ff1e50f2dfa0fbc47b17cd463b7b675a112c961e_1280.jpg#pixabay=5969381",
+    "https://images.pexels.com/photos/33034609/pexels-photo-33034609.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
   ],
   "recentVideoUrls": [
     "https://videos.pexels.com/video-files/19577787/19577787-uhd_2160_3840_30fps.mp4",
@@ -2490,7 +2491,8 @@
     ],
     "Short-term vs. long-term housing in Korea: guesthouse, goshiwon, officetel, and the deposit system": [
       "Henry Acevedo",
-      "Shem"
+      "Shem",
+      "Saksham Vikram"
     ],
     "Opening a Korean bank account as a foreigner — and why your ARC and phone number come first": [
       "Julien",
