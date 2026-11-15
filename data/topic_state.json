@@ -1,12 +1,6 @@
 {
-  "lastIndex": 15,
+  "lastIndex": 16,
   "history": [
-    {
-      "index": 49,
-      "topic": "Where Koreans actually buy everyday stuff: Daiso vs. Olive Young vs. hypermarkets vs. the traditional market",
-      "at": "2026-11-09T18:24:30.561Z",
-      "source": "instagram-fill"
-    },
     {
       "index": 17,
       "topic": "Luggage storage & forwarding services",
@@ -1200,6 +1194,12 @@
       "topic": "Convenience store hacks",
       "at": "2026-11-15T10:55:02.612Z",
       "source": "instagram-fill"
+    },
+    {
+      "index": 16,
+      "topic": "Seasonal packing & weather tips",
+      "at": "2026-11-15T11:02:29.397Z",
+      "source": "threads-fill"
     }
   ],
   "recentImageUrls": [
@@ -2246,7 +2246,8 @@
     "https://pixabay.com/get/g3af545404e9cccf37e4b97dfa3190d3d1b87dbd988226073193c9472f01afbdb778ec9f4a0334d358b4354013a578a1007efa7e0ba1789c2856b03c28c570fe0_1280.jpg#pixabay=6934535",
     "https://pixabay.com/get/g1ef37ac44bc5f7b194da1c2b92fec308f727fe07d54d09cc0a47931c1f38c3a762c2ec11f83c5a06e2c9bf9b8cf951016eda58589b3582375e7c00ab214b7746_1280.jpg#pixabay=2929520",
     "https://images.pexels.com/photos/40320115/pexels-photo-40320115.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://pixabay.com/get/gf3acbc3586d5ce6b98df4286a514f11ac411192697052a99b67a52775270b412c276253a0ee169ade5e5b74f665bcc2573f12c9564d54b620d3fe58c52b1ce0d_1280.jpg#pixabay=3604156"
+    "https://pixabay.com/get/gf3acbc3586d5ce6b98df4286a514f11ac411192697052a99b67a52775270b412c276253a0ee169ade5e5b74f665bcc2573f12c9564d54b620d3fe58c52b1ce0d_1280.jpg#pixabay=3604156",
+    "https://images.pexels.com/photos/29562566/pexels-photo-29562566.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
   ],
   "recentVideoUrls": [
     "https://videos.pexels.com/video-files/19577787/19577787-uhd_2160_3840_30fps.mp4",
@@ -2758,7 +2759,8 @@
     ],
     "Seasonal packing & weather tips": [
       "하 여나",
-      "대정 김"
+      "대정 김",
+      "Alexander London"
     ],
     "Hailing a taxi in Korea: Kakao T vs. street taxis vs. airport 'deluxe' cabs": [
       "Theodore Nguyen"
