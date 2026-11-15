@@ -45976,7 +45976,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-11-15T08:18:21.842Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-11-15T03:50:53.509Z",
     "approved": true,
@@ -45995,7 +45995,8 @@
       "model": "groq",
       "checkedAt": "2026-11-15T03:47:37.137Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-t-money-transit-card.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-t-money-transit-card.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "rejectReason": "duplicate: same text already published on this platform"
   },
   {
     "id": "281fd012-7e84-40b3-8afa-58f403bee96c",
