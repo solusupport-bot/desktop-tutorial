@@ -45966,7 +45966,7 @@
       "threads"
     ],
     "scheduledAt": "2026-11-15T13:15:53.819Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-11-15T03:41:06.585Z",
     "approved": true,
@@ -45984,7 +45984,8 @@
       "checkedAt": "2026-11-15T03:39:13.492Z",
       "pattern": "C"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-esim-mobile-data.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-esim-mobile-data.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "rejectReason": "duplicate: same text already published on this platform"
   },
   {
     "id": "e3406c67-fbe2-4bac-b400-68a8910df1e8",
@@ -46160,7 +46161,7 @@
       "threads"
     ],
     "scheduledAt": "2026-11-15T15:28:52.858Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-15T08:12:17.956Z",
     "approved": true,
@@ -46285,7 +46286,7 @@
       "threads"
     ],
     "scheduledAt": "2026-11-15T12:16:12.420Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-11-15T11:09:14.522Z",
     "approved": true,
@@ -46304,7 +46305,8 @@
       "model": "groq",
       "checkedAt": "2026-11-15T11:05:57.739Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-seasonal-packing-weather-tips.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-seasonal-packing-weather-tips.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "rejectReason": "duplicate: same text already published on this platform"
   },
   {
     "id": "86ccccb3-64e6-41f2-a8db-f6f15b395997",
