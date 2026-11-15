@@ -45437,8 +45437,12 @@
       "threads"
     ],
     "scheduledAt": "2026-11-14T17:54:45.015Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "17892156927468838"
+      }
+    },
     "createdAt": "2026-11-14T05:06:25.241Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -45456,7 +45460,8 @@
       "model": "groq",
       "checkedAt": "2026-11-14T05:03:08.718Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-mobile-payments-in-korea-kakao-pay-naver-pay-and-why-apple-pay-doesn-t-work.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-mobile-payments-in-korea-kakao-pay-naver-pay-and-why-apple-pay-doesn-t-work.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-15T16:55:12.118Z"
   },
   {
     "id": "96dd8acc-cf20-4467-b882-1bfa08f0f7de",
