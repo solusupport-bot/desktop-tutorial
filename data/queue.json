@@ -46023,5 +46023,37 @@
       "checkedAt": "2026-11-15T05:10:54.876Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-travel-advisories-safety-notices.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "f6ef13b3-65a1-4856-9fae-2b11f8ec8632",
+    "text": "Everyone assumes this works the same as back home. It doesn't. Insadong looks like a tourist strip until you realize it's Seoul's actual center for traditional Korean art, antiques, and hanji (traditional paper) — not a themed recreation.\n\n1. The main street bans cars every Sunday, turning it into a full pedestrian zone with street performers and craft stalls.\n2. Ssamziegil, a spiral-shaped shopping complex just off the main road, packs small design studios and craft shops into one building worth a dedicated stop.\n3. Traditional tea houses (전통찻집) tucked into side alleys serve tea the old way — order one and sit for a while rather than treating it like a quick coffee stop.\n\nDone any of these? Which surprised you most?\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-insadong-traditional-culture-street.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794720057871-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794720057871-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-15T18:09:01.220Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-15T05:20:58.480Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/40992380/pexels-photo-40992380.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Insadong traditional culture street",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련 있고 문장도 자연하며 사실도 크게 문제되지 않아 발행 가능",
+      "model": "groq",
+      "checkedAt": "2026-11-15T05:17:42.486Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-insadong-traditional-culture-street.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]

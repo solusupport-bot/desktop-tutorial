@@ -1,12 +1,6 @@
 {
-  "lastIndex": 9,
+  "lastIndex": 23,
   "history": [
-    {
-      "index": 55,
-      "topic": "Mobile payments in Korea: Kakao Pay, Naver Pay, and why Apple Pay doesn’t work",
-      "at": "2026-11-09T08:01:36.949Z",
-      "source": "facebook-fill"
-    },
     {
       "index": 56,
       "topic": "Public bathhouse culture in Korea beyond the jjimjilbang: the mogyoktang rules",
@@ -1200,6 +1194,12 @@
       "topic": "Travel advisories & safety notices",
       "at": "2026-11-15T04:56:33.352Z",
       "source": "threads-fill"
+    },
+    {
+      "index": 23,
+      "topic": "Insadong traditional culture street",
+      "at": "2026-11-15T05:14:12.560Z",
+      "source": "facebook-fill"
     }
   ],
   "recentImageUrls": [
@@ -2236,7 +2236,8 @@
     "https://images.pexels.com/photos/7941211/pexels-photo-7941211.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://pixabay.com/get/ga4cd46fbc63d765b7bc16430004db07a37635766d7f21bcd44161d8ef141be3f2b028945448055178975e536fd327c0f44063c6a5db94e1a60f39fc1e222c9c3_1280.jpg#pixabay=2779936",
     "https://pixabay.com/get/g33ec5fa7b5590248daec4b8861c6233d6328f66899a204a7ebd0ede0e7843815a446c247ab40301941d1e443540ed2a7f037a87ccdb7d59be2620d14b839fedc_1280.jpg#pixabay=6562089",
-    "https://images.pexels.com/photos/40996545/pexels-photo-40996545.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "https://images.pexels.com/photos/40996545/pexels-photo-40996545.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/40992380/pexels-photo-40992380.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
   ],
   "recentVideoUrls": [
     "https://videos.pexels.com/video-files/19577787/19577787-uhd_2160_3840_30fps.mp4",
@@ -2693,7 +2694,8 @@
       "thuan Nguyen"
     ],
     "Insadong traditional culture street": [
-      "Markus Winkler"
+      "Markus Winkler",
+      "Julien"
     ],
     "Everland vs. Lotte World theme parks": [
       "Jueon Kim 김주언",
