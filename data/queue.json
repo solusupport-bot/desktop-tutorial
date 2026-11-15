@@ -45861,5 +45861,37 @@
       "checkedAt": "2026-11-15T00:50:56.926Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-bukchon-hanok-village.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "c23e161f-cdf7-4bb7-bcb0-39c30484e613",
+    "text": "Everyone assumes this works the same as back home. It doesn't.\n\nMyeongdong's street food stalls mostly open in the late afternoon, so showing up at lunchtime expecting the famous street food scene is the single most common first-timer mistake.\n\nIt's Seoul's biggest shopping district for cosmetics and fashion, with staff at many stores speaking basic English, Japanese, or Chinese.\n\nTax Free shopping is everywhere here — look for the sticker before you buy.\n\nWorth knowing before you land? Reply with what surprised you.\n\n📖 Open the Land in Korea link in our profile and search “Myeongdong shopping district”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794708520827-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794708520827-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-15T18:46:28.141Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-15T02:08:41.813Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/gd59a395430396cdc63939b908e2152c5a910226ac93696551bfa2c0225b479e3f2a2aedd63909971b24111271c7af42cfe12814b04aa373df3e7df3c3b259f3e_1280.jpg#pixabay=326134"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Myeongdong shopping district",
+    "qualityGate": {
+      "pass": true,
+      "reason": "Relevant, natural, factually reasonable, and provides useful visitor tips",
+      "model": "groq",
+      "checkedAt": "2026-11-15T02:05:25.509Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-myeongdong-shopping-district.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
