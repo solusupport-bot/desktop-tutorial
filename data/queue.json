@@ -45367,7 +45367,7 @@
       "threads"
     ],
     "scheduledAt": "2026-11-14T23:20:34.351Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-11-14T03:34:24.114Z",
     "approved": true,
@@ -45386,7 +45386,8 @@
       "model": "groq",
       "checkedAt": "2026-11-14T03:31:08.062Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-noraebang-etiquette-how-korean-karaoke-actually-works-for-first-timers.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-noraebang-etiquette-how-korean-karaoke-actually-works-for-first-timers.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "rejectReason": "duplicate: same text already published on this platform"
   },
   {
     "id": "ee64a946-02f7-4fca-8843-e31463f5d2e6",
@@ -45834,7 +45835,7 @@
       "threads"
     ],
     "scheduledAt": "2026-11-15T09:33:03.747Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-15T00:47:25.599Z",
     "approved": true,
