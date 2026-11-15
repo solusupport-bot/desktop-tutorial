@@ -45841,7 +45841,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-11-15T01:27:36.309Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-11-15T00:54:13.125Z",
     "approved": true,
@@ -45860,7 +45860,8 @@
       "model": "groq",
       "checkedAt": "2026-11-15T00:50:56.926Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-bukchon-hanok-village.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-bukchon-hanok-village.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "rejectReason": "duplicate: same text already published on this platform"
   },
   {
     "id": "c23e161f-cdf7-4bb7-bcb0-39c30484e613",
