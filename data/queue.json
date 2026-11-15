@@ -46377,7 +46377,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-11-15T20:15:57.187Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-11-15T12:57:41.223Z",
     "approved": true,
@@ -46396,7 +46396,8 @@
       "model": "groq",
       "checkedAt": "2026-11-15T12:54:24.894Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-short-term-vs-long-term-housing-in-korea-guesthouse-goshiwon-officetel-and-the-deposit-system.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-short-term-vs-long-term-housing-in-korea-guesthouse-goshiwon-officetel-and-the-deposit-system.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "rejectReason": "duplicate: same text already published on this platform"
   },
   {
     "id": "9dcf7410-7ba2-4cd6-84ca-9b449faa0c5e",
@@ -46438,7 +46439,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-11-15T19:52:22.170Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-11-15T14:13:31.365Z",
     "approved": true,
@@ -46455,7 +46456,8 @@
       "model": "groq",
       "checkedAt": "2026-11-15T14:10:35.860Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-food-delivery-apps-in-korea-why-signing-up-is-harder-than-ordering.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-food-delivery-apps-in-korea-why-signing-up-is-harder-than-ordering.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "rejectReason": "duplicate: same text already published on this platform"
   },
   {
     "id": "48c93186-8998-4d85-bc3b-58a4ec36df15",
@@ -46468,7 +46470,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-11-15T21:06:24.946Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-11-15T15:42:17.555Z",
     "approved": true,
@@ -46487,7 +46489,8 @@
       "model": "groq",
       "checkedAt": "2026-11-15T15:39:01.488Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-tipping-and-service-charges.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-tipping-and-service-charges.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "rejectReason": "duplicate: same text already published on this platform"
   },
   {
     "id": "2784b564-7d03-45a8-9bcc-562d32ce1ef6",
