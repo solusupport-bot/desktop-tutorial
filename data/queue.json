@@ -46110,7 +46110,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-11-15T09:56:21.100Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-11-15T06:46:52.452Z",
     "approved": true,
@@ -46129,7 +46129,8 @@
       "model": "groq",
       "checkedAt": "2026-11-15T06:43:35.997Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-seoul-attraction-pass-comparison.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-seoul-attraction-pass-comparison.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "rejectReason": "duplicate: same text already published on this platform"
   },
   {
     "id": "b9090928-c66f-46f6-aba1-1bee5bd92af1",
