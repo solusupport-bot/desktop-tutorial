@@ -1,12 +1,6 @@
 {
-  "lastIndex": 36,
+  "lastIndex": 37,
   "history": [
-    {
-      "index": 0,
-      "topic": "Gyeongbokgung Palace",
-      "at": "2026-11-10T00:25:49.830Z",
-      "source": "facebook-fill"
-    },
     {
       "index": 1,
       "topic": "Bukchon Hanok Village",
@@ -1200,6 +1194,12 @@
       "topic": "Eating alone in Korea: which restaurants refuse solo diners and where honbap works",
       "at": "2026-11-15T13:56:23.186Z",
       "source": "threads-fill"
+    },
+    {
+      "index": 37,
+      "topic": "Food delivery apps in Korea: why signing up is harder than ordering",
+      "at": "2026-11-15T14:05:37.924Z",
+      "source": "facebook-fill"
     }
   ],
   "recentImageUrls": [
