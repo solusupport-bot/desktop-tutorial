@@ -46056,7 +46056,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-11-15T18:09:01.220Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-11-15T05:20:58.480Z",
     "approved": true,
@@ -46075,7 +46075,8 @@
       "model": "groq",
       "checkedAt": "2026-11-15T05:17:42.486Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-insadong-traditional-culture-street.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-insadong-traditional-culture-street.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "rejectReason": "duplicate: same text already published on this platform"
   },
   {
     "id": "1cec1c7d-39e7-478c-a8aa-15db839750ea",
