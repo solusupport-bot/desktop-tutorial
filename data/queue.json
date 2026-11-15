@@ -45991,5 +45991,37 @@
       "checkedAt": "2026-11-15T03:47:37.137Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-t-money-transit-card.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "281fd012-7e84-40b3-8afa-58f403bee96c",
+    "text": "Nobody tells you this before you land.\n\nKorea's crime stats beat most Western capitals — but that's not the risk that actually catches tourists off guard.\n\nKorea is generally very safe for tourists, with low violent crime rates even late at night in major cities.\n\nStandard precautions still apply: watch for pickpockets in crowded markets, keep an eye on drinks in nightlife areas, and register with your home country's embassy notification service for real-time alerts during your stay.\n\nHow much did this actually cost you on your trip?\n\n📖 Open the Land in Korea link in our profile and search “Travel advisories & safety notices”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794719650217-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794719650217-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-15T19:14:30.761Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-15T05:14:10.814Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/40996545/pexels-photo-40996545.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Travel advisories & safety notices",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 맞고 문장도 자연하며 과장된 사실이 없어 여행 안전에 유용한 내용이므로 통과합니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-15T05:10:54.876Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-travel-advisories-safety-notices.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
