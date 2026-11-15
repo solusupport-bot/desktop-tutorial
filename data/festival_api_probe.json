@@ -1,0 +1,25 @@
+{
+  "checkedAt": "2026-11-15T06:25:12.888Z",
+  "results": [
+    {
+      "envName": "TOUR_RELATED_ATTRACTIONS_API_KEY",
+      "ok": false,
+      "reason": "HTTP 403: {\"OpenAPI_ServiceResponse\":{\"cmmMsgHeader\":{\"errMsg\":\"SERVICE_KEY_IS_NOT_REGISTERED_ERROR\",\"returnAuthMsg\":\"등록되지 않은 서비스키\",\"returnReasonCode\":\"30\"}}}"
+    },
+    {
+      "envName": "TOUR_CORE_ATTRACTIONS_API_KEY",
+      "ok": false,
+      "reason": "HTTP 403: {\"OpenAPI_ServiceResponse\":{\"cmmMsgHeader\":{\"errMsg\":\"SERVICE_KEY_IS_NOT_REGISTERED_ERROR\",\"returnAuthMsg\":\"등록되지 않은 서비스키\",\"returnReasonCode\":\"30\"}}}"
+    },
+    {
+      "envName": "TOUR_VISITOR_FORECAST_API_KEY",
+      "ok": false,
+      "reason": "HTTP 403: {\"OpenAPI_ServiceResponse\":{\"cmmMsgHeader\":{\"errMsg\":\"SERVICE_KEY_IS_NOT_REGISTERED_ERROR\",\"returnAuthMsg\":\"등록되지 않은 서비스키\",\"returnReasonCode\":\"30\"}}}"
+    },
+    {
+      "envName": "TOUR_AUDIO_GUIDE_API_KEY",
+      "ok": false,
+      "reason": "HTTP 403: {\"OpenAPI_ServiceResponse\":{\"cmmMsgHeader\":{\"errMsg\":\"SERVICE_KEY_IS_NOT_REGISTERED_ERROR\",\"returnAuthMsg\":\"등록되지 않은 서비스키\",\"returnReasonCode\":\"30\"}}}"
+    }
+  ]
+}
