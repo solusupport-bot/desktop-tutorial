@@ -1,0 +1,22 @@
+name: Test Festival API (KorService2/searchFestival2)
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm ci
+      - name: Try existing TourAPI keys against searchFestival2
+        env:
+          TOUR_RELATED_ATTRACTIONS_API_KEY: ${{ secrets.TOUR_RELATED_ATTRACTIONS_API_KEY }}
+          TOUR_CORE_ATTRACTIONS_API_KEY: ${{ secrets.TOUR_CORE_ATTRACTIONS_API_KEY }}
+          TOUR_VISITOR_FORECAST_API_KEY: ${{ secrets.TOUR_VISITOR_FORECAST_API_KEY }}
+          TOUR_AUDIO_GUIDE_API_KEY: ${{ secrets.TOUR_AUDIO_GUIDE_API_KEY }}
+        run: node scripts/test-festival-api.js
+        shell: bash
