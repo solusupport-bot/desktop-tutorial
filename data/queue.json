@@ -46523,5 +46523,37 @@
       "checkedAt": "2026-11-15T18:40:38.819Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-unmanned-kiosk-ordering-in-korea-why-humans-are-disappearing-from-the-counter.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "0bcc27ee-a1b8-4bc9-82f3-c3f811552058",
+    "text": "Everyone assumes this works the same as back home. It doesn't. Hangul was designed to be learnable, and that's not a marketing line — it's an alphabet of 24 basic letters assembled into square syllable blocks, and most people can sound out words after a few focused hours.\n\n1. The payoff is immediate in restaurants and cafes, because a big share of menu items are loanwords written phonetically: 아메리카노 (americano), 치즈 (cheese), 케이크 (cake), 라면 (ramyeon).\n2. Being able to decode even slowly means you can order at a Korean-only kiosk, recognize a bus destination, and tell 입구 (entrance) from 출구 (exit).\n3. You don't need vocabulary or grammar for any of that — just the letters.\n\nDone any of these? Which surprised you most?\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-learning-to-read-hangul-in-a-weekend-and-why-romanized-signs-still-confuse-you.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794778899396-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794778899396-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-15T22:56:09.655Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-15T21:41:40.182Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/gec18b34608b2fa7db1de3adaa928b635a7c96c324e7bb0b40ef2f5a162306673772a6343dc1dd3bfcafe0e9baf447bd21d0c3b4ee03ce94b9a22a904db36c4b7_1280.jpg#pixabay=7048948"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Learning to read Hangul in a weekend — and why romanized signs still confuse you",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장도 자연하며 여행자에게 유용한 내용입니다",
+      "model": "groq",
+      "checkedAt": "2026-11-15T21:38:24.026Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-learning-to-read-hangul-in-a-weekend-and-why-romanized-signs-still-confuse-you.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]
