@@ -45926,5 +45926,33 @@
       "checkedAt": "2026-11-15T02:22:32.222Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-busan-haeundae-beach-gamcheon-culture-village.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "ad3b7f6b-bdfd-4e69-b397-22462b754e2e",
+    "text": "Everyone assumes this works the same as back home. It doesn't.\n\neSIM, physical SIM, or pocket Wi-Fi — most people pick based on price and regret it by day 3.\n\nMost Korean eSIM plans for tourists can be purchased online before arrival and activated by scanning a QR code once you land — no physical SIM swap needed.\n\nCoverage matches the big three Korean carriers (SKT, KT, LG U+).\n\nWorth knowing before you land? Reply with what surprised you.\n\n📖 Open the Land in Korea link in our profile and search “eSIM & mobile data”.",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-15T13:15:53.819Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-15T03:41:06.585Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "eSIM & mobile data",
+    "qualityGate": {
+      "pass": true,
+      "reason": "Relevant, coherent, factually sound and provides useful travel info",
+      "model": "groq",
+      "checkedAt": "2026-11-15T03:39:13.492Z",
+      "pattern": "C"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-esim-mobile-data.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
