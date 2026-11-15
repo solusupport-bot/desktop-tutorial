@@ -1,12 +1,6 @@
 {
-  "lastIndex": 3,
+  "lastIndex": 4,
   "history": [
-    {
-      "index": 37,
-      "topic": "Food delivery apps in Korea: why signing up is harder than ordering",
-      "at": "2026-11-09T03:25:19.794Z",
-      "source": "threads-fill"
-    },
     {
       "index": 38,
       "topic": "Renting a car in Korea: when it's smart, when it's a waste, and what the rental desk will ask for",
@@ -1200,6 +1194,12 @@
       "topic": "Myeongdong shopping district",
       "at": "2026-11-15T02:01:45.310Z",
       "source": "threads-fill"
+    },
+    {
+      "index": 4,
+      "topic": "Busan Haeundae Beach & Gamcheon Culture Village",
+      "at": "2026-11-15T02:08:43.326Z",
+      "source": "facebook-fill"
     }
   ],
   "recentImageUrls": [
@@ -2231,7 +2231,8 @@
     "https://images.pexels.com/photos/40985263/pexels-photo-40985263.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://images.pexels.com/photos/34416812/pexels-photo-34416812.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://images.pexels.com/photos/5059927/pexels-photo-5059927.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://pixabay.com/get/gd59a395430396cdc63939b908e2152c5a910226ac93696551bfa2c0225b479e3f2a2aedd63909971b24111271c7af42cfe12814b04aa373df3e7df3c3b259f3e_1280.jpg#pixabay=326134"
+    "https://pixabay.com/get/gd59a395430396cdc63939b908e2152c5a910226ac93696551bfa2c0225b479e3f2a2aedd63909971b24111271c7af42cfe12814b04aa373df3e7df3c3b259f3e_1280.jpg#pixabay=326134",
+    "https://images.pexels.com/photos/36253883/pexels-photo-36253883.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
   ],
   "recentVideoUrls": [
     "https://videos.pexels.com/video-files/19577787/19577787-uhd_2160_3840_30fps.mp4",
@@ -2676,7 +2677,8 @@
     ],
     "Busan Haeundae Beach & Gamcheon Culture Village": [
       "Sean Hwang",
-      "Dennis Park"
+      "Dennis Park",
+      "BUY Camera"
     ],
     "Jeju Island": [
       "Jongeun Kim",
