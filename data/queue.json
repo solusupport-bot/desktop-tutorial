@@ -46302,7 +46302,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-11-15T15:21:05.362Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-11-15T11:18:02.228Z",
     "approved": true,
@@ -46319,7 +46319,8 @@
       "model": "groq",
       "checkedAt": "2026-11-15T11:14:46.871Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-hailing-a-taxi-in-korea-kakao-t-vs-street-taxis-vs-airport-deluxe-cabs.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-hailing-a-taxi-in-korea-kakao-t-vs-street-taxis-vs-airport-deluxe-cabs.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "rejectReason": "duplicate: same text already published on this platform"
   },
   {
     "id": "110ff572-59be-48f2-8b7a-cbdc107d3a9f",
