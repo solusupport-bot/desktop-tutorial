@@ -1,11 +1,21 @@
 name: Test Festival API (KorService2/searchFestival2)
 
+# workflow_dispatch로도 돌릴 수 있지만, 이 세션은 Actions를 직접 트리거할 토큰이
+# 없다 — 그래서 이 파일이나 스크립트가 바뀌어 push되면 자동으로도 실행되게 한다.
+# 결과는 로그가 아니라 data/festival_api_probe.json 커밋으로 확인한다(로그는
+# 이 세션 권한으로 못 읽음).
 on:
+  push:
+    paths:
+      - 'scripts/test-festival-api.js'
+      - '.github/workflows/test-festival-api.yml'
   workflow_dispatch:
 
 jobs:
   test:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -20,3 +30,16 @@ jobs:
           TOUR_AUDIO_GUIDE_API_KEY: ${{ secrets.TOUR_AUDIO_GUIDE_API_KEY }}
         run: node scripts/test-festival-api.js
         shell: bash
+      - name: Commit probe result
+        if: always()
+        run: |
+          if [ -z "$(git status --porcelain -- data/festival_api_probe.json)" ]; then
+            echo "No result file changes to persist."
+            exit 0
+          fi
+          git config user.name "sns-automation-bot"
+          git config user.email "actions@github.com"
+          git add data/festival_api_probe.json
+          git commit -m "chore: record festival API probe result"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
