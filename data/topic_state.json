@@ -1,12 +1,6 @@
 {
-  "lastIndex": 54,
+  "lastIndex": 55,
   "history": [
-    {
-      "index": 6,
-      "topic": "eSIM & mobile data",
-      "at": "2026-11-10T03:41:43.582Z",
-      "source": "facebook-fill"
-    },
     {
       "index": 7,
       "topic": "T-money transit card",
@@ -1200,6 +1194,12 @@
       "topic": "Unmanned kiosk ordering in Korea: why humans are disappearing from the counter",
       "at": "2026-11-15T18:36:28.659Z",
       "source": "facebook-fill"
+    },
+    {
+      "index": 55,
+      "topic": "Mobile payments in Korea: Kakao Pay, Naver Pay, and why Apple Pay doesn’t work",
+      "at": "2026-11-15T19:54:56.725Z",
+      "source": "instagram-fill"
     }
   ],
   "recentImageUrls": [
