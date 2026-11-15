@@ -46444,5 +46444,37 @@
       "checkedAt": "2026-11-15T14:10:35.860Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-food-delivery-apps-in-korea-why-signing-up-is-harder-than-ordering.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "48c93186-8998-4d85-bc3b-58a4ec36df15",
+    "text": "Everyone assumes this works the same as back home. It doesn't. Tipping isn't part of Korean service culture, and leaving cash on the table in a restaurant sometimes triggers a server to chase you down thinking you forgot it.\n\n1. Service is already considered included in the price, so adding extra money on top can come across as implying the staff wasn't paid properly, which is mildly insulting rather than generous.\n2. Hotels and some tour guides are the rare exception where a small tip is quietly accepted, but it's never expected or asked for.\n\nDone any of these? Which surprised you most?\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-tipping-and-service-charges.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794757336904-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794757336904-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-15T21:06:24.946Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-15T15:42:17.555Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g2f59f866ec7c1366fb6a6c70acce26d1bae62c4361264c8a440e7bf9c6fd98f0bf70b6ea5b073c233393338167fbe7598101b56bd14e569a6321785fa5d87698_1280.jpg#pixabay=3565683"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Tipping in Korea: why you shouldn't and what to do instead",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스러우며 사실도 정확해 여행자에게 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-15T15:39:01.488Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-tipping-and-service-charges.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]
