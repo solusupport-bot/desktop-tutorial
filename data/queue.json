@@ -46978,7 +46978,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-11-16T13:27:35.704Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-11-16T07:08:40.608Z",
     "approved": true,
@@ -46997,7 +46997,8 @@
       "model": "groq",
       "checkedAt": "2026-11-16T07:02:09.046Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-dmz-and-jsa-tours.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-dmz-and-jsa-tours.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "rejectReason": "duplicate: same text already published on this platform"
   },
   {
     "id": "666cf369-1478-4355-bf33-15ad0dd838fc",
@@ -47047,7 +47048,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-11-16T13:31:04.564Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-16T08:20:41.394Z",
     "approved": true,
