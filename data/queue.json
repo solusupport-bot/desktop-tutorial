@@ -46877,5 +46877,37 @@
       "checkedAt": "2026-11-16T05:10:16.880Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-jjimjilbang-etiquette.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "0b7bf33f-c0b8-4e3e-ba09-6b2e3fcfa0ed",
+    "text": "Everyone assumes this works the same as back home. It doesn't. Everland and Lotte World both get called 'Korea's Disneyland,' but picking the wrong one for your trip wastes half a day on transit.\n\n1. Everland, in Yongin outside Seoul, is Korea's largest theme park with a zoo/safari section, and it requires a bus or shuttle ride from central Seoul — budget real travel time, not a quick subway hop.\n2. Lotte World, in Jamsil, is directly accessible by subway and combines an indoor park with an outdoor 'Magic Island' section, plus it sits next to Lotte World Tower and its observation deck.\n\nDone any of these? Which surprised you most?\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-everland-vs-lotte-world-theme-parks.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794806478387-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794806478387-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-16T07:57:13.807Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-16T05:21:19.193Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/33019222/pexels-photo-33019222.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Everland vs. Lotte World theme parks",
+    "qualityGate": {
+      "pass": true,
+      "reason": "Caption is on-topic, well‑formed, factually accurate and provides useful travel advice",
+      "model": "groq",
+      "checkedAt": "2026-11-16T05:18:02.734Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-everland-vs-lotte-world-theme-parks.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]
