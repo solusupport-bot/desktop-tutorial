@@ -1,12 +1,6 @@
 {
-  "lastIndex": 46,
+  "lastIndex": 47,
   "history": [
-    {
-      "index": 28,
-      "topic": "Domestic flights vs. KTX for Jeju and long-distance trips",
-      "at": "2026-11-10T08:04:36.424Z",
-      "source": "threads-fill"
-    },
     {
       "index": 29,
       "topic": "Seoul attraction pass comparison",
@@ -1200,6 +1194,12 @@
       "topic": "Doing laundry in Korea: coin laundromats, the dryer problem, and neighborhood dry cleaners",
       "at": "2026-11-16T00:41:21.278Z",
       "source": "facebook-fill"
+    },
+    {
+      "index": 47,
+      "topic": "The closed-on-Monday trap: how Korean palaces and museums schedule their days off",
+      "at": "2026-11-16T01:52:34.187Z",
+      "source": "instagram-fill"
     }
   ],
   "recentImageUrls": [
@@ -2265,7 +2265,8 @@
     "https://pixabay.com/get/gf679bb8365c8da53fd6a110003223f25864610ab5cac09af8ba80a17bfefd964a55c3359d06e1a29a4937cbe74dac29f1f1f11b829ca86eed1c2cf72b60f0a9d_1280.jpg#pixabay=2162772",
     "https://pixabay.com/get/g951aea5f9930134d874ef4f47d1777c74656e91bfa853aef422bea8c714c2ed51086ed5e00b37287c11ba643f93f40a3d5fcd5cb01921d029f3bb9a6d1736a46_1280.jpg#pixabay=7891064",
     "https://pixabay.com/get/gd7f117c4497e4bbf4273f72f9afbacf048183ea9cb22d66cfbdd959ecbe2fec8f7cc4dd7c29e8a77eaa9f202508a30d7451442e865f998e35634068e5a14e88d_1280.jpg#pixabay=2613565",
-    "https://images.pexels.com/photos/3274855/pexels-photo-3274855.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "https://images.pexels.com/photos/3274855/pexels-photo-3274855.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/20329128/pexels-photo-20329128.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
   ],
   "recentVideoUrls": [
     "https://videos.pexels.com/video-files/19577787/19577787-uhd_2160_3840_30fps.mp4",
@@ -2503,7 +2504,10 @@
     "https://videos.pexels.com/video-files/29304057/12636779_3840_2160_30fps.mp4",
     "https://cdn.pixabay.com/video/2022/04/17/114136-700585447_large.mp4",
     "https://cdn.pixabay.com/video/2022/03/27/112141-693362065_large.mp4",
-    "https://cdn.pixabay.com/video/2022/01/05/103507-664409015_large.mp4"
+    "https://cdn.pixabay.com/video/2022/01/05/103507-664409015_large.mp4",
+    "https://videos.pexels.com/video-files/40352280/17240992_3840_2160_24fps.mp4",
+    "https://videos.pexels.com/video-files/32531983/13873403_1920_1080_30fps.mp4",
+    "https://videos.pexels.com/video-files/32531993/13873448_1920_1080_30fps.mp4"
   ],
   "recentMusicUrls": [
     "https://prod-1.storage.jamendo.com/?trackid=20237&format=mp32",
@@ -2668,7 +2672,8 @@
       "Line Knipst",
       "Henry Acevedo",
       "William Warby",
-      "Junsu Park"
+      "Junsu Park",
+      "Polina Barutkina"
     ],
     "Hiking in Korea like a local: subway-accessible peaks, seasonal trail closures, and the gear culture": [
       "Theodore Nguyen",
