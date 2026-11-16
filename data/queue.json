@@ -46283,7 +46283,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-11-15T23:40:50.631Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-15T09:45:45.494Z",
     "approved": true,
@@ -46565,7 +46565,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-11-15T22:56:09.655Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-11-15T21:41:40.182Z",
     "approved": true,
@@ -46584,7 +46584,8 @@
       "model": "groq",
       "checkedAt": "2026-11-15T21:38:24.026Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-learning-to-read-hangul-in-a-weekend-and-why-romanized-signs-still-confuse-you.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-learning-to-read-hangul-in-a-weekend-and-why-romanized-signs-still-confuse-you.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "rejectReason": "duplicate: same text already published on this platform"
   },
   {
     "id": "7f4d2fe8-ee33-4540-a7ee-c96cb8d95e57",
