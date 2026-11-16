@@ -47274,5 +47274,37 @@
       "checkedAt": "2026-11-16T15:56:50.833Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-seoul-attraction-pass-comparison.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "4c174a0e-d14c-481f-a4d8-9c08b5a1b71a",
+    "text": "Everyone assumes this works the same as back home. It doesn't. Chuseok (harvest festival) and Seollal (Lunar New Year) aren't just Korean holidays that closed a few shops — they're the two periods each year when a huge share of the country travels to hometowns simultaneously, jamming highways and selling out KTX and domestic flights days to weeks in advance.\n\n1. Landing a trip in the middle of either without checking the calendar first is one of the most avoidable planning mistakes for visitors.\n\nDone any of these? Which surprised you most?\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-korean-public-holidays-that-disrupt-travel-plans.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794845651227-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794845651227-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-16T17:58:12.903Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-16T16:14:12.528Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/36569705/pexels-photo-36569705.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Korean public holidays that disrupt travel plans",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스러우며 사실 주장도 과장되지 않아 여행자에게 유용합니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-16T16:07:40.454Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-korean-public-holidays-that-disrupt-travel-plans.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]
