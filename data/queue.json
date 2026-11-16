@@ -46450,7 +46450,7 @@
       "threads"
     ],
     "scheduledAt": "2026-11-15T23:55:36.772Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-11-15T14:05:36.397Z",
     "approved": true,
@@ -46469,7 +46469,8 @@
       "model": "groq",
       "checkedAt": "2026-11-15T14:02:20.170Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-eating-alone-in-korea-which-restaurants-refuse-solo-diners-and-where-honbap-works.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-eating-alone-in-korea-which-restaurants-refuse-solo-diners-and-where-honbap-works.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "rejectReason": "duplicate: same text already published on this platform"
   },
   {
     "id": "060f07e7-2789-426e-afd2-15dafae1a690",
@@ -46744,7 +46745,7 @@
       "threads"
     ],
     "scheduledAt": "2026-11-16T06:53:28.959Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-11-16T02:11:16.853Z",
     "approved": true,
@@ -46763,7 +46764,8 @@
       "model": "groq",
       "checkedAt": "2026-11-16T02:08:00.152Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-hiking-in-korea-like-a-local-subway-accessible-peaks-seasonal-trail-closures-and-the-gear-culture.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-hiking-in-korea-like-a-local-subway-accessible-peaks-seasonal-trail-closures-and-the-gear-culture.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "rejectReason": "duplicate: same text already published on this platform"
   },
   {
     "id": "0f58e710-25d3-4677-8b8a-e4e58b248cfc",
@@ -47008,7 +47010,7 @@
       "threads"
     ],
     "scheduledAt": "2026-11-16T10:12:52.718Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-16T08:08:48.173Z",
     "approved": true,
