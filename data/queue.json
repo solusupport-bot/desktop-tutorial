@@ -46198,7 +46198,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-11-15T21:49:46.509Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-15T08:26:17.060Z",
     "approved": true,
@@ -46510,7 +46510,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-11-15T21:40:02.439Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-11-15T18:43:54.871Z",
     "approved": true,
@@ -46529,7 +46529,8 @@
       "model": "groq",
       "checkedAt": "2026-11-15T18:40:38.819Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-unmanned-kiosk-ordering-in-korea-why-humans-are-disappearing-from-the-counter.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-unmanned-kiosk-ordering-in-korea-why-humans-are-disappearing-from-the-counter.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "rejectReason": "duplicate: same text already published on this platform"
   },
   {
     "id": "0bcc27ee-a1b8-4bc9-82f3-c3f811552058",
