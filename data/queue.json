@@ -47203,5 +47203,37 @@
       "checkedAt": "2026-11-16T13:15:35.204Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-travel-advisories-safety-notices.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "de484830-215a-42ab-ab89-3ff01219b576",
+    "text": "Everyone assumes this works the same as back home. It doesn't.\n\nHongdae (named for Hongik University) runs on a schedule most visitors don't expect — it's quiet in the afternoon and doesn't really start until evening, especially on weekends.\n\nIt's Seoul's center for indie music clubs, streetwear shops, and youth fashion, with live busking performances clustering around 'Hongdae Playground' park on weekend evenings. Club and bar streets stay open late, well past when most other Seoul neighborhoods wind down. Worth knowing before you land? Reply with what surprised you.\n\n🇯🇵 ホンデは午後は静かで、特に週末の夜に賑わいます。\n\n🇨🇳 弘大下午安静，特别是周末晚上才热闹。\n\n🇹🇼 弘大下午安靜，特別是週末晚上才熱鬧。\n\n📖 Open the Land in Korea link in our profile and search “Hongdae nightlife and youth culture district”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794838523269-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794838523269-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-16T22:40:02.405Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-16T14:15:24.320Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g8a4fd33558324cf1a74680812c264bc23697ae3a2f675c7adda6e0b681a3145a73cad76919d0dc25e6e1a22fe574a2e4e0494e2a8f243a3d73b7dd98c247ada3_1280.jpg#pixabay=7507027"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Hongdae nightlife and youth culture district",
+    "qualityGate": {
+      "pass": true,
+      "reason": "관련 주제에 맞고 문장이 자연하며 사실도 적절하고 여행 정보로 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-16T14:12:34.831Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-hongdae-nightlife-and-youth-culture-district.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
