@@ -47126,5 +47126,37 @@
       "checkedAt": "2026-11-16T09:54:23.786Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-jeju-island.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "d0f19042-1022-4fc7-9025-f3f9d63fc4fc",
+    "text": "There's one detail that trips up almost every first-timer.\n\nT-money is a rechargeable transit card sold at convenience stores (GS25, CU, 7-Eleven) and subway station kiosks for a small card fee.\n\nOne T-money habit almost every first-timer skips costs them real money on their last day in Korea.\n\nIt works on subway, city buses, and many taxis nationwide — tap in and tap out, transfers between subway and bus within the transfer window are discounted.\n\nDid this trip you up your first time too? Drop a comment.\n\n📖 Open the Land in Korea link in our profile and search “T-money transit card”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794828027021-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794828027021-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-16T23:21:02.081Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-16T11:20:28.238Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/gcffcf8300961ad75ff5e5f1d6ccc18d68ec538232c8102db981da062087d18db556d41cb2ff26ff747265826edd26912c5ba49bd09ea481986c9155d12a78e0a_1280.jpg#pixabay=2779940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "T-money transit card",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 내용이 일치하고 문장도 크게 어색하거나 틀린 부분 없이 사실도 정확해 여행 정보로서 유용합니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-16T11:13:56.429Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-t-money-transit-card.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
