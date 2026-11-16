@@ -47086,5 +47086,39 @@
       "checkedAt": "2026-11-16T09:46:03.105Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-myeongdong-shopping-district.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "fe2460ce-2106-4bb3-b7bc-a3dc485df200",
+    "text": "Everyone assumes this works the same as back home. It doesn't. Jeju Island isn't reachable by train or the KTX network at all — it's a flight or a long ferry, which surprises visitors used to mainland Korea's rail coverage.\n\n1. It's a volcanic island known for Hallasan (South Korea's tallest mountain), black sand beaches, and a noticeably different local dialect.\n2. Renting a car is genuinely the practical option here since public transit is thinner than in Seoul or Busan.\n3. Weather changes fast on the coast, so a rain layer is worth packing even in summer.\n\nDone any of these? Which surprised you most?\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-jeju-island.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post\n\n📸 Photos: Klook",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794823254643-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794823254643-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-16T10:59:37.063Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-16T10:01:00.911Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://res.klook.com/image/upload/c_fill,w_1080,h_1350,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/uqzk5xy47obvwfap532s.jpg",
+      "https://res.klook.com/image/upload/c_fill,w_1080,h_1350,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/ynm3dgmphjesx3ll7jqb.jpg",
+      "https://res.klook.com/image/upload/c_fill,w_1080,h_1350,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/z0bcv4qzsvogmddizpai.jpg"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Jeju Island",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 맞고 문장이 자연스럽고 사실도 정확하며 여행에 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-16T09:54:23.786Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-jeju-island.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]
