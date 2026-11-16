@@ -47207,8 +47207,12 @@
       "threads"
     ],
     "scheduledAt": "2026-11-16T17:01:11.513Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18470256412191839"
+      }
+    },
     "createdAt": "2026-11-16T13:18:01.547Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -47226,7 +47230,8 @@
       "model": "groq",
       "checkedAt": "2026-11-16T13:15:35.204Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-travel-advisories-safety-notices.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-travel-advisories-safety-notices.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-16T22:54:52.852Z"
   },
   {
     "id": "de484830-215a-42ab-ab89-3ff01219b576",
