@@ -47010,8 +47010,12 @@
       "threads"
     ],
     "scheduledAt": "2026-11-16T10:12:52.718Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "17913670587306590"
+      }
+    },
     "createdAt": "2026-11-16T08:08:48.173Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -47029,7 +47033,8 @@
       "model": "groq",
       "checkedAt": "2026-11-16T08:06:01.297Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-nami-island-and-petite-france-day-trip.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-nami-island-and-petite-france-day-trip.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-16T13:55:02.918Z"
   },
   {
     "id": "cbf6478b-d9ca-4246-8ccb-95ec22c66924",
