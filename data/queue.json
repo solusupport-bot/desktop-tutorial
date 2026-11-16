@@ -46384,7 +46384,7 @@
       "threads"
     ],
     "scheduledAt": "2026-11-15T21:59:57.454Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-11-15T12:41:16.520Z",
     "approved": true,
@@ -46403,7 +46403,8 @@
       "model": "groq",
       "checkedAt": "2026-11-15T12:38:00.356Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-seoul-subway-details-nobody-tells-you-exit-numbers-transfer-walks-express-trains-and-the-last-train.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-seoul-subway-details-nobody-tells-you-exit-numbers-transfer-walks-express-trains-and-the-last-train.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "rejectReason": "duplicate: same text already published on this platform"
   },
   {
     "id": "885b53bc-b78c-4bd6-8d3d-8185ffe0d965",
@@ -46608,7 +46609,7 @@
       "threads"
     ],
     "scheduledAt": "2026-11-15T23:42:39.839Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-15T23:10:07.010Z",
     "approved": true,
