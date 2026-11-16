@@ -46283,8 +46283,12 @@
       "facebook"
     ],
     "scheduledAt": "2026-11-15T23:40:50.631Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "1288453561012463_122131357923446391"
+      }
+    },
     "createdAt": "2026-11-15T09:45:45.494Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -46300,7 +46304,8 @@
       "model": "groq",
       "checkedAt": "2026-11-15T09:42:29.965Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-useful-travel-apps.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-useful-travel-apps.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-16T06:24:51.754Z"
   },
   {
     "id": "254a10f0-a567-4ae5-a3e3-a0d6387be5c0",
