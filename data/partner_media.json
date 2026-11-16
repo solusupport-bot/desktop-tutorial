@@ -1,6 +1,6 @@
 {
-  "checkedOn": "2026-11-14",
-  "note": "Product gallery photos from approved affiliate partners. Copyright belongs to the provider; captions must credit it. Hand-reviewed 2026-11-14: removed collages, text posters/illustrations, Petite France (reads as non-Korea), and groups of non-Korean tourists (media rules).",
+  "checkedOn": "2026-11-16",
+  "note": "Product gallery photos from approved affiliate partners. Copyright belongs to the provider; captions must credit it. Hand-reviewed 2026-11-14: removed collages, text posters/illustrations, Petite France (reads as non-Korea), and groups of non-Korean tourists (media rules). 2026-11-16: added Gyeongbokgung/Bukchon hanbok, N Seoul Tower, Busan Gamcheon, Jeju UNESCO tour to unblock Instagram (all partner inventory had been used up).",
   "products": [
     {
       "provider": "Klook",
@@ -79,6 +79,55 @@
         "https://image.kkday.com/v2/image/get/c_fill%2Ch_1350%2Cq_85%2Cw_1080/s1.kkday.com/product_249536/20241031021115_wt6Kc/jpg",
         "https://image.kkday.com/v2/image/get/c_fill%2Ch_1350%2Cq_85%2Cw_1080/s1.kkday.com/product_249536/20241031021114_0sZB3/jpg",
         "https://image.kkday.com/v2/image/get/c_fill%2Ch_1350%2Cq_85%2Cw_1080/s1.kkday.com/product_249536/20241031021114_tDwZ1/jpg"
+      ]
+    },
+    {
+      "provider": "Klook",
+      "name": "Gyeongbokgung Hanbok Experience",
+      "match": "gyeongbokgung|bukchon hanok",
+      "url": "https://www.klook.com/en-US/activity/110939-hanbok-experience-at-hanokhanbok-with-korean-hairstyling/?aid=132967",
+      "images": [
+        "https://res.klook.com/image/upload/c_fill,w_1080,h_1350,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/oypcmzuxchwdybhuph9b.jpg",
+        "https://res.klook.com/image/upload/c_fill,w_1080,h_1350,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/qqmkyeczos3d9lumgkhy.jpg",
+        "https://res.klook.com/image/upload/c_fill,w_1080,h_1350,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/waxf6ggnlt7kkkypzgbi.jpg",
+        "https://res.klook.com/image/upload/c_fill,w_1080,h_1350,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/oqikvyb2povphu12c6pi.jpg",
+        "https://res.klook.com/image/upload/c_fill,w_1080,h_1350,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/lg9artcqhnhgqvbhqflu.jpg"
+      ]
+    },
+    {
+      "provider": "Klook",
+      "name": "N Seoul Tower Observatory",
+      "match": "n seoul tower|(?<![a-z])namsan(?![a-z])|cherry blossom|fall foliage",
+      "url": "https://www.klook.com/en-US/activity/412-n-seoul-tower-seoul/?aid=132967",
+      "images": [
+        "https://res.klook.com/image/upload/c_fill,w_1080,h_1350,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/xui9hudopofmrcgtfasl.jpg",
+        "https://res.klook.com/image/upload/c_fill,w_1080,h_1350,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/qvqbgauxhoxfiael4mqo.jpg",
+        "https://res.klook.com/image/upload/c_fill,w_1080,h_1350,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/tfkhylymejrso80xqlod.jpg",
+        "https://res.klook.com/image/upload/c_fill,w_1080,h_1350,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/i4rodtcu0f6rbl6wfbsl.jpg"
+      ]
+    },
+    {
+      "provider": "Klook",
+      "name": "Busan Gamcheon Culture Village Tour",
+      "match": "gamcheon|(?<![a-z])haeundae(?![a-z])",
+      "url": "https://www.klook.com/en-US/activity/2419-gadeokdo-jeonggeo-village-tour-busan/?aid=132967",
+      "images": [
+        "https://res.klook.com/image/upload/c_fill,w_1080,h_1350,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/fboetj3er8topksruvvm.jpg",
+        "https://res.klook.com/image/upload/c_fill,w_1080,h_1350,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/gksra0nqvwp8cjwd1qkn.jpg",
+        "https://res.klook.com/image/upload/c_fill,w_1080,h_1350,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/yci0bnbss0jvx0kiufqo.jpg",
+        "https://res.klook.com/image/upload/c_fill,w_1080,h_1350,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/omh9fum0lp9fnkjy6rcs.jpg",
+        "https://res.klook.com/image/upload/c_fill,w_1080,h_1350,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/vbfn0w8z0g8febgpptth.jpg"
+      ]
+    },
+    {
+      "provider": "Klook",
+      "name": "Jeju UNESCO Tour",
+      "match": "jeju island",
+      "url": "https://www.klook.com/en-US/activity/95690-jeju-tour/?aid=132967",
+      "images": [
+        "https://res.klook.com/image/upload/c_fill,w_1080,h_1350,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/uqzk5xy47obvwfap532s.jpg",
+        "https://res.klook.com/image/upload/c_fill,w_1080,h_1350,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/ynm3dgmphjesx3ll7jqb.jpg",
+        "https://res.klook.com/image/upload/c_fill,w_1080,h_1350,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/z0bcv4qzsvogmddizpai.jpg"
       ]
     }
   ]
