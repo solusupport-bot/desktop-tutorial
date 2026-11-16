@@ -46774,5 +46774,39 @@
       "checkedAt": "2026-11-16T02:30:05.047Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-where-koreans-actually-buy-everyday-stuff-daiso-vs-olive-young-vs-hypermarkets-vs-the-traditional-market.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "bf889e3d-377e-4f98-bec7-86ea6ea68e80",
+    "text": "Nobody tells you this before you land.\n\nFor a Seoul-to-Busan-length trip, the real choice isn't just KTX vs.\n\nthe bus — it's KTX vs.\n\nSRT, and most first-timers don't even know SRT exists.\n\nHow much did this actually cost you on your trip?\n\n📖 Open the Land in Korea link in our profile and search “KTX vs. SRT vs. intercity bus for long-distance travel”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794800472306-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794800472306-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-16T09:48:41.560Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-16T03:41:13.182Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31955780/pexels-photo-31955780.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "KTX vs. SRT vs. intercity bus for long-distance travel",
+    "qualityGate": {
+      "pass": false,
+      "reason": "문장이 끊기고 반복돼 주제와 관련된 구체적 정보가 부족해 여행 콘텐츠로서 유용하지 않음",
+      "model": "groq",
+      "checkedAt": "2026-11-16T03:41:12.305Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-16T03:41:13.158Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-ktx-vs-srt-vs-intercity-bus-for-long-distance-travel.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
