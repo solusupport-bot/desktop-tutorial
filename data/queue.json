@@ -46713,8 +46713,13 @@
       "facebook"
     ],
     "scheduledAt": "2026-11-16T15:05:41.281Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "122131498083446391",
+        "post_id": "1288453561012463_122131498107446391"
+      }
+    },
     "createdAt": "2026-11-16T01:00:10.053Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -46732,7 +46737,8 @@
       "model": "groq",
       "checkedAt": "2026-11-16T00:56:53.489Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-doing-laundry-in-korea-coin-laundromats-the-dryer-problem-and-neighborhood-dry-cleaners.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-doing-laundry-in-korea-coin-laundromats-the-dryer-problem-and-neighborhood-dry-cleaners.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-16T18:24:31.896Z"
   },
   {
     "id": "283e0e00-ee5e-4b15-b890-0ba5aabb4f16",
