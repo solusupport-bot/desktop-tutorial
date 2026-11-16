@@ -46635,5 +46635,37 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-15T23:20:14.705Z",
     "blogUrl": "https://landinkorea.com/posts/korea-bus-travel-inside-korean-cities-color-codes-tag-off-transfers-and-why-you-must-flag-the-bus.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "acd23422-0834-46ea-a3e0-be0f8942e5ee",
+    "text": "Everyone assumes this works the same as back home. It doesn't.\n\nKTX gets all the attention, but Korea's slower trains are often the smarter choice for short hops.\n\nMugunghwa-ho is the cheapest and stops almost everywhere; ITX-Saemaeul and ITX-Cheongchun are mid-tier, faster, and still much cheaper than KTX.\n\nFor destinations like Chuncheon, Jeongdongjin, or towns along the Jungang line, KTX either doesn't go or doesn't save meaningful time once you factor in getting to the KTX station.\n\nWorth knowing before you land? Reply with what surprised you.\n\n📖 Open the Land in Korea link in our profile and search “Day-tripping from Seoul by regular train: Mugunghwa, ITX-Saemaeul, and the Gyeongui-Jungang line”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794789678532-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794789678532-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-16T21:18:41.842Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-16T00:41:19.627Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/gd7f117c4497e4bbf4273f72f9afbacf048183ea9cb22d66cfbdd959ecbe2fec8f7cc4dd7c29e8a77eaa9f202508a30d7451442e865f998e35634068e5a14e88d_1280.jpg#pixabay=2613565"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Day-tripping from Seoul by regular train: Mugunghwa, ITX-Saemaeul, and the Gyeongui-Jungang line",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 내용이 일치하고 문장이 자연이며 사실도 정확해 여행 정보로 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-16T00:38:03.062Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-day-tripping-from-seoul-by-regular-train-mugunghwa-itx-saemaeul-and-the-gyeongui-jungang-line.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
