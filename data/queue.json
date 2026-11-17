@@ -46856,8 +46856,13 @@
       "facebook"
     ],
     "scheduledAt": "2026-11-16T20:35:37.966Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "122131568607446391",
+        "post_id": "1288453561012463_122131568631446391"
+      }
+    },
     "createdAt": "2026-11-16T03:49:14.619Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -46875,7 +46880,8 @@
       "model": "groq",
       "checkedAt": "2026-11-16T03:45:58.142Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-trash-and-recycling-rules-for-residents.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-trash-and-recycling-rules-for-residents.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-17T03:24:37.146Z"
   },
   {
     "id": "f2c1609d-8b0b-47ba-a210-5680f4d74c79",
