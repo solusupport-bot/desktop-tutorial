@@ -1,12 +1,6 @@
 {
-  "lastIndex": 16,
+  "lastIndex": 31,
   "history": [
-    {
-      "index": 17,
-      "topic": "Luggage storage & forwarding services",
-      "at": "2026-11-11T06:25:43.959Z",
-      "source": "instagram-fill"
-    },
     {
       "index": 18,
       "topic": "KTX vs. SRT vs. intercity bus for long-distance travel",
@@ -1200,6 +1194,12 @@
       "topic": "Seasonal packing & weather tips",
       "at": "2026-11-17T00:24:34.919Z",
       "source": "instagram-fill"
+    },
+    {
+      "index": 31,
+      "topic": "Hailing a taxi in Korea: Kakao T vs. street taxis vs. airport 'deluxe' cabs",
+      "at": "2026-11-17T00:38:59.416Z",
+      "source": "threads-fill"
     }
   ],
   "recentImageUrls": [
