@@ -48516,5 +48516,37 @@
       "checkedAt": "2026-11-17T12:48:37.097Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-esim-mobile-data.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "8355a805-8c79-4904-a416-03fa1dcf5cf9",
+    "text": "You won't find this in the usual travel advice. T-money isn't just a subway card — most tourists use maybe a third of what it actually does.\n\n1. It also works as a light payment card at some convenience stores, vending machines, and lockers, not just transit.\n2. Discounted transfers apply within a set window when you tap the same T-money card across subway and bus, so keep one card per person rather than sharing.\n3. A refundable deposit-style card fee applies at purchase, and unused balance under a small cap can be refunded in cash at station customer service before you fly home.\n\nWhat's your biggest tip for first-timers landing in Korea?\n\n🇯🇵 通常の旅行ガイドには載っていない情報です。T‑moneyは地下鉄カードだけではなく、実は観光客の利用の約3分の1しか活用されていません。\n\n1. 地下鉄以外にも、一部のコンビニエンスストアや自動販売機、ロッカーで軽量決済カードとして使えます。\n2. 同じT‑moneyカードで地下鉄とバスを乗り継ぐと、一定時間内に割引乗換が適用されるので、共有せず各自がカードを持つと便利です。\n3. 購入時にデポジット形式のカード料金がかかりますが、未使用残高が一定額以下の場合は、帰国前に駅のカスタマーサービスで現金返金が可能です。\n\n初めて韓国に来た人への最大のアドバイスは何ですか？\n\n🇨🇳 在常规旅行建议里找不到这些信息。T‑money不只是地铁卡——大多数游客只用了它功能的约三分之一。\n\n1. 它还能在部分便利店、自动售货机和储物柜等场所作为轻支付卡使用，而不仅限于公共交通。\n2. 当你在地铁和公交上使用同一张T‑money卡刷卡时，符合时间窗口的换乘可享受折扣，所以每人使用一张卡而不是共享更好。\n3. 购买时需支付可退还的押金式卡费，且未使用的余额若低于一定上限，可在返程前到车站客服柜台申请现金退款。\n\n对首次抵达韩国的旅行者，你最大的建议是什么？\n\n🇹🇼 在一般的旅行建議中找不到這些資訊。T‑money 不只是地鐵卡——大多數觀光客只用了它功能的大約三分之一。\n\n1. 它亦可在部分便利商店、販賣機與儲物櫃等處作為輕支付卡使用，並不限於交通工具。\n2. 當你在地鐵與公車上刷同一張 T‑money 卡時，只要在規定時間內換乘即可享有折扣，建議每人各持一張卡而非共享。\n3. 購買時需支付可退還的押金式卡費，且未使用的餘額若低於小額上限，可於返家前至車站客服中心申請現金退款。\n\n對首次抵達韓國的旅客，你最大的建議是什麼？",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794920562855-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794920562855-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-17T23:55:38.243Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-17T13:02:43.948Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g51c5235e388254be7c103896e867734bdceaff986f9e563ab4b67b4edfff9ecf0b456922b8b7cb11c7af8442e41e9e4cbb4817b698034a4a44332790136b2449_1280.jpg#pixabay=2778138"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "T-money transit card",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 맞고 내용도 대부분 자연스럽고 유용하지만 문장이 약간 어색함",
+      "model": "groq",
+      "checkedAt": "2026-11-17T12:59:07.193Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-t-money-transit-card.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]
