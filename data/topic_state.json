@@ -1,12 +1,6 @@
 {
-  "lastIndex": 35,
+  "lastIndex": 36,
   "history": [
-    {
-      "index": 22,
-      "topic": "Jjimjilbang etiquette",
-      "at": "2026-11-11T08:11:44.915Z",
-      "source": "facebook-fill"
-    },
     {
       "index": 0,
       "topic": "Gyeongbokgung Palace",
@@ -1200,6 +1194,12 @@
       "topic": "Opening a Korean bank account as a foreigner — and why your ARC and phone number come first",
       "at": "2026-11-17T02:15:32.572Z",
       "source": "facebook-fill"
+    },
+    {
+      "index": 36,
+      "topic": "Eating alone in Korea: which restaurants refuse solo diners and where honbap works",
+      "at": "2026-11-17T03:24:38.616Z",
+      "source": "instagram-fill"
     }
   ],
   "recentImageUrls": [
@@ -2311,7 +2311,8 @@
     "https://images.pexels.com/photos/29188034/pexels-photo-29188034.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://pixabay.com/get/g036775fab1973e4f0fcdba173dd00645bb25312d5f13c97ae90eedeff8a2ec3df634ee1b671f81496da13cd0f09182bac74e8391f24011dd06be3723124a0485_1280.jpg#pixabay=7490491",
     "https://pixabay.com/get/g31b6379c610ac7e2bcf4f6102d28de690efb4f552fa639c66ea56dd28e6e356c2a227f6ead39f891946ccfa92621b456aa19d8ec75db80f9546ce6e534b0a021_1280.jpg#pixabay=2639315",
-    "https://pixabay.com/get/g16a43e1e3c8b9603da1c6a5b2d36b96e69354e05a78f36f617324dc16f2d36e09a3df8a85821d051080c52e9536d1323d477781d1e3bafe10396e1f71c40bef4_1280.jpg#pixabay=1095361"
+    "https://pixabay.com/get/g16a43e1e3c8b9603da1c6a5b2d36b96e69354e05a78f36f617324dc16f2d36e09a3df8a85821d051080c52e9536d1323d477781d1e3bafe10396e1f71c40bef4_1280.jpg#pixabay=1095361",
+    "https://images.pexels.com/photos/34688717/pexels-photo-34688717.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
   ],
   "recentVideoUrls": [
     "https://videos.pexels.com/video-files/19577787/19577787-uhd_2160_3840_30fps.mp4",
@@ -2665,7 +2666,8 @@
       "Yena Kwon",
       "Theodore Nguyen",
       "makafood",
-      "Julien"
+      "Julien",
+      "Thành Văn Đình"
     ],
     "Food delivery apps in Korea: why signing up is harder than ordering": [
       "Theodore Nguyen",
