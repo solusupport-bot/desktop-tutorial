@@ -47504,5 +47504,39 @@
       "checkedAt": "2026-11-17T03:45:57.957Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-food-delivery-apps-in-korea-why-signing-up-is-harder-than-ordering.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "8a06e72b-397d-473a-b327-f66e8fc81a15",
+    "text": "Nobody tells you this before you land. Driving is a real upgrade for some trips and a liability for others.\n\n1. Jeju, the Gangwon coast, rural temples, and small-town markets are much easier with a car because bus frequencies drop off sharply outside cities.\n2. Seoul is the opposite case: traffic is heavy, street parking is essentially nonexistent, paid lots are expensive, and the subway will beat you door-to-door almost every time.\n3. A common compromise is taking the KTX or a bus to a regional hub and renting a car there for a day or two.\n\nHave you learned this the hard way? Tell your story.\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-renting-a-car-in-korea-when-it-s-smart-when-it-s-a-waste-and-what-the-rental-desk-will-ask-for.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794888312001-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794888312001-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-17T07:06:16.092Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-17T04:05:12.933Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31955746/pexels-photo-31955746.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Renting a car in Korea: when it's smart, when it's a waste, and what the rental desk will ask for",
+    "qualityGate": {
+      "pass": false,
+      "reason": "주제인 '렌터카 데스크가 요구하는 사항'을 다루지 않아 내용이 불완전합니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-17T04:01:56.601Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-17T04:05:12.913Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-renting-a-car-in-korea-when-it-s-smart-when-it-s-a-waste-and-what-the-rental-desk-will-ask-for.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]
