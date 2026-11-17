@@ -48489,5 +48489,32 @@
       "checkedAt": "2026-11-17T11:22:26.099Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-busan-haeundae-beach-gamcheon-culture-village.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "0e7fd3ce-1309-4806-ae9c-2e4b10f4731d",
+    "text": "You won't find this in the usual travel advice.\n\neSIM, physical SIM, or pocket Wi-Fi — most people pick based on price and regret it by day 3.\n\nMost Korean eSIM plans for tourists can be purchased online before arrival and activated by scanning a QR code once you land — no physical SIM swap needed. Coverage matches the big three Korean carriers (SKT, KT, LG U+). Did this trip you up your first time too? Drop a comment.\n\n🇯🇵 これは一般的な旅行アドバイスでは見つかりません。eSIM、物理SIM、ポケットWi-Fiのいずれも、ほとんどの人が価格に基づいて選び、3日目には後悔します。観光客向けの韓国のeSIMプランのほとんどは、到着前にオンラインで購入でき、入国後にQRコードをスキャンして有効化できます。物理的なSIMカードの交換は不要です。通信エリアは、韓国の3大キャリア（SKT、KT、LG U+）と同等です。あなたも初めての旅行でこのような経験をしましたか？コメントを残してください。\n\n🇨🇳 在常见的旅游建议中，您不会看到这些内容。eSIM 卡、实体 SIM 卡或随身 Wi-Fi——大多数人会根据价格做出选择，但到了第三天就会后悔。大多数面向游客的韩国 eSIM 套餐都可以在抵达前在线购买，并在落地后通过扫描二维码激活，无需更换实体 SIM 卡。覆盖范围与韩国三大运营商（SKT、KT、LG U+）相当。你第一次来韩国时也遇到过这个问题吗？欢迎留言。\n\n🇹🇼 在一般的旅遊建議中，你不會看到這類資訊。eSIM、實體 SIM 卡或隨身 Wi-Fi——大多數人會根據價格來選擇，但到了第三天就會後悔。大多數針對旅客的韓國 eSIM 方案都可以在抵達前線上購買，並在抵達後掃描 QR 碼即可啟用，無需更換實體 SIM 卡。涵蓋範圍與韓國三大電信業者（SKT、KT、LG U+）相同。你第一次來的時候也遇到這種情況嗎？歡迎留言分享。\n\n📖 Open the Land in Korea link in our profile and search “eSIM & mobile data”.",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-17T13:48:37.570Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-17T12:55:28.603Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "eSIM & mobile data",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련 있고 유용한 정보가 포함되어 있으나 문장이 약간 어색함",
+      "model": "groq",
+      "checkedAt": "2026-11-17T12:48:37.097Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-esim-mobile-data.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]

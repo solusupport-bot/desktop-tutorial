@@ -1,5 +1,5 @@
 {
-  "lastIndex": 5,
+  "lastIndex": 6,
   "history": [
     {
       "index": 22,
@@ -372,6 +372,12 @@
       "topic": "Jeju Island",
       "at": "2026-11-17T12:25:58.597Z",
       "source": "instagram-fill"
+    },
+    {
+      "index": 6,
+      "topic": "eSIM & mobile data",
+      "at": "2026-11-17T12:38:26.446Z",
+      "source": "threads-fill"
     }
   ],
   "recentImageUrls": [
