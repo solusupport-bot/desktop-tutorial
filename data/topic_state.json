@@ -1,12 +1,6 @@
 {
-  "lastIndex": 32,
+  "lastIndex": 33,
   "history": [
-    {
-      "index": 20,
-      "topic": "Trash and recycling rules for residents",
-      "at": "2026-11-11T06:51:43.303Z",
-      "source": "facebook-fill"
-    },
     {
       "index": 19,
       "topic": "Namdaemun Market",
@@ -1200,6 +1194,12 @@
       "topic": "Why Google Maps fails in Korea and how the road-name address system actually works",
       "at": "2026-11-17T00:51:04.423Z",
       "source": "facebook-fill"
+    },
+    {
+      "index": 33,
+      "topic": "Seoul subway details nobody tells you: exit numbers, transfer walks, express trains, and the last train",
+      "at": "2026-11-17T01:54:54.307Z",
+      "source": "instagram-fill"
     }
   ],
   "recentImageUrls": [
@@ -2308,7 +2308,8 @@
     "https://images.pexels.com/photos/41016486/pexels-photo-41016486.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://images.pexels.com/photos/37688785/pexels-photo-37688785.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://images.pexels.com/photos/3018976/pexels-photo-3018976.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://images.pexels.com/photos/29188034/pexels-photo-29188034.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "https://images.pexels.com/photos/29188034/pexels-photo-29188034.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://pixabay.com/get/g036775fab1973e4f0fcdba173dd00645bb25312d5f13c97ae90eedeff8a2ec3df634ee1b671f81496da13cd0f09182bac74e8391f24011dd06be3723124a0485_1280.jpg#pixabay=7490491"
   ],
   "recentVideoUrls": [
     "https://videos.pexels.com/video-files/19577787/19577787-uhd_2160_3840_30fps.mp4",
