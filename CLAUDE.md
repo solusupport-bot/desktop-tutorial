@@ -381,6 +381,20 @@ write_homepage`를 쓰는지 **무조건** 검사한다(예전엔 "import가 있
 - **Facebook = 이미지 앨범 고정.** 한동안 영상(Reels)을 우선했지만 실제 반응은 이미지가
   더 좋았음 — 이론적 수치보다 실측을 우선한다. (`scripts/daily-auto-post.js`의
   `mediaByPlatform.facebook`)
+  **2026-11-17 페이스북 형식·시간·UTM 변경(사용자 지시):**
+  - 본문엔 더 이상 블로그 링크를 넣지 않는다(Meta 링크 게시물 도달 페널티 회피).
+    본문은 숫자/장소명이 들어간 핵심 정보 3줄 + 마지막 줄 "Full guide in the
+    comments 👇"로 끝난다(`lib/curation/curate.js`의 `PLATFORM_GUIDE.facebook`).
+    실제 링크는 발행 직후 첫 댓글로 단다(`lib/publishing/facebook.js`의
+    `postFirstComment` — 기존 `scripts/auto-reply-facebook.js`가 같은 토큰으로
+    이미 댓글을 쓰고 있어 별도 권한 설정 불필요, 확인함). 사진 게시(단일/앨범)는
+    기존 `/photos`, `/feed`+`attached_media` 그대로 사용.
+  - 게시 시각: 방문자가 한국 48%/미국 31%/유럽 16%라, 페이스북만 한국시간
+    07~10시·17~20시 두 구간에서 랜덤으로 나간다(다른 플랫폼의 공유 `baseTime`과
+    독립적, `lib/scheduler/queue_topic.js`의 `randomFacebookTime`). 하루 게시
+    횟수는 그대로.
+  - UTM: `lib/ingestion/topic_blog_links.js`의 `withUtm(url, platform, campaign)`이
+    이미 플랫폼별로 `utm_source`를 다르게 넣고 있었음(실측 확인, 추가 수정 없음).
 - **Instagram = 영상(Reels) 우선 + 주제에 맞는 배경음악.** Openverse(가입/키 불필요,
   상업적 이용+변형 가능 라이선스만)에서 주제 무드에 맞는 곡을 찾아 ffmpeg로 합성 후
   raw.githubusercontent.com으로 호스팅, CC BY 크레딧을 캡션에 자동 추가. 무드 매핑은
