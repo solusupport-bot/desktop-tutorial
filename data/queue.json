@@ -47635,8 +47635,12 @@
       "threads"
     ],
     "scheduledAt": "2026-11-17T10:34:47.375Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18359264434270805"
+      }
+    },
     "createdAt": "2026-11-17T06:56:49.716Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -47654,7 +47658,8 @@
       "model": "groq",
       "checkedAt": "2026-11-17T06:50:16.307Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-17T18:25:42.774Z"
   },
   {
     "id": "411ec3c2-3948-4154-b99b-dd93d33c3b51",
@@ -48037,8 +48042,13 @@
       "tumblr"
     ],
     "scheduledAt": "2026-11-17T16:59:43.395Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "tumblr": {
+        "id": "833554949984206848",
+        "url": "https://landinkorea.tumblr.com/post/833554949984206848"
+      }
+    },
     "createdAt": "2026-11-17T08:07:18.262Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -48056,7 +48066,8 @@
       "model": "groq",
       "checkedAt": "2026-11-17T08:00:45.221Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-jeju-island.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-jeju-island.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-17T18:25:47.852Z"
   },
   {
     "id": "02174d9b-2cf3-4960-8a42-2a95b7f76ad4",
