@@ -47603,8 +47603,13 @@
       "facebook"
     ],
     "scheduledAt": "2026-11-17T17:56:11.651Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "122131727151446391",
+        "post_id": "1288453561012463_122131727175446391"
+      }
+    },
     "createdAt": "2026-11-17T04:53:13.855Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -47622,7 +47627,8 @@
       "model": "groq",
       "checkedAt": "2026-11-17T04:46:35.602Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-gyeongbokgung-palace.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-gyeongbokgung-palace.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-17T19:53:45.525Z"
   },
   {
     "id": "7c3e628d-5ed7-461d-bbce-90101ef48339",
