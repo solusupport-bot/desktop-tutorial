@@ -48420,5 +48420,37 @@
       "checkedAt": "2026-11-17T09:59:07.541Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-bukchon-hanok-village.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "ab7d8514-9f7c-4abb-8453-aa3226b10313",
+    "text": "This looks simple until it actually happens to you.\n\nThe Myeongdong everyone posts about — street food carts lining the main strip — doesn't really exist until late afternoon.\n\nCome at lunch and you'll mostly find shopping, not the food scene you saw online. It's dense with cosmetics shops (many offering free samples) and Tax Free-eligible stores. Anyone else lose money on this mistake?\n\n🇯🇵 実際に自分が経験するまでは、簡単なことのように思えます。誰もが投稿する明洞、つまりメインストリートに軒を連ねる屋台は、実際には午後遅くまで現れません。昼食時に行くと、オンラインで見たような食べ物の風景ではなく、ほとんどがショッピング街であることがわかります。化粧品店（多くの店が無料サンプルを提供しています）や免税対象店がひしめいています。この間違いで損をした人は他にいますか？\n\n🇨🇳 这看起来很简单，直到它真的发生在您身上。大家都在网上晒的明洞——主街上排成一排的街头美食摊——实际上要到傍晚才会出现。中午来这里，你看到的主要是商店，而不是网上看到的美食摊。这里到处都是化妆品店（许多店提供免费试用装）和免税店。还有谁因为这个错误而损失了钱？\n\n🇹🇼 這看起來很簡單，直到真的發生在你身上。大家常PO文分享的明洞——主街上排滿街頭小吃攤——其實要到傍晚才會出現。如果你在午餐時間來，大多只會看到商店，而不是網路上看到的那些美食攤。這裡有許多化妝品店（許多店家提供免費試用品）和免稅商店。還有誰因為這個錯誤而損失了錢？\n\n📖 Open the Land in Korea link in our profile and search “Myeongdong shopping district”.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794914321458-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794914321458-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-17T23:36:29.491Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-17T11:18:42.144Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g0221ce139ea1f2beab2338929eaa6bec2c770a7bb18997d915c75238fd9df02d0f4b4336120afad144f2654879884baf029372f0d523bfcfd5a09dc6802f0b31_1280.jpg#pixabay=4119803"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Myeongdong shopping district",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 맞으며 문장도 자연하고, 제시된 사실들이 과장되지 않아 여행 팁으로 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-17T11:11:50.515Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-myeongdong-shopping-district.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
