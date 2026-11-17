@@ -47689,38 +47689,6 @@
     "blogUrl": "https://landinkorea.com/posts/korea-myeongdong-shopping-district.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   },
   {
-    "id": "b6624ef7-acfc-4c57-b9bc-75722112ace1",
-    "text": "Ask five people and you'll get five different answers on this.\n\nMost first-timers assume Jeju connects by train like the rest of Korea — it doesn't, since it's an island reachable only by plane or ferry from the mainland.\n\nHallasan, South Korea's tallest peak, sits at the island's center and is climbable in a long day trip.\n\nA rental car matters more here than almost anywhere else in Korea, since bus routes are sparser and distances between sights are longer than they look on a map.\n\nWhat would you add for someone landing tomorrow?\n\n📖 Open the Land in Korea link in our profile and search “Jeju Island”.",
-    "imageUrl": "https://landinkorea.com/sns-media/images/1794903236210-v0-0.jpg",
-    "imageUrls": [
-      "https://landinkorea.com/sns-media/images/1794903236210-v0-0.jpg"
-    ],
-    "platforms": [
-      "threads"
-    ],
-    "scheduledAt": "2026-11-17T14:55:34.925Z",
-    "status": "pending",
-    "results": {},
-    "createdAt": "2026-11-17T08:13:57.476Z",
-    "approved": true,
-    "factCheckStatus": "pending",
-    "reviewedBy": null,
-    "reviewedAt": null,
-    "sourceImageUrls": [
-      "https://images.pexels.com/photos/52744/pexels-photo-52744.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    ],
-    "sourceVideoUrl": null,
-    "videoAttribution": null,
-    "topic": "Jeju Island",
-    "qualityGate": {
-      "pass": true,
-      "reason": "관련 내용이며 문장도 자연하고 사실도 정확해 여행 콘텐츠로 유용합니다",
-      "model": "groq",
-      "checkedAt": "2026-11-17T08:07:23.219Z"
-    },
-    "blogUrl": "https://landinkorea.com/posts/korea-jeju-island.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
-  },
-  {
     "id": "e43cf607-9926-4b3f-a204-02b8c5cd65fe",
     "text": "Here's what actually happens once you're standing there. eSIM, physical SIM, or pocket Wi-Fi — most people pick based on price and regret it by day 3.\n\n1. Most Korean eSIM plans for tourists can be purchased online before arrival and activated by scanning a QR code once you land — no physical SIM swap needed.\n2. Coverage matches the big three Korean carriers (SKT, KT, LG U+).\n3. Typical tourist plans run 5-8 days with unlimited or high-cap data.\n\nDone any of these? Which surprised you most?\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-esim-mobile-data.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
     "imageUrl": null,
@@ -48112,33 +48080,6 @@
     "blogUrl": "https://landinkorea.com/posts/korea-esim-mobile-data.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   },
   {
-    "id": "e08dac8b-cabd-4170-8183-da404ea9b588",
-    "text": "Here's what actually happens once you're standing there. eSIM, physical SIM, or pocket Wi-Fi — most people pick based on price and regret it by day 3.\n\n1. Most Korean eSIM plans for tourists can be purchased online before arrival and activated by scanning a QR code once you land — no physical SIM swap needed.\n2. Coverage matches the big three Korean carriers (SKT, KT, LG U+).\n3. Typical tourist plans run 5-8 days with unlimited or high-cap data.\n\nDone any of these? Which surprised you most?\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-esim-mobile-data.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
-    "imageUrl": null,
-    "platforms": [
-      "facebook"
-    ],
-    "scheduledAt": "2026-11-18T01:28:49.765Z",
-    "status": "pending",
-    "results": {},
-    "createdAt": "2026-11-17T08:17:21.302Z",
-    "approved": true,
-    "factCheckStatus": "pending",
-    "reviewedBy": null,
-    "reviewedAt": null,
-    "sourceImageUrls": [],
-    "sourceVideoUrl": null,
-    "videoAttribution": null,
-    "topic": "eSIM & mobile data",
-    "qualityGate": {
-      "pass": true,
-      "reason": "주제와 일치하고 문장이 자연스럽게 구성돼 있으며, 주장도 과장되지 않아 여행자에게 유용한 정보다.",
-      "model": "groq",
-      "checkedAt": "2026-11-17T08:10:49.430Z"
-    },
-    "blogUrl": "https://landinkorea.com/posts/korea-esim-mobile-data.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
-  },
-  {
     "id": "83818744-a49b-4fc3-825a-cd0cff01fb6e",
     "text": "Here's what actually happens once you're standing there.\n\neSIM, physical SIM, or pocket Wi-Fi — most people pick based on price and regret it by day 3.\n\nMost Korean eSIM plans for tourists can be purchased online before arrival and activated by scanning a QR code once you land — no physical SIM swap needed.\n\nCoverage matches the big three Korean carriers (SKT, KT, LG U+).\n\nWorth knowing before you land? Reply with what surprised you.",
     "imageUrl": null,
@@ -48509,7 +48450,7 @@
   },
   {
     "id": "0e7fd3ce-1309-4806-ae9c-2e4b10f4731d",
-    "text": "You won't find this in the usual travel advice.\n\neSIM, physical SIM, or pocket Wi-Fi — most people pick based on price and regret it by day 3.\n\nMost Korean eSIM plans for tourists can be purchased online before arrival and activated by scanning a QR code once you land — no physical SIM swap needed. Coverage matches the big three Korean carriers (SKT, KT, LG U+). Did this trip you up your first time too? Drop a comment.\n\n🇯🇵 これは一般的な旅行アドバイスでは見つかりません。eSIM、物理SIM、ポケットWi-Fiのいずれも、ほとんどの人が価格に基づいて選び、3日目には後悔します。観光客向けの韓国のeSIMプランのほとんどは、到着前にオンラインで購入でき、入国後にQRコードをスキャンして有効化できます。物理的なSIMカードの交換は不要です。通信エリアは、韓国の3大キャリア（SKT、KT、LG U+）と同等です。あなたも初めての旅行でこのような経験をしましたか？コメントを残してください。\n\n🇨🇳 在常见的旅游建议中，您不会看到这些内容。eSIM 卡、实体 SIM 卡或随身 Wi-Fi——大多数人会根据价格做出选择，但到了第三天就会后悔。大多数面向游客的韩国 eSIM 套餐都可以在抵达前在线购买，并在落地后通过扫描二维码激活，无需更换实体 SIM 卡。覆盖范围与韩国三大运营商（SKT、KT、LG U+）相当。你第一次来韩国时也遇到过这个问题吗？欢迎留言。\n\n🇹🇼 在一般的旅遊建議中，你不會看到這類資訊。eSIM、實體 SIM 卡或隨身 Wi-Fi——大多數人會根據價格來選擇，但到了第三天就會後悔。大多數針對旅客的韓國 eSIM 方案都可以在抵達前線上購買，並在抵達後掃描 QR 碼即可啟用，無需更換實體 SIM 卡。涵蓋範圍與韓國三大電信業者（SKT、KT、LG U+）相同。你第一次來的時候也遇到這種情況嗎？歡迎留言分享。\n\n📖 Open the Land in Korea link in our profile and search “eSIM & mobile data”.",
+    "text": "You won't find this in the usual travel advice.\n\neSIM, physical SIM, or pocket Wi-Fi — most people pick based on price and regret it by day 3.\n\nMost Korean eSIM plans for tourists can be purchased online before arrival and activated by scanning a QR code once you land — no physical SIM swap needed. Coverage matches the big three Korean carriers (SKT, KT, LG U+). Did this trip you up your first time too? Drop a comment.\n\n📖 Open the Land in Korea link in our profile and search “eSIM & mobile data”.\n\n🇯🇵 これは一般的な旅行アドバイスでは見つかりません。eSIM、物理SIM、ポケットWi-Fiのいずれも、ほとんどの人が価格に基づいて選び、3日目には後悔します。観光客向けの韓国のeSIMプランのほとんどは、到着前にオンラインで購入でき、入国後にQRコードをスキャンして有効化できます。物理的なSIMカードの交換は不要です。通信エリアは、韓国の3大キャリア（SKT、KT、LG U+）と同等です。あなたも初めての旅行でこのような経験をしましたか？コメントを残してください。\n\n🇨🇳 在常见的旅游建议中，您不会看到这些内容。eSIM 卡、实体 SIM 卡或随身 Wi-Fi——大多数人会根据价格做出选择，但到了第三天就会后悔。大多数面向游客的韩国 eSIM 套餐都可以在抵达前在线购买，并在落地后通过扫描二维码激活，无需更换实体 SIM 卡。覆盖范围与韩国三大运营商（SKT、KT、LG U+）相当。你第一次来韩国时也遇到过这个问题吗？欢迎留言。\n\n🇹🇼 在一般的旅遊建議中，你不會看到這類資訊。eSIM、實體 SIM 卡或隨身 Wi-Fi——大多數人會根據價格來選擇，但到了第三天就會後悔。大多數針對旅客的韓國 eSIM 方案都可以在抵達前線上購買，並在抵達後掃描 QR 碼即可啟用，無需更換實體 SIM 卡。涵蓋範圍與韓國三大電信業者（SKT、KT、LG U+）相同。你第一次來的時候也遇到這種情況嗎？歡迎留言分享。",
     "imageUrl": null,
     "platforms": [
       "threads"
