@@ -47477,5 +47477,32 @@
       "checkedAt": "2026-11-17T02:19:10.589Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-opening-a-korean-bank-account-as-a-foreigner-and-why-your-arc-and-phone-number-come-first.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "9f9302bc-160d-4699-8059-ce032fce15ab",
+    "text": "Everyone assumes this works the same as back home. It doesn't.\n\nKorea's delivery ecosystem runs on a few big apps — Baemin, Coupang Eats, and Yogiyo — and the food itself arrives fast and cheap by global standards.\n\nThe hard part is account setup: most apps expect a Korean mobile number for verification, and payment usually flows through a Korean-issued card or a domestic wallet like Kakao Pay or Naver Pay, though foreign cards work in some cases. Menus are also mostly in Korean even when the app interface offers English, so a translation app pointed at the screen is part of normal ordering. Worth knowing before you land? Reply with what surprised you.\n\n🇯🇵 ほとんどの配達アプリは認証に韓国の携帯番号が必要です。\n\n🇨🇳 大多数配送应用需要韩国手机号进行验证。\n\n🇹🇼 大多數配送應用需要韓國手機號進行驗證。\n\n📖 Open the Land in Korea link in our profile and search “Food delivery apps in Korea: why signing up is harder than ordering”.",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-17T18:32:17.528Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-17T03:49:20.328Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Food delivery apps in Korea: why signing up is harder than ordering",
+    "qualityGate": {
+      "pass": true,
+      "reason": "Relevant, well‑formed, factually accurate and useful for travelers.",
+      "model": "groq",
+      "checkedAt": "2026-11-17T03:45:57.957Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-food-delivery-apps-in-korea-why-signing-up-is-harder-than-ordering.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
