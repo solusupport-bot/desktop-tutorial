@@ -47640,5 +47640,37 @@
       "checkedAt": "2026-11-17T06:50:16.307Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "411ec3c2-3948-4154-b99b-dd93d33c3b51",
+    "text": "Nobody tells you this before you land. The Myeongdong everyone posts about — street food carts lining the main strip — doesn't really exist until late afternoon.\n\n1. Come at lunch and you'll mostly find shopping, not the food scene you saw online.\n2. It's dense with cosmetics shops (many offering free samples) and Tax Free-eligible stores.\n3. Weekends turn the main street into a slow shuffle of foot traffic, so a weekday evening hits the sweet spot of food stalls open and crowds manageable.\n\nWhich one surprised you the most? Drop a comment.\n\n🇯🇵 誰も着陸前に教えてくれないことがあります。みんなが投稿する明洞――メインストリップに並ぶ屋台――は実は午後遅くまでほとんど見られません。\n\n1. 昼食時に来ると、オンラインで見た食べ物シーンではなく、主にショッピングが中心です。\n2. コスメショップが密集しており（多くが無料サンプルを提供）免税対象店も多数あります。\n3. 週末はメインストリートがゆっくりとした人の流れになり、平日の夕方は屋台が開いていて人混みもほどよく、ベストです。\n\nどれが一番驚きましたか？コメントを残してください。\n\n🇨🇳 没有人在你抵达前告诉你这件事。大家都在说的明洞——主街两旁排满街头小吃车——实际上直到下午晚些时候才出现。\n\n1. 中午去的话，你主要会看到购物，而不是网上看到的美食场景。\n2. 这里化妆品店密集（很多提供免费样品），还有免税店可供选择。\n3. 周末主街人流缓慢，平日晚间是小吃摊开放且人群可控的最佳时段。\n\n哪一点让你最惊讶？留下评论吧。\n\n🇹🇼 沒有人在你抵達前告訴你這件事。大家都在說的明洞——主街兩旁排滿街頭小吃車——實際上直到下午晚些時候才出現。\n\n1. 中午前往，你主要會看到購物，而非線上看到的美食場景。\n2. 這裡化妝品店密集（許多提供免費樣品），還有免稅店可供選擇。\n3. 週末主街人流緩慢，平日晚間是小吃攤開張且人潮可控的最佳時段。\n\n哪一點讓你最驚訝？留下評論吧。\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-myeongdong-shopping-district.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794899014810-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794899014810-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-17T23:09:33.366Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-17T07:03:35.694Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/gf707239f76a391cc05d76219a8b22a4eac31259bab663b3a96230f7d284dd3b889587b06c101c7ea483891bd425324e5d980f37c2144af6154a035dc3cb5201b_1280.jpg#pixabay=326135"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Myeongdong shopping district",
+    "qualityGate": {
+      "pass": true,
+      "reason": "내용이 주제에 맞고 문장이 자연하며 사실도 신뢰할 수 있어 여행 정보로 충분히 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-17T07:00:27.500Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-myeongdong-shopping-district.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]
