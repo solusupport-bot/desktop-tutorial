@@ -47439,5 +47439,37 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-17T02:15:30.859Z",
     "blogUrl": "https://landinkorea.com/posts/korea-short-term-vs-long-term-housing-in-korea-guesthouse-goshiwon-officetel-and-the-deposit-system.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "07d1dfbf-1ffc-405b-9feb-38f9ce78fae6",
+    "text": "Everyone assumes this works the same as back home. It doesn't. The order of operations trips up almost every new resident: you generally need an Alien Registration Card (ARC) before you can open a fully functional bank account, and you often need a Korean phone number registered in your own name before online banking and identity verification will work.\n\n1. Some banks will open a limited passport-only account for short-term visitors or new arrivals, but it may cap transfers or block overseas remittance until the ARC arrives.\n2. Branches with dedicated foreign-customer desks — commonly found near university districts, industrial areas, and central Seoul — are worth seeking out because staff there handle the paperwork daily.\n3. Bring your passport, ARC (or ARC application receipt), proof of address or employment, and your phone.\n\nDone any of these? Which surprised you most?\n\n🇯🇵 誰もが母国と同じように機能すると思いがちですが、実際は違います。手順の順序がほとんどの新住民を混乱させます。まず、外籍登録証（ARC）を取得しないと、完全に機能する銀行口座を開設できません。また、オンラインバンキングや本人確認が機能するには、本人名義の韓国電話番号が必要です。\n\n1. 短期滞在者や新規入国者向けに、パスポートだけで開設できる限定口座を提供する銀行もありますが、ARCが届くまで送金額に上限があったり、海外送金ができなかったりします。\n2. 大学地区、工業地域、ソウル中心部などにある外国人向け窓口がある支店は、毎日書類手続きを担当しているので利用価値があります。\n3. パスポート、ARC（またはARC申請受領証）、住所または雇用証明、そして携帯電話を持参してください。\n\nこれらをやったことがありますか？一番驚いたことは何ですか？\n\n🇨🇳 大家都会以为这跟国内一样，但实际上并非如此。操作顺序会让几乎所有新居民感到困惑：通常需要先拥有外国人登记证（ARC），才能开设完整功能的银行账户；同时，在线银行和身份验证通常需要以本人名义注册的韩国电话号码。\n\n1. 部分银行会为短期访客或新到者提供仅凭护照即可开的受限账户，但在 ARC 到来之前，可能会限制转账额度或阻止海外汇款。\n2. 在大学区、工业区和首尔市中心等地常设有专门服务外国客户的柜台，这些柜台的工作人员每天处理相关手续，值得寻找。\n3. 请准备好护照、ARC（或 ARC 申请收据）、地址或雇佣证明以及手机。\n\n你做过这些吗？哪个让你最惊讶？\n\n🇹🇼 大家都會以為這跟國內一樣，但實際上並非如此。操作順序會讓幾乎所有新居民感到困惑：通常需要先擁有外國人登記證（ARC），才能開設完整功能的銀行帳戶；同時，線上銀行和身分驗證通常需要以本人名義註冊的韓國電話號碼。\n\n1. 部分銀行會為短期訪客或新到者提供僅憑護照即可開的受限帳戶，但在 ARC 到來之前，可能會限制轉帳額度或阻止海外匯款。\n2. 在大學區、工業區和首爾市中心等地常設有專門服務外國客戶的櫃檯，這些櫃檯的工作人員每天處理相關手續，值得尋找。\n3. 請準備好護照、ARC（或 ARC 申請收據）、地址或就業證明以及手機。\n\n你做過這些嗎？哪一項讓你最驚訝？\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-opening-a-korean-bank-account-as-a-foreigner-and-why-your-arc-and-phone-number-come-first.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794882302541-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794882302541-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-17T19:57:39.023Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-17T02:25:03.508Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g16a43e1e3c8b9603da1c6a5b2d36b96e69354e05a78f36f617324dc16f2d36e09a3df8a85821d051080c52e9536d1323d477781d1e3bafe10396e1f71c40bef4_1280.jpg#pixabay=1095361"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Opening a Korean bank account as a foreigner — and why your ARC and phone number come first",
+    "qualityGate": {
+      "pass": true,
+      "reason": "Caption is on-topic, coherent, factually reasonable and provides useful advice for foreigners opening Korean bank accounts",
+      "model": "groq",
+      "checkedAt": "2026-11-17T02:19:10.589Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-opening-a-korean-bank-account-as-a-foreigner-and-why-your-arc-and-phone-number-come-first.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]
