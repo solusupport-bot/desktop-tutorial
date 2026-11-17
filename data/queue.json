@@ -48452,5 +48452,37 @@
       "checkedAt": "2026-11-17T11:11:50.515Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-myeongdong-shopping-district.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "9795fb30-b9a4-4c67-872b-c85feddd96a4",
+    "text": "This looks simple until it actually happens to you. Haeundae Beach and Gamcheon Culture Village get grouped into one Busan day trip constantly, but they're on opposite sides of the city — budget real transit time, not a quick hop.\n\n1. Haeundae is Busan's most famous beach, backed by a dense strip of hotels and restaurants, busiest in summer.\n2. Gamcheon is a hillside neighborhood of colorful houses turned into a walkable open-air art village, with steep stairs throughout, so comfortable shoes matter more than they look like they would.\n3. KTX from Seoul to Busan takes around 2.5-3 hours.\n\nWhich mistake have you made? Comment below.\n\n🇯🇵 これを見るとシンプルに思えますが、実際に起きると違います。海雲台ビーチと甘川文化村は常に同じ釜山日帰り旅行にまとめられがちですが、実は市の反対側にあります——短時間の移動ではなく、実際の所要時間を見込んでください。\n\n1. 海雲台は釜山で最も有名なビーチで、ホテルやレストランが密集したエリアにあり、夏は特に混雑します。\n2. 甘川はカラフルな家々が並ぶ丘陵の地区で、歩ける屋外アート村に変わっています。階段が多く、見た目以上に快適な靴が必要です。\n3. ソウルから釜山へのKTXは約2.5〜3時間かかります。\n\nどんなミスをしましたか？下にコメントしてください。\n\n🇨🇳 看起来很简单，直到亲身经历才知道。海云台海滩和甘川文化村经常被归为同一天的釜山行程，但它们位于城市的相对两侧——请预留真实的交通时间，而不是以为可以快速往返。\n\n1. 海云台是釜山最有名的海滩，背后是一条密集的酒店和餐厅带，夏季尤为拥挤。\n2. 甘川是一个山坡上的彩色住宅区，已被改造为可步行的露天艺术村，遍布陡峭的楼梯，舒适的鞋子比看上去更重要。\n3. 从首尔到釜山的KTX大约需要2.5-3小时。\n\n你犯过什么错误？在下方评论。\n\n🇹🇼 看起來很簡單，直到親身體驗才知道。海雲台海灘和甘川文化村常被歸為同一天的釜山行程，但它們位於城市的相對兩側——請預留真實的交通時間，而不是以為可以快速往返。\n\n1. 海雲台是釜山最有名的海灘，背後是一條密集的飯店和餐廳帶，夏季尤為擁擠。\n2. 甘川是一個山坡上的彩色住宅區，已被改造成可步行的露天藝術村，遍佈陡峭的樓梯，舒適的鞋子比看起來更重要。\n3. 從首爾到釜山的KTX大約需要2.5-3小時。\n\n你犯過什麼錯誤？在下方評論。",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794914759141-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794914759141-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-18T00:05:16.880Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-17T11:26:00.034Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31606886/pexels-photo-31606886.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Busan Haeundae Beach & Gamcheon Culture Village",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련되고 내용도 자연스럽게 전달되며, 사실도 과장되지 않아 여행에 유용합니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-17T11:22:26.099Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-busan-haeundae-beach-gamcheon-culture-village.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]

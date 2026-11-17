@@ -1,5 +1,5 @@
 {
-  "lastIndex": 3,
+  "lastIndex": 4,
   "history": [
     {
       "index": 22,
@@ -360,6 +360,12 @@
       "topic": "Myeongdong shopping district",
       "at": "2026-11-17T11:00:56.843Z",
       "source": "threads-fill"
+    },
+    {
+      "index": 4,
+      "topic": "Busan Haeundae Beach & Gamcheon Culture Village",
+      "at": "2026-11-17T11:18:43.777Z",
+      "source": "facebook-fill"
     }
   ],
   "recentImageUrls": [
@@ -1486,7 +1492,8 @@
     "https://images.pexels.com/photos/29037561/pexels-photo-29037561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://images.pexels.com/photos/5067485/pexels-photo-5067485.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://images.pexels.com/photos/32124433/pexels-photo-32124433.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://pixabay.com/get/g0221ce139ea1f2beab2338929eaa6bec2c770a7bb18997d915c75238fd9df02d0f4b4336120afad144f2654879884baf029372f0d523bfcfd5a09dc6802f0b31_1280.jpg#pixabay=4119803"
+    "https://pixabay.com/get/g0221ce139ea1f2beab2338929eaa6bec2c770a7bb18997d915c75238fd9df02d0f4b4336120afad144f2654879884baf029372f0d523bfcfd5a09dc6802f0b31_1280.jpg#pixabay=4119803",
+    "https://images.pexels.com/photos/31606886/pexels-photo-31606886.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
   ],
   "recentVideoUrls": [
     "https://videos.pexels.com/video-files/19577787/19577787-uhd_2160_3840_30fps.mp4",
@@ -1981,7 +1988,8 @@
     "Busan Haeundae Beach & Gamcheon Culture Village": [
       "Sean Hwang",
       "Dennis Park",
-      "BUY Camera"
+      "BUY Camera",
+      "Hyeok Jang"
     ],
     "Jeju Island": [
       "Jongeun Kim",
