@@ -47261,7 +47261,7 @@
       "threads"
     ],
     "scheduledAt": "2026-11-16T22:40:02.405Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-16T14:15:24.320Z",
     "approved": true,
