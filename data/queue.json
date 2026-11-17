@@ -48383,5 +48383,37 @@
       "checkedAt": "2026-11-17T09:44:17.906Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-gyeongbokgung-palace.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "889ad35f-1c9b-4c83-92d0-c644f98b54e6",
+    "text": "There's one detail that trips up almost every first-timer. The hanok houses in Bukchon aren't a recreation — real families live behind those tiled roofs, which changes how you should behave walking through.\n\n1. Keep voices down in residential alleys, especially early morning or evening.\n2. The neighborhood connects two major palaces, so most people visit it as a walk between Gyeongbokgung and Changdeokgung rather than a separate trip.\n3. Weekday mornings are the quietest time to actually see the alleys without a crowd in every photo.\n\nHave you learned this the hard way? Tell your story.\n\n📖 Full breakdown: https://landinkorea.com/posts/korea-bukchon-hanok-village.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794909941533-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794909941533-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-17T22:30:51.021Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-17T10:05:42.121Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/5067485/pexels-photo-5067485.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Bukchon Hanok Village",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련되고 문장이 자연스러우며 사실이 정확하고 여행자에게 유용한 정보를 제공한다",
+      "model": "groq",
+      "checkedAt": "2026-11-17T09:59:07.541Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-bukchon-hanok-village.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]
