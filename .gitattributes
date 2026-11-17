@@ -1,0 +1,8 @@
+# 2026-11-17: daily-topic.yml(하루 1회)과 scheduler.yml(시간당 1회)이 같은 파일에 동시에
+# 커밋하면서 생기는 실제 content conflict를 자동으로 풀기 위한 JSON 병합 드라이버.
+# scripts/ci-commit-push.sh가 매 실행마다 merge.jsonmerge.driver를 등록한다.
+data/queue.json merge=jsonmerge
+data/topic_state.json merge=jsonmerge
+data/topic_bank.json merge=jsonmerge
+data/topic_blog_links.json merge=jsonmerge
+data/blog_content_queue.json merge=jsonmerge

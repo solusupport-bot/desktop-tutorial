@@ -25,6 +25,12 @@ fi
 
 git config user.name "sns-automation-bot"
 git config user.email "actions@github.com"
+# 2026-11-17 실측: daily-topic.yml과 scheduler.yml이 같은 data/*.json을 동시에 커밋하면
+# 실제 content conflict가 나고, 그러면 아래 "git pull --rebase"가 그 자리에서 바로
+# 실패한다(set -e 때문에 재시도 루프에 도달도 못 하고 스크립트 전체가 죽음) — 5일 연속
+# daily-topic.yml이 실패한 진짜 원인. .gitattributes가 가리키는 jsonmerge 드라이버를
+# 매 실행마다 등록해 두면 git이 그 충돌을 scripts/git-merge-json.js로 자동으로 푼다.
+git config merge.jsonmerge.driver "node scripts/git-merge-json.js %O %A %B"
 git add "${paths[@]}"
 git commit -m "$message"
 
@@ -33,7 +39,7 @@ for attempt in 1 2 3; do
     exit 0
   fi
   echo "Push rejected (attempt ${attempt}/3) -- rebasing onto latest and retrying."
-  git pull --rebase origin "${GITHUB_REF_NAME}"
+  git pull --rebase origin "${GITHUB_REF_NAME}" || { echo "::error::rebase conflict could not be auto-merged"; git rebase --abort; exit 1; }
 done
 
 echo "::error::Push failed after 3 attempts -- giving up."
