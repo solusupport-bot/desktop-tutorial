@@ -47513,8 +47513,12 @@
       "threads"
     ],
     "scheduledAt": "2026-11-17T18:32:17.528Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18098285267689091"
+      }
+    },
     "createdAt": "2026-11-17T03:49:20.328Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -47530,7 +47534,8 @@
       "model": "groq",
       "checkedAt": "2026-11-17T03:45:57.957Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-food-delivery-apps-in-korea-why-signing-up-is-harder-than-ordering.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-food-delivery-apps-in-korea-why-signing-up-is-harder-than-ordering.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-18T03:25:47.450Z"
   },
   {
     "id": "8a06e72b-397d-473a-b327-f66e8fc81a15",
@@ -47850,8 +47855,13 @@
       "mastodon"
     ],
     "scheduledAt": "2026-11-18T02:21:35.079Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "mastodon": {
+        "id": "117635307940523888",
+        "url": "https://mastodon.social/@landinkorea/117635307940523888"
+      }
+    },
     "createdAt": "2026-11-17T07:56:31.743Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -47869,7 +47879,8 @@
       "model": "groq",
       "checkedAt": "2026-11-17T07:49:58.513Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-busan-haeundae-beach-gamcheon-culture-village.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-busan-haeundae-beach-gamcheon-culture-village.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-18T03:25:52.857Z"
   },
   {
     "id": "853587a1-9da0-408e-b715-6dc43ecf8c67",
@@ -48127,8 +48138,13 @@
       "bluesky"
     ],
     "scheduledAt": "2026-11-18T01:52:12.034Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3n2kmcrz5be2r",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3n2kmcrz5be2r"
+      }
+    },
     "createdAt": "2026-11-17T08:17:21.326Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -48144,7 +48160,8 @@
       "model": "groq",
       "checkedAt": "2026-11-17T08:10:49.430Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-esim-mobile-data.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-esim-mobile-data.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-18T03:25:54.196Z"
   },
   {
     "id": "9336233a-4057-447a-a900-0df280e5efd4",
