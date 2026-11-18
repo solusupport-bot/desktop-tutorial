@@ -47689,7 +47689,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-11-17T23:09:33.366Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-17T07:03:35.694Z",
     "approved": true,
@@ -47893,7 +47893,7 @@
       "tumblr"
     ],
     "scheduledAt": "2026-11-18T04:18:48.667Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-17T07:56:31.761Z",
     "approved": true,
