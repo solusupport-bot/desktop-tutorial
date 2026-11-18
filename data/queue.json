@@ -48965,5 +48965,595 @@
       "checkedAt": "2026-11-18T07:35:37.473Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-tax-refund-tax-free-shopping.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "bcf02c2f-d484-4a06-af26-30333c3fd1b5",
+    "text": "Nobody tells you this before you land.\n\nThe Myeongdong everyone posts about — street food carts lining the main strip — doesn't really exist until late afternoon.\n\nCome at lunch and you'll mostly find shopping, not the food scene you saw online.\n\nIt's dense with cosmetics shops (many offering free samples) and Tax Free-eligible stores.\n\nWhat surprised you the most when you landed?",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-19T03:00:56.232Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-18T07:38:48.073Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Myeongdong shopping district",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스러우며, 과장된 사실 없이 여행자에게 유용한 정보를 제공합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-18T07:32:12.193Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-myeongdong-shopping-district.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "7723ef86-f123-4d4b-8d6d-024b91b6070f",
+    "text": "The Myeongdong everyone posts about — street food carts lining the main strip — doesn't really exist until late afternoon.\n\nCome at lunch and you'll mostly find shopping, not the food scene you saw online.\n\nIt's dense with cosmetics shops (many offering free samples) and Tax Free-eligible stores.\n\n📖 Full guide: https://landinkorea.com/posts/korea-myeongdong-shopping-district.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": null,
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-19T00:10:45.440Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-18T07:38:48.105Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Myeongdong shopping district",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스러우며, 과장된 사실 없이 여행자에게 유용한 정보를 제공합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-18T07:32:12.193Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-myeongdong-shopping-district.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "b326a730-2c5a-4beb-9a74-55b6ce9f0545",
+    "text": "Nobody tells you this before you land.\n\nThe Myeongdong everyone posts about — street food carts lining the main strip — doesn't really exist until late afternoon.\n\nCome at lunch and you'll mostly find shopping, not the food scene you saw online.\n\nIt's dense with cosmetics shops (many offering free samples) and Tax Free-eligible stores.\n\nWhat surprised you the most when you landed?",
+    "imageUrl": null,
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-11-19T03:35:38.241Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-18T07:38:48.131Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Myeongdong shopping district",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스러우며, 과장된 사실 없이 여행자에게 유용한 정보를 제공합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-18T07:32:12.193Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-myeongdong-shopping-district.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "b0503b72-51ab-4407-bd9a-b3b7324e87ed",
+    "text": "Nobody tells you this before you land.\n\nThe Myeongdong everyone posts about — street food carts lining the main strip — doesn't really exist until late afternoon.\n\nCome at lunch and you'll mostly find shopping, not the food scene you saw online.\n\nIt's dense with cosmetics shops (many offering free samples) and Tax Free-eligible stores.\n\nWhat surprised you the most when you landed?",
+    "imageUrl": null,
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-11-19T04:00:29.508Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-18T07:38:48.152Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Myeongdong shopping district",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스러우며, 과장된 사실 없이 여행자에게 유용한 정보를 제공합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-18T07:32:12.193Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-myeongdong-shopping-district.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "6496152d-ff85-438f-a174-40274da7cbf0",
+    "text": "The Myeongdong everyone posts about — street food carts lining the main strip — doesn't really exist until late afternoon.\n\n1. Come at lunch and you'll mostly find shopping, not the food scene you saw online.\n2. It's dense with cosmetics shops (many offering free samples) and Tax Free-eligible stores.\n3. Weekends turn the main street into a slow shuffle of foot traffic, so a weekday evening hits the sweet spot of food stalls open and crowds manageable.",
+    "imageUrl": null,
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-11-19T06:00:34.614Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-18T07:38:48.173Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Myeongdong shopping district",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스러우며, 과장된 사실 없이 여행자에게 유용한 정보를 제공합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-18T07:32:12.193Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-myeongdong-shopping-district.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "956aced4-f356-4f4b-b8c7-9be9a7dbeb97",
+    "text": "This looks simple until it actually happens to you.\n\nHaeundae Beach and Gamcheon Culture Village get grouped into one Busan day trip constantly, but they're on opposite sides of the city — budget real transit time, not a quick hop.\n\nHaeundae is Busan's most famous beach, backed by a dense strip of hotels and restaurants, busiest in summer.\n\nGamcheon is a hillside neighborhood of colorful houses turned into a walkable open-air art village, with steep stairs throughout, so comfortable shoes matter more than they look like they would.\n\nAnyone else lose money on this mistake?",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794988123662-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794988123662-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-18T14:22:21.591Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-18T07:52:03.215Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/3779812/pexels-photo-3779812.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Busan Haeundae Beach & Gamcheon Culture Village",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련된 내용이며, 문장이 크게 끊기거나 오류가 없고 사실 주장도 크게 문제되지 않는다.",
+      "model": "groq",
+      "checkedAt": "2026-11-18T07:45:27.329Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-busan-haeundae-beach-gamcheon-culture-village.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "c1ef45da-1414-45a7-89ee-c23b26fc7d59",
+    "text": "KTX from Seoul to Busan takes around 2.5-3 hours.\n\n📖 Full guide: https://landinkorea.com/posts/korea-busan-haeundae-beach-gamcheon-culture-village.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794988123662-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794988123662-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-18T22:06:04.290Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-18T07:52:03.240Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/3779812/pexels-photo-3779812.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Busan Haeundae Beach & Gamcheon Culture Village",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련된 내용이며, 문장이 크게 끊기거나 오류가 없고 사실 주장도 크게 문제되지 않는다.",
+      "model": "groq",
+      "checkedAt": "2026-11-18T07:45:27.329Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-busan-haeundae-beach-gamcheon-culture-village.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "2a914685-68ae-4d3d-ae26-111166720c33",
+    "text": "This looks simple until it actually happens to you.\n\nHaeundae Beach and Gamcheon Culture Village get grouped into one Busan day trip constantly, but they're on opposite sides of the city — budget real transit time, not a quick hop.\n\nHaeundae is Busan's most famous beach, backed by a dense strip of hotels and restaurants, busiest in summer.\n\nGamcheon is a hillside neighborhood of colorful houses turned into a walkable open-air art village, with steep stairs throughout, so comfortable shoes matter more than they look like they would.\n\nAnyone else lose money on this mistake?",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794988123662-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794988123662-v0-0.jpg"
+    ],
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-11-18T14:53:22.994Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-18T07:52:03.265Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/3779812/pexels-photo-3779812.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Busan Haeundae Beach & Gamcheon Culture Village",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련된 내용이며, 문장이 크게 끊기거나 오류가 없고 사실 주장도 크게 문제되지 않는다.",
+      "model": "groq",
+      "checkedAt": "2026-11-18T07:45:27.329Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-busan-haeundae-beach-gamcheon-culture-village.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "065645f5-a464-4680-929d-8bacd8a4a390",
+    "text": "This looks simple until it actually happens to you.\n\nHaeundae Beach and Gamcheon Culture Village get grouped into one Busan day trip constantly, but they're on opposite sides of the city — budget real transit time, not a quick hop.\n\nHaeundae is Busan's most famous beach, backed by a dense strip of hotels and restaurants, busiest in summer.\n\nGamcheon is a hillside neighborhood of colorful houses turned into a walkable open-air art village, with steep stairs throughout, so comfortable shoes matter more than they look like they would.\n\nAnyone else lose money on this mistake?",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794988123662-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794988123662-v0-0.jpg"
+    ],
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-11-18T15:21:26.475Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-18T07:52:03.286Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/3779812/pexels-photo-3779812.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Busan Haeundae Beach & Gamcheon Culture Village",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련된 내용이며, 문장이 크게 끊기거나 오류가 없고 사실 주장도 크게 문제되지 않는다.",
+      "model": "groq",
+      "checkedAt": "2026-11-18T07:45:27.329Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-busan-haeundae-beach-gamcheon-culture-village.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "df62528b-c1a3-4455-97dd-3d2542d2f575",
+    "text": "Haeundae Beach and Gamcheon Culture Village get grouped into one Busan day trip constantly, but they're on opposite sides of the city — budget real transit time, not a quick hop.\n\n1. Haeundae is Busan's most famous beach, backed by a dense strip of hotels and restaurants, busiest in summer.\n2. Gamcheon is a hillside neighborhood of colorful houses turned into a walkable open-air art village, with steep stairs throughout, so comfortable shoes matter more than they look like they would.\n3. KTX from Seoul to Busan takes around 2.5-3 hours.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794988123662-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794988123662-v0-0.jpg"
+    ],
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-11-18T17:21:12.738Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-18T07:52:03.305Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/3779812/pexels-photo-3779812.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Busan Haeundae Beach & Gamcheon Culture Village",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련된 내용이며, 문장이 크게 끊기거나 오류가 없고 사실 주장도 크게 문제되지 않는다.",
+      "model": "groq",
+      "checkedAt": "2026-11-18T07:45:27.329Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-busan-haeundae-beach-gamcheon-culture-village.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "a315c10e-8bbd-4f6d-ab01-f75cce1c4937",
+    "text": "Ask five people and you'll get five different answers on this.\n\nMost first-timers assume Jeju connects by train like the rest of Korea — it doesn't, since it's an island reachable only by plane or ferry from the mainland.\n\nHallasan, South Korea's tallest peak, sits at the island's center and is climbable in a long day trip.\n\nA rental car matters more here than almost anywhere else in Korea, since bus routes are sparser and distances between sights are longer than they look on a map.\n\nWhat would you add for someone landing tomorrow?",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794988737533-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794988737533-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-19T01:42:31.016Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-18T08:02:16.637Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/39177626/pexels-photo-39177626.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Jeju Island",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 내용이 일치하고 문장이 자연이며 사실도 정확해 여행에 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-18T07:55:40.811Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-jeju-island.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "72108cc3-939e-41dd-9732-a0525f66deb3",
+    "text": "Most first-timers assume Jeju connects by train like the rest of Korea — it doesn't, since it's an island reachable only by plane or ferry from the mainland.\n\nHallasan, South Korea's tallest peak, sits at the island's center and is climbable in a long day trip.\n\nA rental car matters more here than almost anywhere else in Korea, since bus routes are sparser and distances between sights are longer than they look on a map.\n\n📖 Full guide: https://landinkorea.com/posts/korea-jeju-island.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794988737533-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794988737533-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-18T08:19:13.428Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-18T08:02:16.662Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/39177626/pexels-photo-39177626.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Jeju Island",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 내용이 일치하고 문장이 자연이며 사실도 정확해 여행에 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-18T07:55:40.811Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-jeju-island.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "6c91135f-3430-40aa-b5df-b58e7588069d",
+    "text": "Ask five people and you'll get five different answers on this.\n\nMost first-timers assume Jeju connects by train like the rest of Korea — it doesn't, since it's an island reachable only by plane or ferry from the mainland.\n\nHallasan, South Korea's tallest peak, sits at the island's center and is climbable in a long day trip.\n\nA rental car matters more here than almost anywhere else in Korea, since bus routes are sparser and distances between sights are longer than they look on a map.\n\nWhat would you add for someone landing tomorrow?",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794988737533-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794988737533-v0-0.jpg"
+    ],
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-11-19T02:11:53.095Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-18T08:02:16.688Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/39177626/pexels-photo-39177626.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Jeju Island",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 내용이 일치하고 문장이 자연이며 사실도 정확해 여행에 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-18T07:55:40.811Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-jeju-island.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "d63eef5b-e15c-4063-b828-3373a371dfbf",
+    "text": "Ask five people and you'll get five different answers on this.\n\nMost first-timers assume Jeju connects by train like the rest of Korea — it doesn't, since it's an island reachable only by plane or ferry from the mainland.\n\nHallasan, South Korea's tallest peak, sits at the island's center and is climbable in a long day trip.\n\nA rental car matters more here than almost anywhere else in Korea, since bus routes are sparser and distances between sights are longer than they look on a map.\n\nWhat would you add for someone landing tomorrow?",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794988737533-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794988737533-v0-0.jpg"
+    ],
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-11-19T02:42:00.207Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-18T08:02:16.712Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/39177626/pexels-photo-39177626.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Jeju Island",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 내용이 일치하고 문장이 자연이며 사실도 정확해 여행에 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-18T07:55:40.811Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-jeju-island.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "66644684-8a61-405a-8ff8-83ac81384bd0",
+    "text": "Most first-timers assume Jeju connects by train like the rest of Korea — it doesn't, since it's an island reachable only by plane or ferry from the mainland.\n\n1. Hallasan, South Korea's tallest peak, sits at the island's center and is climbable in a long day trip.\n2. A rental car matters more here than almost anywhere else in Korea, since bus routes are sparser and distances between sights are longer than they look on a map.\n3. Coastal weather shifts quickly, so don't leave rain gear behind just because it's summer.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794988737533-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794988737533-v0-0.jpg"
+    ],
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-11-19T04:40:19.747Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-18T08:02:16.731Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/39177626/pexels-photo-39177626.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Jeju Island",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 내용이 일치하고 문장이 자연이며 사실도 정확해 여행에 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-18T07:55:40.811Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-jeju-island.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "1267db3a-0f06-4818-aaad-aa48a3eb0587",
+    "text": "Here's what actually happens once you're standing there.\n\neSIM, physical SIM, or pocket Wi-Fi — most people pick based on price and regret it by day 3.\n\nMost Korean eSIM plans for tourists can be purchased online before arrival and activated by scanning a QR code once you land — no physical SIM swap needed.\n\nCoverage matches the big three Korean carriers (SKT, KT, LG U+).\n\nWorth knowing before you land? Reply with what surprised you.",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-19T02:52:37.453Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-18T08:12:29.056Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "eSIM & mobile data",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련성 높고 문장도 자연스럽고 사실도 과장되지 않아 여행 정보로 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-18T08:05:47.431Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-esim-mobile-data.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "17e29e8d-29b7-4a86-bbee-7e43d1e1fdbe",
+    "text": "eSIM, physical SIM, or pocket Wi-Fi — most people pick based on price and regret it by day 3.\n\nTypical tourist plans run 5-8 days with unlimited or high-cap data.\n\nReseller listings in 2026 put tourist eSIMs for Korea at roughly US$3-4 for 1GB (7 days) and around US$10 for 5GB (30 days); data-only eSIMs usually come without a Korean 010 phone number, which some apps need for sign-up.\n\n📖 Full guide: https://landinkorea.com/posts/korea-esim-mobile-data.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": null,
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-18T09:58:31.383Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-18T08:12:29.079Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "eSIM & mobile data",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련성 높고 문장도 자연스럽고 사실도 과장되지 않아 여행 정보로 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-18T08:05:47.431Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-esim-mobile-data.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "7b592b96-2a70-4f92-a537-c2239919daf5",
+    "text": "Here's what actually happens once you're standing there.\n\neSIM, physical SIM, or pocket Wi-Fi — most people pick based on price and regret it by day 3.\n\nMost Korean eSIM plans for tourists can be purchased online before arrival and activated by scanning a QR code once you land — no physical SIM swap needed.\n\nCoverage matches the big three Korean carriers (SKT, KT, LG U+).\n\nWorth knowing before you land? Reply with what surprised you.",
+    "imageUrl": null,
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-11-19T03:27:01.633Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-18T08:12:29.103Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "eSIM & mobile data",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련성 높고 문장도 자연스럽고 사실도 과장되지 않아 여행 정보로 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-18T08:05:47.431Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-esim-mobile-data.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "f91b3827-463e-469b-ab6f-300f234dc324",
+    "text": "Here's what actually happens once you're standing there.\n\neSIM, physical SIM, or pocket Wi-Fi — most people pick based on price and regret it by day 3.\n\nMost Korean eSIM plans for tourists can be purchased online before arrival and activated by scanning a QR code once you land — no physical SIM swap needed.\n\nCoverage matches the big three Korean carriers (SKT, KT, LG U+).\n\nWorth knowing before you land? Reply with what surprised you.",
+    "imageUrl": null,
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-11-19T03:56:48.830Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-18T08:12:29.124Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "eSIM & mobile data",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련성 높고 문장도 자연스럽고 사실도 과장되지 않아 여행 정보로 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-18T08:05:47.431Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-esim-mobile-data.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "1a2d0fee-ae63-4383-b354-9471115bc309",
+    "text": "eSIM, physical SIM, or pocket Wi-Fi — most people pick based on price and regret it by day 3.\n\n1. Most Korean eSIM plans for tourists can be purchased online before arrival and activated by scanning a QR code once you land — no physical SIM swap needed.\n2. Coverage matches the big three Korean carriers (SKT, KT, LG U+).\n3. Typical tourist plans run 5-8 days with unlimited or high-cap data.",
+    "imageUrl": null,
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-11-19T05:52:43.223Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-18T08:12:29.145Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "eSIM & mobile data",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련성 높고 문장도 자연스럽고 사실도 과장되지 않아 여행 정보로 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-18T08:05:47.431Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-esim-mobile-data.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
   }
 ]
