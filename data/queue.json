@@ -48724,5 +48724,34 @@
       "checkedAt": "2026-11-18T02:22:52.212Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-convenience-store-hacks.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "05969aa5-55cf-44fa-914c-25ee20a2a95f",
+    "text": "Ask five people and you'll get five different answers on this.\n\nThere are different tiers of taxi and they are not priced the same.\n\nStandard taxis (usually orange, silver, or white in Seoul) are the cheapest; black 'deluxe' taxis (모범택시) with a yellow sign on top charge noticeably higher fares and are common at airports and hotels.\n\nJumbo vans exist for larger groups and luggage.\n\nWhat surprised you the most when you landed?\n\n📖 Open the Land in Korea link in our profile and search “Hailing a taxi in Korea: Kakao T vs. street taxis vs. airport 'deluxe' cabs”.",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-18T18:27:33.903Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-18T03:50:12.963Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Hailing a taxi in Korea: Kakao T vs. street taxis vs. airport 'deluxe' cabs",
+    "qualityGate": {
+      "pass": false,
+      "reason": "주제인 카카오 T와 거리·공항 딜럭스 택시 비교 내용이 부족해 관련성이 낮다",
+      "model": "groq",
+      "checkedAt": "2026-11-18T03:46:55.573Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-18T03:50:12.945Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-hailing-a-taxi-in-korea-kakao-t-vs-street-taxis-vs-airport-deluxe-cabs.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
