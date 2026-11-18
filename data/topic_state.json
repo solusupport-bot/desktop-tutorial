@@ -1,5 +1,5 @@
 {
-  "lastIndex": 56,
+  "lastIndex": 44,
   "history": [
     {
       "index": 22,
@@ -569,6 +569,36 @@
       "index": 56,
       "topic": "Public bathhouse culture in Korea beyond the jjimjilbang: the mogyoktang rules",
       "at": "2026-11-18T20:50:07.468Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 40,
+      "topic": "Learning to read Hangul in a weekend — and why romanized signs still confuse you",
+      "at": "2026-11-18T21:22:01.056Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 41,
+      "topic": "Hospital vs. clinic vs. pharmacy in Korea: where to actually go when you get sick",
+      "at": "2026-11-18T21:36:02.986Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 42,
+      "topic": "Cafes as workspaces in Korea: unspoken rules of study cafes, franchise chains, and 'no-laptop' signs",
+      "at": "2026-11-18T21:46:54.704Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 43,
+      "topic": "Bus travel inside Korean cities: color codes, tag-off transfers, and why you must flag the bus",
+      "at": "2026-11-18T21:57:40.694Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 44,
+      "topic": "Reserving restaurants and joining waitlists in Korea: Catch Table, Naver booking, and the Tabling tablet",
+      "at": "2026-11-18T22:13:52.660Z",
       "source": "instagram-fill"
     }
   ],
@@ -1756,7 +1786,12 @@
     "https://pixabay.com/get/g9fa7e3ea4c238b551a2a2102704ce9f32576f88beeac870e1a72926235eeef8e96283b8e46f0cdbfb43871c44983d990d040b332f0e97a9b4f4382b5a22ac157_1280.jpg#pixabay=5533707",
     "https://pixabay.com/get/g10f08f2161343bf8b75dcefd2727e349867e4506e2ec7309f547c85117ee4c356981ec92aab3b73052be23d57a4143c1b43c4a75cea91586d24aae3e5fbc41d1_1280.jpg#pixabay=7818476",
     "https://images.pexels.com/photos/31680723/pexels-photo-31680723.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://images.pexels.com/photos/29956395/pexels-photo-29956395.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "https://images.pexels.com/photos/29956395/pexels-photo-29956395.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/33641761/pexels-photo-33641761.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://pixabay.com/get/g2f543a7e0306ac423ce96ac89ac123da0a90b35baaba3d79c59ec4238675bbf8ae15e93ff14ec3061770ff6af4d2ffadffeaea139ddcebabf4076b9966ea230e_1280.jpg#pixabay=7898432",
+    "https://images.pexels.com/photos/30027302/pexels-photo-30027302.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://pixabay.com/get/g974eb8c6577aa247ae6c62ff14caa79447708fe5cbc0879eb0911030834756e9ccb4e6e6976290a72954db315d6037025e35ad2054ff5972a0270ef224e6040d_1280.jpg#pixabay=1215000",
+    "https://images.pexels.com/photos/6314649/pexels-photo-6314649.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
   ],
   "recentVideoUrls": [
     "https://videos.pexels.com/video-files/19577787/19577787-uhd_2160_3840_30fps.mp4",
@@ -2120,7 +2155,22 @@
     "https://cdn.pixabay.com/video/2020/05/04/38084-416330724_large.mp4",
     "https://videos.pexels.com/video-files/34237015/14509347_2160_3840_24fps.mp4",
     "https://videos.pexels.com/video-files/34237021/14509474_2160_3840_24fps.mp4",
-    "https://videos.pexels.com/video-files/6616516/6616516-hd_1920_1080_25fps.mp4"
+    "https://videos.pexels.com/video-files/6616516/6616516-hd_1920_1080_25fps.mp4",
+    "https://videos.pexels.com/video-files/7345196/7345196-uhd_3840_2160_25fps.mp4",
+    "https://videos.pexels.com/video-files/8246772/8246772-hd_1920_1080_25fps.mp4",
+    "https://videos.pexels.com/video-files/7343472/7343472-uhd_2160_3840_25fps.mp4",
+    "https://cdn.pixabay.com/video/2019/02/01/21114-315191258_large.mp4",
+    "https://cdn.pixabay.com/video/2022/10/25/136458-764399870_large.mp4",
+    "https://cdn.pixabay.com/video/2019/03/11/21936-322869299_large.mp4",
+    "https://videos.pexels.com/video-files/35686213/15124607_2560_1440_30fps.mp4",
+    "https://videos.pexels.com/video-files/34717162/14716013_2160_3840_30fps.mp4",
+    "https://videos.pexels.com/video-files/34145271/14477495_2160_3840_60fps.mp4",
+    "https://videos.pexels.com/video-files/29354417/12650456_3840_2160_24fps.mp4",
+    "https://videos.pexels.com/video-files/40635503/17361605_1920_1080_30fps.mp4",
+    "https://videos.pexels.com/video-files/40635477/17361469_1920_1080_30fps.mp4",
+    "https://videos.pexels.com/video-files/40373649/17251367_3240_2160_25fps.mp4",
+    "https://videos.pexels.com/video-files/40373643/17251409_3240_2160_25fps.mp4",
+    "https://cdn.pixabay.com/video/2015/10/27/1192-143842659_large.mp4"
   ],
   "recentMusicUrls": [
     "https://prod-1.storage.jamendo.com/?trackid=20237&format=mp32",
@@ -2272,7 +2322,8 @@
       "WON JONG LEE"
     ],
     "Learning to read Hangul in a weekend — and why romanized signs still confuse you": [
-      "Theodore Nguyen"
+      "Theodore Nguyen",
+      "정규송 Nui MALAMA"
     ],
     "Hospital vs. clinic vs. pharmacy in Korea: where to actually go when you get sick": [
       "Theodore Nguyen",
@@ -2287,7 +2338,8 @@
       "Theodore Nguyen",
       "Nuhyil Ahammed",
       "jia yi",
-      "Maita  Cayson"
+      "Maita  Cayson",
+      "Jim (Jimothy) Natanauan"
     ],
     "The closed-on-Monday trap: how Korean palaces and museums schedule their days off": [
       "Line Knipst",
@@ -2510,6 +2562,9 @@
     ],
     "T-money transit card": [
       "Pham Huynh  Tuan Vy"
+    ],
+    "Reserving restaurants and joining waitlists in Korea: Catch Table, Naver booking, and the Tabling tablet": [
+      "Nguyễn Mẫn"
     ]
   }
 }
