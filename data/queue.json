@@ -47582,8 +47582,12 @@
       "threads"
     ],
     "scheduledAt": "2026-11-17T20:59:51.702Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18139142410710128"
+      }
+    },
     "createdAt": "2026-11-17T04:38:32.475Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -47601,7 +47605,8 @@
       "model": "groq",
       "checkedAt": "2026-11-17T04:32:00.806Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-jjimjilbang-etiquette.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-jjimjilbang-etiquette.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-18T06:43:27.589Z"
   },
   {
     "id": "cfa89509-20f7-4df0-a9d7-8e183563f00a",
@@ -48183,8 +48188,13 @@
       "mastodon"
     ],
     "scheduledAt": "2026-11-18T02:23:24.825Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "mastodon": {
+        "id": "117636085065193222",
+        "url": "https://mastodon.social/@landinkorea/117636085065193222"
+      }
+    },
     "createdAt": "2026-11-17T08:17:21.345Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -48200,7 +48210,8 @@
       "model": "groq",
       "checkedAt": "2026-11-17T08:10:49.430Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-esim-mobile-data.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-esim-mobile-data.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-18T06:43:30.138Z"
   },
   {
     "id": "5ae401c5-e081-4c3c-b43a-e7ecec30aab7",
@@ -48304,8 +48315,13 @@
       "bluesky"
     ],
     "scheduledAt": "2026-11-18T05:19:19.307Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3n2kxe74ndv22",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3n2kxe74ndv22"
+      }
+    },
     "createdAt": "2026-11-17T08:27:25.647Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -48323,7 +48339,8 @@
       "model": "groq",
       "checkedAt": "2026-11-17T08:20:53.032Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-t-money-transit-card.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-t-money-transit-card.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-18T06:43:32.391Z"
   },
   {
     "id": "0b70c7c7-f97d-44a8-b993-89ba246c6af5",
@@ -48336,8 +48353,13 @@
       "mastodon"
     ],
     "scheduledAt": "2026-11-18T05:51:15.772Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "mastodon": {
+        "id": "117636085429760421",
+        "url": "https://mastodon.social/@landinkorea/117636085429760421"
+      }
+    },
     "createdAt": "2026-11-17T08:27:25.668Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -48355,7 +48377,8 @@
       "model": "groq",
       "checkedAt": "2026-11-17T08:20:53.032Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-t-money-transit-card.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-t-money-transit-card.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-18T06:43:35.613Z"
   },
   {
     "id": "f98d9a2f-7921-4232-9fff-d758cc19c0f4",
@@ -48400,8 +48423,12 @@
       "threads"
     ],
     "scheduledAt": "2026-11-17T20:09:53.411Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18132239755693582"
+      }
+    },
     "createdAt": "2026-11-17T09:50:29.632Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -48419,7 +48446,8 @@
       "model": "groq",
       "checkedAt": "2026-11-17T09:44:17.906Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-gyeongbokgung-palace.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-gyeongbokgung-palace.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-18T06:45:34.726Z"
   },
   {
     "id": "889ad35f-1c9b-4c83-92d0-c644f98b54e6",
