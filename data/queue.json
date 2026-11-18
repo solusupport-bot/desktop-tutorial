@@ -48724,8 +48724,13 @@
       "facebook"
     ],
     "scheduledAt": "2026-11-18T00:57:08.517Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "122131979061446391",
+        "post_id": "1288453561012463_122131979085446391"
+      }
+    },
     "createdAt": "2026-11-18T00:52:56.839Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -48743,7 +48748,8 @@
       "model": "groq",
       "checkedAt": "2026-11-18T00:49:35.131Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-currency-card-payments.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-currency-card-payments.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-18T13:53:35.945Z"
   },
   {
     "id": "67a390f4-6646-4fcc-8a0c-5c1a9dae328c",
