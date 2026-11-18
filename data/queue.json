@@ -48510,7 +48510,7 @@
       "threads"
     ],
     "scheduledAt": "2026-11-17T23:36:29.491Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-17T11:18:42.144Z",
     "approved": true,
