@@ -48577,5 +48577,37 @@
       "checkedAt": "2026-11-17T17:11:20.515Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-hongdae-nightlife-and-youth-culture-district.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "ed7b838c-67f5-46ad-a383-1b0a3eccdf1b",
+    "text": "Locals do this differently than every blog post says.\n\nThe gesture that reads as rude to older Koreans isn't loud or obvious — it's how you hand someone your card.\n\nPassing money/cards with one hand, or pointing with a single finger, can read as slightly rude — using both hands or supporting your arm is a small gesture that's well received. It's common to pour drinks for others rather than yourself at a shared meal, and to wait for the eldest or host to start eating first. Did this trip you up your first time too? Drop a comment. 📖 Open the Land in Korea link in our profile and search “First-timer etiquette & common mistakes”.\n\n🇯🇵 カードやお金は両手で渡すと失礼になりません。📖 Land in Korea\n\n🇨🇳 递卡或钱时请用双手，以免显得不礼貌。📖 Land in Korea\n\n🇹🇼 遞卡或錢時請用雙手，以免顯得不禮貌。📖 Land in Korea",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794962614664-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794962614664-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-18T07:11:28.789Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-18T00:43:39.413Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/41080964/pexels-photo-41080964.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "First-timer etiquette & common mistakes",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 맞는 한국 여행 초보자 매너를 자연스럽게 설명하고, 과장된 사실 없이 유용한 정보를 제공한다",
+      "model": "groq",
+      "checkedAt": "2026-11-18T00:40:18.857Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-first-timer-etiquette-common-mistakes.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
