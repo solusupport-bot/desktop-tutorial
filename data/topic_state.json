@@ -1,5 +1,5 @@
 {
-  "lastIndex": 10,
+  "lastIndex": 15,
   "history": [
     {
       "index": 22,
@@ -449,6 +449,36 @@
       "index": 10,
       "topic": "Airport transfer options",
       "at": "2026-11-18T14:45:43.882Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 11,
+      "topic": "First-timer etiquette & common mistakes",
+      "at": "2026-11-18T15:26:22.633Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 12,
+      "topic": "Currency & card payments",
+      "at": "2026-11-18T15:43:36.420Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 13,
+      "topic": "Emergency numbers & 24hr pharmacies",
+      "at": "2026-11-18T15:50:56.700Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 14,
+      "topic": "Useful travel apps",
+      "at": "2026-11-18T16:01:40.373Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 15,
+      "topic": "Convenience store hacks",
+      "at": "2026-11-18T16:17:18.942Z",
       "source": "instagram-fill"
     }
   ],
@@ -1623,7 +1653,10 @@
     "https://images.pexels.com/photos/37475169/pexels-photo-37475169.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://pixabay.com/get/gabd10bf39480e8b17c933b7e3395480d8561c9b78b916c4fd4bdca4e5aaf15bf8de989fb97336cb5fcbf2ecaa6c8df7d8f703e7eb8a9139e3e968d475646a2fc_1280.jpg#pixabay=7747813",
     "https://images.pexels.com/photos/40792826/pexels-photo-40792826.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://images.pexels.com/photos/31986859/pexels-photo-31986859.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "https://images.pexels.com/photos/31986859/pexels-photo-31986859.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://pixabay.com/get/g5770522dfcd29b077d332b697c1a5f6e48ae6fadf6a4fa85389f6e20134a1724eb86fcbbd9e6399c78888c1c32659a2372b061eada30409bf1f90e057d4aeee4_1280.jpg#pixabay=7995870",
+    "https://pixabay.com/get/g5794ba31907fc832c8b8cc9f7b2dc913c181f2d053cca0ee69f58368f5724ff55be67cdbca597b5ab42e1558da059ea7f1dc3d2efc4ba46af00d62ccc6571949_1280.jpg#pixabay=7358078",
+    "https://images.pexels.com/photos/13163880/pexels-photo-13163880.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
   ],
   "recentVideoUrls": [
     "https://videos.pexels.com/video-files/19577787/19577787-uhd_2160_3840_30fps.mp4",
@@ -1936,7 +1969,22 @@
     "https://cdn.pixabay.com/video/2025/01/24/254449_large.mp4",
     "https://videos.pexels.com/video-files/34930311/14795938_1080_1920_30fps.mp4",
     "https://videos.pexels.com/video-files/29122933/12582126_3840_2160_24fps.mp4",
-    "https://videos.pexels.com/video-files/28967183/12531678_1920_1080_25fps.mp4"
+    "https://videos.pexels.com/video-files/28967183/12531678_1920_1080_25fps.mp4",
+    "https://videos.pexels.com/video-files/36579901/15509293_2160_3840_60fps.mp4",
+    "https://videos.pexels.com/video-files/6953901/6953901-uhd_4096_2160_25fps.mp4",
+    "https://videos.pexels.com/video-files/9588552/9588552-uhd_4096_2160_25fps.mp4",
+    "https://videos.pexels.com/video-files/8553604/8553604-uhd_2160_3840_24fps.mp4",
+    "https://videos.pexels.com/video-files/6282193/6282193-hd_1080_1920_30fps.mp4",
+    "https://videos.pexels.com/video-files/5700357/5700357-uhd_3840_2160_24fps.mp4",
+    "https://videos.pexels.com/video-files/19888801/19888801-uhd_3840_2160_24fps.mp4",
+    "https://videos.pexels.com/video-files/6529560/6529560-hd_1920_1080_30fps.mp4",
+    "https://videos.pexels.com/video-files/37168956/15746016_1920_1080_30fps.mp4",
+    "https://videos.pexels.com/video-files/7431508/7431508-uhd_4096_2160_30fps.mp4",
+    "https://videos.pexels.com/video-files/8405682/8405682-hd_1920_1080_24fps.mp4",
+    "https://videos.pexels.com/video-files/3006846/3006846-hd_1920_1080_25fps.mp4",
+    "https://videos.pexels.com/video-files/40101514/17120697_3840_2160_30fps.mp4",
+    "https://videos.pexels.com/video-files/40760259/17407770_1080_1920_30fps.mp4",
+    "https://videos.pexels.com/video-files/34164185/14483901_1080_1920_24fps.mp4"
   ],
   "recentMusicUrls": [
     "https://prod-1.storage.jamendo.com/?trackid=20237&format=mp32",
@@ -2272,7 +2320,8 @@
       "Theodore Nguyen",
       "sanynjez gao",
       "caleb charles",
-      "Cem Gizep"
+      "Cem Gizep",
+      "julia lee"
     ],
     "Useful travel apps": [
       "Theodore Nguyen"
