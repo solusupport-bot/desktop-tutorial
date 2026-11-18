@@ -1,5 +1,5 @@
 {
-  "lastIndex": 15,
+  "lastIndex": 34,
   "history": [
     {
       "index": 22,
@@ -479,6 +479,36 @@
       "index": 15,
       "topic": "Convenience store hacks",
       "at": "2026-11-18T16:17:18.942Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 16,
+      "topic": "Seasonal packing & weather tips",
+      "at": "2026-11-18T16:53:42.128Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 31,
+      "topic": "Hailing a taxi in Korea: Kakao T vs. street taxis vs. airport 'deluxe' cabs",
+      "at": "2026-11-18T17:13:56.662Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 32,
+      "topic": "Why Google Maps fails in Korea and how the road-name address system actually works",
+      "at": "2026-11-18T17:24:48.021Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 33,
+      "topic": "Seoul subway details nobody tells you: exit numbers, transfer walks, express trains, and the last train",
+      "at": "2026-11-18T17:36:04.931Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 34,
+      "topic": "Short-term vs. long-term housing in Korea: guesthouse, goshiwon, officetel, and the deposit system",
+      "at": "2026-11-18T17:47:14.063Z",
       "source": "instagram-fill"
     }
   ],
@@ -1656,7 +1686,10 @@
     "https://images.pexels.com/photos/31986859/pexels-photo-31986859.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://pixabay.com/get/g5770522dfcd29b077d332b697c1a5f6e48ae6fadf6a4fa85389f6e20134a1724eb86fcbbd9e6399c78888c1c32659a2372b061eada30409bf1f90e057d4aeee4_1280.jpg#pixabay=7995870",
     "https://pixabay.com/get/g5794ba31907fc832c8b8cc9f7b2dc913c181f2d053cca0ee69f58368f5724ff55be67cdbca597b5ab42e1558da059ea7f1dc3d2efc4ba46af00d62ccc6571949_1280.jpg#pixabay=7358078",
-    "https://images.pexels.com/photos/13163880/pexels-photo-13163880.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "https://images.pexels.com/photos/13163880/pexels-photo-13163880.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/8138276/pexels-photo-8138276.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/32284773/pexels-photo-32284773.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://pixabay.com/get/g7599765e675c1029d18406bb277f4bec62ce69a047b7c4d8ca919964137ad63b0f647348a70dc54b854b66a78181115d8bdbbc7f0d93512e13b9f3ed8077963f_1280.jpg#pixabay=2007219"
   ],
   "recentVideoUrls": [
     "https://videos.pexels.com/video-files/19577787/19577787-uhd_2160_3840_30fps.mp4",
@@ -1984,7 +2017,16 @@
     "https://videos.pexels.com/video-files/3006846/3006846-hd_1920_1080_25fps.mp4",
     "https://videos.pexels.com/video-files/40101514/17120697_3840_2160_30fps.mp4",
     "https://videos.pexels.com/video-files/40760259/17407770_1080_1920_30fps.mp4",
-    "https://videos.pexels.com/video-files/34164185/14483901_1080_1920_24fps.mp4"
+    "https://videos.pexels.com/video-files/34164185/14483901_1080_1920_24fps.mp4",
+    "https://videos.pexels.com/video-files/37429993/15852760_1440_1920_30fps.mp4",
+    "https://cdn.pixabay.com/video/2015/10/16/1052-142621416_large.mp4",
+    "https://cdn.pixabay.com/video/2018/04/11/15519-865412862_large.mp4",
+    "https://videos.pexels.com/video-files/4546853/4546853-hd_1080_1920_25fps.mp4",
+    "https://videos.pexels.com/video-files/4546864/4546864-hd_1080_1920_25fps.mp4",
+    "https://videos.pexels.com/video-files/13441334/13441334-uhd_2160_3840_24fps.mp4",
+    "https://videos.pexels.com/video-files/12153167/12153167-hd_1080_1920_30fps.mp4",
+    "https://videos.pexels.com/video-files/7251417/7251417-uhd_3840_2160_25fps.mp4",
+    "https://videos.pexels.com/video-files/16057778/16057778-uhd_2160_3840_60fps.mp4"
   ],
   "recentMusicUrls": [
     "https://prod-1.storage.jamendo.com/?trackid=20237&format=mp32",
@@ -2076,7 +2118,8 @@
       "Aibek Skakov",
       "구르미 🪴다현",
       "Theodore Nguyen",
-      "Jhany Blue"
+      "Jhany Blue",
+      "Jon Discipulo"
     ],
     "Short-term vs. long-term housing in Korea: guesthouse, goshiwon, officetel, and the deposit system": [
       "Henry Acevedo",
@@ -2335,7 +2378,8 @@
       "대정 김",
       "Alexander London",
       "Markus Winkler",
-      "Saksham Vikram"
+      "Saksham Vikram",
+      "zhengkui li"
     ],
     "Hailing a taxi in Korea: Kakao T vs. street taxis vs. airport 'deluxe' cabs": [
       "Theodore Nguyen"
