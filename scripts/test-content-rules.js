@@ -11,7 +11,10 @@ const threadText = applyPlatformLinkRule(
   'Useful Korea tip'
 );
 assert(!/https?:\/\//.test(threadText));
-assert(/link in our profile/i.test(threadText));
+// Threads는 전용 링크 답글(threads.js)이 실제 URL을 달아주므로, 링크 없는 "프로필에서
+// 검색" CTA를 본문에 또 넣지 않는다(2026-11-18 변경 — 답글 체인 조각 수를 중복 CTA가
+// 차지해 관찰/질문이 밀려나던 버그 수정).
+assert(!/link in our profile/i.test(threadText));
 assert(/Useful Korea tip/.test(threadText));
 assert(!/^📖 Full guide:\s*$/m.test(threadText));
 
