@@ -1,5 +1,5 @@
 {
-  "lastIndex": 52,
+  "lastIndex": 56,
   "history": [
     {
       "index": 22,
@@ -539,6 +539,36 @@
       "index": 52,
       "topic": "Tipping in Korea: why you shouldn't and what to do instead",
       "at": "2026-11-18T19:12:19.213Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 53,
+      "topic": "Noraebang etiquette: how Korean karaoke actually works for first-timers",
+      "at": "2026-11-18T19:53:36.184Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 39,
+      "topic": "Timing cherry blossoms and fall foliage in Korea without hitting peak crowds",
+      "at": "2026-11-18T20:07:11.063Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 54,
+      "topic": "Unmanned kiosk ordering in Korea: why humans are disappearing from the counter",
+      "at": "2026-11-18T20:24:18.486Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 55,
+      "topic": "Mobile payments in Korea: Kakao Pay, Naver Pay, and why Apple Pay doesn’t work",
+      "at": "2026-11-18T20:39:26.362Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 56,
+      "topic": "Public bathhouse culture in Korea beyond the jjimjilbang: the mogyoktang rules",
+      "at": "2026-11-18T20:50:07.468Z",
       "source": "instagram-fill"
     }
   ],
@@ -1723,7 +1753,10 @@
     "https://pixabay.com/get/g57bcb8404998c9f86569a690bdd9b94116b53a27f19e6139e9bdfa0c868f19f0ed940109dc7b7f8b0fa0412800ed0ce651fff097351f3be5815b2ffc542737fb_1280.jpg#pixabay=2422860",
     "https://pixabay.com/get/gdedc3f1567f8d382b79f9255f65c7091fe0dd2b4dfd3d239ebb7c1d37a8ab2e404697cc9ffd8c6f7c9a964f6c190d4d059a2c13315703d9de737782e563fa2ca_1280.jpg#pixabay=2470351",
     "https://images.pexels.com/photos/36931282/pexels-photo-36931282.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://pixabay.com/get/g9fa7e3ea4c238b551a2a2102704ce9f32576f88beeac870e1a72926235eeef8e96283b8e46f0cdbfb43871c44983d990d040b332f0e97a9b4f4382b5a22ac157_1280.jpg#pixabay=5533707"
+    "https://pixabay.com/get/g9fa7e3ea4c238b551a2a2102704ce9f32576f88beeac870e1a72926235eeef8e96283b8e46f0cdbfb43871c44983d990d040b332f0e97a9b4f4382b5a22ac157_1280.jpg#pixabay=5533707",
+    "https://pixabay.com/get/g10f08f2161343bf8b75dcefd2727e349867e4506e2ec7309f547c85117ee4c356981ec92aab3b73052be23d57a4143c1b43c4a75cea91586d24aae3e5fbc41d1_1280.jpg#pixabay=7818476",
+    "https://images.pexels.com/photos/31680723/pexels-photo-31680723.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/29956395/pexels-photo-29956395.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
   ],
   "recentVideoUrls": [
     "https://videos.pexels.com/video-files/19577787/19577787-uhd_2160_3840_30fps.mp4",
@@ -2075,7 +2108,19 @@
     "https://videos.pexels.com/video-files/8045158/8045158-hd_1920_1080_25fps.mp4",
     "https://videos.pexels.com/video-files/4393482/4393482-hd_1920_1080_30fps.mp4",
     "https://videos.pexels.com/video-files/40409469/17265700_1080_1920_25fps.mp4",
-    "https://cdn.pixabay.com/video/2016/02/29/2339-157269920_large.mp4"
+    "https://cdn.pixabay.com/video/2016/02/29/2339-157269920_large.mp4",
+    "https://videos.pexels.com/video-files/38004219/16128428_1920_1080_30fps.mp4",
+    "https://videos.pexels.com/video-files/4182664/4182664-hd_1920_1080_30fps.mp4",
+    "https://videos.pexels.com/video-files/31418620/13403071_3840_2160_30fps.mp4",
+    "https://videos.pexels.com/video-files/41088110/17587938_2160_3840_30fps.mp4",
+    "https://videos.pexels.com/video-files/6529445/6529445-hd_1920_1080_30fps.mp4",
+    "https://videos.pexels.com/video-files/41045270/17565178_2160_3840_30fps.mp4",
+    "https://videos.pexels.com/video-files/5404979/5404979-uhd_2160_3840_25fps.mp4",
+    "https://cdn.pixabay.com/video/2024/03/04/202987-919379330_large.mp4",
+    "https://cdn.pixabay.com/video/2020/05/04/38084-416330724_large.mp4",
+    "https://videos.pexels.com/video-files/34237015/14509347_2160_3840_24fps.mp4",
+    "https://videos.pexels.com/video-files/34237021/14509474_2160_3840_24fps.mp4",
+    "https://videos.pexels.com/video-files/6616516/6616516-hd_1920_1080_25fps.mp4"
   ],
   "recentMusicUrls": [
     "https://prod-1.storage.jamendo.com/?trackid=20237&format=mp32",
@@ -2216,13 +2261,15 @@
       "Ken Benitez",
       "정규송 Nui MALAMA",
       "Angelina Rodionow",
-      "Naufal Shidqi"
+      "Naufal Shidqi",
+      "Theodore Nguyen"
     ],
     "Public bathhouse culture in Korea beyond the jjimjilbang: the mogyoktang rules": [
       "Henry Acevedo",
       "FranKai Silva",
       "Jinoni J",
-      "Co Hai"
+      "Co Hai",
+      "WON JONG LEE"
     ],
     "Learning to read Hangul in a weekend — and why romanized signs still confuse you": [
       "Theodore Nguyen"
