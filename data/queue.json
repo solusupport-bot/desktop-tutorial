@@ -48817,5 +48817,37 @@
       "checkedAt": "2026-11-18T04:13:55.805Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-jjimjilbang-etiquette.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "68f4a851-17b6-421a-b4fe-dfe95df5d4ef",
+    "text": "It's Seoul's largest palace, built in 1395, with the National Folk Museum inside the same grounds.\n\nFull guide in the comments 👇\n\n🇯🇵 ソウル最大の宮殿で、1395年に建てられ、同じ敷地内に国立民俗博物館があります。\nコメントで全文ガイド👇\n\n🇨🇳 这是首尔最大的宫殿，建于1395年，同一园区内设有国立民俗博物馆。\n完整指南在评论中 👇\n\n🇹🇼 這是首爾最大的宮殿，建於1395年，同一園區內設有國立民俗博物館。\n完整指南在評論中 👇",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794976398577-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794976398577-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-18T22:30:33.393Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-18T04:33:22.084Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/5051606/pexels-photo-5051606.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/40352273/17240917_3840_2160_24fps.mp4",
+    "videoAttribution": null,
+    "topic": "Gyeongbokgung Palace",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제에 맞고 사실도 정확하며 문장이 자연스러워 여행 팁으로 충분히 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-18T04:29:56.768Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-gyeongbokgung-palace.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]
