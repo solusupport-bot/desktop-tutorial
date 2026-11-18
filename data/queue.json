@@ -48397,8 +48397,13 @@
       "tumblr"
     ],
     "scheduledAt": "2026-11-18T07:49:58.072Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "tumblr": {
+        "id": "833617093849219072",
+        "url": "https://landinkorea.tumblr.com/post/833617093849219072"
+      }
+    },
     "createdAt": "2026-11-17T08:27:25.688Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -48416,7 +48421,8 @@
       "model": "groq",
       "checkedAt": "2026-11-17T08:20:53.032Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-t-money-transit-card.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-t-money-transit-card.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-18T10:53:32.633Z"
   },
   {
     "id": "65037f72-c1b0-4730-959d-c531fb467845",
@@ -48536,8 +48542,13 @@
       "facebook"
     ],
     "scheduledAt": "2026-11-18T00:05:16.880Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "122131917651446391",
+        "post_id": "1288453561012463_122131917675446391"
+      }
+    },
     "createdAt": "2026-11-17T11:26:00.034Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -48555,7 +48566,8 @@
       "model": "groq",
       "checkedAt": "2026-11-17T11:22:26.099Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-busan-haeundae-beach-gamcheon-culture-village.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-busan-haeundae-beach-gamcheon-culture-village.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-18T10:53:37.447Z"
   },
   {
     "id": "0e7fd3ce-1309-4806-ae9c-2e4b10f4731d",
