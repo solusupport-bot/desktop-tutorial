@@ -48680,5 +48680,32 @@
       "checkedAt": "2026-11-18T02:11:29.593Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-useful-travel-apps.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "fa1d4eab-983c-4d19-aee5-8f33a4a0fdca",
+    "text": "The cheapest breakfast in Korea isn't a restaurant — it's the convenience store counter most tourists walk straight past.\n\nCoffee and toast/sandwich combos are a fast, cheap option when nothing else is open early.\n\nMany locations sell single-dose medicine (painkillers, cold medicine) since Korean pharmacy hours can be limited, though selection is basic.\n\nFull guide in the comments 👇\n\n🇯🇵 韓国で一番安い朝食はレストランではなく、観光客が真っ直ぐ通り過ぎてしまうコンビニのカウンターです。\\n\\nコーヒーとトースト／サンドイッチのセットは、他に早く開いているところがないときの手軽で安い選択肢です。\\n\\n多くの店舗で、痛み止めや風邪薬などの1回分サイズの医薬品が販売されています。韓国の薬局は営業時間が限られることがあるためですが、品揃えは基本的にシンプルです。\\n\\n詳細はコメントで👇\n\n🇨🇳 在韩国最便宜的早餐不是餐馆，而是大多数游客直接路过的便利店柜台。\\n\\n咖啡搭配吐司/三明治套餐是早晨没有其他店开门时的快速、廉价选择。\\n\\n许多地点都有单剂量的药品（止痛药、感冒药），因为韩国药店的营业时间可能有限，虽然品种比较基础。\\n\\n完整指南在评论👇\n\n🇹🇼 在韓國最便宜的早餐不是餐廳，而是大多數遊客直接路過的便利商店櫃檯。\\n\\n咖啡搭配吐司/三明治套餐是早上沒有其他店鋪開門時的快速、便宜選擇。\\n\\n許多地方都有單劑量藥品（止痛藥、感冒藥），因為韓國藥局的營業時間可能有限，雖然品項較基礎。\\n\\n完整指南在留言👇",
+    "imageUrl": null,
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-18T22:44:56.675Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-18T02:27:08.221Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Convenience store hacks",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제에 맞고 문장이 자연하며 사실도 과장되지 않아 여행자에게 유용한 정보가 포함돼 있습니다",
+      "model": "groq",
+      "checkedAt": "2026-11-18T02:22:52.212Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-convenience-store-hacks.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]
