@@ -1,5 +1,5 @@
 {
-  "lastIndex": 1,
+  "lastIndex": 2,
   "history": [
     {
       "index": 22,
@@ -348,6 +348,12 @@
       "topic": "Bukchon Hanok Village",
       "at": "2026-11-18T04:53:37.181Z",
       "source": "instagram-fill"
+    },
+    {
+      "index": 2,
+      "topic": "N Seoul Tower (Namsan)",
+      "at": "2026-11-18T05:06:27.448Z",
+      "source": "threads-fill"
     }
   ],
   "recentImageUrls": [
@@ -1496,7 +1502,8 @@
     "https://pixabay.com/get/g6296033878b991fc9b4aa6f85acbc5ab3bc94a0952dde6ef75253fb7366b862c055d59224e9128e1a18307bd33b915fa9169e28ea54ff3ae30cd550eb6051490_1280.jpg#pixabay=3315324",
     "https://images.pexels.com/photos/11873176/pexels-photo-11873176.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://images.pexels.com/photos/5051606/pexels-photo-5051606.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://images.pexels.com/photos/1637792/pexels-photo-1637792.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "https://images.pexels.com/photos/1637792/pexels-photo-1637792.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/8573189/pexels-photo-8573189.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
   ],
   "recentVideoUrls": [
     "https://videos.pexels.com/video-files/19577787/19577787-uhd_2160_3840_30fps.mp4",
@@ -1992,7 +1999,8 @@
       "Hyeok Jang",
       "Markus Winkler",
       "Paul De Vota",
-      "Theodore Nguyen"
+      "Theodore Nguyen",
+      "Анна Шаталова"
     ],
     "Busan Haeundae Beach & Gamcheon Culture Village": [
       "Sean Hwang",
