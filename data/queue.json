@@ -48609,5 +48609,37 @@
       "checkedAt": "2026-11-18T00:40:18.857Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-first-timer-etiquette-common-mistakes.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "9d66b846-3bed-48a1-9349-e92b286cf75f",
+    "text": "Airport and city-center ATMs marked 'Global' or with a foreign card logo accept international cards; look for Woori, KEB Hana, or 7-Eleven ATMs for the most reliable acceptance.\n\nFull guide in the comments 👇\n\n🇯🇵 空港や市内中心部の「Global」や外貨カードロゴの付いたATMは国際カードが利用できます。最も確実に利用できるのは、ウリ、KEBハナ、またはセブンイレブンのATMです。\n\n詳細はコメントでご確認ください 👇\n\n🇨🇳 在机场和市中心标有“Global”或外币卡标志的ATM可接受国际卡；请寻找Woori、KEB Hana或7‑Eleven的ATM，以获得最可靠的使用体验。\n\n完整指南在评论中 👇\n\n🇹🇼 在機場和市中心標有「Global」或外幣卡標誌的ATM可接受國際卡；請尋找Woori、KEB Hana或7‑Eleven的ATM，以獲得最可靠的使用體驗。\n\n完整指南在評論中 👇",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794963171619-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794963171619-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-18T00:57:08.517Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-18T00:52:56.839Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g47aaa3448ebbfe3c6aa7ba9e699b672427b5e8be6ecbfe4b2728fb4dd7887daccc9d4c04abd1ca0f4e83f2f7117f79c69c4bdd3a55fa75fe43cfb43a53e805f2_1280.jpg#pixabay=2707579"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Currency & card payments",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽으며, 제시된 정보도 과장되지 않아 여행자에게 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-18T00:49:35.131Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-currency-card-payments.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]
