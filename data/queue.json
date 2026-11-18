@@ -48221,8 +48221,13 @@
       "tumblr"
     ],
     "scheduledAt": "2026-11-18T04:20:22.058Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "tumblr": {
+        "id": "833605767078772736",
+        "url": "https://landinkorea.tumblr.com/post/833605767078772736"
+      }
+    },
     "createdAt": "2026-11-17T08:17:21.364Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -48238,7 +48243,8 @@
       "model": "groq",
       "checkedAt": "2026-11-17T08:10:49.430Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-esim-mobile-data.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-esim-mobile-data.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-18T07:53:30.284Z"
   },
   {
     "id": "f00283ec-c0e6-42c4-9679-b910572b21d2",
@@ -48594,8 +48600,13 @@
       "facebook"
     ],
     "scheduledAt": "2026-11-17T23:55:38.243Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "122131865673446391",
+        "post_id": "1288453561012463_122131865703446391"
+      }
+    },
     "createdAt": "2026-11-17T13:02:43.948Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -48613,7 +48624,8 @@
       "model": "groq",
       "checkedAt": "2026-11-17T12:59:07.193Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-t-money-transit-card.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-t-money-transit-card.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-18T07:53:34.621Z"
   },
   {
     "id": "79c51133-be86-459d-a36f-0f348d970bc5",
