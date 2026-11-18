@@ -47689,8 +47689,13 @@
       "facebook"
     ],
     "scheduledAt": "2026-11-17T23:09:33.366Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "122131840275446391",
+        "post_id": "1288453561012463_122131840299446391"
+      }
+    },
     "createdAt": "2026-11-17T07:03:35.694Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -47708,7 +47713,8 @@
       "model": "groq",
       "checkedAt": "2026-11-17T07:00:27.500Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-myeongdong-shopping-district.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-myeongdong-shopping-district.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-18T04:53:34.743Z"
   },
   {
     "id": "e43cf607-9926-4b3f-a204-02b8c5cd65fe",
@@ -47893,8 +47899,13 @@
       "tumblr"
     ],
     "scheduledAt": "2026-11-18T04:18:48.667Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "tumblr": {
+        "id": "833594448436936704",
+        "url": "https://landinkorea.tumblr.com/post/833594448436936704"
+      }
+    },
     "createdAt": "2026-11-17T07:56:31.761Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -47912,7 +47923,8 @@
       "model": "groq",
       "checkedAt": "2026-11-17T07:49:58.513Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-busan-haeundae-beach-gamcheon-culture-village.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-busan-haeundae-beach-gamcheon-culture-village.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-18T04:53:35.982Z"
   },
   {
     "id": "1933f442-d334-47c9-82c4-a217d3806b95",
