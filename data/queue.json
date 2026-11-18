@@ -48753,5 +48753,37 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-18T03:50:12.945Z",
     "blogUrl": "https://landinkorea.com/posts/korea-hailing-a-taxi-in-korea-kakao-t-vs-street-taxis-vs-airport-deluxe-cabs.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "78da6ff5-1530-414a-86ff-9c48d5c8c325",
+    "text": "Google Maps can show you subway and bus routes in Korea, but it can't give full driving or detailed walking directions, because national law restricts exporting precise mapping data to overseas servers.\n\nLocals use Naver Map or Kakao Map instead, both of which have English interfaces and are far more accurate for walking, bus arrivals, and indoor subway exits.\n\nBusiness hours, menus, and 'currently open' info are also much more reliable on the Korean apps, since that's where shops actually register themselves.\n\nFull guide in the comments 👇\n\n🇯🇵 Google Maps は韓国の地下鉄やバス路線を表示できますが、国内法で正確な地図データの海外サーバーへの送信が制限されているため、完全な運転や詳細な徒歩案内は提供できません。現地では代わりに Naver Map や Kakao Map が使われており、どちらも英語インターフェースがあり、徒歩やバスの到着、駅構内の出口などははるかに正確です。営業時間、メニュー、‘現在営業中’ の情報も、店舗が実際に登録している韓国アプリの方がはるかに信頼できます。コメントに完全ガイドがあります👇\n\n🇨🇳 Google Maps 可以显示韩国的地铁和公交线路，但由于国家法律限制将精确地图数据导出到海外服务器，无法提供完整的驾车或详细的步行路线。当地人改用 Naver Map 或 Kakao Map，两者都有英文界面，步行、公交到站以及地铁站内出口的导航更为精准。营业时间、菜单和“当前营业”信息在这些韩国应用上也更可靠，因为店铺都是在这些平台上自行登记的。完整指南在评论中👇\n\n🇹🇼 Google Maps 可以顯示韓國的地鐵和公車路線，但因為國家法律限制將精確地圖資料匯出至海外伺服器，無法提供完整的駕駛或詳細的步行指示。當地人改用 Naver Map 或 Kakao Map，兩者皆有英文介面，步行、公交到站以及地鐵站內出口的導航更為精準。營業時間、菜單和「目前營業」資訊在這些韓國應用上也更可靠，因為店家都是在這些平台上自行註冊的。完整指南在留言中👇",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1794974230042-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1794974230042-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-18T22:48:01.709Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-18T03:57:20.389Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g6296033878b991fc9b4aa6f85acbc5ab3bc94a0952dde6ef75253fb7366b862c055d59224e9128e1a18307bd33b915fa9169e28ea54ff3ae30cd550eb6051490_1280.jpg#pixabay=3315324"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Why Google Maps fails in Korea and how the road-name address system actually works",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽고 사실도 과장되지 않아 여행자에게 유용합니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-18T03:53:53.346Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-why-google-maps-fails-in-korea-and-how-the-road-name-address-system-actually-works.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]
