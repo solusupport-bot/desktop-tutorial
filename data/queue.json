@@ -47801,8 +47801,13 @@
       "facebook"
     ],
     "scheduledAt": "2026-11-18T01:25:13.047Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "122132010759446391",
+        "post_id": "1288453561012463_122132010783446391"
+      }
+    },
     "createdAt": "2026-11-17T07:56:31.699Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -47820,7 +47825,8 @@
       "model": "groq",
       "checkedAt": "2026-11-17T07:49:58.513Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-busan-haeundae-beach-gamcheon-culture-village.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-busan-haeundae-beach-gamcheon-culture-village.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-18T16:53:40.880Z"
   },
   {
     "id": "fba45baa-c37a-4077-856f-9ada6e586caa",
