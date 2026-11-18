@@ -47812,8 +47812,13 @@
       "bluesky"
     ],
     "scheduledAt": "2026-11-18T01:47:08.092Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3n2kh5hgwbl2s",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3n2kh5hgwbl2s"
+      }
+    },
     "createdAt": "2026-11-17T07:56:31.723Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -47831,7 +47836,8 @@
       "model": "groq",
       "checkedAt": "2026-11-17T07:49:58.513Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-busan-haeundae-beach-gamcheon-culture-village.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-busan-haeundae-beach-gamcheon-culture-village.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-18T01:53:26.962Z"
   },
   {
     "id": "ce26bc55-66b1-4c6e-8d6a-5f2415f34ca6",
@@ -48397,8 +48403,13 @@
       "facebook"
     ],
     "scheduledAt": "2026-11-17T22:30:51.021Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "122131766907446391",
+        "post_id": "1288453561012463_122131766931446391"
+      }
+    },
     "createdAt": "2026-11-17T10:05:42.121Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -48416,7 +48427,8 @@
       "model": "groq",
       "checkedAt": "2026-11-17T09:59:07.541Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-bukchon-hanok-village.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-bukchon-hanok-village.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-18T01:53:40.608Z"
   },
   {
     "id": "ab7d8514-9f7c-4abb-8453-aa3226b10313",
