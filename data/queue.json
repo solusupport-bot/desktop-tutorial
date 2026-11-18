@@ -47812,7 +47812,7 @@
       "bluesky"
     ],
     "scheduledAt": "2026-11-18T01:47:08.092Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-17T07:56:31.723Z",
     "approved": true,
@@ -48397,7 +48397,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-11-17T22:30:51.021Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-17T10:05:42.121Z",
     "approved": true,
