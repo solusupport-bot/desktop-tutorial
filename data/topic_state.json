@@ -1,5 +1,5 @@
 {
-  "lastIndex": 55,
+  "lastIndex": 56,
   "history": [
     {
       "index": 22,
@@ -894,6 +894,12 @@
       "topic": "Mobile payments in Korea: Kakao Pay, Naver Pay, and why Apple Pay doesn’t work",
       "at": "2026-11-19T12:53:43.472Z",
       "source": "threads-fill"
+    },
+    {
+      "index": 56,
+      "topic": "Public bathhouse culture in Korea beyond the jjimjilbang: the mogyoktang rules",
+      "at": "2026-11-19T13:05:09.330Z",
+      "source": "facebook-fill"
     }
   ],
   "recentImageUrls": [
@@ -2123,7 +2129,8 @@
     "https://images.pexels.com/photos/10858023/pexels-photo-10858023.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://images.pexels.com/photos/28581730/pexels-photo-28581730.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://pixabay.com/get/gb11e62d970fe22fe1bfa35c2b54060ed55397387dfa00c28b6e415a78e7ed605539a464087714f6c7c6ffeda047649f4dae6ff30aa7c363c09b17ddc0f713194_1280.jpg#pixabay=3565705",
-    "https://images.pexels.com/photos/33608664/pexels-photo-33608664.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "https://images.pexels.com/photos/33608664/pexels-photo-33608664.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://pixabay.com/get/g69de8ce1e4e1558c8c11dce4399f73d760718440b7d50e14c903b3f7b60cde7fef390a474417eb752d2a08048ddbf8349242b22f32fce00b04814d30daf44943_1280.jpg#pixabay=4617481"
   ],
   "recentVideoUrls": [
     "https://videos.pexels.com/video-files/19577787/19577787-uhd_2160_3840_30fps.mp4",
@@ -2616,7 +2623,10 @@
     "https://cdn.pixabay.com/video/2026/10/24/384776_large.mp4",
     "https://cdn.pixabay.com/video/2024/02/15/200636-913478601_large.mp4",
     "https://cdn.pixabay.com/video/2022/02/21/108458-680697604_large.mp4",
-    "https://cdn.pixabay.com/video/2022/12/12/142641-780599369_large.mp4"
+    "https://cdn.pixabay.com/video/2022/12/12/142641-780599369_large.mp4",
+    "https://videos.pexels.com/video-files/7224700/7224700-uhd_4096_2160_25fps.mp4",
+    "https://videos.pexels.com/video-files/5978809/5978809-uhd_4096_2160_24fps.mp4",
+    "https://videos.pexels.com/video-files/34264671/14517558_3840_2160_25fps.mp4"
   ],
   "recentMusicUrls": [
     "https://prod-1.storage.jamendo.com/?trackid=20237&format=mp32",
@@ -2710,6 +2720,7 @@
     "https://prod-1.storage.jamendo.com/?trackid=693092&format=mp32",
     "https://prod-1.storage.jamendo.com/?trackid=506497&format=mp32",
     "https://prod-1.storage.jamendo.com/?trackid=13488&format=mp32",
+    "https://prod-1.storage.jamendo.com/?trackid=665946&format=mp32",
     "https://prod-1.storage.jamendo.com/?trackid=665946&format=mp32",
     "https://prod-1.storage.jamendo.com/?trackid=665946&format=mp32",
     "https://prod-1.storage.jamendo.com/?trackid=665946&format=mp32"

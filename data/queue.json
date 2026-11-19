@@ -51117,5 +51117,36 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-19T13:05:07.611Z",
     "blogUrl": "https://landinkorea.com/posts/korea-mobile-payments-in-korea-kakao-pay-naver-pay-and-why-apple-pay-doesn-t-work.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "48cd12ea-0b4c-4f1e-8ea3-58910bbfeec9",
+    "text": "You lose money without knowing it if you tap your T-money card twice at the mogyoktang.\nShowering thoroughly before entering any shared tub is a hard rule, not a suggestion.\nThe scrub service is a separate paid add-on inside most mogyoktang.\n📖 Full guide: https://english.visitkorea.or.kr\n\n🎬 Video source: Pexels\n\n🎵 \"Anima Pop - Ink\" by Vienna In Love is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.\n\n🇯🇵 タップすると無意識の負債が生まれます。モギョクタンのシャワールールは厳格です。\n\nタップすると無意識の負債が生まれます。モギョクタンのシャワールールは厳格です。\n\nモギョクタンではスクラブサービスは別途料金で利用できます。\n\n📖 详细指南: https://english.visitkorea.or.kr\n\n🎬 视频来源: Pexels\n\n🎵 \"Anima Pop - Ink\" by Vienna In Love 是根据 CC BY-SA 3.0 授权许可的。要查看该许可证的副本，请访问 https://creativecommons.org/licenses/by-sa/3.0/。\n\n🇨🇳 如果你在mogyoktang里连续两次刷卡，你可能会无意中损失钱。\n\n在进入任何共用浴缸之前，必须彻底洗澡。\n\n在mogyoktang里，擦洗服务是单独收费的附加服务。\n\n📖 全部指南：https://english.visitkorea.or.kr\n\n🎬 视频来源：Pexels\n\n🎵 \"Anima Pop - Ink\" by Vienna In Love 根据 CC BY-SA 3.0 授权许可。要查看该许可证的副本，请访问 https://creativecommons.org/licenses/by-sa/3.0/。\n\n🇹🇼 如果你在mogyoktang裡連續兩次刷卡，你可能會無意中損失錢。\n\n在進入任何共用浴缸之前，必須徹底洗澡。\n\n在mogyoktang裡，擦洗服務是單獨收費的附加服務。\n\n📖 全部指南：https://english.visitkorea.or.kr\n\n🎬 影片來源：Pexels\n\n🎵 \"Anima Pop - Ink\" by Vienna In Love 根據 CC BY-SA 3.0 授權許可。要查看該許可證的副本，請訪問 https://creativecommons.org/licenses/by-sa/3.0/。",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1795094159019-instagram.mp4",
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-19T22:04:08.827Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-19T13:16:06.957Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g69de8ce1e4e1558c8c11dce4399f73d760718440b7d50e14c903b3f7b60cde7fef390a474417eb752d2a08048ddbf8349242b22f32fce00b04814d30daf44943_1280.jpg#pixabay=4617481"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/7224700/7224700-uhd_4096_2160_25fps.mp4",
+    "videoAttribution": "Pexels",
+    "topic": "Public bathhouse culture in Korea beyond the jjimjilbang: the mogyoktang rules",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련 있으며 문장이 자연스럽고 여행자에게 유용한 정보를 제공합니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-19T13:12:27.425Z",
+      "pattern": "E"
+    },
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]
