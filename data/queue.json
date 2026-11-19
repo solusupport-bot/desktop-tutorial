@@ -49706,5 +49706,38 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-19T00:33:35.171Z",
     "blogUrl": "https://landinkorea.com/posts/korea-ktx-vs-srt-vs-intercity-bus-for-long-distance-travel.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "931f1d90-190b-44cc-a148-1243921ecaba",
+    "text": "Everyone assumes this works the same as back home. It doesn't. Bukchon Hanok Village is a real residential neighborhood, not a museum — people actually live in those hanok houses. Some alleys post 'quiet please' signs after hours out of respect. The best photo spot near Gahoe-dong gets crowded fast in the morning. Did you know people still lived there?\n\n🇯🇵 実際に住んでいる地区です。夜間は静かにしていただくように記載されている場所もあります。\n\n🇨🇳 这里是真正的居住区，晚上也会有「请保持安静」的标语\n\n🇹🇼 這裡是真正的居住區，晚上也會有「請保持靜音」的標語",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795060142295-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795060142295-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-19T06:52:50.468Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-19T03:49:04.416Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/gb9529ae077cc545427b38c787a62e0febcb0309a765d5ea13a47682a0f34bef6f26fd546ad54caf178f5677623e4ab6dc042156f740f1cc9466e600587ce206a_1280.jpg#pixabay=5976962"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Bukchon Hanok Village",
+    "qualityGate": {
+      "pass": true,
+      "reason": "캡션은 주제와 관련이 있고 자연스럽게 구성되어 있으며, 과장된 사실 주장도 없는 것으로 판단된다.",
+      "model": "groq",
+      "checkedAt": "2026-11-19T03:45:46.385Z",
+      "pattern": "C"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-bukchon-hanok-village.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
