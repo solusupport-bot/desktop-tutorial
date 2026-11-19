@@ -49667,5 +49667,39 @@
       "pattern": "A"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-luggage-storage-forwarding-services.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "1eccd0fd-18c9-4edb-bdf9-735a705d809f",
+    "text": "🚂 KTX vs SRT: Which high-speed rail is right for you?\n\nStandard-class KTX tickets from Seoul to Busan cost ₩54,400.\n\nSRT departures from Suseo Station are just as frequent as KTX from Seoul Station.\n\n📖 Full guide: https://landinkorea.com/posts/korea-ktx-vs-srt-vs-intercity-bus-for-long-distance-travel.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post\n\n🇯🇵 🚂 KTX vs SRT: どちらの高速鉄道が自分に合っている？\n\nソウルから釜山へのスタンダードクラスKTXの運賃は ₩54,400 です。\n\nスエソ駅発のSRTは、ソウル駅発のKTXと同じくらい頻繁に運行しています。\n\n📖 完全ガイド: https://landinkorea.com/posts/korea-ktx-vs-srt-vs-intercity-bus-for-long-distance-travel.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post\n\n🇨🇳 🚂 KTX vs SRT：哪条高速铁路更适合你？\n\n首尔至釜山的标准舱KTX票价为 ₩54,400。\n\n苏西欧站出发的SRT班次与首尔站的KTX一样频繁。\n\n📖 完整指南: https://landinkorea.com/posts/korea-ktx-vs-srt-vs-intercity-bus-for-long-distance-travel.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post\n\n🇹🇼 🚂 KTX vs SRT：哪條高速鐵路更適合你？\n\n首爾至釜山的標準艙KTX票價為 ₩54,400。\n\n水西站發車的SRT班次與首爾站的KTX同樣頻繁。\n\n📖 完整指南: https://landinkorea.com/posts/korea-ktx-vs-srt-vs-intercity-bus-for-long-distance-travel.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795048387257-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795048387257-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-19T00:53:10.777Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-19T00:33:35.194Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g13eec8da9a26272ddf834fbeb20bdbac4a27df6a5c49acdead42691643640e4fe7e35a5989b2a326e71635811784d1135d80c1b0f362c666d2ec1b82c1f8d71e_1280.jpg#pixabay=3436541"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/36746420/15573098_1080_1920_25fps.mp4",
+    "videoAttribution": null,
+    "topic": "KTX vs. SRT vs. intercity bus for long-distance travel",
+    "qualityGate": {
+      "pass": false,
+      "reason": "캡션이 KTX와 SRT는 다루지만 intercity bus에 대한 언급이 없어 주제와 완전히 일치하지 않습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-19T00:33:01.126Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-19T00:33:35.171Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-ktx-vs-srt-vs-intercity-bus-for-long-distance-travel.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]
