@@ -49634,5 +49634,38 @@
       "checkedAt": "2026-11-18T08:05:47.431Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-esim-mobile-data.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "1d8e6565-639e-4caf-b235-1bf82c5d1df7",
+    "text": "Don't drag your bags through Seoul's crowded transit during rush hour before an early flight. Same-day luggage forwarding can send your bags from your hotel straight to the airport (or another hotel) so you can spend your last day sightseeing hands-free. Book at least a day in advance, since same-day requests aren't always guaranteed. I had to drag my bag through the subway twice during rush hour before finding out about forwarding services. How did you handle your last day in Korea?\n\nSame-day luggage forwarding services are available at major hotels and can send your bags to the airport or another hotel. You can book these services through your hotel's concierge or a third-party provider like Klook. I wish I had known about these services earlier. What's the most stressful part of traveling for you?\n\nThe cost of same-day luggage forwarding varies depending on the provider and the distance, but it's usually around $10-$20. Some hotels may also charge a handling fee. It's worth the convenience, though. Have you ever used luggage forwarding services? Be sure to book your luggage forwarding service at least a day in advance to ensure availability. Some providers may not guarantee same-day delivery. What's your go-to method for handling luggage on your last day in Korea? If you're looking for more tips on navigating Korea's airports and public transportation, check out our link in the profile.\n\n🇯🇵 早朝の飛行機に間に合うように、直前までバッグを通る必要がない。ホテルから空港や別のホテルまでバッグを送るサービスが利用できる。事前予約は必須。\n\n🇨🇳 不想在高峰时段拖着行李在地铁中穿梭。酒店可以提供当日送货服务，直接将行李从酒店送到机场或其他酒店。事先预订至少一天，事前预订并非总是保证。\n\n🇹🇼 不想在高峰時段拖著行李在地鐵中穿梭。酒店可以提供當日送貨服務，直接將行李從酒店送到機場或其他酒店。事先預訂至少一天，事前預訂並非總是保證。",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795047696945-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795047696945-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-19T09:59:20.449Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-19T00:21:39.407Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/40101992/pexels-photo-40101992.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/37364032/15825475_1080_1920_30fps.mp4",
+    "videoAttribution": null,
+    "topic": "Luggage storage & forwarding services",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제에 부합하고 문장이 자연하며 사실도 크게 문제 없고 여행자에게 유용한 정보가 포함돼 있습니다",
+      "model": "groq",
+      "checkedAt": "2026-11-19T00:18:12.148Z",
+      "pattern": "A"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-luggage-storage-forwarding-services.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
