@@ -1,5 +1,5 @@
 {
-  "lastIndex": 32,
+  "lastIndex": 33,
   "history": [
     {
       "index": 22,
@@ -828,6 +828,12 @@
       "topic": "Why Google Maps fails in Korea and how the road-name address system actually works",
       "at": "2026-11-19T08:45:36.063Z",
       "source": "threads-fill"
+    },
+    {
+      "index": 33,
+      "topic": "Seoul subway details nobody tells you: exit numbers, transfer walks, express trains, and the last train",
+      "at": "2026-11-19T08:59:26.764Z",
+      "source": "facebook-fill"
     }
   ],
   "recentImageUrls": [
@@ -2523,7 +2529,10 @@
     "https://cdn.pixabay.com/video/2016/05/12/3180-166339024_large.mp4",
     "https://cdn.pixabay.com/video/2016/09/05/4941-181472380_large.mp4",
     "https://cdn.pixabay.com/video/2020/06/17/42408-431511624_large.mp4",
-    "https://cdn.pixabay.com/video/2016/05/12/3176-166338965_large.mp4"
+    "https://cdn.pixabay.com/video/2016/05/12/3176-166338965_large.mp4",
+    "https://videos.pexels.com/video-files/17423578/17423578-hd_1920_1080_60fps.mp4",
+    "https://videos.pexels.com/video-files/3134591/3134591-uhd_3840_2160_24fps.mp4",
+    "https://cdn.pixabay.com/video/2022/10/21/135957-764370996_large.mp4"
   ],
   "recentMusicUrls": [
     "https://prod-1.storage.jamendo.com/?trackid=20237&format=mp32",
@@ -2613,7 +2622,8 @@
     "https://prod-1.storage.jamendo.com/?trackid=788173&format=mp32",
     "https://prod-1.storage.jamendo.com/?trackid=74416&format=mp32",
     "https://prod-1.storage.jamendo.com/?trackid=1670594&format=mp32",
-    "https://prod-1.storage.jamendo.com/?trackid=166402&format=mp32"
+    "https://prod-1.storage.jamendo.com/?trackid=166402&format=mp32",
+    "https://prod-1.storage.jamendo.com/?trackid=693092&format=mp32"
   ],
   "topicPhotographers": {
     "Why Google Maps fails in Korea and how the road-name address system actually works": [

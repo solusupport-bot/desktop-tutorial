@@ -50802,5 +50802,43 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-19T08:59:24.636Z",
     "blogUrl": "https://landinkorea.com/posts/korea-why-google-maps-fails-in-korea-and-how-the-road-name-address-system-actually-works.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "4f87ef9d-7c69-4d94-839f-3cf2a397e1e3",
+    "text": "Large stations can have a dozen or more exits spread over several blocks. Coming up at the wrong one can mean a ten-minute walk back underground. Naver and Kakao Map both tell you which exit to use. 📖 Full guide: https://www.seoulmetro.co.kr/en/\n\n🎬 Video source: Pexels\n\n🎵 \"Hip Pop 1\" by Gianni is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.\n\n🇯🇵 大きな駅では、複数の出口が複数のブロックにわたってあります。間違った出口に上がってしまうと、地下まで10分歩くことになります。NaverやKakao Mapはどの出口を使うかを教えてくれます。 📖 詳細ガイド: https://www.seoulmetro.co.kr/en/ \n\n🇨🇳 大型车站可能有十几或以上的出入口，分布在多个街区。走错一个出入口可能需要走回地铁站10分钟。Naver和Kakao Map都可以告诉你哪个出入口使用。 📖 全部指南: https://www.seoulmetro.co.kr/en/ \n\n🇹🇼 大型車站可能有十餘個或以上的出口，分布在多個街區。走錯一個出口可能需要走回地鐵站10分鐘。Naver和Kakao Map都可以告訴你哪個出口使用。 📖 全部指南: https://www.seoulmetro.co.kr/en/ ",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1795079644123-instagram.mp4",
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-19T22:24:59.311Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-19T09:14:06.788Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/17423578/17423578-hd_1920_1080_60fps.mp4",
+    "videoAttribution": "Pexels",
+    "topic": "Seoul subway details nobody tells you: exit numbers, transfer walks, express trains, and the last train",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: facebook: hook failed - first line is a generic fact, not a specific promise or confusion (\"Large stations can have a dozen or more exits spread over several blocks.\"); reaction failed - no call to comment, save, or share (only a link). | threads: payoff failed - the hook warns that double‑tapping the T‑money card loses money, but the body never explains why or how to prevent it (e.g., \"Tap your T-money card twice at the Jongno 3-ga transfer and you lose money without knowing it.\" is not followed by an explanation). | bluesky: payoff failed - same issue as threads; the double‑tap loss warning is not addressed in the rest of the text. | mastodon: payoff failed - the promised explanation of the money loss from double‑tapping is missing. | tumblr: payoff failed - although tips are given, they do not address the specific money‑loss warning in the hook.",
+      "failedPlatforms": [
+        "facebook",
+        "threads",
+        "bluesky",
+        "mastodon",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "E",
+      "checkedAt": "2026-11-19T09:13:53.337Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-19T09:14:06.769Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-seoul-subway-details-nobody-tells-you-exit-numbers-transfer-walks-express-trains-and-the-last-train.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]
