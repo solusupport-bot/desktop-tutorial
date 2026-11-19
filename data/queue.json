@@ -51393,5 +51393,36 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-19T17:36:15.311Z",
     "blogUrl": "https://landinkorea.com/posts/korea-day-tripping-from-seoul-by-regular-train-mugunghwa-itx-saemaeul-and-the-gyeongui-jungang-line.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "94365da7-3796-47cb-922b-635d1139ceb9",
+    "text": "Coin laundries in Korea: 1. Machines are sorted by capacity, not load type. 2. Detergent and softener are dispensed automatically. 3. Large dryers are common. 📖 Full guide: https://english.visitkorea.or.kr/enu/TRP/TP_ENG_1.jsp\n\n🎬 Video source: Pexels\n\n🎵 \"Anima Pop - Ink\" by Vienna In Love is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.\n\n🇯🇵 韓国のコインランドリーの特徴：1. 機械は容量で整理され、荷物の種類ではありません。2. 洗濯剤とソフトナーは自動で出力されます。3. 大きなドライヤーは一般的です。\n📖 詳細ガイド：https://english.visitkorea.or.kr/enu/TRP/TP_ENG_1.jsp\n\n🎬 ビデオソース：Pexels\n\n🎵 \"Anima Pop - Ink\" は、Vienna In Love によってライセンスされています。ライセンスの詳細は、https://creativecommons.org/licenses/by-sa/3.0/を参照してください。\n\n🇨🇳 韩国洗衣店的特点：1. 机器按容量分类，不按荷物类型。2. 洗涤剂和柔顺剂自动分配。3. 大型烘干机普遍存在。\n📖 全部指南：https://english.visitkorea.or.kr/enu/TRP/TP_ENG_1.jsp\n\n🎬 视频来源：Pexels\n\n🎵 \"Anima Pop - Ink\" 由 Vienna In Love 授权，https://creativecommons.org/licenses/by-sa/3.0/可查阅详细许可协议。\n\n🇹🇼 韓國洗衣店的特點：1. 機器按容量分類，不按荷物類型。2. 洗涤劑和柔順劑自動分配。3. 大型烘乾機普遍存在。\n📖 全部指南：https://english.visitkorea.or.kr/enu/TRP/TP_ENG_1.jsp\n\n🎬 影片來源：Pexels\n\n🎵 \"Anima Pop - Ink\" 由 Vienna In Love 授權，https://creativecommons.org/licenses/by-sa/3.0/可查閱詳細許可協議。",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1795113278898-instagram.mp4",
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-20T08:16:27.345Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-19T18:34:43.742Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/ge2ac8256fc32425597398408a5fd428ed6b4997cbe08a20a2b2c7aba4e1d2dcf0ffe8550f38101b6da8b3ec9377140f7c39ae2108a38613b58ffb777431657d4_1280.jpg#pixabay=8226119"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/8756884/8756884-uhd_4096_2160_25fps.mp4",
+    "videoAttribution": "Pexels",
+    "topic": "Doing laundry in Korea: coin laundromats, the dryer problem, and neighborhood dry cleaners",
+    "qualityGate": {
+      "pass": true,
+      "reason": "내용이 주제와 맞고 문장도 자연하며 사실도 신뢰할 수 있어 여행자에게 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-19T18:31:07.865Z",
+      "pattern": "E"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-doing-laundry-in-korea-coin-laundromats-the-dryer-problem-and-neighborhood-dry-cleaners.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]
