@@ -49874,5 +49874,35 @@
       "checkedAt": "2026-11-19T05:44:22.678Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-travel-advisories-safety-notices.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "fae1c96f-bff9-4b1b-be19-27a00ac64931",
+    "text": "Most visitors walk straight down Insadong's main street — and miss what's actually worth seeing.\n\nThe side alleys hold the real antique dealers and galleries. Jogyesa Temple, one of Korean Buddhism's most important temples, is a short walk away and free to enter. Go on a weekday morning for the quietest visit.\n\nSave this for your Seoul itinerary.\n\n📖 Open the Land in Korea link in our profile and search “Insadong traditional culture street”.\n\n🎬 Video source: Pixabay\n\n#KoreaTravel #SeoulTrip #KoreaTips #TravelKorea #VisitSeoul\n\n🎵 \"Deiliriums of a 3rd Generation North Korean Despot - A Fissionable Situation, Op 273\" by Edward Schaffer is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.\n\n🇯🇵 Insadongの本物の魅力を見逃すのはよくない。真実のアンティークやギャラリーは側道にある。\n\n🇨🇳 很多游客会直接走向Insadong的主要街道 — 然后错过真正的好东西。\n侧巷里有真正的古董商和画廊。 Jogyesa寺院，韩国佛教最重要的寺院之一，步行距离内，免费参观。\n周日早上去参观最安静。\n保存这条信息到你的 Seoul 行程。\n📖 在我们的账户资料里打开Land in Korea的连接并搜索\"Insadong传统文化街\"。\n🎬 视频来源：Pixabay\n#KoreaTravel #SeoulTrip #KoreaTips #TravelKorea #VisitSeoul\n\n\"Deiliriums of a 3rd Generation North Korean Despot - A Fissionable Situation, Op 273\" by Edward Schaffer 是根据 CC BY-SA 3.0授权的。\n要查看此许可证的副本，请访问 https://creativecommons.org/licenses/by-sa/3.0/。\n\n🇹🇼 很多遊客會直接走向Insadong的主要街道 — 然後錯過真正的好東西。\n側巷裡有真正的古董商和畫廊。\n Jogyesa寺院，韓國佛教最重要的寺院之一，步行距離內，免費參觀。\n周日早上去參觀最安靜。\n保存這條資訊到你的 Seoul 行程。\n📖 在我們的帳戶資料裡打開Land in Korea的連結並搜尋\"Insadong傳統文化街\"。\n🎬 影片來源：Pixabay\n#KoreaTravel #SeoulTrip #KoreaTips #TravelKorea #VisitSeoul\n\n\"Deiliriums of a 3rd Generation North Korean Despot - A Fissionable Situation, Op 273\" by Edward Schaffer 是根據 CC BY-SA 3.0授權的。\n要查看此許可證的副本，請訪問 https://creativecommons.org/licenses/by-sa/3.0/。",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1795068445713-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-11-19T14:16:06.817Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-19T06:07:30.456Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/19271535/pexels-photo-19271535.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2023/11/03/187690-881035356_large.mp4",
+    "videoAttribution": "Pixabay",
+    "topic": "Insadong traditional culture street",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽으며 사실도 크게 과장되지 않아 여행 정보로 충분히 유용합니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-19T06:06:59.124Z",
+      "pattern": "A"
+    }
   }
 ]
