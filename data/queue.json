@@ -48904,7 +48904,7 @@
       "threads"
     ],
     "scheduledAt": "2026-11-18T10:09:15.399Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-18T04:17:17.056Z",
     "approved": true,
@@ -49083,7 +49083,7 @@
       "bluesky"
     ],
     "scheduledAt": "2026-11-19T03:35:38.241Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-18T07:38:48.131Z",
     "approved": true,
@@ -49110,7 +49110,7 @@
       "mastodon"
     ],
     "scheduledAt": "2026-11-19T04:00:29.508Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-18T07:38:48.152Z",
     "approved": true,
@@ -49415,7 +49415,7 @@
       "bluesky"
     ],
     "scheduledAt": "2026-11-19T02:11:53.095Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-11-18T08:02:16.688Z",
     "approved": true,
@@ -49434,7 +49434,8 @@
       "model": "groq",
       "checkedAt": "2026-11-18T07:55:40.811Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-jeju-island.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-jeju-island.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "rejectReason": "duplicate: same text already published on this platform"
   },
   {
     "id": "d63eef5b-e15c-4063-b828-3373a371dfbf",
@@ -49447,7 +49448,7 @@
       "mastodon"
     ],
     "scheduledAt": "2026-11-19T02:42:00.207Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-11-18T08:02:16.712Z",
     "approved": true,
@@ -49466,7 +49467,8 @@
       "model": "groq",
       "checkedAt": "2026-11-18T07:55:40.811Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-jeju-island.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-jeju-island.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
+    "rejectReason": "duplicate: same text already published on this platform"
   },
   {
     "id": "66644684-8a61-405a-8ff8-83ac81384bd0",
@@ -49479,7 +49481,7 @@
       "tumblr"
     ],
     "scheduledAt": "2026-11-19T04:40:19.747Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-11-18T08:02:16.731Z",
     "approved": true,
@@ -49498,7 +49500,8 @@
       "model": "groq",
       "checkedAt": "2026-11-18T07:55:40.811Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-jeju-island.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-jeju-island.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
+    "rejectReason": "duplicate: same text already published on this platform"
   },
   {
     "id": "1267db3a-0f06-4818-aaad-aa48a3eb0587",
@@ -49567,7 +49570,7 @@
       "bluesky"
     ],
     "scheduledAt": "2026-11-19T03:27:01.633Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-11-18T08:12:29.103Z",
     "approved": true,
@@ -49584,7 +49587,8 @@
       "model": "groq",
       "checkedAt": "2026-11-18T08:05:47.431Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-esim-mobile-data.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-esim-mobile-data.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "rejectReason": "duplicate: same text already published on this platform"
   },
   {
     "id": "f91b3827-463e-469b-ab6f-300f234dc324",
@@ -49594,7 +49598,7 @@
       "mastodon"
     ],
     "scheduledAt": "2026-11-19T03:56:48.830Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-11-18T08:12:29.124Z",
     "approved": true,
@@ -49611,7 +49615,8 @@
       "model": "groq",
       "checkedAt": "2026-11-18T08:05:47.431Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-esim-mobile-data.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-esim-mobile-data.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
+    "rejectReason": "duplicate: same text already published on this platform"
   },
   {
     "id": "1a2d0fee-ae63-4383-b354-9471115bc309",
