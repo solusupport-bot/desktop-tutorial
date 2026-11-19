@@ -51310,5 +51310,44 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-19T15:58:11.639Z",
     "blogUrl": "https://landinkorea.com/posts/korea-bus-travel-inside-korean-cities-color-codes-tag-off-transfers-and-why-you-must-flag-the-bus.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "bb36b600-1751-4d88-a8c2-8436fcd63dc2",
+    "text": "Tap your T-money card twice at a restaurant in Gangnam and you might not get a table without knowing it.\n\nYou'll need to reserve a table through Naver Place booking or Catch Table for popular restaurants.\n\nMake sure to book at least a week in advance for hyped restaurants, and be prepared for slots to vanish within minutes. What's the worst experience you've had trying to book a table in Korea? Open the link in my profile for more tips on navigating Korea's food scene.\n\n🇯🇵 カンナムのレストランでT-moneyカードを2回タップすると、予約が必要な場合があります。ナバープレイス予約またはキャッチテーブルを使用して予約を確保しましょう。人気のレストランでは、少なくとも1週間前に予約を確保し、スロットが数分以内に消えることを覚悟してください。\n\n🇨🇳 在江南的餐厅里，使用T-money卡两次刷卡可能无法得到桌位。您可以通过naver place预约或catch table预约。对于热门餐厅，请至少提前一周预约，并准备好在几分钟内失去预约。\n\n🇹🇼 在江南的餐廳裡，使用T-money卡兩次刷卡可能無法得到桌位。您可以透過naver place預約或catch table預約。對於熱門餐廳，請至少提前一周預約，並準備好在幾分鐘內失去預約。",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795108719650-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795108719650-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-19T20:18:08.704Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-19T17:18:42.818Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/gc880304c0a694552a26253c5bcfef028a1681bfb357986452eb1743b2096f7a024ec83e7263ac51803f25a9c0296916b36841eea30c016d4ca9fe99b11f7a68a_1280.jpg#pixabay=7885057"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/6602247/6602247-hd_1080_1920_30fps.mp4",
+    "videoAttribution": null,
+    "topic": "Reserving restaurants and joining waitlists in Korea: Catch Table, Naver booking, and the Tabling tablet",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: facebook: reaction missing; no prompt to comment, save, or share, only a link | bluesky: reaction missing; ends with hashtags only, no engagement prompt | mastodon: reaction missing; ends with hashtags only, no engagement prompt | tumblr: reaction missing; ends with a link callout but no comment/save/share prompt",
+      "failedPlatforms": [
+        "facebook",
+        "bluesky",
+        "mastodon",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "A",
+      "checkedAt": "2026-11-19T17:18:31.935Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-reserving-restaurants-and-joining-waitlists-in-korea-catch-table-naver-booking-and-the-tabling-tablet.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
