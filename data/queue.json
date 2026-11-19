@@ -51349,5 +51349,39 @@
       "checkedAt": "2026-11-19T17:18:31.935Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-reserving-restaurants-and-joining-waitlists-in-korea-catch-table-naver-booking-and-the-tabling-tablet.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "a9083a2b-db1c-4985-b719-fb68408659c5",
+    "text": "You can reach Paju's Heyri area, Yangpyeong, or Chuncheon on a regular transit card with no reservation needed. The Gyeongui-Jungang line is a regular transit card route. The trade-off is time — these are all-stops commuter trains and a 'subway' trip can run well over an hour each way. 📖 Full guide: https://landinkorea.com/posts/korea-day-tripping-from-seoul-by-regular-train-mugunghwa-itx-saemaeul-and-the-gyeongui-jungang-line.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post\n\n🇯🇵 パジュのヘイリ地区やヤンペヨン、チュンチョンへは、予約なしで普通乗車券で行くことができます。京義・中央線は普通乗車券のルートです。ただし、時間はかかります。全駅停車の通勤電車で、地下鉄のように1時間以上かかることもあります。 📖 详细指南： https://landinkorea.com/posts/korea-day-tripping-from-seoul-by-regular-train-mugunghwa-itx-saemaeul-and-the-gyeongui-jungang-line.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post\n\n🇨🇳 可以用普通票卡到达帕珠的海里地区、羊坪、春川。京义中央线是普通票卡的路线。然而，这些都是全站停靠的通勤列车，一个往返可能需要超过1小时。 📖 全部指南： https://landinkorea.com/posts/korea-day-tripping-from-seoul-by-regular-train-mugunghwa-itx-saemaeul-and-the-gyeongui-jungang-line.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post\n\n🇹🇼 可以用普通票卡到達帕珠的海里地區、羊坪、春川。京義中央線是普通票卡的路線。然而，這些都是全站停靠的通勤列車，一個往返可能需要超過1小時。 📖 全部指南： https://landinkorea.com/posts/korea-day-tripping-from-seoul-by-regular-train-mugunghwa-itx-saemaeul-and-the-gyeongui-jungang-line.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795109770829-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795109770829-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-19T23:21:45.395Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-19T17:36:15.331Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g00449fcfcdc15c32127623e26a6648ecf39055b56da21c5233c3bbf73a4e357e0e00bde861d2fa060d8da01035238dd0415ed71d7e7c9609864004bcfb38607e_1280.jpg#pixabay=3328100"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/40820288/17441656_3840_2160_60fps.mp4",
+    "videoAttribution": null,
+    "topic": "Day-tripping from Seoul by regular train: Mugunghwa, ITX-Saemaeul, and the Gyeongui-Jungang line",
+    "qualityGate": {
+      "pass": false,
+      "reason": "내용이 주제와 완전히 맞지 않고 문장이 중복·부자연스러워 여행 정보로서 유용성이 낮습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-19T17:35:58.261Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-19T17:36:15.311Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-day-tripping-from-seoul-by-regular-train-mugunghwa-itx-saemaeul-and-the-gyeongui-jungang-line.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]
