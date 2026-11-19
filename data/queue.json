@@ -48714,8 +48714,12 @@
       "threads"
     ],
     "scheduledAt": "2026-11-18T07:11:28.789Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18134370580702768"
+      }
+    },
     "createdAt": "2026-11-18T00:43:39.413Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -48733,7 +48737,8 @@
       "model": "groq",
       "checkedAt": "2026-11-18T00:40:18.857Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-first-timer-etiquette-common-mistakes.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-first-timer-etiquette-common-mistakes.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-19T02:17:24.062Z"
   },
   {
     "id": "9d66b846-3bed-48a1-9349-e92b286cf75f",
