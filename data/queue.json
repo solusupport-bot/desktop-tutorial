@@ -49829,5 +49829,37 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-19T05:43:35.737Z",
     "blogUrl": "https://landinkorea.com/posts/korea-tax-refund-tax-free-shopping.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "c0912ef9-ab9a-4246-9d07-01416a8eca57",
+    "text": "This is the part that separates a smooth trip from a stressful one. Most Korea itineraries plan for the wrong risk entirely. 🌪️\n\n1. Weather, not crime, is what actually disrupts trips here.\n2. Typhoons (summer/early fall) or heavy snow (winter) can disrupt trains and flights with little warning.\n3. Build a buffer day into your itinerary during those seasons.\n4. Save 112 (police) and 119 (fire/medical) before you land — many operators speak English.\n\nSave this before you finalize your itinerary.\nDo you build in a weather buffer day?\n\n🇯🇵 旅行を無事に終えるのは、気象条件を予測して備えることか。ほとんどの韓国旅行計画では、犯罪よりも気象条件が問題になることを考慮していない。 🌪️\n1. ここでは、天気が実際に旅行を妨げるのは犯罪ではない。\n2. 夏の終わりごろから秋にかけての台風や、冬の激しい雪が、列車や飛行機の運航を予告なく妨げることがある。\n3. その季節に旅行計画を立てるときは、予備日を1日だけでも用意しておく。\n4. 着陸前に、112番（警察）と119番（消防・医療）をメモしておく。多くの運営者は英語を話す。\n\n旅行計画をまとめる前に、この情報を保存しておく。\n旅行計画に予備日を組み込むことは、いい考えですか？\n\n🇨🇳 旅行的顺利与否，关键在于预测天气。许多韩国旅行计划却忽略了天气的风险。\n1. 在韩国，天气而非犯罪才是真正会打乱旅行的。\n2. 夏末初秋的台风或冬季的严重雪灾可能会在短时间内打断列车和飞机的运营。\n3. 在制定旅行计划时，应预留至少一天的缓冲日。\n4. 到达前记下112（警方）和119（消防・医疗）的电话号码，有些运营者会用英文。\n\n将此信息保存在旅行计划前。\n是否在旅行计划中预留缓冲日？\n\n🇹🇼 旅行順利與否，關鍵在於預測天氣。許多韓國旅行計畫卻忽略了天氣的風險。\n1. 在韓國，天氣而非犯罪才是真正會打亂旅行的。\n2. 夏末初秋的颱風或冬季的嚴重雪災可能會在短時間內打斷列車和飛機的運營。\n3. 在制定旅行計畫時，應預留至少一天的緩衝日。\n4. 到達前記下112（警方）和119（消防・醫療）的電話號碼，有些運營者會用英文。\n\n將此資訊保存在旅行計畫前。\n是否在旅行計畫中預留緩衝日？",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795067265086-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795067265086-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-19T09:54:11.036Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-19T05:47:48.959Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/gbf2a526464edb7b7ef84ae04c8fa7492eaa375fe746b899c43426b90156b598ded1f212d4721fa21da607e761a8145a457bcaeef5719196d53096585d56b9a96_1280.jpg#pixabay=3621711"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/35224732/14923517_1080_1920_60fps.mp4",
+    "videoAttribution": null,
+    "topic": "Travel advisories & safety notices",
+    "qualityGate": {
+      "pass": true,
+      "reason": "내용이 여행 안전·날씨 안내와 맞으며 문장도 자연스럽고 유용한 정보가 포함돼 있습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-19T05:44:22.678Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-travel-advisories-safety-notices.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]
