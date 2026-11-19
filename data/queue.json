@@ -48882,8 +48882,13 @@
       "facebook"
     ],
     "scheduledAt": "2026-11-18T22:48:01.709Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "122132158425446391",
+        "post_id": "1288453561012463_122132158473446391"
+      }
+    },
     "createdAt": "2026-11-18T03:57:20.389Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -48901,7 +48906,8 @@
       "model": "groq",
       "checkedAt": "2026-11-18T03:53:53.346Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-why-google-maps-fails-in-korea-and-how-the-road-name-address-system-actually-works.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-why-google-maps-fails-in-korea-and-how-the-road-name-address-system-actually-works.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-19T12:49:28.371Z"
   },
   {
     "id": "96255aac-cdcc-4553-ad91-82e686610460",
