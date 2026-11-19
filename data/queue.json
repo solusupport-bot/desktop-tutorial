@@ -51259,5 +51259,39 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-19T15:39:08.529Z",
     "blogUrl": "https://landinkorea.com/posts/korea-cafes-as-workspaces-in-korea-unspoken-rules-of-study-cafes-franchise-chains-and-no-laptop-signs.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "ca7ed5b8-8559-42e5-b988-df4c1c7d7ebe",
+    "text": "Tap your T-money card twice at the Jongno 3-ga transfer and you lose money.\n\n You must tap your card on the reader again when getting off.\n\n Skipping the tag-off voids your free transfer to the next bus or subway and can trigger a penalty fare.\n\n 📖 Full guide: https://english.seoul.go.kr/policy/transportation/bus/\n\n🇯🇵 T-moneyカードを Jongno 3-ga の転換地点で2回タップすると、金額が減ります。\n\n降りるときにカードをリーダーにタップする必要があります。\n\nタグオフをスキップすると、次のバスや地下鉄への無料転換が無効になり、ペナルティ料金が発生する可能性があります。\n\n📖詳細はこちら: https://english.seoul.go.kr/policy/transportation/bus/\n\n🇨🇳 在 Jongno 3-ga 转换点使用 T-money 卡时，需要两次点击卡片。\n\n下车时，请再次点击卡片。\n\n忽略卡片标记将使下一站的免费转乘无效，并可能产生罚款。\n\n📖详细信息请见：https://english.seoul.go.kr/policy/transportation/bus/\n\n🇹🇼 在 Jongno 3-ga 轉換點使用 T-money 卡時，需要兩次點擊卡片。\n\n下車時，請再次點擊卡片。\n\n忽略卡片標記將使下一站的免費轉乘無效，並可能產生罰款。\n\n📖詳情請見：https://english.seoul.go.kr/policy/transportation/bus/",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795103886673-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795103886673-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-20T10:32:43.776Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-19T15:58:11.659Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g94b3f03a6272502a1e1038e2ffbb98490f284d30914e1ad9326ab0fef402806680bc2c6c317214964aa0351621f38e8b91e20f404be800142f440f8c4173cd93_1280.jpg#pixabay=7407920"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/40844179/17450871_3840_2160_50fps.mp4",
+    "videoAttribution": null,
+    "topic": "Bus travel inside Korean cities: color codes, tag-off transfers, and why you must flag the bus",
+    "qualityGate": {
+      "pass": false,
+      "reason": "캡션의 주제와 실제로 관련 있는 내용이 아님",
+      "model": "groq",
+      "checkedAt": "2026-11-19T15:57:57.966Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-19T15:58:11.639Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-bus-travel-inside-korean-cities-color-codes-tag-off-transfers-and-why-you-must-flag-the-bus.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]
