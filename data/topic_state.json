@@ -1,5 +1,5 @@
 {
-  "lastIndex": 31,
+  "lastIndex": 32,
   "history": [
     {
       "index": 22,
@@ -822,6 +822,12 @@
       "topic": "Hailing a taxi in Korea: Kakao T vs. street taxis vs. airport 'deluxe' cabs",
       "at": "2026-11-19T08:34:45.130Z",
       "source": "instagram-fill"
+    },
+    {
+      "index": 32,
+      "topic": "Why Google Maps fails in Korea and how the road-name address system actually works",
+      "at": "2026-11-19T08:45:36.063Z",
+      "source": "threads-fill"
     }
   ],
   "recentImageUrls": [
@@ -2044,7 +2050,8 @@
     "https://pixabay.com/get/g34d90fc857fc4de21efec25e5593ca4d5552d8d46a73fb2cf1ea37125e9cded6ea993ae159b46c6d0dc57f1b311ba31fd9a0b647f5e3bd1260778727f3bbe2f7_1280.jpg#pixabay=5387563",
     "https://pixabay.com/get/g799b9176e4c6530377b72d5cdc4d13417d874d6f219800aac2d70bb409cff3d82170713313907526594c8c84db52cd494374048508d74a5d79eb677ac407b4f9_1280.jpg#pixabay=3538984",
     "https://images.pexels.com/photos/6045114/pexels-photo-6045114.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://images.pexels.com/photos/32014921/pexels-photo-32014921.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "https://images.pexels.com/photos/32014921/pexels-photo-32014921.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/18721434/pexels-photo-18721434.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
   ],
   "recentVideoUrls": [
     "https://videos.pexels.com/video-files/19577787/19577787-uhd_2160_3840_30fps.mp4",
@@ -2513,7 +2520,10 @@
     "https://videos.pexels.com/video-files/31494166/13428351_3840_2160_60fps.mp4",
     "https://videos.pexels.com/video-files/14377148/14377148-uhd_3840_2160_30fps.mp4",
     "https://videos.pexels.com/video-files/5077484/5077484-uhd_2160_4096_25fps.mp4",
-    "https://cdn.pixabay.com/video/2016/05/12/3180-166339024_large.mp4"
+    "https://cdn.pixabay.com/video/2016/05/12/3180-166339024_large.mp4",
+    "https://cdn.pixabay.com/video/2016/09/05/4941-181472380_large.mp4",
+    "https://cdn.pixabay.com/video/2020/06/17/42408-431511624_large.mp4",
+    "https://cdn.pixabay.com/video/2016/05/12/3176-166338965_large.mp4"
   ],
   "recentMusicUrls": [
     "https://prod-1.storage.jamendo.com/?trackid=20237&format=mp32",
@@ -2612,7 +2622,8 @@
       "구르미 🪴다현",
       "Theodore Nguyen",
       "Jhany Blue",
-      "Jon Discipulo"
+      "Jon Discipulo",
+      "정규송 Nui MALAMA"
     ],
     "Short-term vs. long-term housing in Korea: guesthouse, goshiwon, officetel, and the deposit system": [
       "Henry Acevedo",

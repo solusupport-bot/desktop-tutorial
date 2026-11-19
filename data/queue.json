@@ -50768,5 +50768,39 @@
     },
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-19T08:45:34.387Z"
+  },
+  {
+    "id": "c415c4f4-6259-458b-881c-758912a0c02e",
+    "text": "Tap your T-money card twice at the Jongno 3-ga transfer and you lose money without knowing it.\n\nThe exact address in Korea is road name + building number + city district, not lot-based jibun numbers.\n\nKoreans typically anchor directions to the nearest subway station exit number, the single most reliable landmark in any city. What's the most reliable landmark in your hometown?\n\n🇯🇵  Jongno 3-ga のバス停で T-money カードを 2 回タップすると、知らないうちにお金が消えることがあります。\n\n🇨🇳 在韩国，jongno 3-ga 转乘站的 T-money 卡需要两次刷卡，否则会丢失钱。\n\n🇹🇼 在韓國，jongno 3-ga 轉乘站的 T-money 卡需要兩次刷卡，否則會丟失錢。",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795078763131-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795078763131-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-19T23:16:56.007Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-19T08:59:24.660Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/18721434/pexels-photo-18721434.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2016/09/05/4941-181472380_large.mp4",
+    "videoAttribution": null,
+    "topic": "Why Google Maps fails in Korea and how the road-name address system actually works",
+    "qualityGate": {
+      "pass": false,
+      "reason": "주제와 무관한 T-money 카드 내용이 포함돼 있어 주제와 일관성이 부족합니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-19T08:59:19.271Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-19T08:59:24.636Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-why-google-maps-fails-in-korea-and-how-the-road-name-address-system-actually-works.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
