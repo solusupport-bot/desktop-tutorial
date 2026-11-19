@@ -118,7 +118,7 @@ const analyzeCategoryPerformance = () => {
   console.log('📋 IMPLEMENTATION CHECKLIST');
   console.log('  ☐ Update content publishing calendar');
   console.log('  ☐ Brief content team on top performers');
-  console.log('  ☐ Add genre-specific hooks to curate.js PROMISE_OPENERS');
+  console.log('  ☐ Check that every first line names a concrete place or moment (no generic openers)');
   console.log('  ☐ Re-run analysis next Friday\n');
 };
 
