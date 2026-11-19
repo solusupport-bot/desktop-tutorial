@@ -49416,7 +49416,7 @@
       "threads"
     ],
     "scheduledAt": "2026-11-19T01:42:31.016Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-18T08:02:16.637Z",
     "approved": true,
@@ -50362,7 +50362,7 @@
       "tumblr"
     ],
     "scheduledAt": "2026-11-19T18:47:56.720Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-11-19T07:36:39.341Z",
     "approved": true,
@@ -50380,7 +50380,8 @@
       "checkedAt": "2026-11-19T07:29:48.356Z",
       "pattern": "B"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-airport-transfer-options.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-airport-transfer-options.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
+    "rejectReason": "duplicate: same text already published on this platform"
   },
   {
     "id": "cb307057-5050-4ad3-a244-0569e83dd2eb",
