@@ -51088,5 +51088,34 @@
       "pattern": "E"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-unmanned-kiosk-ordering-in-korea-why-humans-are-disappearing-from-the-counter.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "5b32a706-3aee-4088-af8d-dca62bf4c503",
+    "text": "Korea is one of the few major markets where Apple Pay barely functions and Google Pay's tap-to-pay is spotty, because most Korean card terminals were built around a local standard (and a long-running NFC licensing dispute with Apple that only partly resolved in 2023) rather than the Visa/Mastercard contactless network phones use everywhere else.\n\nLocals pay with Kakao Pay or Naver Pay instead — both are QR-code and barcode-based wallets tied to a Korean bank account or registered card, built into apps most Koreans already have open all day.\n\nAnyone else lose money on this mistake?\n\n🇯🇵 Apple Payはほとんど機能しない韓国市場で、Google Payのタップペイもスパッティーなのは、Appleと長年のNFCライセンス紛争の影響で、韓国ではVisa/Mastercardの無接触ネットワークに基づいて構築されたカード端末が多くあるからだ。\n\n🇨🇳 苹果支付在韩国市场几乎不能用，谷歌支付的触摸支付也很不稳定，这是因为苹果与韩国的NFC授权纠纷的影响，以及韩国卡机大多基于Visa/Mastercard的无接触网络而不是全球通用的无接触支付标准。\n\n🇹🇼 蘋果支付在韓國市場幾乎不能用，谷歌支付的觸碰支付也很不穩定，這是因為蘋果與韓國的NFC授權糾紛的影響，以及韓國卡機大多基於Visa/Mastercard的無接觸網絡而不是全球通用的無接觸支付標準。",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-19T17:17:55.982Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-19T13:05:07.631Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2024/02/15/200636-913478601_large.mp4",
+    "videoAttribution": null,
+    "topic": "Mobile payments in Korea: Kakao Pay, Naver Pay, and why Apple Pay doesn’t work",
+    "qualityGate": {
+      "pass": false,
+      "reason": "해당 캡션은 주제와 관련이 있으나 자연스럽고 완성된 문장이 아니며, 여행 콘텐츠로서의 유용성이 낮다.",
+      "model": "groq",
+      "checkedAt": "2026-11-19T13:04:43.163Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-19T13:05:07.611Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-mobile-payments-in-korea-kakao-pay-naver-pay-and-why-apple-pay-doesn-t-work.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
