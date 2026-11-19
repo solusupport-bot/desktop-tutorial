@@ -115,6 +115,11 @@ jobs:
         # (claim 락 스텝과 달리, 여기서는 재시도해도 중복 발행 위험이 없다).
         run: './scripts/ci-commit-push.sh "chore: update published post queue" data/queue.json'
 
+      - name: Install ffmpeg (Instagram montage/music merge)
+        # 2026-11-19 실측: 이 스텝 없이 Actions로 옮긴 뒤 "spawn ffmpeg ENOENT"로 몽타주 합성이
+        # 매번 실패해, 영상은 찾고도 Instagram이 11/13 이후 한 건도 큐에 못 올라갔다.
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+
       - name: Backfill today's Instagram quota
         # 2026-10-18 로컬 전용으로 추가됐던 스텝 — Instagram만 "영상 없으면 반려" 하드룰 때문에
         # 하루 3개 목표에서 자주 빠졌다. Actions 복귀 시 이 보완 로직도 같이 옮긴다.
