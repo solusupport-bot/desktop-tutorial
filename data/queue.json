@@ -51469,5 +51469,37 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-19T20:08:27.671Z",
     "blogUrl": "https://landinkorea.com/posts/korea-the-closed-on-monday-trap-how-korean-palaces-and-museums-schedule-their-days-off.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "acaf9f21-cc46-4c0d-8cb5-aa0eff19d662",
+    "text": "Hiking is a mainstream national pastime, not a niche hobby, and several serious peaks sit at the end of a subway or city bus ride — Bukhansan, Dobongsan, Inwangsan and Gwanaksan are all reachable from central Seoul without a car.\n\nTrails are heavily signposted with distance to the summit and numbered emergency markers you can quote to rescue services if something goes wrong.\n\nWeekends, especially in October foliage season, bring serious crowds and queues at summit rock scrambles, so early starts are genuinely worth it.\n\n📖 Full guide: https://landinkorea.com/posts/korea-hiking-in-korea-like-a-local-subway-accessible-peaks-seasonal-trail-closures-and-the-gear-culture.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post\n\n🎬 Video source: Pexels\n\n🎵 \"Anima Pop - Ink\" by Vienna In Love is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.\n\n🇯🇵 登山は国民的なメインストリームの趣味ではなく、多くの本格的な山が地下鉄や市バスで到達できる。\n\n🇨🇳 登山并不是一种边缘化的爱好，而是许多严重的峰会坐落在地铁或城市公交车站的末端，布克山、多布山、英王山和关岳山都是从首尔中心区无需车辆即可到达。\n\n🇹🇼 登山並不是一种邊緣化的嗜好，而是許多嚴重的峰會坐落在地鐵或城市公交車站的末端，布克山、多布山、英王山和關岳山都是從首爾中心區無需車輛即可到達。",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1795124082197-instagram.mp4",
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-20T00:42:41.759Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-19T21:34:45.543Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/18936007/pexels-photo-18936007.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/19022170/19022170-uhd_3840_2160_60fps.mp4",
+    "videoAttribution": "Pexels",
+    "topic": "Hiking in Korea like a local: subway-accessible peaks, seasonal trail closures, and the gear culture",
+    "qualityGate": {
+      "pass": false,
+      "reason": "주제와 크게 관련은 있지만 계절별 트레일 폐쇄와 장비 문화 언급이 없고, 마지막 문장이 주제와 무관한 비용 질문으로 흐름이 어색합니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-19T21:34:25.594Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-19T21:34:45.522Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-hiking-in-korea-like-a-local-subway-accessible-peaks-seasonal-trail-closures-and-the-gear-culture.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]
