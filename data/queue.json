@@ -50430,8 +50430,12 @@
       "facebook"
     ],
     "scheduledAt": "2026-11-19T08:59:56.962Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "29411657908468078"
+      }
+    },
     "createdAt": "2026-11-19T07:42:02.383Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -50450,7 +50454,8 @@
       "checkedAt": "2026-11-19T07:38:22.607Z",
       "pattern": "O"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-first-timer-etiquette-common-mistakes.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-first-timer-etiquette-common-mistakes.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-19T21:22:44.316Z"
   },
   {
     "id": "5df60445-40c8-40fc-8630-e647398e94bf",
