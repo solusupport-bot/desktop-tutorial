@@ -51225,5 +51225,39 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-19T14:30:15.035Z",
     "blogUrl": "https://landinkorea.com/posts/korea-hospital-vs-clinic-vs-pharmacy-in-korea-where-to-actually-go-when-you-get-sick.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "d2d51575-ca9e-488a-95ff-3999a08408f0",
+    "text": "Tap your T-money card twice at the cafe and you lose money without knowing it.\n\nThe cafe doesn't rush you at large franchise chains like Starbucks, Twosome Place, and Hollys, but independent dessert cafes often post signs banning laptops entirely or on weekends.\n\nReading the sticker on the door before you settle in saves an awkward conversation. Do you always check the sign before grabbing a seat at a cafe? Open the Land in Korea link in our profile for more Korea travel tips.\n\n🇯🇵 カフェでタップカードを2回押してお金を失うことがある。\n\n🇨🇳 在咖啡馆里，使用T-money卡时，需要注意一下卡片是否被刷两次。\n\n🇹🇼 在咖啡館，使用T-money卡時，需要注意一下卡片是否被刷兩次。",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795102746776-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795102746776-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-19T17:37:20.541Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-19T15:39:08.549Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/29562593/pexels-photo-29562593.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/30869383/13200273_2160_3840_30fps.mp4",
+    "videoAttribution": null,
+    "topic": "Cafes as workspaces in Korea: unspoken rules of study cafes, franchise chains, and 'no-laptop' signs",
+    "qualityGate": {
+      "pass": false,
+      "reason": "주제와 무관한 T-money 카드 내용과 사실이 의심되는 문구가 포함돼 있어 여행 콘텐츠로서 적합하지 않다.",
+      "model": "groq",
+      "checkedAt": "2026-11-19T15:38:49.516Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-19T15:39:08.529Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-cafes-as-workspaces-in-korea-unspoken-rules-of-study-cafes-franchise-chains-and-no-laptop-signs.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
