@@ -49926,8 +49926,12 @@
       "instagram"
     ],
     "scheduledAt": "2026-11-19T14:16:06.817Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "18109684240983476"
+      }
+    },
     "createdAt": "2026-11-19T06:07:30.456Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -49945,7 +49949,8 @@
       "model": "groq",
       "checkedAt": "2026-11-19T06:06:59.124Z",
       "pattern": "A"
-    }
+    },
+    "processedAt": "2026-11-19T18:25:25.866Z"
   },
   {
     "id": "843ecf2d-eee6-4dfb-b88d-374dd0435cbb",
@@ -50256,8 +50261,12 @@
       "facebook"
     ],
     "scheduledAt": "2026-11-19T08:45:39.142Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "1288453561012463_122132223567446391"
+      }
+    },
     "createdAt": "2026-11-19T07:36:39.256Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -50274,7 +50283,8 @@
       "checkedAt": "2026-11-19T07:29:48.356Z",
       "pattern": "B"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-airport-transfer-options.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-airport-transfer-options.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-19T18:25:28.812Z"
   },
   {
     "id": "ee5015e6-01a9-4d9a-aad5-0d41edf7e652",
