@@ -49027,8 +49027,12 @@
       "threads"
     ],
     "scheduledAt": "2026-11-18T15:48:52.599Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18103134836396168"
+      }
+    },
     "createdAt": "2026-11-18T07:38:56.022Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -49046,7 +49050,8 @@
       "model": "groq",
       "checkedAt": "2026-11-18T07:35:37.473Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-tax-refund-tax-free-shopping.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-tax-refund-tax-free-shopping.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-19T13:55:39.815Z"
   },
   {
     "id": "bcf02c2f-d484-4a06-af26-30333c3fd1b5",
@@ -50902,8 +50907,12 @@
       "instagram"
     ],
     "scheduledAt": "2026-11-19T13:26:29.593Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "18487578655116597"
+      }
+    },
     "createdAt": "2026-11-19T09:49:38.637Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -50921,7 +50930,8 @@
       "model": "groq",
       "checkedAt": "2026-11-19T09:46:13.476Z",
       "pattern": "D"
-    }
+    },
+    "processedAt": "2026-11-19T13:56:40.843Z"
   },
   {
     "id": "541512d2-26a3-4504-b596-0cab233ab448",
