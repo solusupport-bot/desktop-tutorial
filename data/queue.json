@@ -50936,5 +50936,38 @@
       "checkedAt": "2026-11-19T10:14:33.898Z",
       "pattern": "D"
     }
+  },
+  {
+    "id": "9af58c39-b9b8-43b2-90e9-f31786854ff8",
+    "text": "Tipping isn't part of Korean service culture, and leaving cash on the table in a restaurant sometimes triggers a server to chase you down thinking you forgot it.\n\nService is already considered included in the price, so adding extra money on top can come across as implying the staff wasn't paid properly, which is mildly insulting rather than generous.\n\nHotels and some tour guides are the rare exception where a small tip is quietly accepted, but it's never expected or asked for. What would you add for someone landing tomorrow?\n\n🇯🇵 韓国ではサービスチップは一般的ではなく、食事後に残したお金を店員が追いかけることもある。サービスが価格に含まれているため、追加の金額を渡すことは、従業員が十分に支払われていないことを暗示することになる。\n\n🇨🇳 在韩国，服务费并不是一个习惯性的做法，食客在饭店里忘记了服务费有时会让服务员追着你跑，认为你忘记了。因为服务费已经包含在价格里了，所以额外的付费会让服务员误以为你觉得他们的收入不够，很不礼貌。酒店和一些旅游导游是少数例外，接受小小的服务费，但从来不会要求或期待。\n\n🇹🇼 在韓國，服務費並不是一個習慣性的做法，食客在飯店裡忘記了服務費有時會讓服務員追著你跑，認為你忘記了。因為服務費已經包含在價格裡了，所以額外的付費會讓服務員誤會你覺得他們的收入不夠，很不禮貌。酒店和一些旅遊導遊是少數例外，接受小小的服務費，但從來不會要求或期待。",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795084183122-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795084183122-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-19T21:26:04.689Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-19T10:29:46.382Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/gb11e62d970fe22fe1bfa35c2b54060ed55397387dfa00c28b6e415a78e7ed605539a464087714f6c7c6ffeda047649f4dae6ff30aa7c363c09b17ddc0f713194_1280.jpg#pixabay=3565705"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/8830802/8830802-uhd_3840_2160_25fps.mp4",
+    "videoAttribution": null,
+    "topic": "Tipping in Korea: why you shouldn't and what to do instead",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제에 적합하고 문장이 자연스럽고 사실도 정확하며 여행자에게 유용한 정보를 제공한다",
+      "model": "groq",
+      "checkedAt": "2026-11-19T10:26:12.205Z",
+      "pattern": "C"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-tipping-and-service-charges.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]

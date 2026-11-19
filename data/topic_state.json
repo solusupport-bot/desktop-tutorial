@@ -1,5 +1,5 @@
 {
-  "lastIndex": 38,
+  "lastIndex": 52,
   "history": [
     {
       "index": 22,
@@ -864,6 +864,12 @@
       "topic": "Renting a car in Korea: when it's smart, when it's a waste, and what the rental desk will ask for",
       "at": "2026-11-19T10:04:21.431Z",
       "source": "instagram-fill"
+    },
+    {
+      "index": 52,
+      "topic": "Tipping in Korea: why you shouldn't and what to do instead",
+      "at": "2026-11-19T10:18:10.150Z",
+      "source": "threads-fill"
     }
   ],
   "recentImageUrls": [
@@ -2091,7 +2097,8 @@
     "https://images.pexels.com/photos/31728574/pexels-photo-31728574.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://pixabay.com/get/gea143c0eb848674fc38182c00b85c0c952a92f8bd6a4a27171a0d156b6eaf86019defe0dacdc0ffa0e4690f7ebe8ef36baddb9a097a332a3ca598a2005e42bb2_1280.jpg#pixabay=786592",
     "https://images.pexels.com/photos/10858023/pexels-photo-10858023.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://images.pexels.com/photos/28581730/pexels-photo-28581730.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "https://images.pexels.com/photos/28581730/pexels-photo-28581730.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://pixabay.com/get/gb11e62d970fe22fe1bfa35c2b54060ed55397387dfa00c28b6e415a78e7ed605539a464087714f6c7c6ffeda047649f4dae6ff30aa7c363c09b17ddc0f713194_1280.jpg#pixabay=3565705"
   ],
   "recentVideoUrls": [
     "https://videos.pexels.com/video-files/19577787/19577787-uhd_2160_3840_30fps.mp4",
@@ -2575,7 +2582,10 @@
     "https://videos.pexels.com/video-files/27890322/12254141_3840_2160_24fps.mp4",
     "https://videos.pexels.com/video-files/19913174/19913174-hd_1920_1080_60fps.mp4",
     "https://videos.pexels.com/video-files/27374055/12127378_2160_3840_30fps.mp4",
-    "https://videos.pexels.com/video-files/5531385/5531385-uhd_3840_2160_24fps.mp4"
+    "https://videos.pexels.com/video-files/5531385/5531385-uhd_3840_2160_24fps.mp4",
+    "https://videos.pexels.com/video-files/8830802/8830802-uhd_3840_2160_25fps.mp4",
+    "https://videos.pexels.com/video-files/6540557/6540557-uhd_3840_2160_25fps.mp4",
+    "https://videos.pexels.com/video-files/5103993/5103993-uhd_3840_2160_30fps.mp4"
   ],
   "recentMusicUrls": [
     "https://prod-1.storage.jamendo.com/?trackid=20237&format=mp32",
@@ -2669,6 +2679,7 @@
     "https://prod-1.storage.jamendo.com/?trackid=693092&format=mp32",
     "https://prod-1.storage.jamendo.com/?trackid=506497&format=mp32",
     "https://prod-1.storage.jamendo.com/?trackid=13488&format=mp32",
+    "https://prod-1.storage.jamendo.com/?trackid=665946&format=mp32",
     "https://prod-1.storage.jamendo.com/?trackid=665946&format=mp32"
   ],
   "topicPhotographers": {
