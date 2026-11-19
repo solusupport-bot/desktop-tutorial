@@ -1,5 +1,5 @@
 {
-  "lastIndex": 48,
+  "lastIndex": 49,
   "history": [
     {
       "index": 22,
@@ -953,6 +953,12 @@
       "index": 48,
       "topic": "Hiking in Korea like a local: subway-accessible peaks, seasonal trail closures, and the gear culture",
       "at": "2026-11-19T21:23:10.035Z",
+      "source": "facebook-fill"
+    },
+    {
+      "index": 49,
+      "topic": "Where Koreans actually buy everyday stuff: Daiso vs. Olive Young vs. hypermarkets vs. the traditional market",
+      "at": "2026-11-19T23:07:26.946Z",
       "source": "facebook-fill"
     }
   ],
@@ -2192,7 +2198,8 @@
     "https://pixabay.com/get/g00449fcfcdc15c32127623e26a6648ecf39055b56da21c5233c3bbf73a4e357e0e00bde861d2fa060d8da01035238dd0415ed71d7e7c9609864004bcfb38607e_1280.jpg#pixabay=3328100",
     "https://pixabay.com/get/ge2ac8256fc32425597398408a5fd428ed6b4997cbe08a20a2b2c7aba4e1d2dcf0ffe8550f38101b6da8b3ec9377140f7c39ae2108a38613b58ffb777431657d4_1280.jpg#pixabay=8226119",
     "https://images.pexels.com/photos/8651558/pexels-photo-8651558.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://images.pexels.com/photos/18936007/pexels-photo-18936007.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "https://images.pexels.com/photos/18936007/pexels-photo-18936007.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://pixabay.com/get/g763f0264c3cfbb66c18bd91325babc32c316eb058aa2031d0c56928cc47ca9058a749cc37916c1b222849cdb1286006e3945e15839213a1095feea2568948c5f_1280.jpg#pixabay=7366040"
   ],
   "recentVideoUrls": [
     "https://videos.pexels.com/video-files/19577787/19577787-uhd_2160_3840_30fps.mp4",
@@ -2709,7 +2716,10 @@
     "https://videos.pexels.com/video-files/8756891/8756891-uhd_4096_2160_25fps.mp4",
     "https://videos.pexels.com/video-files/19022170/19022170-uhd_3840_2160_60fps.mp4",
     "https://videos.pexels.com/video-files/36592657/15514605_1080_1920_30fps.mp4",
-    "https://cdn.pixabay.com/video/2025/09/22/305657_large.mp4"
+    "https://cdn.pixabay.com/video/2025/09/22/305657_large.mp4",
+    "https://videos.pexels.com/video-files/40033215/17084578_1080_1920_30fps.mp4",
+    "https://videos.pexels.com/video-files/29242639/12618803_3840_2160_24fps.mp4",
+    "https://videos.pexels.com/video-files/29354421/12650396_3840_2160_24fps.mp4"
   ],
   "recentMusicUrls": [
     "https://prod-1.storage.jamendo.com/?trackid=20237&format=mp32",
@@ -2803,6 +2813,7 @@
     "https://prod-1.storage.jamendo.com/?trackid=693092&format=mp32",
     "https://prod-1.storage.jamendo.com/?trackid=506497&format=mp32",
     "https://prod-1.storage.jamendo.com/?trackid=13488&format=mp32",
+    "https://prod-1.storage.jamendo.com/?trackid=665946&format=mp32",
     "https://prod-1.storage.jamendo.com/?trackid=665946&format=mp32",
     "https://prod-1.storage.jamendo.com/?trackid=665946&format=mp32",
     "https://prod-1.storage.jamendo.com/?trackid=665946&format=mp32",

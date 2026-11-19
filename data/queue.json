@@ -51511,5 +51511,40 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-19T21:34:45.522Z",
     "blogUrl": "https://landinkorea.com/posts/korea-hiking-in-korea-like-a-local-subway-accessible-peaks-seasonal-trail-closures-and-the-gear-culture.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "8fb71c24-0a29-4b57-80e4-d1d0ef1428db",
+    "text": "Tap your T-money card twice at the Jongno 3-ga transfer and you lose money without knowing it.\n\nHypermarkets like E-Mart, Homeplus, and Lotte Mart close a couple of days each month.\n\nTraditional markets are cheaper for produce and offer bulk portions sized for families.\n\n📖 Full guide: https://landinkorea.com/posts/korea-where-koreans-actually-buy-everyday-stuff-daiso-vs-olive-young-vs-hypermarkets-vs-the-traditional-market.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post\n\n🎬 Video source: Pexels\n\n🎵 \"Anima Pop - Ink\" by Vienna In Love is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.\n\n🇯🇵 T-マネーカードを Jongno 3-ga での乗り換えで 2 回タップすると、莫大な金額を無念なく失うことになる。\n\n🇨🇳 在 Jongno 3-ga 转乘时，使用 T-money 卡片两次点击，会无意中损失大量的钱。\n\n🇹🇼 在 Jongno 3-ga 轉乘時，使用 T-money 卡片兩次點擊，會無意中損失大量的錢。",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1795130134289-instagram.mp4",
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-20T08:21:09.214Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-19T23:15:36.509Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g763f0264c3cfbb66c18bd91325babc32c316eb058aa2031d0c56928cc47ca9058a749cc37916c1b222849cdb1286006e3945e15839213a1095feea2568948c5f_1280.jpg#pixabay=7366040"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/40033215/17084578_1080_1920_30fps.mp4",
+    "videoAttribution": "Pexels",
+    "topic": "Where Koreans actually buy everyday stuff: Daiso vs. Olive Young vs. hypermarkets vs. the traditional market",
+    "qualityGate": {
+      "pass": false,
+      "reason": "첫 줄 규칙 위반: facebook: 최근 30일 안에 쓴 첫 줄 재사용",
+      "model": "rule",
+      "failedPlatforms": [
+        "facebook"
+      ],
+      "checkedAt": "2026-11-19T23:15:17.636Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-19T23:15:36.489Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-where-koreans-actually-buy-everyday-stuff-daiso-vs-olive-young-vs-hypermarkets-vs-the-traditional-market.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]
