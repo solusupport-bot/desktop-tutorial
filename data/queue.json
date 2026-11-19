@@ -49945,5 +49945,38 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-19T06:42:14.006Z",
     "blogUrl": "https://landinkorea.com/posts/korea-domestic-flights-vs-ktx-for-jeju-and-long-distance-trips.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "262a34ec-8858-4745-a498-2da7cb46bd32",
+    "text": "The math that actually decides if a pass is worth it: add up the individual entry prices for everything you'd actually visit that day, then compare against the pass price — most people skip this step and just assume bundling is automatically cheaper.\n\nPasses work best on days packed with paid palace/museum/tower visits back to back, and worst on days mixing in a lot of free attractions (parks, markets, walking neighborhoods) that don't need a pass at all.\n\n📖 Full guide: https://landinkorea.com/posts/korea-seoul-attraction-pass-comparison.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post\n\n🇯🇵 実際にパスが価値あるかどうかを判断する数学: 1日あなたが訪れる個々のエントリー価格を合計し、パス価格と比較する。多くの人はこれを省略して、バンドリングが自動的に安くなると仮定するだけだ。\n\n🇨🇳 计算实际上决定一个门票是否值得的数学：将你实际上会访问的每个项目的个人入口价格加起来，然后与门票价格进行比较。大多数人都会跳过这个步骤，仅仅假设打包一定是更便宜的。\n\n🇹🇼 計算實際上決定一個門票是否值得的數學：將你實際上會訪問的每個項目的個人入口費用加總，然後與門票費用比較。大多數人都會跳過這一步，僅僅假設打包一定是更便宜的。",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795071158895-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795071158895-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-19T09:58:51.007Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-19T06:52:41.151Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/37436236/pexels-photo-37436236.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Seoul attraction pass comparison",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽게 완성돼 있으며 과장된 사실이 없어 여행자에게 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-19T06:49:22.953Z",
+      "pattern": "B"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-seoul-attraction-pass-comparison.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]
