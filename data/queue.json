@@ -49154,7 +49154,7 @@
       "tumblr"
     ],
     "scheduledAt": "2026-11-19T06:00:34.614Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-18T07:38:48.173Z",
     "approved": true,
@@ -49216,7 +49216,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-11-18T22:06:04.290Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-18T07:52:03.240Z",
     "approved": true,
@@ -49643,7 +49643,7 @@
       "tumblr"
     ],
     "scheduledAt": "2026-11-19T05:52:43.223Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-11-18T08:12:29.145Z",
     "approved": true,
@@ -49660,7 +49660,8 @@
       "model": "groq",
       "checkedAt": "2026-11-18T08:05:47.431Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-esim-mobile-data.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-esim-mobile-data.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
+    "rejectReason": "duplicate: same text already published on this platform"
   },
   {
     "id": "1d8e6565-639e-4caf-b235-1bf82c5d1df7",
