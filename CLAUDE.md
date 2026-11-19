@@ -30,6 +30,22 @@ numbers)는 중복 쪽이 미발행이라 같이 제거. 재발 방지: `scripts
 
 ---
 
+## 🪝 SNS 첫 줄 규칙 (2026-11-19 실측 근거 — 범용 오프닝 문장 금지)
+
+10/19~11/19 Threads 101건 실측: 범용 오프닝 문장("Everyone assumes this works the same as back home.
+It doesn't." 28회 등 6개 문장, 65건)으로 시작한 글은 조회 중앙값 47회, 구체적 장소·상황으로 시작한 글은
+161회(약 3.4배). 조회 상위 10건은 전부 "At Incheon Airport, you might assume…"처럼 장소+상황 첫 줄이었다.
+
+- 첫 줄은 항상 **실제 장소명 또는 구체적 순간 + 외국인이 하는 착각/질문**으로 시작한다. 캡션을 손으로
+  미리 쓸 때(`data/sns_content_queue.json`)도 동일.
+- `lib/curation/curate.js`의 `PROMISE_OPENERS`(범용 문장 뱅크)는 삭제됐다. **다시 만들지 말 것** —
+  캐시 캡션 앞에 얹는 `applyPromiseHook`도 삭제(`finalizeCachedCaption`은 Instagram CTA만 보장).
+- `lib/scheduler/quality_gate.js`의 `checkOpeners`가 발행 전에 ① 구 범용 문장으로 시작하는 글,
+  ② 같은 플랫폼에서 최근 30일 안에 쓴 첫 줄과 똑같은 글을 반려한다. 반복보다 그날 안 올리는 게 낫다
+  — 이 검사를 완화하거나 건너뛰지 말 것. 테스트: `node --test lib/scheduler/quality_gate.test.js`.
+
+---
+
 ## 🖼️ 미디어 3대 원칙 (2026-10-02 사용자 반복 지시 — "제발 규칙으로 만들어서 실수하지 말자")
 
 **사용자가 같은 지적을 여러 번 반복한 뒤 명시적으로 규칙화를 요청함.** 이미지/영상을 다루는
