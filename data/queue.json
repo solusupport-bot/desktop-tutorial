@@ -51158,5 +51158,38 @@
       "pattern": "E"
     },
     "blogUrl": "https://landinkorea.com/index.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "e69c9c96-1fb9-45c8-8b95-bf1ed73a37e2",
+    "text": "Hangul was designed to be learnable, and that's not a marketing line — it's an alphabet of 24 basic letters assembled into square syllable blocks, and most people can sound out words after a few focused hours.\n\nThe payoff is immediate in restaurants and cafes, because a big share of menu items are loanwords written phonetically: 아메리카노 (americano), 치즈 (cheese), 케이크 (cake), 라면 (ramyeon).\n\nBeing able to decode even slowly means you can order at a Korean-only kiosk, recognize a bus destination, and tell 입구 (entrance) from 출구 (exit). What would you add for someone landing tomorrow?\n\n🇯🇵 ハングルは、24の基本文字からなる平方音節ブロックで構成され、集中して数時間の練習で、ほとんどの人々が音を音素に分解することができる。\n\n🇨🇳 韩语字母是24个基本字母组成的方块音节块，几小时的专注练习后，许多人都能正确读音。\n\n🇹🇼 韓語字母是24個基本字母組成的方塊音節塊，幾小時的專注練習後，許多人都能正確讀音。",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795097629646-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795097629646-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-19T23:51:14.764Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-19T14:13:51.964Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/gffe6d3c0c227a90b14bfe31c74a1ab1338dee3f6623fbf2b7c683efd69556c57ce70cc2a0c4cce7d23c7343cf42d2bd228fd5bed37d1c3ff6e24f555b995ee64_1280.jpg#pixabay=7995878"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/7345058/7345058-uhd_3840_2160_25fps.mp4",
+    "videoAttribution": null,
+    "topic": "Learning to read Hangul in a weekend — and why romanized signs still confuse you",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제가 일치하고 문장이 자연스럽고 사실도 정확해 여행에 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-19T14:10:15.637Z",
+      "pattern": "D"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-learning-to-read-hangul-in-a-weekend-and-why-romanized-signs-still-confuse-you.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
