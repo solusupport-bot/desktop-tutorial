@@ -49739,5 +49739,39 @@
       "pattern": "C"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-bukchon-hanok-village.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "835d3eaf-624d-4337-b4fe-f8bea3162388",
+    "text": "🚨 Don't tap your T-money card twice at the N Seoul Tower elevator! 🚨\n\nFree hike up Namsan takes 30-40 minutes from Myeongdong.\n\nPaid deck view is not worth it, free plaza view is above the city skyline.\n\n📖 Full guide: https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post\n\n🇯🇵 🚨 NソウルタワーのエレベーターでT-moneyカードを二度タップしないで！ 🚨\n\n明洞からの無料ハイキングで南山へは30〜40分かかります。\n\n有料デッキの眺めは価値がなく、無料広場の眺めは街のスカイラインを上回ります。\n\n📖 完全ガイド: https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post\n\n🇨🇳 🚨 别在首尔塔电梯上刷两次T-money卡！ 🚨\n\n从明洞免费徒步上南山需30-40分钟。\n\n付费观景台不值得，免费广场的视野高于城市天际线。\n\n📖 完整指南: https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post\n\n🇹🇼 🚨 別在首爾塔電梯上刷兩次T-money卡！ 🚨\n\n從明洞免費徒步上南山需要30-40分鐘。\n\n付費觀景台不值得，免費廣場的視野高於城市天際線。\n\n📖 完整指南: https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795061115128-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795061115128-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-19T22:43:34.814Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-19T04:06:49.099Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/36670527/pexels-photo-36670527.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/19743349/19743349-hd_1080_1920_30fps.mp4",
+    "videoAttribution": null,
+    "topic": "N Seoul Tower (Namsan)",
+    "qualityGate": {
+      "pass": false,
+      "reason": "캡션 내용은 주제와 관련이 있으나, 유용성은 떨어져 보인다.",
+      "model": "groq",
+      "checkedAt": "2026-11-19T04:05:08.205Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-19T04:06:49.079Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]
