@@ -50969,5 +50969,41 @@
       "pattern": "C"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-tipping-and-service-charges.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "766f04b2-7473-4171-9679-5019b21a6a81",
+    "text": "📖 Free service time at noraebangs: 10-30 minutes extra at no cost. Weekday prices are cheaper than weekend nights. Tambourines on the wall are meant to be used. 📖 Full guide: https://english.visitkorea.or.kr\n\n🇯🇵 📖 ノ래방の無料サービス時間: 10〜30分の追加利用が無料です。平日の料金は週末の夜より安いです。壁にあるタンバリンは使うためのものです。📖 完全ガイド: https://english.visitkorea.or.kr\n\n🇨🇳 📖 K-歌房免费服务时间：额外10-30分钟免费。工作日价格比周末夜晚更便宜。墙上的铃鼓是供使用的。📖 完整指南：https://english.visitkorea.or.kr\n\n🇹🇼 📖 K-歌房免費服務時間：額外10-30分鐘免費。工作日價格比週末夜晚更便宜。牆上的鈴鼓是供使用的。📖 完整指南：https://english.visitkorea.or.kr",
+    "imageUrl": null,
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-19T10:52:02.804Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-19T10:43:54.356Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Noraebang etiquette: how Korean karaoke actually works for first-timers",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: facebook: generic teaser, 'Full guide: https://english.visitkorea.or.kr' does not deliver the promised information. | instagram: missing payoff, 'Save this for your Korea trip!' is generic engagement bait. | mastodon: missing payoff, 'What's your favorite noraebang experience in Korea?' is generic engagement bait. | tumblr: missing payoff, 'Save this for your Korea trip!' is generic engagement bait.",
+      "failedPlatforms": [
+        "facebook",
+        "instagram",
+        "mastodon",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "O",
+      "checkedAt": "2026-11-19T10:43:27.826Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-19T10:43:54.342Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-noraebang-etiquette-how-korean-karaoke-actually-works-for-first-timers.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]
