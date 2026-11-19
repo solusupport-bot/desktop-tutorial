@@ -48818,7 +48818,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-11-18T22:44:56.675Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-18T02:27:08.221Z",
     "approved": true,
@@ -50921,7 +50921,7 @@
       "instagram"
     ],
     "scheduledAt": "2026-11-19T12:07:18.780Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-19T10:18:08.364Z",
     "approved": true,
