@@ -49978,5 +49978,730 @@
       "pattern": "B"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-seoul-attraction-pass-comparison.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "d62369c1-628c-4c69-8cc9-72a96800e838",
+    "text": "Tap your T-money card twice at the transfer point in Jongno 3-ga and you lose money without knowing it.\n\nThe exact number is 2, the minimum fare for a T-money transfer.\n\nOne practical observation is that T-money is convenient but can be confusing for visitors. One caution is that the transfer fare is automatically deducted when you tap your card twice. Did this confuse you too?\n\n🇯🇵 Jongno 3-gaの転換点でT-moneyカードを2回タップすると、2の最小運賃が自動的に引き落とされます。\n\n🇨🇳 在 Jongno 3-ga 转换点使用 T-money 卡两次，自动扣除 2 的最低运费。\n\n🇹🇼 在 Jongno 3-ga 轉換點使用 T-money 卡兩次，自動扣除 2 的最低運費。",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795073253062-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795073253062-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-20T04:32:50.765Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-19T07:27:43.030Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/6059954/pexels-photo-6059954.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2021/09/09/87884-602894619_large.mp4",
+    "videoAttribution": null,
+    "topic": "Korean public holidays that disrupt travel plans",
+    "qualityGate": {
+      "pass": false,
+      "reason": "캡션이 대중교통 T‑money 이용 안내로, 한국 여행 일정에 영향을 주는 공휴일 주제와 무관합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-19T07:27:17.575Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-19T07:27:43.010Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-korean-public-holidays-that-disrupt-travel-plans.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "0ef8e9fd-1026-47fd-9301-1485d2611913",
+    "text": "2, the minimum fare for a T-money transfer, is deducted when you tap your card twice at the transfer point. \n\nThe fare is automatically deducted, so make sure to tap only once. \n\n📖 Full guide: https://english.visitkorea.or.kr\n\n🎬 Video source: Pixabay\n\n🎵 \"Super Power Pop Rock\" by Kara Square is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/.\n\n🇯🇵 Jongno 3-gaの転換点でT-moneyカードを2回タップすると、2の最小運賃が自動的に引き落とされます。\n\n運賃は自動的に引き落とされるため、1回だけタップしてください。\n\n\n📖 Full guide: https://english.visitkorea.or.kr\n\n🎬 Video source: Pixabay\n\n🎵 \"Super Power Pop Rock\" by Kara Square is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/。\n\n🇨🇳 在 Jongno 3-ga 转换点使用 T-money 卡两次，自动扣除 2 的最低运费。\n\n运费是自动扣除的，所以要注意只 taps 一次。\n\n\n📖 Full guide: https://english.visitkorea.or.kr\n\n🎬 Video source: Pixabay\n\n🎵 \"Super Power Pop Rock\" by Kara Square is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/。\n\n🇹🇼 在 Jongno 3-ga 轉換點使用 T-money 卡兩次，自動扣除 2 的最低運費。\n\n運費是自動扣除的，所以要注意只 taps 一次。\n\n\n📖 Full guide: https://english.visitkorea.or.kr\n\n🎬 Video source: Pixabay\n\n🎵 \"Super Power Pop Rock\" by Kara Square is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/。",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1795073252091-instagram.mp4",
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-19T23:19:31.303Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-19T07:27:43.057Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/6059954/pexels-photo-6059954.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2021/09/09/87884-602894619_large.mp4",
+    "videoAttribution": "Pixabay",
+    "topic": "Korean public holidays that disrupt travel plans",
+    "qualityGate": {
+      "pass": false,
+      "reason": "캡션이 대중교통 T‑money 이용 안내로, 한국 여행 일정에 영향을 주는 공휴일 주제와 무관합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-19T07:27:17.575Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-19T07:27:43.043Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-korean-public-holidays-that-disrupt-travel-plans.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "ec498b38-c4f8-4445-9999-41687a82cce1",
+    "text": "Don't lose money at the Jongno 3-ga transfer without knowing it!\n\nTap your T-money card twice and you'll be charged the minimum fare of 2.\n\nSave this for your Korea trip and avoid unnecessary charges!  #KoreaTravel #Tmoney #KoreaTips #SeoulTransfer #Jongno3ga\n\n📖 Open the Land in Korea link in our profile and search “Korean public holidays that disrupt travel plans”.\n\n🎬 Video source: Pixabay\n\n🎵 \"Super Power Pop Rock\" by Kara Square is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/.\n\n🇯🇵 Jongno 3-gaの転換点でT-moneyカードを2回タップすると、2の最小運賃が自動的に引き落とされます。\n\nこの知識を保存して、不必要な料金を避けてください！ #KoreaTravel #Tmoney #KoreaTips #SeoulTransfer #Jongno3ga\n\n\n📖 Land in Koreaのプロフィールを開いて、「Korean public holidays that disrupt travel plans」を検索してください。\n\n🎬 Video source: Pixabay\n\n🎵 \"Super Power Pop Rock\" by Kara Square is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/。\n\n🇨🇳 在 Jongno 3-ga 转换点使用 T-money 卡两次，自动扣除 2 的最低运费。\n\n保存这个知识，避免不必要的费用！ #KoreaTravel #Tmoney #KoreaTips #SeoulTransfer #Jongno3ga\n\n\n📖 Open the Land in Korea link in our profile and search “Korean public holidays that disrupt travel plans”。\n\n🎬 Video source: Pixabay\n\n🎵 \"Super Power Pop Rock\" by Kara Square is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/。\n\n🇹🇼 在 Jongno 3-ga 轉換點使用 T-money 卡兩次，自動扣除 2 的最低運費。\n\n保存這個知識，避免不必要的費用！ #KoreaTravel #Tmoney #KoreaTips #SeoulTransfer #Jongno3ga\n\n\n📖 Open the Land in Korea link in our profile and search “Korean public holidays that disrupt travel plans”。\n\n🎬 Video source: Pixabay\n\n🎵 \"Super Power Pop Rock\" by Kara Square is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/。",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1795073252091-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-11-20T04:41:12.790Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-19T07:27:43.084Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/6059954/pexels-photo-6059954.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2021/09/09/87884-602894619_large.mp4",
+    "videoAttribution": "Pixabay",
+    "topic": "Korean public holidays that disrupt travel plans",
+    "qualityGate": {
+      "pass": false,
+      "reason": "캡션이 대중교통 T‑money 이용 안내로, 한국 여행 일정에 영향을 주는 공휴일 주제와 무관합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-19T07:27:17.575Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-19T07:27:43.070Z"
+  },
+  {
+    "id": "f2877a86-cd6b-412d-bd04-735ebe220ce1",
+    "text": "Tap your T-money card twice at the Jongno 3-ga transfer and you lose money without knowing it. \n\nThe exact number is 2, the minimum fare for a T-money transfer. \n\nOne practical observation is that T-money is convenient but can be confusing for visitors. \n\nOne caution is that the transfer fare is automatically deducted when you tap your card twice. \n\nDid this confuse you too?\n\n🇯🇵 Jongno 3-gaの転換点でT-moneyカードを2回タップすると、2の最小運賃が自動的に引き落とされます。\n\nこの知識を保存して、不必要な料金を避けてください！\n\n🇨🇳 在 Jongno 3-ga 转换点使用 T-money 卡两次，自动扣除 2 的最低运费。\n\n保存这个知识，避免不必要的费用！\n\n🇹🇼 在 Jongno 3-ga 轉換點使用 T-money 卡兩次，自動扣除 2 的最低運費。\n\n保存這個知識，避免不必要的費用！",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795073253062-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795073253062-v0-0.jpg"
+    ],
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-11-20T05:01:25.210Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-19T07:27:43.111Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/6059954/pexels-photo-6059954.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2021/09/09/87884-602894619_large.mp4",
+    "videoAttribution": null,
+    "topic": "Korean public holidays that disrupt travel plans",
+    "qualityGate": {
+      "pass": false,
+      "reason": "캡션이 대중교통 T‑money 이용 안내로, 한국 여행 일정에 영향을 주는 공휴일 주제와 무관합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-19T07:27:17.575Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-19T07:27:43.097Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-korean-public-holidays-that-disrupt-travel-plans.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "ce462d92-3454-4a18-b0c2-1de5799bf0a5",
+    "text": "Tap your T-money card twice at the Jongno 3-ga transfer and you lose money without knowing it. \n\nThe exact number is 2, the minimum fare for a T-money transfer. \n\nOne practical observation is that T-money is convenient but can be confusing for visitors. \n\nOne caution is that the transfer fare is automatically deducted when you tap your card twice. \n\nDid this confuse you too? #KoreaTravel #Tmoney #KoreaTips #SeoulTransfer\n\n🇯🇵 Jongno 3-gaの転換点でT-moneyカードを2回タップすると、2の最小運賃が自動的に引き落とされます。\n\nこの知識を保存して、不必要な料金を避けてください！ #KoreaTravel #Tmoney #KoreaTips #SeoulTransfer\n\n🇨🇳 在 Jongno 3-ga 转换点使用 T-money 卡两次，自动扣除 2 的最低运费。\n\n保存这个知识，避免不必要的费用！ #KoreaTravel #Tmoney #KoreaTips #SeoulTransfer\n\n🇹🇼 在 Jongno 3-ga 轉換點使用 T-money 卡兩次，自動扣除 2 的最低運費。\n\n保存這個知識，避免不必要的費用！ #KoreaTravel #Tmoney #KoreaTips #SeoulTransfer",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795073253062-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795073253062-v0-0.jpg"
+    ],
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-11-20T05:32:53.452Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-19T07:27:43.137Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/6059954/pexels-photo-6059954.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2021/09/09/87884-602894619_large.mp4",
+    "videoAttribution": null,
+    "topic": "Korean public holidays that disrupt travel plans",
+    "qualityGate": {
+      "pass": false,
+      "reason": "캡션이 대중교통 T‑money 이용 안내로, 한국 여행 일정에 영향을 주는 공휴일 주제와 무관합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-19T07:27:17.575Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-19T07:27:43.123Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-korean-public-holidays-that-disrupt-travel-plans.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "df203699-0bad-43a1-a383-77474b4d4b25",
+    "text": "Don't lose money at the Jongno 3-ga transfer without knowing it! Tap your T-money card twice and you'll be charged the minimum fare of 2. Here are some specific things to keep in mind: 1. The minimum fare is 2. 2. The transfer fare is automatically deducted when you tap your card twice. 3. Make sure to tap only once to avoid unnecessary charges. Save this for your Korea trip and avoid unnecessary charges!\n\n🇯🇵 Jongno 3-gaの転換点でT-moneyカードを2回タップすると、2の最小運賃が自動的に引き落とされます。\n\nこの知識を保存して、不必要な料金を避けてください！\n\n\n具体的に知っておくべきことは次のとおりです。\n1. 最小運賃は2です。\n2. 転換点でT-moneyカードを2回タップすると、運賃が自動的に引き落とされます。\n3. 1回だけタップしてください。\n\n\nこの知識を保存して、不必要な料金を避けてください！\n\n🇨🇳 在 Jongno 3-ga 转换点使用 T-money 卡两次，自动扣除 2 的最低运费。\n\n保存这个知识，避免不必要的费用！\n\n\n具体地知道的应该是下面这些。\n1. 最低运费是2。\n2. 转换点使用 T-money 卡两次，运费是自动扣除的。\n3. 只要 taps 一次。\n\n\n保存这个知识，避免不必要的费用！\n\n🇹🇼 在 Jongno 3-ga 轉換點使用 T-money 卡兩次，自動扣除 2 的最低運費。\n\n保存這個知識，避免不必要的費用！\n\n\n具體地知道的應該是下面這些。\n1. 最低運費是2。\n2. 轉換點使用 T-money 卡兩次，運費是自動扣除的。\n3. 只要 taps 一次。\n\n\n保存這個知識，避免不必要的費用！",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795073253062-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795073253062-v0-0.jpg"
+    ],
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-11-20T07:29:39.268Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-19T07:27:43.163Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/6059954/pexels-photo-6059954.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2021/09/09/87884-602894619_large.mp4",
+    "videoAttribution": null,
+    "topic": "Korean public holidays that disrupt travel plans",
+    "qualityGate": {
+      "pass": false,
+      "reason": "캡션이 대중교통 T‑money 이용 안내로, 한국 여행 일정에 영향을 주는 공휴일 주제와 무관합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-19T07:27:17.575Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-19T07:27:43.149Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-korean-public-holidays-that-disrupt-travel-plans.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "b1533b72-6e7d-40ff-b0da-de9b2b143388",
+    "text": "There are four ways from Incheon to Seoul, and the cheapest on paper isn't always the best deal once you factor in luggage. AREX wins on price and predictability. Deluxe taxis take cards and English. Which do you pick?\n\n🇯🇵 インチョンからソウルへの4つのルートがあり、料金で最も安いものは必ずしも最も良いかどうか?\n\n🇨🇳 从仁川到首尔有四条路线，纸面上最便宜的不是总是最好的选择\n\n🇹🇼 從仁川到首爾有四條路線，紙面上最便宜的不是總是最好的選擇",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-19T15:48:26.351Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-19T07:36:39.222Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/35421863/15007430_1080_1920_30fps.mp4",
+    "videoAttribution": null,
+    "topic": "Airport transfer options",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련 있고 문장이 자연스럽고 사실도 크게 문제되지 않아 발행에 적합합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-19T07:29:48.356Z",
+      "pattern": "B"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-airport-transfer-options.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "5f27d8f8-4b2e-4633-b8f9-8ca500465af3",
+    "text": "Four ways from Incheon to Seoul — and the cheapest one isn't always the smartest pick. ✈️\n\n1. AREX airport railway — cheapest and most predictable, with an express non-stop train to Seoul Station.\n2. Limousine buses drop closer to specific neighborhoods and hotels if you're carrying heavy luggage.\n3. Taxis are metered and reliable but pricier in traffic.\n4. Deluxe/international taxis at the airport take card payment and speak English.\n\nSave this before you land at Incheon.\nWhich transfer do you usually pick?\n\n🇯🇵 インチョンからソウルへの4つのルートがあり、料金で最も安いものは必ずしも最も良いかどうか? ✈️\n\n1. AREX空港鉄道 — 最も安くて予測可能、ソウル駅までの直通特急列車です。\n2. リムジンバスは特定の地区やホテルまで近く、荷物が重い場合は便利です。\n3. タクシーは料金計画で信頼できますが、交通量が多くなるとより高くなる。\n4. デラックス/国際タクシーはカード決済や英語が可能です。\n\nインチョン到着前にこの情報を保存しておきましょう。どの乗り換えを選ぶことが多いですか?\n\n🇨🇳 从仁川到首尔有四条路线，纸面上最便宜的不是总是最好的选择。 ✈️\n\n1. AREX机场铁路 — 最便宜且最可预测，直达首尔站。\n2. 汽车巴士可以到达特定的社区或酒店，如果您带着重型行李，会比较方便。\n3. 汽车计费且可靠，但在交通量大的时候会更加贵。\n4. 高级/国际汽车在机场可以使用卡支付，并且有英语服务。\n\n在到达仁川之前，请保存一下这些信息。您通常会选择哪种转乘方式?\n\n🇹🇼 從仁川到首爾有四條路線，紙面上最便宜的不是總是最好的選擇。 ✈️\n\n1. AREX機場鐵路 — 最便宜且最可預測，直達首爾站。\n2. 汽車巴士可以到達特定的社區或飯店，如果您帶著重型行李，會比較方便。\n3. 汽車計費且可靠，但在交通量大的時候會更加貴。\n4. 高級/國際汽車在機場可以使用卡支付，並且有英文服務。\n\n在到達仁川之前，請保存一下這些資訊。您通常會選擇哪種轉乘方式?",
+    "imageUrl": null,
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-19T08:45:39.142Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-19T07:36:39.256Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/35421863/15007430_1080_1920_30fps.mp4",
+    "videoAttribution": null,
+    "topic": "Airport transfer options",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련 있고 문장이 자연스럽고 사실도 크게 문제되지 않아 발행에 적합합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-19T07:29:48.356Z",
+      "pattern": "B"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-airport-transfer-options.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "ee5015e6-01a9-4d9a-aad5-0d41edf7e652",
+    "text": "There are four ways from Incheon to Seoul, and the cheapest on paper isn't always the best deal once you factor in luggage. AREX wins on price and predictability. Deluxe taxis take cards and English. Which do you pick?",
+    "imageUrl": null,
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-11-19T16:19:42.347Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-19T07:36:39.289Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/35421863/15007430_1080_1920_30fps.mp4",
+    "videoAttribution": null,
+    "topic": "Airport transfer options",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련 있고 문장이 자연스럽고 사실도 크게 문제되지 않아 발행에 적합합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-19T07:29:48.356Z",
+      "pattern": "B"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-airport-transfer-options.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "bfc73c35-213b-404e-ad61-95410fa92887",
+    "text": "There are four ways from Incheon to Seoul, and the cheapest on paper isn't always the best deal once you factor in luggage. AREX wins on price and predictability. Deluxe taxis take cards and English. Which do you pick?",
+    "imageUrl": null,
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-11-19T16:46:50.129Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-19T07:36:39.315Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/35421863/15007430_1080_1920_30fps.mp4",
+    "videoAttribution": null,
+    "topic": "Airport transfer options",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련 있고 문장이 자연스럽고 사실도 크게 문제되지 않아 발행에 적합합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-19T07:29:48.356Z",
+      "pattern": "B"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-airport-transfer-options.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "3b8fd2ea-0bd1-48bd-a59d-1fde1a7aa3fc",
+    "text": "Four ways from Incheon to Seoul — and the cheapest one isn't always the smartest pick. ✈️\n\n1. AREX airport railway — cheapest and most predictable, with an express non-stop train to Seoul Station.\n2. Limousine buses drop closer to specific neighborhoods and hotels if you're carrying heavy luggage.\n3. Taxis are metered and reliable but pricier in traffic.\n4. Deluxe/international taxis at the airport take card payment and speak English.\n\nSave this before you land at Incheon.\nWhich transfer do you usually pick?",
+    "imageUrl": null,
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-11-19T18:47:56.720Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-19T07:36:39.341Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/35421863/15007430_1080_1920_30fps.mp4",
+    "videoAttribution": null,
+    "topic": "Airport transfer options",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련 있고 문장이 자연스럽고 사실도 크게 문제되지 않아 발행에 적합합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-19T07:29:48.356Z",
+      "pattern": "B"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-airport-transfer-options.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "cb307057-5050-4ad3-a244-0569e83dd2eb",
+    "text": "The gesture that reads as rude to older Koreans isn't loud — it's handing over your card with one hand or a pointing finger. Both hands, or a supporting arm, reads well. Pour for others at a shared meal. Knew the two-hands rule?\n\n🇯🇵 年上とされる韓国人には、手でカードを渡す手順が失礼と受け取られることがある\n\n🇨🇳 在韩国的人可能会认为你用一只手拿着钱包或卡片是失礼的\n\n🇹🇼 在韓國的人可能會認為你用一隻手拿著錢包或卡片是失禮的",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795074114148-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795074114148-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-20T02:43:09.667Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-19T07:42:02.348Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g34d90fc857fc4de21efec25e5593ca4d5552d8d46a73fb2cf1ea37125e9cded6ea993ae159b46c6d0dc57f1b311ba31fd9a0b647f5e3bd1260778727f3bbe2f7_1280.jpg#pixabay=5387563"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/4298651/4298651-uhd_3840_2160_25fps.mp4",
+    "videoAttribution": null,
+    "topic": "First-timer etiquette & common mistakes",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 맞는 한국 예절을 설명하고 문장도 크게 어색하지 않아 여행자에게 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-19T07:38:22.607Z",
+      "pattern": "O"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-first-timer-etiquette-common-mistakes.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "21378ee3-46a5-46b1-ba08-f16fee9c5ff2",
+    "text": "One small gesture quietly matters to older Koreans more than most first-timers realize. 🙇\n\n1. Passing money or a card with one hand, or pointing with a single finger, can read as slightly rude.\n2. Using both hands, or supporting your arm, is well received.\n3. It's common to pour drinks for others rather than yourself at a shared meal.\n4. Wait for the eldest or host to start eating first.\n\nSave this before your first meal out in Korea.\nDid you already know the two-hands rule?\n\n🎬 Video source: Pexels\n\n🎵 \"pop\" by nomelo is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/de/.\n\n🇯🇵 年上とされる韓国人には、手でカードを渡す手順が失礼と受け取られることがある。🙇\n1. 一手でカードを渡したり、指を一本立てたりすると、失礼と受け取られることがある。\n2. 両手でカードを渡したり、腕を支えたりすると、受け取られることがある。\n3. 共通の食事の際は、他人に飲み物を注ぐのではなく、自分が飲み物を注ぐことが多い。\n4. 最年長者や主人が食事を始めるのを待つ。\nこの情報を保存して、初めての食事で韓国に来る前に知っておく。\nあなたはすでに2手のルールを知っていた?\n\n🇨🇳 在韩国的人可能会认为你用一只手拿着钱包或卡片是失礼的。\n1. 一只手拿着钱包或卡片，或者只用一根手指指向别人，可能会被认为是失礼的。\n2. 用两只手拿着钱包或卡片，或者用手臂支撑，会被认为是礼貌的。\n3. 在一起吃饭的时候，不是自己倒水，而是倒给别人的水。\n4. 等待最年长者或主人开始吃饭。\n在韩国吃饭之前记住这些信息。\n你已经知道两只手的规则了吗？\n\n🇹🇼 在韓國的人可能會認為你用一隻手拿著錢包或卡片是失禮的。\n1. 一隻手拿著錢包或卡片，或者只用一根手指指向別人，可能會被認為是失禮的。\n2. 用兩隻手拿著錢包或卡片，或者用手臂支撐，會被認為是禮貌的。\n3. 在一起吃飯的時候，不是自己倒水，而是倒給別人的水。\n4. 等待最年長者或主人開始吃飯。\n在韓國吃飯之前記住這些信息。\n你已經知道兩隻手的規則了嗎？",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1795074112760-instagram.mp4",
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-19T08:59:56.962Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-19T07:42:02.383Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g34d90fc857fc4de21efec25e5593ca4d5552d8d46a73fb2cf1ea37125e9cded6ea993ae159b46c6d0dc57f1b311ba31fd9a0b647f5e3bd1260778727f3bbe2f7_1280.jpg#pixabay=5387563"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/4298651/4298651-uhd_3840_2160_25fps.mp4",
+    "videoAttribution": "Pexels",
+    "topic": "First-timer etiquette & common mistakes",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 맞는 한국 예절을 설명하고 문장도 크게 어색하지 않아 여행자에게 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-19T07:38:22.607Z",
+      "pattern": "O"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-first-timer-etiquette-common-mistakes.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "5df60445-40c8-40fc-8630-e647398e94bf",
+    "text": "The gesture that reads as rude to older Koreans in Korea isn't loud — it's how you hand over your card.\n\nUse both hands instead of one — a small habit that goes a long way.\n\nSave this before your Korea trip.\n\n📖 Open the Land in Korea link in our profile and search “First-timer etiquette & common mistakes”.\n\n🎬 Video source: Pexels\n\n#KoreaTravel #SeoulTrip #KoreaTips #TravelKorea #VisitSeoul\n\n🎵 \"pop\" by nomelo is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/de/.\n\n🇯🇵 年上とされる韓国人には、手でカードを渡す手順が失礼と受け取られることがある。 \n両手でカードを渡したり、腕を支えたりすると、受け取られることがある。\n共通の食事の際は、他人に飲み物を注ぐのではなく、自分が飲み物を注ぐことが多い。\n最年長者や主人が食事を始めるのを待つ。\nこの情報を保存して、来韓国旅行する前に知っておく。\nLand in Koreaのプロフィールを開いて、\n\"初めての食事で使える韓国語\"の検索してみて。\n\n#KoreaTravel #SeoulTrip #KoreaTips #TravelKorea #VisitSeoul\n\n🇨🇳 在韩国的人可能会认为你用一只手拿着钱包或卡片是失礼的。\n用两只手拿着钱包或卡片，或者用手臂支撐，会被认为是礼貌的。\n在一起吃饭的时候，不是自己倒水，而是倒给别人的水。\n等待最年长者或主人开始吃饭。\n在来韩国旅游之前记住这些信息。\n打开Land in Korea的链接，搜索“初めての食事で使える韓国語”。\n\n🇹🇼 在韓國的人可能會認為你用一隻手拿著錢包或卡片是失禮的。\n用兩隻手拿著錢包或卡片，或者用手臂支撐，會被認為是禮貌的。\n在一起吃飯的時候，不是自己倒水，而是倒給別人的水。\n等待最年長者或主人開始吃飯。\n在來韓國旅行之前記住這些信息。\n打開Land in Korea的連結，搜尋“初めての食事で使える韓國語”。",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1795074112760-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-11-20T02:52:37.533Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-19T07:42:02.416Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g34d90fc857fc4de21efec25e5593ca4d5552d8d46a73fb2cf1ea37125e9cded6ea993ae159b46c6d0dc57f1b311ba31fd9a0b647f5e3bd1260778727f3bbe2f7_1280.jpg#pixabay=5387563"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/4298651/4298651-uhd_3840_2160_25fps.mp4",
+    "videoAttribution": "Pexels",
+    "topic": "First-timer etiquette & common mistakes",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 맞는 한국 예절을 설명하고 문장도 크게 어색하지 않아 여행자에게 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-19T07:38:22.607Z",
+      "pattern": "O"
+    }
+  },
+  {
+    "id": "44b20f33-97a2-42ca-8080-eccca83bd9fe",
+    "text": "The gesture that reads as rude to older Koreans isn't loud — it's handing over your card with one hand or a pointing finger. Both hands, or a supporting arm, reads well. Pour for others at a shared meal. Knew the two-hands rule?",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795074114148-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795074114148-v0-0.jpg"
+    ],
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-11-20T03:09:33.278Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-19T07:42:02.443Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g34d90fc857fc4de21efec25e5593ca4d5552d8d46a73fb2cf1ea37125e9cded6ea993ae159b46c6d0dc57f1b311ba31fd9a0b647f5e3bd1260778727f3bbe2f7_1280.jpg#pixabay=5387563"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/4298651/4298651-uhd_3840_2160_25fps.mp4",
+    "videoAttribution": null,
+    "topic": "First-timer etiquette & common mistakes",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 맞는 한국 예절을 설명하고 문장도 크게 어색하지 않아 여행자에게 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-19T07:38:22.607Z",
+      "pattern": "O"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-first-timer-etiquette-common-mistakes.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "682570b1-a849-40d4-bbcd-b6f4591797bd",
+    "text": "The gesture that reads as rude to older Koreans isn't loud — it's handing over your card with one hand or a pointing finger. Both hands, or a supporting arm, reads well. Pour for others at a shared meal. Knew the two-hands rule?",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795074114148-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795074114148-v0-0.jpg"
+    ],
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-11-20T03:42:28.804Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-19T07:42:02.471Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g34d90fc857fc4de21efec25e5593ca4d5552d8d46a73fb2cf1ea37125e9cded6ea993ae159b46c6d0dc57f1b311ba31fd9a0b647f5e3bd1260778727f3bbe2f7_1280.jpg#pixabay=5387563"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/4298651/4298651-uhd_3840_2160_25fps.mp4",
+    "videoAttribution": null,
+    "topic": "First-timer etiquette & common mistakes",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 맞는 한국 예절을 설명하고 문장도 크게 어색하지 않아 여행자에게 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-19T07:38:22.607Z",
+      "pattern": "O"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-first-timer-etiquette-common-mistakes.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "a2e585d2-f656-4142-b659-abddc9fb502e",
+    "text": "One small gesture quietly matters to older Koreans more than most first-timers realize. 🙇\n\n1. Passing money or a card with one hand, or pointing with a single finger, can read as slightly rude.\n2. Using both hands, or supporting your arm, is well received.\n3. It's common to pour drinks for others rather than yourself at a shared meal.\n4. Wait for the eldest or host to start eating first.\n\nSave this before your first meal out in Korea.\nDid you already know the two-hands rule?\n\n🇯🇵 年上とされる韓国人には、手でカードを渡す手順が失礼と受け取られることがある。 🙇\n1. 一手でカードを渡したり、指を一本立てたりすると、失礼と受け取られることがある。\n2. 両手でカードを渡したり、腕を支えたりすると、受け取られることがある。\n3. 共通の食事の際は、他人に飲み物を注ぐのではなく、自分が飲み物を注ぐことが多い。\n4. 最年長者や主人が食事を始めるのを待つ。\nこの情報を保存して、初めての食事で韓国に来る前に知っておく。\nあなたはすでに2手のルールを知っていた?\n\n🇨🇳 在韩国的人可能会认为你用一只手拿着钱包或卡片是失礼的。\n1. 一只手拿着钱包或卡片，或者只用一根手指指向别人，可能会被认为是失礼的。\n2. 用两只手拿着钱包或卡片，或者用手臂支撑，会被认为是礼貌的。\n3. 在一起吃饭的时候，不是自己倒水，而是倒给别人的水。\n4. 等待最年长者或主人开始吃饭。\n在韩国吃饭之前记住这些信息。\n你已经知道两只手的规则了吗？\n\n🇹🇼 在韓國的人可能會認為你用一隻手拿著錢包或卡片是失禮的。\n1. 一隻手拿著錢包或卡片，或者只用一根手指指向別人，可能會被認為是失禮的。\n2. 用兩隻手拿著錢包或卡片，或者用手臂支撐，會被認為是禮貌的。\n3. 在一起吃飯的時候，不是自己倒水，而是倒給別人的水。\n4. 等待最年長者或主人開始吃飯。\n在韓國吃飯之前記住這些信息。\n你已經知道兩隻手的規則了嗎？",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795074114148-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795074114148-v0-0.jpg"
+    ],
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-11-20T05:37:51.806Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-19T07:42:02.496Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g34d90fc857fc4de21efec25e5593ca4d5552d8d46a73fb2cf1ea37125e9cded6ea993ae159b46c6d0dc57f1b311ba31fd9a0b647f5e3bd1260778727f3bbe2f7_1280.jpg#pixabay=5387563"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/4298651/4298651-uhd_3840_2160_25fps.mp4",
+    "videoAttribution": null,
+    "topic": "First-timer etiquette & common mistakes",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 맞는 한국 예절을 설명하고 문장도 크게 어색하지 않아 여행자에게 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-19T07:38:22.607Z",
+      "pattern": "O"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-first-timer-etiquette-common-mistakes.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "a2fcfa3b-fff8-4be8-a6b4-6a0351131637",
+    "text": "Korea feels cash-optional until you hit a market that only takes cash — and by then it's too late. Most city spots take foreign cards, but traditional markets can be cash-only. Look for 'Global' ATMs. Ever gotten caught cash-less?\n\n🇯🇵 都市部では外国カードが受け入れられるが、市場ではお釣りが出ないことがある\n\n🇨🇳 城市里外国卡可以使用，但市場里卻有時不會給你零錢\n\n🇹🇼 城市里外國卡可以使用，但市場里卻有時不給零錢",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795074345345-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795074345345-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-20T04:34:06.321Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-19T07:45:50.186Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g799b9176e4c6530377b72d5cdc4d13417d874d6f219800aac2d70bb409cff3d82170713313907526594c8c84db52cd494374048508d74a5d79eb677ac407b4f9_1280.jpg#pixabay=3538984"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2023/10/11/184536-873554738_large.mp4",
+    "videoAttribution": null,
+    "topic": "Currency & card payments",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽으며 과장된 사실 없이 여행자에게 유용한 내용이다",
+      "model": "groq",
+      "checkedAt": "2026-11-19T07:43:00.818Z",
+      "pattern": "A"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-currency-card-payments.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "d0e52d02-5bcb-4c75-935d-b95b7c3aacfa",
+    "text": "Korea feels cash-optional — until it very much isn't. 💵\n\n1. Most cafes, convenience stores, and restaurants in cities accept foreign Visa/Mastercard.\n2. Small traditional markets and some rural spots can be cash-only.\n3. Look for 'Global' ATMs — Woori, KEB Hana, or 7-Eleven — for reliable international card withdrawals.\n4. Notify your bank of your travel dates beforehand to avoid a card freeze.\n\nSave this before your market day.\nHave you ever gotten caught cash-less at a Korean market?\n\n🎬 Video source: Pixabay\n\n🎵 \"Pop\" by Pinks in the Garden is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.\n\n🇯🇵 韓国はキャッシュレスが一般的だと思われますが、実際はそうではありません。💵\n\n1. 都市のカフェ、コンビニ、レストランはほとんどが外国カードを受け入れます。\n2. 小さな市場や農村部の店はキャッシュのみを受け付けることがあります。\n3. 信頼できる国際カード引き落としを行うために、グローバルATMを探してください。 Woori、KEB Hana、または7-Eleven。\n4. 旅行の予定を銀行に通知して、カードの凍結を回避してください。\n\n市場の日にこの情報を保存してください。\n韓国市場でキャッシュレスで困ったことはありますか？\n\n🎬 ビデオソース：Pixabay\n\n🎵 \"Pop\" by Pinks in the Garden は CC BY-SA 3.0 ライセンスの下でライセンスされています。ライセンスのコピーを確認するには、https://creativecommons.org/licenses/by-sa/3.0/ を訪問してください。",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1795074344295-instagram.mp4",
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-20T00:36:47.181Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-19T07:45:50.218Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g799b9176e4c6530377b72d5cdc4d13417d874d6f219800aac2d70bb409cff3d82170713313907526594c8c84db52cd494374048508d74a5d79eb677ac407b4f9_1280.jpg#pixabay=3538984"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2023/10/11/184536-873554738_large.mp4",
+    "videoAttribution": "Pixabay",
+    "topic": "Currency & card payments",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽으며 과장된 사실 없이 여행자에게 유용한 내용이다",
+      "model": "groq",
+      "checkedAt": "2026-11-19T07:43:00.818Z",
+      "pattern": "A"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-currency-card-payments.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "ac2609ce-e178-4a3f-8748-155735179677",
+    "text": "Korea looks cash-optional — until you're standing in a market that only takes cash.\n\nKeep some won on hand, and use 'Global' ATMs for reliable withdrawals.\n\nSave this before you shop in Korea.\n\n📖 Open the Land in Korea link in our profile and search “Currency & card payments”.\n\n🎬 Video source: Pixabay\n\n#KoreaTravel #SeoulTrip #KoreaTips #TravelKorea #VisitSeoul\n\n🎵 \"Pop\" by Pinks in the Garden is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.\n\n🇯🇵 韓国はキャッシュレスが一般的だと思われますが、実際はそうではありません。\n\nキャッシュを持っておきましょう。信頼できる引き落としを行うために、グローバルATMを探してください。\n\n市場の日にこの情報を保存してください。\n\n📖 このページのプロフィールにリンクして、\"Currency & card payments\" を検索してください。\n\n🎬 ビデオソース：Pixabay\n\n#KoreaTravel #SeoulTrip #KoreaTips #TravelKorea #VisitSeoul\n\n🎵 \"Pop\" by Pinks in the Garden は CC BY-SA 3.0 ライセンスの下でライセンスされています。ライセンスのコピーを確認するには、https://creativecommons.org/licenses/by-sa/3.0/ を訪問してください。",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1795074344295-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-11-20T04:45:37.194Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-19T07:45:50.250Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g799b9176e4c6530377b72d5cdc4d13417d874d6f219800aac2d70bb409cff3d82170713313907526594c8c84db52cd494374048508d74a5d79eb677ac407b4f9_1280.jpg#pixabay=3538984"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2023/10/11/184536-873554738_large.mp4",
+    "videoAttribution": "Pixabay",
+    "topic": "Currency & card payments",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽으며 과장된 사실 없이 여행자에게 유용한 내용이다",
+      "model": "groq",
+      "checkedAt": "2026-11-19T07:43:00.818Z",
+      "pattern": "A"
+    }
+  },
+  {
+    "id": "3d812daf-2c94-4994-83de-34082a1ff81e",
+    "text": "Korea feels cash-optional until you hit a market that only takes cash — and by then it's too late. Most city spots take foreign cards, but traditional markets can be cash-only. Look for 'Global' ATMs. Ever gotten caught cash-less?\n\n🇯🇵 都市部では外国カードが受け入れられるが、市場ではお釣りが出ないことがある",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795074345345-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795074345345-v0-0.jpg"
+    ],
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-11-20T05:04:49.689Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-19T07:45:50.276Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g799b9176e4c6530377b72d5cdc4d13417d874d6f219800aac2d70bb409cff3d82170713313907526594c8c84db52cd494374048508d74a5d79eb677ac407b4f9_1280.jpg#pixabay=3538984"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2023/10/11/184536-873554738_large.mp4",
+    "videoAttribution": null,
+    "topic": "Currency & card payments",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽으며 과장된 사실 없이 여행자에게 유용한 내용이다",
+      "model": "groq",
+      "checkedAt": "2026-11-19T07:43:00.818Z",
+      "pattern": "A"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-currency-card-payments.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "4f168ace-e65d-4e6f-a5e7-a60b6883b898",
+    "text": "Korea feels cash-optional until you hit a market that only takes cash — and by then it's too late. Most city spots take foreign cards, but traditional markets can be cash-only. Look for 'Global' ATMs. Ever gotten caught cash-less?\n\n🇯🇵 都市部では外国カードが受け入れられるが、市場ではお釣りが出ないことがある",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795074345345-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795074345345-v0-0.jpg"
+    ],
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-11-20T05:34:28.694Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-19T07:45:50.303Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g799b9176e4c6530377b72d5cdc4d13417d874d6f219800aac2d70bb409cff3d82170713313907526594c8c84db52cd494374048508d74a5d79eb677ac407b4f9_1280.jpg#pixabay=3538984"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2023/10/11/184536-873554738_large.mp4",
+    "videoAttribution": null,
+    "topic": "Currency & card payments",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽으며 과장된 사실 없이 여행자에게 유용한 내용이다",
+      "model": "groq",
+      "checkedAt": "2026-11-19T07:43:00.818Z",
+      "pattern": "A"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-currency-card-payments.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "d5f7c895-8fb9-498c-ae67-328408eefa9a",
+    "text": "Korea feels cash-optional — until it very much isn't. 💵\n\n1. Most cafes, convenience stores, and restaurants in cities accept foreign Visa/Mastercard.\n2. Small traditional markets and some rural spots can be cash-only.\n3. Look for 'Global' ATMs — Woori, KEB Hana, or 7-Eleven — for reliable international card withdrawals.\n4. Notify your bank of your travel dates beforehand to avoid a card freeze.\n\nSave this before your market day.\nHave you ever gotten caught cash-less at a Korean market?\n\n🇯🇵 韓国はキャッシュレスが一般的だと思われますが、実際はそうではありません。💵\n\n1. 都市のカフェ、コンビニ、レストランはほとんどが外国カードを受け入れます。\n2. 小さな市場や農村部の店はキャッシュのみを受け付けることがあります。\n3. 信頼できる国際カード引き落としを行うために、グローバルATMを探してください。 Woori、KEB Hana、または7-Eleven。\n4. 旅行の予定を銀行に通知して、カードの凍結を回避してください。\n\n市場の日にこの情報を保存してください。\n韓国市場でキャッシュレスで困ったことはありますか？\n\n🎬 ビデオソース：Pixabay\n\n🎵 \"Pop\" by Pinks in the Garden は CC BY-SA 3.0 ライセンスの下でライセンスされています。ライセンスのコピーを確認するには、https://creativecommons.org/licenses/by-sa/3.0/ を訪問してください。",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795074345345-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795074345345-v0-0.jpg"
+    ],
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-11-20T07:33:37.068Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-19T07:45:50.329Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g799b9176e4c6530377b72d5cdc4d13417d874d6f219800aac2d70bb409cff3d82170713313907526594c8c84db52cd494374048508d74a5d79eb677ac407b4f9_1280.jpg#pixabay=3538984"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2023/10/11/184536-873554738_large.mp4",
+    "videoAttribution": null,
+    "topic": "Currency & card payments",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽으며 과장된 사실 없이 여행자에게 유용한 내용이다",
+      "model": "groq",
+      "checkedAt": "2026-11-19T07:43:00.818Z",
+      "pattern": "A"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-currency-card-payments.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
   }
 ]
