@@ -51044,5 +51044,33 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-19T11:06:17.169Z",
     "blogUrl": "https://landinkorea.com/posts/korea-timing-cherry-blossoms-and-fall-foliage-in-korea-without-hitting-peak-crowds.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "b18af08e-56c7-4ac2-bc11-64220f317336",
+    "text": "Tap your T-money card twice at the Jongno 3-ga transfer and you lose money without knowing it.\n\nTry tapping your card once at the kiosk and you'll be fine.\n\nThe kiosk will also reject cash.\n\n📖 Full guide: https://english.visitkorea.or.kr\n\n🇯🇵 T-moneyカードを Jongno 3-ga の転換駅で2回タップするとお金が無駄になることがあります。\n\n1回タップするか、キオスクでタップしてみましょう。\n\nキオスクではお金は受け付けられません。\n\n📖 フルガイド: https://english.visitkorea.or.kr\n\n🇨🇳 T-money卡在 Jongno 3-ga 转换站两次点击可能会错失钱。\n\n试试在机器人上点击一次。\n\n机器人也不会接收现金。\n\n📖 全部指南: https://english.visitkorea.or.kr\n\n🇹🇼 T-money卡在 Jongno 3-ga 轉換站兩次點擊可能會錯失錢。\n\n試試在機器人上點擊一次。\n\n機器人也不会接收現金。\n\n📖 全部指南: https://english.visitkorea.or.kr",
+    "imageUrl": null,
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-20T09:42:25.794Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-19T11:23:30.585Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Unmanned kiosk ordering in Korea: why humans are disappearing from the counter",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련된 내용이며 문장도 자연스럽고 사실도 타당해 여행자에게 유용합니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-19T11:20:13.533Z",
+      "pattern": "E"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-unmanned-kiosk-ordering-in-korea-why-humans-are-disappearing-from-the-counter.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]
