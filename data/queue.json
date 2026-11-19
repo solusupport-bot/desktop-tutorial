@@ -51191,5 +51191,34 @@
       "pattern": "D"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-learning-to-read-hangul-in-a-weekend-and-why-romanized-signs-still-confuse-you.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "958dc958-80f3-43f4-b4b2-dc8ccb6542e9",
+    "text": "Pharmacies in Korea are separate from clinics.\nPharmacists can recommend over-the-counter medicine for mild symptoms.\nMany pharmacies are within a minute's walk of each other.\n📖 Full guide: https://landinkorea.com/posts/korea-hospital-vs-clinic-vs-pharmacy-in-korea-where-to-actually-go-when-you-get-sick.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post\n\n🇯🇵 韓国では薬局と診療所は別々です。薬剤師は軽症の症状に対するオーバー・ザ・カウンター薬を推奨できます。多くの薬局は歩行で1分以内の所にあります。📖詳細はこちら: https://landinkorea.com/posts/korea-hospital-vs-clinic-vs-pharmacy-in-korea-where-to-actually-go-when-you-get-sick.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post\n\n🇨🇳 韩国药店和诊所是分开的。药剂师可以推荐轻症症状的非处方药。很多药店距离彼此仅一步之遥。📖详细指南：https://landinkorea.com/posts/korea-hospital-vs-clinic-vs-pharmacy-in-korea-where-to-actually-go-when-you-get-sick.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post\n\n🇹🇼 韓國的藥局和診所是分開的。藥劑師可以建議輕症的症狀的非處方藥。很多藥局距離彼此僅一步之遙。📖詳情：https://landinkorea.com/posts/korea-hospital-vs-clinic-vs-pharmacy-in-korea-where-to-actually-go-when-you-get-sick.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": null,
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-20T00:38:55.220Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-19T14:30:15.061Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Hospital vs. clinic vs. pharmacy in Korea: where to actually go when you get sick",
+    "qualityGate": {
+      "pass": false,
+      "reason": "T‑money 카드를 두 번 탭하면 돈이 빠진다는 내용이 사실과 다르고 오해를 일으킬 수 있어 발행에 부적합합니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-19T14:30:09.147Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-19T14:30:15.035Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-hospital-vs-clinic-vs-pharmacy-in-korea-where-to-actually-go-when-you-get-sick.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]
