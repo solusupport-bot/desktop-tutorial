@@ -52467,5 +52467,47 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-20T11:35:37.237Z",
     "blogUrl": "https://landinkorea.com/posts/korea-busan-haeundae-beach-gamcheon-culture-village.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "385906b9-8af4-44d6-99da-0991a4a9d767",
+    "text": "Tap twice at the airport kiosk: 10,000 won lost.\nBuy a T-money card with one tap.\nSave your receipt.\n📖 Full guide: https://landinkorea.com/posts/korea-jeju-island.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post\n\n🇯🇵 空港のキオスクで2回タップすると、10,000 wonが失われます。\nT-moneyカードを1回のタップで購入。\nレシートを保存してください。\n📖 完全ガイド: https://landinkorea.com/posts/korea-jeju-island.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post\n\n🇨🇳 在机场自助机上轻点两次：10,000 won会丢失。\n只需轻点一次即可购买T-money卡。\n保存收据。\n📖 完整指南: https://landinkorea.com/posts/korea-jeju-island.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post\n\n🇹🇼 在機場自助機上輕點兩次：10,000 won會遺失。\n只需輕點一次即可購買T-money卡。\n保存收據。\n📖 完整指南: https://landinkorea.com/posts/korea-jeju-island.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795175354781-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795175354781-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-20T23:56:18.844Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-20T11:50:50.225Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/40099146/pexels-photo-40099146.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Jeju Island",
+    "qualityGate": {
+      "pass": false,
+      "reason": "원본 자료에 없는 금액: threads: ₩10,000, facebook: ₩10,000, instagram: ₩10,000, bluesky: ₩10,000, mastodon: ₩10,000, tumblr: ₩10,000",
+      "model": "rule",
+      "failedPlatforms": [
+        "threads",
+        "facebook",
+        "instagram",
+        "bluesky",
+        "mastodon",
+        "tumblr"
+      ],
+      "checkedAt": "2026-11-20T11:49:14.781Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-20T11:50:50.204Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-jeju-island.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]
