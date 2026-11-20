@@ -51701,5 +51701,33 @@
       "pattern": "A"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-gyeongbokgung-palace.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "109f9a9d-a0b4-47dc-ba3f-6418da8ef786",
+    "text": "Tap your T-money card twice at the airport SIM counter and you lose money without knowing it. The big three Korean carriers SKT, KT, and LG U+ offer tourist eSIM plans that can be purchased online before arrival and activated by scanning a QR code once you land. Most tourist plans run 5-8 days with unlimited or high-cap data. Keep your home number active by using a secondary eSIM slot rather than replacing your primary SIM. If you're not careful, you might end up with a pricey data-only eSIM. Did this confuse you too?\n\n🇯🇵 空港SIMカウンターでT-moneyカードを2回タップすると、お金が失われることがある。\n\n🇨🇳 在机场SIM柜台刷卡两次，钱就消失了。\n\n🇹🇼 在機場SIM柜台刷卡兩次，錢就消失了。",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-20T09:45:17.659Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-20T08:02:43.072Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "eSIM & mobile data",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련된 내용이며 문장도 자연스럽고 사실도 크게 문제 없으며 여행자에게 유용한 정보를 제공하고 있다.",
+      "model": "groq",
+      "checkedAt": "2026-11-20T07:59:26.356Z",
+      "pattern": "E"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-esim-mobile-data.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
