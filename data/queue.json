@@ -52643,5 +52643,35 @@
       "pattern": "E"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-first-timer-etiquette-common-mistakes.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "e3ef3012-fc27-4b6e-8894-c5b6c7ce8a07",
+    "text": "Tap your T-money card twice at the airport SIM counter and you lose money without knowing it.\n\nThe first tap is for the SIM card, the second tap is for the data plan.\n\nYou can activate the SIM card and data plan in one tap. Be careful not to tap twice, or you'll be charged extra. Have you ever tapped twice at the airport SIM counter?\n\n🇯🇵 空港SIMセンターでT-メニューを2回タップするとお金が無駄になる。最初のタップはSIMカード、2回目のタップはデータプラン。SIMカードとデータプランを1回で有効にすることができる。2回タップしないように気をつけてください。空港SIMセンターで2回タップした経験はありますか?\n\n🇨🇳 空港SIM中心的T钱卡两次点击可能会花费钱却不知道。第一次点击是为了SIM卡，第二次点击是为了数据计划。您可以在一个点击中激活SIM卡和数据计划。不要两次点击，否则您会额外收费。您曾在空港SIM中心两次点击吗？\n\n🇹🇼 空港SIM中心的T幣卡兩次點擊可能會花費錢卻不知道。第一次點擊是為了SIM卡，第二次點擊是為了資料計劃。您可以在一個點擊中啟動SIM卡和資料計劃。不要兩次點擊，否則您會額外收費。您曾在空港SIM中心兩次點擊嗎？",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-20T20:17:31.480Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-20T20:12:28.212Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Hailing a taxi in Korea: Kakao T vs. street taxis vs. airport 'deluxe' cabs",
+    "qualityGate": {
+      "pass": false,
+      "reason": "원본 자료에 없는 금액: facebook: ₩0",
+      "model": "rule",
+      "failedPlatforms": [
+        "facebook"
+      ],
+      "checkedAt": "2026-11-20T20:12:26.918Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-hailing-a-taxi-in-korea-kakao-t-vs-street-taxis-vs-airport-deluxe-cabs.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
