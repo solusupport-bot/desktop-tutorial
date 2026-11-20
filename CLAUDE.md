@@ -61,6 +61,18 @@ coverr/vimeo/wikimedia_commons_video.js)에 넣었더니, 11/19~20 채택 영상
 
 ---
 
+## 🤝 제휴 업체 영상 = Instagram 최우선 소스 (2026-11-20 사용자 결정)
+
+- 목록: `data/partner_videos.json`, 파일: `media/partner_videos/`. 업체가 직접 찍고 **사용 동의한** 영상만.
+  `consentDate`가 비어 있으면 절대 쓰이지 않는다(`lib/ingestion/partner_video.js`) — 이 조건을 빼지 말 것.
+- 주제가 `match`에 맞으면 스톡 검색 없이 그 영상 하나만 쓴다. 캡션 끝에 `🎥 Video: 업체명 @계정`,
+  Instagram 첫 댓글에 출처+링크(`firstComment`, `instagram.js`가 발행 직후 등록). 캡션 링크는 눌리지 않아서 댓글로 뺀다.
+- 사람이 업체·주제를 짝지은 동의 영상이라 소형 비전 모델 검사(media_guard)는 거치지 않는 의도적 예외다.
+- `ensure-instagram-daily.js`는 안 쓴 제휴 영상이 있는 주제를 가장 먼저 고른다.
+- 테스트: `node --test lib/ingestion/partner_video.test.js lib/publishing/instagram.test.js`.
+
+---
+
 ## 🖼️ 미디어 3대 원칙 (2026-10-02 사용자 반복 지시 — "제발 규칙으로 만들어서 실수하지 말자")
 
 **사용자가 같은 지적을 여러 번 반복한 뒤 명시적으로 규칙화를 요청함.** 이미지/영상을 다루는
