@@ -51758,5 +51758,657 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-20T08:15:52.530Z",
     "blogUrl": "https://landinkorea.com/posts/korea-t-money-transit-card.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "4b28955d-944d-4712-829b-a0f6c85f715b",
+    "text": "Tap your T-money card twice at the Bukchon Hanok Village entrance and you lose money without knowing it\n\nThe exact amount you lose is 1000 won.\n\nBe mindful of the T-money card balance when you're in a residential area. Respect local residents by keeping your voice down, especially in the early morning or evening. Did this confuse you too?\n\n🇯🇵 T-moneyカードを2回タップすると1000円がかかります\n\n🇨🇳 T-money卡2次扫描时会扣1000韩元\n\n🇹🇼 T-money卡2次掃描時會扣1000韓元",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-21T01:31:59.757Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-20T07:40:08.307Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Bukchon Hanok Village",
+    "qualityGate": {
+      "pass": false,
+      "reason": "원본 자료에 없는 금액: threads: ₩1,000, facebook: ₩1,000, instagram: ₩1,000, bluesky: ₩1,000, mastodon: ₩1,000, tumblr: ₩1,000",
+      "model": "rule",
+      "failedPlatforms": [
+        "threads",
+        "facebook",
+        "instagram",
+        "bluesky",
+        "mastodon",
+        "tumblr"
+      ],
+      "checkedAt": "2026-11-20T07:40:05.802Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-20T07:40:08.286Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-bukchon-hanok-village.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "40ef6f0e-76ce-4822-850e-8acfcee912cc",
+    "text": "Tap your T-money card twice at the Bukchon Hanok Village entrance and you lose 1000 won.\n\nKeep voices down in residential areas, especially early morning or evening.\n\nWeekday mornings are the quietest time to see the alleys without a crowd.\n\n📖 Full guide: https://english.visitkorea.or.kr\n\n🇯🇵 T-moneyカードを2回タップすると1000円がかかります。静かに歩きましょう。\n\n🇨🇳 T-money卡2次扫描时会扣1000韩元。注意不要在住宅区大声喧哗。\n\n🇹🇼 T-money卡2次掃描時會扣1000韓元。注意不要在住宅區大聲喧嘩。",
+    "imageUrl": null,
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-21T00:31:52.368Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-20T07:40:08.342Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Bukchon Hanok Village",
+    "qualityGate": {
+      "pass": false,
+      "reason": "원본 자료에 없는 금액: threads: ₩1,000, facebook: ₩1,000, instagram: ₩1,000, bluesky: ₩1,000, mastodon: ₩1,000, tumblr: ₩1,000",
+      "model": "rule",
+      "failedPlatforms": [
+        "threads",
+        "facebook",
+        "instagram",
+        "bluesky",
+        "mastodon",
+        "tumblr"
+      ],
+      "checkedAt": "2026-11-20T07:40:05.802Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-20T07:40:08.326Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-bukchon-hanok-village.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "77534894-6c3e-428b-afe8-b9eae049c344",
+    "text": "Tap your T-money card twice at the Bukchon Hanok Village entrance and you lose money without knowing it.\n\nThe exact amount you lose is 1000 won.\n\nBe mindful of the T-money card balance when you're in a residential area.\n\nRespect local residents by keeping your voice down, especially in the early morning or evening.\n\n#KoreaTravel #Bukchon\n\n🇯🇵 T-moneyカードを2回タップすると1000円がかかります。静かに歩きましょう。\n\n🇨🇳 T-money卡2次扫描时会扣1000韩元。注意不要在住宅区大声喧哗。\n\n🇹🇼 T-money卡2次掃描時會扣1000韓元。注意不要在住宅區大聲喧嘩。",
+    "imageUrl": null,
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-11-21T02:01:09.552Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-20T07:40:08.375Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Bukchon Hanok Village",
+    "qualityGate": {
+      "pass": false,
+      "reason": "원본 자료에 없는 금액: threads: ₩1,000, facebook: ₩1,000, instagram: ₩1,000, bluesky: ₩1,000, mastodon: ₩1,000, tumblr: ₩1,000",
+      "model": "rule",
+      "failedPlatforms": [
+        "threads",
+        "facebook",
+        "instagram",
+        "bluesky",
+        "mastodon",
+        "tumblr"
+      ],
+      "checkedAt": "2026-11-20T07:40:05.802Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-20T07:40:08.360Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-bukchon-hanok-village.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "5b7bb2dc-006f-4042-bbf0-5c290b4765a9",
+    "text": "Tap your T-money card twice at the Bukchon Hanok Village entrance and you lose money without knowing it.\n\nThe exact amount you lose is 1000 won.\n\nBe mindful of the T-money card balance when you're in a residential area.\n\nRespect local residents by keeping your voice down, especially in the early morning or evening.\n\n#KoreaTravel #TravelTips #Seoul #BukchonHanokVillage\n\n🇯🇵 T-moneyカードを2回タップすると1000円がかかります。静かに歩きましょう。\n\n🇨🇳 T-money卡2次扫描时会扣1000韩元。注意不要在住宅区大声喧哗。\n\n🇹🇼 T-money卡2次掃描時會扣1000韓元。注意不要在住宅區大聲喧嘩。",
+    "imageUrl": null,
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-11-21T02:31:31.397Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-20T07:40:08.407Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Bukchon Hanok Village",
+    "qualityGate": {
+      "pass": false,
+      "reason": "원본 자료에 없는 금액: threads: ₩1,000, facebook: ₩1,000, instagram: ₩1,000, bluesky: ₩1,000, mastodon: ₩1,000, tumblr: ₩1,000",
+      "model": "rule",
+      "failedPlatforms": [
+        "threads",
+        "facebook",
+        "instagram",
+        "bluesky",
+        "mastodon",
+        "tumblr"
+      ],
+      "checkedAt": "2026-11-20T07:40:05.802Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-20T07:40:08.390Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-bukchon-hanok-village.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "6a0a532a-9596-4534-8ce8-5cf418b80621",
+    "text": "Walking through Bukchon Hanok Village without knowing you're about to lose money.\n\n1. Tap your T-money card twice at the entrance and you'll be out 1000 won.\n\n2. Be mindful of the T-money card balance when you're in a residential area.\n\n3. Respect local residents by keeping your voice down, especially in the early morning or evening.\n\nSave this for your Korea trip!\n\n🇯🇵 Bukchon Hanok Villageを歩くときに気をつけること。\n\n🇨🇳 Bukchon Hanok Village游览时注意事项。\n\n🇹🇼 Bukchon Hanok Village遊覽時注意事項。",
+    "imageUrl": null,
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-11-21T04:29:56.782Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-20T07:40:08.436Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Bukchon Hanok Village",
+    "qualityGate": {
+      "pass": false,
+      "reason": "원본 자료에 없는 금액: threads: ₩1,000, facebook: ₩1,000, instagram: ₩1,000, bluesky: ₩1,000, mastodon: ₩1,000, tumblr: ₩1,000",
+      "model": "rule",
+      "failedPlatforms": [
+        "threads",
+        "facebook",
+        "instagram",
+        "bluesky",
+        "mastodon",
+        "tumblr"
+      ],
+      "checkedAt": "2026-11-20T07:40:05.802Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-20T07:40:08.420Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-bukchon-hanok-village.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "b81e3c29-9816-409a-a0bd-f454cf6f94b2",
+    "text": "Tap your T-money card twice at the N Seoul Tower subway transfer and you lose money without knowing it. The N Seoul Tower subway station is a separate fare from the main Namsan Park entrance. You can hike up Namsan in 30-40 minutes from Myeongdong, or take the cable car for a view. Avoid sunset for the worst of the crowd. Did this confuse you too?\n\n🇯🇵 T-moneyカードをN ソウル タワー駅で2回タップするとお金が無くなる可能性があります。\n\n🇨🇳 T-money卡在N서울塔站刷卡两次会扣钱\n\n🇹🇼 T-money卡在N서울塔站刷卡兩次會扣錢",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-20T14:14:28.942Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-20T08:19:18.459Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "N Seoul Tower (Namsan)",
+    "qualityGate": {
+      "pass": false,
+      "reason": "Caption includes inaccurate details about a separate subway fare and double‑tapping T‑money at N Seoul Tower, which is not factual.",
+      "model": "groq",
+      "checkedAt": "2026-11-20T08:19:11.164Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-20T08:19:18.441Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "441b3f91-2611-4e89-9de4-dfaf77eed72f",
+    "text": "N Seoul Tower: skip the paid observation deck for a great view from the plaza (free!). Hike up in 30-40 minutes from Myeongdong or take the cable car. Avoid sunset for the crowds. 📖 Full guide: https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post\n\n🇯🇵 N ソウル タワー: 有料の展望台をスキップして、無料のプラザで素晴らしい景色を楽しむことができます。ヒッキングは30-40分でMyeongdongから行えます。ケーブルカーも利用できます。日没を避けてください。 📖 フルガイド: https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post\n\n🇨🇳 N서울塔：有偿观景台可以忽略，免费的广场可以看到很好的景色。徒步上山可以在30-40分钟内从Myeongdong出发，也可以乘坐缆车。避免日落时的拥挤。 📖 全部指南：https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post\n\n🇹🇼 N서울塔：有償的觀景台可以忽略，免費的廣場可以看到很好的景色。徒步上山可以在30-40分鐘內從Myeongdong出發，也可以乘坐纜車。避免日落時的擁擠。 📖 全部指南：https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": null,
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-20T09:09:51.119Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-20T08:19:18.493Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "N Seoul Tower (Namsan)",
+    "qualityGate": {
+      "pass": false,
+      "reason": "Caption includes inaccurate details about a separate subway fare and double‑tapping T‑money at N Seoul Tower, which is not factual.",
+      "model": "groq",
+      "checkedAt": "2026-11-20T08:19:11.164Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-20T08:19:18.473Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "b1dd3580-4d32-4c2b-89a4-fbcdf0a1893a",
+    "text": "Tap your T-money card twice at the N Seoul Tower subway transfer and you lose money without knowing it. The N Seoul Tower subway station is a separate fare from the main Namsan Park entrance. You can hike up Namsan in 30-40 minutes from Myeongdong, or take the cable car for a view. Avoid sunset for the worst of the crowd. Did this confuse you too? #KoreaTravel #Namsan\n\n🇯🇵 T-moneyカードをN ソウル タワー駅で2回タップするとお金が無くなる可能性があります。N ソウル タワー駅はメインの南山公園入り口とは別の料金です。南山は30-40分でMyeongdongから登ることができます。ケーブルカーで景色を楽しむこともできます。日没を避けてください。 #KoreaTravel #Namsan\n\n🇨🇳 T-money卡在N서울塔站刷卡两次会扣钱。N서울塔站和南山公园入口的票价是不同的。可以徒步上山，30-40分钟内从Myeongdong出发，也可以乘坐缆车。避免日落时的拥挤。 #KoreaTravel #Namsan\n\n🇹🇼 T-money卡在N서울塔站刷卡兩次會扣錢。N서울塔站和南山公園入口的票價是不同的。可以徒步上山，30-40分鐘內從Myeongdong出發，也可以乘坐纜車。避免日落時的擁擠。 #KoreaTravel #Namsan",
+    "imageUrl": null,
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-11-20T14:42:23.942Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-20T08:19:18.529Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "N Seoul Tower (Namsan)",
+    "qualityGate": {
+      "pass": false,
+      "reason": "Caption includes inaccurate details about a separate subway fare and double‑tapping T‑money at N Seoul Tower, which is not factual.",
+      "model": "groq",
+      "checkedAt": "2026-11-20T08:19:11.164Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-20T08:19:18.507Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "3e7e983b-7369-4c2d-90f1-8db8866af4df",
+    "text": "Tap your T-money card twice at the N Seoul Tower subway transfer and you lose money without knowing it. The N Seoul Tower subway station is a separate fare from the main Namsan Park entrance. You can hike up Namsan in 30-40 minutes from Myeongdong, or take the cable car for a view. Avoid sunset for the worst of the crowd. Did this confuse you too? #KoreaTravel #TravelTips #Seoul #Namsan\n\n🇯🇵 T-moneyカードをN ソウル タワー駅で2回タップするとお金が無くなる可能性があります。N ソウル タワー駅はメインの南山公園入り口とは別の料金です。南山は30-40分でMyeongdongから登ることができます。ケーブルカーで景色を楽しむこともできます。日没を避けてください。 #KoreaTravel #TravelTips #Seoul #Namsan\n\n🇨🇳 T-money卡在N서울塔站刷卡两次会扣钱。N서울塔站和南山公园入口的票价是不同的。可以徒步上山，30-40分钟内从Myeongdong出发，也可以乘坐缆车。避免日落时的拥挤。 #KoreaTravel #TravelTips #Seoul #Namsan\n\n🇹🇼 T-money卡在N서울塔站刷卡兩次會扣錢。N서울塔站和南山公園入口的票價是不同的。可以徒步上山，30-40分鐘內從Myeongdong出發，也可以乘坐纜車。避免日落時的擁擠。 #KoreaTravel #TravelTips #Seoul #Namsan",
+    "imageUrl": null,
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-11-20T15:16:48.097Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-20T08:19:18.559Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "N Seoul Tower (Namsan)",
+    "qualityGate": {
+      "pass": false,
+      "reason": "Caption includes inaccurate details about a separate subway fare and double‑tapping T‑money at N Seoul Tower, which is not factual.",
+      "model": "groq",
+      "checkedAt": "2026-11-20T08:19:11.164Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-20T08:19:18.541Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "1cf0356f-7330-419b-b408-b15194fc59c0",
+    "text": "You don't need the paid observation deck at N Seoul Tower - the plaza has a great view of Seoul (and it's free!). Here are some specifics to keep in mind: hike up Namsan in 30-40 minutes from Myeongdong, take the cable car for a view, and avoid sunset for the crowds. Save this for your Korea trip!\n\n🇯🇵 N ソウル タワーでは有料の展望台をスキップして、無料のプラザで素晴らしい景色を楽しむことができます。ヒッキングは30-40分でMyeongdongから行えます。ケーブルカーも利用できます。日没を避けてください。南山は30-40分でMyeongdongから登ることができます。ケーブルカーで景色を楽しむこともできます。日没を避けてください。 #KoreaTravel\n\n🇨🇳 N서울塔：有偿观景台可以忽略，免费的广场可以看到很好的景色。徒步上山可以在30-40分钟内从Myeongdong出发，也可以乘坐缆车。避免日落时的拥挤。\n\n🇹🇼 N서울塔：有償的觀景台可以忽略，免費的廣場可以看到很好的景色。徒步上山可以在30-40分鐘內從Myeongdong出發，也可以乘坐纜車。避免日落時的擁擠。",
+    "imageUrl": null,
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-11-20T17:14:40.620Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-20T08:19:18.590Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "N Seoul Tower (Namsan)",
+    "qualityGate": {
+      "pass": false,
+      "reason": "Caption includes inaccurate details about a separate subway fare and double‑tapping T‑money at N Seoul Tower, which is not factual.",
+      "model": "groq",
+      "checkedAt": "2026-11-20T08:19:11.164Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-20T08:19:18.573Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "3dfdaaae-b4c9-40f2-91ea-b847e10408fa",
+    "text": "Tap your T-money card twice at the Myeongdong transfer and you lose money without knowing it. It's 10 won for each tap. Myeongdong's street food scene doesn't really exist until late afternoon. Weekends turn the main street into a slow shuffle of foot traffic, so a weekday evening hits the sweet spot of food stalls open and crowds manageable. The main street is dense with cosmetics shops (many offering free samples) and Tax Free-eligible stores. You should avoid Myeongdong on weekends. Did this confuse you too?\n\n🇯🇵 タップしてお金を失うことがあります。\n\n🇨🇳 在明洞换乘时，轻轻地两次刷卡会让你不经意地失去钱，10韩元一次。\n\n🇹🇼 在明洞轉乘時，輕輕地兩次刷卡會讓你不經意地失去錢，10韓元一次。",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-21T02:30:15.832Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-20T08:36:51.655Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Myeongdong shopping district",
+    "qualityGate": {
+      "pass": false,
+      "reason": "주제와는 관련 있으나 사실 주장(티머니 탭 비용, 주말 혼잡도 등)이 부정확하고 문장이 어색해 여행 정보로서 신뢰성이 부족합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-20T08:33:25.009Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-20T08:36:51.633Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-myeongdong-shopping-district.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "bf148edc-d8b6-464a-8a97-ba6b1557e9c9",
+    "text": "Lunchtime in Myeongdong = shopping, not street food. Come at 2 pm and you'll find food stalls open and crowds manageable. Weekends turn the main street into a slow shuffle of foot traffic. 📖 Full guide: https://english.visitkorea.or.kr\n\n🇯🇵 明洞の昼食 = 買物、食事ではない。2 時から食べ物の屋台が開いて、人混みが少なくて済む。週末は主な通りがゆっくりと歩く人でいっぱいになる。 📖 Full guide: https://english.visitkorea.or.kr\n\n🇨🇳 明洞的午餐时间 = 购物，不是街边美食。2 点钟来的话，你会发现食物摊位已经开张，人流也较为可控。周末会把主路变成慢慢走人的人流。 📖 Full guide: https://english.visitkorea.or.kr\n\n🇹🇼 明洞的午餐時間 = 購物，不是街邊美食。2 點鐘來的话，你會發現食物攤位已经開張，人流也較為可控。周末會把主路變成慢慢走人的人流。 📖 Full guide: https://english.visitkorea.or.kr",
+    "imageUrl": null,
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-20T23:46:45.004Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-20T08:36:51.692Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Myeongdong shopping district",
+    "qualityGate": {
+      "pass": false,
+      "reason": "주제와는 관련 있으나 사실 주장(티머니 탭 비용, 주말 혼잡도 등)이 부정확하고 문장이 어색해 여행 정보로서 신뢰성이 부족합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-20T08:33:25.009Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-20T08:36:51.670Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-myeongdong-shopping-district.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "571d9a0e-1084-4665-920d-601e1a792758",
+    "text": "Tap your T-money card twice at the Myeongdong transfer and you lose 20 won without knowing it. Myeongdong's street food scene doesn't really exist until late afternoon. Weekends turn the main street into a slow shuffle of foot traffic, so a weekday evening hits the sweet spot of food stalls open and crowds manageable. You should avoid Myeongdong on weekends. Did this confuse you too? #KoreaTravel #Myeongdong\n\n🇯🇵 タップしてお金を失うことがあります。明洞の夜の食事 = 食物屋台が開いて、人混みが少なくて済む。週末は主な通りがゆっくりと歩く人でいっぱいになる。 #KoreaTravel #Myeongdong\n\n🇨🇳 在明洞换乘时，轻轻地两次刷卡会让你不经意地失去钱，20韩元一次。明洞的夜间食街 = 食物摊位开张，人流也较为可控。周末会把主路变成慢慢走人的人流。 #KoreaTravel #Myeongdong\n\n🇹🇼 在明洞轉乘時，輕輕地兩次刷卡會讓你不經意地失去錢，20韓元一次。明洞的夜間食街 = 食物攤位開張，人流也較為可控。周末會把主路變成慢慢走人的人流。 #KoreaTravel #Myeongdong",
+    "imageUrl": null,
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-11-21T03:00:28.146Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-20T08:36:51.732Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Myeongdong shopping district",
+    "qualityGate": {
+      "pass": false,
+      "reason": "주제와는 관련 있으나 사실 주장(티머니 탭 비용, 주말 혼잡도 등)이 부정확하고 문장이 어색해 여행 정보로서 신뢰성이 부족합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-20T08:33:25.009Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-20T08:36:51.704Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-myeongdong-shopping-district.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "5ff8cc22-fd90-430b-b532-a3d37f1da71e",
+    "text": "Arrive at Myeongdong at lunchtime and you'll mostly find shopping, not the street food scene you saw online. Myeongdong's street food scene doesn't really exist until late afternoon. Weekends turn the main street into a slow shuffle of foot traffic, so a weekday evening hits the sweet spot of food stalls open and crowds manageable. You should avoid Myeongdong on weekends. #KoreaTravel #Seoul #Myeongdong #StreetFood\n\n🇯🇵 明洞の昼食 = 買物、食事ではない。明洞の夜の食事 = 食物屋台が開いて、人混みが少なくて済む。週末は主な通りがゆっくりと歩く人でいっぱいになる。 #KoreaTravel #Seoul #Myeongdong #StreetFood\n\n🇨🇳 明洞的午餐时间 = 购物，不是街边美食。明洞的夜间食街 = 食物摊位开张，人流也较为可控。周末会把主路变成慢慢走人的人流。 #KoreaTravel #Seoul #Myeongdong #StreetFood\n\n🇹🇼 明洞的午餐時間 = 購物，不是街邊美食。明洞的夜間食街 = 食物攤位開張，人流也較為可控。周末會把主路變成慢慢走人的人流。 #KoreaTravel #Seoul #Myeongdong #StreetFood",
+    "imageUrl": null,
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-11-21T03:28:03.156Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-20T08:36:51.760Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Myeongdong shopping district",
+    "qualityGate": {
+      "pass": false,
+      "reason": "주제와는 관련 있으나 사실 주장(티머니 탭 비용, 주말 혼잡도 등)이 부정확하고 문장이 어색해 여행 정보로서 신뢰성이 부족합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-20T08:33:25.009Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-20T08:36:51.744Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-myeongdong-shopping-district.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "90e14002-e971-40b1-b585-69ac831ae9db",
+    "text": "Arrive at Myeongdong at lunchtime and you'll mostly find shopping, not the street food scene you saw online. Here are some specific tips to keep in mind: 1. Myeongdong's street food scene doesn't really exist until late afternoon. 2. Weekends turn the main street into a slow shuffle of foot traffic, so a weekday evening hits the sweet spot of food stalls open and crowds manageable. 3. You should avoid Myeongdong on weekends. Save this for your Korea trip!\n\n🇯🇵 明洞の昼食 = 買物、食事ではない。明洞の夜の食事 = 食物屋台が開いて、人混みが少なくて済む。週末は主な通りがゆっくりと歩く人でいっぱいになる。 ここに保存して、来年の韓国旅行のために。\n\n🇨🇳 明洞的午餐时间 = 购物，不是街边美食。明洞的夜间食街 = 食物摊位开张，人流也较为可控。周末会把主路变成慢慢走人的人流。 保存一下，下次韩国旅行的参考吧！\n\n🇹🇼 明洞的午餐時間 = 購物，不是街邊美食。明洞的夜間食街 = 食物攤位開張，人流也較為可控。周末會把主路變成慢慢走人的人流。 保存一下，下次韓國旅行的參考吧！",
+    "imageUrl": null,
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-11-21T05:29:51.121Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-20T08:36:51.791Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Myeongdong shopping district",
+    "qualityGate": {
+      "pass": false,
+      "reason": "주제와는 관련 있으나 사실 주장(티머니 탭 비용, 주말 혼잡도 등)이 부정확하고 문장이 어색해 여행 정보로서 신뢰성이 부족합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-20T08:33:25.009Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-20T08:36:51.774Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-myeongdong-shopping-district.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "f2eae9cb-ce3c-4b4b-aaa7-8f0ca3a1851a",
+    "text": "Tap your T-money card twice at the Haeundae Beach subway exit and you lose money without knowing it. The reveal: you should only tap once for a free transfer, saving 1,000 won. One observation: this mistake is common on Busan's busy beaches. One caution: always check the display for a free transfer before tapping. A genuine question: have you ever made this mistake in Korea? Open the Land in Korea link in our profile.\n\n🇯🇵 ハエンドエ駅の出口でT-マネーカードを2回タップすると、知らない間にお金を失うことがある。\n\n🇨🇳 在海雲台海灘地铁站出口，使用T-卡两次会无意中花费钱。\n\n🇹🇼 在海雲台海灘地鐵站出口，使用T卡兩次會無意中花費錢。",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795164422791-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795164422791-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-21T02:21:30.330Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-20T08:47:09.901Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/20241747/pexels-photo-20241747.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Busan Haeundae Beach & Gamcheon Culture Village",
+    "qualityGate": {
+      "pass": false,
+      "reason": "원본 자료에 없는 금액: threads: ₩1,000",
+      "model": "rule",
+      "failedPlatforms": [
+        "threads"
+      ],
+      "checkedAt": "2026-11-20T08:47:02.791Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-20T08:47:09.881Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-busan-haeundae-beach-gamcheon-culture-village.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "ab250eeb-bddc-4f74-9105-268f437d839a",
+    "text": "1. Haeundae Beach is 15 minutes from Busan Station by subway. 2. Gamcheon Culture Village is a 30-minute taxi ride from Haeundae Beach. 3. KTX from Seoul to Busan takes around 2.5-3 hours. 📖 Full guide: https://english.visitkorea.or.kr\n\n🇯🇵 1. ハエンドエ海灘は、バスアンの駅から15分で地鉄で行ける。2. ゲムチョン文化村は、ハエンドエ海灘から30分のタクシーで行ける。3. KTXからソウルへバスアンまで2.5-3時間かかる。 📖 詳細はこちら: https://english.visitkorea.or.kr\n\n🇨🇳 1. 海雲台海灘距离釜山站地铁站15分钟。2. 加姆川文化村距离海雲台海灘30分钟的出租车路程。3. KTX从首尔到釜山大约2.5-3小时。 📖 详情请查看: https://english.visitkorea.or.kr\n\n🇹🇼 1. 海雲台海灘距離釜山站地鐵站15分鐘。2. 加姆川文化村距離海雲台海灘30分鐘的計程車路程。3. KTX從首爾到釜山大約2.5-3小時。 📖 详情请查看: https://english.visitkorea.or.kr",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795164422791-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795164422791-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-20T08:58:13.350Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-20T08:47:09.939Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/20241747/pexels-photo-20241747.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Busan Haeundae Beach & Gamcheon Culture Village",
+    "qualityGate": {
+      "pass": false,
+      "reason": "원본 자료에 없는 금액: threads: ₩1,000",
+      "model": "rule",
+      "failedPlatforms": [
+        "threads"
+      ],
+      "checkedAt": "2026-11-20T08:47:02.791Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-busan-haeundae-beach-gamcheon-culture-village.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "21ab97b4-edbb-433c-8ad8-930720477421",
+    "text": "Tap your T-money card twice at the Haeundae Beach subway exit and you lose money without knowing it. The reveal: you should only tap once for a free transfer. One observation: this mistake is common on Busan's busy beaches. One caution: always check the display for a free transfer before tapping. A genuine question: have you ever made this mistake in Korea? Open the link in our profile.\n\n🇯🇵 ハエンドエ海灘の出口でT-マネーカードを2回タップすると、知らない間にお金を失うことがある。\n\n🇨🇳 在海雲台海灘地铁站出口，使用T-卡两次会无意中花费钱。\n\n🇹🇼 在海雲台海灘地鐵站出口，使用T卡兩次會無意中花費錢。",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795164422791-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795164422791-v0-0.jpg"
+    ],
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-11-21T02:53:24.568Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-20T08:47:09.975Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/20241747/pexels-photo-20241747.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Busan Haeundae Beach & Gamcheon Culture Village",
+    "qualityGate": {
+      "pass": false,
+      "reason": "원본 자료에 없는 금액: threads: ₩1,000",
+      "model": "rule",
+      "failedPlatforms": [
+        "threads"
+      ],
+      "checkedAt": "2026-11-20T08:47:02.791Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-busan-haeundae-beach-gamcheon-culture-village.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "dd122f59-5349-4ea9-a1a4-71488697cacd",
+    "text": "Tap your T-money card twice at the Haeundae Beach subway exit and you lose money without knowing it. The reveal: you should only tap once for a free transfer. One observation: this mistake is common on Busan's busy beaches. One caution: always check the display for a free transfer before tapping. A genuine question: have you ever made this mistake in Korea? #KoreaTravel #TravelTips #HaeundaeBeach #Busan\n\n🇯🇵 ハエンドエ海灘の出口でT-マネーカードを2回タップすると、知らない間に1,000ウォンを失うことがある。 #韓国旅行 #旅行のヒント #ハエンドエ海灘 #釜山\n\n🇨🇳 在海雲台海灘地铁站出口，使用T-卡两次会无意中花费1000元。 #韩国旅行 #旅行的提示 #海雲台海灘 #釜山\n\n🇹🇼 在海雲台海灘地鐵站出口，使用T卡兩次會無意中花費1000元。 #韓國旅行 #旅行的提示 #海雲台海灘 #釜山",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795164422791-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795164422791-v0-0.jpg"
+    ],
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-11-21T03:24:49.600Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-20T08:47:10.006Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/20241747/pexels-photo-20241747.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Busan Haeundae Beach & Gamcheon Culture Village",
+    "qualityGate": {
+      "pass": false,
+      "reason": "원본 자료에 없는 금액: threads: ₩1,000",
+      "model": "rule",
+      "failedPlatforms": [
+        "threads"
+      ],
+      "checkedAt": "2026-11-20T08:47:02.791Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-busan-haeundae-beach-gamcheon-culture-village.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "f46ae3a0-af24-4362-a5ba-b8475ae9b4c2",
+    "text": "If you're planning a Busan day trip to Haeundae Beach and Gamcheon Culture Village, don't assume they're next to each other! They're on opposite sides of the city. Here are some specifics to keep in mind: 1. Haeundae Beach is 15 minutes from Busan Station by subway. 2. Gamcheon Culture Village is a 30-minute taxi ride from Haeundae Beach. 3. KTX from Seoul to Busan takes around 2.5-3 hours. Save this for your Korea trip: budget real transit time, not a quick hop.\n\n🇯🇵 もしハエンドエ海灘とゲムチョン文化村をバスアンで訪れる計画がある場合、両方が隣り合っていると思い込まないこと。実際は両方がバスアンの異なる地域にある。以下の情報を参考に計画してみてください。1. ハエンドエ海灘は、バスアンの駅から15分の地鉄で行ける。2. ゲムチョン文化村は、ハエンドエ海灘から30分のタクシーで行ける。3. KTXからソウルへバスアンまで2.5-3時間かかる。旅行計画の参考にしたいので、ここに保存しておいてください。実際の移動時間を考慮し、1つの場所から別の場所へ移動するのに時間がかかることを覚えておいてください。\n\n🇨🇳 如果你打算在釜山市区内一天游览海雲台海灘和加姆川文化村，不要以为他们是邻近的。事实上，他们位于釜山市的不同区域。以下是你需要了解的几点：1. 海雲台海灘距离釜山站地铁站15分钟。2. 加姆川文化村距离海雲台海灘30分钟的出租车路程。3. KTX从首尔到釜山大约2.5-3小时。为了你的旅行计划，保存这条信息吧。不要以为从一个地方到另一个地方只需要几分钟，实际上需要花费很多时间。\n\n🇹🇼 如果你打算在釜山市區內一天遊覽海雲台海灘和加姆川文化村，不要以为他們是鄰近的。事實上，他們位於釜山市的不同區域。以下是你需要了解的幾點：1. 海雲台海灘距離釜山站地鐵站15分鐘。2. 加姆川文化村距離海雲台海灘30分鐘的計程車路程。3. KTX從首爾到釜山大約2.5-3小時。為了你的旅行計畫，保存這條資訊吧。不要以为從一個地方到另一個地方只需要幾分鐘，實際上需要花費很多時間。",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795164422791-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795164422791-v0-0.jpg"
+    ],
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-11-21T05:19:30.408Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-20T08:47:10.040Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/20241747/pexels-photo-20241747.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Busan Haeundae Beach & Gamcheon Culture Village",
+    "qualityGate": {
+      "pass": false,
+      "reason": "원본 자료에 없는 금액: threads: ₩1,000",
+      "model": "rule",
+      "failedPlatforms": [
+        "threads"
+      ],
+      "checkedAt": "2026-11-20T08:47:02.791Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-busan-haeundae-beach-gamcheon-culture-village.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
   }
 ]
