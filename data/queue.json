@@ -50477,7 +50477,7 @@
       "instagram"
     ],
     "scheduledAt": "2026-11-20T02:52:37.533Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-11-19T07:42:02.416Z",
     "approved": true,
@@ -50491,12 +50491,13 @@
     "videoAttribution": "Pexels",
     "topic": "First-timer etiquette & common mistakes",
     "qualityGate": {
-      "pass": true,
-      "reason": "주제와 맞는 한국 예절을 설명하고 문장도 크게 어색하지 않아 여행자에게 유용합니다",
+      "pass": false,
+      "reason": "2026-11-20 영상이 한국 지명 확인 없이 채택된 경로(삭제됨)로 만들어져 보류",
       "model": "groq",
-      "checkedAt": "2026-11-19T07:38:22.607Z",
+      "checkedAt": "2026-11-20T05:21:34.702Z",
       "pattern": "O"
-    }
+    },
+    "rejectedBy": "korea-video-recheck"
   },
   {
     "id": "44b20f33-97a2-42ca-8080-eccca83bd9fe",
@@ -50670,7 +50671,7 @@
       "instagram"
     ],
     "scheduledAt": "2026-11-20T04:45:37.194Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-11-19T07:45:50.250Z",
     "approved": true,
@@ -50684,12 +50685,13 @@
     "videoAttribution": "Pixabay",
     "topic": "Currency & card payments",
     "qualityGate": {
-      "pass": true,
-      "reason": "주제와 일치하고 문장이 자연스럽으며 과장된 사실 없이 여행자에게 유용한 내용이다",
+      "pass": false,
+      "reason": "2026-11-20 영상이 한국 지명 확인 없이 채택된 경로(삭제됨)로 만들어져 보류",
       "model": "groq",
-      "checkedAt": "2026-11-19T07:43:00.818Z",
+      "checkedAt": "2026-11-20T05:21:34.702Z",
       "pattern": "A"
-    }
+    },
+    "rejectedBy": "korea-video-recheck"
   },
   {
     "id": "3d812daf-2c94-4994-83de-34082a1ff81e",
@@ -51599,7 +51601,7 @@
       "instagram"
     ],
     "scheduledAt": "2026-11-20T09:15:42.703Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-11-20T03:52:20.968Z",
     "approved": true,
@@ -51611,11 +51613,12 @@
     "videoAttribution": "Pexels",
     "topic": "Namdaemun Market",
     "qualityGate": {
-      "pass": true,
-      "reason": "캡션은 Namdaemun Market 주제와 관련이 있고 문장도 자연스럽고 완성돼 있다.",
+      "pass": false,
+      "reason": "2026-11-20 영상이 한국 지명 확인 없이 채택된 경로(삭제됨)로 만들어져 보류",
       "model": "groq",
-      "checkedAt": "2026-11-20T03:48:11.135Z",
+      "checkedAt": "2026-11-20T05:21:34.702Z",
       "pattern": "E"
-    }
+    },
+    "rejectedBy": "korea-video-recheck"
   }
 ]
