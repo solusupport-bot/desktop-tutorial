@@ -1,5 +1,5 @@
 {
-  "lastIndex": 22,
+  "lastIndex": 0,
   "history": [
     {
       "index": 22,
@@ -996,6 +996,12 @@
       "topic": "Jjimjilbang etiquette",
       "at": "2026-11-20T04:25:46.628Z",
       "source": "threads-fill"
+    },
+    {
+      "index": 0,
+      "topic": "Gyeongbokgung Palace",
+      "at": "2026-11-20T05:26:49.683Z",
+      "source": "facebook-fill"
     }
   ],
   "recentImageUrls": [
@@ -2758,7 +2764,8 @@
     "https://videos.pexels.com/video-files/29354421/12650396_3840_2160_24fps.mp4",
     "https://videos.pexels.com/video-files/37738769/16007000_2160_3840_24fps.mp4",
     "https://videos.pexels.com/video-files/10135973/10135973-hd_1080_1920_30fps.mp4",
-    "https://videos.pexels.com/video-files/39879829/17007609_3840_2160_25fps.mp4"
+    "https://videos.pexels.com/video-files/39879829/17007609_3840_2160_25fps.mp4",
+    "https://videos.pexels.com/video-files/40398009/17261038_1920_1080_30fps.mp4"
   ],
   "recentMusicUrls": [
     "https://prod-1.storage.jamendo.com/?trackid=20237&format=mp32",
@@ -2862,7 +2869,8 @@
     "https://prod-1.storage.jamendo.com/?trackid=665946&format=mp32",
     "https://prod-1.storage.jamendo.com/?trackid=665946&format=mp32",
     "https://prod-1.storage.jamendo.com/?trackid=665946&format=mp32",
-    "https://prod-1.storage.jamendo.com/?trackid=807596&format=mp32"
+    "https://prod-1.storage.jamendo.com/?trackid=807596&format=mp32",
+    "https://prod-1.storage.jamendo.com/?trackid=1042763&format=mp32"
   ],
   "topicPhotographers": {
     "Why Google Maps fails in Korea and how the road-name address system actually works": [
@@ -3045,7 +3053,13 @@
       "Nuhyil Ahammed",
       "Markus Winkler",
       "Thijs Gardner",
-      "Theodore Nguyen"
+      "Theodore Nguyen",
+      "Rüveyda Akkaya",
+      "Memory Lane",
+      "zhengkui li",
+      "Huy Phan",
+      "FREE VIDEO HAPPY",
+      "Marius Mann"
     ],
     "Bukchon Hanok Village": [
       "Little forest 작은 숲",

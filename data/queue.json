@@ -51649,5 +51649,34 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-20T05:26:47.494Z",
     "blogUrl": "https://landinkorea.com/posts/korea-jjimjilbang-etiquette.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "ad96b473-1993-4fb6-bbc2-086672b5ea6c",
+    "text": "Gyeongbokgung Palace is closed every Tuesday, so plan your visit on another day.\nThe royal guard ceremony runs only at set times, not whenever you arrive.\n🎎 Wear a hanbok for free entry – one of Seoul’s few true tourist discounts.\n📖 Full guide: https://landinkorea.com/posts/korea-gyeongbokgung-palace.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post\n\n🎬 Video source: Pexels\n\n🎵 \"how_far\" by Oranseil is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/kr/.\n\n🇯🇵 경복궁은 화요일이 휴관일이므로 다른 날에 방문하세요. 왕실 경비병 의식은 일정 시간에만 진행되며, 방문 시간에 관계없이 진행되지 않습니다. 🎎 한복을 입으면 무료 입장 혜택을 받을 수 있으니, 한복을 입고 방문해 보세요. 📖 자세한 안내: https://landinkorea.com/posts/korea-gyeongbokgung-palace.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post\n\n🎬 동영상 출처: Pexels\n\n🎵 \"how_far\" by Oranseil은 CC BY-SA 2.0으로 라이선스되었습니다. 라이선스에 대한 자세한 내용은 https://creativecommons.org/licenses/by-sa/2.0/kr/에서 확인하실 수 있습니다.\n\n🇨🇳 경복궁每周二休息，别忘了规划一下你的参观时间。皇家卫队仪式只在特定的时间举行，随时都不会进行。🎎 穿上韩服，免费入场！📖 详情请参见：https://landinkorea.com/posts/korea-gyeongbokgung-palace.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post\n\n🎬 视频来源：Pexels\n\n🎵 \"how_far\" by Oranseil采用CC BY-SA 2.0许可证。要了解更多信息，请访问https://creativecommons.org/licenses/by-sa/2.0/kr/。\n\n🇹🇼 景福宮每週二休息，別忘了規劃一下你的參觀時間。皇家衛隊儀式只在特定的時間舉行，隨時都不会進行。🎎 穿上韓服，免費入場！📖 詳情請參見：https://landinkorea.com/posts/korea-gyeongbokgung-palace.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post\n\n🎬 影片來源：Pexels\n\n🎵 \"how_far\" by Oranseil採用CC BY-SA 2.0許可證。要了解更多資訊，请访问https://creativecommons.org/licenses/by-sa/2.0/kr/。",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1795154729035-instagram.mp4",
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-20T09:25:54.893Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-20T06:05:32.709Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/40398009/17261038_1920_1080_30fps.mp4",
+    "videoAttribution": "Pexels",
+    "topic": "Gyeongbokgung Palace",
+    "qualityGate": {
+      "pass": true,
+      "reason": "관련된 주제이며, 문장이 자연스럽고 완성돼 있으며, 가격/시간/운영 여부에 대한 사실 주장이 과장되지 않습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-20T06:02:05.076Z",
+      "pattern": "A"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-gyeongbokgung-palace.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]
