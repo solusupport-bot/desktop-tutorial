@@ -1,0 +1,13 @@
+{
+  "howTo": "제휴 업체가 직접 찍어 사용을 허락한 영상만 넣는다. 영상 파일은 media/partner_videos/ 에 넣고 file에 파일명을 쓴다(또는 공개 mp4 주소를 url에). consentDate(사용 동의받은 날짜, YYYY-MM-DD)가 없으면 절대 쓰이지 않는다. match는 주제명에 맞는 정규식(예: \"Haeundae|Busan\"). instagram은 @계정, link는 가게 지도/홈페이지 주소.",
+  "example": {
+    "partner": "가게 이름",
+    "instagram": "@shop_handle",
+    "link": "https://naver.me/xxxx",
+    "match": "Seomyeon|Busan food",
+    "file": "shopname_2026-11.mp4",
+    "consentDate": "2026-11-20",
+    "note": "동의서 받은 방법(문자/서면)"
+  },
+  "videos": []
+}
