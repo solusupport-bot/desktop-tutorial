@@ -49821,8 +49821,12 @@
       "threads"
     ],
     "scheduledAt": "2026-11-19T06:52:50.468Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "17958261270319362"
+      }
+    },
     "createdAt": "2026-11-19T03:49:04.416Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -49841,7 +49845,8 @@
       "checkedAt": "2026-11-19T03:45:46.385Z",
       "pattern": "C"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-bukchon-hanok-village.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-bukchon-hanok-village.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-20T15:26:19.038Z"
   },
   {
     "id": "835d3eaf-624d-4337-b4fe-f8bea3162388",
