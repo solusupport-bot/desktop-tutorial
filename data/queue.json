@@ -52544,5 +52544,37 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-20T14:33:06.285Z",
     "blogUrl": "https://landinkorea.com/posts/korea-everland-vs-lotte-world-theme-parks.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "a7af4689-f8db-4b1f-a588-5b89114c8654",
+    "text": "Hongdae is quiet in the afternoon, but it's a different story at night. \n\nIt's Seoul's center for indie music clubs, streetwear shops, and youth fashion. \n\nLive busking performances cluster around 'Hongdae Playground' park on weekend evenings. \n\n📖 Full guide: https://english.visitkorea.or.kr\n\n🇯🇵 홍대는 낮에는 조용하지만 밤에는 전혀 다른 이야기입니다. \n 홍대는 서울의 인디 음악 클럽, 스트리트웨어 shop, 청년 패션의 중심입니다. \n 주말 저녁에는 '홍대 놀이터' 공원 주변에 라이브 뮤지션들이 모여집니다. \n 📖 Full guide: https://english.visitkorea.or.kr\n\n🇨🇳 홍대在白天是安静的，但到了晚上就变成完全不同的故事了。 \n 它是韩国首尔的独立音乐俱乐部、街头时尚店和青年时尚的中心。 \n 周末晚上，周围的 '홍대 놀이터' 公园里会聚集许多现场音乐演出。 \n 📖 Full guide: https://english.visitkorea.or.kr\n\n🇹🇼 香港大在白天是靜悄悄的，但到了晚上就變成完全不同的故事了。 \n 它是韓國首爾的獨立音樂俱樂部、街頭時尚店和青年時尚的中心。 \n 週末晚上，周圍的 '香港大遊樂場' 公園里會聚集許多現場音樂演出。 \n 📖 Full guide: https://english.visitkorea.or.kr",
+    "imageUrl": null,
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-21T08:18:40.428Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-20T14:43:27.455Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Hongdae nightlife and youth culture district",
+    "qualityGate": {
+      "pass": false,
+      "reason": "원본 자료에 없는 금액: threads: ₩2,000, bluesky: ₩2,000, mastodon: ₩2,000",
+      "model": "rule",
+      "failedPlatforms": [
+        "threads",
+        "bluesky",
+        "mastodon"
+      ],
+      "checkedAt": "2026-11-20T14:43:25.776Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-hongdae-nightlife-and-youth-culture-district.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]
