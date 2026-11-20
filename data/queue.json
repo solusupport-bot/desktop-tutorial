@@ -52581,5 +52581,33 @@
       "checkedAt": "2026-11-20T14:43:25.776Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-hongdae-nightlife-and-youth-culture-district.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "53cc0a50-20a2-4313-8f51-5c07e0d3181b",
+    "text": "Tap your T-money card twice at the Incheon airport exit and you lose ₩4,150 without knowing it\n\nThe all-stop AREX train costs roughly ₩4,150-₩4,750 with a transit card and takes about 59 minutes\n\nThis is why you should always check the fare display at the AREX ticket gate before tapping your T-money card T-money cards are convenient, but you need to be mindful of the fare calculation What's the worst fare mistake you've made in Korea?\n\n🇯🇵 仁川空港出口でT-moneyカードを2回タップすると₩4,150が無意識に消費されることがあります。AREXの料金を確認してからカードをタップしましょう!\n\n🇨🇳 在仁川机场出口使用T-money卡时忘记了2次刷卡会扣费₩4,150！在AREX站台确认费用后再刷卡！\n\n🇹🇼 仁川機場出口使用T-money卡時忘記了2次刷卡會扣費₩4,150！在AREX站台確認費用後再刷卡！",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-20T21:59:21.761Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-20T17:29:01.013Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Airport transfer options",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련 있고 문장이 자연스러우며 사실도 정확해 유용합니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-20T17:25:44.342Z",
+      "pattern": "E"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-airport-transfer-options.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
