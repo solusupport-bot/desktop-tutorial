@@ -51729,5 +51729,34 @@
       "pattern": "E"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-esim-mobile-data.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "084ce0ef-62a2-4548-8a98-b000bfd81c92",
+    "text": "Tap your T-money card twice at the Jongno 3-ga transfer and you lose ₩1,500. \nYou can pay for a group on Seoul city buses with one card if you tell the driver how many people before tapping. \nOne card can cover a group, but everyone must get off at the same stop. \n📖 Full guide: https://www.landinkorea.com\n\n🇯🇵  Jongno 3-ga の乗換所で T-money カードを 2 回タップすると、1,500ウォンを失います。\n\nバスでは運転手に乗車人数を伝え、1 カードでグループを支払うことができます。\n\n1 カードでグループを乗り物に乗せることができますが、全員が同じ停留所で降りなければなりません。\n\n📖 詳細はこちら: https://www.landinkorea.com\n\n🇨🇳 在 Jongno 3-ga 转乘站用 T-money 卡两次，会损失 1500ウォн。\n\n在城市公交车上，告诉司机有多少人后，用一张卡就可以为全组支付。\n\n一张卡可以为一组人支付费用，但是所有人都必须在同一个站点下车。\n\n📖 全部指南：https://www.landinkorea.com\n\n🇹🇼 在 Jongno 3-ga 轉乘站用 T-money 卡兩次，會損失 1500ウォ。\n\n在城市公交車上，告訴司機有多少人後，用一張卡就可以為全組支付。\n\n一張卡可以為一組人支付費用，但是所有人都必須在同一個站點下車。\n\n📖 全部指南：https://www.landinkorea.com",
+    "imageUrl": null,
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-20T23:03:46.323Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-20T08:15:52.554Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "T-money transit card",
+    "qualityGate": {
+      "pass": false,
+      "reason": "캡션에 사실과 다른 내용(두 번 탭 시 요금 중복, 버스 단체 결제 가능 등)이 포함돼 여행자에게 오해를 줄 수 있어 품질 기준을 충족하지 못합니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-20T08:15:50.820Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-20T08:15:52.530Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-t-money-transit-card.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]
