@@ -1,5 +1,5 @@
 {
-  "lastIndex": 49,
+  "lastIndex": 21,
   "history": [
     {
       "index": 22,
@@ -960,6 +960,36 @@
       "topic": "Where Koreans actually buy everyday stuff: Daiso vs. Olive Young vs. hypermarkets vs. the traditional market",
       "at": "2026-11-19T23:07:26.946Z",
       "source": "facebook-fill"
+    },
+    {
+      "index": 17,
+      "topic": "Luggage storage & forwarding services",
+      "at": "2026-11-20T00:27:08.930Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 18,
+      "topic": "KTX vs. SRT vs. intercity bus for long-distance travel",
+      "at": "2026-11-20T01:06:45.412Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 20,
+      "topic": "Trash and recycling rules for residents",
+      "at": "2026-11-20T02:10:53.171Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 19,
+      "topic": "Namdaemun Market",
+      "at": "2026-11-20T02:56:26.703Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 21,
+      "topic": "DMZ and JSA tours",
+      "at": "2026-11-20T03:52:21.028Z",
+      "source": "instagram-fill"
     }
   ],
   "recentImageUrls": [
@@ -2719,7 +2749,10 @@
     "https://cdn.pixabay.com/video/2025/09/22/305657_large.mp4",
     "https://videos.pexels.com/video-files/40033215/17084578_1080_1920_30fps.mp4",
     "https://videos.pexels.com/video-files/29242639/12618803_3840_2160_24fps.mp4",
-    "https://videos.pexels.com/video-files/29354421/12650396_3840_2160_24fps.mp4"
+    "https://videos.pexels.com/video-files/29354421/12650396_3840_2160_24fps.mp4",
+    "https://videos.pexels.com/video-files/37738769/16007000_2160_3840_24fps.mp4",
+    "https://videos.pexels.com/video-files/10135973/10135973-hd_1080_1920_30fps.mp4",
+    "https://videos.pexels.com/video-files/39879829/17007609_3840_2160_25fps.mp4"
   ],
   "recentMusicUrls": [
     "https://prod-1.storage.jamendo.com/?trackid=20237&format=mp32",
@@ -2821,7 +2854,9 @@
     "https://prod-1.storage.jamendo.com/?trackid=665946&format=mp32",
     "https://prod-1.storage.jamendo.com/?trackid=665946&format=mp32",
     "https://prod-1.storage.jamendo.com/?trackid=665946&format=mp32",
-    "https://prod-1.storage.jamendo.com/?trackid=665946&format=mp32"
+    "https://prod-1.storage.jamendo.com/?trackid=665946&format=mp32",
+    "https://prod-1.storage.jamendo.com/?trackid=665946&format=mp32",
+    "https://prod-1.storage.jamendo.com/?trackid=807596&format=mp32"
   ],
   "topicPhotographers": {
     "Why Google Maps fails in Korea and how the road-name address system actually works": [
@@ -2946,7 +2981,10 @@
       "Gije Cho",
       "Ethan Brooke",
       "Jueon Kim 김주언",
-      "Theodore Nguyen"
+      "Theodore Nguyen",
+      "Jhany Blue",
+      "Junsu Park",
+      "Markus Winkler"
     ],
     "Trash and recycling rules for residents": [
       "Hyeok Jang",
@@ -2956,7 +2994,8 @@
       "Jaythen Bag-ayan",
       "Laura Lee Van Herck",
       "Markus Winkler",
-      "Byung Chul Min"
+      "Byung Chul Min",
+      "FREE VIDEO HAPPY"
     ],
     "Namdaemun Market": [
       "JAMIE  DIAZ",
@@ -2968,7 +3007,13 @@
       "Theodore Nguyen",
       "영화 정",
       "한기 장",
-      "Nezaket"
+      "Nezaket",
+      "KYUTAE PARK",
+      "FREE VIDEO HAPPY",
+      "oh kk",
+      "Анна Шаталова",
+      "Junsu Park",
+      "Jaythen Bag-ayan"
     ],
     "Jjimjilbang etiquette": [
       "BUY Camera",
