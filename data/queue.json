@@ -51620,5 +51620,34 @@
       "pattern": "E"
     },
     "rejectedBy": "korea-video-recheck"
+  },
+  {
+    "id": "4e7067ea-edb9-45fe-b58d-920639637faa",
+    "text": "Tap your T-money card twice at the Jongno 3-ga transfer and you lose ₩10,000 without knowing it.\n\nThe key is to tap once at the entrance and once at the exit. This way, you avoid getting charged twice for the same ride.\n\nBe mindful of the gates, as they can be confusing, especially for first-time users. Have you ever experienced this situation before? Check out our full guide to T-money at the link in our profile.\n\n🇯🇵 Jongno 3-ga のトランザクションで T-money カードを 2 回タップすると、10,000 円を無意識のうちに失うかもしれません。\n\n🇨🇳 在 Jongno 3-ga 转换站使用 T-money 卡时，轻易就会错过 10,000 韩元。\n\n🇹🇼 在 Jongno 3-ga 轉乘站使用 T-money 卡時，很容易就會錯過 10,000 韓元。",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-20T20:20:51.921Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-20T05:26:47.510Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Jjimjilbang etiquette",
+    "qualityGate": {
+      "pass": false,
+      "reason": "내용이 찜질방 예절과 관련이 없어 주제와 맞지 않습니다",
+      "model": "groq",
+      "checkedAt": "2026-11-20T05:26:46.722Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-20T05:26:47.494Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-jjimjilbang-etiquette.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
