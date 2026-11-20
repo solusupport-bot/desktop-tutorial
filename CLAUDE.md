@@ -46,6 +46,21 @@ It doesn't." 28회 등 6개 문장, 65건)으로 시작한 글은 조회 중앙�
 
 ---
 
+## 🎬 Instagram 영상 = 한국 지명이 확인된 영상만 (2026-11-20 사용자 지시 — "다른 나라 영상이 나온다")
+
+2026-11-18에 "지명 없어도 주제 단어만 맞으면 채택"하는 2차 완화를 5개 영상 소스(pexels/pixabay/
+coverr/vimeo/wikimedia_commons_video.js)에 넣었더니, 11/19~20 채택 영상 51개 중 50개가 그 경로였고
+외국 영상(영국 LNER 열차, 발트해 목욕탕 등)이 그대로 나갔다. 최종 검사인 Cloudflare llava-7B는
+"a bus in a foreign country"라고 설명하면서도 korea=true를 줘서 아무것도 거르지 못했다.
+
+- 영상은 **제목·태그·슬러그에 KOREA_SIGNAL이 있는 것만** 채택한다. 2차 완화를 다시 넣지 말 것 —
+  영상이 없으면 그날 Instagram은 안 올리는 게 맞다.
+- `media_guard.js`의 `parseVerdict`는 모델 설명(`what`)에 foreign/다른 나라명이 있으면 korea=false로 본다.
+- 소형 비전 모델의 korea 판정만으로 한국 여부를 보증하지 말 것 — 메타데이터 확인이 1차 관문이다.
+- 테스트: `node --test lib/ingestion/korea_only_video.test.js`.
+
+---
+
 ## 🖼️ 미디어 3대 원칙 (2026-10-02 사용자 반복 지시 — "제발 규칙으로 만들어서 실수하지 말자")
 
 **사용자가 같은 지적을 여러 번 반복한 뒤 명시적으로 규칙화를 요청함.** 이미지/영상을 다루는
