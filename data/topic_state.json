@@ -1,5 +1,5 @@
 {
-  "lastIndex": 4,
+  "lastIndex": 3,
   "history": [
     {
       "index": 22,
@@ -329,6 +329,36 @@
       "index": 21,
       "topic": "DMZ and JSA tours",
       "at": "2026-11-20T03:52:21.028Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 22,
+      "topic": "Jjimjilbang etiquette",
+      "at": "2026-11-20T09:37:42.211Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 0,
+      "topic": "Gyeongbokgung Palace",
+      "at": "2026-11-20T10:03:57.358Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 1,
+      "topic": "Bukchon Hanok Village",
+      "at": "2026-11-20T10:22:35.433Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 2,
+      "topic": "N Seoul Tower (Namsan)",
+      "at": "2026-11-20T10:32:49.832Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 3,
+      "topic": "Myeongdong shopping district",
+      "at": "2026-11-20T11:04:49.710Z",
       "source": "instagram-fill"
     }
   ],
@@ -1573,7 +1603,9 @@
     "https://images.pexels.com/photos/36678663/pexels-photo-36678663.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://images.pexels.com/photos/2848492/pexels-photo-2848492.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://images.pexels.com/photos/19362137/pexels-photo-19362137.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://images.pexels.com/photos/20241747/pexels-photo-20241747.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "https://images.pexels.com/photos/20241747/pexels-photo-20241747.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/33148948/pexels-photo-33148948.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/19271530/pexels-photo-19271530.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
   ],
   "recentVideoUrls": [
     "https://videos.pexels.com/video-files/19577787/19577787-uhd_2160_3840_30fps.mp4",
@@ -2375,7 +2407,10 @@
       "Seongpack Cho",
       "Jueon Kim 김주언",
       "Delphie Y.",
-      "oh kk"
+      "oh kk",
+      "byunghyun lee",
+      "정규송 Nui MALAMA",
+      "Asia Culture Center"
     ],
     "Gyeongbokgung Palace": [
       "대정 김",
@@ -2391,7 +2426,8 @@
       "zhengkui li",
       "Huy Phan",
       "FREE VIDEO HAPPY",
-      "Marius Mann"
+      "Marius Mann",
+      "Angelina Rodionow"
     ],
     "Bukchon Hanok Village": [
       "Little forest 작은 숲",
@@ -2403,7 +2439,8 @@
       "Theodore Nguyen",
       "wal_ 172619",
       "CK Seng",
-      "Angelina Rodionow"
+      "Angelina Rodionow",
+      "Huy Phan"
     ],
     "N Seoul Tower (Namsan)": [
       "Gije Cho",
@@ -2419,7 +2456,10 @@
       "Christian S.",
       "Kharl Anthony Paica",
       "Elina Volkova",
-      "O-seop Sim"
+      "O-seop Sim",
+      "yong gil",
+      "Mocchi NO",
+      "Line Knipst"
     ],
     "Busan Haeundae Beach & Gamcheon Culture Village": [
       "Sean Hwang",
