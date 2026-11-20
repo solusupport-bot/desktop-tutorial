@@ -52609,5 +52609,33 @@
       "pattern": "E"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-airport-transfer-options.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "691f465e-d670-4bb9-a04c-fd232399d7e4",
+    "text": "🚫 Don't tap your T-money card twice at the Jongno 3-ga transfer. 🚫 The correct way is to tap once when you enter the subway and once when you exit. 🚫 You can also top up at a convenience store or a T-money vending machine. 📖 Full guide: https://english.visitkorea.or.kr\n\n🇯🇵  Jongno 3-ga の乗り換えで T-money カードを 2 回タップしないでください。 🚫 正しい方法は、地下鉄に乗り込むときに 1 回タップし、降りるときに 1 回タップすることです。 🚫 コンビニや T-money 自動販売機でチャージすることもできます。 📖 詳細はこちら: https://english.visitkorea.or.kr\n\n🇨🇳 不要在 Jongno 3-ga 转乘时用 T-money 卡 2 次刷卡！ 🚫 正确的方法是，在乘坐地铁时刷卡一次，下车时刷卡一次！ 🚫 也可以在便利店或 T-money 自动售票机中充值！ 📖 详情请参见：https://english.visitkorea.or.kr\n\n🇹🇼 不要在 Jongno 3-ga 轉乘時用 T-money 卡 2 次刷卡！ 🚫 正確的方法是，在乘坐地鐵時刷卡一次，下車時刷卡一次！ 🚫 也可以在便利店或 T-money 自動售票機中充值！ 📖 详情请参见：https://english.visitkorea.or.kr",
+    "imageUrl": null,
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-21T00:24:50.556Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-20T17:43:44.549Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "First-timer etiquette & common mistakes",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장도 자연하며 사실도 정확해 여행자에게 유용한 내용입니다",
+      "model": "groq",
+      "checkedAt": "2026-11-20T17:40:27.064Z",
+      "pattern": "E"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-first-timer-etiquette-common-mistakes.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]
