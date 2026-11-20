@@ -52736,5 +52736,39 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-20T23:47:44.181Z",
     "blogUrl": "https://landinkorea.com/posts/korea-renting-a-car-in-korea-when-it-s-smart-when-it-s-a-waste-and-what-the-rental-desk-will-ask-for.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "a6a0a576-2f80-4abe-a095-4a9ab82bcf6e",
+    "text": "Don't tip at restaurants in Korea - the listed price is all you need to pay.\nYou can show appreciation with a verbal thank-you or returning to the same restaurant.\n📖 Full guide: https://english.visitkorea.or.kr\n\n🇯🇵 韓国では、食事の際のサービスチップは一般的ではなく、注文したメニューの価格はすべてを含んでいます。感謝の気持ちを表すには、口頭でお礼を述べるか、同じ店を利用することができます。\n\n📖 Full guide: https://english.visitkorea.or.kr\n\n🇨🇳 韩国餐厅不需要给服务员打小费，价格已经包括在菜单里。您可以用口头感谢或者回去店里再来表示感谢。\n\n📖 Full guide: https://english.visitkorea.or.kr\n\n🇹🇼 韓國餐廳不需要給服務員打小費，價格已經包括在菜單里。您可以用口頭感謝或者回去店裡再來表示感謝。\n\n📖 Full guide: https://english.visitkorea.or.kr",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795219109317-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795219109317-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-21T09:16:40.645Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-20T23:58:31.092Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g09439f11cbf4cb50cf6b6df61393b76afa73763fdb720768128a73916e7e66d25d8435e0ba361545eaa78fbe69d33cabd6f749c8ea234de54b73717a1d76f110_1280.jpg#pixabay=2870494"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Tipping in Korea: why you shouldn't and what to do instead",
+    "qualityGate": {
+      "pass": false,
+      "reason": "첫 문장의 T-money 카드 이중 결제 내용이 사실과 다르며 오해를 일으킬 수 있어 발행에 부적합합니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-20T23:58:29.316Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-20T23:58:31.067Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-tipping-and-service-charges.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]
