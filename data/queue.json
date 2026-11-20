@@ -49066,8 +49066,12 @@
       "threads"
     ],
     "scheduledAt": "2026-11-19T03:00:56.232Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18147925147681374"
+      }
+    },
     "createdAt": "2026-11-18T07:38:48.073Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -49083,7 +49087,8 @@
       "model": "groq",
       "checkedAt": "2026-11-18T07:32:12.193Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-myeongdong-shopping-district.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-myeongdong-shopping-district.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-20T06:26:16.004Z"
   },
   {
     "id": "7723ef86-f123-4d4b-8d6d-024b91b6070f",
@@ -50510,8 +50515,13 @@
       "bluesky"
     ],
     "scheduledAt": "2026-11-20T03:09:33.278Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3n2pxd7psmg23",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3n2pxd7psmg23"
+      }
+    },
     "createdAt": "2026-11-19T07:42:02.443Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -50530,7 +50540,8 @@
       "checkedAt": "2026-11-19T07:38:22.607Z",
       "pattern": "O"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-first-timer-etiquette-common-mistakes.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-first-timer-etiquette-common-mistakes.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-20T06:26:18.274Z"
   },
   {
     "id": "682570b1-a849-40d4-bbcd-b6f4591797bd",
@@ -50543,8 +50554,13 @@
       "mastodon"
     ],
     "scheduledAt": "2026-11-20T03:42:28.804Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "mastodon": {
+        "id": "117647342318798313",
+        "url": "https://mastodon.social/@landinkorea/117647342318798313"
+      }
+    },
     "createdAt": "2026-11-19T07:42:02.471Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -50563,7 +50579,8 @@
       "checkedAt": "2026-11-19T07:38:22.607Z",
       "pattern": "O"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-first-timer-etiquette-common-mistakes.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-first-timer-etiquette-common-mistakes.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-20T06:26:20.843Z"
   },
   {
     "id": "a2e585d2-f656-4142-b659-abddc9fb502e",
@@ -50576,8 +50593,13 @@
       "tumblr"
     ],
     "scheduledAt": "2026-11-20T05:37:51.806Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "tumblr": {
+        "id": "833781478534086656",
+        "url": "https://landinkorea.tumblr.com/post/833781478534086656"
+      }
+    },
     "createdAt": "2026-11-19T07:42:02.496Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -50596,7 +50618,8 @@
       "checkedAt": "2026-11-19T07:38:22.607Z",
       "pattern": "O"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-first-timer-etiquette-common-mistakes.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-first-timer-etiquette-common-mistakes.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-20T06:26:21.820Z"
   },
   {
     "id": "a2fcfa3b-fff8-4be8-a6b4-6a0351131637",
