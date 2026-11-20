@@ -52515,5 +52515,34 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-20T11:50:50.204Z",
     "blogUrl": "https://landinkorea.com/posts/korea-jeju-island.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "bc73934e-ae1b-4c9d-9041-73dc69909de5",
+    "text": "Tap your T-money card twice at the Lotte World subway exit and you lose money without knowing it.\n\nThe fix is to tap once for the exit fare, and then tap again at the ticket gate to exit.\n\nOne practical observation: always tap your T-money card at the ticket gate, not at the exit. One caution: don't assume the exit fare is always the same. Did this confuse you too?\n\n🇯🇵 T-moneyカードを Lotte World の地下鉄出口で 2 回タップすると、お金が失われることがあります。対策は出口料金を 1 回タップし、次に駅ゲートで 1 回タップして出口します。実際の注意点は、常に T-money カードを駅ゲートでタップすることです。出口料金は常に同じではないため注意する必要があります。\n\n🇨🇳 在 Lotte World 地铁出口使用 T-money 卡时，2 次点击会消耗钱包。解决方法是先点击出口费用，接着在站票门口点击。实践提示：总是使用 T-money 卡在站票门口点击。出口费用并非总是相同。\n\n🇹🇼 在 Lotte World 地下鐵出口使用 T-money 卡時，2 次點擊會消耗錢包。解決方法是先點擊出口費用，接着在站票門口點擊。實踐提示：總是使用 T-money 卡在站票門口點擊。出口費用並非總是相同。",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-20T15:01:42.048Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-20T14:33:06.296Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Everland vs. Lotte World theme parks",
+    "qualityGate": {
+      "pass": false,
+      "reason": "캡션이 에버랜드와 롯데월드 비교 주제와 무관하고, 관련 내용이 부족합니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-20T14:33:03.511Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-20T14:33:06.285Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-everland-vs-lotte-world-theme-parks.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
