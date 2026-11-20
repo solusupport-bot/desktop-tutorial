@@ -52673,5 +52673,34 @@
       "checkedAt": "2026-11-20T20:12:26.918Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-hailing-a-taxi-in-korea-kakao-t-vs-street-taxis-vs-airport-deluxe-cabs.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "fa3e1200-c7be-4156-b38e-ec117b652e96",
+    "text": "Tap twice at Jongno 3-ga transfer: $0. \n\nTap once at transfer: $0. \n\nCheck screen before tapping: always. \n\n📖 Full guide: https://www.juso.go.kr/openEngPage.do\n\n🇯🇵 종로3가 환승역에서 두 번 터치: 0원.\n종로3가 환승역에서 한 번 터치: 0원.\n화면을 확인하기 전에 터치해 주세요.\n📖 자세한 설명은 https://www.juso.go.kr/openEngPage.do에서 확인하실 수 있습니다.\n\n🇨🇳 在 Jongno 3-ga 转乘站双击: 0元。\n在 Jongno 3-ga 转乘站单击: 0元。\n检查屏幕之前点击: 总是。\n📖 全部指南: https://www.juso.go.kr/openEngPage.do\n\n🇹🇼 在 Jongno 3-ga 轉乘站雙擊: 0元。\n在 Jongno 3-ga 轉乘站單擊: 0元。\n檢查螢幕之前點擊: 總是。\n📖 全部指南: https://www.juso.go.kr/openEngPage.do",
+    "imageUrl": null,
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-20T22:01:09.018Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-20T20:23:00.058Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Why Google Maps fails in Korea and how the road-name address system actually works",
+    "qualityGate": {
+      "pass": false,
+      "reason": "주제가 'Google Maps가 한국에서 실패하는 이유와 도로명 주소 체계'와 무관하게 교통카드 탭에 관한 내용이라 부적합합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-20T20:22:57.635Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-20T20:23:00.040Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-why-google-maps-fails-in-korea-and-how-the-road-name-address-system-actually-works.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]

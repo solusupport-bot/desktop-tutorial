@@ -1,5 +1,5 @@
 {
-  "lastIndex": 31,
+  "lastIndex": 32,
   "history": [
     {
       "index": 22,
@@ -492,6 +492,12 @@
       "topic": "Hailing a taxi in Korea: Kakao T vs. street taxis vs. airport 'deluxe' cabs",
       "at": "2026-11-20T19:57:38.889Z",
       "source": "threads-fill"
+    },
+    {
+      "index": 32,
+      "topic": "Why Google Maps fails in Korea and how the road-name address system actually works",
+      "at": "2026-11-20T20:12:29.897Z",
+      "source": "facebook-fill"
     }
   ],
   "recentImageUrls": [
