@@ -53853,5 +53853,34 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-21T18:54:22.851Z",
     "blogUrl": "https://landinkorea.com/posts/korea-currency-card-payments.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "9bd14b8d-7485-46a7-aab0-cec834690b16",
+    "text": "24-hour pharmacies are rare in Korea, but green cross signs mark the few open late-night ones.\n\nLate-night pharmacies are far less common than 24-hour convenience stores.\n\nShowing a translated symptom list speeds up the consultation.\n\n📖 Full guide: https://www.1330.or.kr\n\n🇯🇵 24時間薬局は韓国では珍しいが、グリーンクロスサインは深夜に開いている薬局の少ない数を示しています。\n深夜の薬局は24時間のコンビニよりも少ないです。\n症状のリストを翻訳すると、相談が早くなります。\n\n📖 Full guide: https://www.1330.or.kr\n\n🇨🇳 韩国24小时药店很少见，但绿十字标志标示了几间深夜开门的药店。\n深夜药店比24小时便利店少见。\n翻译症状列表可以加快咨询。\n\n📖 全指南：https://www.1330.or.kr\n\n🇹🇼 韓國24小時藥店很少見，但綠十字標誌標示了幾間深夜開門的藥店。\n深夜藥店比24小時便利店少見。\n翻譯症狀列表可以加快諮詢。\n\n📖 全指南：https://www.1330.or.kr",
+    "imageUrl": null,
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-22T09:52:43.657Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-21T19:27:14.804Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Emergency numbers & 24hr pharmacies",
+    "qualityGate": {
+      "pass": false,
+      "reason": "주제가 'Emergency numbers & 24hr pharmacies'와 전혀 무관하고, 내용이 관련 정보를 제공하지 않아 여행 콘텐츠로서 유용하지 않다",
+      "model": "groq",
+      "checkedAt": "2026-11-21T19:27:12.945Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-21T19:27:14.785Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-emergency-numbers-24hr-pharmacies.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]

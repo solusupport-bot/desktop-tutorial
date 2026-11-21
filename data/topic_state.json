@@ -1,5 +1,5 @@
 {
-  "lastIndex": 12,
+  "lastIndex": 13,
   "history": [
     {
       "index": 22,
@@ -462,6 +462,12 @@
       "topic": "Currency & card payments",
       "at": "2026-11-21T18:44:02.586Z",
       "source": "threads-fill"
+    },
+    {
+      "index": 13,
+      "topic": "Emergency numbers & 24hr pharmacies",
+      "at": "2026-11-21T18:54:24.438Z",
+      "source": "facebook-fill"
     }
   ],
   "recentImageUrls": [
