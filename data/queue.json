@@ -53562,5 +53562,34 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-21T09:14:39.774Z",
     "blogUrl": "https://landinkorea.com/posts/korea-luggage-storage-forwarding-services.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "12cdd053-ca77-431c-93f8-123a19686c28",
+    "text": "For cheap household basics — hangers, slippers, kitchen tools, phone cables, travel bottles — Daiso is the default, with fixed low price tiers and big multi-floor branches near major stations.\n\nOlive Young is the drugstore chain for skincare, sunscreen, cosmetics, masks and basic over-the-counter items like hangover drinks and pain patches, and it runs frequent bundle promotions rather than everyday low pricing.\n\nSave this guide — trust me on this one.\n\n📖 Open the Land in Korea link in our profile and search “Where Koreans actually buy everyday stuff: Daiso vs. Olive Young vs. hypermarkets vs. the traditional market”.\n\n🎬 Video source: Pexels\n\n#KoreaTravel #SeoulTrip #KoreaTips #TravelKorea #VisitSeoul\n\n🎵 \"Anima Pop - Ink\" by Vienna In Love is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.\n\n🇯🇵 家電や日用品など、安価な品物はダイソーがデフォルト、低価格枠と駅前にある大きな店が人気です。オライブ・ヤングは化粧品や日焼け止め、コスメ、化粧マスクなどの薬局チェーンで、定期的なバンドル割引を実施しています。\n\n🇨🇳 日用品、电器、生活必需品等便宜店选用ダイソー，低价固定层次，多层楼，靠近地铁站。药妆店选用奥利芙·杨格，化妆品、日晒防护、护肤品、面膜、常见非处方药品，定期促销套餐。\n\n🇹🇼 日用品、電器、生活必需品等便宜店選用大士屋，低價固定層次，多層樓，靠近地鐵站。藥妝店選用奧利芙·楊格，化妝品、日晒防護、護膚品、面膜、常見非處方藥品，定期促銷套餐。",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1795250656416-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-11-21T11:10:57.864Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-21T08:44:19.296Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/41143096/17620158_1920_1080_30fps.mp4",
+    "videoAttribution": "Pexels",
+    "topic": "Where Koreans actually buy everyday stuff: Daiso vs. Olive Young vs. hypermarkets vs. the traditional market",
+    "qualityGate": {
+      "pass": false,
+      "reason": "캡션이 Daiso와 Olive Young만 다루고 하이퍼마켓·전통시장은 언급하지 않아 주제와 완전히 일치하지 않음",
+      "model": "groq",
+      "checkedAt": "2026-11-21T08:44:04.225Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-21T08:44:19.273Z"
   }
 ]
