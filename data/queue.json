@@ -50695,8 +50695,12 @@
       "facebook"
     ],
     "scheduledAt": "2026-11-20T00:36:47.181Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "999097096589109"
+      }
+    },
     "createdAt": "2026-11-19T07:45:50.218Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -50715,7 +50719,8 @@
       "checkedAt": "2026-11-19T07:43:00.818Z",
       "pattern": "A"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-currency-card-payments.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-currency-card-payments.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-21T16:53:34.974Z"
   },
   {
     "id": "ac2609ce-e178-4a3f-8748-155735179677",
