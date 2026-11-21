@@ -52962,5 +52962,605 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-21T07:41:21.185Z",
     "blogUrl": "https://landinkorea.com/posts/korea-hiking-in-korea-like-a-local-subway-accessible-peaks-seasonal-trail-closures-and-the-gear-culture.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "b80a7494-f3e7-4277-ab00-7af8752375e9",
+    "text": "Planning a Monday palace tour in Seoul and assuming all sites are open?\n\nOnly Gyeongbokgung stays open Monday; Changdeokgung, Changgyeonggung, Deoksugung and Jongmyo close that day.\n\nTicket booths stop selling about an hour before gates shut, so grab tickets early. Jongmyo offers free‑roaming only on designated days; most days you need a timed guided tour. Did this change your itinerary? Open the Land in Korea link in the profile.\n\n🇯🇵 月曜日は景福宮だけが開いていて、他の宮殿は閉まっています。\n\n🇨🇳 周一只有景福宫开放，其他宫殿关闭。\n\n🇹🇼 週一只有景福宮開放，其他宮殿關閉。",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-22T02:39:03.303Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-21T07:26:08.407Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "The closed-on-Monday trap: how Korean palaces and museums schedule their days off",
+    "qualityGate": {
+      "pass": true,
+      "reason": "캡션은 주제와 관련이 있고, 문장이 자연스럽고 완성돼 있으며, 가격/시간/운영 여부 등 구체적 사실 주장이 과장되거나 의심스럽지 않으며, 여행 콘텐츠로서 최소한의 유용성이 있다.",
+      "model": "groq",
+      "checkedAt": "2026-11-21T07:19:55.511Z",
+      "pattern": "D"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-the-closed-on-monday-trap-how-korean-palaces-and-museums-schedule-their-days-off.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "ff78e620-a9c8-451f-95c4-c6ffc269b70a",
+    "text": "Gyeongbokgung is the only palace open on Monday; the others close.\nGyeongbokgung closes on Tuesday, so plan that day off.\nTicket booths stop selling ~1 hour before gates, and Jongmyo needs guided tours except on free‑roaming days.\n📖 Full guide: https://landinkorea.com/posts/korea-the-closed-on-monday-trap-how-korean-palaces-and-museums-schedule-their-days-off.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post\n\n🇯🇵 景福宮は月曜日に唯一開いている宮殿で、他は閉まります。\n景福宮は火曜日に閉まるので、その日は休みを計画してください。\nチケット窓口は門が閉まる約1時間前に販売を終了し、宗廟は無料散策日を除きガイドツアーが必要です。\n📖 完全ガイド: https://landinkorea.com/posts/korea-the-closed-on-monday-trap-how-korean-palaces-and-museums-schedule-their-days-off.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post\n\n🇨🇳 景福宫是唯一在星期一开放的宫殿，其他宫殿关闭。\n景福宫在星期二关闭，请安排那天休息。\n售票处在大门关闭前约1小时停止售票，宗庙除免费漫游日外需要导览团。\n📖 完整指南: https://landinkorea.com/posts/korea-the-closed-on-monday-trap-how-korean-palaces-and-museums-schedule-their-days-off.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post\n\n🇹🇼 景福宮是唯一在星期一開放的宮殿，其他宮殿關閉。\n景福宮在星期二關閉，請安排那天休息。\n售票處在大門關閉前約1小時停止售票，宗廟除免費漫遊日外需要導覽團。\n📖 完整指南: https://landinkorea.com/posts/korea-the-closed-on-monday-trap-how-korean-palaces-and-museums-schedule-their-days-off.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": null,
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-21T09:43:38.411Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-21T07:26:08.448Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "The closed-on-Monday trap: how Korean palaces and museums schedule their days off",
+    "qualityGate": {
+      "pass": true,
+      "reason": "캡션은 주제와 관련이 있고, 문장이 자연스럽고 완성돼 있으며, 가격/시간/운영 여부 등 구체적 사실 주장이 과장되거나 의심스럽지 않으며, 여행 콘텐츠로서 최소한의 유용성이 있다.",
+      "model": "groq",
+      "checkedAt": "2026-11-21T07:19:55.511Z",
+      "pattern": "D"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-the-closed-on-monday-trap-how-korean-palaces-and-museums-schedule-their-days-off.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "a5b20e86-8733-44b6-876f-b22e39c24376",
+    "text": "Planning a Monday palace tour in Seoul and assuming they're all open? #KoreaTravel\n\nOnly Gyeongbokgung stays open Monday; Changdeokgung, Changgyeonggung, Deoksugung, and Jongmyo close that day. #Gyeongbokgung\n\nTicket booths stop selling about an hour before gates, so buy tickets early.\n\nJongmyo offers free‑roaming only on designated days; otherwise you need a timed guided tour.\n\nDid this catch you off guard?\n\n🇯🇵 月曜日は景福宮だけが開いていて、他は閉まります。 #KoreaTravel #Gyeongbokgung\n\n🇨🇳 周一只有景福宫开放，其他关闭。 #KoreaTravel #Gyeongbokgung\n\n🇹🇼 週一只有景福宮開放，其他關閉。 #KoreaTravel #Gyeongbokgung",
+    "imageUrl": null,
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-11-22T03:14:22.774Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-21T07:26:08.487Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "The closed-on-Monday trap: how Korean palaces and museums schedule their days off",
+    "qualityGate": {
+      "pass": true,
+      "reason": "캡션은 주제와 관련이 있고, 문장이 자연스럽고 완성돼 있으며, 가격/시간/운영 여부 등 구체적 사실 주장이 과장되거나 의심스럽지 않으며, 여행 콘텐츠로서 최소한의 유용성이 있다.",
+      "model": "groq",
+      "checkedAt": "2026-11-21T07:19:55.511Z",
+      "pattern": "D"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-the-closed-on-monday-trap-how-korean-palaces-and-museums-schedule-their-days-off.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "90ad286b-0c0a-4ac9-8b3a-1a62fe73ea46",
+    "text": "Planning a Monday palace tour in Seoul and assuming they're all open?\n\nOnly Gyeongbokgung stays open Monday; Changdeokgung, Changgyeonggung, Deoksugung, and Jongmyo close that day.\n\nTicket booths stop selling about an hour before gates, so buy tickets early.\n\nJongmyo offers free‑roaming only on designated days; otherwise you need a timed guided tour.\n\nDid this affect your plans? #KoreaTravel #Gyeongbokgung\n\n🇯🇵 月曜日は景福宮だけが開いていて、他の宮殿は閉まっています。 #KoreaTravel #Gyeongbokgung\n\n🇨🇳 周一只有景福宫开放，其他宫殿关闭。 #KoreaTravel #Gyeongbokgung\n\n🇹🇼 週一只有景福宮開放，其他宮殿關閉。 #KoreaTravel #Gyeongbokgung",
+    "imageUrl": null,
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-11-22T03:44:01.312Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-21T07:26:08.518Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "The closed-on-Monday trap: how Korean palaces and museums schedule their days off",
+    "qualityGate": {
+      "pass": true,
+      "reason": "캡션은 주제와 관련이 있고, 문장이 자연스럽고 완성돼 있으며, 가격/시간/운영 여부 등 구체적 사실 주장이 과장되거나 의심스럽지 않으며, 여행 콘텐츠로서 최소한의 유용성이 있다.",
+      "model": "groq",
+      "checkedAt": "2026-11-21T07:19:55.511Z",
+      "pattern": "D"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-the-closed-on-monday-trap-how-korean-palaces-and-museums-schedule-their-days-off.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "76680f07-26b0-4881-81c3-843c37a47e1f",
+    "text": "Korea has a Monday palace trap: only Gyeongbokgung stays open while the other major palaces shut.\n1. Gyeongbokgung closes on Tuesdays; Changdeokgung, Changgyeonggung, Deoksugung, and Jongmyo close on Mondays.\n2. Ticket booths stop selling about an hour before gates close, so purchase early.\n3. Jongmyo’s free‑roaming is only on designated days; otherwise you need a timed guided tour.\nPlan your museum day accordingly to avoid closed doors.\n\n🇯🇵 韓国には月曜日の宮殿トラップがあります：景福宮だけが開いていて、他の主要な宮殿は閉まります。\n1. 景福宮は火曜日に閉まり、昌徳宮、昌慶宮、徳壽宮、宗廟は月曜日に閉まります。\n2. チケット窓口は門が閉まる約1時間前に販売を終了するので、早めに購入してください。\n3. 宗廟の無料散策は指定日だけで、それ以外は時間指定のガイドツアーが必要です。\n閉まっているドアを避けるために、博物館の日程を計画しましょう。\n\n🇨🇳 韩国有一个星期一宫殿陷阱：只有景福宫开放，其他主要宫殿关闭。\n1. 景福宫在星期二关闭；昌德宫、昌庆宫、德寿宫和宗庙在星期一关闭。\n2. 售票处在大门关闭前约1小时停止售票，请提前购买。\n3. 宗庙的免费漫游仅在指定日开放，其他日需预约导览。\n请相应安排博物馆日，以免碰到关闭的门。\n\n🇹🇼 韓國有一個星期一宮殿陷阱：只有景福宮開放，其他主要宮殿關閉。\n1. 景福宮在星期二關閉；昌德宮、昌慶宮、德壽宮和宗廟在星期一關閉。\n2. 售票處在大門關閉前約1小時停止售票，請提前購買。\n3. 宗廟的免費漫遊僅在指定日開放，其他日需預約導覽。\n請相應安排博物館日，以免碰到關閉的門。",
+    "imageUrl": null,
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-11-22T05:42:17.252Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-21T07:26:08.552Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "The closed-on-Monday trap: how Korean palaces and museums schedule their days off",
+    "qualityGate": {
+      "pass": true,
+      "reason": "캡션은 주제와 관련이 있고, 문장이 자연스럽고 완성돼 있으며, 가격/시간/운영 여부 등 구체적 사실 주장이 과장되거나 의심스럽지 않으며, 여행 콘텐츠로서 최소한의 유용성이 있다.",
+      "model": "groq",
+      "checkedAt": "2026-11-21T07:19:55.511Z",
+      "pattern": "D"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-the-closed-on-monday-trap-how-korean-palaces-and-museums-schedule-their-days-off.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "f8dbea6b-9f7e-4762-be3c-a0eab9605d24",
+    "text": "Tap your T-money card twice at the subway transfer in Seoul and you lose money without knowing it.\n\nThe exact amount is 100 won, which is deducted from your card balance every time you tap twice.\n\nMost trailheads have restrooms and a cluster of restaurants serving pajeon, tofu stew, and bibimbap for the post-hike meal, which is half the point for locals. Be sure to check the Korea National Park Service site or signage at the trailhead before committing to a route, especially during spring and autumn wildfire-prevention periods and in winter for safety. Did this confuse you too?\n\n🇯🇵 T-moneyカードを地下鉄の乗り換えで2回タップすると100円が減ります。\n\n🇨🇳 T-money卡在首尔地铁换乘时2次刷卡，100元将被扣除。\n\n🇹🇼 T-money卡在首爾地鐵換乘時2次刷卡，100元將被扣除。",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795247314841-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795247314841-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-21T16:53:41.065Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-21T07:48:43.319Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/28993821/pexels-photo-28993821.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Hiking in Korea like a local: subway-accessible peaks, seasonal trail closures, and the gear culture",
+    "qualityGate": {
+      "pass": false,
+      "reason": "내용에 사실과 다른 정보(두 번 탭 시 100원 차감)와 주제인 장비 문화가 빠져 있어 여행 정보로서 신뢰성과 완전성이 부족합니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-21T07:48:34.841Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-21T07:48:43.298Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-hiking-in-korea-like-a-local-subway-accessible-peaks-seasonal-trail-closures-and-the-gear-culture.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "ab14a5f8-3cde-407c-b2e9-08e68969e6cb",
+    "text": "📝 Tap your T-money card twice at the subway transfer in Seoul and you lose 100 won. \n\n 📝 Most trailheads have restrooms and a cluster of restaurants serving pajeon, tofu stew, and bibimbap. \n\n 📝 Be sure to check the Korea National Park Service site or signage at the trailhead before committing to a route. \n\n 📖 Full guide: https://english.knps.or.kr/\n\n🇯🇵 💻 T-moneyカードを地下鉄の乗り換えで2回タップすると100円が減ります。\n\n 💻 トレイルヘッドの多くにはトイレと、ペジャン、豆腐鍋、ビビンバを提供するレストランが集まっています。\n\n 💻 トレイルのルートを決定する前に、トレイルヘッドでサインが立てられている Korea National Park Service のサイトを確認してください。\n\n🇨🇳 💻 首尔地铁换乘时2次刷卡，100元将被扣除。\n\n 💻 多数的徒步头地都有卫生间和一群餐厅，提供裹饺、豆腐煲、米饭拌菜。\n\n 💻 确保在徒步头地查看 Korea National Park Service 网站或标志，确认徒步路线之前。\n\n🇹🇼 💻 首爾地鐵換乘時2次刷卡，100元將被扣除。\n\n 💻 多數的徒步頭地都有衛生間和一群餐廳，提供裹饼、豆腐鍋、米飯拌菜。\n\n 💻 確保在徒步頭地查看 Korea National Park Service 網站或標誌，確認徒步路線之前。",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795247314841-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795247314841-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-21T08:50:33.480Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-21T07:48:43.356Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/28993821/pexels-photo-28993821.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Hiking in Korea like a local: subway-accessible peaks, seasonal trail closures, and the gear culture",
+    "qualityGate": {
+      "pass": false,
+      "reason": "내용에 사실과 다른 정보(두 번 탭 시 100원 차감)와 주제인 장비 문화가 빠져 있어 여행 정보로서 신뢰성과 완전성이 부족합니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-21T07:48:34.841Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-21T07:48:43.334Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-hiking-in-korea-like-a-local-subway-accessible-peaks-seasonal-trail-closures-and-the-gear-culture.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "7d694e25-18e0-4ff1-922c-ba88aad8cf76",
+    "text": "Tap your T-money card twice at the subway transfer in Seoul and you lose money without knowing it. \n\n The exact amount is 100 won, which is deducted from your card balance every time you tap twice. \n\n Most trailheads have restrooms and a cluster of restaurants serving pajeon, tofu stew, and bibimbap. \n\n Be sure to check the Korea National Park Service site or signage at the trailhead before committing to a route. \n\n Did this confuse you too? #KoreaTravel #Tmoney\n\n🇯🇵 T-moneyカードを地下鉄の乗り換えで2回タップすると100円が減ります。T-moneyカードの残高から毎回100円が減ります。トレイルヘッドの多くにはトイレと、ペジャン、豆腐鍋、ビビンバを提供するレストランが集まっています。トレイルのルートを決定する前に、トレイルヘッドでサインが立てられている Korea National Park Service のサイトを確認してください。#KoreaTravel #Tmoney\n\n🇨🇳 T-money卡在首尔地铁换乘时2次刷卡，100元将被扣除。每次刷卡扣除100元。多数的徒步头地都有卫生间和一群餐厅，提供裹饺、豆腐煲、米饭拌菜。确保在徒步头地查看 Korea National Park Service 网站或标志，确认徒步路线之前。#KoreaTravel #Tmoney\n\n🇹🇼 T-money卡在首爾地鐵換乘時2次刷卡，100元將被扣除。每次刷卡扣除100元。多數的徒步頭地都有衛生間和一群餐廳，提供裹饼、豆腐鍋、米飯拌菜。確保在徒步頭地查看 Korea National Park Service 網站或標誌，確認徒步路線之前。#KoreaTravel #Tmoney",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795247314841-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795247314841-v0-0.jpg"
+    ],
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-11-21T17:22:48.174Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-21T07:48:43.391Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/28993821/pexels-photo-28993821.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Hiking in Korea like a local: subway-accessible peaks, seasonal trail closures, and the gear culture",
+    "qualityGate": {
+      "pass": false,
+      "reason": "내용에 사실과 다른 정보(두 번 탭 시 100원 차감)와 주제인 장비 문화가 빠져 있어 여행 정보로서 신뢰성과 완전성이 부족합니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-21T07:48:34.841Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-21T07:48:43.369Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-hiking-in-korea-like-a-local-subway-accessible-peaks-seasonal-trail-closures-and-the-gear-culture.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "4d63e4cc-cbb2-4361-b142-da82361f0661",
+    "text": "Tap your T-money card twice at the subway transfer in Seoul and you lose money without knowing it. \n\n The exact amount is 100 won, which is deducted from your card balance every time you tap twice. \n\n Most trailheads have restrooms and a cluster of restaurants serving pajeon, tofu stew, and bibimbap. \n\n Be sure to check the Korea National Park Service site or signage at the trailhead before committing to a route, especially during spring and autumn wildfire-prevention periods and in winter for safety. \n\n #KoreaTravel #Seoul #Tmoney #Hiking\n\n🇯🇵 T-moneyカードを地下鉄の乗り換えで2回タップすると100円が減ります。T-moneyカードの残高から毎回100円が減ります。トレイルヘッドの多くにはトイレと、ペジャン、豆腐鍋、ビビンバを提供するレストランが集まっています。トレイルのルートを決定する前に、トレイルヘッドでサインが立てられている Korea National Park Service のサイトを確認してください。#KoreaTravel #Seoul #Tmoney #Hiking\n\n🇨🇳 T-money卡在首尔地铁换乘时2次刷卡，100元将被扣除。每次刷卡扣除100元。多数的徒步头地都有卫生间和一群餐厅，提供裹饺、豆腐煲、米饭拌菜。确保在徒步头地查看 Korea National Park Service 网站或标志，确认徒步路线之前，尤其是在春秋季防火期和冬季安全期间。#KoreaTravel #Seoul #Tmoney #Hiking\n\n🇹🇼 T-money卡在首爾地鐵換乘時2次刷卡，100元將被扣除。每次刷卡扣除100元。多數的徒步頭地都有衛生間和一群餐廳，提供裹饼、豆腐鍋、米飯拌菜。確保在徒步頭地查看 Korea National Park Service 網站或標誌，確認徒步路線之前，尤其是在春秋季防火期和冬季安全期間。#KoreaTravel #Seoul #Tmoney #Hiking",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795247314841-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795247314841-v0-0.jpg"
+    ],
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-11-21T17:48:11.660Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-21T07:48:43.422Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/28993821/pexels-photo-28993821.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Hiking in Korea like a local: subway-accessible peaks, seasonal trail closures, and the gear culture",
+    "qualityGate": {
+      "pass": false,
+      "reason": "내용에 사실과 다른 정보(두 번 탭 시 100원 차감)와 주제인 장비 문화가 빠져 있어 여행 정보로서 신뢰성과 완전성이 부족합니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-21T07:48:34.841Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-21T07:48:43.404Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-hiking-in-korea-like-a-local-subway-accessible-peaks-seasonal-trail-closures-and-the-gear-culture.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "64fafb6b-0852-432e-8b23-69e111fb0a27",
+    "text": "If you tap your T-money card twice at the subway transfer in Seoul, you'll lose 100 won every time. \n\n Here are some other things to keep in mind when hiking in Korea: \n 1. Most trailheads have restrooms and a cluster of restaurants serving pajeon, tofu stew, and bibimbap. \n 2. Be sure to check the Korea National Park Service site or signage at the trailhead before committing to a route. \n 3. National parks also close selected trails during spring and autumn wildfire-prevention periods and in winter for safety. \n\n Save this for your Korea trip and avoid losing money on unnecessary taps.\n\n🇯🇵 T-moneyカードを地下鉄の乗り換えで2回タップすると100円が減ります。\n\n 以下の注意事項を確認してください。\n 1. トレイルヘッドの多くにはトイレと、ペジャン、豆腐鍋、ビビンバを提供するレストランが集まっています。\n 2. トレイルのルートを決定する前に、トレイルヘッドでサインが立てられている Korea National Park Service のサイトを確認してください。\n 3. 国立公園の多数の徒步路線は春秋季防火期と冬季安全期间闭合。\n\n Korea旅行のために保存してください。\n\n🇨🇳 T-money卡在首尔地铁换乘时2次刷卡，100元将被扣除。\n\n 以下的注意事项需要确认。\n 1. 多数的徒步头地都有卫生间和一群餐厅，提供裹饺、豆腐煲、米饭拌菜。\n 2. 确保在徒步头地查看 Korea National Park Service 网站或标志，确认徒步路线之前。\n 3. 国家公园的多数徒步路线在春秋季防火期和冬季安全期间闭合。\n\n 保存这篇文章，避免在韩国旅行时因为不必要的刷卡而损失钱。\n\n🇹🇼 T-money卡在首爾地鐵換乘時2次刷卡，100元將被扣除。\n\n 以下的注意事項需要確認。\n 1. 多數的徒步頭地都有衛生間和一群餐廳，提供裹饼、豆腐鍋、米飯拌菜。\n 2. 確保在徒步頭地查看 Korea National Park Service 網站或標誌，確認徒步路線之前。\n 3. 國家公園的多數徒步路線在春秋季防火期和冬季安全期間閉合。\n\n 儲存這篇文章，避免在韓國旅行時因為不必要的刷卡而損失錢。",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795247314841-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795247314841-v0-0.jpg"
+    ],
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-11-21T19:50:12.711Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-21T07:48:43.452Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/28993821/pexels-photo-28993821.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Hiking in Korea like a local: subway-accessible peaks, seasonal trail closures, and the gear culture",
+    "qualityGate": {
+      "pass": false,
+      "reason": "내용에 사실과 다른 정보(두 번 탭 시 100원 차감)와 주제인 장비 문화가 빠져 있어 여행 정보로서 신뢰성과 완전성이 부족합니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-21T07:48:34.841Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-21T07:48:43.435Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-hiking-in-korea-like-a-local-subway-accessible-peaks-seasonal-trail-closures-and-the-gear-culture.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "1a5fed6d-f609-4ba2-af52-2ab15e0f5195",
+    "text": "Tap your T-money card twice at the Daiso near Myeong-dong and you lose money without knowing it.\n\nYou might think Daiso is a one-stop shop for all your household basics, but if you're not careful, you'll end up paying more than you need to.\n\nDaiso has fixed low price tiers for everyday items like hangers, slippers, and kitchen tools. Be mindful of the prices and make sure to check the items before tapping your card twice. Did this confuse you too?\n\n🇯🇵 T-moneyカードを2回タップすると、Myeong-dongのダイソでお金を失うかもしれません。\n\n🇨🇳 在Myeong-dong的Daiso里，T-money卡2次刷卡可能会花费多余的钱。\n\n🇹🇼 在Myeong-dong的Daiso裡，T-money卡2次刷卡可能會花費多餘的錢。",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-21T23:32:01.760Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-21T08:43:17.149Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Where Koreans actually buy everyday stuff: Daiso vs. Olive Young vs. hypermarkets vs. the traditional market",
+    "qualityGate": {
+      "pass": false,
+      "reason": "캡션의 주제와 내용이 일치하지 않음, 캡션의 내용은 Daiso의 가격 체계에 대해 설명하는 것임",
+      "model": "groq",
+      "checkedAt": "2026-11-21T08:43:11.991Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-21T08:43:17.128Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-where-koreans-actually-buy-everyday-stuff-daiso-vs-olive-young-vs-hypermarkets-vs-the-traditional-market.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "7774926f-56a2-4154-bf13-7e827e8c320d",
+    "text": "Daiso: $5 for a set of 10 hangers, $3 for a pack of 5 slippers, $2 for a set of 5 kitchen tools.\n\nOlive Young: frequent bundle promotions, but actual medicines still come from a pharmacy.\n\nHypermarkets: expensive, but a wide selection of items.\n\nTraditional markets: great for fresh produce, but limited selection of household basics.\n\n📖 Full guide: https://english.visitkorea.or.kr/enu/SHP/SH_ENG_1.jsp\n\n🇯🇵 ダイソ：1セットの10本のハンガーが5000円、1パックの5 pairsのスリッパが3000円、1セットの5個のキッチンツールが2000円。\n\nオライブヤング：頻繁にセット割引が行われるが、実際の薬は薬局から入手する。\n\nハイパーマーケット：価格が高く、アイテムの選択肢が多い。\n\n伝統市場：新鮮な野菜が得意だが、家庭用の基本品が少ない。\n\n📖 詳細ガイド：https://english.visitkorea.or.kr/enu/SHP/SH_ENG_1.jsp",
+    "imageUrl": null,
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-22T00:32:14.025Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-21T08:43:17.183Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Where Koreans actually buy everyday stuff: Daiso vs. Olive Young vs. hypermarkets vs. the traditional market",
+    "qualityGate": {
+      "pass": false,
+      "reason": "캡션의 주제와 내용이 일치하지 않음, 캡션의 내용은 Daiso의 가격 체계에 대해 설명하는 것임",
+      "model": "groq",
+      "checkedAt": "2026-11-21T08:43:11.991Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-21T08:43:17.163Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-where-koreans-actually-buy-everyday-stuff-daiso-vs-olive-young-vs-hypermarkets-vs-the-traditional-market.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "d51325d6-233c-45fb-a920-0f5b250f4bf3",
+    "text": "You tap your T-money card twice at Daiso near Myeong-dong and lose money without knowing it.\n\nDaiso has fixed low price tiers for everyday items like hangers, slippers, and kitchen tools.\n\nBe mindful of the prices and make sure to check the items before tapping your card twice.\n\nDid this confuse you too?\n\n🇯🇵 T-moneyカードを2回タップすると、Myeong-dongのダイソでお金を失うかもしれません。ダイソは家庭用品の安定価格帯で、ハンガー、スリッパ、キッチンツールなどが入っています。価格を確認する前にカードを2回タップしないようにしましょう。\n\n🇨🇳 在Myeong-dong的Daiso里，T-money卡2次刷卡可能会花费多余的钱。Daiso有固定的低价段位，家居用品的价格很便宜。\n\n🇹🇼 在Myeong-dong的Daiso裡，T-money卡2次刷卡可能會花費多餘的錢。Daiso有固定的低價段位，家居用品的價格很便宜。",
+    "imageUrl": null,
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-11-22T00:03:04.235Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-21T08:43:17.222Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Where Koreans actually buy everyday stuff: Daiso vs. Olive Young vs. hypermarkets vs. the traditional market",
+    "qualityGate": {
+      "pass": false,
+      "reason": "캡션의 주제와 내용이 일치하지 않음, 캡션의 내용은 Daiso의 가격 체계에 대해 설명하는 것임",
+      "model": "groq",
+      "checkedAt": "2026-11-21T08:43:11.991Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-21T08:43:17.196Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-where-koreans-actually-buy-everyday-stuff-daiso-vs-olive-young-vs-hypermarkets-vs-the-traditional-market.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "9e935fdb-652a-49db-a196-4c86de560d87",
+    "text": "Tap your T-money card twice at Daiso near Myeong-dong and you lose money without knowing it.\n\nDaiso has fixed low price tiers for everyday items like hangers, slippers, and kitchen tools.\n\nBe mindful of the prices and make sure to check the items before tapping your card twice.\n\nWhat would you ask before shopping at Daiso?\n\n#KoreaShopping #Daiso #TravelTips https://english.visitkorea.or.kr/enu/SHP/SH_ENG_1.jsp\n\n🇯🇵 T-moneyカードを2回タップすると、Myeong-dongのダイソでお金を失うかもしれません。ダイソは家庭用品の安定価格帯で、ハンガー、スリッパ、キッチンツールなどが入っています。価格を確認する前にカードを2回タップしないようにしましょう。 #KoreaShopping #Daiso #TravelTips https://english.visitkorea.or.kr/enu/SHP/SH_ENG_1.jsp\n\n🇨🇳 在Myeong-dong的Daiso里，T-money卡2次刷卡可能会花费多余的钱。Daiso有固定的低价段位，家居用品的价格很便宜。 #KoreaShopping #Daiso #TravelTips https://english.visitkorea.or.kr/enu/SHP/SH_ENG_1.jsp\n\n🇹🇼 在Myeong-dong的Daiso裡，T-money卡2次刷卡可能會花費多餘的錢。Daiso有固定的低價段位，家居用品的價格很便宜。 #KoreaShopping #Daiso #TravelTips https://english.visitkorea.or.kr/enu/SHP/SH_ENG_1.jsp",
+    "imageUrl": null,
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-11-22T00:31:23.542Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-21T08:43:17.250Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Where Koreans actually buy everyday stuff: Daiso vs. Olive Young vs. hypermarkets vs. the traditional market",
+    "qualityGate": {
+      "pass": false,
+      "reason": "캡션의 주제와 내용이 일치하지 않음, 캡션의 내용은 Daiso의 가격 체계에 대해 설명하는 것임",
+      "model": "groq",
+      "checkedAt": "2026-11-21T08:43:11.991Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-21T08:43:17.235Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-where-koreans-actually-buy-everyday-stuff-daiso-vs-olive-young-vs-hypermarkets-vs-the-traditional-market.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "9386f8f3-518a-486a-903e-b479003d70d1",
+    "text": "You're shopping at Daiso, but are you really getting the best deal? Here are some specifics to keep in mind:\n1. Daiso has fixed low price tiers for everyday items like hangers ($5 for 10), slippers ($3 for 5), and kitchen tools ($2 for 5).\n2. Make sure to check the prices before tapping your card twice.\n3. Daiso is great for household basics, but not for electrical items (check the plug first).\n\nSave this for your Korea trip!\n\n🇯🇵 ダイソで買い物するのは楽しいですが、本当に最安値を確保することができるかどうか？\n\n1. ダイソは家庭用品の安定価格帯で、ハンガーが5000円、スリッパが3000円、キッチンツールが2000円などが入っています。\n\n2. カードを2回タップする前に価格を確認しましょう。\n\n3. ダイソは家庭用品が得意ですが、電気製品は注意してください。\n\nKorea tripのために保存しておいてください！\n\n🇨🇳 在Daiso购物时，是否真的能获得最优惠价？\n\n1. Daiso有固定的低价段位，家居用品的价格很便宜。\n\n2. 购买前请确认价格。\n\n3. Daiso适合购买家庭用品，但电器用品请注意。\n\n为了你的韩国之旅，请保存此贴！\n\n🇹🇼 在Daiso購物時，是否真的能獲得最優惠價？\n\n1. Daiso有固定的低價段位，家居用品的價格很便宜。\n\n2. 購買前請確認價格。\n\n3. Daiso適合購買家庭用品，但電器用品請注意。\n\n為了你的韓國之旅，請保存此貼！",
+    "imageUrl": null,
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-11-22T02:31:13.964Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-21T08:43:17.281Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Where Koreans actually buy everyday stuff: Daiso vs. Olive Young vs. hypermarkets vs. the traditional market",
+    "qualityGate": {
+      "pass": false,
+      "reason": "캡션의 주제와 내용이 일치하지 않음, 캡션의 내용은 Daiso의 가격 체계에 대해 설명하는 것임",
+      "model": "groq",
+      "checkedAt": "2026-11-21T08:43:11.991Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-21T08:43:17.265Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-where-koreans-actually-buy-everyday-stuff-daiso-vs-olive-young-vs-hypermarkets-vs-the-traditional-market.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "2dfc4bb4-729b-4099-9b24-f6058961e066",
+    "text": "Tap your T-money card twice at the hotel lobby and you lose money without knowing it.\n\nYou can avoid this by only tapping once at the hotel lobby, and then again at the airport gate.\n\nI've seen many people get confused about this. Be sure to check your balance before tapping at the airport gate. Did this confuse you too? Open the Land in Korea link in our profile for more tips on navigating Korea.\n\n🇯🇵 ホテルのロビーでT-moneyカードを2回タップするとお金がなくなることがあるよ。\n\n🇨🇳 在酒店大厅里T-money卡两次会扣钱。\n\n🇹🇼 在酒店大廳裡T-money卡兩次會扣錢。",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-22T01:32:26.062Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-21T09:14:39.661Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Luggage storage & forwarding services",
+    "qualityGate": {
+      "pass": false,
+      "reason": "자동 생성된 캡션은 주제와 관련이 없고, 자연스럽지 않으며, 구체적 사실 주장을 포함하지 않습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-21T09:14:35.051Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-21T09:14:39.643Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-luggage-storage-forwarding-services.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "8a94c0f7-dbff-4248-9321-15534be1d89f",
+    "text": "Drag your bags through Korea without knowing same-day luggage forwarding exists. \nBook at least a day in advance for same-day requests. \nSame-day luggage forwarding sends your bags from your hotel straight to the airport (or another hotel). \n📖 Full guide: https://landinkorea.com/posts/korea-luggage-storage-forwarding-services.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post\n\n🇯🇵 🚨 韓国旅行の際に知らないままバッグを引っ張って回る人もいるんだ。  その日中の荷物送りサービスがあるの知らないで。  最低1日前から予約する。  その日中の荷物送りサービスはホテルから空港まで、または別のホテルまで荷物を送るサービス。  便利なので覚えておこう。 📖詳細はこちら: https://landinkorea.com/posts/korea-luggage-storage-forwarding-services.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post\n\n🇨🇳 🚨 在韩国旅行时，很多人不知道有这样一个服务，称为当日行李转运。  只要提前一天预订即可。  当日行李转运服务可以将你的行李从酒店直接送往机场（或另一个酒店）。  这个服务非常方便，所以记住它吧。 📖详细信息： https://landinkorea.com/posts/korea-luggage-storage-forwarding-services.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post\n\n🇹🇼 🚨 在韓國旅行時，很多人不知道有这样一個服務，稱為當日行李轉運。  只要提前一天預訂即可。  當日行李轉運服務可以將你的行李從酒店直接送往機場（或另一個酒店）。  這個服務非常方便，所以記住它吧。 📖详细信息： https://landinkorea.com/posts/korea-luggage-storage-forwarding-services.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": null,
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-21T10:47:35.641Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-21T09:14:39.695Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Luggage storage & forwarding services",
+    "qualityGate": {
+      "pass": false,
+      "reason": "자동 생성된 캡션은 주제와 관련이 없고, 자연스럽지 않으며, 구체적 사실 주장을 포함하지 않습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-21T09:14:35.051Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-21T09:14:39.674Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-luggage-storage-forwarding-services.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "4c7dd870-a05c-4220-9df3-a9edfe6aafa9",
+    "text": "Tap your T-money card twice at the hotel lobby and you lose money without knowing it. \n\nYou can avoid this by only tapping once at the hotel lobby, and then again at the airport gate. \n\nI've seen many people get confused about this. \n\nBe sure to check your balance before tapping at the airport gate. \n\n#KoreaTravel #Tmoney\n\n🇯🇵 ホテルのロビーでT-moneyカードを2回タップするとお金がなくなることがあるよ。\n\n🇨🇳 在酒店大厅里T-money卡两次会扣钱。\n\n🇹🇼 在酒店大廳裡T-money卡兩次會扣錢。",
+    "imageUrl": null,
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-11-22T02:00:28.270Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-21T09:14:39.731Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Luggage storage & forwarding services",
+    "qualityGate": {
+      "pass": false,
+      "reason": "자동 생성된 캡션은 주제와 관련이 없고, 자연스럽지 않으며, 구체적 사실 주장을 포함하지 않습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-21T09:14:35.051Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-21T09:14:39.708Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-luggage-storage-forwarding-services.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "ba05c5d4-0050-43c8-b03f-365bd74b13e6",
+    "text": "Tap your T-money card twice at the hotel lobby and you lose money without knowing it. \n\nYou can avoid this by only tapping once at the hotel lobby, and then again at the airport gate. \n\nI've seen many people get confused about this. \n\nBe sure to check your balance before tapping at the airport gate. \n\n#KoreaTravel #Tmoney #TravelTips\n\n🇯🇵 ホテルのロビーでT-moneyカードを2回タップするとお金がなくなることがあるよ。\n\n🇨🇳 在酒店大厅里T-money卡两次会扣钱。\n\n🇹🇼 在酒店大廳裡T-money卡兩次會扣錢。",
+    "imageUrl": null,
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-11-22T02:31:09.970Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-21T09:14:39.760Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Luggage storage & forwarding services",
+    "qualityGate": {
+      "pass": false,
+      "reason": "자동 생성된 캡션은 주제와 관련이 없고, 자연스럽지 않으며, 구체적 사실 주장을 포함하지 않습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-21T09:14:35.051Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-21T09:14:39.743Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-luggage-storage-forwarding-services.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "27f50ef7-c874-4698-9d87-644ba09321f1",
+    "text": "Drag your bags through Korea on your last day without knowing same-day luggage forwarding exists. \n\n1. Book at least a day in advance for same-day requests. \n\n2. Same-day luggage forwarding sends your bags from your hotel straight to the airport (or another hotel). \n\n3. You can use this service to avoid dragging bags through crowded transit during rush hour before an early flight. \n\nSave this for your Korea trip!\n\n🇯🇵 🚨 韓国旅行の際に知らないままバッグを引っ張って回る人もいるんだ。  その日中の荷物送りサービスがあるの知らないで。  最低1日前から予約する。  その日中の荷物送りサービスはホテルから空港まで、または別のホテルまで荷物を送るサービス。  便利なので覚えておこう。 📖詳細はこちら: https://landinkorea.com/posts/korea-luggage-storage-forwarding-services.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post\n\n🇨🇳 🚨 在韩国旅行时，很多人不知道有这样一个服务，称为当日行李转运。  只要提前一天预订即可。  当日行李转运服务可以将你的行李从酒店直接送往机场（或另一个酒店）。  这个服务非常方便，所以记住它吧。 📖详细信息： https://landinkorea.com/posts/korea-luggage-storage-forwarding-services.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post\n\n🇹🇼 🚨 在韓國旅行時，很多人不知道有这样一個服務，稱為當日行李轉運。  只要提前一天預訂即可。  當日行李轉運服務可以將你的行李從酒店直接送往機場（或另一個酒店）。  這個服務非常方便，所以記住它吧。 📖详细信息： https://landinkorea.com/posts/korea-luggage-storage-forwarding-services.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": null,
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-11-22T04:30:38.301Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-21T09:14:39.789Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Luggage storage & forwarding services",
+    "qualityGate": {
+      "pass": false,
+      "reason": "자동 생성된 캡션은 주제와 관련이 없고, 자연스럽지 않으며, 구체적 사실 주장을 포함하지 않습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-21T09:14:35.051Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-21T09:14:39.774Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-luggage-storage-forwarding-services.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
   }
 ]

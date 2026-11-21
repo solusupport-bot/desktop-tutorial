@@ -1,336 +1,6 @@
 {
-  "lastIndex": 48,
+  "lastIndex": 17,
   "history": [
-    {
-      "index": 22,
-      "topic": "Jjimjilbang etiquette",
-      "at": "2026-11-20T04:25:46.628Z",
-      "source": "threads-fill"
-    },
-    {
-      "index": 0,
-      "topic": "Gyeongbokgung Palace",
-      "at": "2026-11-20T05:26:49.683Z",
-      "source": "facebook-fill"
-    },
-    {
-      "index": 1,
-      "topic": "Bukchon Hanok Village",
-      "at": "2026-11-20T07:04:25.641Z",
-      "source": "daily"
-    },
-    {
-      "index": 2,
-      "topic": "N Seoul Tower (Namsan)",
-      "at": "2026-11-20T07:40:08.452Z",
-      "source": "daily"
-    },
-    {
-      "index": 3,
-      "topic": "Myeongdong shopping district",
-      "at": "2026-11-20T08:19:18.605Z",
-      "source": "daily"
-    },
-    {
-      "index": 4,
-      "topic": "Busan Haeundae Beach & Gamcheon Culture Village",
-      "at": "2026-11-20T08:36:51.806Z",
-      "source": "daily"
-    },
-    {
-      "index": 5,
-      "topic": "Jeju Island",
-      "at": "2026-11-20T07:35:58.026Z",
-      "source": "instagram-fill"
-    },
-    {
-      "index": 6,
-      "topic": "eSIM & mobile data",
-      "at": "2026-11-20T07:55:54.432Z",
-      "source": "threads-fill"
-    },
-    {
-      "index": 7,
-      "topic": "T-money transit card",
-      "at": "2026-11-20T08:02:44.522Z",
-      "source": "facebook-fill"
-    },
-    {
-      "index": 8,
-      "topic": "Tax refund (Tax Free) shopping",
-      "at": "2026-11-19T05:32:35.417Z",
-      "source": "threads-fill"
-    },
-    {
-      "index": 9,
-      "topic": "Travel advisories & safety notices",
-      "at": "2026-11-19T05:43:37.307Z",
-      "source": "facebook-fill"
-    },
-    {
-      "index": 23,
-      "topic": "Insadong traditional culture street",
-      "at": "2026-11-19T06:06:27.964Z",
-      "source": "instagram-fill"
-    },
-    {
-      "index": 24,
-      "topic": "Everland vs. Lotte World theme parks",
-      "at": "2026-11-19T06:07:30.505Z",
-      "source": "instagram-fill"
-    },
-    {
-      "index": 25,
-      "topic": "Hongdae nightlife and youth culture district",
-      "at": "2026-11-19T06:11:37.822Z",
-      "source": "instagram-fill"
-    },
-    {
-      "index": 26,
-      "topic": "Nami Island and Petite France day trip",
-      "at": "2026-11-19T06:15:35.212Z",
-      "source": "instagram-fill"
-    },
-    {
-      "index": 27,
-      "topic": "Suwon Hwaseong Fortress",
-      "at": "2026-11-19T06:19:39.524Z",
-      "source": "instagram-fill"
-    },
-    {
-      "index": 28,
-      "topic": "Domestic flights vs. KTX for Jeju and long-distance trips",
-      "at": "2026-11-19T06:30:28.411Z",
-      "source": "threads-fill"
-    },
-    {
-      "index": 29,
-      "topic": "Seoul attraction pass comparison",
-      "at": "2026-11-19T06:42:16.165Z",
-      "source": "facebook-fill"
-    },
-    {
-      "index": 30,
-      "topic": "Korean public holidays that disrupt travel plans",
-      "at": "2026-11-19T07:16:11.370Z",
-      "source": "daily"
-    },
-    {
-      "index": 10,
-      "topic": "Airport transfer options",
-      "at": "2026-11-19T07:27:43.176Z",
-      "source": "daily"
-    },
-    {
-      "index": 11,
-      "topic": "First-timer etiquette & common mistakes",
-      "at": "2026-11-19T07:36:39.356Z",
-      "source": "daily"
-    },
-    {
-      "index": 12,
-      "topic": "Currency & card payments",
-      "at": "2026-11-19T07:42:02.511Z",
-      "source": "daily"
-    },
-    {
-      "index": 13,
-      "topic": "Emergency numbers & 24hr pharmacies",
-      "at": "2026-11-19T08:06:15.688Z",
-      "source": "instagram-fill"
-    },
-    {
-      "index": 14,
-      "topic": "Useful travel apps",
-      "at": "2026-11-19T08:13:55.332Z",
-      "source": "instagram-fill"
-    },
-    {
-      "index": 15,
-      "topic": "Convenience store hacks",
-      "at": "2026-11-19T08:24:47.026Z",
-      "source": "instagram-fill"
-    },
-    {
-      "index": 16,
-      "topic": "Seasonal packing & weather tips",
-      "at": "2026-11-19T08:31:13.804Z",
-      "source": "instagram-fill"
-    },
-    {
-      "index": 31,
-      "topic": "Hailing a taxi in Korea: Kakao T vs. street taxis vs. airport 'deluxe' cabs",
-      "at": "2026-11-19T08:34:45.130Z",
-      "source": "instagram-fill"
-    },
-    {
-      "index": 32,
-      "topic": "Why Google Maps fails in Korea and how the road-name address system actually works",
-      "at": "2026-11-19T08:45:36.063Z",
-      "source": "threads-fill"
-    },
-    {
-      "index": 33,
-      "topic": "Seoul subway details nobody tells you: exit numbers, transfer walks, express trains, and the last train",
-      "at": "2026-11-19T08:59:26.764Z",
-      "source": "facebook-fill"
-    },
-    {
-      "index": 34,
-      "topic": "Short-term vs. long-term housing in Korea: guesthouse, goshiwon, officetel, and the deposit system",
-      "at": "2026-11-19T09:32:36.648Z",
-      "source": "instagram-fill"
-    },
-    {
-      "index": 35,
-      "topic": "Opening a Korean bank account as a foreigner — and why your ARC and phone number come first",
-      "at": "2026-11-19T09:39:37.581Z",
-      "source": "instagram-fill"
-    },
-    {
-      "index": 36,
-      "topic": "Eating alone in Korea: which restaurants refuse solo diners and where honbap works",
-      "at": "2026-11-19T09:44:27.200Z",
-      "source": "instagram-fill"
-    },
-    {
-      "index": 37,
-      "topic": "Food delivery apps in Korea: why signing up is harder than ordering",
-      "at": "2026-11-19T09:49:38.688Z",
-      "source": "instagram-fill"
-    },
-    {
-      "index": 38,
-      "topic": "Renting a car in Korea: when it's smart, when it's a waste, and what the rental desk will ask for",
-      "at": "2026-11-19T10:04:21.431Z",
-      "source": "instagram-fill"
-    },
-    {
-      "index": 52,
-      "topic": "Tipping in Korea: why you shouldn't and what to do instead",
-      "at": "2026-11-19T10:18:10.150Z",
-      "source": "threads-fill"
-    },
-    {
-      "index": 53,
-      "topic": "Noraebang etiquette: how Korean karaoke actually works for first-timers",
-      "at": "2026-11-19T10:29:48.597Z",
-      "source": "facebook-fill"
-    },
-    {
-      "index": 39,
-      "topic": "Timing cherry blossoms and fall foliage in Korea without hitting peak crowds",
-      "at": "2026-11-19T10:55:42.171Z",
-      "source": "threads-fill"
-    },
-    {
-      "index": 54,
-      "topic": "Unmanned kiosk ordering in Korea: why humans are disappearing from the counter",
-      "at": "2026-11-19T11:06:18.813Z",
-      "source": "facebook-fill"
-    },
-    {
-      "index": 55,
-      "topic": "Mobile payments in Korea: Kakao Pay, Naver Pay, and why Apple Pay doesn’t work",
-      "at": "2026-11-19T12:53:43.472Z",
-      "source": "threads-fill"
-    },
-    {
-      "index": 56,
-      "topic": "Public bathhouse culture in Korea beyond the jjimjilbang: the mogyoktang rules",
-      "at": "2026-11-19T13:05:09.330Z",
-      "source": "facebook-fill"
-    },
-    {
-      "index": 40,
-      "topic": "Learning to read Hangul in a weekend — and why romanized signs still confuse you",
-      "at": "2026-11-19T13:57:02.237Z",
-      "source": "threads-fill"
-    },
-    {
-      "index": 41,
-      "topic": "Hospital vs. clinic vs. pharmacy in Korea: where to actually go when you get sick",
-      "at": "2026-11-19T14:13:53.765Z",
-      "source": "facebook-fill"
-    },
-    {
-      "index": 42,
-      "topic": "Cafes as workspaces in Korea: unspoken rules of study cafes, franchise chains, and 'no-laptop' signs",
-      "at": "2026-11-19T15:25:12.108Z",
-      "source": "threads-fill"
-    },
-    {
-      "index": 43,
-      "topic": "Bus travel inside Korean cities: color codes, tag-off transfers, and why you must flag the bus",
-      "at": "2026-11-19T15:39:10.476Z",
-      "source": "facebook-fill"
-    },
-    {
-      "index": 44,
-      "topic": "Reserving restaurants and joining waitlists in Korea: Catch Table, Naver booking, and the Tabling tablet",
-      "at": "2026-11-19T17:09:57.389Z",
-      "source": "threads-fill"
-    },
-    {
-      "index": 45,
-      "topic": "Day-tripping from Seoul by regular train: Mugunghwa, ITX-Saemaeul, and the Gyeongui-Jungang line",
-      "at": "2026-11-19T17:18:44.715Z",
-      "source": "facebook-fill"
-    },
-    {
-      "index": 46,
-      "topic": "Doing laundry in Korea: coin laundromats, the dryer problem, and neighborhood dry cleaners",
-      "at": "2026-11-19T18:25:46.294Z",
-      "source": "facebook-fill"
-    },
-    {
-      "index": 47,
-      "topic": "The closed-on-Monday trap: how Korean palaces and museums schedule their days off",
-      "at": "2026-11-19T19:59:02.445Z",
-      "source": "facebook-fill"
-    },
-    {
-      "index": 48,
-      "topic": "Hiking in Korea like a local: subway-accessible peaks, seasonal trail closures, and the gear culture",
-      "at": "2026-11-19T21:23:10.035Z",
-      "source": "facebook-fill"
-    },
-    {
-      "index": 49,
-      "topic": "Where Koreans actually buy everyday stuff: Daiso vs. Olive Young vs. hypermarkets vs. the traditional market",
-      "at": "2026-11-19T23:07:26.946Z",
-      "source": "facebook-fill"
-    },
-    {
-      "index": 17,
-      "topic": "Luggage storage & forwarding services",
-      "at": "2026-11-20T00:27:08.930Z",
-      "source": "instagram-fill"
-    },
-    {
-      "index": 18,
-      "topic": "KTX vs. SRT vs. intercity bus for long-distance travel",
-      "at": "2026-11-20T01:06:45.412Z",
-      "source": "instagram-fill"
-    },
-    {
-      "index": 20,
-      "topic": "Trash and recycling rules for residents",
-      "at": "2026-11-20T02:10:53.171Z",
-      "source": "instagram-fill"
-    },
-    {
-      "index": 19,
-      "topic": "Namdaemun Market",
-      "at": "2026-11-20T02:56:26.703Z",
-      "source": "instagram-fill"
-    },
-    {
-      "index": 21,
-      "topic": "DMZ and JSA tours",
-      "at": "2026-11-20T03:52:21.028Z",
-      "source": "instagram-fill"
-    },
     {
       "index": 22,
       "topic": "Jjimjilbang etiquette",
@@ -616,14 +286,50 @@
     {
       "index": 47,
       "topic": "The closed-on-Monday trap: how Korean palaces and museums schedule their days off",
-      "at": "2026-11-21T06:30:48.646Z",
-      "source": "threads-fill"
+      "at": "2026-11-21T06:58:53.863Z",
+      "source": "daily"
     },
     {
       "index": 48,
       "topic": "Hiking in Korea like a local: subway-accessible peaks, seasonal trail closures, and the gear culture",
-      "at": "2026-11-21T07:00:16.930Z",
-      "source": "facebook-fill"
+      "at": "2026-11-21T07:26:08.569Z",
+      "source": "daily"
+    },
+    {
+      "index": 49,
+      "topic": "Where Koreans actually buy everyday stuff: Daiso vs. Olive Young vs. hypermarkets vs. the traditional market",
+      "at": "2026-11-21T07:48:43.468Z",
+      "source": "daily"
+    },
+    {
+      "index": 17,
+      "topic": "Luggage storage & forwarding services",
+      "at": "2026-11-21T08:43:17.296Z",
+      "source": "daily"
+    },
+    {
+      "index": 18,
+      "topic": "KTX vs. SRT vs. intercity bus for long-distance travel",
+      "at": "2026-11-20T01:06:45.412Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 20,
+      "topic": "Trash and recycling rules for residents",
+      "at": "2026-11-20T02:10:53.171Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 19,
+      "topic": "Namdaemun Market",
+      "at": "2026-11-20T02:56:26.703Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 21,
+      "topic": "DMZ and JSA tours",
+      "at": "2026-11-20T03:52:21.028Z",
+      "source": "instagram-fill"
     }
   ],
   "recentImageUrls": [
@@ -1877,7 +1583,8 @@
     "https://images.pexels.com/photos/36968098/pexels-photo-36968098.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://pixabay.com/get/g09439f11cbf4cb50cf6b6df61393b76afa73763fdb720768128a73916e7e66d25d8435e0ba361545eaa78fbe69d33cabd6f749c8ea234de54b73717a1d76f110_1280.jpg#pixabay=2870494",
     "https://images.pexels.com/photos/15195777/pexels-photo-15195777.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://pixabay.com/get/g9b8a148b22fa0c02dd087ff503d277e74be14d18f2e62abd4855ca7523287c212fd5a749da9fafbbaf3f9e6f88d35231d6f88133fd637ec8cc5f71a62d4b6ee3_1280.jpg#pixabay=4516453"
+    "https://pixabay.com/get/g9b8a148b22fa0c02dd087ff503d277e74be14d18f2e62abd4855ca7523287c212fd5a749da9fafbbaf3f9e6f88d35231d6f88133fd637ec8cc5f71a62d4b6ee3_1280.jpg#pixabay=4516453",
+    "https://images.pexels.com/photos/28993821/pexels-photo-28993821.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
   ],
   "recentVideoUrls": [
     "https://videos.pexels.com/video-files/19577787/19577787-uhd_2160_3840_30fps.mp4",
@@ -2662,7 +2369,8 @@
     "Luggage storage & forwarding services": [
       "Julien",
       "Theodore Nguyen",
-      "Nuhyil Ahammed"
+      "Nuhyil Ahammed",
+      "Asia Culture Center"
     ],
     "KTX vs. SRT vs. intercity bus for long-distance travel": [
       "Анна Шаталова",
