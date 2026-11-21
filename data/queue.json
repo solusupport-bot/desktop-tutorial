@@ -52922,5 +52922,34 @@
       "pattern": "A"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-the-closed-on-monday-trap-how-korean-palaces-and-museums-schedule-their-days-off.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "b19378ce-a45c-4ae3-9e5b-c0ce261e0b10",
+    "text": "Expect to look underdressed: Korean hikers favor full technical kit, and brand-name outdoor shops plus discount sporting-goods chains make it easy to pick up cheap trekking poles, gloves or rain shells locally.\n\nAlcohol is banned in national parks, so the old image of makgeolli at the summit no longer applies inside park boundaries, and cooking or open flames are restricted to designated areas.\n\nNational parks also close selected trails during spring and autumn wildfire-prevention periods and in winter for safety, so check the Korea National Park Service site or signage at the trailhead before committing to a route.\n\n📖 Full guide: https://landinkorea.com/posts/korea-hiking-in-korea-like-a-local-subway-accessible-peaks-seasonal-trail-closures-and-the-gear-culture.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post\n\n🇯🇵 登山の準備は必須です。韓国人は技術的な装備を完全に装備しており、ブランドのアウトドアショップやディスカウントスポーツグッズチェーンで、ローカルに安い登山杖、グローブ、雨のシェルを手に入れることが簡単です。\nアルコールは国立公園内では禁止されており、旧来のマクゲオリの頂上イメージはもう適用されません。調理やオープンファイヤーは指定されたエリアに制限されています。\n国立公園は春と秋の防火期間や冬の安全のために指定されたトレイルを閉鎖します。ルートにコミットする前に、国立公園庁のサイトまたはトレイルヘッドの看板を確認してください。\n\n📖 全文ガイド: https://landinkorea.com/posts/korea-hiking-in-korea-like-a-local-subway-accessible-peaks-seasonal-trail-closures-and-the-gear-culture.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post\n\n🇨🇳 登山时要准备好装备。韩国人喜欢全套的技术装备，且品牌的户外店和折扣体育用品店便于购买便宜的登山杖、手套或雨衣。\n国立公园内禁止饮酒，旧时的麯酒在山顶的景象不再适用。烹饪或开火只能在指定区域进行。\n国立公园在春秋防火期间和冬季安全期间会关闭部分路线。出发前请查看国立公园服务网站或路口标志。\n\n📖 全文指南: https://landinkorea.com/posts/korea-hiking-in-korea-like-a-local-subway-accessible-peaks-seasonal-trail-closures-and-the-gear-culture.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post\n\n🇹🇼 登山時要準備好裝備。韓國人喜歡全套的技術裝備，且品牌的戶外店和折扣體育用品店便於購買便宜的登山杖、手套或雨衣。\n國立公園內禁止飲酒，舊時的麯酒在山頂的景象不再適用。烹飪或開火只能在指定區域進行。\n國立公園在春秋防火期間和冬季安全期間會關閉部分路線。出發前請查看國立公園服務網站或路口標誌。\n\n📖 全文指南: https://landinkorea.com/posts/korea-hiking-in-korea-like-a-local-subway-accessible-peaks-seasonal-trail-closures-and-the-gear-culture.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": null,
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-21T09:09:00.678Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-21T07:41:21.202Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Hiking in Korea like a local: subway-accessible peaks, seasonal trail closures, and the gear culture",
+    "qualityGate": {
+      "pass": false,
+      "reason": "주제에 맞는 지하철 접근 가능 산에 대한 언급이 없고 문장이 어색해 여행 콘텐츠로 충분히 유용하지 않다.",
+      "model": "groq",
+      "checkedAt": "2026-11-21T07:38:00.852Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-21T07:41:21.185Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-hiking-in-korea-like-a-local-subway-accessible-peaks-seasonal-trail-closures-and-the-gear-culture.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]
