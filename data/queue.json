@@ -53773,5 +53773,42 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-21T16:13:51.109Z",
     "blogUrl": "https://landinkorea.com/posts/korea-nami-island-and-petite-france-day-trip.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "b7d05640-0d99-4ff5-af9e-c6750711671e",
+    "text": "3 things to know about Suwon Hwaseong Fortress:\n• The fortress wall is a UNESCO World Heritage site.\n• The full wall walk covers 5.7 kilometers.\n• Hwaseong Haenggung hosts historical reenactment ceremonies on select days.\n\n📖 Full guide: https://landinkorea.com/posts/korea-suwon-hwaseong-fortress.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post\n\n🇯🇵 3つのポイント：水原華城（Hwaseong）要塞について:\n• 城壁はユネスコ世界遺産です。\n• 壁全体の散策は5.7kmです。\n• 華城行宮では、選ばれた日に歴史再現式が行われます。\n\n📖 完全ガイド: https://landinkorea.com/posts/korea-suwon-hwaseong-fortress.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post\n\n🇨🇳 关于水原华城要塞的3件事：\n• 城墙是联合国教科文组织世界遗产。\n• 整段城墙步道全长5.7公里。\n• 华城行宫在特定日子举办历史再现仪式。\n\n📖 完整指南: https://landinkorea.com/posts/korea-suwon-hwaseong-fortress.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post\n\n🇹🇼 關於水原華城要塞的3件事：\n• 城牆是聯合國教科文組織世界遺產。\n• 整段城牆步道全長5.7公里。\n• 華城行宮在特定日子舉辦歷史再現儀式。\n\n📖 完整指南: https://landinkorea.com/posts/korea-suwon-hwaseong-fortress.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795278243667-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795278243667-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-21T22:58:32.708Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-21T16:24:07.043Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/6700536/pexels-photo-6700536.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Suwon Hwaseong Fortress",
+    "qualityGate": {
+      "pass": false,
+      "reason": "원본 자료에 없는 금액: threads: ₩2,500, bluesky: ₩2,500, mastodon: ₩2,500",
+      "model": "rule",
+      "failedPlatforms": [
+        "threads",
+        "bluesky",
+        "mastodon"
+      ],
+      "checkedAt": "2026-11-21T16:24:03.667Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-suwon-hwaseong-fortress.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]
