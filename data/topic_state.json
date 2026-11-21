@@ -1,5 +1,5 @@
 {
-  "lastIndex": 13,
+  "lastIndex": 32,
   "history": [
     {
       "index": 22,
@@ -468,6 +468,36 @@
       "topic": "Emergency numbers & 24hr pharmacies",
       "at": "2026-11-21T18:54:24.438Z",
       "source": "facebook-fill"
+    },
+    {
+      "index": 14,
+      "topic": "Useful travel apps",
+      "at": "2026-11-21T20:02:52.036Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 15,
+      "topic": "Convenience store hacks",
+      "at": "2026-11-21T20:14:11.002Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 16,
+      "topic": "Seasonal packing & weather tips",
+      "at": "2026-11-21T20:31:32.464Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 31,
+      "topic": "Hailing a taxi in Korea: Kakao T vs. street taxis vs. airport 'deluxe' cabs",
+      "at": "2026-11-21T20:59:53.286Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 32,
+      "topic": "Why Google Maps fails in Korea and how the road-name address system actually works",
+      "at": "2026-11-21T21:17:26.639Z",
+      "source": "instagram-fill"
     }
   ],
   "recentImageUrls": [
@@ -2800,7 +2830,10 @@
       "Theodore Nguyen",
       "Memory Lane",
       "Henry Acevedo",
-      "정규송 Nui MALAMA"
+      "정규송 Nui MALAMA",
+      "FREE VIDEO HAPPY",
+      "Yanto Sam",
+      "Co Hai"
     ],
     "Hailing a taxi in Korea: Kakao T vs. street taxis vs. airport 'deluxe' cabs": [
       "Theodore Nguyen"
