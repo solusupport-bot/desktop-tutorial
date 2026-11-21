@@ -52813,5 +52813,40 @@
     },
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-21T01:41:05.046Z"
+  },
+  {
+    "id": "b20d82a3-f04b-4143-896b-09171af918f1",
+    "text": "Tap your T-money card twice at the subway transfer and you lose money without knowing it.\n\nThe Revised Romanization system is standard on road signs and subway maps, but older McCune-Reischauer spellings persist in business names, academic writing, and personal names.\n\nOne practical tip: knowing a handful of address and place-name elements, such as -ro (main road), -gil (smaller street), -dong (neighborhood), -gu (district), and -si (city), helps enormously. Caution: the same syllable may appear as 'gim' or 'kim', 'Busan' or 'Pusan', 'Insa-dong' or 'Insadong'. Did this confuse you too?\n\n🇯🇵 T-moneyカードを2回タップすると、通行料を失うことになっていることがわかりません。\n\n🇨🇳 T-money卡在换乘地铁时，2次刷卡可能会错失钱。\n\n🇹🇼 T-money卡在換乘地鐵時，2次刷卡可能會錯失錢。",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-21T08:21:04.240Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-21T03:18:59.839Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Learning to read Hangul in a weekend — and why romanized signs still confuse you",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: facebook: hook, 'Tap your T-money card twice...' does not deliver exactly what it promised. It mentions losing money but the rest of the post does not deliver on this promise.,📖 Full guide: [LINK] does not explain how to avoid losing money. | instagram: hook, 'Don't get confused...' does not deliver exactly what it promised. It mentions different spellings but the rest of the post does not deliver on this promise.,💡 Save this for your Korea trip! does not explain how to avoid getting confused. | bluesky: payoff, 'Did this confuse you too?' does not give readers a real reason to comment, save, or share.,It is a generic engagement bait. | mastodon: payoff, 'Did this confuse you too?' does not give readers a real reason to comment, save, or share.,It is a generic engagement bait. | tumblr: payoff, 'Save this for your Korea trip!' does not give readers a real reason to comment, save, or share.,It is a generic engagement bait.",
+      "failedPlatforms": [
+        "facebook",
+        "instagram",
+        "bluesky",
+        "mastodon",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "E",
+      "checkedAt": "2026-11-21T03:18:59.298Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-learning-to-read-hangul-in-a-weekend-and-why-romanized-signs-still-confuse-you.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
