@@ -50669,7 +50669,7 @@
       "threads"
     ],
     "scheduledAt": "2026-11-20T04:34:06.321Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-19T07:45:50.186Z",
     "approved": true,
