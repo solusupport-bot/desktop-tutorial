@@ -52775,5 +52775,43 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-20T23:58:31.067Z",
     "blogUrl": "https://landinkorea.com/posts/korea-tipping-and-service-charges.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "399cd7ef-2b68-4e9c-b65c-14b0c22ec20a",
+    "text": "Skip the wrong day at Jinhae's Gunhangje festival and you miss the cherry blossoms. Blossoms only look their best for about a week. Save this for your Korea trip! 🌸 Jinhae's Gunhangje festival concentrates enormous crowds onto one or two weekends. #KoreaTravel #JinhaeGunhangje #CherryBlossoms\n\n📖 Open the Land in Korea link in our profile and search “Timing cherry blossoms and fall foliage in Korea without hitting peak crowds”.\n\n🎬 Video source: Pixabay\n\n🎵 \"Anima Pop - Ink\" by Vienna In Love is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.\n\n🇯🇵 韓国の仁済のガンアンジェ祭に間違った日を避けると、桜が見にいくことができません。 桜は約一週間しか見た目が美しくありません。 韓国旅行のためによく覚えておいてください! 🌸 仁済のガンアンジェ祭は、多くの人々が一週末に集中するため、混雑が激しくなります。 #KoreaTravel #JinhaeGunhangje #CherryBlossoms\n\n🇨🇳 如果错过了仁済的Gunhangje节日中的某一天，会错过樱花的最佳观赏时间。樱花美丽的时间只有约一周。将其保存在您的韩国之旅中! 🌸 仁済的Gunhangje节日会将大量的人群聚集在一起，集中在一到两天。 #KoreaTravel #JinhaeGunhangje #CherryBlossoms\n\n🇹🇼 如果錯過了仁濟的Gunhangje節日中的某一天，就會錯過櫻花的最佳觀賞時間。櫻花美麗的時間只有約一週。將其保存在您的韓國之旅中! 🌸 仁濟的Gunhangje節日會將大量的人群聚集在一起，集中在一到兩天。 #KoreaTravel #JinhaeGunhangje #CherryBlossoms",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1795225261350-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-11-21T19:34:02.134Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-21T01:41:05.075Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/15195777/pexels-photo-15195777.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/03/27/112140-693362063_large.mp4",
+    "videoAttribution": "Pixabay",
+    "topic": "Timing cherry blossoms and fall foliage in Korea without hitting peak crowds",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: facebook: lacks a hook, and the payoff doesn't deliver exactly what the hook promised (no specific promise or mistake mentioned) | instagram: lacks a hook, and the payoff doesn't deliver exactly what the hook promised (no specific promise or mistake mentioned) | mastodon: lacks a hook, and the payoff doesn't deliver exactly what the hook promised (no specific promise or mistake mentioned) | tumblr: lacks a hook, and the payoff doesn't deliver exactly what the hook promised (no specific promise or mistake mentioned)",
+      "failedPlatforms": [
+        "facebook",
+        "instagram",
+        "mastodon",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "E",
+      "checkedAt": "2026-11-21T01:40:48.387Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-21T01:41:05.046Z"
   }
 ]
