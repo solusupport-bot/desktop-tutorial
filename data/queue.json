@@ -53668,5 +53668,34 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-21T11:41:05.390Z",
     "blogUrl": "https://landinkorea.com/posts/korea-gyeongbokgung-palace.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "f18dc062-5215-4717-9afc-14f4f2a442bf",
+    "text": "Tap your T-money card twice at the airport SIM counter and you lose money without knowing it\n\nYou can purchase most Korean eSIM plans for tourists online before arrival and activate them by scanning a QR code once you land, no physical SIM swap needed.\n\nThis is especially useful when you have a limited time to spend at the airport. Keep in mind that reseller listings in 2026 put tourist eSIMs for Korea at roughly US$3-4 for 1GB (7 days) and around US$10 for 5GB (30 days). Did this confuse you too?\n\n🇯🇵 空港SIMカウンターでT-マネーカードを2回タップするとお金が無くなるかもしれません。\n\n🇨🇳 在机场SIM柜台用T-money卡两次扫描可能会损失钱，\n\n🇹🇼 在機場SIM柜台用T-money卡兩次掃描可能會損失錢，",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-21T16:15:17.565Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-21T13:22:42.386Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "eSIM & mobile data",
+    "qualityGate": {
+      "pass": false,
+      "reason": "첫 문장이 eSIM 주제와 무관하고 오해를 일으키며 내용이 일관되지 않아 발행에 부적합합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-21T13:22:41.772Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-21T13:22:42.368Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-esim-mobile-data.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
