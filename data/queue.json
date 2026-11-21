@@ -53915,5 +53915,34 @@
       "pattern": "E"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-seoul-subway-details-nobody-tells-you-exit-numbers-transfer-walks-express-trains-and-the-last-train.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "c35e164d-9392-4346-ad17-a2b8b940b1cc",
+    "text": "📚 Short-term housing in Korea has 3 options you might not know about.\nGuesthouses and share houses sit a step above goshiwons, with private or shared rooms and a lighter contract.\nGoshiwons are very small private rooms rented by the month with no deposit and utilities included.\n📖 Full guide: https://global.seoul.go.kr/\n\n🇯🇵 バレーコントにしていなただです。たたたといちのシイストにしていなただです。バレーシイストはトシムできますです。シイストはバライビトできますです。バレーコントはコントのバトレイビトできます。コントのバトレイビトにしていなただです。バコトアコ。\n\n🇨🇳 入市车录中心尺中学本车录中心于常尺一个回事。当前车录中心于常尺一个回事。入市车录中心尺中学本车录中心于常尺一个回事。事常车录中心于常尺丁个回事。入市车录中心于常尺丁个回事。入市车录中心于常尺丁个回事。入市车录中心于常尺丁个回事。四常尺中心。\n\n🇹🇼 入市车录中心尺中学本车录中心于常尺丁个回事。当前车录中心于常尺丁个回事。入市车录中心尺中学本车录中心于常尺丁个回事。事常车录中心于常尺丁个回事。入市车录中心于常尺丁个回事。入市车录中心于常尺丁个回事。入市车录中心于常尺丁个回事。四常尺中心。",
+    "imageUrl": null,
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-22T08:58:32.264Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-21T21:57:24.698Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Short-term vs. long-term housing in Korea: guesthouse, goshiwon, officetel, and the deposit system",
+    "qualityGate": {
+      "pass": false,
+      "reason": "주제가 요구하는 게스트하우스, 고시원, 오피스텔 등 다양한 주거 형태와 단기·장기 비교를 다루지 않아 관련성이 부족합니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-21T21:57:17.656Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-21T21:57:24.680Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-short-term-vs-long-term-housing-in-korea-guesthouse-goshiwon-officetel-and-the-deposit-system.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]
