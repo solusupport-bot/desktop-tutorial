@@ -1,5 +1,5 @@
 {
-  "lastIndex": 7,
+  "lastIndex": 25,
   "history": [
     {
       "index": 22,
@@ -384,6 +384,36 @@
       "topic": "T-money transit card",
       "at": "2026-11-21T13:22:43.868Z",
       "source": "facebook-fill"
+    },
+    {
+      "index": 8,
+      "topic": "Tax refund (Tax Free) shopping",
+      "at": "2026-11-21T13:55:38.600Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 9,
+      "topic": "Travel advisories & safety notices",
+      "at": "2026-11-21T14:13:24.033Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 23,
+      "topic": "Insadong traditional culture street",
+      "at": "2026-11-21T14:36:33.028Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 24,
+      "topic": "Everland vs. Lotte World theme parks",
+      "at": "2026-11-21T14:59:46.872Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 25,
+      "topic": "Hongdae nightlife and youth culture district",
+      "at": "2026-11-21T15:33:52.658Z",
+      "source": "instagram-fill"
     }
   ],
   "recentImageUrls": [
@@ -2605,7 +2635,12 @@
       "Angelina Rodionow",
       "M00photo &Video",
       "O-seop Sim",
-      "zhengkui li"
+      "zhengkui li",
+      "Asia Culture Center",
+      "FREE VIDEO HAPPY",
+      "Ethan Brooke",
+      "Jaythen Bag-ayan",
+      "poppy suga"
     ],
     "Hongdae nightlife and youth culture district": [
       "Ethan Brooke",
