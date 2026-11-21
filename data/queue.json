@@ -51113,8 +51113,12 @@
       "threads"
     ],
     "scheduledAt": "2026-11-19T21:26:04.689Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18107485070334983"
+      }
+    },
     "createdAt": "2026-11-19T10:29:46.382Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -51133,7 +51137,8 @@
       "checkedAt": "2026-11-19T10:26:12.205Z",
       "pattern": "C"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-tipping-and-service-charges.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-tipping-and-service-charges.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-21T07:55:21.376Z"
   },
   {
     "id": "766f04b2-7473-4171-9679-5019b21a6a81",
@@ -52454,8 +52459,13 @@
       "tumblr"
     ],
     "scheduledAt": "2026-11-21T05:19:30.408Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "tumblr": {
+        "id": "833877676012060672",
+        "url": "https://landinkorea.tumblr.com/post/833877676012060672"
+      }
+    },
     "createdAt": "2026-11-20T08:47:10.040Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -52476,7 +52486,8 @@
       ],
       "checkedAt": "2026-11-20T08:47:02.791Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-busan-haeundae-beach-gamcheon-culture-village.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-busan-haeundae-beach-gamcheon-culture-village.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-21T07:55:22.898Z"
   },
   {
     "id": "d9fc9b66-cd0a-4034-bdf8-e9d4c9ca76a7",
