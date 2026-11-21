@@ -53815,5 +53815,43 @@
       "checkedAt": "2026-11-21T16:24:03.667Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-suwon-hwaseong-fortress.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "7fa5cc28-6d65-4ffb-82f7-119a73d075ff",
+    "text": "Tap your T-money card twice at the airport kiosk and you lose money without knowing it.\n\nMost people assume that airport ATMs will work for international cards, but only 'Global' or foreign card logo-marked machines accept them. Woori, KEB Hana, or 7-Eleven ATMs are the most reliable.\n\nNotify your bank of your travel dates beforehand to avoid a card freeze on first use. If you're stuck in a cash-only situation, which airport would you head to for a working ATM? Open the Land in Korea link in the profile for more tips.\n\n🇯🇵 空港のキオスクでT-moneyカードを2回タップするとお金が無くなることがある。国際カードはグローバルマークのATMでしか使える。\n\n🇨🇳 在机场的ATM机上使用国际卡时，请注意，只有有全球标志的机器才可以使用。\n\n🇹🇼 在機場的ATM機上使用國際卡時，請注意，只有有全球標誌的機器才可以使用。",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-21T23:50:31.988Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-21T18:54:22.871Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Currency & card payments",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: threads: payoff failed – the hook promises loss from double‑tapping a T‑money card, but the body only talks about ATM acceptance and bank notification, not why you lose money or how to avoid it. | threads: reaction failed – closing only says “Open the Land in Korea link in the profile for more tips,” which is a generic CTA, not a specific reason to comment, save, or share. | facebook: hook failed – first line “Airport ATMs marked 'Global' accept international cards.” is a statement, not a specific promise or confusion/mistake. | facebook: reaction failed – ending with a link provides no concrete reason for users to comment, save, or share. | instagram: payoff failed – hook warns about skipping a step for eSIM activation, but the rest discusses ATM reliability, not the eSIM step or solution. | bluesky: payoff failed – hook warns about losing money by double‑tapping a T‑money card, yet the content only covers ATM usage and bank notification. | mastodon: payoff failed – same mismatch between T‑money loss hook and ATM‑focused body. | tumblr: payoff failed – hook about T‑money loss isn’t addressed by the listed ATM tips.",
+      "failedPlatforms": [
+        "threads",
+        "facebook",
+        "instagram",
+        "bluesky",
+        "mastodon",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "E",
+      "checkedAt": "2026-11-21T18:54:22.102Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-21T18:54:22.851Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-currency-card-payments.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
