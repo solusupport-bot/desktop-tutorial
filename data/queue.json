@@ -51276,8 +51276,12 @@
       "facebook"
     ],
     "scheduledAt": "2026-11-19T22:04:08.827Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "29131604753163766"
+      }
+    },
     "createdAt": "2026-11-19T13:16:06.957Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -51296,7 +51300,8 @@
       "checkedAt": "2026-11-19T13:12:27.425Z",
       "pattern": "E"
     },
-    "blogUrl": "https://landinkorea.com/index.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-21T12:24:26.403Z"
   },
   {
     "id": "e69c9c96-1fb9-45c8-8b95-bf1ed73a37e2",
