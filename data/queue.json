@@ -52894,5 +52894,33 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-21T03:36:38.459Z",
     "blogUrl": "https://landinkorea.com/posts/korea-hospital-vs-clinic-vs-pharmacy-in-korea-where-to-actually-go-when-you-get-sick.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "7f978393-6fa1-4d59-9714-f858bf6055ec",
+    "text": "Don’t assume all Seoul palaces are open on the same day—most first‑timers miss this schedule trap.\n\nGyeongbokgung shuts its doors every Tuesday, while Changdeokgung, Changgyeonggung, Deoksugung and Jongmyo are closed on Mondays.\n\nMost city museums also take Monday off, and ticket booths stop selling about an hour before gates close. If you plan a Monday visit, you could end up at a closed palace—always double‑check the day‑off before you go. Did you waste a day because of this? Open the Land in Korea link in the profile for a full schedule cheat‑sheet.\n\n🇯🇵 すべてのソウル宮殿が同じ日に開いていると仮定するのは間違いだ—初めての旅行者はこのスケジュールの罠に気づかない。\n\n🇨🇳 不要把所有首尔宫殿都以为它们在同一天开放—大多数初次游览者都会错过这个日程陷阱。\n\n🇹🇼 不要把所有首爾宮殿都以为它們在同一天開放—大多數初次遊覽者都會錯過這個日程陷阱。",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-21T09:46:49.005Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-21T07:00:15.278Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "The closed-on-Monday trap: how Korean palaces and museums schedule their days off",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련이 있고 문장이 자연스럽고 완성돼 있으며, 사실 주장이 과장되거나 의심스럽지 않으며, 여행 콘텐츠로서 최소한의 유용성이 있다.",
+      "model": "groq",
+      "checkedAt": "2026-11-21T06:56:56.270Z",
+      "pattern": "A"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-the-closed-on-monday-trap-how-korean-palaces-and-museums-schedule-their-days-off.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
