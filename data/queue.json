@@ -53697,5 +53697,39 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-21T13:22:42.368Z",
     "blogUrl": "https://landinkorea.com/posts/korea-esim-mobile-data.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "a2f2060a-4870-4215-ada1-1387dd902e68",
+    "text": "On Seoul city buses (₩1,500 base fare by card), one card can pay for a group if you tell the driver how many people before tapping — but everyone must get off at the same stop, and subway gates are one card per person.\n\n📖 Full guide: https://landinkorea.com/posts/korea-t-money-transit-card.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post\n\n🇯🇵 서울시버스(카드 1,500원부터)에서는 카드를 하나로 여러 명이 승차할 수 있지만 모두 같은 정류장에서 하차해야 합니다. 지하철은 각각 카드를 스와이프해야 합니다.\n\n📖 전체 가이드: https://landinkorea.com/posts/korea-t-money-transit-card.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post\n\n🇨🇳 在首尔市公交车（卡费1,500元人民币起）中，只需告诉司机乘客人数并刷卡即可让一卡多人乘坐，但所有乘客必须在同一站下车。地铁门口每人刷卡。\n\n📖 全部指南：https://landinkorea.com/posts/korea-t-money-transit-card.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post\n\n🇹🇼 在首爾市公交車（卡費1,500元人民幣起）中，只需告訴司機乘客人數並刷卡即可讓一卡多人乘坐，但所有乘客必須在同一站下車。地鐵門口每人刷卡。\n\n📖 全部指南：https://landinkorea.com/posts/korea-t-money-transit-card.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": null,
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-22T08:38:29.265Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-21T13:34:44.510Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "T-money transit card",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: facebook: reaction missing - no specific call to comment, save, or share (post ends with link only) | tumblr: reaction missing - no closing engagement prompt",
+      "failedPlatforms": [
+        "facebook",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "B",
+      "checkedAt": "2026-11-21T13:34:42.571Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-21T13:34:44.488Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-t-money-transit-card.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]
