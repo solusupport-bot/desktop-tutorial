@@ -53736,5 +53736,42 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-21T13:34:44.488Z",
     "blogUrl": "https://landinkorea.com/posts/korea-t-money-transit-card.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "bf4dff80-7902-4e81-8618-5c5d50393006",
+    "text": "Tap your T-money card twice at the Nami Island ticket gate and you lose money without knowing it.\n\nYou'll lose 1,000-1,500 won for each incorrect tap.\n\nOne practical tip: make sure to check the correct fare before tapping your card. One caution: always check your balance before exiting the ticket gate. Did this confuse you too?\n\n🇯🇵 Nami IslandチケットゲートでT-moneyカードを2回タップすると、誤ってお金が減ります。1,000-1,500ウォンが消費されます。\n\n🇨🇳 在Nami岛的门票闸机里，T-money卡2次刷卡，会消耗1,000-1,500韩元的钱。\n\n🇹🇼 在Nami島的門票閘機里，T-money卡2次刷卡，會消耗1,000-1,500韓元的錢。",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-21T17:33:30.811Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-21T16:13:51.125Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Nami Island and Petite France day trip",
+    "qualityGate": {
+      "pass": false,
+      "reason": "원본 자료에 없는 금액: threads: ₩1,500, facebook: ₩1,500, instagram: ₩1,500, bluesky: ₩1,500, mastodon: ₩1,500, tumblr: ₩1,500",
+      "model": "rule",
+      "failedPlatforms": [
+        "threads",
+        "facebook",
+        "instagram",
+        "bluesky",
+        "mastodon",
+        "tumblr"
+      ],
+      "checkedAt": "2026-11-21T16:13:50.180Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-21T16:13:51.109Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-nami-island-and-petite-france-day-trip.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
