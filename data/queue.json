@@ -53629,5 +53629,39 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-21T11:00:38.709Z",
     "blogUrl": "https://landinkorea.com/posts/korea-jjimjilbang-etiquette.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "b076ee7d-877b-4031-9e9b-0c3a0b94b31f",
+    "text": "Gyeongbokgung Palace closes on Tuesdays, but the changing of the royal guard ceremony runs at set times. Visitors wearing a hanbok get free entry to the palace. The National Folk Museum is located within the palace grounds. 📖 Full guide: https://landinkorea.com/posts/korea-gyeongbokgung-palace.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post\n\n🇯🇵 경복궁은 화요일이지만 왕실 경비병 경비 행사 시간이 정해져 있습니다. 한복을 입은 방문객은 궁전 무료 입장 혜택을 받습니다. 국립민속박물관은 궁전 내에 위치하고 있습니다. 📖詳細ガイド: https://landinkorea.com/posts/korea-gyeongbokgung-palace.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post\n\n🇨🇳 景福宫闭于星期二，但皇家卫队仪式时间已定。穿着韩服的游客可以免费进入宫殿。景福宫内有国立民俗博物馆。 📖全攻略：https://landinkorea.com/posts/korea-gyeongbokgung-palace.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post\n\n🇹🇼 景福宮閉於星期二，但皇家衛隊儀式時間已定。穿著韓服的遊客可以免費進入宮殿。景福宮內有國立民俗博物館。 📖全攻略：https://landinkorea.com/posts/korea-gyeongbokgung-palace.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795261262582-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795261262582-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-22T10:41:38.695Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-21T11:41:05.408Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/gecf2d833f14a8de4a3fa5c01bf5c0772619deec49c9fd204b0bade6fe72d2ef06bd355d04709bc412ccaf4c5eb2255d7c87a56b6f4136afcb6c019309225f745_1280.jpg#pixabay=7095486"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Gyeongbokgung Palace",
+    "qualityGate": {
+      "pass": false,
+      "reason": "문장이 반복되고 비현실적인 내용이 있어 품질 기준을 충족하지 못합니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-21T11:41:02.581Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-21T11:41:05.390Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-gyeongbokgung-palace.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]
