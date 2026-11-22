@@ -55143,5 +55143,47 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-22T23:11:37.887Z",
     "blogUrl": "https://landinkorea.com/posts/korea-renting-a-car-in-korea-when-it-s-smart-when-it-s-a-waste-and-what-the-rental-desk-will-ask-for.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "83343f72-e1db-49ca-9048-f037c2f0d7fa",
+    "text": "No tip-entry step on card payment terminals in Korea; The listed price is all you pay; 📖 Full guide: https://landinkorea.com/posts/korea-tipping-and-service-charges.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post\n\n🇯🇵 韓国でのカード決済機では、チップ入力ステップがありません。表示された価格はすべての支払い金額です。\n\n🇨🇳 韩国卡支付机器没有提示输入金额的步骤。显示的价格就是你要支付的金额。\n\n🇹🇼 韓國卡付機器沒有提示輸入金額的步驟。顯示的價格就是你要支付的金额。",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795390126638-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795390126638-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-22T23:19:16.440Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-22T23:28:48.023Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g655e37969b72eace22d85506a5648bae4ec2749e061c43530b00dd701d2ce33924b19c0bb91e22ed2bf5b5b405112c5feec6b50cb239031bf037e2db46482584_1280.jpg#pixabay=1308822"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Tipping in Korea: why you shouldn't and what to do instead",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: facebook: hook and payoff mismatch (missing explanation for 'No tip-entry step on card payment terminals in Korea') | instagram: payoff missing (missing explanation for 'Save this for your Korea trip and avoid over-tipping!') | bluesky: payoff missing (missing explanation for 'Have you ever over-tipped in Korea?') | mastodon: payoff missing (missing explanation for 'Have you ever over-tipped in Korea?') | tumblr: payoff missing (missing explanation for 'Here are some specific tips') | facebook: reaction missing (missing engagement prompt) | instagram: reaction missing (missing engagement prompt) | bluesky: reaction missing (missing engagement prompt) | mastodon: reaction missing (missing engagement prompt) | tumblr: reaction missing (missing engagement prompt)",
+      "failedPlatforms": [
+        "facebook",
+        "instagram",
+        "bluesky",
+        "mastodon",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "E",
+      "checkedAt": "2026-11-22T23:28:46.637Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-22T23:28:48.006Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-tipping-and-service-charges.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]
