@@ -55080,5 +55080,34 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-22T20:22:27.308Z",
     "blogUrl": "https://landinkorea.com/posts/korea-hailing-a-taxi-in-korea-kakao-t-vs-street-taxis-vs-airport-deluxe-cabs.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "76ed575d-9739-4cdf-b8ba-abc4d40c8e8b",
+    "text": "Google Maps can't give full driving directions in Korea, but Naver Map and Kakao Map can. They have English interfaces and are far more accurate for walking, bus arrivals, and indoor subway exits. Business hours, menus, and 'currently open' info are also more reliable on the Korean apps. 📖 Full guide: https://landinkorea.com\n\n🇯🇵 Google Mapsでは、韓国における完全なドライビングディレクティブを提供できませんが、Naver MapやKakao Mapは英語インターフェイスを備えており、歩行、バス到着、インドア地下鉄出口の正確性が高く、営業時間、メニュー、現在オープンの情報も信頼できる Korean アプリです。\n\n🇨🇳 Google Maps无法提供韩国全面的驾驶指示，但Naver Map和Kakao Map有英语界面，步行、公交到站、室内地铁出口的准确性更高，营业时间、菜单、当前开放的信息也更可靠的韩国应用。\n\n🇹🇼 Google Maps無法提供韓國全面的駕駛指示，但Naver Map和Kakao Map有英文介面，步行、公交到站、室內地鐵出口的準確性更高，營業時間、菜單、目前開放的資訊也更可靠的韓國應用。",
+    "imageUrl": null,
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-23T09:28:03.592Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-22T20:35:59.471Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Why Google Maps fails in Korea and how the road-name address system actually works",
+    "qualityGate": {
+      "pass": false,
+      "reason": "주제인 도로명 주소 체계에 대한 설명이 빠져 있어 내용이 핵심 주제와 충분히 관련되지 않는다.",
+      "model": "groq",
+      "checkedAt": "2026-11-22T20:35:58.220Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-22T20:35:59.456Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-why-google-maps-fails-in-korea-and-how-the-road-name-address-system-actually-works.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]
