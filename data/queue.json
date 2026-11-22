@@ -53978,5 +53978,37 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-22T00:37:02.902Z",
     "blogUrl": "https://landinkorea.com/posts/korea-noraebang-etiquette-how-korean-karaoke-actually-works-for-first-timers.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "83e398df-0be2-43f6-b2ce-32ff2eafd8ef",
+    "text": "Tap your T-money card twice at the Gunhangje festival in Jinhae and you lose money without knowing it. Weekday mornings are dramatically quieter at the same spots. Blossoms only look their best for about a week, and one heavy rain or windy night can strip them. 📖 Full guide: https://link-in-profile\n\n🎬 Video source: Pixabay\n\n🎵 \"Anima Pop - Ink\" by Vienna In Love is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.\n\n🇯🇵  Jinhae の Gunhangje festival における T-money カードを 2 回タップすると、知らないうちにお金が失われることがあります。平日朝の同地はとても静かです。花は約 1 週間だけ最盛期にあり、激しい雨や風が降ると一瞬にして花が落ちてしまいます。 📖 详细指南: https://link-in-profile\n\n🎬 视频来源: Pixabay\n\n🎵 \"Anima Pop - Ink\" by Vienna In Love は CC BY-SA 3.0 でライセンスされています。ライセンスのコピーを確認するには https://creativecommons.org/licenses/by-sa/3.0/ を参照してください。\n\n🇨🇳 周末去济南的Gunhangje festival 时，轻轻地用T-money卡两次，没注意就少了钱。平日早上同地的人少得多。花开得好也就一周，下雨或风一来，花朵就没了。 📖 全部指南：https://link-in-profile\n\n🎬 视频来源：Pixabay\n\n🎵 \"Anima Pop - Ink\" by Vienna In Love 是根据 CC BY-SA 3.0 授权的。要查看该许可的副本，请访问 https://creativecommons.org/licenses/by-sa/3.0/。\n\n🇹🇼 周末去濟南的Gunhangje festival 時，輕輕地用T-money卡兩次，沒注意就少了錢。平日早上同地的人少得多。花開得好也就一周，下雨或風一來，花朵就沒了。 📖 全部指南：https://link-in-profile\n\n🎬 影片來源：Pixabay\n\n🎵 \"Anima Pop - Ink\" by Vienna In Love 是根據 CC BY-SA 3.0 授權的。要查看該許可的副本，请访问 https://creativecommons.org/licenses/by-sa/3.0/。",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1795310451116-instagram.mp4",
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-22T09:47:21.031Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-22T01:20:56.933Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/35710556/pexels-photo-35710556.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/04/17/114135-700585446_large.mp4",
+    "videoAttribution": "Pixabay",
+    "topic": "Timing cherry blossoms and fall foliage in Korea without hitting peak crowds",
+    "qualityGate": {
+      "pass": false,
+      "reason": "첫 문장이 주제와 무관하고 사실이 의심돼 품질 기준을 충족하지 않음",
+      "model": "groq",
+      "checkedAt": "2026-11-22T01:20:27.135Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-22T01:20:56.913Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-timing-cherry-blossoms-and-fall-foliage-in-korea-without-hitting-peak-crowds.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]

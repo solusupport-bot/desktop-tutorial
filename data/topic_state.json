@@ -1,5 +1,5 @@
 {
-  "lastIndex": 53,
+  "lastIndex": 39,
   "history": [
     {
       "index": 22,
@@ -546,6 +546,12 @@
       "topic": "Noraebang etiquette: how Korean karaoke actually works for first-timers",
       "at": "2026-11-22T00:22:44.052Z",
       "source": "threads-fill"
+    },
+    {
+      "index": 39,
+      "topic": "Timing cherry blossoms and fall foliage in Korea without hitting peak crowds",
+      "at": "2026-11-22T00:37:04.302Z",
+      "source": "facebook-fill"
     }
   ],
   "recentImageUrls": [
@@ -1809,7 +1815,8 @@
     "https://images.pexels.com/photos/17063495/pexels-photo-17063495.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://images.pexels.com/photos/6700536/pexels-photo-6700536.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://pixabay.com/get/g5cf0d50b083ae5c0e953de1b9d7a5269e99f191d93468eace55cf07d6c0cbcddf7735148cf93e10f08f58b1be9762559c57a330ffffb7c9dfec1e2de2e4d4da6_1280.jpg#pixabay=5707070",
-    "https://pixabay.com/get/g008cc880dfb5e66a3992c5acbc14410fd94d2dc335cfc8966963be3b9ace5ad299a5ebb652f90b4e41786067e504e2fd3e49f5d4bd728c1669d4fc4480007285_1280.jpg#pixabay=940574"
+    "https://pixabay.com/get/g008cc880dfb5e66a3992c5acbc14410fd94d2dc335cfc8966963be3b9ace5ad299a5ebb652f90b4e41786067e504e2fd3e49f5d4bd728c1669d4fc4480007285_1280.jpg#pixabay=940574",
+    "https://images.pexels.com/photos/35710556/pexels-photo-35710556.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
   ],
   "recentVideoUrls": [
     "https://videos.pexels.com/video-files/19577787/19577787-uhd_2160_3840_30fps.mp4",
@@ -2335,7 +2342,8 @@
     "https://videos.pexels.com/video-files/39879829/17007609_3840_2160_25fps.mp4",
     "https://videos.pexels.com/video-files/40398009/17261038_1920_1080_30fps.mp4",
     "https://cdn.pixabay.com/video/2022/03/27/112140-693362063_large.mp4",
-    "https://videos.pexels.com/video-files/41143096/17620158_1920_1080_30fps.mp4"
+    "https://videos.pexels.com/video-files/41143096/17620158_1920_1080_30fps.mp4",
+    "https://cdn.pixabay.com/video/2022/04/17/114135-700585446_large.mp4"
   ],
   "recentMusicUrls": [
     "https://prod-1.storage.jamendo.com/?trackid=20237&format=mp32",
@@ -2442,6 +2450,7 @@
     "https://prod-1.storage.jamendo.com/?trackid=807596&format=mp32",
     "https://prod-1.storage.jamendo.com/?trackid=1042763&format=mp32",
     "https://prod-1.storage.jamendo.com/?trackid=665946&format=mp32",
+    "https://prod-1.storage.jamendo.com/?trackid=665946&format=mp32",
     "https://prod-1.storage.jamendo.com/?trackid=665946&format=mp32"
   ],
   "topicPhotographers": {
@@ -2520,7 +2529,8 @@
       "Myoungho Shin",
       "Jin Seong An",
       "Yanto Sam",
-      "성두 홍"
+      "성두 홍",
+      "Lala Mammadova"
     ],
     "Public bathhouse culture in Korea beyond the jjimjilbang: the mogyoktang rules": [
       "Henry Acevedo",
