@@ -79,3 +79,18 @@ assert.deepStrictEqual(checkMoneyFacts({ t: 'Express is ₩13,000 - 2 stops late
 assert.deepStrictEqual(checkMoneyFacts({ t: 'up to ₩5 million per trip' }, 'up to ₩5,000,000 in total'), []);
 assert.deepStrictEqual(checkMoneyFacts({ t: 'She won 3 won awards' }, ''), []);
 assert.strictEqual(checkMoneyFacts({ t: ['₩99,000'] }, '₩13,000').length, 1);
+
+// 2026-11-22: 외부 링크 → landinkorea.com, 출처 표기 한 번만
+const { enforceOwnLinks, dedupeAttribution } = require('../lib/scheduler/content_rules');
+const blog = 'https://landinkorea.com/posts/korea-laundry.html?utm_source=facebook';
+const linked = enforceOwnLinks('Tip. 📖 Full guide: https://english.visitkorea.or.kr/enu/TRP/TP_ENG_1.jsp\n\n🇯🇵 詳細ガイド：https://english.visitkorea.or.kr/enu/TRP/TP_ENG_1.jsp\n\n🎵 Licensed, visit https://creativecommons.org/licenses/by-sa/3.0/.', blog);
+assert(!/visitkorea/.test(linked));
+assert((linked.match(/landinkorea\.com\/posts\/korea-laundry/g) || []).length === 2);
+assert(/creativecommons\.org\/licenses\/by-sa\/3\.0\/\./.test(linked));
+assert(/landinkorea\.com\/posts\/x\.html/.test(enforceOwnLinks('see https://solusupport-bot.github.io/desktop-tutorial/land-in-korea-blog/site/posts/x.html', null)));
+assert(enforceOwnLinks('go https://example.com/a', null) === 'go https://landinkorea.com');
+const deduped = dedupeAttribution('Body EN.\n\n🎬 Video source: Pexels\n\n🎵 "Song" by A is licensed under CC BY-SA 3.0.\n\n🇯🇵 本文。\n📖 ガイド\n\n🎬 ビデオソース：Pexels\n\n🎵 "Song" は…\n\n🇨🇳 正文\n\n🎬 视频来源：Pexels\n\n#KoreaTravel #Seoul');
+assert((deduped.match(/🎬/g) || []).length === 1 && (deduped.match(/🎵/g) || []).length === 1);
+assert(/Video source: Pexels/.test(deduped) && /🇨🇳 正文\n\n🎬 Video source/.test(deduped));
+assert(deduped.endsWith('#KoreaTravel #Seoul'));
+console.log('own-link + attribution rules OK');

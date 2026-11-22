@@ -30,6 +30,25 @@ numbers)는 중복 쪽이 미발행이라 같이 제거. 재발 방지: `scripts
 
 ---
 
+## 🔗 SNS 링크 = 무조건 landinkorea.com · 출처는 한 번만 · 4개 언어 전부 (2026-11-22 사용자 규칙)
+
+사용자 지적: "랜드인 코리아 홈페이지로 연결해야지 왜 다른게 올라가있어 … 다시 반복되지 않도록 해줘 규칙이야",
+"음원출처 영상및이미지 출처는 한번만 넣어줘", "스레드는 영어와 일본어로만 나오지? 중국어와 홍콩도 같이".
+
+- **링크:** 캡션 안의 모든 URL은 landinkorea.com(그 글 주소, 없으면 홈)이어야 한다. 실측 사고: `curate.js`
+  프롬프트에 주제 출처 URL(한국관광공사 `TP_ENG_1.jsp`)이 들어가 AI가 "📖 Full guide:"로 써버렸고 번역이 4개
+  언어로 복제했다. 프롬프트에서 출처 URL을 뺐고, `run.js`가 발행 직전 모든 플랫폼에
+  `content_rules.js`의 `enforceOwnLinks`를 적용한다(허용: landinkorea.com, 음원 라이선스용 creativecommons.org만;
+  옛 github.io 미러 글 주소는 운영 도메인으로 변환). **허용 목록에 외부 사이트를 추가하지 말 것.**
+- **출처 표기:** 🎬 영상·🎵 음원·📷 이미지 출처 줄은 종류별로 한 번만, 모든 번역 뒤(해시태그 앞)에 둔다
+  (`dedupeAttribution`, `run.js`에서 적용). `translate.js`는 출처 줄과 URL을 번역하지 않는다.
+- **언어:** 영어+일본어+중국어 간체+중국어 번체 4개 전부. LLM이 일부 언어를 빼먹으면 `translate.js`가 빠진 언어만
+  MyMemory로 보충한다. `threads.js`는 답글 하나가 실패해도 체인을 끊지 않고(60초 뒤 1회 재시도 후 그 조각만
+  건너뜀) 나머지 언어 답글을 계속 단다 — 예전엔 중국어 답글 실패 한 번에 이후가 통째로 빠졌다.
+- 테스트: `scripts/test-content-rules.js`의 "2026-11-22" 블록.
+
+---
+
 ## 🪝 SNS 첫 줄 규칙 (2026-11-19 실측 근거 — 범용 오프닝 문장 금지)
 
 10/19~11/19 Threads 101건 실측: 범용 오프닝 문장("Everyone assumes this works the same as back home.
