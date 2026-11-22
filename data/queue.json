@@ -54015,5 +54015,41 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-22T01:20:56.913Z",
     "blogUrl": "https://landinkorea.com/posts/korea-timing-cherry-blossoms-and-fall-foliage-in-korea-without-hitting-peak-crowds.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "6db684c7-7f61-43cd-8c0c-5fc0f1ab6ce7",
+    "text": "Tap your T-money card twice at a 스터디카페 and you lose money without knowing it.\n\nThe solution is to check-in and pay at the kiosk, then get an assigned seat or private booth with free drip coffee or water and reliable Wi-Fi.\n\nMany 스터디카페 are unstaffed and run entirely on touchscreen check-in, with door codes issued by the machine. What's the worst that could happen if you ignore the no-laptop rule at a 스터디카페? Open the Land in Korea link in our profile to learn more.\n\n🇯🇵 T-moneyカードを2回タップすると、知らないうちにお金が失われます。解決策は、キオスクでチェックインし、席を割り当てられたりプライベートブースに入ったりして、フリーのドリップコーヒーまたはウォーターと信頼できるWi-Fiを利用することです。\n\n🇨🇳 T钱卡两次点击就会不知不觉地损失钱。解决方案是通过机器人自助机进行登记并支付，然后获得分配的座位或私人包厢，免费的滴漏咖啡或水和可靠的Wi-Fi。\n\n🇹🇼 T錢卡兩次點擊就會不知不覺地損失錢。解決方案是透過機器人自助機進行登記並支付，然後獲得分配的座位或私人包廂，免費的滴漏咖啡或水和可靠的Wi-Fi。",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-22T12:37:16.105Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-22T04:09:27.346Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Cafes as workspaces in Korea: unspoken rules of study cafes, franchise chains, and 'no-laptop' signs",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: threads: reaction missing – closing line \"Open the Land in Korea link in our profile to learn more.\" does not give a reason to comment, save, or share | facebook: reaction missing – closing line \"📖 Full guide: https://english.visitkorea.or.kr/\" does not give a reason to comment, save, or share | bluesky: reaction missing – closing line \"#KoreaTravel #StudyCafe\" does not give a reason to comment, save, or share | mastodon: reaction missing – closing line \"https://english.visitkorea.or.kr/\" does not give a reason to comment, save, or share",
+      "failedPlatforms": [
+        "threads",
+        "facebook",
+        "bluesky",
+        "mastodon"
+      ],
+      "model": "groq",
+      "pattern": "E",
+      "checkedAt": "2026-11-22T04:09:25.932Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-22T04:09:27.334Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-cafes-as-workspaces-in-korea-unspoken-rules-of-study-cafes-franchise-chains-and-no-laptop-signs.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
