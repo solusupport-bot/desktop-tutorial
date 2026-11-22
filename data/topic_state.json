@@ -1,5 +1,5 @@
 {
-  "lastIndex": 5,
+  "lastIndex": 23,
   "history": [
     {
       "index": 22,
@@ -396,6 +396,36 @@
       "topic": "Jeju Island",
       "at": "2026-11-22T11:42:53.829Z",
       "source": "facebook-fill"
+    },
+    {
+      "index": 6,
+      "topic": "eSIM & mobile data",
+      "at": "2026-11-22T12:24:42.621Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 7,
+      "topic": "T-money transit card",
+      "at": "2026-11-22T12:31:37.897Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 8,
+      "topic": "Tax refund (Tax Free) shopping",
+      "at": "2026-11-22T12:43:06.735Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 9,
+      "topic": "Travel advisories & safety notices",
+      "at": "2026-11-22T12:56:14.720Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 23,
+      "topic": "Insadong traditional culture street",
+      "at": "2026-11-22T13:11:20.369Z",
+      "source": "instagram-fill"
     }
   ],
   "recentImageUrls": [
