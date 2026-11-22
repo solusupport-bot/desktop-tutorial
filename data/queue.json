@@ -54128,5 +54128,34 @@
       "checkedAt": "2026-11-22T06:30:31.841Z",
       "pattern": "B"
     }
+  },
+  {
+    "id": "c680ed66-06e8-486e-808b-60d554ed3bb1",
+    "text": "Tap your T-money card twice at the Korail ticket machine and you lose money without knowing it.\n\nThe reveal: it's 100 won per tap, and it adds up fast.\n\nOne practical observation: this is why it's a good idea to buy tickets on Korail's website or app. One caution: Korail's website and app can be finicky, so plan ahead. Did this confuse you too? Open the Land in Korea link in my profile for the full guide.\n\n🇯🇵 T-moneyカードを2回タップすると100円が消費される可能性があります。\n\n🇨🇳 你不知道的Korail机票机问题：T-money卡2次点击就消耗100韩元了。\n\n🇹🇼 你不知道的Korail機票機問題：T-money卡2次點擊就消耗100韓元了。",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-22T21:33:46.528Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-22T07:22:09.532Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Day-tripping from Seoul by regular train: Mugunghwa, ITX-Saemaeul, and the Gyeongui-Jungang line",
+    "qualityGate": {
+      "pass": false,
+      "reason": "캡션이 주제인 무궁화·ITX-새마을·경의중앙선과 직접적인 연관이 없고, T-money 탭당 100원이라는 사실이 과장되거나 오해를 살 수 있어 여행 콘텐츠로서의 적합성이 부족합니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-22T07:22:08.844Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-22T07:22:09.520Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-day-tripping-from-seoul-by-regular-train-mugunghwa-itx-saemaeul-and-the-gyeongui-jungang-line.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]

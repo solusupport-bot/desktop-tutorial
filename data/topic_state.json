@@ -1,5 +1,5 @@
 {
-  "lastIndex": 44,
+  "lastIndex": 45,
   "history": [
     {
       "index": 22,
@@ -624,6 +624,12 @@
       "topic": "Reserving restaurants and joining waitlists in Korea: Catch Table, Naver booking, and the Tabling tablet",
       "at": "2026-11-22T06:34:12.959Z",
       "source": "instagram-fill"
+    },
+    {
+      "index": 45,
+      "topic": "Day-tripping from Seoul by regular train: Mugunghwa, ITX-Saemaeul, and the Gyeongui-Jungang line",
+      "at": "2026-11-22T06:58:35.115Z",
+      "source": "threads-fill"
     }
   ],
   "recentImageUrls": [
@@ -3031,6 +3037,10 @@
       "caleb charles",
       "FREE VIDEO HAPPY",
       "Saksham Vikram"
+    ],
+    "Day-tripping from Seoul by regular train: Mugunghwa, ITX-Saemaeul, and the Gyeongui-Jungang line": [
+      "Asia Culture Center",
+      "FREE VIDEO HAPPY"
     ]
   }
 }
