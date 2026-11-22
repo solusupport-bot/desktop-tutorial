@@ -54157,5 +54157,34 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-22T07:22:09.520Z",
     "blogUrl": "https://landinkorea.com/posts/korea-day-tripping-from-seoul-by-regular-train-mugunghwa-itx-saemaeul-and-the-gyeongui-jungang-line.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "5bd08e37-03c4-41e1-add8-ec1ff281f983",
+    "text": "Korean apartments usually come with a washer but no dryer.\nLaundry is hung on a folding rack indoors or on the enclosed balcony.\nFor bulky items, use a neighborhood dry cleaner.\n📖 Full guide: landinkorea.com\n\n🇯🇵 韓国でのアパートは、洗濯機は付いていますが、ドライヤーはありません。\n洗濯は、折りたたみの台に置いたり、封鎖されたバルコニーに掛けたりします。\n大量のアイテムの場合は、隣の乾洗店に持ち込んでください。\n📖 詳細は landinkorea.com\n\n🇨🇳 韩国公寓通常配备洗衣机但不配备烘干机。\n洗衣一般在室内或封闭阳台上挂晒。\n大件物品可送往附近的干洗店。\n📖 全部指南：landinkorea.com\n\n🇹🇼 韓國公寓通常配備洗衣機但不配備烘乾機。\n洗衣一般在室內或封閉陽台上掛晒。\n大件物品可送往附近的乾洗店。\n📖 全部指南：landinkorea.com",
+    "imageUrl": null,
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-22T09:50:49.575Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-22T07:54:25.758Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Doing laundry in Korea: coin laundromats, the dryer problem, and neighborhood dry cleaners",
+    "qualityGate": {
+      "pass": false,
+      "reason": "캡션의 주제와 실제 내용이 다르며, 주제와 관련된 세탁소의 사용 방법은 간략하게만 설명되어 있기 때문에 여행 콘텐츠로서 유용성이 떨어진다.",
+      "model": "groq",
+      "checkedAt": "2026-11-22T07:54:24.266Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-22T07:54:25.746Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-doing-laundry-in-korea-coin-laundromats-the-dryer-problem-and-neighborhood-dry-cleaners.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]
