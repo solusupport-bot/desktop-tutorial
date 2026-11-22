@@ -51772,8 +51772,12 @@
       "facebook"
     ],
     "scheduledAt": "2026-11-20T09:25:54.893Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "1715498043335554"
+      }
+    },
     "createdAt": "2026-11-20T06:05:32.709Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -51790,7 +51794,8 @@
       "checkedAt": "2026-11-20T06:02:05.076Z",
       "pattern": "A"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-gyeongbokgung-palace.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-gyeongbokgung-palace.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-22T09:24:24.898Z"
   },
   {
     "id": "109f9a9d-a0b4-47dc-ba3f-6418da8ef786",
@@ -53131,8 +53136,13 @@
       "tumblr"
     ],
     "scheduledAt": "2026-11-22T05:42:17.252Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "tumblr": {
+        "id": "833973874847793152",
+        "url": "https://landinkorea.tumblr.com/post/833973874847793152"
+      }
+    },
     "createdAt": "2026-11-21T07:26:08.552Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -53149,7 +53159,8 @@
       "checkedAt": "2026-11-21T07:19:55.511Z",
       "pattern": "D"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-the-closed-on-monday-trap-how-korean-palaces-and-museums-schedule-their-days-off.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-the-closed-on-monday-trap-how-korean-palaces-and-museums-schedule-their-days-off.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-22T09:24:25.457Z"
   },
   {
     "id": "f8dbea6b-9f7e-4762-be3c-a0eab9605d24",
