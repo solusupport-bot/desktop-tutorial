@@ -54098,5 +54098,35 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-22T04:25:00.219Z",
     "blogUrl": "https://landinkorea.com/posts/korea-bus-travel-inside-korean-cities-color-codes-tag-off-transfers-and-why-you-must-flag-the-bus.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "93bf6743-40f5-44a9-b4c9-75e8340d9d33",
+    "text": "Is the Secret Garden just ₩5,000, or do you also need to pay ₩3,000 for palace entry?\nYou must buy the palace ticket (₩3,000) plus the garden ticket (₩5,000) – reserve a timed slot.\nWhich price would you pick? Save this for your Korea trip.\n\n📖 Open the Land in Korea link in our profile and search “Changdeokgung Secret Garden: how the timed Huwon tickets actually work”.\n\n🎬 Video source: Pexels\n\n#KoreaTravel #VisitKorea #SeoulTrip #Changdeokgung #SecretGarden\n\n🎵 \"Anima Pop - Ink\" by Vienna In Love is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.\n\n🇯🇵 「昌徳宮秘苑」は₩5,000か、さらに₩3,000の宮殿入場料も必要ですか？宮殿入場券（₩3,000）と庭園券（₩5,000）を購入する必要があります。予約時間帯を確保してください。どちらの価格を選びますか？韓国旅行のために保存してください。\n\n📖プロフィールのリンクで「창덕궁秘苑：実際にタイムドットチケットがどのように機能するか？」と検索してください。\n\n#韓国旅行 #韓国訪問 #ソウルトリップ #昌徳宮 #秘苑\n\n🇨🇳 「昌德宫秘苑」是₩5,000，还是还需要额外的₩3,000宫殿入场费？你必须购买宫殿票（₩3,000）和园林票（₩5,000）– 预订定时段。\n\n📖打开我们的资料表中的Land in Korea链接，搜索“昌德宫秘苑：如何实际上工作的定时Huwon票”。\n\n#韩国旅行 #访问韩国 #首尔之旅 #昌德宫 #秘苑\n\n🇹🇼 「昌德宮秘苑」是₩5,000，還需要額外的₩3,000昌德宮入場費嗎？你必須購買昌德宮門票（₩3,000）及園林門票（₩5,000）– 預訂時間段。\n\n📖打開我們檔案表中的Land in Korea連結，搜尋「昌德宮秘苑：如何實際上運作的定時Huwon門票」。\n\n#韓國旅行 #訪韓 #首爾之旅 #昌德宮 #秘苑",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1795329247831-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-11-22T18:03:10.783Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-22T06:34:12.904Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/33034610/pexels-photo-33034610.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/38521064/16359270_1920_1080_30fps.mp4",
+    "videoAttribution": "Pexels",
+    "topic": "Changdeokgung Secret Garden: how the timed Huwon tickets actually work",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련이 있고 문장이 자연스럽고 완성돼 있으며, 가격/시간/운영 여부 등 구체적 사실 주장이 과장되거나 의심스럽지 않습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-22T06:30:31.841Z",
+      "pattern": "B"
+    }
   }
 ]
