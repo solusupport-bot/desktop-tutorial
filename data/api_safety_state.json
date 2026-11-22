@@ -27,17 +27,18 @@
       "attempts": [
         "2026-11-21T20:02:33.899Z",
         "2026-11-21T22:57:32.275Z",
-        "2026-11-22T15:24:28.255Z"
+        "2026-11-22T15:24:28.255Z",
+        "2026-11-22T18:24:31.370Z"
       ],
       "successes": [
         "2026-11-21T20:02:33.899Z",
         "2026-11-21T22:57:32.275Z"
       ],
-      "consecutiveFailures": 1,
-      "blockedUntil": null,
-      "lastAttemptAt": "2026-11-22T15:24:28.255Z",
+      "consecutiveFailures": 2,
+      "blockedUntil": "2026-11-23T00:24:31.370Z",
+      "lastAttemptAt": "2026-11-22T18:24:31.370Z",
       "lastSuccessAt": "2026-11-21T22:57:32.275Z",
-      "lastFailureAt": "2026-11-22T15:24:28.255Z"
+      "lastFailureAt": "2026-11-22T18:24:31.370Z"
     },
     "tumblr": {
       "attempts": [
