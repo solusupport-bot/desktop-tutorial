@@ -54921,5 +54921,40 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-22T12:16:09.148Z",
     "blogUrl": "https://landinkorea.com/posts/korea-jeju-island.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "b3aa52f7-6c52-4e81-b77d-5f4deb17e099",
+    "text": "If your schedule is tight, Lotte World's subway access usually wins over Everland's better rides — most first-timers don't realize the transit gap until they're already planning the day.\n\nEverland's outdoor layout and larger rides suit a full-day trip better, especially with kids who want the safari section.\n\nLotte World works well as a half-day add-on to a Jamsil-area day since it's indoors and weather-proof, which matters more than people expect given Korea's summer heat and winter cold. What would you add for someone landing tomorrow?\n\n🇯🇵 予定が厳密な場合は、ロッテワールドの地下鉄アクセスがエバーランドのより良いアトラクションを上回ることが多い。エバーランドの屋外のレイアウトと大きいアトラクションは半日以上の旅行に適している。\n\n🇨🇳 如果您的行程紧张，lotte world 的地铁通勤通常会战胜Everland 的更好的游乐设施—大多数初次游客不会意识到交通差距直到他们已经计划了一天。Everland 的室外布局和更大的游乐设施适合一整天的旅行，尤其是带着孩子去看野生动物园。\n\n🇹🇼 如果您的行程緊張，lotte world 的地鐵通勤通常會勝過Everland 的更好的遊樂設施—大多數初次遊客不會意識到交通差距直到他們已經計劃了一天。Everland 的室外佈局和更大的遊樂設施適合一整天的旅行，尤其是帶著孩子去看野生動物園。",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-22T17:16:58.682Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-22T14:13:32.008Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Everland vs. Lotte World theme parks",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: facebook,hook: the first line makes a specific promise or names a specific confusion/mistake (not a generic teaser).,If your schedule is tight, Lotte World's subway access usually wins over Everland's better rides — most first-timers don't realize the transit gap until they're already planning the day. | instagram,reaction: the closing gives readers a real reason to comment, save, or share.,Comment: which one surprised you the most? | bluesky,reaction: the closing gives readers a real reason to comment, save, or share.,What would you add for someone landing tomorrow? | mastodon,reaction: the closing gives readers a real reason to comment, save, or share.,What would you add for someone landing tomorrow? | tumblr,hook: the first line makes a specific promise or names a specific confusion/mistake (not a generic teaser).,If your schedule is tight, Lotte World's subway access usually wins over Everland's better rides — most first-timers don't realize the transit gap until they're already planning the day. | tumblr,payoff: the rest delivers exactly what that hook promised.,1. Everland's outdoor layout and larger rides suit a full-day trip better, especially with kids who want the safari section.2. Lotte World works well as a half-day add-on to a Jamsil-area day since it's indoors and weather-proof, which matters more than people expect given Korea's summer heat and winter cold. | tumblr,reaction: the closing gives readers a real reason to comment, save, or share.,Also label which hook pattern the drafts mainly use (for performance tracking):",
+      "failedPlatforms": [
+        "facebook",
+        "instagram",
+        "bluesky",
+        "mastodon",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "C",
+      "checkedAt": "2026-11-22T14:13:30.838Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-everland-vs-lotte-world-theme-parks.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
