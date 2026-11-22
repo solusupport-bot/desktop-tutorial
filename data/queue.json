@@ -54879,5 +54879,42 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-22T11:42:52.451Z",
     "blogUrl": "https://landinkorea.com/posts/korea-busan-haeundae-beach-gamcheon-culture-village.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "32407c7c-0894-43c3-ae3c-58e520a73236",
+    "text": "Jeju breaks the assumption most first-timers bring from mainland Korea. ⛰️\n\n1. It doesn't connect by train at all — only by plane or ferry from the mainland.\n2. Hallasan, South Korea's tallest peak, sits at the island's center and is climbable in a long day trip.\n3. A rental car matters more here than almost anywhere else in Korea — bus routes are sparser.\n4. Coastal weather shifts quickly, so pack rain gear even in summer.\n\nSave this before your Jeju trip.\nDid you know Jeju had no train connection?\n\n🇯🇵 제주도는 대부분의 첫 방문객이 가지고 있는 명목상의 추측을 깨는 곳입니다. ⛰️\n1. TRAIN은 전혀 연결되지 않습니다. 대신에 육지와는 항공기 또는 페리로만 연결됩니다.\n2. 한라산은 한국에서 가장 높은 산입니다. 한라산은 한 일정을 통해 등반할 수 있습니다.\n3. 렌트카는 한국에서 어느 곳보다 더 중요합니다. 버스 노선은 제주도에서 상대적으로 더 희박합니다.\n4. 여름에도 비가 내릴 수 있으니 비가 오는 경우에 준비해 두세요.\n여행 전에 제주도 정보를 저장하세요.\n제주도에는 TRAIN 연결이 없습니다.\n\n🇨🇳 济州岛打破了大多数第一次游客从韩国大陆带来的假设。 🏔️\n1. 没有火车连接，需要通过飞机或渡轮从大陆前往。\n2. 韓國最高峰的漢拉山坐落在岛屿中心，能在一天内攀登。\n3. 租车在韩国几乎任何地方都比这里更重要，公交线路相对较少。\n4. 海岸天气会迅速变化，夏天也要带雨具。\n在去济州岛之前记下这些信息。\n济州岛没有火车连接。\n\n\n🇹🇼 濟州島打破了大多數第一次遊客從韓國大陸帶來的假設。 🏔️\n1. 沒有火車連接，需要透過飛機或渡輪從大陸前往。\n2. 韓國最高峰的漢拉山坐落在島嶼中心，能在一天內登山。\n3. 租車在韓國幾乎任何地方都比這裡更重要，公交線路相對較少。\n4. 海岸天氣會迅速變化，夏天也要帶雨具。\n在去濟州島之前記下這些信息。\n濟州島沒有火車連接。\n",
+    "imageUrl": null,
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-22T23:23:08.186Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-22T12:16:09.163Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Jeju Island",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: facebook: Hook and payoff mismatch. The first line is too generic and doesn't make a specific promise. | facebook: Hook and payoff mismatch. The first line is too generic and doesn't make a specific promise. | facebook: Hook and payoff mismatch. The first line is too generic and doesn't make a specific promise. | facebook: Hook and payoff mismatch. The first line is too generic and doesn't make a specific promise. | facebook: Hook and payoff mismatch. The first line is too generic and doesn't make a specific promise. | facebook: Reaction is generic engagement bait. | instagram: Hook and payoff mismatch. The first line is too generic and doesn't make a specific promise. | instagram: Reaction is generic engagement bait. | instagram: Hook and payoff mismatch. The first line is too generic and doesn't make a specific promise. | instagram: Reaction is generic engagement bait. | bluesky: Hook and payoff mismatch. The first line is too generic and doesn't make a specific promise. | mastodon: Hook and payoff mismatch. The first line is too generic and doesn't make a specific promise. | tumblr: Hook and payoff mismatch. The first line is too generic and doesn't make a specific promise.",
+      "failedPlatforms": [
+        "facebook",
+        "instagram",
+        "bluesky",
+        "mastodon",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "C",
+      "checkedAt": "2026-11-22T12:16:06.712Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-22T12:16:09.148Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-jeju-island.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]
