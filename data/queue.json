@@ -52372,7 +52372,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-11-20T08:58:13.350Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-20T08:47:09.939Z",
     "approved": true,
@@ -53057,7 +53057,7 @@
       "bluesky"
     ],
     "scheduledAt": "2026-11-22T03:14:22.774Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-21T07:26:08.487Z",
     "approved": true,
@@ -53085,7 +53085,7 @@
       "mastodon"
     ],
     "scheduledAt": "2026-11-22T03:44:01.312Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-21T07:26:08.518Z",
     "approved": true,
