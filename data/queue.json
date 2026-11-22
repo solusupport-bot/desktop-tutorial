@@ -54186,5 +54186,658 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-22T07:54:25.746Z",
     "blogUrl": "https://landinkorea.com/posts/korea-doing-laundry-in-korea-coin-laundromats-the-dryer-problem-and-neighborhood-dry-cleaners.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "bd0ac7ea-c105-4812-9d9c-8be3779d89a3",
+    "text": "Tap your T-money card twice at the convenience store and you lose money without knowing it.\n\nIf you're buying bungeoppang and hotteok at GS25, tap your card once.\n\nMany street carts still prefer cash, so carry a few 1,000-won bills. What's the most annoying thing you've lost money on in Korea? Open the Land in Korea link in our profile for more tips.\n\n🇯🇵 T-moneyカードでお金を失うのは、コインローカルに2回タップすることです。\n\n🇨🇳 T-money卡在便利店里两次刷卡会损失钱。\n\n🇹🇼 T-money卡在便利店里兩次刷卡會損失錢。",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-23T04:03:31.647Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-22T07:11:18.242Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Korean winter street food: bungeoppang, hotteok, and where the stalls went",
+    "qualityGate": {
+      "pass": false,
+      "reason": "주제가 겨울 길거리 음식과 매점 이동에 대한 내용과 크게 동떨어져 결제 팁만 다뤄져 있어 관련성이 부족합니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-22T07:11:14.638Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-22T07:11:18.229Z",
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "415bb333-800f-483e-87c4-c0aa977cce75",
+    "text": "GS25 now bakes bungeoppang at 5,000 stores.\nBuy bungeoppang and hotteok at GS25, not street carts.\nMany street carts still prefer cash.\n📖 Full guide: https://landinkorea.com/index.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post\n\n🇯🇵 GS25では5000店舗でぶんごっぱんを焼いています。ぶんごっぱんとホッテオクをGS25で買うようにしましょう。\n\n🇨🇳 GS25现在在5000多家店铺里烤着布根泡蛋。去GS25买布根泡蛋和烤饼吧。\n\n🇹🇼 GS25現在在5000多家店鋪里烤著布根泡蛋。去GS25買布根泡蛋和烤餅吧。",
+    "imageUrl": null,
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-23T00:08:21.541Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-22T07:11:18.277Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Korean winter street food: bungeoppang, hotteok, and where the stalls went",
+    "qualityGate": {
+      "pass": false,
+      "reason": "주제가 겨울 길거리 음식과 매점 이동에 대한 내용과 크게 동떨어져 결제 팁만 다뤄져 있어 관련성이 부족합니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-22T07:11:14.638Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-22T07:11:18.263Z",
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "06eed3ad-6900-4ae5-91d6-06077e3f84d6",
+    "text": "Tap your T-money card twice at the convenience store and you lose money without knowing it.\n\nGS25 now bakes bungeoppang at 5,000 stores, so you can buy them with your card.\n\nMany street carts still prefer cash, so carry a few 1,000-won bills.\n\nWhat's the most annoying thing you've lost money on in Korea?\n\n#KoreaTravel #Bungeoppang\n\n🇯🇵 T-moneyカードでお金を失うのは、コインローカルに2回タップすることです。GS25では5000店舗でぶんごっぱんを焼いています。\n\n🇨🇳 T-money卡在便利店里两次刷卡会损失钱。GS25现在在5000多家店铺里烤着布根泡蛋。\n\n🇹🇼 T-money卡在便利店里兩次刷卡會損失錢。GS25現在在5000多家店鋪里烤著布根泡蛋。",
+    "imageUrl": null,
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-11-23T04:34:12.726Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-22T07:11:18.303Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Korean winter street food: bungeoppang, hotteok, and where the stalls went",
+    "qualityGate": {
+      "pass": false,
+      "reason": "주제가 겨울 길거리 음식과 매점 이동에 대한 내용과 크게 동떨어져 결제 팁만 다뤄져 있어 관련성이 부족합니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-22T07:11:14.638Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-22T07:11:18.289Z",
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "f91d9066-b84c-4591-835d-51ca9dce8d2f",
+    "text": "Tap your T-money card twice at the convenience store and you lose money without knowing it.\n\nGS25 now bakes bungeoppang at 5,000 stores, so you can buy them with your card.\n\nMany street carts still prefer cash, so carry a few 1,000-won bills.\n\nWhat's the most annoying thing you've lost money on in Korea?\n\n#KoreaTravel #Bungeoppang #KoreaFood #StreetFoodKorea\n\n🇯🇵 T-moneyカードでお金を失うのは、コインローカルに2回タップすることです。GS25では5000店舗でぶんごっぱんを焼いています。\n\n🇨🇳 T-money卡在便利店里两次刷卡会损失钱。GS25现在在5000多家店铺里烤着布根泡蛋。\n\n🇹🇼 T-money卡在便利店里兩次刷卡會損失錢。GS25現在在5000多家店鋪里烤著布根泡蛋。",
+    "imageUrl": null,
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-11-23T05:00:21.916Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-22T07:11:18.323Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Korean winter street food: bungeoppang, hotteok, and where the stalls went",
+    "qualityGate": {
+      "pass": false,
+      "reason": "주제가 겨울 길거리 음식과 매점 이동에 대한 내용과 크게 동떨어져 결제 팁만 다뤄져 있어 관련성이 부족합니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-22T07:11:14.638Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-22T07:11:18.311Z",
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "92704fe2-cd27-45f9-a94e-6bb4d6c39aa6",
+    "text": "When street carts are gone, Koreans find winter snacks at GS25, which now bakes bungeoppang at 5,000 stores.\n\nBuy bungeoppang and hotteok at GS25, not street carts.\n\nMany street carts still prefer cash, so carry a few 1,000-won bills.\n\nSave this for your Korea trip and enjoy bungeoppang without the hassle.\n\n🇯🇵 街頭攤販がなくなると、韓国人たちはGS25で冬のスナックを探します。GS25では5000店舗でぶんごっぱんを焼いています。\n\n🇨🇳 街头攤販消失后，韩国人在GS25找到了冬季小吃。GS25现在在5000多家店铺里烤着布根泡蛋。\n\n🇹🇼 街頭攤販消失後，韓國人在GS25找到了冬季小吃。GS25現在在5000多家店鋪里烤著布根泡蛋。",
+    "imageUrl": null,
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-11-23T06:58:54.433Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-22T07:11:18.341Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Korean winter street food: bungeoppang, hotteok, and where the stalls went",
+    "qualityGate": {
+      "pass": false,
+      "reason": "주제가 겨울 길거리 음식과 매점 이동에 대한 내용과 크게 동떨어져 결제 팁만 다뤄져 있어 관련성이 부족합니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-22T07:11:14.638Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-22T07:11:18.331Z",
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "478fc7b3-c768-473b-a058-0038f7676b69",
+    "text": "Don't pack your souvenirs in a bag yet if you're heading to a Korean post office.\n\nTap your T-money card twice at the counter and you can buy a box and packing tape to send your shopping home the same day, often cheaper than an airline excess-bag fee.\n\nThis can save you up to 30 kg on EMS to most countries, but check the weight limit before you buy. Just be aware that sea-mail parcels take weeks or months to arrive. Did this confuse you too?\n\n🇯🇵 T-moneyカードを2回タップすると、箱と封筒を購入できます。\n\n🇨🇳 T-money卡在柜台上2次刷卡，可以购买盒子和胶带。\n\n🇹🇼 T-money卡在柜台上2次刷卡，可以購買盒子和膠帶。",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-22T16:41:05.499Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-22T07:50:56.790Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Shipping souvenirs home from a Korean post office: EMS, small packets, and sea mail",
+    "qualityGate": {
+      "pass": false,
+      "reason": "주제와는 맞지만 EMS 절감량 등 구체적 주장에 과장이 있어 신뢰성이 낮습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-22T07:47:26.147Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-22T07:50:56.777Z",
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "fed5658c-23a4-4027-b152-4a73c01f3a54",
+    "text": "Buy a box and packing tape at a Korean post office counter for same-day shipping.\n\nEMS carries up to 30 kg to most countries with English tracking.\n\nSmall packet service is cheaper for items up to 2 kg.\n\n📖 Full guide: landinkorea.com\n\n🇯🇵 韓国郵便局のカウンターで箱と封筒を購入できます。EMSは、ほとんどの国々に英語の追跡情報付きで30kgまで運ぶことができます。小さなパケットサービスは2kgまでの品物が安いです。📖詳細はこちら: landinkorea.com\n\n🇨🇳 在韩国邮局柜台购买盒子和包装胶带，即可享受当天发货服务。\n\nEMS 可将重达 30 公斤的包裹运送到大多数国家/地区，并提供英文版物流跟踪服务。\n\n对于不超过2公斤的物品，小包服务更便宜。\n\n📖 完整指南：landinkorea.com\n\n🇹🇼 在韓國郵局櫃檯購買箱子和包裝膠帶，即可當日寄出。\n\nEMS 可將重達 30 公斤的包裹寄送至大多數國家，並提供英文版追蹤服務。\n\n對於重量不超過 2 公斤的物品，小包服務的費用較低。\n\n📖 完整指南：landinkorea.com",
+    "imageUrl": null,
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-22T09:50:10.809Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-22T07:50:56.821Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Shipping souvenirs home from a Korean post office: EMS, small packets, and sea mail",
+    "qualityGate": {
+      "pass": false,
+      "reason": "주제와는 맞지만 EMS 절감량 등 구체적 주장에 과장이 있어 신뢰성이 낮습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-22T07:47:26.147Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-22T07:50:56.808Z",
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "cf5cc82e-d51c-48ee-a206-8ba49c879398",
+    "text": "Don't pack your souvenirs in a bag yet if you're heading to a Korean post office.\n\nTap your T-money card twice at the counter and you can buy a box and packing tape to send your shopping home the same day, often cheaper than an airline excess-bag fee.\n\nThis can save you up to 30 kg on EMS to most countries, but check the weight limit before you buy.\n\nJust be aware that sea-mail parcels take weeks or months to arrive.\n\nDid this confuse you too? #KoreaTravel #PostOffice\n\n🇯🇵 韓国郵便局のカウンターで箱と封筒を購入して、同日送信できます。EMSは、ほとんどの国々に英語の追跡情報付きで30kgまで運ぶことができますが、重量制限を確認してください。ただし、海上郵便のパッケージは数週間から数月かかります。#KoreaTravel #PostOffice\n\n🇨🇳 如果您要去韩国的邮局，请先不要将纪念品装入袋子。\n\n🇹🇼 如果您要前往韓國的郵局，請先不要將紀念品裝進袋子裡。",
+    "imageUrl": null,
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-11-22T17:13:32.928Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-22T07:50:56.845Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Shipping souvenirs home from a Korean post office: EMS, small packets, and sea mail",
+    "qualityGate": {
+      "pass": false,
+      "reason": "주제와는 맞지만 EMS 절감량 등 구체적 주장에 과장이 있어 신뢰성이 낮습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-22T07:47:26.147Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-22T07:50:56.830Z",
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "e349258b-defd-4b14-9eac-2d7f8e99b284",
+    "text": "Don't pack your souvenirs in a bag yet if you're heading to a Korean post office.\n\nTap your T-money card twice at the counter and you can buy a box and packing tape to send your shopping home the same day, often cheaper than an airline excess-bag fee.\n\nThis can save you up to 30 kg on EMS to most countries, but check the weight limit before you buy.\n\nJust be aware that sea-mail parcels take weeks or months to arrive.\n\nDid this confuse you too? #KoreaTravel #TravelTips #Seoul #PostOffice #SouvenirShipping\n\n🇯🇵 韓国郵便局のカウンターで箱と封筒を購入して、同日送信できます。EMSは、ほとんどの国々に英語の追跡情報付きで30kgまで運ぶことができますが、重量制限を確認してください。ただし、海上郵便のパッケージは数週間から数月かかります。#KoreaTravel #TravelTips #Seoul #PostOffice #SouvenirShipping\n\n🇨🇳 如果您要去韩国的邮局，请先不要将纪念品装入袋子。\n\n🇹🇼 如果您要前往韓國的郵局，請先不要將紀念品裝入袋子。",
+    "imageUrl": null,
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-11-22T17:43:04.284Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-22T07:50:56.864Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Shipping souvenirs home from a Korean post office: EMS, small packets, and sea mail",
+    "qualityGate": {
+      "pass": false,
+      "reason": "주제와는 맞지만 EMS 절감량 등 구체적 주장에 과장이 있어 신뢰성이 낮습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-22T07:47:26.147Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-22T07:50:56.853Z",
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "cfdaf96a-c742-4c9a-84f0-0de68a865813",
+    "text": "You're heading to a Korean post office with shopping, but do you know the cheapest way to send it home? Buy a box and packing tape at the counter and send it the same day, often cheaper than an airline excess-bag fee! Here are some specifics:\n1. EMS carries up to 30 kg to most countries with English tracking.\n2. Small packet service is cheaper for items up to 2 kg.\n3. Sea-mail parcels take weeks or months to arrive.\nSave this for your Korea trip!\n\n🇯🇵 韓国郵便局で買うと、箱と封筒を購入できます。EMSは、ほとんどの国々に英語の追跡情報付きで30kgまで運ぶことができます。小さなパケットサービスは2kgまでの品物が安いです。ただし、海上郵便のパッケージは数週間から数月かかります。旅行の際に保存しておいてください! 📚詳細はこちら: landinkorea.com\n\n🇨🇳 您带着购物的物品前往韩国邮局，但您知道将它们寄回家的最便宜方式吗？在柜台购买一个箱子和包装胶带，当天即可寄出，通常比航空公司的超重行李费便宜！以下是一些具体信息：\n1. EMS 可将最多 30 公斤的包裹运送到大多数国家/地区，并提供英文版物流跟踪服务。\n2. 对于不超过2公斤的物品，小包服务更便宜。\n3. 海运包裹需要数周或数月才能送达。\n请为您的韩国之旅收藏此信息！\n\n🇹🇼 您帶著購物品正要前往韓國的郵局，但您知道最便宜的寄送方式是什麼嗎？在櫃檯購買箱子和包裝膠帶，當天就能寄出，通常比航空公司的超重行李費還要便宜！以下是一些具體資訊：\n1. EMS 可將重達 30 公斤的包裹寄送至大多數國家，並提供英文版追蹤服務。\n2. 對於重量不超過 2 公斤的物品，小包服務的費用較低。\n3. 海運郵件包裹需要幾週或幾個月才能送達。\n把這則資訊收藏起來，為您的韓國之旅作好準備！",
+    "imageUrl": null,
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-11-22T19:41:26.159Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-22T07:50:56.882Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Shipping souvenirs home from a Korean post office: EMS, small packets, and sea mail",
+    "qualityGate": {
+      "pass": false,
+      "reason": "주제와는 맞지만 EMS 절감량 등 구체적 주장에 과장이 있어 신뢰성이 낮습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-22T07:47:26.147Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-22T07:50:56.872Z",
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "8f29241c-a08b-415b-91fa-84eb8f48c46a",
+    "text": "Tap your T-money card twice at the Gwangjang Market entrance and you lose money without knowing it.\n\nThe exact number of complaints rose to 15 by the end of 2023, prompting weight labels and mystery shoppers.\n\nOne practical tip: read the posted price before sitting. One caution: ask about portions on mixed platters to avoid overpaying. Did this confuse you too?\n\n🇯🇵 T-moneyカードをGwangjang Marketの入口で2回タップすると、知らないうちにお金を失うことになるようです。\n\n🇨🇳 T-money卡在Gwangjang市场入口两次刷卡，可能会无意中丢钱。\n\n🇹🇼 T-money卡在Gwangjang市場入口兩次刷卡，可能會無意中丟錢。",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795334599965-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795334599965-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-23T02:52:52.805Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-22T08:06:49.988Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/8954508/pexels-photo-8954508.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Gwangjang Market: what to eat, when stalls close, and how to avoid overpaying",
+    "qualityGate": {
+      "pass": false,
+      "reason": "주제와 크게 벗어나고 사실성이 의심되며 문장이 어색해 여행 콘텐츠로서 유용하지 않음",
+      "model": "groq",
+      "checkedAt": "2026-11-22T08:03:19.965Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-22T08:06:49.973Z",
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "438b99ca-be97-46b4-83e0-54ff1dc63e8d",
+    "text": "Read the posted price before sitting at Gwangjang Market.\nOrder dish by dish and check your bill.\nAsk about portions on mixed platers to avoid overpaying.\n📖 Full guide: https://landinkorea.com\n\n🇯🇵 Gwangjang Marketで食事を楽しむ時は、まずポスターの価格を確認しましょう。各料理を個別に注文し、請求書を確認しましょう。混合メニューで食事を楽しむ場合は、各料理の量を確認して過剰な支払いを避けましょう。\n\n🇨🇳 在Gwangjang市场吃饭时，请先查看菜单价格，单独点菜并核对账单。混合菜单时，务必询问各菜的份量以避免过度付款。\n\n🇹🇼 在Gwangjang市場吃飯時，請先查看菜單價格，單獨點菜並核對帳單。混合菜單時，務必詢問各菜的份量以避免過度付款。",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795334599965-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795334599965-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-22T22:20:05.043Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-22T08:06:50.010Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/8954508/pexels-photo-8954508.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Gwangjang Market: what to eat, when stalls close, and how to avoid overpaying",
+    "qualityGate": {
+      "pass": false,
+      "reason": "주제와 크게 벗어나고 사실성이 의심되며 문장이 어색해 여행 콘텐츠로서 유용하지 않음",
+      "model": "groq",
+      "checkedAt": "2026-11-22T08:03:19.965Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-22T08:06:49.997Z",
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "d8890246-73c3-4429-a30b-37bc28ad2efb",
+    "text": "Tap your T-money card twice at the Gwangjang Market entrance and you lose money without knowing it.\n\nThe exact number of complaints rose to 15 by the end of 2023, prompting weight labels and mystery shoppers.\n\nOne practical tip: read the posted price before sitting.\n\nOne caution: ask about portions on mixed platters to avoid overpaying.\n\nDid this confuse you too?\n\n🇯🇵 T-moneyカードをGwangjang Marketの入口で2回タップすると、知らないうちにお金を失うことになるようです。該当の件数は2023年末までに15件に上りました。それにより、重量表示と謎の買い物客の調査が実施されました。実践的なアドバイスは、ポスターの価格を座る前にお読みください。注意事項は、混合メニューの各料理の量を確認して過剰な支払いを避けましょう。混乱した方もいらっしゃったでしょうか？\n\n🇨🇳 T-money卡在Gwangjang市场入口两次刷卡，可能会无意中丢钱。截至2023年底，相关投诉达到15件。因此，市场实施了重量标注和谜之购物者的调查。实践性的建议是，在座位前阅读菜单价格。谨慎提醒：混合菜单时，务必询问各菜的份量以避免过度付款。\n\n🇹🇼 T-money卡在Gwangjang市場入口兩次刷卡，可能會無意中丟錢。截至2023年底，相關投訴達到15件。因此，市場實施了重量標注和謎之購物者的調查。實踐性的建議是，在座位前瀏覽菜單價格。謹慎提醒：混合菜單時，務必詢問各菜的份量以避免過度付款。",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795334599965-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795334599965-v0-0.jpg"
+    ],
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-11-23T03:24:30.708Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-22T08:06:50.036Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/8954508/pexels-photo-8954508.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Gwangjang Market: what to eat, when stalls close, and how to avoid overpaying",
+    "qualityGate": {
+      "pass": false,
+      "reason": "주제와 크게 벗어나고 사실성이 의심되며 문장이 어색해 여행 콘텐츠로서 유용하지 않음",
+      "model": "groq",
+      "checkedAt": "2026-11-22T08:03:19.965Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-22T08:06:50.018Z",
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "cebb9d58-e4b7-4b07-8af6-3601d6d83957",
+    "text": "Tap your T-money card twice at the Gwangjang Market entrance and you lose money without knowing it.\n\nThe exact number of complaints rose to 15 by the end of 2023, prompting weight labels and mystery shoppers.\n\nOne practical tip: read the posted price before sitting.\n\nOne caution: ask about portions on mixed platters to avoid overpaying.\n\nDid this confuse you too? #KoreaTravel #GwangjangMarket #TravelTips\n\n🇯🇵 T-moneyカードをGwangjang Marketの入口で2回タップすると、知らないうちにお金を失うことになるようです。該当の件数は2023年末までに15件に上りました。それにより、重量表示と謎の買い物客の調査が実施されました。実践的なアドバイスは、ポスターの価格を座る前にお読みください。注意事項は、混合メニューの各料理の量を確認して過剰な支払いを避けましょう。混乱した方もいらっしゃったでしょうか？ #KoreaTravel #GwangjangMarket #TravelTips\n\n🇨🇳 T-money卡在Gwangjang市场入口两次刷卡，可能会无意中丢钱。截至2023年底，相关投诉达到15件。因此，市场实施了重量标注和谜之购物者的调查。实践性的建议是，在座位前阅读菜单价格。谨慎提醒：混合菜单时，务必询问各菜的份量以避免过度付款。 #KoreaTravel #GwangjangMarket #TravelTips\n\n🇹🇼 T-money卡在Gwangjang市場入口兩次刷卡，可能會無意中丟錢。截至2023年底，相關投訴達到15件。因此，市場實施了重量標注和謎之購物者的調查。實踐性的建議是，在座位前瀏覽菜單價格。謹慎提醒：混合菜單時，務必詢問各菜的份量以避免過度付款。 #KoreaTravel #GwangjangMarket #TravelTips",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795334599965-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795334599965-v0-0.jpg"
+    ],
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-11-23T03:50:32.601Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-22T08:06:50.055Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/8954508/pexels-photo-8954508.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Gwangjang Market: what to eat, when stalls close, and how to avoid overpaying",
+    "qualityGate": {
+      "pass": false,
+      "reason": "주제와 크게 벗어나고 사실성이 의심되며 문장이 어색해 여행 콘텐츠로서 유용하지 않음",
+      "model": "groq",
+      "checkedAt": "2026-11-22T08:03:19.965Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-22T08:06:50.045Z",
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "db7cea7e-f083-4e3e-81f2-eea01eb2cb0c",
+    "text": "Gwangjang Market: Tap your T-money card twice at the entrance and you lose money without knowing it. 15 complaints by the end of 2023 prompted weight labels and mystery shoppers. To avoid overpaying, read the posted price before sitting, order dish by dish, and check your bill. Save this for your Korea trip!\n\n🇯🇵 Gwangjang Market: T-moneyカードを入口で2回タップするとお金を失うことになるようです。15件の投訴が2023年末までに上がりました。重量表示と謎の買い物客の調査が実施されました。実践的なアドバイスは、ポスターの価格を座る前にお読みください。混合メニューの各料理の量を確認して過剰な支払いを避けましょう。\n\n🇨🇳 Gwangjang市场：T-money卡在入口两次刷卡，可能会无意中丢钱。截至2023年底，相关投诉达到15件。因此，市场实施了重量标注和谜之购物者的调查。实践性的建议是，在座位前阅读菜单价格。混合菜单时，务必询问各菜的份量以避免过度付款。\n\n🇹🇼 Gwangjang市場：T-money卡在入口兩次刷卡，可能會無意中丟錢。截至2023年底，相關投訴達到15件。因此，市場實施了重量標注和謎之購物者的調查。實踐性的建議是，在座位前瀏覽菜單價格。混合菜單時，務必詢問各菜的份量以避免過度付款。",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795334599965-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795334599965-v0-0.jpg"
+    ],
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-11-23T05:49:40.056Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-22T08:06:50.075Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/8954508/pexels-photo-8954508.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Gwangjang Market: what to eat, when stalls close, and how to avoid overpaying",
+    "qualityGate": {
+      "pass": false,
+      "reason": "주제와 크게 벗어나고 사실성이 의심되며 문장이 어색해 여행 콘텐츠로서 유용하지 않음",
+      "model": "groq",
+      "checkedAt": "2026-11-22T08:03:19.965Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-22T08:06:50.064Z",
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "c259e183-26c2-47f8-9cfb-9ce6933f92d3",
+    "text": "Planning to see Changdeokgung’s Secret Garden on your first day and thinking you can buy the ticket at the gate?\n\nDon’t—online booking opens at 10 a.m. KST exactly six days before your visit, and only half the 100 slots are sold on‑site. Tickets cost ₩5,000 for adults, ₩2,500 for ages 7‑18, plus the palace fee ₩3,000.\n\nThe timed guided tours cap at 100 people, so the early online slots guarantee you a spot. If you wait until the day, you risk missing the garden entirely because on‑site tickets sell out fast. When did you realize you needed to book ahead? Open the Land in Korea link in my profile for the full guide.\n\n🇯🇵 6日前に訪問予定の日時を基に10時KSTでオンライン予約が開始されるため、早めに予約する必要があります。\n\n🇨🇳 6天前开始在线预订，10点KST开启预订窗口，\n\n🇹🇼 6天前開始線上預訂，10點KST開啟預訂窗口，",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795336467484-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795336467484-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-23T01:19:15.580Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-22T08:34:30.863Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/19699748/pexels-photo-19699748.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/38521064/16359270_1920_1080_30fps.mp4",
+    "videoAttribution": null,
+    "topic": "Changdeokgung Secret Garden: how the timed Huwon tickets actually work",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련 있는 내용이고 문장이 자연스럽고 완성돼 있으며, 가격/시간/운영 여부 등 구체적 사실 주장이 과장되지 않습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-22T08:30:56.138Z",
+      "pattern": "A"
+    },
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "1f09202a-4e65-41db-8805-c0cda5ff6f7f",
+    "text": "Online booking for the Secret Garden opens at 10 a.m. KST six days before your visit.\nOnly 50 % of the 100‑person slots are sold on‑site; the rest must be booked online.\nTicket price: ₩5,000 (adults) or ₩2,500 (ages 7‑18) plus the palace entry fee ₩3,000.\n📖 Full guide: https://landinkorea.com/index.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post\n\n🎬 Video source: Pexels\n\n🎵 \"Anima Pop - Ink\" by Vienna In Love is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.\n\n🇯🇵 オンライン予約は6日前に訪問予定の日時を基に10時KSTで開始されます。\n\n🇨🇳 在线预订6天前开始，10点KST开启预订窗口。\n\n🇹🇼 線上預訂6天前開始，10點KST開啟預訂窗口。",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1795336466024-instagram.mp4",
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-22T23:36:44.401Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-22T08:34:30.887Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/19699748/pexels-photo-19699748.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/38521064/16359270_1920_1080_30fps.mp4",
+    "videoAttribution": "Pexels",
+    "topic": "Changdeokgung Secret Garden: how the timed Huwon tickets actually work",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련 있는 내용이고 문장이 자연스럽고 완성돼 있으며, 가격/시간/운영 여부 등 구체적 사실 주장이 과장되지 않습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-22T08:30:56.138Z",
+      "pattern": "A"
+    },
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "1c5c54b5-140d-4312-b0d6-8a8763eeb170",
+    "text": "Thinking you can just walk into Changdeokgung’s Secret Garden on the day you arrive?\nBook online at 10 a.m. KST, six days ahead, to secure one of the limited ₩5,000 adult tickets (plus ₩3,000 palace fee).\nSave this for your Korea trip!\n\n📖 Open the Land in Korea link in our profile and search “Changdeokgung Secret Garden: how the timed Huwon tickets actually work”.\n\n🎬 Video source: Pexels\n\n#KoreaTravel #VisitKorea #SeoulTrip #Changdeokgung #SecretGarden\n\n🎵 \"Anima Pop - Ink\" by Vienna In Love is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.\n\n🇯🇵 チョンジェデグン秘園のチケットをその日に購入しようと思っているの？\n\n🇨🇳 想在当天购买长德宫秘园门票？\n\n🇹🇼 想在當天購買長德宮秘園門票？",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1795336466024-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-11-23T01:30:27.840Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-22T08:34:30.911Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/19699748/pexels-photo-19699748.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/38521064/16359270_1920_1080_30fps.mp4",
+    "videoAttribution": "Pexels",
+    "topic": "Changdeokgung Secret Garden: how the timed Huwon tickets actually work",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련 있는 내용이고 문장이 자연스럽고 완성돼 있으며, 가격/시간/운영 여부 등 구체적 사실 주장이 과장되지 않습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-22T08:30:56.138Z",
+      "pattern": "A"
+    }
+  },
+  {
+    "id": "40ae5618-28a9-4f23-9040-5a6511a3f454",
+    "text": "Planning to see Changdeokgung’s Secret Garden on your first day and assuming you can buy the ticket at the gate?\nDon’t—online reservations open at 10 a.m. KST exactly six days before your visit; half the 100 slots are sold online, the rest on‑site. Tickets cost ₩5,000 (adults) or ₩2,500 (7‑18) plus ₩3,000 palace entry.\nGuided tours are timed, so early online booking guarantees your spot and avoids long lines.\nIf you wait for on‑site sales, you may miss the garden entirely because they fill up quickly.\nWhen did you learn you needed to pre‑book? #KoreaTravel #Changdeokgung\n\n🇯🇵 チョンジェデグン秘園のチケットをその日に購入しようと思っているの？\n\n🇨🇳 想在当天购买长德宫秘园门票？\n\n🇹🇼 想在當天購買長德宮秘園門票？",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795336467484-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795336467484-v0-0.jpg"
+    ],
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-11-23T01:53:08.154Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-22T08:34:30.930Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/19699748/pexels-photo-19699748.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/38521064/16359270_1920_1080_30fps.mp4",
+    "videoAttribution": null,
+    "topic": "Changdeokgung Secret Garden: how the timed Huwon tickets actually work",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련 있는 내용이고 문장이 자연스럽고 완성돼 있으며, 가격/시간/운영 여부 등 구체적 사실 주장이 과장되지 않습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-22T08:30:56.138Z",
+      "pattern": "A"
+    },
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "a92546a0-d29b-49ca-8f41-7c7cea6baf5f",
+    "text": "Planning to see Changdeokgung’s Secret Garden on your first day and assuming you can buy the ticket at the gate?\nDon’t—online reservations open at 10 a.m. KST exactly six days before your visit; half the 100 slots are sold online, the rest on‑site. Tickets cost ₩5,000 (adults) or ₩2,500 (7‑18) plus ₩3,000 palace entry.\nGuided tours are timed, so early online booking guarantees your spot and avoids long lines.\nIf you wait for on‑site sales, you may miss the garden entirely because they fill up quickly.\nDid you ever get turned away because you waited to buy on the day? #TravelTips #Seoul #Changdeokgung #SecretGarden\n\n🇯🇵 チョンジェデグン秘園のチケットをその日に購入しようと思っているの？\n\n🇨🇳 想在当天购买长德宫秘园门票？\n\n🇹🇼 想在當天購買長德宮秘園門票？",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795336467484-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795336467484-v0-0.jpg"
+    ],
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-11-23T02:24:43.372Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-22T08:34:30.949Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/19699748/pexels-photo-19699748.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/38521064/16359270_1920_1080_30fps.mp4",
+    "videoAttribution": null,
+    "topic": "Changdeokgung Secret Garden: how the timed Huwon tickets actually work",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련 있는 내용이고 문장이 자연스럽고 완성돼 있으며, 가격/시간/운영 여부 등 구체적 사실 주장이 과장되지 않습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-22T08:30:56.138Z",
+      "pattern": "A"
+    },
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "ec181168-0bb7-426c-84eb-91ee65cbd3a2",
+    "text": "Don’t wait to buy a Secret Garden ticket at Changdeokgung—online booking opens at 10 a.m. KST six days ahead, costing ₩5,000 (adults) or ₩2,500 (7‑18) plus the palace fee ₩3,000.\n1. Only 100 people per guided session; half the spots are sold online, half on‑site.\n2. Guided tours are timed, so securing a slot early guarantees entry.\n3. On‑site tickets sell out fast, so late arrivals may miss the garden.\nPlan ahead and enjoy the garden without the rush.\n\n🇯🇵 チョンジェデグン秘園のチケットをその日に購入しようとしないでください。\n\n🇨🇳 不要在当天购买长德宫秘园门票。\n\n🇹🇼 不要在當天購買長德宮秘園門票。",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795336467484-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795336467484-v0-0.jpg"
+    ],
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-11-23T04:20:34.412Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-22T08:34:31.377Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/19699748/pexels-photo-19699748.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/38521064/16359270_1920_1080_30fps.mp4",
+    "videoAttribution": null,
+    "topic": "Changdeokgung Secret Garden: how the timed Huwon tickets actually work",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련 있는 내용이고 문장이 자연스럽고 완성돼 있으며, 가격/시간/운영 여부 등 구체적 사실 주장이 과장되지 않습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-22T08:30:56.138Z",
+      "pattern": "A"
+    },
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
   }
 ]
