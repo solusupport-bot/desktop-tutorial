@@ -53949,5 +53949,34 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-21T21:57:24.680Z",
     "blogUrl": "https://landinkorea.com/posts/korea-short-term-vs-long-term-housing-in-korea-guesthouse-goshiwon-officetel-and-the-deposit-system.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "b0c4dc2f-386a-4901-a042-6cba2090e11f",
+    "text": "Tap your T-money card twice at the noraebang entrance and you lose money without knowing it. You actually pay by the hour for the room, not per song. Noraebangs are everywhere in Korea, open late, and cost surprisingly little split between a few people. The song machines have English-language search and thousands of English songs. You can even rent a private room for a few friends. Send this to a friend going to Korea.\n\nThe T-money card is a prepaid transit card used to pay for subways, buses, and taxis. Tap it twice and the money is deducted from your balance without a warning. You can top up the card at any convenience store or online. Don't tap your T-money card twice at the noraebang entrance.\n\nIn Korea, it's customary to tip the staff at the noraebang after your session. The standard tip is 10,000 KRW per person. You can also leave a small gift, like a box of chocolates or a bottle of wine. Don't forget to tip the staff at the noraebang. If you're planning to visit a noraebang with friends, make sure to book a room in advance. Some popular noraebangs can get crowded, especially on weekends. You can book a room online or by calling the noraebang directly. Don't show up at the noraebang without a reservation. Did this confuse you too?\n\n🇯🇵 T-moneyカードを2回タップすると、料金がわからずに減算されることがあります。実際には、1時間あたりの料金ではなく、ルームあたりの料金です。\n\n🇨🇳 T-money卡在进入卡拉ok时2次刷卡会扣钱而不告知，实际上是按小时计费，而不是按歌曲计费。\n\n🇹🇼 T-money卡在進入卡拉ok時2次刷卡會扣錢而不告知，實際上是按小時計費，而不是按歌曲計費。",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-22T22:23:27.497Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-22T00:37:02.917Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Noraebang etiquette: how Korean karaoke actually works for first-timers",
+    "qualityGate": {
+      "pass": false,
+      "reason": "내용에 티머니 사용 방식과 팁 문화 등 사실과 다른 정보가 포함돼 있어 발행에 부적합합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-22T00:37:02.108Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-22T00:37:02.902Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-noraebang-etiquette-how-korean-karaoke-actually-works-for-first-timers.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
