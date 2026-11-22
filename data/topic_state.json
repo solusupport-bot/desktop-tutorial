@@ -1,5 +1,5 @@
 {
-  "lastIndex": 25,
+  "lastIndex": 30,
   "history": [
     {
       "index": 22,
@@ -438,6 +438,36 @@
       "topic": "Hongdae nightlife and youth culture district",
       "at": "2026-11-22T14:13:33.462Z",
       "source": "facebook-fill"
+    },
+    {
+      "index": 26,
+      "topic": "Nami Island and Petite France day trip",
+      "at": "2026-11-22T15:24:50.271Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 27,
+      "topic": "Suwon Hwaseong Fortress",
+      "at": "2026-11-22T15:48:00.213Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 28,
+      "topic": "Domestic flights vs. KTX for Jeju and long-distance trips",
+      "at": "2026-11-22T16:08:09.370Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 29,
+      "topic": "Seoul attraction pass comparison",
+      "at": "2026-11-22T16:37:46.649Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 30,
+      "topic": "Korean public holidays that disrupt travel plans",
+      "at": "2026-11-22T17:02:54.609Z",
+      "source": "instagram-fill"
     }
   ],
   "recentImageUrls": [
@@ -1708,7 +1738,8 @@
     "https://images.pexels.com/photos/33034610/pexels-photo-33034610.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://images.pexels.com/photos/19699748/pexels-photo-19699748.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://pixabay.com/get/g2007e9d8156ad577d1e2b5695eb0b75300900cc7e8f9ca3a7fba1bcc10bdbb5f1663f224fcf6037bd40474a5832a3538_1280.jpg#pixabay=96641",
-    "https://pixabay.com/get/gb4589653cf7d5706d17b4e9d899dea414bd9d9f4c32124d61bf3c335dfd9026967c53bde5fe9c24b696c65161878e60d9212030e5580ea337d6b26799bbb6d4b_1280.jpg#pixabay=5909803"
+    "https://pixabay.com/get/gb4589653cf7d5706d17b4e9d899dea414bd9d9f4c32124d61bf3c335dfd9026967c53bde5fe9c24b696c65161878e60d9212030e5580ea337d6b26799bbb6d4b_1280.jpg#pixabay=5909803",
+    "https://images.pexels.com/photos/37478874/pexels-photo-37478874.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
   ],
   "recentVideoUrls": [
     "https://videos.pexels.com/video-files/19577787/19577787-uhd_2160_3840_30fps.mp4",
@@ -2728,7 +2759,13 @@
       "Khan ishaan",
       "byunghyun lee",
       "Aibek Skakov",
-      "Theodore Nguyen"
+      "Theodore Nguyen",
+      "다솔 박",
+      "Yanto Sam",
+      "JD KIM",
+      "Co Hai",
+      "Joel M B Marrinan",
+      "WON JONG LEE"
     ],
     "Suwon Hwaseong Fortress": [
       "makafood",
@@ -2737,13 +2774,15 @@
       "wal_ 172619",
       "byunghyun lee",
       "Kat Carabio",
-      "경수 채"
+      "경수 채",
+      "Jungsik Kwak"
     ],
     "Domestic flights vs. KTX for Jeju and long-distance trips": [
       "Tuan Vy  Spotter",
       "Theodore Nguyen",
       "Fabrian Pradanaputra",
-      "Wes Guild"
+      "Wes Guild",
+      "Asia Culture Center"
     ],
     "Seoul attraction pass comparison": [
       "e-kobud-i",
@@ -2764,7 +2803,8 @@
       "Paul De Vota",
       "Saksham Vikram",
       "Andrea De Santis",
-      "caleb charles"
+      "caleb charles",
+      "Rüveyda Akkaya"
     ],
     "Korean public holidays that disrupt travel plans": [
       "성두 홍",
