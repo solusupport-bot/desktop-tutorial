@@ -54051,5 +54051,34 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-22T04:09:27.334Z",
     "blogUrl": "https://landinkorea.com/posts/korea-cafes-as-workspaces-in-korea-unspoken-rules-of-study-cafes-franchise-chains-and-no-laptop-signs.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "4fc8c4d3-c253-4034-9bc5-2f46da9acf99",
+    "text": "Seoul's city buses are color-coded: blue for long routes, green for neighborhood feeders, yellow for downtown circulators, and red for wide-stop express routes.\n\nRed buses cost more and sometimes require every passenger to be seated.\n\n📖 Full guide: https://landinkorea.com/posts/korea-bus-travel-inside-korean-cities-color-codes-tag-off-transfers-and-why-you-must-flag-the-bus.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post\n\n🇯🇵 서울의 시내버스는 색상별로 구분됩니다: 장거리 버스는蓝色, 지구 간 버스는 초록색, 시내순환 버스는黄色, 광역급행 버스는 빨간색입니다. 빨간 버스는 더 비싸고, 때로는 모든 승객이 자리를 잡아야 합니다.\n📖 완전한 설명서: https://landinkorea.com/posts/korea-bus-travel-inside-korean-cities-color-codes-tag-off-transfers-and-why-you-must-flag-the-bus.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post\n\n🇨🇳 韩国城市的公交车颜色编码:蓝色代表长途线,绿色代表小区间线,黄色代表市中心环线,红色代表快速线。红色公交车费用更高,有时还需要所有乘客就座。\n📖 全面指南: https://landinkorea.com/posts/korea-bus-travel-inside-korean-cities-color-codes-tag-off-transfers-and-why-you-must-flag-the-bus.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post\n\n🇹🇼 韓國城市的公交車顏色編碼：藍色代表長途線，綠色代表小區間線，黃色代表市中心環線，紅色代表快速線。紅色公交車費用更高，有時還需要所有乘客就座。\n📖 全面指南：https://landinkorea.com/posts/korea-bus-travel-inside-korean-cities-color-codes-tag-off-transfers-and-why-you-must-flag-the-bus.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "imageUrl": null,
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-22T08:24:57.551Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-22T04:25:00.230Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Bus travel inside Korean cities: color codes, tag-off transfers, and why you must flag the bus",
+    "qualityGate": {
+      "pass": false,
+      "reason": "주제와는 관련 있지만 태그오프와 버스 호출 내용이 없고, 탭 두 번에 대한 설명이 부정확해 신뢰성이 부족합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-22T04:24:57.670Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-22T04:25:00.219Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-bus-travel-inside-korean-cities-color-codes-tag-off-transfers-and-why-you-must-flag-the-bus.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]
