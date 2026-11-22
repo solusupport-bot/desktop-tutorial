@@ -94,3 +94,10 @@ assert((deduped.match(/🎬/g) || []).length === 1 && (deduped.match(/🎵/g) ||
 assert(/Video source: Pexels/.test(deduped) && /🇨🇳 正文\n\n🎬 Video source/.test(deduped));
 assert(deduped.endsWith('#KoreaTravel #Seoul'));
 console.log('own-link + attribution rules OK');
+
+// 2026-11-22: 스레드 본문 맨 끝 언어 안내 (사용자 결정 B)
+const { addLanguageHint } = require('../lib/publishing/threads');
+assert(addLanguageHint('At Incheon Airport, X.', ['Obs', '🇯🇵 ja', '🇨🇳 zh', '🇹🇼 tw']).endsWith('\n\n🇯🇵 日本語 · 🇨🇳 简体 · 🇹🇼 繁體 ↓'));
+assert(addLanguageHint('At Incheon Airport, X.', ['Obs', '🇯🇵 ja', '🇨🇳 zh']).startsWith('At Incheon Airport'));
+assert(addLanguageHint('Hook', ['Obs']) === 'Hook');
+console.log('threads language hint OK');
