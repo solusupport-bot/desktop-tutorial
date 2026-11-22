@@ -55019,5 +55019,33 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-22T17:51:56.396Z",
     "blogUrl": "https://landinkorea.com/posts/korea-airport-transfer-options.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "49bd7b24-d2a3-44ef-9c43-3924ba2c5083",
+    "text": "T-money trick: Tap twice at Jongno 3-ga and you lose money. \nTap once and save. \nDon't tap twice at transfer stations. \n📖 Full guide: https://landinkorea.com/posts/korea-first-timer-etiquette-common-mistakes.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post\n\n🇯🇵 T-moneyのトリック： Jongno 3-ga で2回タップするとお金を失います。1回タップでお金を節約します。転送駅では2回タップしないでください。 #Land in Korea\n\n🇨🇳 T-money 小技：在 Jongno 3-ga 复杂地板一次タップ就会节省钱。转乘站不要复杂地板一次タップ。 #Land in Korea\n\n🇹🇼 T-money 小技：在 Jongno 3-ga 复杂地板一次タップ就会節省錢。轉乘站不要複雜地板一次タップ。 #Land in Korea",
+    "imageUrl": null,
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-22T22:27:02.331Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-22T18:02:53.818Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "First-timer etiquette & common mistakes",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련 있고 문장이 자연스럽고 사실도 신뢰할 수 있어 발행해도 좋습니다",
+      "model": "groq",
+      "checkedAt": "2026-11-22T17:59:36.961Z",
+      "pattern": "E"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-first-timer-etiquette-common-mistakes.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]
