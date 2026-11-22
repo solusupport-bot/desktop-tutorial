@@ -1045,5 +1045,73 @@
         "date": "2026-11-22T04:20:40.129Z"
       }
     ]
+  },
+  "Gwangjang Market: what to eat, when stalls close, and how to avoid overpaying": {
+    "title": "Gwangjang Market Food Guide and How to Avoid Overpaying",
+    "description": "Gwangjang Market is Seoul's most famous food market, and its price complaints are famous too. Here is what to eat, when to go and how to pay a fair price.",
+    "image_query": "gwangjang market food stalls bindaetteok seoul",
+    "body": "Gwangjang Market shows up in almost every Seoul food video. There are rows of stalls under one long roof, mung bean pancakes frying in oil, and stacks of tiny gimbap rolls. It also shows up in Korean news for a different reason: repeated complaints that some vendors overcharge or under-serve customers, especially foreign tourists. Both things are true. The food is worth the trip, and a little preparation keeps you from paying more than you should. Here's how to approach it.\n\n## What Gwangjang Market is\n\nGwangjang Market in Jongno is Seoul's largest traditional market and is often described as Korea's first permanent market, with more than a century of history. Most of the building is wholesale and retail shops selling fabric, bedding, hanbok and used clothing. The famous part is the food alley at its center, a crossroads of open stalls where you sit on a bench and eat at the counter. It was featured in the Seoul episode of Netflix's Street Food series, which brought it a big wave of international visitors.\n\nThe closest stations are Jongno 5-ga on Line 1 (exit 8, about a 3-minute walk) and Euljiro 4-ga on Lines 2 and 5 (exit 4, about 5 minutes).\n\n## When to go\n\nThe food alley runs every day, typically from morning until late evening, around 9 a.m. to 11 p.m. Many individual stalls don't open until 10 or 11 a.m., and some take Sundays or Mondays off. The non-food shops in the rest of the market keep shorter hours, and most close on Sundays.\n\nThe quietest time is a weekday late morning or mid-afternoon. Evenings and weekends are crowded, with queues at the best-known stalls, and that's when the market feels most like a tourist attraction.\n\n## What to eat\n\n**Bindaetteok (빈대떡).** The market's signature dish is a thick, crispy pancake made from freshly ground mung beans, fried in plenty of oil. You'll see vendors grinding the beans on site. It goes well with makgeolli, a milky rice wine.\n\n**Mayak gimbap (마약김밥).** These are small, finger-length seaweed rice rolls with simple fillings such as carrot, pickled radish and spinach, served with a mustard and soy dipping sauce. The name means \"narcotic gimbap,\" a joke about how addictive they are, not anything sinister.\n\n**Yukhoe (육회).** Korean-style raw beef tartare, usually seasoned with sesame oil and pear, has its own cluster of specialist restaurants on the market's edge. Several have long lines.\n\n**Kalguksu (칼국수).** Hand-cut noodle soup is a cheap, filling choice on a cold day, served at counter stalls inside the market.\n\n**Mandu, sundae and tteokbokki** round out the menu, so you can graze across several stalls.\n\n## The overcharging problem, and what changed\n\nIn November 2023 a Korean YouTuber showing Vietnamese friends around the market posted a video of a 15,000-won mixed jeon (pancake) platter with only about ten pieces. It caused a public backlash. Seoul City and the market's merchant groups announced measures including weight labels next to menu prices, sample models of signature dishes, and mystery shoppers to check stalls. Merchants opposed the weight labels and that plan stalled. A multilingual QR menu showing portion photos was added in 2024 instead. Complaints surfaced again in November 2025, and the response that time included more mystery-shopper checks and a requirement that street stalls display the operator's name.\n\nNone of that means you'll be cheated. Most stalls serve honest portions, but it's worth protecting yourself.\n\n## How to make sure you pay a fair price\n\n- **Read the posted price before you sit down.** Stalls are supposed to display prices. If you can't see one, ask \"eolmayeyo?\" (얼마예요, \"how much is it?\") and point at the dish before ordering.\n- **Order one dish at a time.** It's easier to keep track of what you've had, and you can move on to another stall.\n- **Be careful with \"set\" or mixed platters.** These are where most of the complaints came from. Ask what's included and how many pieces you'll get.\n- **Check your bill against what you ordered.** If something looks wrong, point to the price board. Many vendors now accept cards, but carry some cash too, since not every stall accepts foreign cards. Our [guide to paying in Korea](https://landinkorea.com/posts/korea-currency-card-payments.html) covers what works where.\n- **Go with a friend if you can.** Most dishes are sized for sharing. If you're alone, our [guide to eating solo](https://landinkorea.com/posts/korea-eating-alone-in-korea-which-restaurants-refuse-solo-diners-and-where-honbap-works.html) applies here too, since counter stalls are among the easiest places to eat by yourself.\n\nIf you want a market with a different feel, [Namdaemun Market](https://landinkorea.com/posts/korea-namdaemun-market.html) is better for shopping and its own food alleys.\n\n## Your Gwangjang Market checklist\n\n1. Go on a weekday between late morning and mid-afternoon to avoid the worst crowds.\n2. Arrive via Jongno 5-ga exit 8 or Euljiro 4-ga exit 4.\n3. Start with bindaetteok and mayak gimbap, then graze through other stalls.\n4. Confirm the price and portion before you order, especially for mixed platters.\n5. Carry a card and some cash.\n6. Avoid Sundays if you also want to shop, since most non-food stores close.\n\nFollow those steps and the market becomes what it should be: a cheap, loud, delicious lunch.",
+    "faq": [
+      {
+        "question": "Is Gwangjang Market open on Sundays?",
+        "answer": "The food alley is generally open every day, although some individual stalls close on Sundays or Mondays. Most of the market's non-food shops, such as fabric and clothing stores, are closed on Sundays."
+      },
+      {
+        "question": "What is Gwangjang Market famous for?",
+        "answer": "It is best known for bindaetteok, a crispy mung bean pancake, and mayak gimbap, small seaweed rice rolls with a mustard dipping sauce. Yukhoe (raw beef) and kalguksu noodle soup are also popular."
+      },
+      {
+        "question": "Do Gwangjang Market stalls overcharge tourists?",
+        "answer": "There have been several well-publicized complaints, starting with a viral 2023 video of a small 15,000-won jeon platter. Most stalls are fair, but check the posted price and portion before ordering, especially for mixed platters."
+      }
+    ],
+    "reviews": [
+      {
+        "reviewer": "opus-factcheck",
+        "pass": true,
+        "hash": "631b4b7a3950961fd7ef45dbd7e4565e40c92c8ff645fe27bfc04b6c38b06116",
+        "date": "2026-11-22T04:22:51.858Z"
+      },
+      {
+        "reviewer": "opus-quality",
+        "pass": true,
+        "hash": "631b4b7a3950961fd7ef45dbd7e4565e40c92c8ff645fe27bfc04b6c38b06116",
+        "date": "2026-11-22T04:22:51.858Z"
+      }
+    ]
+  },
+  "Changdeokgung Secret Garden: how the timed Huwon tickets actually work": {
+    "title": "Changdeokgung Secret Garden Tickets and How to Get a Spot",
+    "description": "You can't just walk into Changdeokgung's Secret Garden. Entry is by timed, capped sessions that sell out. Here is how booking works and when to go.",
+    "image_query": "changdeokgung secret garden huwon pavilion pond",
+    "body": "Most first-time visitors to Seoul head to Gyeongbokgung, the biggest of the city's palaces. Many people who have seen both prefer Changdeokgung, and the reason is behind it: Huwon (후원), the royal rear garden usually called the Secret Garden in English. It's a wooded valley of pavilions, ponds and old trees that Joseon kings used for rest and study. The catch is that you can't wander in. The garden only opens in timed sessions with a capped number of people, and the popular ones sell out. Here's how the system works so you get in on the day you want.\n\n## Two tickets, not one\n\nChangdeokgung has two separate areas, each with its own ticket. The palace buildings, with the throne hall, offices and royal quarters, are the general admission area. Adult admission is 3,000 won. The Secret Garden is a separate, additional ticket: 5,000 won for adults and 2,500 won for ages 7 to 18. You need the palace ticket as well, because you walk through the palace grounds to reach the garden gate.\n\nVisitors wearing hanbok get free entry to the palace grounds, a long-standing rule at the Seoul palaces that has been under review, so check the current policy before you go. It doesn't make the Secret Garden session free.\n\n## How Secret Garden booking works\n\nEach Secret Garden session admits a maximum of 100 people. Half the places are sold online in advance and half are released for on-site sale on the day.\n\n**Online booking** opens at 10 a.m. six days before your visit date, through the official royal palaces reservation site, which has an English interface. Seats go first come, first served and can sell out fast in spring and autumn, so be online right at 10 a.m. Korea time if you're aiming for a peak-season weekend.\n\n**On-site tickets** go on sale at the palace ticket office from the morning of the visit. In peak season people queue before the office opens. In winter it's much quieter, and Seoul's official media outlet has noted that same-day booking is usually easy in the colder months.\n\nA tip that saves a lot of stress: take a screenshot of your confirmation. Allow about 10 minutes to walk from the palace entrance to the garden gate, and be there at least 10 minutes before your session.\n\n## Guided sessions and language\n\nVisits to the Secret Garden are guided. You walk the route with a palace guide and the group, and you can't wander off on your own. The walk lasts roughly an hour to an hour and a half and covers hilly paths, so wear comfortable shoes. English sessions are offered at set times that change by season, with fewer slots in winter, so check the current timetable on the reservation site. Korean-language sessions run more often. If you don't mind not understanding the commentary, a Korean session can be easier to book.\n\n## When to go\n\nChangdeokgung is closed on Mondays, like most of Seoul's palaces. If a Monday is a public holiday, the palace usually opens and closes on the next weekday instead, a pattern covered in our [guide to palace and museum closing days](https://landinkorea.com/posts/korea-the-closed-on-monday-trap-how-korean-palaces-and-museums-schedule-their-days-off.html). From November to January the palace is open from 9 a.m. to 5:30 p.m., with last entry at 4:30 p.m. Hours are longer from February to October.\n\nEach season changes the garden. Spring blossoms and autumn foliage are the most famous and the hardest to book. Winter is the easiest time to get a session, and a light snow on the pavilions is beautiful. Summer is green but hot on the hill paths.\n\nThere's also the separate Moonlight Tour, a ticketed evening program in the garden held for limited periods in spring and autumn. It sells out very quickly and is booked through a different channel, so don't expect to add it at the last minute.\n\n## Getting there and pairing it with other sights\n\nThe closest station is Anguk on Line 3. Exit 3 is about a five-minute walk. Jongno 3-ga Station (Lines 1, 3 and 5) is about a 10-minute walk. There's no dedicated parking, so use public transport. Donhwamun, the main gate, is under repair until mid-2027, so expect to enter through another gate and have your ticket ready.\n\nChangdeokgung sits right next to [Bukchon Hanok Village](https://landinkorea.com/posts/korea-bukchon-hanok-village.html), so a morning garden session followed by a walk through the hanok lanes makes an easy half day. If you're also planning to see [Gyeongbokgung](https://landinkorea.com/posts/korea-gyeongbokgung-palace.html), do it on a different day. Two palaces back to back is a lot of walking.\n\n## Your Secret Garden checklist\n\n1. Pick a day that isn't a Monday, and avoid peak spring and autumn weekends if you can.\n2. Six days ahead, be online at 10 a.m. Korea time to book a session in your language.\n3. If you miss out, go early on the day to try for one of the on-site tickets.\n4. Budget for both tickets: the palace and the garden.\n5. Wear walking shoes and arrive at the garden gate early with your confirmation.\n6. Pair it with Bukchon on the same morning.\n\nBook it that way and you give yourself the best odds of seeing the most beautiful spot in Seoul's palaces, instead of gambling at the ticket window.",
+    "faq": [
+      {
+        "question": "How much does the Changdeokgung Secret Garden cost?",
+        "answer": "The Secret Garden ticket is 5,000 won for adults and 2,500 won for ages 7 to 18. You also need a palace admission ticket, which is 3,000 won for adults, because the garden is reached through the palace grounds."
+      },
+      {
+        "question": "How far in advance can I book the Secret Garden?",
+        "answer": "Online booking opens at 10 a.m. Korea time, six days before your visit date. Half of each session's 100 places are sold online and half on site on the day."
+      },
+      {
+        "question": "Can I visit the Secret Garden without a guide?",
+        "answer": "No. Visits are guided group sessions at set times, and you follow the route with the guide. English sessions are available at fixed times that change by season."
+      }
+    ],
+    "reviews": [
+      {
+        "reviewer": "opus-factcheck",
+        "pass": true,
+        "hash": "5ca8ed8d4bf005cfd989f595e32db5dc8ff228df4cc2c799fb3754825023372a",
+        "date": "2026-11-22T04:22:51.858Z"
+      },
+      {
+        "reviewer": "opus-quality",
+        "pass": true,
+        "hash": "5ca8ed8d4bf005cfd989f595e32db5dc8ff228df4cc2c799fb3754825023372a",
+        "date": "2026-11-22T04:22:51.858Z"
+      }
+    ]
   }
 }
