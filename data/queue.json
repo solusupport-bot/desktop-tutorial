@@ -51810,8 +51810,12 @@
       "threads"
     ],
     "scheduledAt": "2026-11-20T09:45:17.659Z",
-    "status": "claimed",
-    "results": {},
+    "status": "partial",
+    "results": {
+      "threads": {
+        "error": "publish failed"
+      }
+    },
     "createdAt": "2026-11-20T08:02:43.072Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -51828,7 +51832,8 @@
       "checkedAt": "2026-11-20T07:59:26.356Z",
       "pattern": "E"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-esim-mobile-data.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-esim-mobile-data.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-22T15:24:28.256Z"
   },
   {
     "id": "084ce0ef-62a2-4548-8a98-b000bfd81c92",
