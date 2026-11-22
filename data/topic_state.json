@@ -1,5 +1,5 @@
 {
-  "lastIndex": 16,
+  "lastIndex": 31,
   "history": [
     {
       "index": 22,
@@ -510,6 +510,12 @@
       "topic": "Seasonal packing & weather tips",
       "at": "2026-11-22T19:37:59.826Z",
       "source": "instagram-fill"
+    },
+    {
+      "index": 31,
+      "topic": "Hailing a taxi in Korea: Kakao T vs. street taxis vs. airport 'deluxe' cabs",
+      "at": "2026-11-22T20:12:08.639Z",
+      "source": "threads-fill"
     }
   ],
   "recentImageUrls": [

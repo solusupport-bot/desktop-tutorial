@@ -55048,5 +55048,37 @@
       "pattern": "E"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-first-timer-etiquette-common-mistakes.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "f2700637-71eb-4053-9765-1f51cff26566",
+    "text": "Tap your T-money card twice at the airport SIM counter and you lose money without knowing it.\n\nThe first time you tap is to pay for the SIM card itself, and the second time is for the airport transfer fee. Don't tap twice.\n\nOne practical observation: the SIM card counter is usually near the airport exit, so you can easily ask the staff about the fee. One caution: some SIM cards have a separate fee for the airport transfer, so it's essential to check the details before tapping your card. Did this confuse you too?\n\n🇯🇵 空港SIMカウンターでT-マネーカードを2回タップするとお金が無くなるかもしれません。最初はSIMカードの購入代金、2回目は空港乗り換え料金です。2回タップしないように。\n\n🇨🇳 在机场SIM卡售票处用T-money卡两次刷卡，可能会被扣费。一次是购买SIM卡本身的费用，第二次是机场转乘费用。请不要两次刷卡。\n\n🇹🇼 在機場SIM卡售票處用T-money卡兩次刷卡，可能會被扣費。一次是購買SIM卡本身的費用，第二次是機場轉乘費用。請不要兩次刷卡。",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-22T21:54:02.168Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-22T20:22:27.322Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Hailing a taxi in Korea: Kakao T vs. street taxis vs. airport 'deluxe' cabs",
+    "qualityGate": {
+      "pass": false,
+      "reason": "첫 줄 규칙 위반: threads: 최근 30일 안에 쓴 첫 줄 재사용",
+      "model": "rule",
+      "failedPlatforms": [
+        "threads"
+      ],
+      "checkedAt": "2026-11-22T20:22:25.595Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-22T20:22:27.308Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-hailing-a-taxi-in-korea-kakao-t-vs-street-taxis-vs-airport-deluxe-cabs.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
