@@ -56377,5 +56377,92 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-23T19:03:47.850Z",
     "blogUrl": "https://landinkorea.com/posts/korea-useful-travel-apps.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "ea2a132c-e915-435b-8755-ebd284f21b48",
+    "text": "Once the account exists, most of Korean digital life hangs off it.\n\nMobile banking apps, simple-payment services, and government sites all rely on identity verification tied to your name, phone number, and ARC, so mismatched name spellings between your passport, phone contract, and bank records cause endless headaches — keep them identical.\n\nSending money abroad usually requires documentation of the source of funds once you pass certain annual thresholds, and banks may ask for a pay slip or contract.\n\nDid this trip you up your first time too? Drop a comment.",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-23T23:25:11.916Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-23T19:55:50.476Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Opening a Korean bank account as a foreigner — and why your ARC and phone number come first",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq와 Cloudflare 둘 다 실패했습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-23T19:55:43.817Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-23T19:55:50.458Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-opening-a-korean-bank-account-as-a-foreigner-and-why-your-arc-and-phone-number-come-first.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "85d12676-6f96-4a0f-bc70-49c6aea953c9",
+    "text": "A lot of Korean food is engineered for sharing, so a table for one can hit a wall.\n\nStews and braises like budae jjigae, dakgalbi, and jjimdak are usually cooked in one shared pot and sold with a two-serving minimum, and most Korean BBQ houses also require ordering meat for at least two people.\n\nThat's why you'll see the phrase '2인분부터' (from two servings) on menus, and why some small shops will politely turn a single diner away during a busy lunch rush.\n\nHow much did this actually cost you on your trip?",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-23T20:24:12.527Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-23T19:55:58.058Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Eating alone in Korea: which restaurants refuse solo diners and where honbap works",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq와 Cloudflare 둘 다 실패했습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-23T19:55:53.598Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-23T19:55:58.041Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-eating-alone-in-korea-which-restaurants-refuse-solo-diners-and-where-honbap-works.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "985d1105-90bd-4e25-b82e-ce85fc234e15",
+    "text": "Even with an account, the address and phone step trips people up.\n\nRiders frequently call or text to confirm a drop-off, so a number you can actually answer matters more than the app's language setting, and the free-text delivery memo is where you write things like the building name, floor, or 'leave at the door.\n\n' Hotels and guesthouses vary — some accept deliveries at the front desk, others don't, so ask before ordering.\n\nWhat surprised you the most when you landed?",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-23T20:04:58.302Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-23T19:56:07.351Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Food delivery apps in Korea: why signing up is harder than ordering",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq와 Cloudflare 둘 다 실패했습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-23T19:56:02.545Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-23T19:56:07.335Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-food-delivery-apps-in-korea-why-signing-up-is-harder-than-ordering.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
