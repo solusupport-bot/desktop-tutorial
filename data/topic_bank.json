@@ -627,5 +627,57 @@
       "Changdeokgung's Secret Garden (Huwon) can only be seen on guided, timed sessions capped at 100 people - half sold online, half on site on the day. Online booking opens at 10 a.m. Korea time six days before the visit on the official royal palaces reservation site, which has an English interface. The garden ticket (5,000 won adults, 2,500 won ages 7-18) is on top of palace admission (3,000 won adults), since you walk through the palace to reach it.",
       "Changdeokgung is closed on Mondays and, from November to January, open 9 a.m. to 5:30 p.m. with last entry at 4:30 p.m. Spring blossoms and autumn foliage sessions sell out fastest; winter is the easiest time to get a same-day slot. The closest station is Anguk (Line 3) exit 3, about five minutes on foot, and the palace sits right beside Bukchon Hanok Village, which makes an easy half-day pairing."
     ]
+  },
+  {
+    "topic": "Hwacheon Sancheoneo Ice Festival: ice fishing for trout, dates, and getting there from Seoul",
+    "author": "Land in Korea Desk",
+    "url": "https://www.narafestival.com",
+    "category": "attraction",
+    "placeKeyword": "화천 산천어축제",
+    "content": [
+      "The Hwacheon Sancheoneo Ice Festival is held each January on the frozen Hwacheoncheon Stream in Hwacheon, Gangwon Province, about 90 km northeast of Seoul. Visitors fish for sancheoneo trout through holes in the ice, catch trout by hand in a cold pool, and have their catch grilled or sliced raw on site. CNN named it one of the Seven Wonders of Winter in 2011, and in 2025 it drew over 1.86 million visitors.",
+      "In 2026 the ice fishing ticket cost 15,000 won, or 10,000 won for foreign passport holders, and adults got a 5,000-won local farm-product voucher back. Intercity buses from Dong Seoul Bus Terminal take roughly 2.5 to 3.5 hours. Opening depends on the ice reaching about 20 cm. Warm weather delayed the 2020 festival from January 4 to January 27, so check narafestival.com before you travel."
+    ],
+    "season": {
+      "from": "2026-12-15",
+      "to": "2027-01-31"
+    }
+  },
+  {
+    "topic": "Christmas in Korea: a couples' holiday, light displays, and what stays open on December 25",
+    "author": "Land in Korea Desk",
+    "url": "https://www.shinsegaegroupnewsroom.com/shinsegae-christmas-reveals-landmark-square/",
+    "category": "attraction",
+    "placeKeyword": "크리스마스 명동 신세계 미디어파사드",
+    "content": [
+      "December 25 has been a legal holiday in Korea since 1945-48, but with about 63% of Koreans non-religious it is mostly a date night, not a family day: Christmas Eve under the old 1945-1982 curfew was one of the few nights couples could stay out. Restaurants on Catch Table fill for the 24th by mid-December, and cakes are pre-ordered - Paris Baguette took 2026 orders from November 11 to December 19, with pickup December 21-25.",
+      "Seoul's Christmas lights cluster in Myeongdong. The Shinsegae main store's media facade plays a new Christmas film daily from 5 p.m. to midnight, November 6, 2026 to January 31, 2027, best seen from in front of Seoul Central Post Office. Lotte's main store nearby lit 20,000 bulbs and a 15 m heart tree on October 30, 2026. On Friday, December 25, 2026, every Seoul palace is open, since palace closing days are Monday or Tuesday."
+    ],
+    "season": {
+      "from": "2026-11-25",
+      "to": "2026-12-26"
+    }
+  },
+  {
+    "topic": "Gyeongju from Seoul: the KTX, the bus to Bulguksa, and which tombs to see first",
+    "author": "Land in Korea Desk",
+    "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=221789",
+    "category": "attraction",
+    "placeKeyword": "경주",
+    "content": [
+      "The KTX from Seoul Station reaches Gyeongju in about 2 hours 10 minutes, but the station is not the one older guides describe: Singyeongju was renamed Gyeongju Station on December 28, 2023, after the old downtown station closed in 2021. It sits west of the city, so take bus 60 or 61 into the historic center, bus 50, 51, 70 or 710 to the bus terminal, or the infrequent 711 and 700 straight to Bulguksa.",
+      "Downtown Gyeongju is a short walking loop of Silla tombs. Daereungwon's park of 23 royal mounds is free, and Cheonmachong, the one tomb you can enter, costs 3,000 won for adults. From there it's about 670 meters to the free Cheomseongdae observatory and another 890 meters to Donggung Palace and Wolji Pond (3,000 won, open until 10 p.m.), which looks best after dark. Bulguksa and Seokguram, reached by buses 10, 11 and 12, have been free since May 2023."
+    ]
+  },
+  {
+    "topic": "Ttareungyi, Seoul's public bike: buying a pass as a visitor and riding the Han River paths",
+    "author": "Land in Korea Desk",
+    "url": "https://www.sisul.or.kr/open_content/traffic/bikeseoul.jsp",
+    "category": "attraction",
+    "placeKeyword": "따릉이",
+    "content": [
+      "Ttareungyi (Seoul Bike) is Seoul's unmanned public bike, open 24 hours a day to anyone 13 or older. Short-term visitors buy a dedicated foreigner pass on bikeseoul.com (English, Chinese or Japanese) or in the app by choosing the foreigner option, paying with an overseas-issued credit card, one pass per card. A 1-hour day pass is 1,000 won and a 2-hour pass is 2,000 won; going over costs 200 won per 5 minutes.",
+      "The Han River parks have continuous bike paths on both banks, with a requested speed of 20 km/h and raised crosswalks at busy spots like Yeouido, Banpo, Ttukseom and Nanji. Seoul's own suggested loop from Jamsugyo to Haengjudaegyo is about 50 km, longer than a 2-hour pass, so riders dock and re-rent. To return a bike, pull the rear-wheel lock shut at any station and wait for the confirmation message."
+    ]
   }
 ]
