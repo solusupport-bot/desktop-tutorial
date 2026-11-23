@@ -1,5 +1,5 @@
 {
-  "lastIndex": 66,
+  "lastIndex": 3,
   "history": [
     {
       "index": 22,
@@ -366,6 +366,36 @@
       "topic": "Ttareungyi, Seoul's public bike: buying a pass as a visitor and riding the Han River paths",
       "at": "2026-11-23T15:00:12.661Z",
       "source": "facebook-fill"
+    },
+    {
+      "index": 22,
+      "topic": "Jjimjilbang etiquette",
+      "at": "2026-11-23T16:54:00.276Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 0,
+      "topic": "Gyeongbokgung Palace",
+      "at": "2026-11-23T16:57:18.077Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 1,
+      "topic": "Bukchon Hanok Village",
+      "at": "2026-11-23T17:04:14.990Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 2,
+      "topic": "N Seoul Tower (Namsan)",
+      "at": "2026-11-23T17:05:48.130Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 3,
+      "topic": "Myeongdong shopping district",
+      "at": "2026-11-23T17:07:23.304Z",
+      "source": "instagram-fill"
     }
   ],
   "recentImageUrls": [
@@ -1647,7 +1677,14 @@
     "https://images.pexels.com/photos/40149775/pexels-photo-40149775.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://pixabay.com/get/gd691898850f10ff539e2499b93f0b09397849060ec03172808b85f1305c6a303b3cc02cf05fb640a2bae1c089b73483e90501875bf55bf2612dd9d8d8c5f74fd_1280.jpg#pixabay=1403413",
     "https://images.pexels.com/photos/29373794/pexels-photo-29373794.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://images.pexels.com/photos/25950104/pexels-photo-25950104.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "https://images.pexels.com/photos/25950104/pexels-photo-25950104.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://pixabay.com/get/g2751ef422138753f8d98ca007f1e1709aabf35882887f97b420ddba03ebbd490d797b70c7cfaf8a3a1c18f43b70cfa1c3d35743a69443c56fa7115a8b11f38b9_1280.jpg#pixabay=5831869",
+    "https://pixabay.com/get/gc0338767591bba52e6df65e2075e5830a1f71f678a548e5f593a01a591dea426b4c3d8f0b17804245a470659af3349fec46c66d77fb99c0d0cde70acf7fc83b6_1280.jpg#pixabay=1233331",
+    "https://pixabay.com/get/g7fe62815b696effc0a50e3a698c9ffd45597a64788f5ee63f7c836f2fbe84d3fd8bb0c8039788a4929aa23f2975428427f10eb6adae5fa19565b6a531a76c4db_1280.jpg#pixabay=3905234",
+    "https://pixabay.com/get/g21401cb7cc75e6040a32eb85dd9ecff8dd5cffece2d688ff2f1b7e83804316bc697b73d8642cfc1f7a8f3e8ea432b09e81074a845dd8dd1b646cbaf99d24be96_1280.jpg#pixabay=3233293",
+    "https://pixabay.com/get/g665681473793ae58672bd5ad3647e8a8b1f97d52d8010cf84bf676431832ce654e6b10f9710f8e0b7929bed910bc23663d7929a996216d32f79418d86c3a8979_1280.jpg#pixabay=5387578",
+    "https://pixabay.com/get/gbaaeb98a25a5af0cba964745b4fd950c9131421096d56c5c463f5da7465b559dea2f2db6e42ed67cd983ba68f6ce862543601a34f0dcc757f3d1255432bbadbb_1280.jpg#pixabay=7423589",
+    "https://pixabay.com/get/g1330dbfbed8fde09e3c567f4262b61712255c0ba2c50ac24964bbeb22097225acfc903af3ed258ed1cd9d2e085aa9e4f2736ffc4278f56fad429164ccac1e320_1280.jpg#pixabay=4537178"
   ],
   "recentVideoUrls": [
     "https://videos.pexels.com/video-files/19577787/19577787-uhd_2160_3840_30fps.mp4",
@@ -2292,7 +2329,9 @@
     "https://prod-1.storage.jamendo.com/?trackid=665946&format=mp32",
     "https://prod-1.storage.jamendo.com/?trackid=665946&format=mp32",
     "https://prod-1.storage.jamendo.com/?trackid=665946&format=mp32",
-    "https://prod-1.storage.jamendo.com/?trackid=1406175&format=mp32"
+    "https://prod-1.storage.jamendo.com/?trackid=1406175&format=mp32",
+    "https://prod-1.storage.jamendo.com/?trackid=1406178&format=mp32",
+    "https://prod-1.storage.jamendo.com/?trackid=967006&format=mp32"
   ],
   "topicPhotographers": {
     "Why Google Maps fails in Korea and how the road-name address system actually works": [

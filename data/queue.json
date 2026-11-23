@@ -56007,5 +56007,68 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-23T16:05:08.702Z",
     "blogUrl": "https://landinkorea.com/index.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "2f2c746c-d9e2-45ea-ad41-84fff443e889",
+    "text": "One detail trips up more Gyeongbokgung visitors than anything else: it's closed on Tuesdays.\n\nSeoul's largest palace, built in 1395 — wear a hanbok and get in free.\n\nSave this before your Seoul trip.\n\n📖 Open the Land in Korea link in our profile and search “Gyeongbokgung Palace”.\n\n#KoreaTravel #SeoulTrip #Gyeongbokgung #TravelKorea #VisitSeoul\n\n🎵 \"Sunshine (ft. D-ai)\" by Artem Koker is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/.\n\n🇯🇵 Gyeongbokgung-gū ni ikimasu toki, kaisetsu wa kyou ni arimasen. \n\n🇨🇳 去光化宫时要注意，周二闭馆！\n\n🇹🇼 去光化宮時要注意，星期二閉館！",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1795453451416-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-11-23T20:31:21.902Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-23T17:04:14.924Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g2751ef422138753f8d98ca007f1e1709aabf35882887f97b420ddba03ebbd490d797b70c7cfaf8a3a1c18f43b70cfa1c3d35743a69443c56fa7115a8b11f38b9_1280.jpg#pixabay=5831869",
+      "https://pixabay.com/get/gc0338767591bba52e6df65e2075e5830a1f71f678a548e5f593a01a591dea426b4c3d8f0b17804245a470659af3349fec46c66d77fb99c0d0cde70acf7fc83b6_1280.jpg#pixabay=1233331"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Gyeongbokgung Palace",
+    "qualityGate": {
+      "pass": true,
+      "reason": "관련 있는 내용이며 문장이 자연스럽고 완성돼 있고, 사실 주장이 과장되지 않으며 여행 콘텐츠로서 유용성이 있다.",
+      "model": "groq",
+      "checkedAt": "2026-11-23T17:01:09.587Z",
+      "pattern": "A"
+    }
+  },
+  {
+    "id": "f63d5724-6d5e-43c8-b147-06e30290ec1d",
+    "text": "You don't need to spend money on the observation deck at N Seoul Tower to get a great view of Seoul — the free plaza around the tower is just as good. Save this for your Korea trip!  #NSeoulTower #SeoulTrip #KoreaTourism #Namsan #LoveLocks\n\n📖 Open the Land in Korea link in our profile and search “N Seoul Tower (Namsan)”.\n\n🎵 \"Cinematic Hip Hop #1\" by Digital Content Project is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.\n\n🇯🇵 N ソウル タワーの観覧台に行く必要はありません。タワーの周りの無料広場からも서울の景色を楽しめます。韓国旅行の予定がある人はぜひお試しください!  #Nソウルタワー #ソウルトリップ #韓国ツーリズム #南山 #ラブロック\n\n🇨🇳 你不需要花钱去N 서울塔的观景台就能欣赏首尔的景色——塔周围的广场也是不错的选择。记住在你的韩国之旅中留下美好的回忆!  #NSeoulTower #SeoulTrip #KoreaTourism #Namsan #LoveLocks\n\n🇹🇼 你不需要花錢去N 首爾塔的觀景台就能欣賞首爾的景色——塔周圍的廣場也是不錯的選擇。記住在你的韓國之旅中留下美好的回憶!  #NSeoulTower #SeoulTrip #KoreaTourism #Namsan #LoveLocks",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1795453640538-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-11-23T21:03:26.274Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-23T17:07:23.241Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g665681473793ae58672bd5ad3647e8a8b1f97d52d8010cf84bf676431832ce654e6b10f9710f8e0b7929bed910bc23663d7929a996216d32f79418d86c3a8979_1280.jpg#pixabay=5387578",
+      "https://pixabay.com/get/gbaaeb98a25a5af0cba964745b4fd950c9131421096d56c5c463f5da7465b559dea2f2db6e42ed67cd983ba68f6ce862543601a34f0dcc757f3d1255432bbadbb_1280.jpg#pixabay=7423589",
+      "https://pixabay.com/get/g1330dbfbed8fde09e3c567f4262b61712255c0ba2c50ac24964bbeb22097225acfc903af3ed258ed1cd9d2e085aa9e4f2736ffc4278f56fad429164ccac1e320_1280.jpg#pixabay=4537178"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "N Seoul Tower (Namsan)",
+    "qualityGate": {
+      "pass": true,
+      "reason": "캡션 내용이 주제와 관련이 있고 자연스럽게 완성된 문장으로, 가격/시간/운영 여부 등 구체적 사실 주장도 의심스럽지 않다.",
+      "model": "groq",
+      "checkedAt": "2026-11-23T17:06:09.639Z",
+      "pattern": "E"
+    }
   }
 ]
