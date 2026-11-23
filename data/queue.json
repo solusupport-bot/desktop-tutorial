@@ -52970,7 +52970,7 @@
       "threads"
     ],
     "scheduledAt": "2026-11-21T09:46:49.005Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-21T07:00:15.278Z",
     "approved": true,
@@ -55616,7 +55616,7 @@
       "tumblr"
     ],
     "scheduledAt": "2026-11-23T17:46:54.936Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-23T09:00:31.651Z",
     "approved": true,
