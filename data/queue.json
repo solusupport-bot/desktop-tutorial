@@ -53032,8 +53032,12 @@
       "threads"
     ],
     "scheduledAt": "2026-11-22T02:39:03.303Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18117722852125375"
+      }
+    },
     "createdAt": "2026-11-21T07:26:08.407Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -53050,7 +53054,8 @@
       "checkedAt": "2026-11-21T07:19:55.511Z",
       "pattern": "D"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-the-closed-on-monday-trap-how-korean-palaces-and-museums-schedule-their-days-off.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-the-closed-on-monday-trap-how-korean-palaces-and-museums-schedule-their-days-off.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-23T21:51:26.111Z"
   },
   {
     "id": "ff78e620-a9c8-451f-95c4-c6ffc269b70a",
