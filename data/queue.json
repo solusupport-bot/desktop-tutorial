@@ -52691,7 +52691,7 @@
       "threads"
     ],
     "scheduledAt": "2026-11-20T21:59:21.761Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-11-20T17:29:01.013Z",
     "approved": true,
@@ -52703,13 +52703,14 @@
     "videoAttribution": null,
     "topic": "Airport transfer options",
     "qualityGate": {
-      "pass": true,
-      "reason": "주제와 관련 있고 문장이 자연스러우며 사실도 정확해 유용합니다.",
-      "model": "groq",
-      "checkedAt": "2026-11-20T17:25:44.342Z",
-      "pattern": "E"
+      "pass": false,
+      "reason": "curate.js 프롬프트 예시 문장(\"Tap your T-money card twice … lose money\")을 주제와 무관하게 베낀 캡션 (2026-11-24 수동 반려)",
+      "model": "manual",
+      "checkedAt": "2026-11-23T15:32:50.512Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-airport-transfer-options.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-airport-transfer-options.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "rejectedBy": "manual-offtopic-example-copy",
+    "rejectedAt": "2026-11-23T15:32:50.512Z"
   },
   {
     "id": "691f465e-d670-4bb9-a04c-fd232399d7e4",
@@ -52752,7 +52753,7 @@
       "threads"
     ],
     "scheduledAt": "2026-11-20T20:17:31.480Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-11-20T20:12:28.212Z",
     "approved": true,
@@ -52765,14 +52766,13 @@
     "topic": "Hailing a taxi in Korea: Kakao T vs. street taxis vs. airport 'deluxe' cabs",
     "qualityGate": {
       "pass": false,
-      "reason": "원본 자료에 없는 금액: facebook: ₩0",
-      "model": "rule",
-      "failedPlatforms": [
-        "facebook"
-      ],
-      "checkedAt": "2026-11-20T20:12:26.918Z"
+      "reason": "curate.js 프롬프트 예시 문장(\"Tap your T-money card twice … lose money\")을 주제와 무관하게 베낀 캡션 (2026-11-24 수동 반려)",
+      "model": "manual",
+      "checkedAt": "2026-11-23T15:32:50.512Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-hailing-a-taxi-in-korea-kakao-t-vs-street-taxis-vs-airport-deluxe-cabs.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-hailing-a-taxi-in-korea-kakao-t-vs-street-taxis-vs-airport-deluxe-cabs.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "rejectedBy": "manual-offtopic-example-copy",
+    "rejectedAt": "2026-11-23T15:32:50.512Z"
   },
   {
     "id": "fa3e1200-c7be-4156-b38e-ec117b652e96",
@@ -52912,7 +52912,7 @@
       "threads"
     ],
     "scheduledAt": "2026-11-21T08:21:04.240Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-11-21T03:18:59.839Z",
     "approved": true,
@@ -52925,19 +52925,13 @@
     "topic": "Learning to read Hangul in a weekend — and why romanized signs still confuse you",
     "qualityGate": {
       "pass": false,
-      "reason": "후킹-마무리 불일치/반응 유도 부족: facebook: hook, 'Tap your T-money card twice...' does not deliver exactly what it promised. It mentions losing money but the rest of the post does not deliver on this promise.,📖 Full guide: [LINK] does not explain how to avoid losing money. | instagram: hook, 'Don't get confused...' does not deliver exactly what it promised. It mentions different spellings but the rest of the post does not deliver on this promise.,💡 Save this for your Korea trip! does not explain how to avoid getting confused. | bluesky: payoff, 'Did this confuse you too?' does not give readers a real reason to comment, save, or share.,It is a generic engagement bait. | mastodon: payoff, 'Did this confuse you too?' does not give readers a real reason to comment, save, or share.,It is a generic engagement bait. | tumblr: payoff, 'Save this for your Korea trip!' does not give readers a real reason to comment, save, or share.,It is a generic engagement bait.",
-      "failedPlatforms": [
-        "facebook",
-        "instagram",
-        "bluesky",
-        "mastodon",
-        "tumblr"
-      ],
-      "model": "groq",
-      "pattern": "E",
-      "checkedAt": "2026-11-21T03:18:59.298Z"
+      "reason": "curate.js 프롬프트 예시 문장(\"Tap your T-money card twice … lose money\")을 주제와 무관하게 베낀 캡션 (2026-11-24 수동 반려)",
+      "model": "manual",
+      "checkedAt": "2026-11-23T15:32:50.512Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-learning-to-read-hangul-in-a-weekend-and-why-romanized-signs-still-confuse-you.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-learning-to-read-hangul-in-a-weekend-and-why-romanized-signs-still-confuse-you.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "rejectedBy": "manual-offtopic-example-copy",
+    "rejectedAt": "2026-11-23T15:32:50.512Z"
   },
   {
     "id": "7402ca29-ef29-4325-9207-7a0885a67a26",
@@ -53961,7 +53955,7 @@
       "threads"
     ],
     "scheduledAt": "2026-11-21T22:50:26.536Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-11-21T21:46:37.895Z",
     "approved": true,
@@ -53973,13 +53967,14 @@
     "videoAttribution": null,
     "topic": "Seoul subway details nobody tells you: exit numbers, transfer walks, express trains, and the last train",
     "qualityGate": {
-      "pass": true,
-      "reason": "캡션 내용이 주제와 관련이 있고 자연스럽게 완성된 문장으로 구성되어 있습니다.",
-      "model": "groq",
-      "checkedAt": "2026-11-21T21:43:19.112Z",
-      "pattern": "E"
+      "pass": false,
+      "reason": "curate.js 프롬프트 예시 문장(\"Tap your T-money card twice … lose money\")을 주제와 무관하게 베낀 캡션 (2026-11-24 수동 반려)",
+      "model": "manual",
+      "checkedAt": "2026-11-23T15:32:50.512Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-seoul-subway-details-nobody-tells-you-exit-numbers-transfer-walks-express-trains-and-the-last-train.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-seoul-subway-details-nobody-tells-you-exit-numbers-transfer-walks-express-trains-and-the-last-train.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "rejectedBy": "manual-offtopic-example-copy",
+    "rejectedAt": "2026-11-23T15:32:50.512Z"
   },
   {
     "id": "c35e164d-9392-4346-ad17-a2b8b940b1cc",
@@ -55044,7 +55039,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-11-22T22:27:02.331Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-11-22T18:02:53.818Z",
     "approved": true,
@@ -55056,13 +55051,14 @@
     "videoAttribution": null,
     "topic": "First-timer etiquette & common mistakes",
     "qualityGate": {
-      "pass": true,
-      "reason": "주제와 관련 있고 문장이 자연스럽고 사실도 신뢰할 수 있어 발행해도 좋습니다",
-      "model": "groq",
-      "checkedAt": "2026-11-22T17:59:36.961Z",
-      "pattern": "E"
+      "pass": false,
+      "reason": "curate.js 프롬프트 예시 문장(\"Tap your T-money card twice … lose money\")을 주제와 무관하게 베낀 캡션 (2026-11-24 수동 반려)",
+      "model": "manual",
+      "checkedAt": "2026-11-23T15:32:50.512Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-first-timer-etiquette-common-mistakes.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-first-timer-etiquette-common-mistakes.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "rejectedBy": "manual-offtopic-example-copy",
+    "rejectedAt": "2026-11-23T15:32:50.512Z"
   },
   {
     "id": "f2700637-71eb-4053-9765-1f51cff26566",
@@ -55296,7 +55292,7 @@
       "threads"
     ],
     "scheduledAt": "2026-11-23T08:06:20.751Z",
-    "status": "pending",
+    "status": "rejected",
     "results": {},
     "createdAt": "2026-11-23T05:18:43.987Z",
     "approved": true,
@@ -55311,17 +55307,13 @@
     "topic": "The closed-on-Monday trap: how Korean palaces and museums schedule their days off",
     "qualityGate": {
       "pass": false,
-      "reason": "후킹-마무리 불일치/반응 유도 부족: [object Object] | [object Object] | [object Object]",
-      "failedPlatforms": [
-        "facebook",
-        "instagram",
-        "tumblr"
-      ],
-      "model": "groq",
-      "pattern": "A",
-      "checkedAt": "2026-11-23T05:18:41.416Z"
+      "reason": "curate.js 프롬프트 예시 문장(\"Tap your T-money card twice … lose money\")을 주제와 무관하게 베낀 캡션 (2026-11-24 수동 반려)",
+      "model": "manual",
+      "checkedAt": "2026-11-23T15:32:50.512Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-the-closed-on-monday-trap-how-korean-palaces-and-museums-schedule-their-days-off.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-the-closed-on-monday-trap-how-korean-palaces-and-museums-schedule-their-days-off.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "rejectedBy": "manual-offtopic-example-copy",
+    "rejectedAt": "2026-11-23T15:32:50.512Z"
   },
   {
     "id": "f7dafdfb-637e-46f3-9fd1-da6d69e57ee1",
