@@ -11,6 +11,7 @@
 // 자정까지" 중 무작위로 고른다(queue_topic.js의 window=[0,24] 클램핑 동작 재사용).
 require('dotenv').config();
 const log = require('../lib/logger');
+const { createBudget } = require('../lib/scheduler/backfill_budget');
 const { loadQueue } = require('../lib/scheduler/queue');
 const { fetchKoreaTravelTopics } = require('../lib/ingestion/korea_travel');
 const { pickNextTopic, loadState, saveState } = require('../lib/scheduler/topic_rotation');
@@ -63,7 +64,9 @@ const main = async () => {
 
   const topics = await fetchKoreaTravelTopics();
   let attempts = 0;
-  while (todayCount() < TARGET_PER_DAY && attempts < MAX_ATTEMPTS) {
+  const budget = createBudget(20);
+  let timedOut = false;
+  while (todayCount() < TARGET_PER_DAY && attempts < MAX_ATTEMPTS && !budget.exhausted()) {
     attempts += 1;
     const historyLengthBefore = loadState().history.length;
     // 2026-11-14: 영상 없는 생활정보 주제만 연달아 골라 인스타가 30시간 넘게 멈췄다 — 제휴
@@ -77,7 +80,15 @@ const main = async () => {
     const topicAndSeed = pickNextTopic(pool, 'instagram-fill');
     log.ok(`시도 ${attempts}/${MAX_ATTEMPTS}: ${topicAndSeed.topic.source}`);
     try {
-      await queueOneTopic(topicAndSeed, [0, 24], ['instagram']);
+      const run = await budget.withinBudget(queueOneTopic(topicAndSeed, [0, 24], ['instagram']), topicAndSeed.topic.source);
+      if (run.timedOut) {
+        // 끝내지 못한 주제는 "쓴 것"으로 남기지 않는다 — 다음 실행에서 다시 후보가 된다.
+        const state = loadState();
+        state.history = state.history.slice(0, historyLengthBefore);
+        saveState(state);
+        timedOut = true;
+        break;
+      }
     } catch (err) {
       // 큐잉 자체가 실패하면(반려가 아니라 예외) 이 주제를 "쓴 것"으로 기록하지 않는다 —
       // 그래야 로테이션에서 공연히 건너뛰지 않고 다음 실행에서 같은 후보를 다시 시도한다.
@@ -100,7 +111,7 @@ const main = async () => {
   }
 };
 
-main().catch((err) => {
+main().then(() => process.exit(0)).catch((err) => {
   log.err(`Instagram 하루 목표 보충 실패: ${err.message}`);
   process.exit(1);
 });

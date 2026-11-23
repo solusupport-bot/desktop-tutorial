@@ -53,6 +53,22 @@ numbers)는 중복 쪽이 미발행이라 같이 제거. 재발 방지: `scripts
 
 ---
 
+## ⏱️ 보충 스텝 시간 예산 · 캡션 주제 고정 (2026-11-24 사용자 지적: "아직 인스타 게시글이 없어")
+
+- **원인 1 — 실행이 너무 길었다:** `ensure-instagram/threads/facebook-daily.js`가 Groq 하루 한도에 걸릴 때마다
+  사진 1장당 최대 4분씩 기다려, 주제 1개에 55분~3시간이 걸렸다. SNS Scheduler 한 번이 5~6시간 이어지고
+  다음 실행(=다음 발행)이 그만큼 대기해 실제 발행이 하루 몇 번으로 줄었다. 대책: 대기 시간이 90초를 넘는
+  429(하루 한도)는 기다리지 않음(`llm.js`, `media_guard.js`), 스크립트별 시간 예산(인스타 20분, 스레드·페이스북
+  15분, `lib/scheduler/backfill_budget.js`), 워크플로 job 85분·보충 스텝 25분 상한(+continue-on-error).
+  **이 상한들을 풀거나 늘리지 말 것** — 늘리면 발행 주기가 다시 밀린다. 예산을 넘긴 주제는 history에서 되돌려
+  다음 실행에서 다시 후보가 된다.
+- **원인 2 — 캡션이 주제와 무관:** `curate.js` 프롬프트의 예시 훅("Tap your T-money card twice … lose money")을
+  AI가 궁궐·목욕탕·한글 글에 그대로 베껴 인스타 영상 2건이 품질게이트에서 반려됐다. 예시를 주제 중립 형식
+  ("<action> at <named place in THIS topic> …")으로 바꾸고 [Topic lock] 규칙을 넣었다. **프롬프트에 특정 주제의
+  완성 문장 예시를 다시 넣지 말 것** — 모델이 그대로 복사한다. 같은 문장이 들어간 대기 게시물 6건은 수동 반려.
+
+---
+
 ## 🪝 SNS 첫 줄 규칙 (2026-11-19 실측 근거 — 범용 오프닝 문장 금지)
 
 10/19~11/19 Threads 101건 실측: 범용 오프닝 문장("Everyone assumes this works the same as back home.

@@ -5,6 +5,7 @@
 // Facebook 몫의 목표치에 못 미치면 이 스크립트가 로테이션에서 더 뽑아 채운다.
 require('dotenv').config();
 const log = require('../lib/logger');
+const { createBudget } = require('../lib/scheduler/backfill_budget');
 const { loadQueue } = require('../lib/scheduler/queue');
 const { fetchKoreaTravelTopics } = require('../lib/ingestion/korea_travel');
 const { pickNextTopic, loadState, saveState } = require('../lib/scheduler/topic_rotation');
@@ -47,13 +48,23 @@ const main = async () => {
 
   const topics = await fetchKoreaTravelTopics();
   let attempts = 0;
-  while (todayCount() < TARGET_PER_DAY && attempts < MAX_ATTEMPTS) {
+  const budget = createBudget(15);
+  let timedOut = false;
+  while (todayCount() < TARGET_PER_DAY && attempts < MAX_ATTEMPTS && !budget.exhausted()) {
     attempts += 1;
     const historyLengthBefore = loadState().history.length;
     const topicAndSeed = pickNextTopic(topics, 'facebook-fill');
     log.ok(`시도 ${attempts}/${MAX_ATTEMPTS}: ${topicAndSeed.topic.source}`);
     try {
-      await queueOneTopic(topicAndSeed, [0, 24], ['facebook']);
+      const run = await budget.withinBudget(queueOneTopic(topicAndSeed, [0, 24], ['facebook']), topicAndSeed.topic.source);
+      if (run.timedOut) {
+        // 끝내지 못한 주제는 "쓴 것"으로 남기지 않는다 — 다음 실행에서 다시 후보가 된다.
+        const state = loadState();
+        state.history = state.history.slice(0, historyLengthBefore);
+        saveState(state);
+        timedOut = true;
+        break;
+      }
     } catch (err) {
       const state = loadState();
       state.history = state.history.slice(0, historyLengthBefore);
@@ -74,7 +85,7 @@ const main = async () => {
   }
 };
 
-main().catch((err) => {
+main().then(() => process.exit(0)).catch((err) => {
   log.err(`Facebook 하루 목표 보충 실패: ${err.message}`);
   process.exit(1);
 });

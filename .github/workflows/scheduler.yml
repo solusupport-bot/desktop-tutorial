@@ -17,6 +17,9 @@ concurrency:
 jobs:
   run-scheduler:
     runs-on: ubuntu-latest
+    # 2026-11-24: 보충 스텝이 몇 시간씩 걸려 한 실행이 5~6시간 이어지고 다음 실행(=다음 발행)이
+    # 그만큼 밀렸다. 예약 주기(90분) 안에 끝나도록 상한을 둔다.
+    timeout-minutes: 85
     permissions:
       contents: write
     steps:
@@ -121,6 +124,9 @@ jobs:
         run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
 
       - name: Backfill today's Instagram quota
+        # 스크립트 내부 시간 예산(backfill_budget.js)의 바깥 안전망. 넘겨도 다음 스텝(커밋)은 계속한다.
+        timeout-minutes: 25
+        continue-on-error: true
         # 2026-10-18 로컬 전용으로 추가됐던 스텝 — Instagram만 "영상 없으면 반려" 하드룰 때문에
         # 하루 3개 목표에서 자주 빠졌다. Actions 복귀 시 이 보완 로직도 같이 옮긴다.
         env:
@@ -139,6 +145,9 @@ jobs:
         run: './scripts/ci-commit-push.sh "chore: backfill today Instagram quota" data'
 
       - name: Backfill today's Threads quota
+        # 스크립트 내부 시간 예산(backfill_budget.js)의 바깥 안전망. 넘겨도 다음 스텝(커밋)은 계속한다.
+        timeout-minutes: 25
+        continue-on-error: true
         # 2026-11-04 사용자 지시: Threads는 하루 8~10건(목표 9), 공유 daily-auto-post 배치는
         # 하루 4건으로 낮췄으니 이 스텝이 Threads 몫만 더 채운다. ensure-instagram-daily.js와 동일 패턴.
         env:
@@ -157,6 +166,9 @@ jobs:
         run: './scripts/ci-commit-push.sh "chore: backfill today Threads quota" data'
 
       - name: Backfill today's Facebook quota
+        # 스크립트 내부 시간 예산(backfill_budget.js)의 바깥 안전망. 넘겨도 다음 스텝(커밋)은 계속한다.
+        timeout-minutes: 25
+        continue-on-error: true
         # 2026-11-09 사용자 지시: 페이스북이 링크 클릭 전환이 가장 잘 되는데 공유
         # daily-auto-post 배치(하루 4건)만으로는 안전 한도(12건)의 1/4도 못 썼다 —
         # ensure-instagram-daily.js/ensure-threads-daily.js와 동일 패턴.
