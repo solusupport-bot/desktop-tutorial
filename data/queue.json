@@ -53854,8 +53854,13 @@
       "facebook"
     ],
     "scheduledAt": "2026-11-21T22:58:32.708Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "facebook": {
+        "id": "122133026871446391",
+        "post_id": "1288453561012463_122133026895446391"
+      }
+    },
     "createdAt": "2026-11-21T16:24:07.043Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -53878,7 +53883,8 @@
       ],
       "checkedAt": "2026-11-21T16:24:03.667Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-suwon-hwaseong-fortress.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-suwon-hwaseong-fortress.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-23T16:53:36.950Z"
   },
   {
     "id": "7fa5cc28-6d65-4ffb-82f7-119a73d075ff",
@@ -55531,8 +55537,13 @@
       "bluesky"
     ],
     "scheduledAt": "2026-11-23T15:16:09.865Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3n2ylrqb62n2f",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3n2ylrqb62n2f"
+      }
+    },
     "createdAt": "2026-11-23T09:00:31.583Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -55552,7 +55563,8 @@
       ],
       "checkedAt": "2026-11-23T08:55:36.658Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-luggage-storage-forwarding-services.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-luggage-storage-forwarding-services.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-23T16:53:38.204Z"
   },
   {
     "id": "3bc6639b-8858-4c6f-b4a8-deefb8bc3b76",
@@ -55562,8 +55574,13 @@
       "mastodon"
     ],
     "scheduledAt": "2026-11-23T15:43:24.810Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "mastodon": {
+        "id": "117666795942524502",
+        "url": "https://mastodon.social/@landinkorea/117666795942524502"
+      }
+    },
     "createdAt": "2026-11-23T09:00:31.623Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -55583,7 +55600,8 @@
       ],
       "checkedAt": "2026-11-23T08:55:36.658Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-luggage-storage-forwarding-services.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-luggage-storage-forwarding-services.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-23T16:53:40.891Z"
   },
   {
     "id": "36921341-8327-4422-beab-3e1f67cb15b3",
