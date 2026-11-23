@@ -451,6 +451,11 @@ write_homepage`를 쓰는지 **무조건** 검사한다(예전엔 "import가 있
 실제 계정 성과와 벤치마킹 스크린샷을 본 뒤 사용자가 지시한 현재 기준. 이후 세션에서
 이 파이프라인을 건드릴 때 기본값으로 삼을 것 — 되돌리지 말고, 바꾸려면 새 지시를 받을 것.
 
+- **Facebook = 사진/영상 필수, 텍스트만 발행 금지 (2026-11-23 사용자 지적).** 11/20 Cloudflare
+  llava 비전 모델 폐기 + Groq 하루 한도로 사진 검증이 전부 실패하자, `queue_topic.js`의
+  `TEXT_ONLY_OK`에 facebook이 들어 있어 글만 나갔다. facebook을 그 목록에서 뺐고, `run.js`도
+  미디어 없는 페이스북 행은 건너뛴다. 비전 모델은 `media_guard.js`에서 gemma-4 → moondream3.1 → Groq
+  순서. Workers AI 모델 폐기 공지(changelog)를 주기적으로 확인할 것.
 - **Facebook = 이미지 앨범 고정.** 한동안 영상(Reels)을 우선했지만 실제 반응은 이미지가
   더 좋았음 — 이론적 수치보다 실측을 우선한다. (`scripts/daily-auto-post.js`의
   `mediaByPlatform.facebook`)
