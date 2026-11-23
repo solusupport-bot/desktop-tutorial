@@ -101,3 +101,9 @@ assert(addLanguageHint('At Incheon Airport, X.', ['Obs', '🇯🇵 ja', '🇨�
 assert(addLanguageHint('At Incheon Airport, X.', ['Obs', '🇯🇵 ja', '🇨🇳 zh']).startsWith('At Incheon Airport'));
 assert(addLanguageHint('Hook', ['Obs']) === 'Hook');
 console.log('threads language hint OK');
+
+// 2026-11-24: 스레드 조각 500자 초과 방지
+const { splitIntoThreadParts: _split } = require('../lib/publishing/threads');
+const longPara = `${'Gyeongbokgung opens at 9. '.repeat(30)}\n\n${'Short tail.'}`;
+assert(_split(longPara).every((p) => [...p].length <= 490));
+console.log('threads part clamp OK');

@@ -27,8 +27,8 @@
         "2026-11-23T10:53:33.976Z"
       ],
       "successes": [],
-      "consecutiveFailures": 4,
-      "blockedUntil": "2026-11-23T16:53:33.976Z",
+      "consecutiveFailures": 0,
+      "blockedUntil": null,
       "lastAttemptAt": "2026-11-23T10:53:33.976Z",
       "lastSuccessAt": "2026-11-21T22:57:32.275Z",
       "lastFailureAt": "2026-11-23T10:53:33.976Z"
