@@ -1,5 +1,5 @@
 {
-  "lastIndex": 15,
+  "lastIndex": 34,
   "history": [
     {
       "index": 22,
@@ -516,6 +516,36 @@
       "topic": "Convenience store hacks",
       "at": "2026-11-23T19:03:49.732Z",
       "source": "facebook-fill"
+    },
+    {
+      "index": 16,
+      "topic": "Seasonal packing & weather tips",
+      "at": "2026-11-23T19:53:44.413Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 31,
+      "topic": "Hailing a taxi in Korea: Kakao T vs. street taxis vs. airport 'deluxe' cabs",
+      "at": "2026-11-23T19:55:07.445Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 32,
+      "topic": "Why Google Maps fails in Korea and how the road-name address system actually works",
+      "at": "2026-11-23T19:55:13.711Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 33,
+      "topic": "Seoul subway details nobody tells you: exit numbers, transfer walks, express trains, and the last train",
+      "at": "2026-11-23T19:55:21.874Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 34,
+      "topic": "Short-term vs. long-term housing in Korea: guesthouse, goshiwon, officetel, and the deposit system",
+      "at": "2026-11-23T19:55:27.342Z",
+      "source": "instagram-fill"
     }
   ],
   "recentImageUrls": [
