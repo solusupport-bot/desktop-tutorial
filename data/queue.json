@@ -55279,5 +55279,43 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-23T02:57:27.911Z",
     "blogUrl": "https://landinkorea.com/posts/korea-hospital-vs-clinic-vs-pharmacy-in-korea-where-to-actually-go-when-you-get-sick.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "05599e64-d1e6-437a-bb6d-c54387f1b60d",
+    "text": "Tap your T-money card twice at the Gyeongbokgung palace entrance and you lose money without knowing it. The four main palaces in Seoul don't all close on the same day, which wrecks a lot of tightly planned itineraries. Gyeongbokgung takes Tuesday off, while Changdeokgung, Changgyeonggung, Deoksugung and Jongmyo close on Mondays. Many city-run and national museums and art galleries also observe a weekly closing day, most often Monday, and ticket booths typically stop selling about an hour before the gates shut. Jongmyo Shrine is also unusual in that general entry is restricted to timed guided tours on most days, with free-roaming access only on designated days. Don't plan your palace visits without checking the schedule. Always check the schedule before visiting a palace or museum. Did this confuse you too? What would you ask before landing in Korea? Open the Land in Korea link in the profile.\n\n🇯🇵 Gyeongbokgung-gu、Changdeokgung、Changgyeonggung、Deoksugungの営業日が異なるので、計画が台無しになることがあります。\n\n🇨🇳 四大宫的开放日不同，容易导致行程计划失效。\n\n🇹🇼 四大宮的營業日不同，容易導致行程計畫失效。",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795411121417-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795411121417-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-23T08:06:20.751Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-23T05:18:43.987Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/5262611/pexels-photo-5262611.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "The closed-on-Monday trap: how Korean palaces and museums schedule their days off",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: [object Object] | [object Object] | [object Object]",
+      "failedPlatforms": [
+        "facebook",
+        "instagram",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "A",
+      "checkedAt": "2026-11-23T05:18:41.416Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-the-closed-on-monday-trap-how-korean-palaces-and-museums-schedule-their-days-off.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]

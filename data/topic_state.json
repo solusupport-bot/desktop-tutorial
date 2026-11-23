@@ -1,5 +1,5 @@
 {
-  "lastIndex": 46,
+  "lastIndex": 47,
   "history": [
     {
       "index": 22,
@@ -636,6 +636,12 @@
       "topic": "Doing laundry in Korea: coin laundromats, the dryer problem, and neighborhood dry cleaners",
       "at": "2026-11-23T04:34:36.143Z",
       "source": "instagram-fill"
+    },
+    {
+      "index": 47,
+      "topic": "The closed-on-Monday trap: how Korean palaces and museums schedule their days off",
+      "at": "2026-11-23T04:56:29.711Z",
+      "source": "threads-fill"
     }
   ],
   "recentImageUrls": [
@@ -1911,7 +1917,8 @@
     "https://pixabay.com/get/g2da51ec87ccd35c998112ce62ab37c81d42030b9f8f924490d25493e6f36197a6e2fa2f3d9bff6512efaa714c1811f9b8edcd915d4d2f016659d98e46f459b53_1280.jpg#pixabay=3205654",
     "https://pixabay.com/get/g655e37969b72eace22d85506a5648bae4ec2749e061c43530b00dd701d2ce33924b19c0bb91e22ed2bf5b5b405112c5feec6b50cb239031bf037e2db46482584_1280.jpg#pixabay=1308822",
     "https://images.pexels.com/photos/35093493/pexels-photo-35093493.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://pixabay.com/get/g093ea9fc40202a3374bf60a930ef98296e98f17ab01617db2e698a754165506c74b79e75c4d0746e948a9e032c1ff1bd060ceeb4e54fde80eb30b492c3be9801_1280.jpg#pixabay=2613559"
+    "https://pixabay.com/get/g093ea9fc40202a3374bf60a930ef98296e98f17ab01617db2e698a754165506c74b79e75c4d0746e948a9e032c1ff1bd060ceeb4e54fde80eb30b492c3be9801_1280.jpg#pixabay=2613559",
+    "https://images.pexels.com/photos/5262611/pexels-photo-5262611.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
   ],
   "recentVideoUrls": [
     "https://videos.pexels.com/video-files/19577787/19577787-uhd_2160_3840_30fps.mp4",
@@ -2700,7 +2707,9 @@
       "Memory Lane",
       "Ehsan Haque",
       "Theodore Nguyen",
-      "Maxim Makarov"
+      "Maxim Makarov",
+      "zhengkui li",
+      "Philipp Brügger"
     ],
     "Hiking in Korea like a local: subway-accessible peaks, seasonal trail closures, and the gear culture": [
       "Theodore Nguyen",
