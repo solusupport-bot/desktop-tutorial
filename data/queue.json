@@ -56469,5 +56469,35 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-23T19:56:07.335Z",
     "blogUrl": "https://landinkorea.com/posts/korea-food-delivery-apps-in-korea-why-signing-up-is-harder-than-ordering.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "a7baf915-b0e1-41f8-b1be-dc297090d952",
+    "text": "Planning to see Jinhae's Gunhangje cherry blossoms this year? Most tourists visit on the festival's busiest days, but you can see the same blooms on a weekday morning at Jinhae's Hanok Village. Save this for your Korea trip! 📸 #KoreaTravel #JinhaeHanokVillage #CherryBlossoms\n\n📖 Open the Land in Korea link in our profile and search “Timing cherry blossoms and fall foliage in Korea without hitting peak crowds”.\n\n🎬 Video source: Pixabay\n\n🎵 \"Anima Pop - Ink\" by Vienna In Love is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.\n\n🇯🇵 今年は鎮海の軍港祭で桜を見に行く予定ですか？ほとんどの観光客は、お祭りの最も混雑する日に訪れますが、平日であれば、鎮海の韓屋村で同じ桜の花を見ることができます。韓国旅行のためにこれを保存しておきましょう！📸 #韓国旅行 #鎮海韓屋村 #桜\n\n📖 プロフィールの「Land in Korea」リンクを開き、「韓国で桜と紅葉を楽しむベストな時期と、混雑を避ける方法」を検索してください。\n\n🇨🇳 今年打算去欣赏镇海的军港樱花吗？大多数游客都会在节日最繁忙的日子前来观赏，但您也可以在工作日的早晨前往镇海的韩屋村欣赏同样的樱花。为您的韩国之旅收藏此贴！📸 #韩国旅游 #镇海韩屋村 #樱花\n\n📖 打开我们个人资料中的“韩国旅游局”链接，搜索“避开高峰期人流，在韩国欣赏樱花和秋叶的最佳时机”。\n\n🇹🇼 今年打算去賞鎮海軍港祭的櫻花嗎？大多數遊客都會在節慶最熱鬧的日子前來，但您也可以在平日的早晨前往鎮海的韓屋村，欣賞同樣的櫻花美景。為您的韓國之旅收藏此貼文！📸 #韓國旅遊 #鎮海韓屋村 #櫻花\n\n📖 開啟我們個人檔案中的「Land in Korea」連結，搜尋「避開人潮高峰，把握韓國賞櫻與賞楓的最佳時機」。",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1795468740640-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-11-23T22:19:04.275Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-23T21:19:08.440Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g154d6c4b034ff56bf035a2d5cd71d2ea6ef53c8f242822b2a03e3fe9ed279f6a00e3953e251a466dc58593bbc4f0c8d9addafce5fd93c5afaecbdfdc8ef8aa80_1280.jpg#pixabay=4927057"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2023/01/17/146937-790648590_large.mp4",
+    "videoAttribution": "Pixabay",
+    "topic": "Timing cherry blossoms and fall foliage in Korea without hitting peak crowds",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련되고 문장이 자연스러우며 과장된 사실이 없어서 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-23T21:18:37.634Z",
+      "pattern": "A"
+    }
   }
 ]

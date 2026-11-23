@@ -1,5 +1,5 @@
 {
-  "lastIndex": 38,
+  "lastIndex": 39,
   "history": [
     {
       "index": 22,
@@ -570,6 +570,24 @@
       "topic": "Renting a car in Korea: when it's smart, when it's a waste, and what the rental desk will ask for",
       "at": "2026-11-23T19:56:09.073Z",
       "source": "facebook-fill"
+    },
+    {
+      "index": 52,
+      "topic": "Tipping in Korea: why you shouldn't and what to do instead",
+      "at": "2026-11-23T21:13:27.175Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 53,
+      "topic": "Noraebang etiquette: how Korean karaoke actually works for first-timers",
+      "at": "2026-11-23T21:15:16.354Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 39,
+      "topic": "Timing cherry blossoms and fall foliage in Korea without hitting peak crowds",
+      "at": "2026-11-23T21:17:12.750Z",
+      "source": "instagram-fill"
     }
   ],
   "recentImageUrls": [
@@ -1866,7 +1884,9 @@
     "https://pixabay.com/get/gb645c4dce5ee2687eed47df532ac8b30a9f974bd6cf1caee1486a5c9386604b1f5efa0477f5eb8a9b879b5a4e4f5ccccdc0e1b90897a57adbf7b76c2dcd71056_1280.jpg#pixabay=3381419",
     "https://pixabay.com/get/gd47336ee3a845bc9f03b82e7fd10a0539e8e6e97251585620eca5ac83d575e14bc5b61c2023dd28cea6e724adc941048a3fdc39334dcb7f0e59aa418339afc4b_1280.jpg#pixabay=3890481",
     "https://images.pexels.com/photos/34466990/pexels-photo-34466990.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://pixabay.com/get/g588cc2de198362a36a68a2ea7b1e1e7b65aaf98f7f35b94b425966cde1f47e4374d565959517f12668526d4493c82edf11d99f42b076d4cbf77f1180fd038847_1280.jpg#pixabay=4946628"
+    "https://pixabay.com/get/g588cc2de198362a36a68a2ea7b1e1e7b65aaf98f7f35b94b425966cde1f47e4374d565959517f12668526d4493c82edf11d99f42b076d4cbf77f1180fd038847_1280.jpg#pixabay=4946628",
+    "https://pixabay.com/get/ga38ed4d09806277a88713c6d56ab28ba571afb15fed267665b0a1f7c2218e73dd922f441b7a2ade0ffd8625e747d3c487e895575f64381727366c5958c2f6659_1280.jpg#pixabay=3323613",
+    "https://pixabay.com/get/g154d6c4b034ff56bf035a2d5cd71d2ea6ef53c8f242822b2a03e3fe9ed279f6a00e3953e251a466dc58593bbc4f0c8d9addafce5fd93c5afaecbdfdc8ef8aa80_1280.jpg#pixabay=4927057"
   ],
   "recentVideoUrls": [
     "https://videos.pexels.com/video-files/19577787/19577787-uhd_2160_3840_30fps.mp4",
@@ -2399,7 +2419,8 @@
     "https://cdn.pixabay.com/video/2022/03/19/111237-690770601_large.mp4",
     "https://videos.pexels.com/video-files/40486219/17300762_3840_2160_30fps.mp4",
     "https://videos.pexels.com/video-files/40748319/17404092_1920_1080_30fps.mp4",
-    "https://videos.pexels.com/video-files/40398770/17261203_1920_1080_30fps.mp4"
+    "https://videos.pexels.com/video-files/40398770/17261203_1920_1080_30fps.mp4",
+    "https://cdn.pixabay.com/video/2023/01/17/146937-790648590_large.mp4"
   ],
   "recentMusicUrls": [
     "https://prod-1.storage.jamendo.com/?trackid=20237&format=mp32",
@@ -2515,7 +2536,8 @@
     "https://prod-1.storage.jamendo.com/?trackid=1406178&format=mp32",
     "https://prod-1.storage.jamendo.com/?trackid=967006&format=mp32",
     "https://prod-1.storage.jamendo.com/?trackid=384091&format=mp32",
-    "https://prod-1.storage.jamendo.com/?trackid=431036&format=mp32"
+    "https://prod-1.storage.jamendo.com/?trackid=431036&format=mp32",
+    "https://prod-1.storage.jamendo.com/?trackid=665946&format=mp32"
   ],
   "topicPhotographers": {
     "Why Google Maps fails in Korea and how the road-name address system actually works": [
@@ -2583,7 +2605,8 @@
       "Rihan (Ishan)  Das",
       "Andrea De Santis",
       "FREE VIDEO HAPPY",
-      "Asia Culture Center"
+      "Asia Culture Center",
+      "MH Jeong"
     ],
     "Timing cherry blossoms and fall foliage in Korea without hitting peak crowds": [
       "Ken Benitez",
