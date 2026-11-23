@@ -51810,7 +51810,7 @@
       "threads"
     ],
     "scheduledAt": "2026-11-20T09:45:17.659Z",
-    "status": "partial",
+    "status": "claimed",
     "results": {
       "threads": {
         "error": "publish failed"
@@ -51834,7 +51834,7 @@
     },
     "blogUrl": "https://landinkorea.com/posts/korea-esim-mobile-data.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
     "processedAt": "2026-11-23T03:24:18.207Z",
-    "retryCount": 2
+    "retryCount": 3
   },
   {
     "id": "084ce0ef-62a2-4548-8a98-b000bfd81c92",
