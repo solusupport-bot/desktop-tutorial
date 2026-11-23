@@ -56499,5 +56499,95 @@
       "checkedAt": "2026-11-23T21:18:37.634Z",
       "pattern": "A"
     }
+  },
+  {
+    "id": "edafb522-5631-4bc4-bd71-3a142fa19a58",
+    "text": "Self-order kiosks (키오스크) have replaced cashiers at most Korean fast food chains, cafes, and even some sit-down restaurants, and a lot of them default to Korean-only on the first screen.\n\nLook for a small 'ENGLISH' or flag icon in a corner — tapping it switches the whole menu, and most major chains (Lotteria, Mom's Touch, Starbucks, Baskin Robbins) have had this for years.\n\nIf a kiosk is truly Korean-only, Google Translate's camera mode read over the screen works in a pinch.\n\nHow much did this actually cost you on your trip?",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-23T22:19:29.437Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-23T21:19:27.841Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Unmanned kiosk ordering in Korea: why humans are disappearing from the counter",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq와 Cloudflare 둘 다 실패했습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-23T21:19:19.861Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-23T21:19:27.824Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-unmanned-kiosk-ordering-in-korea-why-humans-are-disappearing-from-the-counter.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "c3515d62-2fa0-47a6-a2b8-ce0ceb2ef827",
+    "text": "Visitors can't fully use Kakao Pay or Naver Pay without a Korean bank account or Alien Registration Card for full verification, but both apps now offer a limited foreign-card mode for topping up a prepaid balance, and WeChat Pay/Alipay are accepted at a growing number of tourist-area stores for Chinese travelers specifically.\n\nFor most short-term visitors, a physical foreign card that supports contactless (tap) still works at the vast majority of terminals — it's the phone-based wallets that are the exception in Korea, not card payments themselves.\n\nWhat surprised you the most when you landed?",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-23T21:36:04.513Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-23T21:19:35.613Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Mobile payments in Korea: Kakao Pay, Naver Pay, and why Apple Pay doesn’t work",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq와 Cloudflare 둘 다 실패했습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-23T21:19:32.071Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-23T21:19:35.596Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-mobile-payments-in-korea-kakao-pay-naver-pay-and-why-apple-pay-doesn-t-work.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "39a87022-9428-4a0e-ab25-34d93a3dfb7b",
+    "text": "A mogyoktang (목욕탕) is the plain bathhouse half of what tourists usually only encounter bundled into a jjimjilbang — gender-separated, swimsuit-free, soak-and-scrub bathing with no sleeping rooms or 24-hour common areas attached.\n\nFull nudity is the norm and non-negotiable past the locker room door; swimsuits aren't offered or allowed in the water, which catches a lot of first-timers off guard since Western-style spas often default to covered bodies.\n\nAnyone else lose money on this mistake?\n\n🇯🇵 モギョクタンはジムジルバンと違い、全裸が必須で水着は不可です。\n\n🇨🇳 澡堂不提供泳衣，必须全裸。\n\n🇹🇼 澡堂不提供泳衣，必須全裸。",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-23T23:01:35.803Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-23T21:21:56.611Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Public bathhouse culture in Korea beyond the jjimjilbang: the mogyoktang rules",
+    "qualityGate": {
+      "pass": false,
+      "reason": "첫 줄 규칙 위반: threads: 최근 30일 안에 쓴 첫 줄 재사용",
+      "model": "rule",
+      "failedPlatforms": [
+        "threads"
+      ],
+      "checkedAt": "2026-11-23T21:19:46.506Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-23T21:21:56.586Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-public-bathhouse-culture-in-korea-beyond-the-jjimjilbang-the-mogyoktang-rules.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
