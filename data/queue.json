@@ -55949,5 +55949,45 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-23T15:00:10.548Z",
     "blogUrl": "https://landinkorea.com/index.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "f92597ac-29d5-4ee8-8e32-cd032d336c7b",
+    "text": "T-money card mistake: Tap twice at the Han River bike rental and lose ₩1,000. \n\nOnly tap once to avoid losing money. \n\nReturn on time to avoid extra fees (₩200 per 5 minutes). \n\n📖 Full guide: https://landinkorea.com/index.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post\n\n🇯🇵 T-moneyカードの注意:ハンナム川自転車レンタルのタップを2回すると1,000ウォンが失われます。\n\nタップを1回だけにしましょう。\n\n時間を戻さないでください。余分な手数料が発生する可能性があります (5分あたり200ウォン)。\n\n#Land in Korea\n\n🇨🇳 T-money卡的注意:在汉拿姆河自行车租借处的点击两次会失去1000韩元。\n\n点击只需一次。\n\n不要迟到以免产生额外的费用（每5分钟200韩元）。\n\n#Land in Korea\n\n🇹🇼 T-money卡的注意:在漢拿姆河自行車租借處的點擊兩次會失去1000韓元。\n\n點擊只需一次。\n\n不要遲到以免產生額外的費用（每5分鐘200韓元）。\n\n#Land in Korea",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795449905815-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795449905815-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-23T23:11:01.533Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-23T16:05:08.724Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/25950104/pexels-photo-25950104.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Ttareungyi, Seoul's public bike: buying a pass as a visitor and riding the Han River paths",
+    "qualityGate": {
+      "pass": false,
+      "reason": "원본 자료에 없는 금액: threads: ₩200, facebook: ₩200, mastodon: ₩200, tumblr: ₩200",
+      "model": "rule",
+      "failedPlatforms": [
+        "threads",
+        "facebook",
+        "mastodon",
+        "tumblr"
+      ],
+      "checkedAt": "2026-11-23T15:25:54.461Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-23T16:05:08.702Z",
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]
