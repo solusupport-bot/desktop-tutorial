@@ -56594,5 +56594,92 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-23T21:21:56.586Z",
     "blogUrl": "https://landinkorea.com/posts/korea-public-bathhouse-culture-in-korea-beyond-the-jjimjilbang-the-mogyoktang-rules.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "27bb5dda-fe4c-456f-b2c3-7c71fdd936bf",
+    "text": "Korea's medical system is tiered, and walking into a big university hospital for a sore throat is usually the slowest and most expensive choice.\n\nSmall neighborhood clinics — look for signs ending in 의원 (uiwon) with a specialty like 내과 (internal medicine), 이비인후과 (ENT), or 피부과 (dermatology) — handle everyday illness, generally take walk-ins, and see you quickly.\n\nLarge hospitals often expect a referral for non-emergency visits and charge more without one.\n\nWorth knowing before you land? Reply with what surprised you.",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-23T22:20:38.977Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-23T21:52:35.621Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Hospital vs. clinic vs. pharmacy in Korea: where to actually go when you get sick",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq와 Cloudflare 둘 다 실패했습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-23T21:52:15.408Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-23T21:52:35.604Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-hospital-vs-clinic-vs-pharmacy-in-korea-where-to-actually-go-when-you-get-sick.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "0880e582-aba1-4175-835b-b0f59fd80af7",
+    "text": "If you genuinely need to work, a 스터디카페 (study cafe) is the purpose-built option: you pay by the hour or buy a time block at a kiosk, get an assigned seat or private booth, and there's silence, free drip coffee or water, and reliable Wi-Fi.\n\nMany are unstaffed and run entirely on touchscreen check-in, with door codes issued by the machine.\n\nSilence is strictly enforced — phone calls happen in the hallway, and typing loudly can earn you a glare.\n\nDid this trip you up your first time too? Drop a comment.",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-23T23:02:42.230Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-23T21:52:56.677Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Cafes as workspaces in Korea: unspoken rules of study cafes, franchise chains, and 'no-laptop' signs",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq와 Cloudflare 둘 다 실패했습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-23T21:52:53.723Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-23T21:52:56.663Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-cafes-as-workspaces-in-korea-unspoken-rules-of-study-cafes-franchise-chains-and-no-laptop-signs.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "503f10de-1cb7-4235-b012-fb5380965d73",
+    "text": "Seoul's city buses are color-coded and the colors actually mean something: blue buses run long trunk routes across the city, green buses are shorter neighborhood feeders connecting to subway stations, yellow buses circulate within a small downtown area, and red buses are wide-stop express routes out to Gyeonggi suburbs.\n\nRed buses cost noticeably more and sometimes require every passenger to be seated.\n\nOther cities use their own schemes — Busan, Daegu, and Incheon each have separate systems — so don't assume Seoul's colors apply nationwide.\n\nHow much did this actually cost you on your trip?",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-23T23:28:56.125Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-23T21:53:09.858Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Bus travel inside Korean cities: color codes, tag-off transfers, and why you must flag the bus",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq와 Cloudflare 둘 다 실패했습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-23T21:53:04.678Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-23T21:53:09.844Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-bus-travel-inside-korean-cities-color-codes-tag-off-transfers-and-why-you-must-flag-the-bus.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
