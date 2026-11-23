@@ -55855,5 +55855,67 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-23T10:58:47.648Z",
     "blogUrl": "https://landinkorea.com/posts/korea-trash-and-recycling-rules-for-residents.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "efa5e360-5611-41c5-833f-bacac2f5fece",
+    "text": "Skip tapping your T-money twice at the Anguk Station exit and you'll save money.\n\nTap once at the entrance and once at the exit for a smooth ride.\n\nSave this for your Korea trip.\n\n📖 Open the Land in Korea link in our profile and search “Changdeokgung Secret Garden: how the timed Huwon tickets actually work”.\n\n🎬 Video source: Pexels\n\n#KoreaTravel #VisitKorea #TravelKorea #ChangdeokgungPalace #BukchonHanokVillage\n\n🎵 \"Anima Pop - Ink\" by Vienna In Love is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.\n\n🇯🇵 Anguk Station から出る前にタップして、出る時にタップするだけでお金を節約！\n\nタップする方法は簡単！\n\n出発時と出発時だけタップすることでスムーズな乗車を！\n\nこの情報をKorea旅行のために保存しておく！\n\n📖 Land in Koreaのプロフィール内のリンクを開き、\"Changdeokgung Secret Garden: timed Huwonチケットの実際の仕組み\"を検索してください。\n\n🇨🇳 在安国站出站前先不要多次刷卡，节省您的金钱。\n\n只需在出站前刷一次卡，在出站时刷一次卡，轻松出行。\n\n保存一下这个信息，带来韩国之旅。\n\n📖 Land in Korea的链接在我们的资料页面中，请在资料页面中搜索\"长德宫秘园：定时的胡원门票实际上是如何工作的\"。\n\n🇹🇼 在安國站出站前先不要多次刷卡，節省您的金錢。\n\n只需在出站前刷一次卡，在出站時刷一次卡，輕鬆出行。\n\n保存一下這個資訊，帶來韓國之旅。\n\n📖 Land in Korea的連結在我們的檔案頁面中，請在檔案頁面中搜尋\"長德宮秘園：定時的胡園門票實際上是如何工作的\"。",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1795439459452-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-11-23T22:36:50.064Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-23T13:11:03.744Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/40149775/pexels-photo-40149775.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/40486219/17300762_3840_2160_30fps.mp4",
+    "videoAttribution": "Pexels",
+    "topic": "Changdeokgung Secret Garden: how the timed Huwon tickets actually work",
+    "qualityGate": {
+      "pass": false,
+      "reason": "캡션 내용이 주제와 관련이 없으며, 주제와 관련된 내용은 캡션의 마지막 문장에서만 간접적으로 언급된다.",
+      "model": "groq",
+      "checkedAt": "2026-11-23T13:10:39.983Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-23T13:11:03.723Z"
+  },
+  {
+    "id": "c2eeadcf-6945-445a-bddb-c318b3a3e0a0",
+    "text": "Tap your T-money card twice at the palace entrance and you waste money without knowing it.\n\nYou'll lose 400 won.\n\nSave this for your Korea trip!\n\n📖 Open the Land in Korea link in our profile and search “Gyeongbokgung Palace”.\n\n🎬 Video source: Pexels\n\n#KoreaTravel #PalaceEntrance #Tmoney #KoreaTips\n\n🎵 \"Close (ft. 선호)\" by Artem Koker is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/.\n\n🇯🇵 パラダイスの入口でT-マネーカードを2回タップすると、金額を知らずに金を浪費することになります。\n\n400ウォンを失います。\n\n韓国旅行のために保存してください！\n\n📖プロフィールのLand in Koreaのリンクを開き、「慶福宮殿」を検索してください。\n\n#KoreaTravel #PalaceEntrance #Tmoney #KoreaTips\n\n🇨🇳 在宫殿入口用T-卡两次，可能会无意中浪费钱。\n\n你会损失400元。\n\n保存到你的韩国之旅!\n\n📖打开我们在档案中的Land in Korea链接并搜索“庆福宫”。\n\n#KoreaTravel #宫殿入口 #Tmoney #韩国提示\n\n🇹🇼 在宮殿入口用T卡兩次，可能會無意中浪費錢。\n\n你會損失400元。\n\n保存到你的韓國之旅!\n\n📖打開我們在檔案中的Land in Korea連結並搜尋「慶福宮」。\n\n#韓國旅遊 #宮殿入口 #Tmoney #韓國提示",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1795442719138-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-11-23T22:02:07.029Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-23T14:05:24.688Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/gd691898850f10ff539e2499b93f0b09397849060ec03172808b85f1305c6a303b3cc02cf05fb640a2bae1c089b73483e90501875bf55bf2612dd9d8d8c5f74fd_1280.jpg#pixabay=1403413"
+    ],
+    "sourceVideoUrl": "https://videos.pexels.com/video-files/40398770/17261203_1920_1080_30fps.mp4",
+    "videoAttribution": "Pexels",
+    "topic": "Gyeongbokgung Palace",
+    "qualityGate": {
+      "pass": false,
+      "reason": "Gyeongbokgung Palace 입구에서 T‑money를 두 번 탭하면 200원씩 차감된다는 내용은 사실과 다르며, 실제로 입장료는 현금/카드로 결제하는 것이 일반적이어서 오정보가 포함돼 있습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-23T14:05:04.997Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-23T14:05:24.663Z"
   }
 ]
