@@ -55221,5 +55221,34 @@
     },
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-23T01:06:05.638Z"
+  },
+  {
+    "id": "95359165-9ada-4ca7-ac48-b46454de9a4b",
+    "text": "Tap your T-money card twice at the Seoul subway transfer and you lose money without knowing it.\n\nThe exact amount you lose depends on the card type and remaining balance, but it's around 200-300 won.\n\nOne practical observation is that many subway signs still use the older McCune-Reischauer spelling of station names, like 'Hongik Univ' instead of 'Hongdae'. One caution is that even the Revised Romanization on signs might not match the spelling on your map or guidebook. Did this confuse you too?\n\n🇯🇵 T-moneyカードを二度タップすると、不注意でお金が無駄になることがある。 その金額はカードのタイプや残額によって異なるが、200-300ウォンぐらいになる。 駅名の表記が古い McCune-Reischauer式のままの駅名表示が多くあることに注意。 さらに、駅名の表記がマップや案内書と一致しない場合もある。 こんなことには困ったことがあるか?\n\n🇨🇳 使用T钱卡在首尔地铁换乘时，可能会不小心花费钱。具体金额取决于卡类型和余额，但大约在200-300韩元。注意到地铁站牌上仍然使用较旧的McCune-Reischauer拼写的站名，如‘Hongik Univ’而不是‘Hongdae’。即使是改良的罗马字表记也不一定与地图或导游书上的拼写一致。你们也遇到过这样的情况吗?\n\n🇹🇼 使用T錢卡在首爾地鐵轉乘時，可能會不小心花費錢。具體金額取決於卡類型和餘額，但大約在200-300韓元。注意到地鐵站牌上仍然使用較舊的McCune-Reischauer拼寫的站名，如‘Hongik Univ’而不是‘Hongdae’。即使是改良的羅馬字表記也不一定與地圖或導游書上的拼寫一致。大家也遇到過這樣的狀況嗎??",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-23T14:15:01.713Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-23T02:43:59.439Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Learning to read Hangul in a weekend — and why romanized signs still confuse you",
+    "qualityGate": {
+      "pass": false,
+      "reason": "캡션의 앞부분이 T‑money 카드 두 번 태깅으로 인한 금전 손실을 다루어 주제인 한글 학습 및 로마자 표기 혼란과 직접적인 연관성이 부족합니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-23T02:43:57.546Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-23T02:43:59.426Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-learning-to-read-hangul-in-a-weekend-and-why-romanized-signs-still-confuse-you.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
