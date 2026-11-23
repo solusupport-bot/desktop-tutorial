@@ -56112,5 +56112,39 @@
       "checkedAt": "2026-11-23T17:08:39.211Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-busan-haeundae-beach-gamcheon-culture-village.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "8d280721-99fe-470b-969b-51f9b9d4d7bb",
+    "text": "Jeju Island has no train connection to the mainland.\n\nRent a car to explore the island's sparse bus routes and long distances between sights.\n\nDon't leave rain gear behind, even in summer.\n\n📖 Full guide: https://landinkorea.com/posts/korea-jeju-island.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post\n\n🇯🇵 제주도에는 대륙과 철도 연결이 없습니다.\n대중교통이 희박한 섬을 탐험하기 위해 렌트카를 이용하세요.\n여름에도 비가 오는 것을 기억하세요.\n#Land in Korea\n\n🇨🇳 济州岛与大陆没有铁路连接。\n租车探索岛屿稀疏的公交线路和远离景点。\n即使是在夏天，也别忘了带雨具。\n#Land in Korea\n\n🇹🇼 濟州島與大陸沒有鐵路連接。\n租車探索島嶼稀疏的公車線路和離景點遙遠。\n即使是在夏天，也別忘了帶雨具。\n#Land in Korea",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795454089509-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795454089509-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-24T08:31:04.379Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-23T17:14:52.701Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/gbb872bbf4e2c55937a1e3bb73c1790055f407a368c6244f18a78a8384c196b555f6c56b4b30d12d4d17e3d63120b5736c0ca15784410c89970159fb035db52f1_1280.jpg#pixabay=1594590"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Jeju Island",
+    "qualityGate": {
+      "pass": false,
+      "reason": "가격/시간/운영 여부 등 구체적 사실 주장이 과장되거나 의심스럽지 않다. 예를 들어 'a few hours'는 정확한 시간을 제공하지 않으며, 'summer'에 대해 주의를 주는 부분이 있다.",
+      "model": "groq",
+      "checkedAt": "2026-11-23T17:12:32.970Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-23T17:14:52.680Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-jeju-island.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]

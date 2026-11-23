@@ -1,5 +1,5 @@
 {
-  "lastIndex": 4,
+  "lastIndex": 5,
   "history": [
     {
       "index": 22,
@@ -402,6 +402,12 @@
       "topic": "Busan Haeundae Beach & Gamcheon Culture Village",
       "at": "2026-11-23T17:07:46.098Z",
       "source": "threads-fill"
+    },
+    {
+      "index": 5,
+      "topic": "Jeju Island",
+      "at": "2026-11-23T17:10:59.050Z",
+      "source": "facebook-fill"
     }
   ],
   "recentImageUrls": [
@@ -1693,7 +1699,8 @@
     "https://pixabay.com/get/g1330dbfbed8fde09e3c567f4262b61712255c0ba2c50ac24964bbeb22097225acfc903af3ed258ed1cd9d2e085aa9e4f2736ffc4278f56fad429164ccac1e320_1280.jpg#pixabay=4537178",
     "https://pixabay.com/get/g371ba1ed3188ff86fb4524ef1f626a187c48d2c2129963721ad2ebe3cd313f7a622f6401c19f2dec95dfe2ee298efd574d6bfa7f50ffc131054be1c53a591ba6_1280.jpg#pixabay=1000562",
     "https://pixabay.com/get/g6148e8127f3afc7f1de7a860359c263f26f509f45020b5f01e457f32731b0e2544cf0f87bf53b1bb307998bdd3074ac7bd42608c8d48814ca8c4db722f48bd29_1280.jpg#pixabay=7713364",
-    "https://pixabay.com/get/g86427fa0595d9de88639e770ad943aa93eaef7f2a694a31d7445c630ba8fb3aa910746ba1defcfa83cb94b321b963c22_1280.jpg#pixabay=75137"
+    "https://pixabay.com/get/g86427fa0595d9de88639e770ad943aa93eaef7f2a694a31d7445c630ba8fb3aa910746ba1defcfa83cb94b321b963c22_1280.jpg#pixabay=75137",
+    "https://pixabay.com/get/gbb872bbf4e2c55937a1e3bb73c1790055f407a368c6244f18a78a8384c196b555f6c56b4b30d12d4d17e3d63120b5736c0ca15784410c89970159fb035db52f1_1280.jpg#pixabay=1594590"
   ],
   "recentVideoUrls": [
     "https://videos.pexels.com/video-files/19577787/19577787-uhd_2160_3840_30fps.mp4",
