@@ -459,7 +459,12 @@ write_homepage`를 쓰는지 **무조건** 검사한다(예전엔 "import가 있
   (`/ai/models/search`)을 받아 이미 폐기됐거나 30일 안에 폐기 예정인 모델은 건너뛰고, 지정 모델이
   전부 못 쓰게 되면 목록에서 비전 모델을 자동 선택한다(`pickCloudflareModels`). 이 자동 전환을
   없애고 모델 이름을 하나로 고정하지 말 것. 테스트: `node --test lib/ingestion/media_guard_models.test.js`.
-- **Facebook = 이미지 앨범 고정.** 한동안 영상(Reels)을 우선했지만 실제 반응은 이미지가
+- **Facebook·Instagram = 되도록 영상 (2026-11-23 사용자 지시: "페이스북도 영상이 조회수가 잘나오니까
+  되도록이면 영상으로 하자", "인스타 등록이 안되고 있어").** 순서: ① 한국 확인 영상 클립 몽타주/단일
+  → ② 클립이 없으면 검증 통과한 한국 사진(`SLIDESHOW_PHOTO_TARGET`=3장)으로 음악 슬라이드 영상
+  (`attachPhotoSlideshow`, 예전엔 제휴 주제만) → ③ 그것도 실패하면 페이스북은 사진 1장, 인스타는 건너뜀.
+  같은 영상을 페이스북·인스타가 함께 쓴다. 아래 "이미지 앨범 고정"은 이 지시로 대체됨.
+- ~~**Facebook = 이미지 앨범 고정.**~~ (2026-11-23 영상 우선으로 대체) 한동안 영상(Reels)을 우선했지만 실제 반응은 이미지가
   더 좋았음 — 이론적 수치보다 실측을 우선한다. (`scripts/daily-auto-post.js`의
   `mediaByPlatform.facebook`)
   **2026-11-17 페이스북 형식·시간·UTM 변경(사용자 지시):**
