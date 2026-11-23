@@ -455,7 +455,10 @@ write_homepage`를 쓰는지 **무조건** 검사한다(예전엔 "import가 있
   llava 비전 모델 폐기 + Groq 하루 한도로 사진 검증이 전부 실패하자, `queue_topic.js`의
   `TEXT_ONLY_OK`에 facebook이 들어 있어 글만 나갔다. facebook을 그 목록에서 뺐고, `run.js`도
   미디어 없는 페이스북 행은 건너뛴다. 비전 모델은 `media_guard.js`에서 gemma-4 → moondream3.1 → Groq
-  순서. Workers AI 모델 폐기 공지(changelog)를 주기적으로 확인할 것.
+  순서. **모델 폐기 자동 대응 (사용자: "기간 없도록 설정해줘")**: 실행마다 Workers AI 모델 목록
+  (`/ai/models/search`)을 받아 이미 폐기됐거나 30일 안에 폐기 예정인 모델은 건너뛰고, 지정 모델이
+  전부 못 쓰게 되면 목록에서 비전 모델을 자동 선택한다(`pickCloudflareModels`). 이 자동 전환을
+  없애고 모델 이름을 하나로 고정하지 말 것. 테스트: `node --test lib/ingestion/media_guard_models.test.js`.
 - **Facebook = 이미지 앨범 고정.** 한동안 영상(Reels)을 우선했지만 실제 반응은 이미지가
   더 좋았음 — 이론적 수치보다 실측을 우선한다. (`scripts/daily-auto-post.js`의
   `mediaByPlatform.facebook`)
