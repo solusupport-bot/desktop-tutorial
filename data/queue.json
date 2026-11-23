@@ -55250,5 +55250,34 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-23T02:43:59.426Z",
     "blogUrl": "https://landinkorea.com/posts/korea-learning-to-read-hangul-in-a-weekend-and-why-romanized-signs-still-confuse-you.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "46c4c688-dcfc-49bd-aa81-311139579972",
+    "text": "📖 Tap once for exit, tap again for entry at Jongno 3-ga transfer to avoid losing money. Small clinics like those with signs ending in 의원 (uiwon) handle everyday illness quickly and take walk-ins. Large hospitals often expect a referral and charge more. 📖 Full guide: https://landinkorea.com/posts/korea-hospital-vs-clinic-vs-pharmacy-in-korea-where-to-actually-go-when-you-get-sick.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post\n\n🇯🇵 Land in Korea에서 소개하는 경주에 있는 아름다운 호텔에서 1박을 즐기세요! \n ₩120,000의 저렴한 가격으로 호텔의 모든 시설을 즐겨보세요! \n #LandInKorea #Hotel #Korea\n\n🇨🇳 Land in Korea为您推荐韩国的酒店! \n 在韩国的酒店中度过美好的夜晚! \n ₩120,000的超值价格! \n #LandInKorea #Hotel #韩国\n\n🇹🇼 Land in Korea建議您住進韓國的飯店! \n 在飯店中度過美好的夜晚! \n ₩120,000的超值價格! \n #LandInKorea #飯店 #韓國",
+    "imageUrl": null,
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-23T22:47:46.443Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-23T02:57:27.923Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Hospital vs. clinic vs. pharmacy in Korea: where to actually go when you get sick",
+    "qualityGate": {
+      "pass": false,
+      "reason": "캡션 내용이 병원·클리닉·약국과 전혀 무관한 교통 요금 안내라 주제와 관련성이 없음",
+      "model": "groq",
+      "checkedAt": "2026-11-23T02:57:26.579Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-23T02:57:27.911Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-hospital-vs-clinic-vs-pharmacy-in-korea-where-to-actually-go-when-you-get-sick.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]
