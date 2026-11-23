@@ -56286,5 +56286,96 @@
       "pattern": "A"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-suwon-hwaseong-fortress.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "bd56e889-ab1c-46a3-9dea-1e516f99b7c1",
+    "text": "Korea looks cash-optional right up until you're standing in a market that only takes cash — and by then it's too late to plan for it.\n\nMost cafes, convenience stores, and restaurants in cities accept card, including foreign Visa/Mastercard, though small traditional markets and some rural spots may be cash-only.\n\nAirport and city-center ATMs marked 'Global' or with a foreign card logo accept international cards; look for Woori, KEB Hana, or 7-Eleven ATMs for the most reliable acceptance.\n\nAnyone else lose money on this mistake?",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-23T21:34:02.170Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-23T19:01:30.551Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Currency & card payments",
+    "qualityGate": {
+      "pass": false,
+      "reason": "첫 줄 규칙 위반: facebook: 최근 30일 안에 쓴 첫 줄 재사용",
+      "model": "rule",
+      "failedPlatforms": [
+        "facebook"
+      ],
+      "checkedAt": "2026-11-23T19:01:29.589Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-currency-card-payments.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "14a8ac1a-437c-4bb7-bb4f-75d1dfec935b",
+    "text": "24-hour convenience stores are everywhere in Korea.\n\n24-hour pharmacies are not — and most travelers only find out the hard way.\n\nLate-night pharmacies do exist but are far less common — look for a green cross sign, and ask staff or a hotel front desk for the nearest one open after hours. What would you add for someone landing tomorrow?\n\n🇯🇵 韓国では24時間営業のコンビニが至る所にありますが、24時間営業の薬局はそうではありません。ほとんどの旅行者は、困ったときに初めてそのことに気づきます。深夜営業の薬局は存在しますが、はるかに数が少ないです。緑色の十字架の標識を探し、スタッフまたはホテルのフロントに営業時間外に営業している最寄りの薬局を尋ねてください。明日到着する方のために、何か付け加えることはありますか？\n\n🇨🇳 24小时便利店在韩国随处可见。但24小时药店却不是这样——大多数旅客只有在遇到麻烦时才会发现这一点。深夜药房确实存在，但远不常见。请留意绿色十字标志，并询问工作人员或酒店前台，了解最近的营业至深夜的药房。对于明天就要抵达的人，您还会补充哪些信息？\n\n🇹🇼 在韓國，24 小時營業的便利商店到處都是。但 24 小時營業的藥局卻不是如此，大多數旅客都得吃過虧才會知道。深夜藥局確實存在，但遠不如便利商店普遍。請留意綠色十字標誌，並詢問工作人員或飯店櫃台，了解最近的深夜藥局在哪裡。你會為明天就要抵達的人補充哪些資訊？",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-23T21:05:59.417Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-23T19:03:38.185Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Emergency numbers & 24hr pharmacies",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq와 Cloudflare 둘 다 실패했습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-23T19:03:27.634Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-23T19:03:38.171Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-emergency-numbers-24hr-pharmacies.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "afdfb31f-6257-4fcd-b4fe-91b6d00d21f7",
+    "text": "Google Maps quietly stops being useful the moment you land in Korea — and most first-timers don't find out until they're already lost.\n\nNaver Map or KakaoMap work far better for walking/transit directions here, since Google's local data is limited.\n\nPapago handles Korean translation, including camera translation for menus and signs, more naturally than most general translation apps. Worth knowing before you land? Reply with what surprised you.\n\n🇯🇵 Googleマップは、韓国に到着した瞬間から静かに役に立たなくなります。初めて訪れる人のほとんどは、すでに迷子になってからそれに気づきます。Googleの現地データが限られているため、ここではNaver MapやKakaoMapの方が徒歩や公共交通機関のルート案内においてはるかに優れています。Papagoは、メニューや看板のカメラ翻訳を含む韓国語の翻訳を、一般的な翻訳アプリの多くよりも自然に行います。入国前に知っておくべきことはありますか？驚いたことをお答えください。\n\n🇨🇳 您抵达韩国的那一刻起，Google 地图就悄然失去了作用——大多数初来乍到的人直到迷路时才发现这一点。由于谷歌的本地数据有限，Naver地图或Kakao地图在这里的步行/公共交通路线指引效果要好得多。Papago 在处理韩语翻译方面比大多数通用翻译应用程序更加自然，包括对菜单和标志的摄像头翻译。在抵达之前值得了解的信息有哪些？请回复让您感到意外的事情。\n\n🇹🇼 當您抵達韓國的那一刻起，Google 地圖就悄悄地不再好用了——大多數初次造訪的人直到迷路時才發現這一點。由於 Google 的當地資料有限，因此 Naver Map 或 KakaoMap 在這裡的步行／交通路線指引方面表現得更好。Papago 在處理韓文翻譯方面，包括菜單和標誌的相機翻譯，都比大多數一般翻譯應用程式更自然。在抵達前值得知道的事有哪些？請回覆讓您感到驚訝的事情。",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-23T19:14:31.556Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-23T19:03:47.864Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Useful travel apps",
+    "qualityGate": {
+      "pass": false,
+      "reason": "첫 줄 규칙 위반: threads: 최근 30일 안에 쓴 첫 줄 재사용",
+      "model": "rule",
+      "failedPlatforms": [
+        "threads"
+      ],
+      "checkedAt": "2026-11-23T19:03:42.418Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-23T19:03:47.850Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-useful-travel-apps.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
