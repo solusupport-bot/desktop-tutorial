@@ -56681,5 +56681,98 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-23T21:53:09.844Z",
     "blogUrl": "https://landinkorea.com/posts/korea-bus-travel-inside-korean-cities-color-codes-tag-off-transfers-and-why-you-must-flag-the-bus.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "cf33a7f9-5aeb-4157-b9a7-2d8b0cc6d821",
+    "text": "KTX gets all the attention, but Korea's slower trains are often the smarter choice for short hops.\n\nMugunghwa-ho is the cheapest and stops almost everywhere; ITX-Saemaeul and ITX-Cheongchun are mid-tier, faster, and still much cheaper than KTX.\n\nFor destinations like Chuncheon, Jeongdongjin, or towns along the Jungang line, KTX either doesn't go or doesn't save meaningful time once you factor in getting to the KTX station. Anyone else lose money on this mistake?\n\n🇯🇵 短距離は最安のムグンファ号がほぼ全駅に停まり、賢い選択です。\n\n🇨🇳 短途旅行最便宜的穆昆花号几乎停靠所有站，是更聪明的选择。\n\n🇹🇼 短途旅行最便宜的穆昆花號幾乎停靠所有站，是更聰明的選擇。",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795474501080-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795474501080-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-23T23:14:47.151Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-23T22:55:55.978Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g9625ed5e089beab81c9a303481ead3a79f687ef25d59a735cf7c6457bb96a2ef1f882ef90fbe7ebae373953b121944050393babe75a0a1e760ba4581da2bef10_1280.jpg#pixabay=2599118",
+      "https://pixabay.com/get/gc2c2e836ff041dcb1af840aa0ff199b07fd3e2396ed57e5fa9912c8e3bacc482d0affe1d2e5b058a47e730fddc4ca53deaa470add046c4449fbcbff2cadac277_1280.jpg#pixabay=2599123"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Day-tripping from Seoul by regular train: Mugunghwa, ITX-Saemaeul, and the Gyeongui-Jungang line",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq와 Cloudflare 둘 다 실패했습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-23T22:54:49.579Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-23T22:55:55.952Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-day-tripping-from-seoul-by-regular-train-mugunghwa-itx-saemaeul-and-the-gyeongui-jungang-line.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "5648127e-5f0f-43ea-af4f-d77bd84a8599",
+    "text": "Long-stay renters quickly learn that Korean apartments and officetels usually come with a washer but no dryer, and laundry is hung on a folding rack indoors or on the enclosed balcony.\n\nMachines default to cold water and Korean-labeled cycles, where 표준 (standard) is the safe everyday setting, and detergent goes in the left compartment with softener in the flower-marked one.\n\nFor bulky bedding, winter coats, or suits, the neighborhood 세탁소 (dry cleaner) is cheap by international standards and many will pick up and drop off at your door; app-based laundry pickup services now do the same using lockers or doorstep collection.\n\nWhat would you add for someone landing tomorrow?",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-23T23:38:17.413Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-23T22:57:16.766Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Doing laundry in Korea: coin laundromats, the dryer problem, and neighborhood dry cleaners",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq와 Cloudflare 둘 다 실패했습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-23T22:56:22.648Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-23T22:57:16.748Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-doing-laundry-in-korea-coin-laundromats-the-dryer-problem-and-neighborhood-dry-cleaners.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "96d2338d-e091-43ba-b1bd-4cbd1fd772a3",
+    "text": "Korea's main palaces don't all close on the same day, which wrecks a lot of tightly planned itineraries.\n\nGyeongbokgung takes Tuesday off, while Changdeokgung, Changgyeonggung, Deoksugung and Jongmyo close on Mondays — so a Monday in Seoul quietly becomes a Gyeongbokgung day whether you planned it or not.\n\nMany city-run and national museums and art galleries also observe a weekly closing day, most often Monday, and ticket booths typically stop selling about an hour before the gates shut.\n\nWorth knowing before you land? Reply with what surprised you.",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-23T23:49:14.423Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-23T22:57:56.350Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "The closed-on-Monday trap: how Korean palaces and museums schedule their days off",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq와 Cloudflare 둘 다 실패했습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-23T22:57:42.976Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-23T22:57:56.333Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-the-closed-on-monday-trap-how-korean-palaces-and-museums-schedule-their-days-off.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
