@@ -56151,5 +56151,96 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-23T17:14:52.680Z",
     "blogUrl": "https://landinkorea.com/posts/korea-jeju-island.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "bb91bf87-37c6-44ed-802f-a7c6d51c0717",
+    "text": "If you're planning a full-day Everland trip with kids, don't assume the subway access is as convenient as Lotte World's — most first-timers don't realize the transit gap until they're already planning the day.\n\nEverland's outdoor layout and larger rides suit a full-day trip better, especially with kids who want the safari section. Lotte World works well as a half-day add-on to a Jamsil-area day since it's indoors and weather-proof.\n\nIf you're traveling with kids, consider the 1.5-hour train ride from Seoul Station to Everland and plan accordingly. To avoid last-minute stress, research your transportation options carefully. Did this confuse you too?\n\n🇯🇵 エバーランド旅行で、子ども連れで1日を過ごす場合、ロッテワールドのような近い駅のアクセスを期待しないでください。\n\n🇨🇳 如果你打算带小孩去全天度过在Everland的旅行，千万别以为地铁的接触是像Lotte World一样方便的，\n\n🇹🇼 如果你打算帶小孩去全天度過在Everland的旅行，千萬別以為地鐵的接觸是像Lotte World一樣方便的，",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-23T20:31:26.876Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-23T17:49:09.011Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Everland vs. Lotte World theme parks",
+    "qualityGate": {
+      "pass": false,
+      "reason": "위에서 말한 주제와 실제로 관련 있는 내용이 아닌 '이유'가 있는 설명이 많아 실제 주제와 관련이 명확하지 않다.",
+      "model": "groq",
+      "checkedAt": "2026-11-23T17:46:18.494Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-23T17:49:08.986Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-everland-vs-lotte-world-theme-parks.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "8b233251-0665-44be-9bb0-5e3c7db9b487",
+    "text": "Don't visit Hongdae in the afternoon if you want to see live busking performances, which cluster around Hongdae Playground on weekend evenings. The busking usually starts around 6 PM. One practical tip: try to arrive by 7 PM to catch the performances. One caution: the streets can get crowded and noisy. Did this confuse you too?\n\n🇯🇵 午後の時点で、 홍대에 방문すると、周辺の公園で週末の夜に集まるストリートパフォーマンスを見逃す可能性があります。\n\n🇨🇳 如果下午去hongdae，周末晚上在周围公园里的街头表演你可能会错过。\n\n🇹🇼 如果下午去弘大，周末晚上在周圍公園里的街頭表演你可能會錯過。",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-23T20:38:50.012Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-23T17:49:46.120Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Hongdae nightlife and youth culture district",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 맞고, 문장이 자연스럽고, 사실도 의심스럽지 않으며 여행자에게 유용한 정보를 제공한다",
+      "model": "groq",
+      "checkedAt": "2026-11-23T17:49:30.636Z",
+      "pattern": "A"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-hongdae-nightlife-and-youth-culture-district.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "b5f64742-dd07-4036-a9dc-cf67d3e1e536",
+    "text": "You're about to book a Nami Island and Petite France day tour from Seoul, but don't do it yet if you're traveling in the spring or autumn seasons.\n\nThe trip runs about 1 to 1.5 hours each way from central Seoul, making it a full-day commitment rather than a quick add-on. Autumn (for foliage) and spring are the busiest seasons — weekday visits noticeably cut down on the crowds along the main paths.\n\nOne practical observation is that visiting on a weekday can make a big difference in crowd levels. One caution is to plan your visit accordingly to avoid the crowds. Did this confuse you too? Open the Land in Korea link in our profile for more tips.\n\n🇯🇵 セウルの中心から1時間から1.5時間かかるため、春や秋のシーズンには予約をしないでください。\n\n🇨🇳 不要在春秋季节预订这次旅行，因为从首尔中心到目的地大约需要1到1.5小时，整个旅程需要一整天。\n\n🇹🇼 不要在春秋季預訂這次旅行，因為從首爾中心到目的地大約需要1到1.5小時，整個旅程需要一整天。",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795456355755-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795456355755-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-23T22:18:35.924Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-23T17:52:37.924Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/gb645c4dce5ee2687eed47df532ac8b30a9f974bd6cf1caee1486a5c9386604b1f5efa0477f5eb8a9b879b5a4e4f5ccccdc0e1b90897a57adbf7b76c2dcd71056_1280.jpg#pixabay=3381419"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Nami Island and Petite France day trip",
+    "qualityGate": {
+      "pass": false,
+      "reason": "캡션은 주제와 관련이 있으나, 자연스럽고 완성된 문장이 아닌 반복되는 경고를 포함하고 있어 발행에 적합하지 않다.",
+      "model": "groq",
+      "checkedAt": "2026-11-23T17:50:44.947Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-23T17:52:37.900Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-nami-island-and-petite-france-day-trip.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
