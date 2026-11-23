@@ -55190,5 +55190,36 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-22T23:28:48.006Z",
     "blogUrl": "https://landinkorea.com/posts/korea-tipping-and-service-charges.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "c4f59f77-d18c-49a7-8657-6ef92b3f9544",
+    "text": "Tap your T-money card twice at the popular Myeong-dong transfer and you lose money without knowing it.\n\nWeekday mornings are dramatically quieter at the same spots, and ordinary neighborhood streams, university campuses, and apartment-complex streets bloom just as hard with almost nobody there.\n\nSave this for your Korea trip! 🌸\n\n📖 Open the Land in Korea link in our profile and search “Timing cherry blossoms and fall foliage in Korea without hitting peak crowds”.\n\n🎬 Video source: Pixabay\n\n#KoreaTravel #CherryBlossom #FallFoliage #Seoul #Myeong-dong\n\n🎵 \"Anima Pop - Ink\" by Vienna In Love is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1795395719110-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-11-23T02:44:09.719Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-23T01:06:05.655Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/35093493/pexels-photo-35093493.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/03/27/112146-693362076_large.mp4",
+    "videoAttribution": "Pixabay",
+    "topic": "Timing cherry blossoms and fall foliage in Korea without hitting peak crowds",
+    "qualityGate": {
+      "pass": false,
+      "reason": "첫 문장이 벚꽃·단풍 시기와 무관하고 혼란을 주어 주제와 일치하지 않아 품질 기준에 미달합니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-23T01:01:45.895Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-23T01:06:05.638Z"
   }
 ]
