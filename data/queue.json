@@ -55317,5 +55317,39 @@
       "checkedAt": "2026-11-23T05:18:41.416Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-the-closed-on-monday-trap-how-korean-palaces-and-museums-schedule-their-days-off.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "f7dafdfb-637e-46f3-9fd1-da6d69e57ee1",
+    "text": "Korean hikers favor full technical kit, and brand-name outdoor shops plus discount sporting-goods chains make it easy to pick up cheap trekking poles, gloves or rain shells locally.\n\nNational parks also close selected trails during spring and autumn wildfire-prevention periods and in winter for safety.\n\nMost trailheads have restrooms and a cluster of restaurants serving pajeon, tofu stew and bibimbap for the post-hike meal.\n\n📖 Full guide: landinkorea.com\n\n🇯🇵 韓国ハイカーは、フルテクニックキットを身に付けて、ブランド名のアウトドアショップや割引スポーツ用品チェーンで安い登山杖や手袋、雨着などを購入しやすい。国立公園では春と秋の防火期間中に指定されたトレイルを閉鎖し、冬季は安全のため閉鎖される。多くのトレイルヘッドにはトイレと、パジェオンや豆腐スープ、ビビンバなどを提供するレストランが集まっている。\n\n📖 全ガイド: landinkorea.com\n\n🇨🇳 韩国登山者喜欢带全套装备，且品牌户外商店和打折运动用品连锁店让购买便宜的登山杖、手套或雨衣变得容易。国家公园在春秋防火期间关闭部分路线，在冬季则因安全原因关闭路线。大部分登山出发点有卫生间，附近有餐厅供应泡菜饼、豆腐汤和米饭碗作为下坡餐。\n\n📖 全部指南: landinkorea.com\n\n🇹🇼 韓國登山者喜歡帶全套裝備，且品牌戶外商店和打折運動用品連鎖店讓購買便宜的登山杖、手套或雨衣变得容易。國家公園在春秋防火期間關閉部分路線，在冬季則因安全原因關閉路線。大部分登山出發點有衛生間，附近有餐廳供應泡菜饼、豆腐湯和米飯碗作為下坡餐。\n\n📖 全部指南: landinkorea.com",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795411890699-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795411890699-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-23T22:30:07.556Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-23T05:31:34.303Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/26594659/pexels-photo-26594659.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Hiking in Korea like a local: subway-accessible peaks, seasonal trail closures, and the gear culture",
+    "qualityGate": {
+      "pass": false,
+      "reason": "주제가 요구하는 '지하철 접근 가능 정상'과 '장비 문화'에 대한 언급이 없으며, 내용이 주제와 완전히 일치하지 않는다",
+      "model": "groq",
+      "checkedAt": "2026-11-23T05:31:30.699Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-23T05:31:34.286Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-hiking-in-korea-like-a-local-subway-accessible-peaks-seasonal-trail-closures-and-the-gear-culture.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]
