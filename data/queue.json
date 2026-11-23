@@ -55356,5 +55356,34 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-23T05:31:34.286Z",
     "blogUrl": "https://landinkorea.com/posts/korea-hiking-in-korea-like-a-local-subway-accessible-peaks-seasonal-trail-closures-and-the-gear-culture.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "bc8c6218-d888-4a39-9fec-af5b3163a6d3",
+    "text": "Tap your T-money card twice at the DMZ tour gate and you'll be turned away for violating the JSA dress code.\n\nThe JSA dress code is enforced, not a suggestion: no sleeveless shirts, no shorts, no sandals, and no military-patterned clothing.\n\nMost operators set a minimum age around 12 for JSA, with anyone under 18 needing a guardian, and nationality restrictions apply for security reasons. Be sure to check with your tour operator before booking. Did this confuse you too? Open the Land in Korea link in our profile for more info.\n\n🇯🇵 DMZツアーでJSA規制を破った場合は、T-moneyカードを2回タップすると門を出られません。\n\n🇨🇳 在DMZ游览时，违反JSA规则会被拒绝进入，JSA规则是严格的，不是建议，\n\n🇹🇼 在DMZ旅遊時，違反JSA規則會被拒絕進入，JSA規則是嚴格的，不是建議，",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-23T12:41:08.003Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-23T09:57:51.974Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "DMZ and JSA tours",
+    "qualityGate": {
+      "pass": false,
+      "reason": "T‑money 카드를 두 번 찍으면 JSA 복장 규정 위반으로 입장이 거부된다는 내용은 사실과 다르며, 주제와 일관되지 않아 품질 기준을 만족하지 못합니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-23T09:01:12.918Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-23T09:57:51.954Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-dmz-and-jsa-tours.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
