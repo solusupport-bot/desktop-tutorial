@@ -56242,5 +56242,38 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-23T17:52:37.900Z",
     "blogUrl": "https://landinkorea.com/posts/korea-nami-island-and-petite-france-day-trip.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "fc79baa3-da67-4702-8277-3c328cbd758c",
+    "text": "🚶‍♀️ Walk the 3-kilometer Hwaseong Fortress wall in Suwon city. 🏯 The wall was built in 1796 and still encircles much of old Suwon city. 📖 Full guide: https://landinkorea.com/posts/korea-suwon-hwaseong-fortress.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post\n\n🎵 \"Korean taste (146 bpm)\" by Prana Yama is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.\n\n🇯🇵 수원시의 화성성墙を3キロメートル歩きましょう! 🚶‍♀️ 1796年に建設されたこの城壁は今でも旧市街を取り囲んでいます。 🏯\n\n🇨🇳 在苏城的华城城墙,我们来走走3公里吧! 🚶‍♀️ 这座城墙建于1796年,现在仍然围绕着老城区。 🏯\n\n🇹🇼 走走3公里的水原市的華城城牆! 🚶‍♀️ 這座城牆建於1796年,現在仍圍繞著舊市區。 🏯",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1795456655383-instagram.mp4",
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-24T00:45:25.875Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-23T17:57:37.314Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/gd47336ee3a845bc9f03b82e7fd10a0539e8e6e97251585620eca5ac83d575e14bc5b61c2023dd28cea6e724adc941048a3fdc39334dcb7f0e59aa418339afc4b_1280.jpg#pixabay=3890481",
+      "https://images.pexels.com/photos/34466990/pexels-photo-34466990.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://pixabay.com/get/g588cc2de198362a36a68a2ea7b1e1e7b65aaf98f7f35b94b425966cde1f47e4374d565959517f12668526d4493c82edf11d99f42b076d4cbf77f1180fd038847_1280.jpg#pixabay=4946628"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Suwon Hwaseong Fortress",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽고 사실도 크게 과장되지 않아 여행 콘텐츠로 충분히 유용합니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-23T17:54:43.773Z",
+      "pattern": "A"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-suwon-hwaseong-fortress.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]
