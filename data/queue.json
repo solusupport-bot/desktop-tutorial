@@ -54768,8 +54768,12 @@
       "instagram"
     ],
     "scheduledAt": "2026-11-23T01:30:27.840Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "18604460818070710"
+      }
+    },
     "createdAt": "2026-11-22T08:34:30.911Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -54787,7 +54791,8 @@
       "model": "groq",
       "checkedAt": "2026-11-22T08:30:56.138Z",
       "pattern": "A"
-    }
+    },
+    "processedAt": "2026-11-23T21:13:05.926Z"
   },
   {
     "id": "40ae5618-28a9-4f23-9040-5a6511a3f454",
