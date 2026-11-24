@@ -58651,5 +58651,62 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-24T16:56:51.224Z",
     "blogUrl": "https://landinkorea.com/posts/korea-public-bathhouse-culture-in-korea-beyond-the-jjimjilbang-the-mogyoktang-rules.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "6df7a1fb-8666-47d6-9e26-59bf03a9e8cf",
+    "text": "Don't assume the clinic down the street has everything you need when you get sick in Korea, and <1 minute's walk from most clinics is a pharmacy where you can fill a doctor's prescription. You'll pay the full uninsured rate without national health insurance, but it's still cheaper than in many Western countries. Many clinics close for a lunch hour and are shut on Sundays and holidays. Save this for your trip.\n\nPharmacies (yakguk) are separate from clinics in Korea - doctors write a prescription and you fill it at a nearby pharmacy. Pharmacists can recommend over-the-counter medicine directly for mild symptoms, and many are used to gesturing and simple English. Ask for an itemized receipt and diagnosis certificate before leaving.\n\nClinics in Korea are surprisingly affordable, but travel insurance receipts matter. Don't assume you're covered without checking. Did this confuse you too? Open the Land in Korea link in the profile for more info.\n\n🇯🇵 韓国で病気になったら、近くの薬局(薬局)に行くことも考えておいてください。\n\n🇨🇳 如果你在韩国生病了，千万别以为附近的诊所就有你需要的东西，你可以走一分钟的路程到附近的药店去拿医生的处方。\n\n🇹🇼 如果你在韓國生病了，千萬別以為附近的診所就有你需要的東西，你可以走一分鐘的路程到附近的藥店去拿醫生的處方。",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-24T22:16:55.716Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-24T17:32:44.319Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Hospital vs. clinic vs. pharmacy in Korea: where to actually go when you get sick",
+    "qualityGate": {
+      "pass": false,
+      "reason": "문장이 일부 부자연스럽고 '<1 minute's walk' 같은 표현이 어색해 품질 기준을 충족하지 못합니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-24T17:31:57.242Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-24T17:32:44.300Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-hospital-vs-clinic-vs-pharmacy-in-korea-where-to-actually-go-when-you-get-sick.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "e998e41e-0d08-4fd6-998f-356e13178897",
+    "text": "You show up at a cafe in Korea and it's laptop-friendly, but you're not sure if you can stay for hours without buying a drink. 1/5\nYou can usually stay for hours at large franchise cafes like Starbucks, Twosome Place, and Hollys without buying a drink, as long as you order something at the beginning.\nThat's because they make most of their money from drinks, not food.\nBut be aware that independent dessert cafes and small photogenic spots often ban laptops entirely or on weekends, so check the door sticker before settling in.\nDid this confuse you too?\n\nYou show up at a cafe in Korea and it's laptop-friendly, but you're not sure if you can stay for hours without buying a drink. 2/5\nAt Starbucks, you can usually stay for 2-3 hours without buying another drink, but it's always best to ask the staff.\nThey'll let you know if there are any specific rules or promotions going on.\nIt's also a good idea to order a drink or snack at the beginning to avoid any awkward conversations.\nWhat's your experience with cafe rules in Korea?\n\nYou show up at a cafe in Korea and it's laptop-friendly, but you're not sure if you can stay for hours without buying a drink. 3/5\nSome cafes, like Twosome Place, have a 'free refill' policy for drinks, which means you can get a free refill after a certain amount of time.\nThis is usually after 1-2 hours, depending on the cafe.\nJust be aware that this policy might change, so it's always best to check with the staff.\nHave you ever taken advantage of a cafe's free refill policy in Korea?\n\nYou show up at a cafe in Korea and it's laptop-friendly, but you're not sure if you can stay for hours without buying a drink. 4/5\nIf you're planning to stay for an extended period, it's always a good idea to ask the staff if they have any promotions or deals going on.\nThey might offer you a discount or a free drink if you buy a certain amount of food.\nJust be polite and respectful, and they'll likely be happy to help.\nDid you ever get a good deal at a cafe in Korea?\n\nYou show up at a cafe in Korea and it's laptop-friendly, but you're not sure if you can stay for hours without buying a drink. 5/5\nThe best way to avoid any confusion or awkward conversations is to simply ask the staff if you can stay for a while.\nThey'll let you know the rules and any specific promotions going on.\nSave this for your Korea trip!\n\nOpen the Land in Korea link in our profile for more tips on navigating cafe culture in Korea.",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-24T21:28:54.710Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-24T17:35:40.945Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Cafes as workspaces in Korea: unspoken rules of study cafes, franchise chains, and 'no-laptop' signs",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련이 있으며, 문장이 자연스럽고 완성돼 있으며, 사실 주장이 과장되거나 의심스럽지 않으며, 여행 콘텐츠로서 유용성이 있다.",
+      "model": "groq",
+      "checkedAt": "2026-11-24T17:34:29.495Z",
+      "pattern": "A"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-cafes-as-workspaces-in-korea-unspoken-rules-of-study-cafes-franchise-chains-and-no-laptop-signs.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
