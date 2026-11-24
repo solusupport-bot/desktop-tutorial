@@ -57569,5 +57569,457 @@
       ],
       "checkedAt": "2026-11-24T09:37:16.832Z"
     }
+  },
+  {
+    "id": "6c38e0ff-8a7e-468a-80ed-cc3ccd319977",
+    "text": "Booking a Seoul to Busan trip and wondering if you should take the KTX or an intercity bus? The express bus 'Udeung' class costs about ₩39,700 and takes roughly 4 hours 10-20 minutes, ₩14,700 cheaper than the KTX but close to two hours slower. That's a big difference in price, but the bus actually reaches smaller towns that trains skip entirely. Booking 48 hours ahead on the official site takes 10% off Udeung fares. One thing to keep in mind is that the bus needs a lot more buffer time for layovers or tight connections. Did this confuse you too?\n\nBooking ahead of time can save you money, but you have to plan carefully. The Udeung bus is actually a good option if you're not in a rush. It's worth considering if your destination isn't near a KTX/SRT station.\n\nIf you're used to taking the KTX, you might underestimate how much time a bus needs for layovers. The difference in time can be a lot more than you think. Have you ever taken the bus from Seoul to Busan?\n\n🇯🇵 ソウルから釜山への旅行で、KTXか高速バスをどう選ぶか迷っている人に声かけます。\n\n🇨🇳 如果你在计划从首尔到釜山的旅行，考虑使用KTX还是高速巴士呢？\n\n🇹🇼 如果你在規劃從首爾到釜山的旅行，考慮使用KTX還是高速巴士呢？",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-25T04:57:54.420Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-24T09:48:13.479Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "KTX vs. SRT vs. intercity bus for long-distance travel",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련된 내용이며 문장이 자연스럽고 사실도 크게 문제되지 않아 발행해도 괜찮다.",
+      "model": "groq",
+      "checkedAt": "2026-11-24T09:47:15.455Z",
+      "pattern": "B"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-ktx-vs-srt-vs-intercity-bus-for-long-distance-travel.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "025325af-e732-413e-878f-358a4ca51677",
+    "text": "Booking a Seoul to Busan trip and wondering if you should take the KTX or an intercity bus? The express bus 'Udeung' class costs about ₩39,700 and takes roughly 4 hours 10-20 minutes, ₩14,700 cheaper than the KTX but close to two hours slower. That's a big difference in price, but the bus actually reaches smaller towns that trains skip entirely. Booking 48 hours ahead on the official site takes 10% off Udeung fares. One thing to keep in mind is that the bus needs a lot more buffer time for layovers or tight connections. Did this confuse you too? #KoreaTravel #BusLife\n\n🇯🇵 ソウルから釜山への旅行で、KTXか高速バスをどう選ぶか迷っている人に声かけます。\n\n🇨🇳 如果你在计划从首尔到釜山的旅行，考虑使用KTX还是高速巴士呢？\n\n🇹🇼 如果你在規劃從首爾到釜山的旅行，考慮使用KTX還是高速巴士呢？",
+    "imageUrl": null,
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-11-25T05:27:05.325Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-24T09:48:13.529Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "KTX vs. SRT vs. intercity bus for long-distance travel",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련된 내용이며 문장이 자연스럽고 사실도 크게 문제되지 않아 발행해도 괜찮다.",
+      "model": "groq",
+      "checkedAt": "2026-11-24T09:47:15.455Z",
+      "pattern": "B"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-ktx-vs-srt-vs-intercity-bus-for-long-distance-travel.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "29739868-4f20-4443-9fe6-361af6b886d4",
+    "text": "Booking a Seoul to Busan trip and wondering if you should take the KTX or an intercity bus? The express bus 'Udeung' class costs about ₩39,700 and takes roughly 4 hours 10-20 minutes, ₩14,700 cheaper than the KTX but close to two hours slower. That's a big difference in price, but the bus actually reaches smaller towns that trains skip entirely. Booking 48 hours ahead on the official site takes 10% off Udeung fares. One thing to keep in mind is that the bus needs a lot more buffer time for layovers or tight connections. Did this confuse you too? #KoreaTravel #TravelTips #Seoul #BusLife\n\n🇯🇵 ソウルから釜山への旅行で、KTXか高速バスをどう選ぶか迷っている人に声かけます。\n\n🇨🇳 如果你在计划从首尔到釜山的旅行，考虑使用KTX还是高速巴士呢？\n\n🇹🇼 如果你在規劃從首爾到釜山的旅行，考慮使用KTX還是高速巴士呢？",
+    "imageUrl": null,
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-11-25T05:58:09.151Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-24T09:48:13.561Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "KTX vs. SRT vs. intercity bus for long-distance travel",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련된 내용이며 문장이 자연스럽고 사실도 크게 문제되지 않아 발행해도 괜찮다.",
+      "model": "groq",
+      "checkedAt": "2026-11-24T09:47:15.455Z",
+      "pattern": "B"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-ktx-vs-srt-vs-intercity-bus-for-long-distance-travel.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "f5036354-fa26-4830-bc50-1263c9b157bb",
+    "text": "Planning a trip from Seoul to Busan? If so, you might be wondering if you should take the KTX or a bus. The express bus 'Udeung' class costs about ₩39,700 and takes roughly 4 hours 10-20 minutes, ₩14,700 cheaper than the KTX but close to two hours slower. It's worth considering if your destination isn't near a KTX/SRT station. One thing to keep in mind is that the bus needs a lot more buffer time for layovers or tight connections. Save this for your Korea trip!\n\n🇯🇵 ソウルから釜山への旅行計画中？高速バス「ウデュン」クラスは、約4時間10-20分で約3万9700ウォンで、KTXより約1万4700ウォン安いですが、約2時間遅れます。\n\n🇨🇳 如果你正在计划从首尔到釜山的旅行，高速巴士「乌德英」类别的价格约为39000韩元，行程约为4小时10-20分钟，费用比KTX便宜14000韩元，但快两小时。\n\n🇹🇼 如果你正在規劃從首爾到釜山的旅行，高速巴士「烏德英」類別的價格約為39000韓元，行程約為4小時10-20分鐘，費用比KTX便宜14000韓元，但快兩小時。",
+    "imageUrl": null,
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-11-25T07:58:12.648Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-24T09:48:13.593Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "KTX vs. SRT vs. intercity bus for long-distance travel",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련된 내용이며 문장이 자연스럽고 사실도 크게 문제되지 않아 발행해도 괜찮다.",
+      "model": "groq",
+      "checkedAt": "2026-11-24T09:47:15.455Z",
+      "pattern": "B"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-ktx-vs-srt-vs-intercity-bus-for-long-distance-travel.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "a44ff9bd-dbd4-49b8-b65f-681827acf8d6",
+    "text": "Don't throw away your trash at the first convenience store you see in Seoul, and 2 more common mistakes to avoid when disposing of waste in Korea.\n\nI've seen many foreigners throw away their trash at the first convenience store they see in Seoul, only to find out later that the store didn't accept it. The problem is that general waste has to go into an official, district-specific bag (종량제 봉투), which is sold at local convenience stores and supermarkets. If you buy a bag in a different district, it won't be accepted even if it looks identical.\n\nThe collection fee is built into the price of the specific bag, so you need to make sure you buy the right one. I've also seen people throw away recyclables with the general waste, which is a big no-no. You need to sort out the recyclables and put them in a separate bin. What's the worst that could happen if you get caught throwing away trash incorrectly in Korea? Read the full guide on the Land in Korea link in our profile.\n\n🇯🇵 韓国でごみを捨てる際に注意すること\n\n🇨🇳 在韩国不要在首尔的任何便利店扔掉垃圾\n\n🇹🇼 在韓國不要在首爾的任何便利店丟棄垃圾",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-24T14:31:17.118Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-24T09:50:52.649Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Trash and recycling rules for residents",
+    "qualityGate": {
+      "pass": false,
+      "reason": "캡션의 내용이 주제와 관련이 없고, 자연스럽지 않습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-24T09:49:22.823Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-24T09:50:52.628Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-trash-and-recycling-rules-for-residents.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "81b7251b-9ac3-4333-99c0-2778148897b6",
+    "text": "Don't throw away your trash at the first convenience store you see in Seoul.\n\nGeneral waste has to go into an official, district-specific bag (종량제 봉투), which is sold at local convenience stores and supermarkets. If you buy a bag in a different district, it won't be accepted even if it looks identical.\n\nI've seen many foreigners get caught throwing away trash incorrectly in Korea.\n\nWhat's the worst that could happen if you get caught?\n\n#KoreaTravel #TrashManagement\n\n🇯🇵 韓国でごみを捨てる際に注意すること\n\n🇨🇳 在韩国不要在首尔的任何便利店扔掉垃圾\n\n🇹🇼 在韓國不要在首爾的任何便利店丟棄垃圾",
+    "imageUrl": null,
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-11-24T15:03:54.968Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-24T09:50:52.685Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Trash and recycling rules for residents",
+    "qualityGate": {
+      "pass": false,
+      "reason": "캡션의 내용이 주제와 관련이 없고, 자연스럽지 않습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-24T09:49:22.823Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-24T09:50:52.664Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-trash-and-recycling-rules-for-residents.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "ebf7cd34-0565-4093-b65e-4433141144f8",
+    "text": "Don't throw away your trash at the first convenience store you see in Seoul.\n\nGeneral waste has to go into an official, district-specific bag (종량제 봉투), which is sold at local convenience stores and supermarkets. If you buy a bag in a different district, it won't be accepted even if it looks identical.\n\nI've seen many foreigners get caught throwing away trash incorrectly in Korea.\n\nWhat's the worst that could happen if you get caught?\n\n#KoreaTravel #TravelTips #Seoul\n\n🇯🇵 韓国でごみを捨てる際に注意すること\n\n🇨🇳 在韩国不要在首尔的任何便利店扔掉垃圾\n\n🇹🇼 在韓國不要在首爾的任何便利店丟棄垃圾",
+    "imageUrl": null,
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-11-24T15:32:13.930Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-24T09:50:52.721Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Trash and recycling rules for residents",
+    "qualityGate": {
+      "pass": false,
+      "reason": "캡션의 내용이 주제와 관련이 없고, 자연스럽지 않습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-24T09:49:22.823Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-24T09:50:52.699Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-trash-and-recycling-rules-for-residents.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "b6bf77c9-1cf6-441f-9a33-40b0ff0aec13",
+    "text": "You need to buy the right trash bag in Seoul. Here are some specific tips to avoid any potential fines or penalties:\n\n1. General waste goes into a district-specific bag (종량제 봉투).\n\n2. Recyclables go into a separate bin.\n\n3. Don't throw away trash at the first convenience store you see - make sure you buy the right bag.\n\nSave this for your Korea trip!\n\n🇯🇵 韓国でごみを捨てる際に注意すること\n\n🇨🇳 在韩国不要在首尔的任何便利店扔掉垃圾\n\n🇹🇼 在韓國不要在首爾的任何便利店丟棄垃圾",
+    "imageUrl": null,
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-11-24T17:35:08.064Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-24T09:50:52.751Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Trash and recycling rules for residents",
+    "qualityGate": {
+      "pass": false,
+      "reason": "캡션의 내용이 주제와 관련이 없고, 자연스럽지 않습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-24T09:49:22.823Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-24T09:50:52.734Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-trash-and-recycling-rules-for-residents.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "20de61c4-2ed1-4248-a329-e23e04c4b65b",
+    "text": "Don't assume the Tax Free sticker system is universal at Namdaemun Market.\n\nYou'd be surprised how many first-timers find out mid-purchase that the smaller independent stalls aren't affiliated with a refund network. Check for the sticker before buying if the refund matters.\n\nMost first-timers assume the sticker system is universal and get caught off guard. But did you know that smaller stalls are far less likely to be affiliated with a refund network than bigger Myeongdong stores? If you're not sure, ask the seller if they're part of the refund network. It's always better to be safe than sorry. Did this confuse you too?\n\n🇯🇵 南大門市場では、免税ステッカーのシステムが普遍的であるとは限りません。\n\n🇨🇳 不要以为南大门市场的免税贴纸制度是通用的。\n\n🇹🇼 請勿認為南大門市場普遍採用免稅貼紙制度。",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-25T00:43:57.704Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-24T09:53:12.829Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Namdaemun Market",
+    "qualityGate": {
+      "pass": true,
+      "reason": "캡션은 Namdaemun Market 주제와 관련이 있고 자연스럽게 완성된 문장으로 구성되어 있다.",
+      "model": "groq",
+      "checkedAt": "2026-11-24T09:52:12.927Z",
+      "pattern": "E"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-namdaemun-market.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "7d9548fa-7308-4832-8811-74ac1adb9488",
+    "text": "Don't assume the Tax Free sticker system is universal at Namdaemun Market. \n\nYou'd be surprised how many first-timers find out mid-purchase that the smaller independent stalls aren't affiliated with a refund network. Check for the sticker before buying if the refund matters.\n\nMost first-timers assume the sticker system is universal and get caught off guard. But did you know that smaller stalls are far less likely to be affiliated with a refund network than bigger Myeongdong stores?\n\nIf you're not sure, ask the seller if they're part of the refund network. It's always better to be safe than sorry.\n\nDid this confuse you too?\n\n🇯🇵 南大門市場では、免税ステッカーのシステムが普遍的であるとは限りません。\n\n🇨🇳 不要以为免税贴纸制度在南大门市场普遍适用。\n\n🇹🇼 請勿認為免稅貼紙制度在南大門市場是普遍適用的。",
+    "imageUrl": null,
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-11-25T01:12:12.835Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-24T09:53:12.865Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Namdaemun Market",
+    "qualityGate": {
+      "pass": true,
+      "reason": "캡션은 Namdaemun Market 주제와 관련이 있고 자연스럽게 완성된 문장으로 구성되어 있다.",
+      "model": "groq",
+      "checkedAt": "2026-11-24T09:52:12.927Z",
+      "pattern": "E"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-namdaemun-market.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "e6ed2cbb-aa0c-44cb-9b50-f5b34fb2c672",
+    "text": "Don't assume the Tax Free sticker system is universal at Namdaemun Market. \n\nYou'd be surprised how many first-timers find out mid-purchase that the smaller independent stalls aren't affiliated with a refund network. Check for the sticker before buying if the refund matters.\n\nMost first-timers assume the sticker system is universal and get caught off guard. But did you know that smaller stalls are far less likely to be affiliated with a refund network than bigger Myeongdong stores?\n\nIf you're not sure, ask the seller if they're part of the refund network. It's always better to be safe than sorry.\n\nDid this confuse you too? #KoreaTravel #TaxFreeShopping #NamdaemunMarket\n\n🇯🇵 南大門市場では、免税ステッカーのシステムが普遍的であるとは限りません。\n\n🇨🇳 不要以为南大门市场的免税贴纸制度是通用的。\n\n🇹🇼 請勿認為免稅貼紙制度在南大門市場是普遍適用的。",
+    "imageUrl": null,
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-11-25T01:43:00.688Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-24T09:53:12.903Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Namdaemun Market",
+    "qualityGate": {
+      "pass": true,
+      "reason": "캡션은 Namdaemun Market 주제와 관련이 있고 자연스럽게 완성된 문장으로 구성되어 있다.",
+      "model": "groq",
+      "checkedAt": "2026-11-24T09:52:12.927Z",
+      "pattern": "E"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-namdaemun-market.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "36d2a39a-ecd3-4b81-9bfe-013f881d8da6",
+    "text": "Assuming the Tax Free sticker system is universal at Namdaemun Market? 🤦‍♀️ \n\n1. Smaller independent stalls are far less likely to be affiliated with a refund network than bigger Myeongdong stores. \n\n2. Check for the sticker before buying if the refund matters. \n\n3. If you're not sure, ask the seller if they're part of the refund network. \n\nSave this for your Korea trip and avoid getting caught off guard!\n\n🇯🇵 南大門市場では免税ステッカーの制度が普遍的に適用されていると思い込んでいませんか？🤦‍♀️\n\n1. 小規模な個人経営の屋台は、大規模な明洞の店舗に比べて、免税ネットワークに加盟している可能性がはるかに低くなります。\n\n2. 返金が重要であれば、購入前にステッカーがあるかどうかを確認してください。\n\n3. 不確かな場合は、販売店が免税ネットワークに参加しているかどうかを尋ねてください。\n\n韓国旅行のためにこれを保存して、不意を突かれることのないようにしましょう！\n\n🇨🇳 以为南大门市场的免税贴纸制度是通用的吗？🤦‍♀️\n\n1. 与明洞的大型商店相比，较小的独立摊位加入退税网络的可能性要小得多。\n\n2. 如果退税很重要，请在购买前查看是否有贴纸。\n\n3. 如果您不确定，请询问商家是否加入退税网络。\n\n为您的韩国之旅收藏此贴，以免措手不及！\n\n🇹🇼 以為免稅貼紙制度在南大門市場是普遍適用的嗎？🤦‍♀️\n\n1. 與大型明洞商店相比，小型獨立攤位加入退稅網路的可能性要小得多。\n\n2. 如果退稅對您來說很重要，請在購買前檢查是否有貼紙。\n\n3. 如果不確定，請詢問商家是否屬於退稅網路的成員。\n\n將這篇文章收藏起來，以備韓國之旅之用，避免措手不及！",
+    "imageUrl": null,
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-11-25T03:43:02.336Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-24T09:53:12.937Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Namdaemun Market",
+    "qualityGate": {
+      "pass": true,
+      "reason": "캡션은 Namdaemun Market 주제와 관련이 있고 자연스럽게 완성된 문장으로 구성되어 있다.",
+      "model": "groq",
+      "checkedAt": "2026-11-24T09:52:12.927Z",
+      "pattern": "E"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-namdaemun-market.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "f9bb671a-d5eb-410e-83a7-920155c4e6f6",
+    "text": "Don't book a DMZ tour without knowing the difference between DMZ and JSA tours, or you might miss out on the shared area straddling the Military Demarcation Line.\n\nA standard DMZ tour covers sites like the Third Tunnel and an observatory within the buffer zone, but a JSA tour goes further and needs booking at least a week ahead with passport details submitted in advance for an eligibility check.\n\nWhichever tour, a physical passport is required at the checkpoint — a photo or photocopy won't get you through. Did this confuse you too? Open the Land in Korea link in the profile for more.\n\n🇯🇵 DMZとJSAツアーの違いを知らずにDMZツアーを予約すると、軍事境界線をまたぐ共同警備区域を見逃してしまうかもしれません。\n\n🇨🇳 在不了解非军事区 (DMZ) 游和共同警备区 (JSA) 游的区别之前，请勿预订非军事区游，否则您可能会错过跨越军事分界线的共同区域。\n\n🇹🇼 在不了解非武裝地帶 (DMZ) 和共同警備區 (JSA) 導覽行程的差別之前，請勿預訂非武裝地帶 (DMZ) 導覽行程，否則您可能會錯過橫跨軍事分界線的共同區域。",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-25T03:24:23.865Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-24T09:54:46.513Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "DMZ and JSA tours",
+    "qualityGate": {
+      "pass": true,
+      "reason": "DMZ and JSA tours 주제와 실제로 관련 있는 내용으로 자연스럽고 완성된 문장으로 작성되어 있어 구체적 사실 주장도 과장되지 않음",
+      "model": "groq",
+      "checkedAt": "2026-11-24T09:54:01.224Z",
+      "pattern": "A"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-dmz-and-jsa-tours.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "7aedec79-6bc0-440c-8c0e-ecdaab449dcf",
+    "text": "Don't book a DMZ tour without knowing the difference between DMZ and JSA tours.\nA JSA tour needs booking at least a week ahead with passport details submitted in advance for an eligibility check.\nWhichever tour, a physical passport is required at the checkpoint — a photo or photocopy won't get you through.\nDid this confuse you too?\n#KoreaTravel #DMZ\n\n🇯🇵 DMZツアーとJSAツアーの違いを知らずに、DMZツアーを予約しないでください。\nJSAツアーは、少なくとも1週間前までに予約し、参加資格の確認のために事前にパスポート情報を提出する必要があります。\nどちらのツアーでも、チェックポイントではパスポートの実物の提示が求められます。写真やコピーでは通過できません。\nあなたも混乱しましたか？\n#韓国旅行 #DMZ\n\n🇨🇳 在不了解非军事区（DMZ）和共同警备区（JSA）之旅的区别之前，请勿预订非军事区之旅。\nJSA 游需要至少提前一周预订，并提前提交护照信息以进行资格审核。\n无论参加哪种游览，在检查站都需要出示实体护照——照片或复印件都无法让你通过。\n这是否也让您感到困惑？\n#韩国旅游 #非军事区\n\n🇹🇼 在不了解非武裝地帶 (DMZ) 和共同警備區 (JSA) 導覽行程的差別之前，請勿預訂非武裝地帶 (DMZ) 導覽行程。\nJSA 導覽行程需要至少提前一週預訂，並事先提交護照資訊以進行資格審查。\n無論參加哪種行程，在檢查哨都必須出示實體護照，照片或影本都無法讓您通過。\n這也讓您感到困惑嗎？\n#韓國旅遊 #非武裝地帶",
+    "imageUrl": null,
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-11-25T03:56:28.033Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-24T09:54:46.545Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "DMZ and JSA tours",
+    "qualityGate": {
+      "pass": true,
+      "reason": "DMZ and JSA tours 주제와 실제로 관련 있는 내용으로 자연스럽고 완성된 문장으로 작성되어 있어 구체적 사실 주장도 과장되지 않음",
+      "model": "groq",
+      "checkedAt": "2026-11-24T09:54:01.224Z",
+      "pattern": "A"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-dmz-and-jsa-tours.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "7df9d66d-1e2f-4cfd-815f-efaf57d0708d",
+    "text": "Don't book a DMZ tour without knowing the difference between DMZ and JSA tours.\nA JSA tour needs booking at least a week ahead with passport details submitted in advance for an eligibility check.\nWhichever tour, a physical passport is required at the checkpoint — a photo or photocopy won't get you through.\nDid this confuse you too?\n#KoreaTravel #TravelTips #DMZ\n\n🇯🇵 DMZツアーとJSAツアーの違いを知らずに、DMZツアーを予約しないでください。\nJSAツアーは、少なくとも1週間前に予約し、参加資格の確認のために事前にパスポートの詳細を提出する必要があります。\nどちらのツアーでも、チェックポイントではパスポートの実物が求められます。写真やコピーでは通過できません。\nあなたも混乱してしまいましたか？\n#韓国旅行 #旅行のヒント #DMZ\n\n🇨🇳 在不了解非军事区（DMZ）和共同警备区（JSA）之旅的区别之前，请勿预订非军事区之旅。\nJSA 游需要至少提前一周预订，并提前提交护照信息以进行资格审核。\n无论参加哪种行程，在检查站都需要出示实体护照——照片或复印件都无法让你通过。\n这是否也让您感到困惑？\n#韩国旅游 #旅游小贴士 #非军事区\n\n🇹🇼 在不了解非武裝地帶 (DMZ) 導覽與共同警備區 (JSA) 導覽的差別之前，請勿預訂非武裝地帶 (DMZ) 導覽。\nJSA 導覽行程需要至少提前一週預訂，並事先提交護照資訊以進行資格審核。\n無論參加哪種行程，在檢查哨都必須出示實體護照，照片或影本都無法讓你通過。\n這也讓您感到困惑嗎？\n#韓國旅遊 #旅遊小貼士 #DMZ",
+    "imageUrl": null,
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-11-25T04:27:04.352Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-24T09:54:46.575Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "DMZ and JSA tours",
+    "qualityGate": {
+      "pass": true,
+      "reason": "DMZ and JSA tours 주제와 실제로 관련 있는 내용으로 자연스럽고 완성된 문장으로 작성되어 있어 구체적 사실 주장도 과장되지 않음",
+      "model": "groq",
+      "checkedAt": "2026-11-24T09:54:01.224Z",
+      "pattern": "A"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-dmz-and-jsa-tours.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "392b4f32-24de-4b42-8e09-b5796a4e03af",
+    "text": "Don't book a DMZ tour without knowing the difference between DMZ and JSA tours. A JSA tour needs booking at least a week ahead with passport details submitted in advance for an eligibility check. Whichever tour, a physical passport is required at the checkpoint — a photo or photocopy won't get you through. Save this for your Korea trip and avoid the confusion!\n\n🇯🇵 DMZツアーとJSAツアーの違いを知らずに、DMZツアーを予約しないでください。JSAツアーは、少なくとも1週間前までに予約し、参加資格の確認のために事前にパスポート情報を提出する必要があります。どちらのツアーでも、チェックポイントではパスポートの実物の提示が求められます。写真やコピーでは通過できません。韓国旅行のためにこれを保存して、混乱を避けましょう！\n\n🇨🇳 在不了解非军事区（DMZ）和共同警备区（JSA）之旅的区别之前，请勿预订非军事区之旅。JSA 游需要至少提前一周预订，并提前提交护照信息以进行资格审核。无论参加哪种行程，在检查站都需要出示实体护照——照片或复印件都无法让你通过。为您的韩国之旅收藏此信息，避免产生困惑！\n\n🇹🇼 在不了解非武裝地帶 (DMZ) 和共同警備區 (JSA) 導覽行程的差別之前，請勿預訂非武裝地帶 (DMZ) 導覽行程。JSA 導覽行程需要至少提前一週預訂，並事先提交護照資訊以進行資格審核。無論參加哪種行程，在檢查哨都必須出示實體護照，照片或影本都無法讓你通過。將此資訊收藏起來，以備韓國之旅之用，避免產生混淆！",
+    "imageUrl": null,
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-11-25T06:28:35.901Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-24T09:54:46.606Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "DMZ and JSA tours",
+    "qualityGate": {
+      "pass": true,
+      "reason": "DMZ and JSA tours 주제와 실제로 관련 있는 내용으로 자연스럽고 완성된 문장으로 작성되어 있어 구체적 사실 주장도 과장되지 않음",
+      "model": "groq",
+      "checkedAt": "2026-11-24T09:54:01.224Z",
+      "pattern": "A"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-dmz-and-jsa-tours.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
   }
 ]
