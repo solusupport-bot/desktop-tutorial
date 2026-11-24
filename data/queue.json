@@ -55479,7 +55479,7 @@
       "mastodon"
     ],
     "scheduledAt": "2026-11-24T03:40:27.732Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-23T08:36:56.157Z",
     "approved": true,
@@ -56090,7 +56090,7 @@
       "instagram"
     ],
     "scheduledAt": "2026-11-23T21:03:26.274Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-23T17:07:23.241Z",
     "approved": true,
