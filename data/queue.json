@@ -54742,7 +54742,7 @@
       "facebook"
     ],
     "scheduledAt": "2026-11-22T23:36:44.401Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-22T08:34:30.887Z",
     "approved": true,
@@ -54810,7 +54810,7 @@
       "bluesky"
     ],
     "scheduledAt": "2026-11-23T01:53:08.154Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-22T08:34:30.930Z",
     "approved": true,
@@ -54843,7 +54843,7 @@
       "mastodon"
     ],
     "scheduledAt": "2026-11-23T02:24:43.372Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-22T08:34:30.949Z",
     "approved": true,
@@ -54876,7 +54876,7 @@
       "tumblr"
     ],
     "scheduledAt": "2026-11-23T04:20:34.412Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-22T08:34:31.377Z",
     "approved": true,
