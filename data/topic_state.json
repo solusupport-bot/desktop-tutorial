@@ -1,5 +1,5 @@
 {
-  "lastIndex": 60,
+  "lastIndex": 61,
   "history": [
     {
       "index": 22,
@@ -708,6 +708,12 @@
       "topic": "Shipping souvenirs home from a Korean post office: EMS, small packets, and sea mail",
       "at": "2026-11-24T00:59:28.057Z",
       "source": "threads-fill"
+    },
+    {
+      "index": 61,
+      "topic": "Gwangjang Market: what to eat, when stalls close, and how to avoid overpaying",
+      "at": "2026-11-24T00:59:41.239Z",
+      "source": "facebook-fill"
     }
   ],
   "recentImageUrls": [
