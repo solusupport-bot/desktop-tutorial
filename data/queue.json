@@ -57036,5 +57036,92 @@
     },
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-24T03:37:59.979Z"
+  },
+  {
+    "id": "06edaa51-a8c1-4933-bb89-873472bf2930",
+    "text": "Most visitors walk straight down Insadong's main street and miss the side alleys where the actual antique dealers and gallery spaces sit.\n\nJogyesa Temple, one of Korean Buddhism's most important temples, is a short walk from Insadong's north end and free to enter.\n\nCalligraphy supplies, hanbok rental shops, and traditional craft workshops cluster here more than almost anywhere else in Seoul. Did this trip you up your first time too? Drop a comment.\n\n🇯🇵 ほとんどの訪問者は仁寺洞のメインストリートをまっすぐ歩いてしまい、実際に骨董商やギャラリーがある脇の路地を見逃してしまいます。韓国仏教で最も重要な寺院のひとつである曹渓寺は、仁寺洞の北端から徒歩すぐのところにあり、入場は無料です。書道用品店、韓服レンタル店、伝統工芸ワークショップは、ソウルのほぼどの場所よりもここに集中しています。あなたも初めての訪問でこの場所で迷いましたか？コメントを残してください。\n\n🇨🇳 大多数游客径直沿着仁寺洞的主街走，错过了真正的古董商和画廊所在的岔道。曹溪寺是韩国佛教最重要的寺庙之一，距离仁寺洞北端仅几步之遥，可免费入内。这里聚集的书法用品店、韩服租赁店和传统手工艺作坊比首尔几乎任何其他地方都多。这也是你第一次来这里吗？请留言。\n\n🇹🇼 大多數遊客都直直地走在仁寺洞的主街上，錯過了真正古董商和藝廊所在的側巷。曹溪寺是韓國佛教最重要的寺廟之一，從仁寺洞北端步行一小段路即可抵達，而且免費參觀。這裡聚集的書法用品店、韓服租賃店和傳統工藝坊比首爾幾乎任何地方都多。這趟旅程也是您的第一次嗎？歡迎留言分享。",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-24T17:45:28.060Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-24T03:39:26.687Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Insadong traditional culture street",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq와 Cloudflare 둘 다 실패했습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-24T03:39:20.280Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-24T03:39:26.670Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-insadong-traditional-culture-street.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "1b3c9f84-96a9-4910-a8be-9f400ee4ccb1",
+    "text": "Everland and Lotte World both get called 'Korea's Disneyland,' but picking the wrong one for your trip wastes half a day on transit.\n\nEverland, in Yongin outside Seoul, is Korea's largest theme park with a zoo/safari section, and it requires a bus or shuttle ride from central Seoul — budget real travel time, not a quick subway hop.\n\nLotte World, in Jamsil, is directly accessible by subway and combines an indoor park with an outdoor 'Magic Island' section, plus it sits next to Lotte World Tower and its observation deck.\n\nHow much did this actually cost you on your trip?",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-24T08:49:20.512Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-24T03:39:40.053Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Everland vs. Lotte World theme parks",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq와 Cloudflare 둘 다 실패했습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-24T03:39:32.742Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-24T03:39:40.035Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-everland-vs-lotte-world-theme-parks.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "cab75a6e-f1ac-4a58-8455-f9912ea777e2",
+    "text": "The street performances everyone posts about aren't a fixed schedule — they cluster on weekend evenings and thin out on weeknights, so a Tuesday visit expecting the same energy as a Saturday post will disappoint.\n\nSmall independent clothing boutiques and vintage shops fill the side streets more than the main road.\n\nIt's also one of the more walkable nightlife districts, with clubs, bars, and late-night food stalls within a few blocks of each other rather than spread across the city.\n\nWhat surprised you the most when you landed?",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-24T05:42:43.315Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-24T03:39:45.471Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Hongdae nightlife and youth culture district",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq와 Cloudflare 둘 다 실패했습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-24T03:39:43.878Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-24T03:39:45.454Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-hongdae-nightlife-and-youth-culture-district.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
