@@ -55445,8 +55445,12 @@
       "threads"
     ],
     "scheduledAt": "2026-11-24T02:40:25.872Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18106430441629867"
+      }
+    },
     "createdAt": "2026-11-23T08:36:56.077Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -55463,7 +55467,8 @@
       "checkedAt": "2026-11-23T08:04:11.781Z",
       "pattern": "C"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-where-koreans-actually-buy-everyday-stuff-daiso-vs-olive-young-vs-hypermarkets-vs-the-traditional-market.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-where-koreans-actually-buy-everyday-stuff-daiso-vs-olive-young-vs-hypermarkets-vs-the-traditional-market.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-24T15:52:59.585Z"
   },
   {
     "id": "521a31c8-b09c-48a7-a5c2-d1adab1e7d3e",
