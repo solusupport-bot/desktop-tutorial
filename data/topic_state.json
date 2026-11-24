@@ -1,5 +1,5 @@
 {
-  "lastIndex": 30,
+  "lastIndex": 14,
   "history": [
     {
       "index": 22,
@@ -480,6 +480,36 @@
       "topic": "Korean public holidays that disrupt travel plans",
       "at": "2026-11-24T12:59:07.132Z",
       "source": "facebook-fill"
+    },
+    {
+      "index": 10,
+      "topic": "Airport transfer options",
+      "at": "2026-11-24T13:54:52.221Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 11,
+      "topic": "First-timer etiquette & common mistakes",
+      "at": "2026-11-24T13:56:38.415Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 12,
+      "topic": "Currency & card payments",
+      "at": "2026-11-24T13:56:47.087Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 13,
+      "topic": "Emergency numbers & 24hr pharmacies",
+      "at": "2026-11-24T13:56:54.176Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 14,
+      "topic": "Useful travel apps",
+      "at": "2026-11-24T13:57:06.747Z",
+      "source": "instagram-fill"
     }
   ],
   "recentImageUrls": [
@@ -3007,7 +3037,8 @@
     ],
     "Airport transfer options": [
       "Theodore Nguyen",
-      "KOREAN JH"
+      "KOREAN JH",
+      "MH Jeong"
     ],
     "Unmanned kiosk ordering in Korea: why humans are disappearing from the counter": [
       "Julien"
