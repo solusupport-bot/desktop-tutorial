@@ -1,5 +1,5 @@
 {
-  "lastIndex": 22,
+  "lastIndex": 4,
   "history": [
     {
       "index": 22,
@@ -372,6 +372,36 @@
       "topic": "Jjimjilbang etiquette",
       "at": "2026-11-24T09:55:13.921Z",
       "source": "facebook-fill"
+    },
+    {
+      "index": 0,
+      "topic": "Gyeongbokgung Palace",
+      "at": "2026-11-24T10:54:05.310Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 1,
+      "topic": "Bukchon Hanok Village",
+      "at": "2026-11-24T10:55:27.599Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 2,
+      "topic": "N Seoul Tower (Namsan)",
+      "at": "2026-11-24T10:57:35.726Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 3,
+      "topic": "Myeongdong shopping district",
+      "at": "2026-11-24T10:58:03.619Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 4,
+      "topic": "Busan Haeundae Beach & Gamcheon Culture Village",
+      "at": "2026-11-24T10:58:09.259Z",
+      "source": "instagram-fill"
     }
   ],
   "recentImageUrls": [
@@ -1681,7 +1711,8 @@
     "https://images.pexels.com/photos/9757373/pexels-photo-9757373.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://pixabay.com/get/g89386579b0a278edec8ad7e9f85b68db400348e9dbadf12c438bce1e1636911c96455b02f99e80bfd9f2998b3abfe9600f0e59c987666fb9040447ec6224429c_1280.jpg#pixabay=3804300",
     "https://pixabay.com/get/g2f992e1a3de4dc4bc6e8184edb897e68b7cc061ed0b4005670bcc34e2837337d7df14bd4f19dbeeb63135a1b904fa3d84ac29647207c624807a34ac8419cbdae_1280.jpg#pixabay=5203604",
-    "https://pixabay.com/get/g05c7f22f2d9ffe18ae4bad45b242076f5a1ddec49777a6f46b3f4b6463da54b9b47bb43f8c7b4ef0784607786eedd8941c37bbe8d8191793f1fd40f51c24b9de_1280.jpg#pixabay=4886525"
+    "https://pixabay.com/get/g05c7f22f2d9ffe18ae4bad45b242076f5a1ddec49777a6f46b3f4b6463da54b9b47bb43f8c7b4ef0784607786eedd8941c37bbe8d8191793f1fd40f51c24b9de_1280.jpg#pixabay=4886525",
+    "https://images.pexels.com/photos/41206342/pexels-photo-41206342.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
   ],
   "recentVideoUrls": [
     "https://videos.pexels.com/video-files/19577787/19577787-uhd_2160_3840_30fps.mp4",
@@ -2215,7 +2246,8 @@
     "https://videos.pexels.com/video-files/40486219/17300762_3840_2160_30fps.mp4",
     "https://videos.pexels.com/video-files/40748319/17404092_1920_1080_30fps.mp4",
     "https://videos.pexels.com/video-files/40398770/17261203_1920_1080_30fps.mp4",
-    "https://cdn.pixabay.com/video/2023/01/17/146937-790648590_large.mp4"
+    "https://cdn.pixabay.com/video/2023/01/17/146937-790648590_large.mp4",
+    "https://videos.pexels.com/video-files/40398769/17261182_1920_1080_30fps.mp4"
   ],
   "recentMusicUrls": [
     "https://prod-1.storage.jamendo.com/?trackid=20237&format=mp32",
@@ -2337,7 +2369,8 @@
     "https://prod-1.storage.jamendo.com/?trackid=665946&format=mp32",
     "https://prod-1.storage.jamendo.com/?trackid=283598&format=mp32",
     "https://prod-1.storage.jamendo.com/?trackid=431036&format=mp32",
-    "https://prod-1.storage.jamendo.com/?trackid=665946&format=mp32"
+    "https://prod-1.storage.jamendo.com/?trackid=665946&format=mp32",
+    "https://prod-1.storage.jamendo.com/?trackid=431036&format=mp32"
   ],
   "topicPhotographers": {
     "Why Google Maps fails in Korea and how the road-name address system actually works": [
@@ -2618,7 +2651,8 @@
       "Cheng Shi Song",
       "Sophie Lee",
       "성두 홍",
-      "Maxim Makarov"
+      "Maxim Makarov",
+      "MH Jeong"
     ],
     "Bukchon Hanok Village": [
       "Little forest 작은 숲",
