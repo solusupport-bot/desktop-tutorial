@@ -1,5 +1,5 @@
 {
-  "lastIndex": 14,
+  "lastIndex": 31,
   "history": [
     {
       "index": 22,
@@ -510,6 +510,24 @@
       "topic": "Useful travel apps",
       "at": "2026-11-24T13:57:06.747Z",
       "source": "instagram-fill"
+    },
+    {
+      "index": 15,
+      "topic": "Convenience store hacks",
+      "at": "2026-11-24T13:57:12.006Z",
+      "source": "threads-fill"
+    },
+    {
+      "index": 16,
+      "topic": "Seasonal packing & weather tips",
+      "at": "2026-11-24T13:57:23.986Z",
+      "source": "threads-fill"
+    },
+    {
+      "index": 31,
+      "topic": "Hailing a taxi in Korea: Kakao T vs. street taxis vs. airport 'deluxe' cabs",
+      "at": "2026-11-24T13:57:44.097Z",
+      "source": "threads-fill"
     }
   ],
   "recentImageUrls": [
@@ -2999,7 +3017,8 @@
     "Convenience store hacks": [
       "Bruna Santos",
       "Theodore Nguyen",
-      "Asia Culture Center"
+      "Asia Culture Center",
+      "Jungsik Kwak"
     ],
     "Seasonal packing & weather tips": [
       "하 여나",
