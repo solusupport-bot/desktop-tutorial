@@ -55445,8 +55445,13 @@
       "bluesky"
     ],
     "scheduledAt": "2026-11-24T03:15:40.186Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3n2zozqn2iu2b",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3n2zozqn2iu2b"
+      }
+    },
     "createdAt": "2026-11-23T08:36:56.121Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -55463,7 +55468,8 @@
       "checkedAt": "2026-11-23T08:04:11.781Z",
       "pattern": "C"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-where-koreans-actually-buy-everyday-stuff-daiso-vs-olive-young-vs-hypermarkets-vs-the-traditional-market.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-where-koreans-actually-buy-everyday-stuff-daiso-vs-olive-young-vs-hypermarkets-vs-the-traditional-market.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-24T03:24:28.279Z"
   },
   {
     "id": "204b610a-31cb-4969-a57f-52295d202e6e",
@@ -56220,8 +56226,12 @@
       "threads"
     ],
     "scheduledAt": "2026-11-23T20:38:50.012Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18115692116271597"
+      }
+    },
     "createdAt": "2026-11-23T17:49:46.120Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -56238,7 +56248,8 @@
       "checkedAt": "2026-11-23T17:49:30.636Z",
       "pattern": "A"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-hongdae-nightlife-and-youth-culture-district.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-hongdae-nightlife-and-youth-culture-district.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-24T03:35:54.336Z"
   },
   {
     "id": "b5f64742-dd07-4036-a9dc-cf67d3e1e536",
