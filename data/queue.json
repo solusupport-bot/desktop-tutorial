@@ -56876,5 +56876,37 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-24T00:59:39.773Z",
     "blogUrl": "https://landinkorea.com/posts/korea-shipping-souvenirs-home-from-a-korean-post-office-ems-small-packets-and-sea-mail.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "ba1893d0-8454-4dfc-8f04-460c8b9e15d4",
+    "text": "Don't plan to visit Changdeokgung Palace on Mondays if you want to see the Huwon garden - it's closed! But did you know that timed Huwon tickets actually sell out fastest for spring blossoms and autumn foliage sessions? Save this for your Korea trip!  #KoreaTravel #VisitKorea #BukchonHanokVillage #ChangdeokgungPalace\n\n📖 Open the Land in Korea link in our profile and search “Changdeokgung Secret Garden: how the timed Huwon tickets actually work”.\n\n🎵 \"Anima Pop - Ink\" by Vienna In Love is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.\n\n🇯🇵 月曜日はチョンジェデク宮殿のフウォン庭園は閉まっているので計画してください。ただ、春の花見や秋の紅葉のチケットはすでに売り切れています。来韓の計画をしてください! #KoreaTravel #VisitKorea #BukchonHanokVillage #ChangdeokgungPalace\n\n🇨🇳 如果你想看胡원园，周一就别去改变德宫了! 但你知道吗，春花会期和秋叶会期的限时胡园票已经售罄了? 保存这个信息来规划你的韩国行程! #KoreaTravel #VisitKorea #BukchonHanokVillage #ChangdeokgungPalace\n\n🇹🇼 如果你想看胡園園，星期一就別去昌德宮了! 但你知道嗎，春花會期和秋葉會期的限時胡園票已經售罄了? 保存這個資訊來規劃你的韓國行程! #KoreaTravel #VisitKorea #BukchonHanokVillage #ChangdeokgungPalace",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1795485448994-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-11-24T05:02:49.859Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-24T01:57:47.290Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/37821282/pexels-photo-37821282.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29304031/pexels-photo-29304031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Changdeokgung Secret Garden: how the timed Huwon tickets actually work",
+    "qualityGate": {
+      "pass": false,
+      "reason": "캡션의 주제와 실제 내용이 맞지 않음",
+      "model": "groq",
+      "checkedAt": "2026-11-24T01:55:00.851Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-24T01:57:47.265Z"
   }
 ]
