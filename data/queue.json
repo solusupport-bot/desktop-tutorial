@@ -58439,5 +58439,96 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-24T13:57:54.540Z",
     "blogUrl": "https://landinkorea.com/posts/korea-hailing-a-taxi-in-korea-kakao-t-vs-street-taxis-vs-airport-deluxe-cabs.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "8f04afab-1b15-42a0-8aec-9e29492267b6",
+    "text": "Korea's delivery ecosystem runs on a few big apps — Baemin, Coupang Eats, and Yogiyo — and the food itself arrives fast and cheap by global standards.\n\nThe hard part is account setup: most apps expect a Korean mobile number for verification, and payment usually flows through a Korean-issued card or a domestic wallet like Kakao Pay or Naver Pay, though foreign cards work in some cases.\n\nMenus are also mostly in Korean even when the app interface offers English, so a translation app pointed at the screen is part of normal ordering. Anyone else lose money on this mistake?\n\n🇯🇵 ほとんどの韓国配達アプリは、韓国の電話番号と国内決済手段が必要です。\n\n🇨🇳 大多数韩国外卖应用需要韩国手机号和本地支付方式。\n\n🇹🇼 大多數韓國外送應用需要韓國手機號碼與本地支付方式。",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-24T20:10:08.051Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-24T16:07:29.305Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Food delivery apps in Korea: why signing up is harder than ordering",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq와 Cloudflare 둘 다 실패했습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-24T16:07:17.861Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-24T16:07:29.289Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-food-delivery-apps-in-korea-why-signing-up-is-harder-than-ordering.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "784514a5-fa9c-430a-8db2-a087e34a586b",
+    "text": "To rent, most short-term visitors need an International Driving Permit issued in their home country before departure, presented together with the original home license and a passport — an IDP alone isn't valid, and not every country's license is covered by the conventions Korea recognizes.\n\nRental companies also set minimum age and minimum license-holding requirements, and a credit card in the driver's name is usually expected.\n\nRental cars normally come with a Hi-pass toll transponder so expressway tolls are billed automatically, and most gas stations offer both full-service and cheaper self-service pumps.\n\nWhat would you add for someone landing tomorrow?",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-24T22:48:42.529Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-24T16:07:51.570Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Renting a car in Korea: when it's smart, when it's a waste, and what the rental desk will ask for",
+    "qualityGate": {
+      "pass": false,
+      "reason": "첫 줄 규칙 위반: instagram: 최근 30일 안에 쓴 첫 줄 재사용",
+      "model": "rule",
+      "failedPlatforms": [
+        "instagram"
+      ],
+      "checkedAt": "2026-11-24T16:07:40.131Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-renting-a-car-in-korea-when-it-s-smart-when-it-s-a-waste-and-what-the-rental-desk-will-ask-for.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "6978a5ae-76a6-4d96-88ea-697813a61497",
+    "text": "Tipping isn't part of Korean service culture, and leaving cash on the table in a restaurant sometimes triggers a server to chase you down thinking you forgot it.\n\nService is already considered included in the price, so adding extra money on top can come across as implying the staff wasn't paid properly, which is mildly insulting rather than generous.\n\nHotels and some tour guides are the rare exception where a small tip is quietly accepted, but it's never expected or asked for.\n\nWorth knowing before you land? Reply with what surprised you.",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-24T17:52:23.615Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-24T16:08:01.763Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Tipping in Korea: why you shouldn't and what to do instead",
+    "qualityGate": {
+      "pass": false,
+      "reason": "첫 줄 규칙 위반: threads: 최근 30일 안에 쓴 첫 줄 재사용",
+      "model": "rule",
+      "failedPlatforms": [
+        "threads"
+      ],
+      "checkedAt": "2026-11-24T16:07:57.209Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-24T16:08:01.749Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-tipping-and-service-charges.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
