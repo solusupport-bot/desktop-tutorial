@@ -1,5 +1,5 @@
 {
-  "lastIndex": 7,
+  "lastIndex": 8,
   "history": [
     {
       "index": 22,
@@ -420,6 +420,12 @@
       "topic": "T-money transit card",
       "at": "2026-11-24T11:01:34.319Z",
       "source": "threads-fill"
+    },
+    {
+      "index": 8,
+      "topic": "Tax refund (Tax Free) shopping",
+      "at": "2026-11-24T11:01:47.099Z",
+      "source": "facebook-fill"
     }
   ],
   "recentImageUrls": [
