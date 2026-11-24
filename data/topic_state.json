@@ -1,5 +1,5 @@
 {
-  "lastIndex": 3,
+  "lastIndex": 4,
   "history": [
     {
       "index": 22,
@@ -762,6 +762,12 @@
       "topic": "Myeongdong shopping district",
       "at": "2026-11-24T02:04:33.310Z",
       "source": "threads-fill"
+    },
+    {
+      "index": 4,
+      "topic": "Busan Haeundae Beach & Gamcheon Culture Village",
+      "at": "2026-11-24T02:04:40.386Z",
+      "source": "facebook-fill"
     }
   ],
   "recentImageUrls": [
