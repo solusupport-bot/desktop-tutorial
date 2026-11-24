@@ -58713,5 +58713,45 @@
       "pattern": "A"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-cafes-as-workspaces-in-korea-unspoken-rules-of-study-cafes-franchise-chains-and-no-laptop-signs.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "2e9948b2-5cab-40d7-b7ba-6caa0454c20d",
+    "text": "You can reach Paju's Heyri area on a regular transit card with no reservation.\n\nThe subway network extends far beyond Seoul on lines like Gyeongui-Jungang, Suin-Bundang, and Gyeongchun.\n\nA 'subway' trip can run well over an hour each way on these all-stops commuter trains.\n\n📖 Full guide: https://landinkorea.com/posts/korea-day-tripping-from-seoul-by-regular-train-mugunghwa-itx-saemaeul-and-the-gyeongui-jungang-line.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post\n\n🇯🇵 Pajuにあるヘイリ地区は、予約なしで一般乗車カードで利用可能です。\n\n🇨🇳 可以使用普通卡无预约地铁卡到达Paju的Heyri地区.\n\n🇹🇼 可以使用普通卡無預約地鐵卡到達Paju的Heyri地區.",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795550225781-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795550225781-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-25T09:54:35.848Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-24T19:57:07.252Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g26bb9b029d1c4d520fc2057715c6a319ed06ff8abf6b1cf05719bf63d26ec7289406045069c34534156c8c23a23e9a77241c966cee538d2807b3127e7f893929_1280.jpg#pixabay=4942309"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Day-tripping from Seoul by regular train: Mugunghwa, ITX-Saemaeul, and the Gyeongui-Jungang line",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: threads: reaction missing – no prompt to comment, save, or share (ends with \"Open the Land in Korea link in the profile to learn more.\") | facebook: reaction missing – no engagement prompt (ends with \"📖 Full guide: [LINK]\") | mastodon: reaction missing – no engagement prompt (ends with hashtags only)",
+      "failedPlatforms": [
+        "threads",
+        "facebook",
+        "mastodon"
+      ],
+      "model": "groq",
+      "pattern": "A",
+      "checkedAt": "2026-11-24T19:56:12.397Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-24T19:57:07.223Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-day-tripping-from-seoul-by-regular-train-mugunghwa-itx-saemaeul-and-the-gyeongui-jungang-line.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]
