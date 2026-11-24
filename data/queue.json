@@ -55479,8 +55479,13 @@
       "mastodon"
     ],
     "scheduledAt": "2026-11-24T03:40:27.732Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "mastodon": {
+        "id": "117669627358406152",
+        "url": "https://mastodon.social/@landinkorea/117669627358406152"
+      }
+    },
     "createdAt": "2026-11-23T08:36:56.157Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -55497,7 +55502,8 @@
       "checkedAt": "2026-11-23T08:04:11.781Z",
       "pattern": "C"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-where-koreans-actually-buy-everyday-stuff-daiso-vs-olive-young-vs-hypermarkets-vs-the-traditional-market.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-where-koreans-actually-buy-everyday-stuff-daiso-vs-olive-young-vs-hypermarkets-vs-the-traditional-market.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-24T04:53:45.273Z"
   },
   {
     "id": "2156eb5e-3459-4fb5-a164-be9353961ad7",
@@ -56090,8 +56096,12 @@
       "instagram"
     ],
     "scheduledAt": "2026-11-23T21:03:26.274Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "17958609465269683"
+      }
+    },
     "createdAt": "2026-11-23T17:07:23.241Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -56111,7 +56121,8 @@
       "model": "groq",
       "checkedAt": "2026-11-23T17:06:09.639Z",
       "pattern": "E"
-    }
+    },
+    "processedAt": "2026-11-24T04:54:24.117Z"
   },
   {
     "id": "39f6ae06-930d-41da-8091-67ab7997d657",
