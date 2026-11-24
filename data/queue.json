@@ -56784,5 +56784,92 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-23T22:57:56.333Z",
     "blogUrl": "https://landinkorea.com/posts/korea-the-closed-on-monday-trap-how-korean-palaces-and-museums-schedule-their-days-off.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "85698a4f-ea7a-4e4f-92ff-6565bcd15d18",
+    "text": "Most operators set a minimum age around 12 for JSA, with anyone under 18 needing a guardian, and nationality restrictions apply for security reasons — worth confirming before booking.\n\nJSA's dress code is enforced, not a suggestion: no sleeveless shirts, no shorts, no sandals, and no military-patterned clothing, and operators do turn people away for violating it.\n\nBoth DMZ and JSA tours run exclusively through registered operators; there's no independent or public-transit access to either.\n\nDid this trip you up your first time too? Drop a comment.",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-24T01:02:11.283Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-24T00:59:17.394Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "DMZ and JSA tours",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq와 Cloudflare 둘 다 실패했습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-24T00:59:12.274Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-24T00:59:17.374Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-dmz-and-jsa-tours.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "7e2ff975-f402-4115-816d-4fdc1ae96d8b",
+    "text": "The street carts that sell them have been thinning out for years as red bean, flour, oil and gas costs rose, and Korean media now call the price jump \"bung-flation\" - late-2025 reports put typical carts at about three pieces for 2,000 won.\n\nBungeoppang (붕어빵) is the fish-shaped pastry baked in iron molds and filled with sweet red bean or custard that appears when Korea turns cold, alongside hotteok (syrupy brown-sugar pancakes), gyeranppang (egg bread) and eomuk fish-cake skewers in hot broth.\n\nHow much did this actually cost you on your trip?",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-24T04:32:18.763Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-24T00:59:27.978Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Korean winter street food: bungeoppang, hotteok, and where the stalls went",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq와 Cloudflare 둘 다 실패했습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-24T00:59:24.665Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-24T00:59:27.958Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-korean-winter-street-food-bungeoppang-hotteok-and-where-the-stalls-went.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "a52bd47b-19a9-4947-b310-00eb1b580916",
+    "text": "Since December 2020 Korea Post charges air parcels and EMS by actual or volumetric weight (L x W x H in cm / 6,000), whichever is higher, so pick the smallest box that fits.\n\nEach parcel needs an English customs list with item types, counts and values; loose lithium batteries, aerosols, flammables and many foods are restricted.\n\nRegistering an EMS online first through Korea Post's smart acceptance service gives non-contract customers a 5% discount.\n\nWhat surprised you the most when you landed?",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-24T13:16:07.172Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-24T00:59:39.794Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Shipping souvenirs home from a Korean post office: EMS, small packets, and sea mail",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq와 Cloudflare 둘 다 실패했습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-24T00:59:34.125Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-24T00:59:39.773Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-shipping-souvenirs-home-from-a-korean-post-office-ems-small-packets-and-sea-mail.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
