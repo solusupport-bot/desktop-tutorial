@@ -1,5 +1,5 @@
 {
-  "lastIndex": 43,
+  "lastIndex": 44,
   "history": [
     {
       "index": 22,
@@ -635,6 +635,12 @@
       "index": 43,
       "topic": "Bus travel inside Korean cities: color codes, tag-off transfers, and why you must flag the bus",
       "at": "2026-11-24T17:35:43.292Z",
+      "source": "facebook-fill"
+    },
+    {
+      "index": 44,
+      "topic": "Reserving restaurants and joining waitlists in Korea: Catch Table, Naver booking, and the Tabling tablet",
+      "at": "2026-11-24T18:54:09.298Z",
       "source": "facebook-fill"
     }
   ],
@@ -3192,7 +3198,8 @@
       "Pham Huynh  Tuan Vy"
     ],
     "Reserving restaurants and joining waitlists in Korea: Catch Table, Naver booking, and the Tabling tablet": [
-      "Nguyễn Mẫn"
+      "Nguyễn Mẫn",
+      "MH Jeong"
     ],
     "Korean winter street food: bungeoppang, hotteok, and where the stalls went": [
       "Theodore Nguyen"
