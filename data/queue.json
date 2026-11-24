@@ -57536,5 +57536,38 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-24T07:58:10.205Z",
     "blogUrl": "https://landinkorea.com/posts/korea-where-koreans-actually-buy-everyday-stuff-daiso-vs-olive-young-vs-hypermarkets-vs-the-traditional-market.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "fb2fef48-4a38-492f-82bd-363ba45f0ca0",
+    "text": "Planning a long-distance trip in Korea and wondering if you should take the train or bus? An express bus from Seoul to Busan in the 'Udeung' class costs about ₩39,700 and takes roughly 4 hours 10-20 minutes.\n\nSave this for your Korea trip and consider the extra buffer time a bus needs for short layovers or tight connections.\n\n📖 Open the Land in Korea link in our profile and search “KTX vs. SRT vs. intercity bus for long-distance travel”.\n\n#KoreaTravel #Busan #KTX #IntercityBus #TravelKorea\n\n🎵 \"Anima Pop - Ink\" by Vienna In Love is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.\n\n🇯🇵 韓国への長距離旅行計画中？鉄道やバスを選ぶときに迷ったら？ 速達バス（Udeung）でソウルから釜山までの料金は約₩39,700で、約4時間10-20分かかります。 交通の短い待機時間や緊急の接続のための余裕時間を考慮してください。 📖 Land in Koreaのプロフィールにあるリンクを開き、「KTX vs. SRT vs. 長距離バス」の検索結果を参照してください。 #韓国旅行 #釜山 #KTX #長距離バス #韓国旅行\n\n🇨🇳 韩国长途旅行计划中？不知道要坐火车还是坐巴士？ 高速巴士（Udeung）从首尔到釜山的费用约为39,700元，耗时约4小时10-20分钟。 考虑到巴士行程中短暂的停留时间或紧急的连接时间。 📖 在Land in Korea的链接中打开我们的资料并搜索“KTX vs. SRT vs. 长途巴士”。 #韩国旅游 #釜山 #KTX #长途巴士 #韩国旅游\n\n🇹🇼 韓國長途旅行計畫中？不知道要坐火車還是坐巴士？ 高速巴士（Udeung）從首爾到釜山的費用約為39,700元，耗時約4小時10-20分鐘。 考慮到巴士行程中短暫的停留時間或緊急的連接時間。 📖 在Land in Korea的連結中打開我們的資料並搜尋「KTX vs. SRT vs. 長途巴士」。 #韓國旅遊 #釜山 #KTX #長途巴士 #韓國旅遊",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1795513109967-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-11-24T11:20:40.822Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-24T09:38:33.127Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g2f992e1a3de4dc4bc6e8184edb897e68b7cc061ed0b4005670bcc34e2837337d7df14bd4f19dbeeb63135a1b904fa3d84ac29647207c624807a34ac8419cbdae_1280.jpg#pixabay=5203604",
+      "https://pixabay.com/get/g05c7f22f2d9ffe18ae4bad45b242076f5a1ddec49777a6f46b3f4b6463da54b9b47bb43f8c7b4ef0784607786eedd8941c37bbe8d8191793f1fd40f51c24b9de_1280.jpg#pixabay=4886525"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "KTX vs. SRT vs. intercity bus for long-distance travel",
+    "qualityGate": {
+      "pass": false,
+      "reason": "원본 자료에 없는 금액: facebook: ₩53,400",
+      "model": "rule",
+      "failedPlatforms": [
+        "facebook"
+      ],
+      "checkedAt": "2026-11-24T09:37:16.832Z"
+    }
   }
 ]
