@@ -173,15 +173,15 @@
     },
     "facebook_reply": {
       "attempts": [
-        "2026-11-09T17:51:01.847Z"
+        "2026-11-24T21:33:54.618Z"
       ],
       "successes": [
-        "2026-11-09T17:51:01.847Z"
+        "2026-11-24T21:33:54.618Z"
       ],
       "consecutiveFailures": 0,
       "blockedUntil": null,
-      "lastAttemptAt": "2026-11-09T17:51:01.847Z",
-      "lastSuccessAt": "2026-11-09T17:51:01.847Z"
+      "lastAttemptAt": "2026-11-24T21:33:54.618Z",
+      "lastSuccessAt": "2026-11-24T21:33:54.618Z"
     }
   }
 }
