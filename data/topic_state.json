@@ -1,5 +1,5 @@
 {
-  "lastIndex": 53,
+  "lastIndex": 39,
   "history": [
     {
       "index": 22,
@@ -588,6 +588,12 @@
       "topic": "Noraebang etiquette: how Korean karaoke actually works for first-timers",
       "at": "2026-11-24T16:08:03.580Z",
       "source": "facebook-fill"
+    },
+    {
+      "index": 39,
+      "topic": "Timing cherry blossoms and fall foliage in Korea without hitting peak crowds",
+      "at": "2026-11-24T16:53:45.299Z",
+      "source": "instagram-fill"
     }
   ],
   "recentImageUrls": [
@@ -1899,7 +1905,8 @@
     "https://pixabay.com/get/g2f992e1a3de4dc4bc6e8184edb897e68b7cc061ed0b4005670bcc34e2837337d7df14bd4f19dbeeb63135a1b904fa3d84ac29647207c624807a34ac8419cbdae_1280.jpg#pixabay=5203604",
     "https://pixabay.com/get/g05c7f22f2d9ffe18ae4bad45b242076f5a1ddec49777a6f46b3f4b6463da54b9b47bb43f8c7b4ef0784607786eedd8941c37bbe8d8191793f1fd40f51c24b9de_1280.jpg#pixabay=4886525",
     "https://images.pexels.com/photos/41206342/pexels-photo-41206342.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://images.pexels.com/photos/31720211/pexels-photo-31720211.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "https://images.pexels.com/photos/31720211/pexels-photo-31720211.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/40354224/pexels-photo-40354224.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
   ],
   "recentVideoUrls": [
     "https://videos.pexels.com/video-files/19577787/19577787-uhd_2160_3840_30fps.mp4",
@@ -2434,7 +2441,8 @@
     "https://videos.pexels.com/video-files/40748319/17404092_1920_1080_30fps.mp4",
     "https://videos.pexels.com/video-files/40398770/17261203_1920_1080_30fps.mp4",
     "https://cdn.pixabay.com/video/2023/01/17/146937-790648590_large.mp4",
-    "https://videos.pexels.com/video-files/40398769/17261182_1920_1080_30fps.mp4"
+    "https://videos.pexels.com/video-files/40398769/17261182_1920_1080_30fps.mp4",
+    "https://cdn.pixabay.com/video/2020/05/15/39179-420257120_large.mp4"
   ],
   "recentMusicUrls": [
     "https://prod-1.storage.jamendo.com/?trackid=20237&format=mp32",
@@ -2557,7 +2565,8 @@
     "https://prod-1.storage.jamendo.com/?trackid=283598&format=mp32",
     "https://prod-1.storage.jamendo.com/?trackid=431036&format=mp32",
     "https://prod-1.storage.jamendo.com/?trackid=665946&format=mp32",
-    "https://prod-1.storage.jamendo.com/?trackid=431036&format=mp32"
+    "https://prod-1.storage.jamendo.com/?trackid=431036&format=mp32",
+    "https://prod-1.storage.jamendo.com/?trackid=665882&format=mp32"
   ],
   "topicPhotographers": {
     "Why Google Maps fails in Korea and how the road-name address system actually works": [
@@ -2645,7 +2654,8 @@
       "Yanto Sam",
       "성두 홍",
       "Lala Mammadova",
-      "Clumsy Tangerine"
+      "Clumsy Tangerine",
+      "Little forest 작은 숲"
     ],
     "Public bathhouse culture in Korea beyond the jjimjilbang: the mogyoktang rules": [
       "Henry Acevedo",

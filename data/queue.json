@@ -58530,5 +58530,34 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-24T16:08:01.749Z",
     "blogUrl": "https://landinkorea.com/posts/korea-tipping-and-service-charges.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "2b51f183-ab51-4083-9285-4e9a90867724",
+    "text": "Planning to snap cherry blossoms at Gyeongbokgung and scared you’ll miss the bloom?\nThey actually start in Jeju, Busan & Changwon late March and only reach Seoul in early April.\nWhen did you catch your first bloom? Share below!\n\n📖 Open the Land in Korea link in our profile and search “Timing cherry blossoms and fall foliage in Korea without hitting peak crowds”.\n\n🎬 Video source: Pixabay\n\n#KoreaTravel #VisitKorea #SeoulTrip #CherryBlossom #Seoraksan\n\n🎵 \"Anima Pop - Save Me\" by Vienna In Love is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.\n\n🇯🇵 景福宮で桜を撮影する予定で、満開の時期を逃してしまうのではないかと心配ですか？\n桜は実際には3月下旬に済州島、釜山、昌原で咲き始め、4月上旬になってようやくソウルに到達します。\n初めて桜の花を見たのはいつですか？下のコメント欄で教えてください！\n\n📖 当社のプロフィールにある「Land in Korea」のリンクを開き、「韓国の桜と紅葉の時期を、混雑のピークを避けて楽しむ」を検索してください。\n\n#韓国旅行 #韓国訪問 #ソウル旅行 #桜 #雪岳山\n\n🇨🇳 正计划在景福宫拍樱花，担心错过花期吗？\n其实，樱花在3月下旬就开始在济州岛、釜山和昌原盛开，到4月初才开到首尔。\n您是什么时候看到第一朵樱花的？请在下方分享！\n\n📖 打开我们个人资料中的“韩国旅游局”链接，搜索“错峰赏韩国樱花和秋叶的最佳时机”。\n\n#韩国旅游 #畅游韩国 #首尔之旅 #樱花 #雪岳山\n\n🇹🇼 正打算到景福宮拍櫻花，但擔心會錯過花期嗎？\n其實櫻花會在 3 月下旬先在濟州島、釜山和昌原盛開，直到 4 月上旬才會開到首爾。\n您是什麼時候看到第一朵櫻花的？歡迎在下方分享！\n\n📖 開啟我們個人檔案中的「韓國旅遊局」連結，搜尋「避開人潮高峰，掌握韓國櫻花與秋葉的賞花時機」。\n\n#韓國旅遊 #走訪韓國 #首爾之旅 #櫻花 #雪嶽山",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1795539323430-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-11-24T17:44:29.595Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-24T16:55:32.278Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/40354224/pexels-photo-40354224.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2020/05/15/39179-420257120_large.mp4",
+    "videoAttribution": "Pixabay",
+    "topic": "Timing cherry blossoms and fall foliage in Korea without hitting peak crowds",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 내용이 일치하고 문장도 자연스럽고 사실도 과장되지 않아 발행 가능",
+      "model": "groq",
+      "checkedAt": "2026-11-24T16:54:57.378Z"
+    }
   }
 ]
