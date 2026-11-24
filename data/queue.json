@@ -58100,7 +58100,7 @@
       "threads"
     ],
     "scheduledAt": "2026-11-24T15:23:18.510Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-24T09:54:33.387Z",
     "approved": true,
@@ -58550,7 +58550,7 @@
       "instagram"
     ],
     "scheduledAt": "2026-11-24T17:44:29.595Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-24T16:55:32.278Z",
     "approved": true,
