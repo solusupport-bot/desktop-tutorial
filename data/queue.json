@@ -57574,8 +57574,12 @@
       "instagram"
     ],
     "scheduledAt": "2026-11-24T11:20:40.822Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "18124117450985289"
+      }
+    },
     "createdAt": "2026-11-24T09:38:33.127Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -57596,7 +57600,8 @@
         "facebook"
       ],
       "checkedAt": "2026-11-24T09:37:16.832Z"
-    }
+    },
+    "processedAt": "2026-11-24T13:54:28.488Z"
   },
   {
     "id": "6c38e0ff-8a7e-468a-80ed-cc3ccd319977",
