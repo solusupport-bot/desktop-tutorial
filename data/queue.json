@@ -57198,7 +57198,7 @@
       "instagram"
     ],
     "scheduledAt": "2026-11-24T22:01:39.187Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-24T04:56:46.237Z",
     "approved": true,
@@ -58073,7 +58073,7 @@
       "threads"
     ],
     "scheduledAt": "2026-11-24T15:58:55.141Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-24T09:52:28.105Z",
     "approved": true,
