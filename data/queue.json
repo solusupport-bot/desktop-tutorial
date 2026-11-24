@@ -57257,5 +57257,92 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-24T05:04:48.289Z",
     "blogUrl": "https://landinkorea.com/posts/korea-emergency-numbers-24hr-pharmacies.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "3884d5ed-6320-43fa-85bd-c7770e58948a",
+    "text": "For actual leases, Korea uses two systems.\n\nWolse is monthly rent plus a security deposit (bojeunggeum) that is still typically a large lump sum by international standards; jeonse means no monthly rent at all, but you hand over a very large deposit that's returned when you leave.\n\nBecause those deposits are so large, tenant protection matters: residents register their lease and move-in date at the local district office to secure priority on their deposit, and it's standard to check the property's registry document for existing mortgages before signing.\n\nDid this trip you up your first time too? Drop a comment.",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-24T21:09:15.516Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-24T05:57:36.520Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Short-term vs. long-term housing in Korea: guesthouse, goshiwon, officetel, and the deposit system",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq와 Cloudflare 둘 다 실패했습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-24T05:57:30.374Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-24T05:57:36.501Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-short-term-vs-long-term-housing-in-korea-guesthouse-goshiwon-officetel-and-the-deposit-system.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "e6d5979b-e268-40eb-8093-0a6d32c2b68e",
+    "text": "The order of operations trips up almost every new resident: you generally need an Alien Registration Card (ARC) before you can open a fully functional bank account, and you often need a Korean phone number registered in your own name before online banking and identity verification will work.\n\nSome banks will open a limited passport-only account for short-term visitors or new arrivals, but it may cap transfers or block overseas remittance until the ARC arrives.\n\nBranches with dedicated foreign-customer desks — commonly found near university districts, industrial areas, and central Seoul — are worth seeking out because staff there handle the paperwork daily.\n\nHow much did this actually cost you on your trip?",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-24T06:07:09.327Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-24T05:57:50.644Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Opening a Korean bank account as a foreigner — and why your ARC and phone number come first",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq와 Cloudflare 둘 다 실패했습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-24T05:57:43.432Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-24T05:57:50.627Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-opening-a-korean-bank-account-as-a-foreigner-and-why-your-arc-and-phone-number-come-first.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "6c5989a8-755a-4faa-a5e6-bd9ac6219b82",
+    "text": "Once you know where to go, solo eating in Korea is genuinely easy and unremarkable.\n\nGimbap-and-bunsik chains, kalguksu and noodle shops, sundubu jjigae places, donkatsu counters, department store and mall food courts, and highway rest stops are all built around single portions, and many have bar-style counter seating.\n\nOrdering is often done at a touchscreen kiosk that has an English or Chinese language button, and water, side dishes, and cutlery are usually self-serve from a station or a fridge near the door.\n\nWhat surprised you the most when you landed?",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-24T20:04:15.357Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-24T05:57:58.075Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Eating alone in Korea: which restaurants refuse solo diners and where honbap works",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq와 Cloudflare 둘 다 실패했습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-24T05:57:53.804Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-24T05:57:58.058Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-eating-alone-in-korea-which-restaurants-refuse-solo-diners-and-where-honbap-works.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
