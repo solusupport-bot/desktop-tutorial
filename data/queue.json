@@ -57166,5 +57166,90 @@
       "checkedAt": "2026-11-24T04:55:48.328Z",
       "pattern": "D"
     }
+  },
+  {
+    "id": "1f81b551-ad17-49d9-82b8-855f6477c3c3",
+    "text": "Tipping in Korea doesn't just go unused — it can actively confuse the person you hand it to.\n\nOther common first-timer mix-ups: escalators have a standing side by local custom (though rules vary by city); many small restaurants are cash-preferred or card-only with no split-bill custom; shoes usually come off indoors at traditional guesthouses and some restaurants with floor seating.\n\nHow much did this actually cost you on your trip?\n\n🇯🇵 韓国ではチップを渡しても受け取ってもらえないだけでなく、チップを渡された相手を困惑させてしまう可能性があります。初めての旅行者がよく陥るその他の誤解：エスカレーターには地域の慣習により立つべき側があります（ただし、ルールは都市によって異なります）。多くの中小規模の飲食店では、現金払いが優先されるか、カード払いのみで、割り勘の習慣がありません。伝統的なゲストハウスや床に座るタイプの飲食店では、通常、屋内では靴を脱ぎます。今回の旅行で実際にいくら費用がかかりましたか？\n\n🇨🇳 在韩国，小费不仅不会被使用，还会让收到小费的人感到困惑。初次来访者常犯的其他错误：根据当地习俗，自动扶梯有一侧是供站立的（但具体规定因城市而异）；许多小餐馆只收现金或只收银行卡，不提供分账服务；在传统客栈和一些设有榻榻米座位的餐馆，通常需要在室内脱鞋。这次旅行您实际花了多少钱？\n\n🇹🇼 在韓國給小費不僅不會被使用，還可能會讓收到小費的人感到困惑。其他初來乍到的旅客常遇到的誤會還有：根據當地習俗，搭乘手扶梯時應站在一側（但各城市的規定不盡相同）；許多小餐廳只收現金或只收信用卡，且不提供分開結帳的服務；在傳統客棧和部分設有地板座位的餐廳，通常要脫鞋才能進入室內。這趟旅程實際上花了你多少錢？",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-24T13:33:06.951Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-24T05:04:24.416Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "First-timer etiquette & common mistakes",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 부합하며 문장도 자연스럽고 여행자에게 유용한 정보를 제공한다",
+      "model": "groq",
+      "checkedAt": "2026-11-24T05:04:14.940Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-first-timer-etiquette-common-mistakes.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "b240b1c3-b004-4f79-ba15-560d321ae0d7",
+    "text": "The card payment mistake that quietly costs you extra on every single purchase: picking your home currency instead of won at checkout.\n\nDynamic currency conversion adds a hidden markup, so always choose to be charged in Korean won.\n\nCurrency exchange counters near Myeongdong and Hongdae typically offer better rates than airport kiosks — exchange only what you need for the first day or two, then top up in the city.\n\nWhat would you add for someone landing tomorrow?",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-24T08:50:39.829Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-24T05:04:31.689Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Currency & card payments",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq와 Cloudflare 둘 다 실패했습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-24T05:04:29.843Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-24T05:04:31.674Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-currency-card-payments.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "a8ef6a52-1244-4cb0-8ce3-23fa016a96dd",
+    "text": "112 and 119 both work in English in Korea — but neither is usually the number first-time travelers actually need.\n\nFor most non-emergency travel snags, the 1330 Korea Travel Hotline offers 24/7 multilingual help, from lost passports to interpretation during a hospital visit.\n\nSave 112 for police and 119 for fire, ambulance, and medical emergencies. Worth knowing before you land? Reply with what surprised you.\n\n🇯🇵 韓国では112番と119番の両方で英語に対応していますが、どちらも通常、初めての旅行者が実際に必要とする番号ではありません。緊急事態以外のほとんどの旅行トラブルについては、韓国旅行ホットライン1330が、パスポートの紛失から病院受診時の通訳まで、24時間365日対応の多言語サポートを提供しています。112は警察、119は消防、救急車、および医療上の緊急事態のために覚えておいてください。入国前に知っておくべきことはありますか？驚いたことをお答えください。\n\n🇨🇳 在韩国，112和119都提供英语服务，但通常都不是初次来韩的旅客真正需要的号码。对于大多数非紧急的旅行问题，1330韩国旅游热线提供全天候多语种帮助，从护照丢失到医院就诊时的口译，应有尽有。112 仅供报警使用，119 仅供火警、救护车和医疗紧急情况使用。在抵达之前值得了解的信息有哪些？请回复让您感到意外的事情。\n\n🇹🇼 在韓國，112 和 119 都可以用英語溝通，但這兩個號碼通常都不是初次來訪的旅客真正需要的號碼。對於大多數非緊急的旅遊問題，1330 韓國旅遊諮詢熱線提供 24 小時全年無休的多語言協助，從遺失護照到就醫期間的口譯服務，應有盡有。請將 112 留給警方，119 留給消防、救護車和醫療緊急情況。在抵達前值得知道的事？請回覆讓您感到驚訝的事情。",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-24T06:43:25.411Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-24T05:04:48.303Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Emergency numbers & 24hr pharmacies",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq와 Cloudflare 둘 다 실패했습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-24T05:04:40.392Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-24T05:04:48.289Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-emergency-numbers-24hr-pharmacies.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]

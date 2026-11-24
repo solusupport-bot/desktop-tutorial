@@ -1,5 +1,5 @@
 {
-  "lastIndex": 10,
+  "lastIndex": 13,
   "history": [
     {
       "index": 22,
@@ -852,6 +852,24 @@
       "topic": "Airport transfer options",
       "at": "2026-11-24T05:03:51.951Z",
       "source": "instagram-fill"
+    },
+    {
+      "index": 11,
+      "topic": "First-timer etiquette & common mistakes",
+      "at": "2026-11-24T05:04:10.985Z",
+      "source": "threads-fill"
+    },
+    {
+      "index": 12,
+      "topic": "Currency & card payments",
+      "at": "2026-11-24T05:04:24.478Z",
+      "source": "threads-fill"
+    },
+    {
+      "index": 13,
+      "topic": "Emergency numbers & 24hr pharmacies",
+      "at": "2026-11-24T05:04:31.734Z",
+      "source": "threads-fill"
     }
   ],
   "recentImageUrls": [
