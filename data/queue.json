@@ -57198,8 +57198,12 @@
       "instagram"
     ],
     "scheduledAt": "2026-11-24T22:01:39.187Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "18121203610820392"
+      }
+    },
     "createdAt": "2026-11-24T04:56:46.237Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -57219,7 +57223,8 @@
       "model": "groq",
       "checkedAt": "2026-11-24T04:55:48.328Z",
       "pattern": "D"
-    }
+    },
+    "processedAt": "2026-11-24T22:53:56.814Z"
   },
   {
     "id": "1f81b551-ad17-49d9-82b8-855f6477c3c3",
@@ -58073,8 +58078,12 @@
       "threads"
     ],
     "scheduledAt": "2026-11-24T15:58:55.141Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "17907915681671206"
+      }
+    },
     "createdAt": "2026-11-24T09:52:28.105Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -58090,7 +58099,8 @@
       "model": "groq",
       "checkedAt": "2026-11-24T09:51:11.932Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-shipping-souvenirs-home-from-a-korean-post-office-ems-small-packets-and-sea-mail.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-shipping-souvenirs-home-from-a-korean-post-office-ems-small-packets-and-sea-mail.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-24T23:21:18.199Z"
   },
   {
     "id": "045e53c2-2e35-4c11-b4e4-7899cf28f317",
@@ -58100,8 +58110,12 @@
       "threads"
     ],
     "scheduledAt": "2026-11-24T15:23:18.510Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "17957409510280129"
+      }
+    },
     "createdAt": "2026-11-24T09:54:33.387Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -58118,7 +58132,8 @@
       "checkedAt": "2026-11-24T09:54:10.536Z",
       "pattern": "E"
     },
-    "blogUrl": "https://landinkorea.com/index.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-24T23:48:21.452Z"
   },
   {
     "id": "da8d1a34-c93c-4583-b1f7-57f53e5d18ec",
@@ -58550,8 +58565,12 @@
       "instagram"
     ],
     "scheduledAt": "2026-11-24T17:44:29.595Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "18206722294377485"
+      }
+    },
     "createdAt": "2026-11-24T16:55:32.278Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -58568,7 +58587,8 @@
       "reason": "주제와 내용이 일치하고 문장도 자연스럽고 사실도 과장되지 않아 발행 가능",
       "model": "groq",
       "checkedAt": "2026-11-24T16:54:57.378Z"
-    }
+    },
+    "processedAt": "2026-11-24T23:48:55.440Z"
   },
   {
     "id": "c76f2d78-772a-41ff-bf15-dd1a7e1f3a3d",
