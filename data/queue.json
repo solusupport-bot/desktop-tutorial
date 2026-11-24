@@ -58254,5 +58254,92 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-24T11:01:45.156Z",
     "blogUrl": "https://landinkorea.com/posts/korea-t-money-transit-card.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "089de396-1362-4280-adff-05ff5dcb6a4a",
+    "text": "Hwaseong Fortress isn't a ruin you view from outside — it's a UNESCO World Heritage fortress wall you actually walk along, built in 1796 and still encircling much of old Suwon city.\n\nThe full wall walk covers several kilometers with gates, command posts, and watchtowers along the way, and most visitors underestimate how long the full loop takes.\n\nHwaseong Haenggung, a temporary palace within the fortress grounds, hosts historical reenactment ceremonies on select days worth checking before you go.\n\nAnyone else lose money on this mistake?",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-24T18:35:18.405Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-24T12:58:41.013Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Suwon Hwaseong Fortress",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq와 Cloudflare 둘 다 실패했습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-24T12:58:30.482Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-24T12:58:40.995Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-suwon-hwaseong-fortress.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "04cb8fb7-8ef1-47fd-87c2-9de9ba1ad6a4",
+    "text": "Booking a domestic flight to Jeju without comparing total door-to-door time against KTX-plus-onward-transit for mainland trips is the most common miscalculation first-timers make.\n\nDomestic terminals at Gimpo and Gimhae (Busan) are separate from the international terminals, so don't assume international arrival/departure procedures apply — domestic flights use lighter security and no passport control.\n\nPeak holiday periods sell out both flights and KTX seats fast, so book mainland long-distance and Jeju flights well ahead during Korean public holidays.\n\nWhat would you add for someone landing tomorrow?",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-24T15:28:06.233Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-24T12:58:49.056Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Domestic flights vs. KTX for Jeju and long-distance trips",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq와 Cloudflare 둘 다 실패했습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-24T12:58:46.749Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-24T12:58:49.039Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-domestic-flights-vs-ktx-for-jeju-and-long-distance-trips.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "8cf08401-c342-4915-bd09-135541e2681d",
+    "text": "Passes typically come in 24/48/72-hour versions activated from first use, not from purchase, so timing your first scan matters for getting full value.\n\nA Seoul attraction pass (bundling entry to multiple paid sites, sometimes with transit included) only pays off past a specific number of paid attractions per day — buy one for a light sightseeing day and you'll likely spend more than paying individually.\n\nWorth knowing before you land? Reply with what surprised you.",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-24T22:56:50.969Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-24T12:59:05.317Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Seoul attraction pass comparison",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq와 Cloudflare 둘 다 실패했습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-24T12:58:57.655Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-24T12:59:05.299Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-seoul-attraction-pass-comparison.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
