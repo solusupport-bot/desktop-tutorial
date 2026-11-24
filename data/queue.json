@@ -57004,5 +57004,37 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-24T02:04:38.893Z",
     "blogUrl": "https://landinkorea.com/posts/korea-myeongdong-shopping-district.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "b86bf890-5029-484f-b3a4-3032d3353249",
+    "text": "Jeju Island isn't reachable by train or the KTX network at all — it's a flight or a long ferry, which surprises visitors used to mainland Korea's rail coverage.\n\nIt's a volcanic island known for Hallasan (South Korea's tallest mountain), black sand beaches, and a noticeably different local dialect.\n\nSave this guide — trust me on this one.\n\n📖 Open the Land in Korea link in our profile and search “Jeju Island”.\n\n#KoreaTravel #SeoulTrip #KoreaTips #TravelKorea #VisitSeoul\n\n🎵 \"Vintage (Acoustic)\" by Daniel Bautista is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1795491479349-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-11-24T22:34:36.378Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-24T03:38:00.007Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/38982157/pexels-photo-38982157.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5575170/pexels-photo-5575170.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Jeju Island",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq와 Cloudflare 둘 다 실패했습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-24T03:37:12.505Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-24T03:37:59.979Z"
   }
 ]
