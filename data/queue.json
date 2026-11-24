@@ -56908,5 +56908,90 @@
     },
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-24T01:57:47.265Z"
+  },
+  {
+    "id": "f78e6d67-d534-4918-b4af-88eeefda8bfb",
+    "text": "Bukchon Hanok Village is a real residential neighborhood, not a museum — and that's exactly why so many visitors get it wrong.\n\nPeople still live in these traditional hanok houses, so some alleys post 'quiet please' signs after certain hours out of respect for residents.\n\nThe best photo spots (like the view down the sloped alley near Gahoe-dong) get crowded fast in the morning. Anyone else lose money on this mistake?\n\n🇯🇵 北村韓屋村は博物館ではなく、実際に人が住んでいる住宅街です。だからこそ、多くの訪問者が誤解してしまうのです。これらの伝統的な韓屋には今でも人々が住んでいるため、住民への配慮から、特定の時間帯以降は「静かにしてください」という標識が掲げられている路地もあります。最高の写真スポット（嘉会洞（カホェドン）近くの坂道から見下ろす景色など）は、朝早くからあっという間に混雑します。この間違いで損をした人は他にいますか？\n\n🇨🇳 北村韩屋村是一个真正的住宅区，而不是博物馆——这正是为什么这么多游客会误解它的原因。人们仍然居住在这些传统的韩屋里，因此出于对居民的尊重，一些小巷在特定时段后会竖起“请保持安静”的标志。最好的拍照点（比如嘉会洞附近坡道小巷的景色）在早上很快就会变得拥挤。还有谁因为这个错误而损失了钱？\n\n🇹🇼 北村韓屋村是一個真正的住宅區，而不是博物館——這正是許多遊客誤解的原因。人們仍然住在這些傳統的韓屋裡，因此為了尊重居民，有些巷弄會在特定時間後豎立「請保持安靜」的標誌。最佳的拍照景點（例如嘉會洞附近的斜坡巷子往下看的景色）在早上很快就會變得人滿為患。還有其他人因為這個錯誤而損失金錢嗎？",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-24T21:11:39.432Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-24T02:04:11.604Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Bukchon Hanok Village",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련된 내용이며 문장이 자연스럽고 과장된 사실이 없어 여행 정보로 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-24T02:03:57.513Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-bukchon-hanok-village.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "0c60416b-7fcc-406d-b584-5c5b997617ea",
+    "text": "From Myeongdong, the marked trail is about 30-40 minutes of walking, mostly stairs and paved path.\n\nMost tourists pay for the N Seoul Tower elevator without realizing the hike up Namsan is free, scenic, and takes less time than people assume.\n\nThe tower's paid deck adds height, but the free plaza view is already above most of the city skyline. What would you add for someone landing tomorrow?\n\n🇯🇵 明洞から標識のある登山道までは徒歩で約30～40分で、ほとんどが階段と舗装された道です。ほとんどの観光客は、南山へのハイキングが無料で景色が美しく、思ったよりも時間がかからないことに気づかずに、Nソウルタワーのエレベーターの料金を支払っています。タワーの有料展望台からはさらに高い景色を望めますが、無料の広場からもすでに街のスカイラインのほとんどを見下ろすことができます。明日到着する人に向けて、何か付け加えることはありますか？\n\n🇨🇳 从明洞出发，沿着有标记的小路步行约 30-40 分钟即可到达，小路大多是台阶和铺好的步道。大多数游客都会花钱乘坐N首尔塔的电梯，却不知道徒步登上南山是免费的，沿途风景优美，而且所花的时间比人们想象的要少。登上塔楼的付费观景台可以看得更高，但免费的广场观景台已经高出城市天际线的大部分建筑。对于明天就要抵达的人，您还会补充些什么？\n\n🇹🇼 從明洞出發，沿著標示的步道步行約 30-40 分鐘即可抵達，步道大多是樓梯和鋪面道路。大多數遊客都會花錢搭乘 N 首爾塔的電梯，卻不知道爬上南山的步道是免費的，而且風景優美，所需時間也比大家想像的要短。搭乘付費電梯可以登上更高的觀景台，但免費的廣場景觀已經高於大部分的城市天際線。你會為明天抵達的人補充哪些資訊？",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-24T04:21:29.632Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-24T02:04:33.256Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "N Seoul Tower (Namsan)",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq와 Cloudflare 둘 다 실패했습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-24T02:04:19.291Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-24T02:04:33.238Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "be62d542-1975-4548-977f-1fefae217c16",
+    "text": "Myeongdong's street food stalls mostly open in the late afternoon, so showing up at lunchtime expecting the famous street food scene is the single most common first-timer mistake.\n\nIt's Seoul's biggest shopping district for cosmetics and fashion, with staff at many stores speaking basic English, Japanese, or Chinese.\n\nTax Free shopping is everywhere here — look for the sticker before you buy.\n\nWorth knowing before you land? Reply with what surprised you.",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-24T22:09:55.831Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-24T02:04:38.909Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Myeongdong shopping district",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq와 Cloudflare 둘 다 실패했습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-24T02:04:36.632Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-24T02:04:38.893Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-myeongdong-shopping-district.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]

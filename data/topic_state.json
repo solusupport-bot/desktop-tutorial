@@ -1,5 +1,5 @@
 {
-  "lastIndex": 0,
+  "lastIndex": 3,
   "history": [
     {
       "index": 22,
@@ -744,6 +744,24 @@
       "topic": "Gyeongbokgung Palace",
       "at": "2026-11-24T02:01:59.758Z",
       "source": "instagram-fill"
+    },
+    {
+      "index": 1,
+      "topic": "Bukchon Hanok Village",
+      "at": "2026-11-24T02:02:19.253Z",
+      "source": "threads-fill"
+    },
+    {
+      "index": 2,
+      "topic": "N Seoul Tower (Namsan)",
+      "at": "2026-11-24T02:04:11.658Z",
+      "source": "threads-fill"
+    },
+    {
+      "index": 3,
+      "topic": "Myeongdong shopping district",
+      "at": "2026-11-24T02:04:33.310Z",
+      "source": "threads-fill"
     }
   ],
   "recentImageUrls": [
