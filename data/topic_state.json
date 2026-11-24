@@ -1,5 +1,5 @@
 {
-  "lastIndex": 39,
+  "lastIndex": 56,
   "history": [
     {
       "index": 22,
@@ -594,6 +594,24 @@
       "topic": "Timing cherry blossoms and fall foliage in Korea without hitting peak crowds",
       "at": "2026-11-24T16:53:45.299Z",
       "source": "instagram-fill"
+    },
+    {
+      "index": 54,
+      "topic": "Unmanned kiosk ordering in Korea: why humans are disappearing from the counter",
+      "at": "2026-11-24T16:55:34.095Z",
+      "source": "threads-fill"
+    },
+    {
+      "index": 55,
+      "topic": "Mobile payments in Korea: Kakao Pay, Naver Pay, and why Apple Pay doesn’t work",
+      "at": "2026-11-24T16:56:19.894Z",
+      "source": "threads-fill"
+    },
+    {
+      "index": 56,
+      "topic": "Public bathhouse culture in Korea beyond the jjimjilbang: the mogyoktang rules",
+      "at": "2026-11-24T16:56:27.451Z",
+      "source": "threads-fill"
     }
   ],
   "recentImageUrls": [

@@ -58559,5 +58559,92 @@
       "model": "groq",
       "checkedAt": "2026-11-24T16:54:57.378Z"
     }
+  },
+  {
+    "id": "c76f2d78-772a-41ff-bf15-dd1a7e1f3a3d",
+    "text": "The order most people get stuck on is paying — Korean kiosks almost always want the card tapped or inserted into a slot on the machine itself, not handed to a person, and cash isn't accepted at many of them at all.\n\nIf the machine rejects a foreign card, that's usually a magnetic-stripe-only card issue (rare now) or a daily overseas-transaction limit from your home bank, not the kiosk being broken — try a different card or go to the counter if one still exists.\n\nWhat surprised you the most when you landed?",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-24T17:15:42.453Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-24T16:56:19.832Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Unmanned kiosk ordering in Korea: why humans are disappearing from the counter",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq와 Cloudflare 둘 다 실패했습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-24T16:56:01.551Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-24T16:56:19.811Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-unmanned-kiosk-ordering-in-korea-why-humans-are-disappearing-from-the-counter.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "df70624c-0f64-49d8-bf06-6ed76225e4e4",
+    "text": "Korea is one of the few major markets where Apple Pay barely functions and Google Pay's tap-to-pay is spotty, because most Korean card terminals were built around a local standard (and a long-running NFC licensing dispute with Apple that only partly resolved in 2023) rather than the Visa/Mastercard contactless network phones use everywhere else.\n\nLocals pay with Kakao Pay or Naver Pay instead — both are QR-code and barcode-based wallets tied to a Korean bank account or registered card, built into apps most Koreans already have open all day.\n\nAnyone else lose money on this mistake?",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-24T19:33:48.351Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-24T16:56:27.390Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Mobile payments in Korea: Kakao Pay, Naver Pay, and why Apple Pay doesn’t work",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq와 Cloudflare 둘 다 실패했습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-24T16:56:23.990Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-24T16:56:27.370Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-mobile-payments-in-korea-kakao-pay-naver-pay-and-why-apple-pay-doesn-t-work.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "201e5269-d7ed-4c73-a9a5-27e401513d77",
+    "text": "The scrub service (therapist-run full-body exfoliation, often called a 'Korean scrub' outside Korea) is a separate paid add-on inside most mogyoktang, not something you do yourself with the provided seating stools and basins — though self-scrubbing with the resident equipment is completely normal and free.\n\nShowering thoroughly before entering any shared tub is treated as a hard rule, not a suggestion, and skipping it is the fastest way to get a pointed look from regulars.\n\nWhat would you add for someone landing tomorrow?",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-24T23:44:24.343Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-24T16:56:51.244Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Public bathhouse culture in Korea beyond the jjimjilbang: the mogyoktang rules",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq와 Cloudflare 둘 다 실패했습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-24T16:56:38.400Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-24T16:56:51.224Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-public-bathhouse-culture-in-korea-beyond-the-jjimjilbang-the-mogyoktang-rules.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
