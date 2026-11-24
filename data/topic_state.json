@@ -1,5 +1,5 @@
 {
-  "lastIndex": 45,
+  "lastIndex": 46,
   "history": [
     {
       "index": 22,
@@ -647,6 +647,12 @@
       "index": 45,
       "topic": "Day-tripping from Seoul by regular train: Mugunghwa, ITX-Saemaeul, and the Gyeongui-Jungang line",
       "at": "2026-11-24T19:54:00.634Z",
+      "source": "facebook-fill"
+    },
+    {
+      "index": 46,
+      "topic": "Doing laundry in Korea: coin laundromats, the dryer problem, and neighborhood dry cleaners",
+      "at": "2026-11-24T23:49:21.574Z",
       "source": "facebook-fill"
     }
   ],
@@ -3174,7 +3180,8 @@
     "Doing laundry in Korea: coin laundromats, the dryer problem, and neighborhood dry cleaners": [
       "Ayyeee Ayyeee",
       "Jan Židlický",
-      "Theodore Nguyen"
+      "Theodore Nguyen",
+      "Jungsik Kwak"
     ],
     "Mobile payments in Korea: Kakao Pay, Naver Pay, and why Apple Pay doesn’t work": [
       "Theodore Nguyen"
