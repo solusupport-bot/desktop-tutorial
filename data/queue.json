@@ -58153,8 +58153,12 @@
       "instagram"
     ],
     "scheduledAt": "2026-11-24T16:51:33.736Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "18233502031334325"
+      }
+    },
     "createdAt": "2026-11-24T10:55:27.523Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -58174,7 +58178,8 @@
         "facebook"
       ],
       "checkedAt": "2026-11-24T10:55:00.834Z"
-    }
+    },
+    "processedAt": "2026-11-24T17:29:51.454Z"
   },
   {
     "id": "481aafcd-a492-456c-9449-8cc25ac00df9",
