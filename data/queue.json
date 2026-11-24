@@ -57134,5 +57134,37 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-24T03:39:45.454Z",
     "blogUrl": "https://landinkorea.com/posts/korea-hongdae-nightlife-and-youth-culture-district.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "6ba66e02-10ad-4bc6-bc74-375654eba803",
+    "text": "Suwon sits close enough to Seoul (about 30-40 minutes by intercity train, or accessible via subway line 1) that it works as a half-day trip without an overnight stay.\n\nMost tourists only walk a short section near the entrance and miss that the fortress wraps around the whole old town — renting a bike or taking the local tour tram covers more ground than walking the entire loop on foot.\n\nComment: which one surprised you the most?\n\n📖 Open the Land in Korea link in our profile and search “Suwon Hwaseong Fortress”.\n\n#KoreaTravel #SeoulTrip #KoreaTips #TravelKorea #VisitSeoul\n\n🎵 \"Korean taste (146 bpm)\" by Prana Yama is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.\n\n🇯🇵 首爾市內約30-40分鐘的水原市的惠川城堡,雖然可以徒步環遊,但租借自行車或乘坐觀光電車可以走更遠的路。\n\n🇨🇳 首尔市内约30-40分钟的水原市的惠川城堡,虽然可以徒步环游,但租借自行车或乘坐观光电车可以走更远的路。\n\n🇹🇼 首爾市內約30-40分鐘的水原市的惠川城堡,雖然可以徒步環遊,但租借自行車或乘坐觀光電車可以走更遠的路。",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1795496203857-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-11-24T22:01:39.187Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-24T04:56:46.237Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/37436296/pexels-photo-37436296.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9757373/pexels-photo-9757373.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://pixabay.com/get/g89386579b0a278edec8ad7e9f85b68db400348e9dbadf12c438bce1e1636911c96455b02f99e80bfd9f2998b3abfe9600f0e59c987666fb9040447ec6224429c_1280.jpg#pixabay=3804300"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Suwon Hwaseong Fortress",
+    "qualityGate": {
+      "pass": true,
+      "reason": "캡션은 주제와 관련이 있고 자연스럽게 완성된 문장으로, 가격/시간/운영 여부 등에 대한 의심스러운 주장도 없고, 여행 콘텐츠로서의 유용성이 있다.",
+      "model": "groq",
+      "checkedAt": "2026-11-24T04:55:48.328Z",
+      "pattern": "D"
+    }
   }
 ]
