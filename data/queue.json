@@ -59459,5 +59459,92 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-25T06:58:20.637Z",
     "blogUrl": "https://landinkorea.com/posts/korea-seoul-subway-details-nobody-tells-you-exit-numbers-transfer-walks-express-trains-and-the-last-train.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "0bff0d81-6bc0-44aa-9769-d3f23519e143",
+    "text": "First-timers usually overpay by not noticing the 'service time' add-on many noraebang offer for free - ask at the counter and you'll often get 10-30 extra minutes tacked onto your booked hour at no cost.\n\nWeeknight prices run noticeably cheaper than weekend nights, and most rooms have a tambourine on the wall that's absolutely meant to be used, not decoration.\n\nDrinks and snacks can usually be ordered to the room through a wall phone or an intercom button.\n\nWhat surprised you the most when you landed?",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-25T20:12:49.256Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-25T07:56:21.332Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Noraebang etiquette: how Korean karaoke actually works for first-timers",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq와 Cloudflare 둘 다 실패했습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-25T07:56:15.345Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-25T07:56:21.316Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-noraebang-etiquette-how-korean-karaoke-actually-works-for-first-timers.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "d23f16c7-2eb8-4c53-be68-ad8f488a5f14",
+    "text": "Korea's flower and foliage seasons move geographically, and that's the whole planning trick.\n\nCherry blossoms open first in the far south — Jeju, Busan, Changwon — around late March, then sweep northward, usually reaching Seoul in early April.\n\nAutumn colors run in reverse: they start in the northern mountains like Seoraksan in early-to-mid October, hit Seoul roughly late October into early November, and finish in the southern provinces afterward.\n\nAnyone else lose money on this mistake?",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-25T21:28:37.402Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-25T07:56:37.680Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Timing cherry blossoms and fall foliage in Korea without hitting peak crowds",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq와 Cloudflare 둘 다 실패했습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-25T07:56:31.270Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-25T07:56:37.667Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-timing-cherry-blossoms-and-fall-foliage-in-korea-without-hitting-peak-crowds.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "b56aba55-d02d-4139-8fe1-710295ee5b06",
+    "text": "The order most people get stuck on is paying — Korean kiosks almost always want the card tapped or inserted into a slot on the machine itself, not handed to a person, and cash isn't accepted at many of them at all.\n\nIf the machine rejects a foreign card, that's usually a magnetic-stripe-only card issue (rare now) or a daily overseas-transaction limit from your home bank, not the kiosk being broken — try a different card or go to the counter if one still exists.\n\nWhat would you add for someone landing tomorrow?",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-25T10:27:26.299Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-25T07:56:51.053Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Unmanned kiosk ordering in Korea: why humans are disappearing from the counter",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq와 Cloudflare 둘 다 실패했습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-25T07:56:43.766Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-25T07:56:51.040Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-unmanned-kiosk-ordering-in-korea-why-humans-are-disappearing-from-the-counter.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
