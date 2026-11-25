@@ -57955,7 +57955,7 @@
       "tumblr"
     ],
     "scheduledAt": "2026-11-25T03:43:02.336Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-24T09:53:12.937Z",
     "approved": true,
@@ -58011,7 +58011,7 @@
       "bluesky"
     ],
     "scheduledAt": "2026-11-25T03:56:28.033Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-24T09:54:46.545Z",
     "approved": true,
@@ -58039,7 +58039,7 @@
       "mastodon"
     ],
     "scheduledAt": "2026-11-25T04:27:04.352Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-24T09:54:46.575Z",
     "approved": true,
