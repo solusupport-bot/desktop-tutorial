@@ -57882,7 +57882,7 @@
       "bluesky"
     ],
     "scheduledAt": "2026-11-25T01:12:12.835Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-24T09:53:12.865Z",
     "approved": true,
@@ -57910,7 +57910,7 @@
       "mastodon"
     ],
     "scheduledAt": "2026-11-25T01:43:00.688Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-24T09:53:12.903Z",
     "approved": true,
