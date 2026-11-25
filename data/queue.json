@@ -57727,8 +57727,13 @@
       "tumblr"
     ],
     "scheduledAt": "2026-11-25T07:58:12.648Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "tumblr": {
+        "id": "834251270581846016",
+        "url": "https://landinkorea.tumblr.com/post/834251270581846016"
+      }
+    },
     "createdAt": "2026-11-24T09:48:13.593Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -57745,7 +57750,8 @@
       "checkedAt": "2026-11-24T09:47:15.455Z",
       "pattern": "B"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-ktx-vs-srt-vs-intercity-bus-for-long-distance-travel.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-ktx-vs-srt-vs-intercity-bus-for-long-distance-travel.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-25T10:53:30.453Z"
   },
   {
     "id": "a44ff9bd-dbd4-49b8-b65f-681827acf8d6",
@@ -58973,8 +58979,12 @@
       "instagram"
     ],
     "scheduledAt": "2026-11-25T09:50:44.521Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "18656791201012912"
+      }
+    },
     "createdAt": "2026-11-25T02:04:01.140Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -58993,7 +59003,8 @@
       "model": "groq",
       "checkedAt": "2026-11-25T02:01:33.550Z",
       "pattern": "A"
-    }
+    },
+    "processedAt": "2026-11-25T10:54:03.493Z"
   },
   {
     "id": "2a200a9f-039a-4e8e-ba87-788d890ed751",
