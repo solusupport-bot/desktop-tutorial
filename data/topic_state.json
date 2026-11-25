@@ -1,5 +1,5 @@
 {
-  "lastIndex": 55,
+  "lastIndex": 42,
   "history": [
     {
       "index": 22,
@@ -978,6 +978,30 @@
       "topic": "Mobile payments in Korea: Kakao Pay, Naver Pay, and why Apple Pay doesn’t work",
       "at": "2026-11-25T07:56:52.408Z",
       "source": "facebook-fill"
+    },
+    {
+      "index": 56,
+      "topic": "Public bathhouse culture in Korea beyond the jjimjilbang: the mogyoktang rules",
+      "at": "2026-11-25T08:21:26.047Z",
+      "source": "daily"
+    },
+    {
+      "index": 40,
+      "topic": "Learning to read Hangul in a weekend — and why romanized signs still confuse you",
+      "at": "2026-11-25T08:22:32.402Z",
+      "source": "daily"
+    },
+    {
+      "index": 41,
+      "topic": "Hospital vs. clinic vs. pharmacy in Korea: where to actually go when you get sick",
+      "at": "2026-11-25T08:22:45.726Z",
+      "source": "daily"
+    },
+    {
+      "index": 42,
+      "topic": "Cafes as workspaces in Korea: unspoken rules of study cafes, franchise chains, and 'no-laptop' signs",
+      "at": "2026-11-25T08:22:50.927Z",
+      "source": "daily"
     }
   ],
   "recentImageUrls": [
@@ -3082,7 +3106,10 @@
       "Fhriestley Penaflor",
       "Asia Culture Center",
       "Theodore Nguyen",
-      "MH Jeong"
+      "MH Jeong",
+      "Rüveyda Akkaya",
+      "FREE VIDEO HAPPY",
+      "vedanti"
     ],
     "Learning to read Hangul in a weekend — and why romanized signs still confuse you": [
       "Theodore Nguyen",
