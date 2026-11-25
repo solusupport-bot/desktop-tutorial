@@ -1,5 +1,5 @@
 {
-  "lastIndex": 31,
+  "lastIndex": 33,
   "history": [
     {
       "index": 22,
@@ -900,6 +900,24 @@
       "topic": "Hailing a taxi in Korea: Kakao T vs. street taxis vs. airport 'deluxe' cabs",
       "at": "2026-11-25T06:57:17.014Z",
       "source": "instagram-fill"
+    },
+    {
+      "index": 32,
+      "topic": "Why Google Maps fails in Korea and how the road-name address system actually works",
+      "at": "2026-11-25T06:57:57.668Z",
+      "source": "threads-fill"
+    },
+    {
+      "index": 64,
+      "topic": "Christmas in Korea: a couples' holiday, light displays, and what stays open on December 25",
+      "at": "2026-11-25T06:58:06.690Z",
+      "source": "threads-fill"
+    },
+    {
+      "index": 33,
+      "topic": "Seoul subway details nobody tells you: exit numbers, transfer walks, express trains, and the last train",
+      "at": "2026-11-25T06:58:15.826Z",
+      "source": "threads-fill"
     }
   ],
   "recentImageUrls": [

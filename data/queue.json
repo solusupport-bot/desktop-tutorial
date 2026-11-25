@@ -59365,5 +59365,93 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-25T04:59:08.105Z",
     "blogUrl": "https://landinkorea.com/posts/korea-first-timer-etiquette-common-mistakes.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "eb042b0e-737c-463a-8cb6-ae7f999c8f42",
+    "text": "Google Maps can show you subway and bus routes in Korea, but it can't give full driving or detailed walking directions, because national law restricts exporting precise mapping data to overseas servers.\n\nLocals use Naver Map or Kakao Map instead, both of which have English interfaces and are far more accurate for walking, bus arrivals, and indoor subway exits.\n\nBusiness hours, menus, and 'currently open' info are also much more reliable on the Korean apps, since that's where shops actually register themselves.\n\nWorth knowing before you land? Reply with what surprised you.",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-25T20:32:47.776Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-25T06:58:06.644Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Why Google Maps fails in Korea and how the road-name address system actually works",
+    "qualityGate": {
+      "pass": false,
+      "reason": "첫 줄 규칙 위반: facebook: 최근 30일 안에 쓴 첫 줄 재사용",
+      "model": "rule",
+      "failedPlatforms": [
+        "facebook"
+      ],
+      "checkedAt": "2026-11-25T06:58:01.038Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-why-google-maps-fails-in-korea-and-how-the-road-name-address-system-actually-works.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "6b8722ec-0922-4e5b-9b82-72ac5abd1dac",
+    "text": "The Shinsegae main store's media facade plays a new Christmas film daily from 5 p.\n\nSeoul's Christmas lights cluster in Myeongdong.\n\nm. Did this trip you up your first time too? Drop a comment.\n\n🇯🇵 新世界百貨店本店のメディアファサードでは、毎日午後5時から新しいクリスマス映画が上映されます。ソウルのクリスマスイルミネーションは明洞に集中しています。初めてのときも、このせいで躓きましたか？コメントを残してください。\n\n🇨🇳 新世界百货总店的媒体幕墙每天下午5点起播放新的圣诞影片。首尔的圣诞灯饰集中在明洞。你也像我一样第一次来这里吗？欢迎留言。\n\n🇹🇼 新世界百貨總店的媒體牆面每天下午 5 點起播放新的聖誕電影。首爾的聖誕燈飾集中在明洞。這也是你第一次遇到這種情況嗎？歡迎留言分享。",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-25T12:28:26.445Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-25T06:58:15.791Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Christmas in Korea: a couples' holiday, light displays, and what stays open on December 25",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq와 Cloudflare 둘 다 실패했습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-25T06:58:11.003Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-25T06:58:15.780Z",
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "81b2773f-6a91-4d1d-bf5a-c59b740484f4",
+    "text": "Choosing the right exit matters more than choosing the right station.\n\nLarge stations can have a dozen or more exits spread over several blocks, and coming up at the wrong one can mean a ten-minute walk back underground or across a major road with no crosswalk.\n\nNaver and Kakao Map both tell you which exit to use, and many also tell you which car and door to board so you arrive next to the transfer stairs.\n\nHow much did this actually cost you on your trip?",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-25T13:16:30.428Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-25T06:58:20.648Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Seoul subway details nobody tells you: exit numbers, transfer walks, express trains, and the last train",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq와 Cloudflare 둘 다 실패했습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-25T06:58:18.830Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-25T06:58:20.637Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-seoul-subway-details-nobody-tells-you-exit-numbers-transfer-walks-express-trains-and-the-last-train.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
