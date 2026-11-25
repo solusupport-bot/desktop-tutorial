@@ -58097,8 +58097,13 @@
       "tumblr"
     ],
     "scheduledAt": "2026-11-25T06:28:35.901Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "tumblr": {
+        "id": "834239946706567168",
+        "url": "https://landinkorea.tumblr.com/post/834239946706567168"
+      }
+    },
     "createdAt": "2026-11-24T09:54:46.606Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -58115,7 +58120,8 @@
       "checkedAt": "2026-11-24T09:54:01.224Z",
       "pattern": "A"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-dmz-and-jsa-tours.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-dmz-and-jsa-tours.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-25T07:53:31.176Z"
   },
   {
     "id": "5eb950d1-8aac-4eb2-9b98-4b63ba711675",
