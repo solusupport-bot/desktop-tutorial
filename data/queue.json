@@ -58268,8 +58268,12 @@
       "threads"
     ],
     "scheduledAt": "2026-11-24T23:51:08.024Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18025959167724005"
+      }
+    },
     "createdAt": "2026-11-24T11:01:22.088Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -58285,7 +58289,8 @@
       "model": "groq",
       "checkedAt": "2026-11-24T11:00:52.520Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-jeju-island.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-jeju-island.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-25T15:37:11.223Z"
   },
   {
     "id": "1f119409-3ff4-4e34-a47d-86845d0ec97b",
@@ -59191,8 +59196,12 @@
       "instagram"
     ],
     "scheduledAt": "2026-11-25T11:30:24.921Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "18340830949276983"
+      }
+    },
     "createdAt": "2026-11-25T03:55:58.936Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -59214,7 +59223,8 @@
         "facebook"
       ],
       "checkedAt": "2026-11-25T03:54:41.806Z"
-    }
+    },
+    "processedAt": "2026-11-25T15:37:44.186Z"
   },
   {
     "id": "d3b1f20c-a787-4221-aa8a-b00ef140149e",
@@ -59724,8 +59734,13 @@
       "bluesky"
     ],
     "scheduledAt": "2026-11-25T14:14:38.931Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3n35ihvbrjj2r",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3n35ihvbrjj2r"
+      }
+    },
     "createdAt": "2026-11-25T08:22:45.671Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -59744,7 +59759,8 @@
       ],
       "checkedAt": "2026-11-25T08:22:38.732Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-learning-to-read-hangul-in-a-weekend-and-why-romanized-signs-still-confuse-you.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-learning-to-read-hangul-in-a-weekend-and-why-romanized-signs-still-confuse-you.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-25T15:37:45.212Z"
   },
   {
     "id": "3cb01878-27c8-4439-a561-ced0dfbdd37a",
@@ -59754,8 +59770,13 @@
       "mastodon"
     ],
     "scheduledAt": "2026-11-25T14:46:11.011Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "mastodon": {
+        "id": "117677822174361543",
+        "url": "https://mastodon.social/@landinkorea/117677822174361543"
+      }
+    },
     "createdAt": "2026-11-25T08:22:45.693Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -59774,7 +59795,8 @@
       ],
       "checkedAt": "2026-11-25T08:22:38.732Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-learning-to-read-hangul-in-a-weekend-and-why-romanized-signs-still-confuse-you.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-learning-to-read-hangul-in-a-weekend-and-why-romanized-signs-still-confuse-you.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-25T15:37:47.593Z"
   },
   {
     "id": "7038a209-1009-4642-9d62-86f3021ec9f5",
