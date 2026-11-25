@@ -1,5 +1,5 @@
 {
-  "lastIndex": 12,
+  "lastIndex": 31,
   "history": [
     {
       "index": 22,
@@ -870,6 +870,36 @@
       "topic": "Currency & card payments",
       "at": "2026-11-25T04:59:09.754Z",
       "source": "facebook-fill"
+    },
+    {
+      "index": 13,
+      "topic": "Emergency numbers & 24hr pharmacies",
+      "at": "2026-11-25T06:49:06.082Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 14,
+      "topic": "Useful travel apps",
+      "at": "2026-11-25T06:52:36.425Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 15,
+      "topic": "Convenience store hacks",
+      "at": "2026-11-25T06:53:10.461Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 16,
+      "topic": "Seasonal packing & weather tips",
+      "at": "2026-11-25T06:53:50.804Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 31,
+      "topic": "Hailing a taxi in Korea: Kakao T vs. street taxis vs. airport 'deluxe' cabs",
+      "at": "2026-11-25T06:57:17.014Z",
+      "source": "instagram-fill"
     }
   ],
   "recentImageUrls": [
@@ -3409,7 +3439,8 @@
       "FREE VIDEO HAPPY",
       "Asia Culture Center",
       "Markus Winkler",
-      "MH Jeong"
+      "MH Jeong",
+      "Jungsik Kwak"
     ],
     "Useful travel apps": [
       "Theodore Nguyen"
