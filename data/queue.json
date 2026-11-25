@@ -60194,8 +60194,12 @@
       "instagram"
     ],
     "scheduledAt": "2026-11-25T13:07:34.609Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "17917677264541383"
+      }
+    },
     "createdAt": "2026-11-25T12:55:40.418Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -60220,7 +60224,8 @@
         "tumblr"
       ],
       "checkedAt": "2026-11-25T12:55:00.386Z"
-    }
+    },
+    "processedAt": "2026-11-25T19:54:08.643Z"
   },
   {
     "id": "5d8d17da-8549-43c5-8f82-5d19f86da02b",
