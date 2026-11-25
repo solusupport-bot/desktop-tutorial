@@ -60219,5 +60219,36 @@
       "checkedAt": "2026-11-25T12:57:00.093Z",
       "pattern": "D"
     }
+  },
+  {
+    "id": "81e0afe2-feee-448e-ba1f-3f5b17d17658",
+    "text": "The Seoul City Wall is 18.6 km long, with six walking courses. Naksan, from Hyehwamun to Heunginjimun (Dongdaemun), is 3.2 km and one hour. It's open 24 hours and lit at night. 📖 Full guide: https://landinkorea.com/index.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post\n\n🎵 \"Anima Pop - Save Me\" by Vienna In Love is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.\n\n🇯🇵 서울시립벽돌은 18.6 km 길이에 6 개의 걸을 수 있는 코스가 있습니다. 나산은 3.2 km 길이로 1 시간 걸립니다. 24 시간 운영되며 밤에 조명됩니다.\n\n🇨🇳 首尔市墙长18.6公里，有六条步行路线。拿山是从河华门到兴仁今门（东大门）的3.2公里和1小时。它开放24小时并在夜间点亮。\n\n🇹🇼 首爾市牆長18.6公里，有六條步行路線。拿山是從河華門到興仁今門（東大門）的3.2公里和1小時。它開放24小時並在夜間點亮。",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1795611624906-instagram.mp4",
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-26T08:17:08.656Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-25T13:00:27.318Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://sfj608538-sfj608538.ktcdn.co.kr/file/sightImage/service/2770.jpg",
+      "https://pixabay.com/get/g6f72f64fc5dcf6459a2fe199edc07154f79e91117bbaa8e528bc504b9fab41d9e60a7f60e327a646d57ff6bf966a1b0f5f19e35e3e43569113647cd4a447a15d_1280.jpg#pixabay=4593382"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Seoul City Wall (Hanyangdoseong): the six trail sections, Naksan at night, Baegak rules, and the free wall museum",
+    "qualityGate": {
+      "pass": true,
+      "reason": "캡션은 주제와 관련이 있고 자연스럽게 완성된 문장으로, 가격/시간/운영 여부 등에 대한 의심스러운 주장도 없으며, 여행 콘텐츠로서의 유용성이 있다.",
+      "model": "groq",
+      "checkedAt": "2026-11-25T12:58:59.623Z"
+    },
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]
