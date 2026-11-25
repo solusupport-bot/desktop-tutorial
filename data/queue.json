@@ -57955,8 +57955,13 @@
       "tumblr"
     ],
     "scheduledAt": "2026-11-25T03:43:02.336Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "tumblr": {
+        "id": "834228624513171456",
+        "url": "https://landinkorea.tumblr.com/post/834228624513171456"
+      }
+    },
     "createdAt": "2026-11-24T09:53:12.937Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -57973,7 +57978,8 @@
       "checkedAt": "2026-11-24T09:52:12.927Z",
       "pattern": "E"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-namdaemun-market.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-namdaemun-market.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-25T04:53:33.469Z"
   },
   {
     "id": "f9bb671a-d5eb-410e-83a7-920155c4e6f6",
@@ -58011,8 +58017,13 @@
       "bluesky"
     ],
     "scheduledAt": "2026-11-25T03:56:28.033Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3n34ehze7xg25",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3n34ehze7xg25"
+      }
+    },
     "createdAt": "2026-11-24T09:54:46.545Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -58029,7 +58040,8 @@
       "checkedAt": "2026-11-24T09:54:01.224Z",
       "pattern": "A"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-dmz-and-jsa-tours.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-dmz-and-jsa-tours.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-25T04:53:34.972Z"
   },
   {
     "id": "7df9d66d-1e2f-4cfd-815f-efaf57d0708d",
@@ -58039,8 +58051,13 @@
       "mastodon"
     ],
     "scheduledAt": "2026-11-25T04:27:04.352Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "mastodon": {
+        "id": "117675289190001800",
+        "url": "https://mastodon.social/@landinkorea/117675289190001800"
+      }
+    },
     "createdAt": "2026-11-24T09:54:46.575Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -58057,7 +58074,8 @@
       "checkedAt": "2026-11-24T09:54:01.224Z",
       "pattern": "A"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-dmz-and-jsa-tours.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-dmz-and-jsa-tours.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-25T04:53:37.183Z"
   },
   {
     "id": "392b4f32-24de-4b42-8e09-b5796a4e03af",
