@@ -59072,5 +59072,47 @@
       "pattern": "A"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-bukchon-hanok-village.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "8db2ad40-3127-4a2b-8bde-95998d2acb0e",
+    "text": "You don't need the paid observation deck at N Seoul Tower to get a great view of Seoul — the plaza around the tower already sits at the top of Namsan and is free. The cable car up is optional, and a marked hiking trail from Myeongdong reaches the summit in about 30-40 minutes. Sunset is the busiest time, so early afternoon or right after opening is best. 📖 Full guide: https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post\n\n🎵 \"Cinematic Hip Hop #2\" by Digital Content Project is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.\n\n🇯🇵 ソウルの素晴らしい景色を眺めるのに、Nソウルタワーの有料展望台に行く必要はありません。タワー周辺の広場はすでに南山の頂上にあり、無料で利用できます。ケーブルカーでの上りは任意で、明洞から整備されたハイキングコースを歩けば、約30～40分で山頂に到着できます。夕暮れ時は最も混雑するため、早めの午後または開園直後がおすすめです。\n\n🇨🇳 您无需前往N首尔塔的付费观景台，也能欣赏到首尔的美景——N首尔塔周围的广场就位于南山山顶，而且是免费的。是否乘坐缆车上山由您自行决定，从明洞出发，沿着有标记的徒步道走大约30-40分钟即可到达山顶。日落时分是最拥挤的时候，因此最好在午后早些时候或刚开门时前来。\n\n🇹🇼 您不需要到 N 首爾塔的付費觀景台，就能欣賞首爾的美景——N 首爾塔周圍的廣場就位於南山頂上，而且是免費的。搭乘纜車上山是可選的行程，從明洞出發，沿著有標示的健行步道大約 30 至 40 分鐘即可抵達山頂。日落時分是最擁擠的時候，因此最好選擇在午后或剛開放時前往。",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1795573147405-instagram.mp4",
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-25T23:26:26.119Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-25T02:19:12.924Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/gb2d0fbde05b0b00275b4f8c1b8ee89715805ee01b4bcedbb0b2ba2b0c905142d08d6fa001dcff8bc345c540beac11037afa5e1feddc99b7709daa47486097526_1280.jpg#pixabay=7111378",
+      "https://pixabay.com/get/g89235a95013ddc3b1dcc7f144c1c3977dfb02e52f154c80087e9727f6441fd32b8782c67d71aafa3f2c219c3b549aaf4df3a0c5c8a6cd98afe87b42f8317ecbd_1280.jpg#pixabay=7523495",
+      "https://pixabay.com/get/gdee93576d47e129d044bb45feaba2cc5204774c13bf88f6fa0f83f653424f7aae6fa16673b6d060c49039346cad2236bda6c04b73e905b6cfac040b172978370_1280.jpg#pixabay=4537177"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "N Seoul Tower (Namsan)",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: instagram: hook and payoff mismatch, 'Save this for your Korea trip!' does not deliver on the promise of the hike being free | facebook: hook and payoff mismatch, 'You don't need the paid observation deck...' does not deliver on the reason for the hike being free | tumblr: payoff is a list, but the hook does not promise a list | mastodon: hook and payoff mismatch, 'Don't get stuck in the crowds...' does not deliver on the reason for the hike being free | bluesky: hook and payoff mismatch, 'Don't get stuck in the crowds...' does not deliver on the reason for the hike being free",
+      "failedPlatforms": [
+        "instagram",
+        "facebook",
+        "tumblr",
+        "mastodon",
+        "bluesky"
+      ],
+      "model": "groq",
+      "pattern": "A",
+      "checkedAt": "2026-11-25T02:17:49.266Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-25T02:19:12.908Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]
