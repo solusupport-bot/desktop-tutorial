@@ -1,5 +1,5 @@
 {
-  "lastIndex": 54,
+  "lastIndex": 55,
   "history": [
     {
       "index": 22,
@@ -972,6 +972,12 @@
       "topic": "Unmanned kiosk ordering in Korea: why humans are disappearing from the counter",
       "at": "2026-11-25T07:56:37.721Z",
       "source": "threads-fill"
+    },
+    {
+      "index": 55,
+      "topic": "Mobile payments in Korea: Kakao Pay, Naver Pay, and why Apple Pay doesn’t work",
+      "at": "2026-11-25T07:56:52.408Z",
+      "source": "facebook-fill"
     }
   ],
   "recentImageUrls": [
@@ -3550,7 +3556,8 @@
       "Jungsik Kwak"
     ],
     "Mobile payments in Korea: Kakao Pay, Naver Pay, and why Apple Pay doesn’t work": [
-      "Theodore Nguyen"
+      "Theodore Nguyen",
+      "Jungsik Kwak"
     ],
     "Travel advisories & safety notices": [
       "Julien",
