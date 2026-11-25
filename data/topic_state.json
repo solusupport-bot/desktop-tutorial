@@ -1,5 +1,5 @@
 {
-  "lastIndex": 2,
+  "lastIndex": 3,
   "history": [
     {
       "index": 22,
@@ -1151,6 +1151,12 @@
       "index": 2,
       "topic": "N Seoul Tower (Namsan)",
       "at": "2026-11-25T22:24:22.935Z",
+      "source": "facebook-fill"
+    },
+    {
+      "index": 3,
+      "topic": "Myeongdong shopping district",
+      "at": "2026-11-25T22:53:43.081Z",
       "source": "facebook-fill"
     }
   ],
