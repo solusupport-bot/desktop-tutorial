@@ -57727,7 +57727,7 @@
       "tumblr"
     ],
     "scheduledAt": "2026-11-25T07:58:12.648Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-24T09:48:13.593Z",
     "approved": true,
@@ -58973,7 +58973,7 @@
       "instagram"
     ],
     "scheduledAt": "2026-11-25T09:50:44.521Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-25T02:04:01.140Z",
     "approved": true,
