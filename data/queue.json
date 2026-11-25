@@ -60304,5 +60304,39 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-25T13:55:10.502Z",
     "blogUrl": "https://landinkorea.com/posts/korea-changdeokgung-secret-garden-how-the-timed-huwon-tickets-actually-work.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "83c84026-f091-4de0-a5aa-1be0761c8684",
+    "text": "🚄 The KTX from Seoul reaches Gyeongju in about 2 h 10 min, stopping at the newly‑named Gyeongju Station (formerly Singyeongju).\n🚌 That station sits west of the historic center; take bus 60 or 61 to the city core, or 50/51/70/710 to the bus terminal.\n🕌 For a direct ride to Bulguksa, use the infrequent 700 or 711 buses from the station.\n📖 Full guide: https://landinkorea.com/index.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post\n\n🇯🇵 🚄 ソウル発のKTXは、約2時間10分で慶州に到着し、新しく名前が変わった慶州駅（旧新慶州駅）に停車します。\n🚌 この駅は歴史地区の中心部の西側にあります。市内中心部へは60番または61番のバス、バスターミナルへは50番/51番/70番/710番のバスをご利用ください。\n🕌 仏国寺まで直接行くには、駅発の700番または711番のバス（運行頻度は低め）をご利用ください。\n\n🇨🇳 🚄 从首尔乘坐KTX列车约2小时10分钟即可抵达庆州，列车停靠在新命名的庆州站（原新庆州站）。\n🚌 该车站位于历史中心以西；乘坐60路或61路巴士可前往市中心，乘坐50/51/70/710路巴士可前往巴士总站。\n🕌 如需直达佛国寺，请从车站乘坐班次较少的700路或711路巴士。\n\n🇹🇼 🚄 從首爾搭乘 KTX 大約 2 小時 10 分鐘即可抵達慶州，並停靠在更名後的慶州站（原新慶州站）。\n🚌 該車站位於歷史中心的西側；搭乘 60 或 61 路公車前往市中心，或搭乘 50/51/70/710 路公車前往公車總站。\n🕌 若要直接前往佛國寺，請從車站搭乘班次較少的 700 或 711 路公車。",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795621160482-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795621160482-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-26T00:51:59.877Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-25T15:39:25.097Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g3f2af8d9a024d4c9aa4d8dfe28f54542f9431b2332cfdf0024bf08ecaafe1d85ac4e5aef9d10c7a96ef087683446ca022e8a3b6fcb36539319171ddcf6c03e54_1280.jpg#pixabay=4528107"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Gyeongju from Seoul: the KTX, the bus to Bulguksa, and which tombs to see first",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq와 Cloudflare 둘 다 실패했습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-25T15:38:54.981Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-25T15:39:25.077Z",
+    "blogUrl": "https://landinkorea.com/index.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]
