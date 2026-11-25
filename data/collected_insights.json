@@ -5032,7 +5032,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T10:59:01.431Z"
+    "collectedAt": "2026-11-25T08:23:03.477Z"
   },
   "facebook:122127900549446391": {
     "platform": "facebook",
@@ -5041,7 +5041,7 @@
     "pattern": "A",
     "publishedAt": "2026-10-30T16:18:59.392Z",
     "metrics": {},
-    "collectedAt": "2026-11-23T10:59:02.278Z"
+    "collectedAt": "2026-11-25T08:23:04.546Z"
   },
   "bluesky:at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mz3dq6ll272j": {
     "platform": "bluesky",
@@ -5055,7 +5055,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T10:59:02.811Z"
+    "collectedAt": "2026-11-25T08:23:05.515Z"
   },
   "mastodon:117528870694618410": {
     "platform": "mastodon",
@@ -5068,7 +5068,7 @@
       "replies": 1,
       "reposts": 0
     },
-    "collectedAt": "2026-11-23T10:59:03.626Z"
+    "collectedAt": "2026-11-25T08:23:06.537Z"
   },
   "threads:18115344611148136": {
     "platform": "threads",
@@ -5083,7 +5083,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T10:59:04.320Z"
+    "collectedAt": "2026-11-25T08:23:07.198Z"
   },
   "facebook:1288453561012463_122128283703446391": {
     "platform": "facebook",
@@ -5092,7 +5092,7 @@
     "pattern": "O",
     "publishedAt": "2026-11-01T07:28:47.345Z",
     "metrics": {},
-    "collectedAt": "2026-11-23T10:59:05.061Z"
+    "collectedAt": "2026-11-25T08:23:07.867Z"
   },
   "bluesky:at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mz46nqchvf2t": {
     "platform": "bluesky",
@@ -5106,7 +5106,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T10:59:05.653Z"
+    "collectedAt": "2026-11-25T08:23:08.458Z"
   },
   "mastodon:117530764341953613": {
     "platform": "mastodon",
@@ -5119,7 +5119,7 @@
       "replies": 1,
       "reposts": 0
     },
-    "collectedAt": "2026-11-23T10:59:06.509Z"
+    "collectedAt": "2026-11-25T08:23:09.193Z"
   },
   "threads:18164093662445571": {
     "platform": "threads",
@@ -5134,7 +5134,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T10:59:07.226Z"
+    "collectedAt": "2026-11-25T08:23:09.841Z"
   },
   "bluesky:at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mzfnvbafug2t": {
     "platform": "bluesky",
@@ -5148,7 +5148,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T10:59:09.835Z"
+    "collectedAt": "2026-11-25T08:23:12.981Z"
   },
   "facebook:122128876551446391": {
     "platform": "facebook",
@@ -5157,7 +5157,7 @@
     "pattern": "C",
     "publishedAt": "2026-11-04T07:04:05.099Z",
     "metrics": {},
-    "collectedAt": "2026-11-23T10:59:09.303Z"
+    "collectedAt": "2026-11-25T08:23:12.380Z"
   },
   "mastodon:117556893887269450": {
     "platform": "mastodon",
@@ -5170,7 +5170,7 @@
       "replies": 1,
       "reposts": 0
     },
-    "collectedAt": "2026-11-23T10:59:10.593Z"
+    "collectedAt": "2026-11-25T08:23:13.777Z"
   },
   "threads:18101370446535187": {
     "platform": "threads",
@@ -5185,7 +5185,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T10:59:11.278Z"
+    "collectedAt": "2026-11-25T08:23:14.432Z"
   },
   "facebook:122128974153446391": {
     "platform": "facebook",
@@ -5194,7 +5194,7 @@
     "pattern": "A",
     "publishedAt": "2026-11-04T16:57:01.111Z",
     "metrics": {},
-    "collectedAt": "2026-11-23T10:59:12.043Z"
+    "collectedAt": "2026-11-25T08:23:15.127Z"
   },
   "bluesky:at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mzhry73ipg2r": {
     "platform": "bluesky",
@@ -5208,7 +5208,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T10:59:12.576Z"
+    "collectedAt": "2026-11-25T08:23:15.727Z"
   },
   "mastodon:117558162302993888": {
     "platform": "mastodon",
@@ -5221,7 +5221,7 @@
       "replies": 1,
       "reposts": 0
     },
-    "collectedAt": "2026-11-23T10:59:13.468Z"
+    "collectedAt": "2026-11-25T08:23:16.462Z"
   },
   "threads:18054222557817169": {
     "platform": "threads",
@@ -5236,7 +5236,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T10:59:14.159Z"
+    "collectedAt": "2026-11-25T08:23:17.071Z"
   },
   "facebook:122129002023446391": {
     "platform": "facebook",
@@ -5245,7 +5245,7 @@
     "pattern": "A",
     "publishedAt": "2026-11-04T19:53:43.178Z",
     "metrics": {},
-    "collectedAt": "2026-11-23T10:59:14.894Z"
+    "collectedAt": "2026-11-25T08:23:17.830Z"
   },
   "bluesky:at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mzidz2d7ow22": {
     "platform": "bluesky",
@@ -5259,7 +5259,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T10:59:15.427Z"
+    "collectedAt": "2026-11-25T08:23:18.430Z"
   },
   "mastodon:117558573427267430": {
     "platform": "mastodon",
@@ -5272,7 +5272,7 @@
       "replies": 1,
       "reposts": 0
     },
-    "collectedAt": "2026-11-23T10:59:16.200Z"
+    "collectedAt": "2026-11-25T08:23:19.412Z"
   },
   "instagram:18048404684837568": {
     "platform": "instagram",
@@ -5284,7 +5284,7 @@
       "likes": 0,
       "replies": 0
     },
-    "collectedAt": "2026-11-23T10:59:16.837Z"
+    "collectedAt": "2026-11-25T08:23:20.023Z"
   },
   "instagram:17888487657687623": {
     "platform": "instagram",
@@ -5296,7 +5296,7 @@
       "likes": 0,
       "replies": 0
     },
-    "collectedAt": "2026-11-23T10:59:17.491Z"
+    "collectedAt": "2026-11-25T08:23:20.606Z"
   },
   "threads:18102069689093720": {
     "platform": "threads",
@@ -5311,7 +5311,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T10:59:18.164Z"
+    "collectedAt": "2026-11-25T08:23:21.285Z"
   },
   "instagram:18181869136434202": {
     "platform": "instagram",
@@ -5323,7 +5323,7 @@
       "likes": 2,
       "replies": 0
     },
-    "collectedAt": "2026-11-23T10:59:18.735Z"
+    "collectedAt": "2026-11-25T08:23:21.840Z"
   },
   "bluesky:at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mzkkcmwit424": {
     "platform": "bluesky",
@@ -5337,7 +5337,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T10:59:19.267Z"
+    "collectedAt": "2026-11-25T08:23:22.450Z"
   },
   "mastodon:117563109681844594": {
     "platform": "mastodon",
@@ -5350,7 +5350,7 @@
       "replies": 1,
       "reposts": 0
     },
-    "collectedAt": "2026-11-23T10:59:20.032Z"
+    "collectedAt": "2026-11-25T08:23:23.381Z"
   },
   "threads:18026427608923578": {
     "platform": "threads",
@@ -5365,7 +5365,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T10:59:20.658Z"
+    "collectedAt": "2026-11-25T08:23:24.058Z"
   },
   "facebook:122129033055446391": {
     "platform": "facebook",
@@ -5374,7 +5374,7 @@
     "pattern": "C",
     "publishedAt": "2026-11-04T22:53:49.136Z",
     "metrics": {},
-    "collectedAt": "2026-11-23T10:59:21.510Z"
+    "collectedAt": "2026-11-25T08:23:24.855Z"
   },
   "bluesky:at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mzinypcazb2t": {
     "platform": "bluesky",
@@ -5388,7 +5388,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T10:59:22.040Z"
+    "collectedAt": "2026-11-25T08:23:25.459Z"
   },
   "mastodon:117559225466323794": {
     "platform": "mastodon",
@@ -5401,7 +5401,7 @@
       "replies": 1,
       "reposts": 0
     },
-    "collectedAt": "2026-11-23T10:59:22.809Z"
+    "collectedAt": "2026-11-25T08:23:26.208Z"
   },
   "facebook:122129073951446391": {
     "platform": "facebook",
@@ -5410,7 +5410,7 @@
     "pattern": "C",
     "publishedAt": "2026-11-05T04:53:31.086Z",
     "metrics": {},
-    "collectedAt": "2026-11-23T10:59:23.548Z"
+    "collectedAt": "2026-11-25T08:23:26.997Z"
   },
   "instagram:17973580545159947": {
     "platform": "instagram",
@@ -5436,7 +5436,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T10:59:24.704Z"
+    "collectedAt": "2026-11-25T08:23:28.182Z"
   },
   "mastodon:117561335133013401": {
     "platform": "mastodon",
@@ -5449,7 +5449,7 @@
       "replies": 1,
       "reposts": 0
     },
-    "collectedAt": "2026-11-23T10:59:25.451Z"
+    "collectedAt": "2026-11-25T08:23:28.944Z"
   },
   "threads:17937749991147553": {
     "platform": "threads",
@@ -5464,7 +5464,7 @@
       "reposts": 1,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T10:59:26.203Z"
+    "collectedAt": "2026-11-25T08:23:29.651Z"
   },
   "instagram:18336934684273706": {
     "platform": "instagram",
@@ -5476,7 +5476,7 @@
       "likes": 0,
       "replies": 0
     },
-    "collectedAt": "2026-11-23T10:59:26.816Z"
+    "collectedAt": "2026-11-25T08:23:30.211Z"
   },
   "bluesky:at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mzka7wjazt2m": {
     "platform": "bluesky",
@@ -5490,7 +5490,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T10:59:27.346Z"
+    "collectedAt": "2026-11-25T08:23:30.812Z"
   },
   "mastodon:117562400037461245": {
     "platform": "mastodon",
@@ -5503,7 +5503,7 @@
       "replies": 1,
       "reposts": 0
     },
-    "collectedAt": "2026-11-23T10:59:28.234Z"
+    "collectedAt": "2026-11-25T08:23:31.532Z"
   },
   "threads:17865611352693174": {
     "platform": "threads",
@@ -5518,7 +5518,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T10:59:28.893Z"
+    "collectedAt": "2026-11-25T08:23:32.248Z"
   },
   "facebook:122129051151446391": {
     "platform": "facebook",
@@ -5527,7 +5527,7 @@
     "pattern": "D",
     "publishedAt": "2026-11-05T01:53:40.696Z",
     "metrics": {},
-    "collectedAt": "2026-11-23T10:59:29.767Z"
+    "collectedAt": "2026-11-25T08:23:33.043Z"
   },
   "bluesky:at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mzit4ipzrb2m": {
     "platform": "bluesky",
@@ -5541,7 +5541,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T10:59:30.297Z"
+    "collectedAt": "2026-11-25T08:23:33.650Z"
   },
   "mastodon:117559920261288062": {
     "platform": "mastodon",
@@ -5554,7 +5554,7 @@
       "replies": 1,
       "reposts": 0
     },
-    "collectedAt": "2026-11-23T10:59:31.144Z"
+    "collectedAt": "2026-11-25T08:23:34.379Z"
   },
   "threads:18351928831270001": {
     "platform": "threads",
@@ -5569,7 +5569,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T10:59:31.829Z"
+    "collectedAt": "2026-11-25T08:23:35.003Z"
   },
   "facebook:122129113881446391": {
     "platform": "facebook",
@@ -5578,7 +5578,7 @@
     "pattern": "A",
     "publishedAt": "2026-11-05T07:53:34.482Z",
     "metrics": {},
-    "collectedAt": "2026-11-23T10:59:32.550Z"
+    "collectedAt": "2026-11-25T08:23:35.698Z"
   },
   "bluesky:at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mzjw65dtbi2b": {
     "platform": "bluesky",
@@ -5592,7 +5592,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T10:59:33.092Z"
+    "collectedAt": "2026-11-25T08:23:36.320Z"
   },
   "mastodon:117561692461697916": {
     "platform": "mastodon",
@@ -5605,7 +5605,7 @@
       "replies": 1,
       "reposts": 0
     },
-    "collectedAt": "2026-11-23T10:59:33.863Z"
+    "collectedAt": "2026-11-25T08:23:37.087Z"
   },
   "threads:18126404537316044": {
     "platform": "threads",
@@ -5614,13 +5614,13 @@
     "pattern": "B",
     "publishedAt": "2026-11-04T18:26:13.197Z",
     "metrics": {
-      "views": 449,
+      "views": 452,
       "likes": 0,
       "replies": 6,
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T10:59:34.527Z"
+    "collectedAt": "2026-11-25T08:23:37.761Z"
   },
   "threads:17927282295430454": {
     "platform": "threads",
@@ -5635,7 +5635,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T10:59:35.280Z"
+    "collectedAt": "2026-11-25T08:23:38.374Z"
   },
   "threads:17997061020030320": {
     "platform": "threads",
@@ -5650,7 +5650,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T10:59:35.932Z"
+    "collectedAt": "2026-11-25T08:23:39.059Z"
   },
   "threads:17877310497636580": {
     "platform": "threads",
@@ -5665,7 +5665,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T10:59:36.601Z"
+    "collectedAt": "2026-11-25T08:23:39.728Z"
   },
   "instagram:18226187098340604": {
     "platform": "instagram",
@@ -5677,7 +5677,7 @@
       "likes": 0,
       "replies": 0
     },
-    "collectedAt": "2026-11-23T10:59:37.233Z"
+    "collectedAt": "2026-11-25T08:23:40.323Z"
   },
   "threads:18170642176470511": {
     "platform": "threads",
@@ -5692,7 +5692,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T10:59:38.602Z"
+    "collectedAt": "2026-11-25T08:23:41.606Z"
   },
   "threads:17925798627444322": {
     "platform": "threads",
@@ -5722,7 +5722,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T10:59:37.933Z"
+    "collectedAt": "2026-11-25T08:23:40.946Z"
   },
   "threads:18038517296853588": {
     "platform": "threads",
@@ -5767,7 +5767,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T10:59:39.249Z"
+    "collectedAt": "2026-11-25T08:23:42.313Z"
   },
   "threads:18174728662459584": {
     "platform": "threads",
@@ -5782,7 +5782,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T10:59:39.917Z"
+    "collectedAt": "2026-11-25T08:23:43.015Z"
   },
   "threads:18218932279348279": {
     "platform": "threads",
@@ -5797,7 +5797,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T10:59:40.552Z"
+    "collectedAt": "2026-11-25T08:23:43.615Z"
   },
   "threads:18149365987576030": {
     "platform": "threads",
@@ -5812,7 +5812,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T10:59:41.257Z"
+    "collectedAt": "2026-11-25T08:23:44.262Z"
   },
   "threads:18377366389241965": {
     "platform": "threads",
@@ -5821,13 +5821,13 @@
     "pattern": "C",
     "publishedAt": "2026-11-08T03:25:30.225Z",
     "metrics": {
-      "views": 802,
+      "views": 819,
       "likes": 0,
       "replies": 1,
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T10:59:41.934Z"
+    "collectedAt": "2026-11-25T08:23:44.968Z"
   },
   "threads:17955047847321089": {
     "platform": "threads",
@@ -5842,7 +5842,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T10:59:43.292Z"
+    "collectedAt": "2026-11-25T08:23:46.335Z"
   },
   "facebook:122129604195446391": {
     "platform": "facebook",
@@ -5851,7 +5851,7 @@
     "pattern": "A",
     "publishedAt": "2026-11-07T16:53:38.868Z",
     "metrics": {},
-    "collectedAt": "2026-11-23T10:59:46.858Z"
+    "collectedAt": "2026-11-25T08:23:49.730Z"
   },
   "bluesky:at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mzq7ggbv6j24": {
     "platform": "bluesky",
@@ -5865,7 +5865,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T10:59:47.421Z"
+    "collectedAt": "2026-11-25T08:23:50.456Z"
   },
   "mastodon:117575854757230655": {
     "platform": "mastodon",
@@ -5878,7 +5878,7 @@
       "replies": 1,
       "reposts": 0
     },
-    "collectedAt": "2026-11-23T10:59:48.216Z"
+    "collectedAt": "2026-11-25T08:23:51.229Z"
   },
   "facebook:122129659377446391": {
     "platform": "facebook",
@@ -5887,7 +5887,7 @@
     "pattern": "C",
     "publishedAt": "2026-11-08T01:53:30.743Z",
     "metrics": {},
-    "collectedAt": "2026-11-23T10:59:49.693Z"
+    "collectedAt": "2026-11-25T08:23:52.571Z"
   },
   "bluesky:at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mzrcigwhuf2v": {
     "platform": "bluesky",
@@ -5901,7 +5901,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T10:59:50.224Z"
+    "collectedAt": "2026-11-25T08:23:53.185Z"
   },
   "mastodon:117578322097988803": {
     "platform": "mastodon",
@@ -5914,7 +5914,7 @@
       "replies": 1,
       "reposts": 0
     },
-    "collectedAt": "2026-11-23T10:59:50.972Z"
+    "collectedAt": "2026-11-25T08:23:53.909Z"
   },
   "facebook:122129679573446391": {
     "platform": "facebook",
@@ -5923,7 +5923,7 @@
     "pattern": "A",
     "publishedAt": "2026-11-08T04:53:29.458Z",
     "metrics": {},
-    "collectedAt": "2026-11-23T10:59:52.562Z"
+    "collectedAt": "2026-11-25T08:23:55.285Z"
   },
   "bluesky:at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mzrhmwvc562w": {
     "platform": "bluesky",
@@ -5937,7 +5937,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T10:59:53.092Z"
+    "collectedAt": "2026-11-25T08:23:55.885Z"
   },
   "mastodon:117578683818164611": {
     "platform": "mastodon",
@@ -5950,7 +5950,7 @@
       "replies": 1,
       "reposts": 0
     },
-    "collectedAt": "2026-11-23T10:59:53.873Z"
+    "collectedAt": "2026-11-25T08:23:56.611Z"
   },
   "threads:18061952324549072": {
     "platform": "threads",
@@ -5959,13 +5959,13 @@
     "pattern": "C",
     "publishedAt": "2026-11-08T07:54:40.791Z",
     "metrics": {
-      "views": 178,
+      "views": 189,
       "likes": 0,
       "replies": 2,
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T10:59:42.648Z"
+    "collectedAt": "2026-11-25T08:23:45.683Z"
   },
   "threads:17912651817489290": {
     "platform": "threads",
@@ -5980,7 +5980,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T10:59:44.023Z"
+    "collectedAt": "2026-11-25T08:23:46.974Z"
   },
   "threads:18111727610194231": {
     "platform": "threads",
@@ -5995,7 +5995,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T10:59:44.715Z"
+    "collectedAt": "2026-11-25T08:23:47.714Z"
   },
   "threads:18090578252301262": {
     "platform": "threads",
@@ -6010,7 +6010,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T10:59:45.358Z"
+    "collectedAt": "2026-11-25T08:23:48.336Z"
   },
   "threads:18015126263760674": {
     "platform": "threads",
@@ -6025,7 +6025,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T10:59:46.009Z"
+    "collectedAt": "2026-11-25T08:23:48.954Z"
   },
   "threads:17917769526536882": {
     "platform": "threads",
@@ -6040,7 +6040,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T10:59:48.903Z"
+    "collectedAt": "2026-11-25T08:23:51.870Z"
   },
   "threads:17958262104259443": {
     "platform": "threads",
@@ -6055,7 +6055,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T10:59:51.625Z"
+    "collectedAt": "2026-11-25T08:23:54.594Z"
   },
   "threads:17996925731841072": {
     "platform": "threads",
@@ -6064,13 +6064,13 @@
     "pattern": "O",
     "publishedAt": "2026-11-08T19:54:57.232Z",
     "metrics": {
-      "views": 770,
+      "views": 779,
       "likes": 1,
       "replies": 3,
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T10:59:54.636Z"
+    "collectedAt": "2026-11-25T08:23:57.275Z"
   },
   "threads:18134065618689920": {
     "platform": "threads",
@@ -6130,7 +6130,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T10:59:55.321Z"
+    "collectedAt": "2026-11-25T08:23:57.968Z"
   },
   "threads:17904370779377113": {
     "platform": "threads",
@@ -6145,7 +6145,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T10:59:56.002Z"
+    "collectedAt": "2026-11-25T08:23:58.600Z"
   },
   "threads:18154171690548487": {
     "platform": "threads",
@@ -6169,7 +6169,7 @@
     "pattern": "D",
     "publishedAt": "2026-11-09T06:24:25.280Z",
     "metrics": {},
-    "collectedAt": "2026-11-23T10:59:57.516Z"
+    "collectedAt": "2026-11-25T08:24:00.021Z"
   },
   "bluesky:at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mzuc3ruw272v": {
     "platform": "bluesky",
@@ -6183,7 +6183,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T10:59:58.045Z"
+    "collectedAt": "2026-11-25T08:24:00.625Z"
   },
   "mastodon:117585049713832010": {
     "platform": "mastodon",
@@ -6196,7 +6196,7 @@
       "replies": 1,
       "reposts": 0
     },
-    "collectedAt": "2026-11-23T10:59:58.807Z"
+    "collectedAt": "2026-11-25T08:24:02.000Z"
   },
   "threads:17921297745462993": {
     "platform": "threads",
@@ -6292,7 +6292,7 @@
     "pattern": null,
     "publishedAt": "2026-11-09T09:24:23.216Z",
     "metrics": {},
-    "collectedAt": "2026-11-23T11:00:00.443Z"
+    "collectedAt": "2026-11-25T08:24:03.481Z"
   },
   "bluesky:at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mzum5lgkmy2u": {
     "platform": "bluesky",
@@ -6306,7 +6306,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:00:00.976Z"
+    "collectedAt": "2026-11-25T08:24:04.081Z"
   },
   "mastodon:117585757298151428": {
     "platform": "mastodon",
@@ -6319,7 +6319,7 @@
       "replies": 1,
       "reposts": 0
     },
-    "collectedAt": "2026-11-23T11:00:01.789Z"
+    "collectedAt": "2026-11-25T08:24:04.816Z"
   },
   "threads:18074852978756015": {
     "platform": "threads",
@@ -6334,7 +6334,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:00:02.476Z"
+    "collectedAt": "2026-11-25T08:24:05.480Z"
   },
   "facebook:122129977893446391": {
     "platform": "facebook",
@@ -6352,7 +6352,7 @@
     "pattern": null,
     "publishedAt": "2026-11-09T18:24:29.213Z",
     "metrics": {},
-    "collectedAt": "2026-11-23T11:00:04.776Z"
+    "collectedAt": "2026-11-25T08:24:07.531Z"
   },
   "facebook:122130058053446391": {
     "platform": "facebook",
@@ -6379,7 +6379,7 @@
     "pattern": null,
     "publishedAt": "2026-11-10T03:24:20.277Z",
     "metrics": {},
-    "collectedAt": "2026-11-23T11:00:06.688Z"
+    "collectedAt": "2026-11-25T08:24:08.959Z"
   },
   "threads:18108229919321309": {
     "platform": "threads",
@@ -6394,7 +6394,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T10:59:56.731Z"
+    "collectedAt": "2026-11-25T08:23:59.225Z"
   },
   "threads:18116505185027315": {
     "platform": "threads",
@@ -6409,7 +6409,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T10:59:59.503Z"
+    "collectedAt": "2026-11-25T08:24:02.670Z"
   },
   "threads:18643192678048002": {
     "platform": "threads",
@@ -6424,7 +6424,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:00:03.137Z"
+    "collectedAt": "2026-11-25T08:24:06.112Z"
   },
   "threads:18082250141441793": {
     "platform": "threads",
@@ -6439,7 +6439,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:00:03.877Z"
+    "collectedAt": "2026-11-25T08:24:06.745Z"
   },
   "threads:18419590540084600": {
     "platform": "threads",
@@ -6454,7 +6454,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:00:05.521Z"
+    "collectedAt": "2026-11-25T08:24:08.212Z"
   },
   "threads:18349953358286303": {
     "platform": "threads",
@@ -6469,7 +6469,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:00:07.412Z"
+    "collectedAt": "2026-11-25T08:24:09.632Z"
   },
   "facebook:122130141987446391": {
     "platform": "facebook",
@@ -6478,7 +6478,7 @@
     "pattern": null,
     "publishedAt": "2026-11-10T07:53:39.018Z",
     "metrics": {},
-    "collectedAt": "2026-11-23T11:00:08.363Z"
+    "collectedAt": "2026-11-25T08:24:10.387Z"
   },
   "facebook:122130319341446391": {
     "platform": "facebook",
@@ -6487,7 +6487,7 @@
     "pattern": null,
     "publishedAt": "2026-11-10T22:53:28.304Z",
     "metrics": {},
-    "collectedAt": "2026-11-23T11:00:09.820Z"
+    "collectedAt": "2026-11-25T08:24:11.159Z"
   },
   "facebook:122130363279446391": {
     "platform": "facebook",
@@ -6496,7 +6496,7 @@
     "pattern": null,
     "publishedAt": "2026-11-11T04:53:40.815Z",
     "metrics": {},
-    "collectedAt": "2026-11-23T11:00:10.770Z"
+    "collectedAt": "2026-11-25T08:24:11.946Z"
   },
   "bluesky:at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3mzz5xetav22g": {
     "platform": "bluesky",
@@ -6510,7 +6510,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:00:11.309Z"
+    "collectedAt": "2026-11-25T08:24:12.602Z"
   },
   "mastodon:117596017510986270": {
     "platform": "mastodon",
@@ -6523,7 +6523,7 @@
       "replies": 1,
       "reposts": 0
     },
-    "collectedAt": "2026-11-23T11:00:12.901Z"
+    "collectedAt": "2026-11-25T08:24:13.348Z"
   },
   "facebook:122130335913446391": {
     "platform": "facebook",
@@ -6532,7 +6532,7 @@
     "pattern": null,
     "publishedAt": "2026-11-11T01:53:31.241Z",
     "metrics": {},
-    "collectedAt": "2026-11-23T11:00:13.842Z"
+    "collectedAt": "2026-11-25T08:24:14.040Z"
   },
   "threads:17973310272191112": {
     "platform": "threads",
@@ -6547,7 +6547,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:00:14.611Z"
+    "collectedAt": "2026-11-25T08:24:14.728Z"
   },
   "threads:17945708658372021": {
     "platform": "threads",
@@ -6562,7 +6562,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:00:15.393Z"
+    "collectedAt": "2026-11-25T08:24:15.340Z"
   },
   "threads:17992728812867413": {
     "platform": "threads",
@@ -6577,7 +6577,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:00:16.090Z"
+    "collectedAt": "2026-11-25T08:24:16.025Z"
   },
   "threads:18202366540384478": {
     "platform": "threads",
@@ -6592,7 +6592,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:00:16.763Z"
+    "collectedAt": "2026-11-25T08:24:16.698Z"
   },
   "facebook:122130497271446391": {
     "platform": "facebook",
@@ -6601,7 +6601,7 @@
     "pattern": "C",
     "publishedAt": "2026-11-11T18:24:25.793Z",
     "metrics": {},
-    "collectedAt": "2026-11-23T11:00:17.849Z"
+    "collectedAt": "2026-11-25T08:24:17.389Z"
   },
   "facebook:122130515181446391": {
     "platform": "facebook",
@@ -6610,7 +6610,7 @@
     "pattern": null,
     "publishedAt": "2026-11-11T21:16:13.378Z",
     "metrics": {},
-    "collectedAt": "2026-11-23T11:00:19.465Z"
+    "collectedAt": "2026-11-25T08:24:18.797Z"
   },
   "threads:18118754162599886": {
     "platform": "threads",
@@ -6625,7 +6625,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:00:20.831Z"
+    "collectedAt": "2026-11-25T08:24:20.157Z"
   },
   "facebook:122130429351446391": {
     "platform": "facebook",
@@ -6634,7 +6634,7 @@
     "pattern": null,
     "publishedAt": "2026-11-11T10:53:35.459Z",
     "metrics": {},
-    "collectedAt": "2026-11-23T11:00:21.630Z"
+    "collectedAt": "2026-11-25T08:24:20.902Z"
   },
   "facebook:122130549183446391": {
     "platform": "facebook",
@@ -6643,7 +6643,7 @@
     "pattern": null,
     "publishedAt": "2026-11-12T02:50:38.737Z",
     "metrics": {},
-    "collectedAt": "2026-11-23T11:00:23.161Z"
+    "collectedAt": "2026-11-25T08:24:22.300Z"
   },
   "facebook:122130535047446391": {
     "platform": "facebook",
@@ -6652,7 +6652,7 @@
     "pattern": null,
     "publishedAt": "2026-11-12T00:24:25.498Z",
     "metrics": {},
-    "collectedAt": "2026-11-23T11:00:24.028Z"
+    "collectedAt": "2026-11-25T08:24:22.977Z"
   },
   "threads:18123920533942712": {
     "platform": "threads",
@@ -6667,7 +6667,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:00:24.664Z"
+    "collectedAt": "2026-11-25T08:24:23.664Z"
   },
   "facebook:122130458739446391": {
     "platform": "facebook",
@@ -6676,7 +6676,7 @@
     "pattern": "C",
     "publishedAt": "2026-11-11T13:53:28.924Z",
     "metrics": {},
-    "collectedAt": "2026-11-23T11:00:25.486Z"
+    "collectedAt": "2026-11-25T08:24:24.415Z"
   },
   "threads:18221327881349451": {
     "platform": "threads",
@@ -6691,7 +6691,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:00:20.206Z"
+    "collectedAt": "2026-11-25T08:24:19.495Z"
   },
   "threads:18100766399424597": {
     "platform": "threads",
@@ -6706,7 +6706,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:00:22.326Z"
+    "collectedAt": "2026-11-25T08:24:21.546Z"
   },
   "threads:18200970181343401": {
     "platform": "threads",
@@ -6721,7 +6721,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:00:26.142Z"
+    "collectedAt": "2026-11-25T08:24:25.035Z"
   },
   "threads:18039382055848221": {
     "platform": "threads",
@@ -6736,7 +6736,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:00:26.776Z"
+    "collectedAt": "2026-11-25T08:24:25.768Z"
   },
   "threads:18092883956306056": {
     "platform": "threads",
@@ -6751,7 +6751,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:00:27.486Z"
+    "collectedAt": "2026-11-25T08:24:26.413Z"
   },
   "threads:18026516135717806": {
     "platform": "threads",
@@ -6766,7 +6766,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:00:28.164Z"
+    "collectedAt": "2026-11-25T08:24:27.213Z"
   },
   "facebook:122130610089446391": {
     "platform": "facebook",
@@ -6775,7 +6775,7 @@
     "pattern": null,
     "publishedAt": "2026-11-12T12:24:25.600Z",
     "metrics": {},
-    "collectedAt": "2026-11-23T11:00:28.955Z"
+    "collectedAt": "2026-11-25T08:24:27.970Z"
   },
   "threads:18100962683539798": {
     "platform": "threads",
@@ -6790,7 +6790,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:00:29.656Z"
+    "collectedAt": "2026-11-25T08:24:28.629Z"
   },
   "facebook:122130735225446391": {
     "platform": "facebook",
@@ -6799,7 +6799,7 @@
     "pattern": null,
     "publishedAt": "2026-11-13T03:24:26.004Z",
     "metrics": {},
-    "collectedAt": "2026-11-23T11:00:30.406Z"
+    "collectedAt": "2026-11-25T08:24:29.380Z"
   },
   "facebook:122130712713446391": {
     "platform": "facebook",
@@ -6808,7 +6808,7 @@
     "pattern": null,
     "publishedAt": "2026-11-13T00:07:36.176Z",
     "metrics": {},
-    "collectedAt": "2026-11-23T11:00:31.174Z"
+    "collectedAt": "2026-11-25T08:24:30.143Z"
   },
   "threads:18113897750191157": {
     "platform": "threads",
@@ -6823,7 +6823,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:00:31.844Z"
+    "collectedAt": "2026-11-25T08:24:30.804Z"
   },
   "facebook:122130590469446391": {
     "platform": "facebook",
@@ -6832,7 +6832,7 @@
     "pattern": null,
     "publishedAt": "2026-11-12T09:25:03.767Z",
     "metrics": {},
-    "collectedAt": "2026-11-23T11:00:32.657Z"
+    "collectedAt": "2026-11-25T08:24:31.510Z"
   },
   "threads:18135463045664607": {
     "platform": "threads",
@@ -6847,7 +6847,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:00:33.306Z"
+    "collectedAt": "2026-11-25T08:24:32.127Z"
   },
   "facebook:122130641919446391": {
     "platform": "facebook",
@@ -6856,7 +6856,7 @@
     "pattern": null,
     "publishedAt": "2026-11-12T15:24:32.923Z",
     "metrics": {},
-    "collectedAt": "2026-11-23T11:00:34.186Z"
+    "collectedAt": "2026-11-25T08:24:32.827Z"
   },
   "threads:18082010177453786": {
     "platform": "threads",
@@ -6871,7 +6871,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:00:34.916Z"
+    "collectedAt": "2026-11-25T08:24:33.542Z"
   },
   "facebook:1288453561012463_122130686577446391": {
     "platform": "facebook",
@@ -6880,7 +6880,7 @@
     "pattern": null,
     "publishedAt": "2026-11-12T21:24:23.339Z",
     "metrics": {},
-    "collectedAt": "2026-11-23T11:00:35.665Z"
+    "collectedAt": "2026-11-25T08:24:34.219Z"
   },
   "threads:18088896587526588": {
     "platform": "threads",
@@ -6895,7 +6895,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:00:36.348Z"
+    "collectedAt": "2026-11-25T08:24:34.836Z"
   },
   "facebook:122130668583446391": {
     "platform": "facebook",
@@ -6904,7 +6904,7 @@
     "pattern": null,
     "publishedAt": "2026-11-12T18:24:37.015Z",
     "metrics": {},
-    "collectedAt": "2026-11-23T11:00:37.158Z"
+    "collectedAt": "2026-11-25T08:24:35.597Z"
   },
   "bluesky:at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3n24wpqmg5t24": {
     "platform": "bluesky",
@@ -6918,7 +6918,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:00:37.717Z"
+    "collectedAt": "2026-11-25T08:24:36.365Z"
   },
   "mastodon:117604868414566533": {
     "platform": "mastodon",
@@ -6931,7 +6931,7 @@
       "replies": 1,
       "reposts": 0
     },
-    "collectedAt": "2026-11-23T11:00:38.766Z"
+    "collectedAt": "2026-11-25T08:24:37.291Z"
   },
   "threads:17956476786275402": {
     "platform": "threads",
@@ -6946,7 +6946,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:00:39.421Z"
+    "collectedAt": "2026-11-25T08:24:37.939Z"
   },
   "facebook:122130784149446391": {
     "platform": "facebook",
@@ -6955,7 +6955,7 @@
     "pattern": null,
     "publishedAt": "2026-11-13T09:24:25.048Z",
     "metrics": {},
-    "collectedAt": "2026-11-23T11:00:40.397Z"
+    "collectedAt": "2026-11-25T08:24:38.726Z"
   },
   "bluesky:at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3n25zvmvvbl2c": {
     "platform": "bluesky",
@@ -6969,7 +6969,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:00:40.928Z"
+    "collectedAt": "2026-11-25T08:24:39.325Z"
   },
   "mastodon:117607351284276373": {
     "platform": "mastodon",
@@ -6982,7 +6982,7 @@
       "replies": 1,
       "reposts": 0
     },
-    "collectedAt": "2026-11-23T11:00:42.041Z"
+    "collectedAt": "2026-11-25T08:24:40.095Z"
   },
   "instagram:18120859535089773": {
     "platform": "instagram",
@@ -6994,7 +6994,7 @@
       "likes": 0,
       "replies": 0
     },
-    "collectedAt": "2026-11-23T11:00:43.540Z"
+    "collectedAt": "2026-11-25T08:24:41.482Z"
   },
   "bluesky:at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3n26dx7xz4d2c": {
     "platform": "bluesky",
@@ -7008,7 +7008,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:00:44.069Z"
+    "collectedAt": "2026-11-25T08:24:42.078Z"
   },
   "mastodon:117608048738402695": {
     "platform": "mastodon",
@@ -7021,7 +7021,7 @@
       "replies": 1,
       "reposts": 0
     },
-    "collectedAt": "2026-11-23T11:00:44.845Z"
+    "collectedAt": "2026-11-25T08:24:42.767Z"
   },
   "threads:18354779488282565": {
     "platform": "threads",
@@ -7036,7 +7036,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:00:45.604Z"
+    "collectedAt": "2026-11-25T08:24:43.512Z"
   },
   "threads:18168547438472107": {
     "platform": "threads",
@@ -7051,7 +7051,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:00:46.269Z"
+    "collectedAt": "2026-11-25T08:24:44.196Z"
   },
   "threads:18155311324551571": {
     "platform": "threads",
@@ -7066,7 +7066,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:00:46.981Z"
+    "collectedAt": "2026-11-25T08:24:44.828Z"
   },
   "facebook:122130764217446391": {
     "platform": "facebook",
@@ -7075,7 +7075,7 @@
     "pattern": null,
     "publishedAt": "2026-11-13T06:24:23.520Z",
     "metrics": {},
-    "collectedAt": "2026-11-23T11:00:47.715Z"
+    "collectedAt": "2026-11-25T08:24:45.584Z"
   },
   "threads:18124869623288216": {
     "platform": "threads",
@@ -7090,7 +7090,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:00:48.426Z"
+    "collectedAt": "2026-11-25T08:24:46.228Z"
   },
   "facebook:122130859413446391": {
     "platform": "facebook",
@@ -7099,7 +7099,7 @@
     "pattern": null,
     "publishedAt": "2026-11-13T18:24:28.969Z",
     "metrics": {},
-    "collectedAt": "2026-11-23T11:00:49.335Z"
+    "collectedAt": "2026-11-25T08:24:46.982Z"
   },
   "facebook:122130881103446391": {
     "platform": "facebook",
@@ -7108,7 +7108,7 @@
     "pattern": null,
     "publishedAt": "2026-11-13T21:24:32.699Z",
     "metrics": {},
-    "collectedAt": "2026-11-23T11:00:50.112Z"
+    "collectedAt": "2026-11-25T08:24:47.586Z"
   },
   "threads:18304073533305232": {
     "platform": "threads",
@@ -7123,7 +7123,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:00:50.785Z"
+    "collectedAt": "2026-11-25T08:24:48.245Z"
   },
   "facebook:122130831735446391": {
     "platform": "facebook",
@@ -7132,7 +7132,7 @@
     "pattern": null,
     "publishedAt": "2026-11-13T15:18:00.681Z",
     "metrics": {},
-    "collectedAt": "2026-11-23T11:00:51.569Z"
+    "collectedAt": "2026-11-25T08:24:48.976Z"
   },
   "threads:18353477740267408": {
     "platform": "threads",
@@ -7141,13 +7141,13 @@
     "pattern": null,
     "publishedAt": "2026-11-14T13:54:51.119Z",
     "metrics": {
-      "views": 51,
+      "views": 52,
       "likes": 0,
       "replies": 1,
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:00:52.344Z"
+    "collectedAt": "2026-11-25T08:24:49.614Z"
   },
   "facebook:122130899079446391": {
     "platform": "facebook",
@@ -7156,7 +7156,7 @@
     "pattern": null,
     "publishedAt": "2026-11-14T00:24:27.080Z",
     "metrics": {},
-    "collectedAt": "2026-11-23T11:00:53.387Z"
+    "collectedAt": "2026-11-25T08:24:50.282Z"
   },
   "threads:18177896356455798": {
     "platform": "threads",
@@ -7171,7 +7171,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:00:54.141Z"
+    "collectedAt": "2026-11-25T08:24:50.908Z"
   },
   "threads:18072114053685538": {
     "platform": "threads",
@@ -7186,7 +7186,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:00:54.817Z"
+    "collectedAt": "2026-11-25T08:24:51.556Z"
   },
   "threads:18143769808617891": {
     "platform": "threads",
@@ -7201,7 +7201,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:00:55.443Z"
+    "collectedAt": "2026-11-25T08:24:52.220Z"
   },
   "facebook:122131116411446391": {
     "platform": "facebook",
@@ -7210,7 +7210,7 @@
     "pattern": null,
     "publishedAt": "2026-11-14T21:20:34.162Z",
     "metrics": {},
-    "collectedAt": "2026-11-23T11:00:56.336Z"
+    "collectedAt": "2026-11-25T08:24:52.945Z"
   },
   "threads:18103905200552866": {
     "platform": "threads",
@@ -7225,7 +7225,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:00:57.040Z"
+    "collectedAt": "2026-11-25T08:24:53.587Z"
   },
   "facebook:122130914895446391": {
     "platform": "facebook",
@@ -7234,7 +7234,7 @@
     "pattern": null,
     "publishedAt": "2026-11-14T03:24:30.126Z",
     "metrics": {},
-    "collectedAt": "2026-11-23T11:00:57.762Z"
+    "collectedAt": "2026-11-25T08:24:54.326Z"
   },
   "facebook:122130988659446391": {
     "platform": "facebook",
@@ -7243,7 +7243,7 @@
     "pattern": null,
     "publishedAt": "2026-11-14T06:24:28.526Z",
     "metrics": {},
-    "collectedAt": "2026-11-23T11:00:58.782Z"
+    "collectedAt": "2026-11-25T08:24:55.107Z"
   },
   "threads:17892156927468838": {
     "platform": "threads",
@@ -7258,7 +7258,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:00:59.434Z"
+    "collectedAt": "2026-11-25T08:24:55.779Z"
   },
   "threads:18083311664726963": {
     "platform": "threads",
@@ -7273,7 +7273,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:01:00.743Z"
+    "collectedAt": "2026-11-25T08:24:56.983Z"
   },
   "facebook:122131038753446391": {
     "platform": "facebook",
@@ -7282,7 +7282,7 @@
     "pattern": null,
     "publishedAt": "2026-11-14T12:24:34.050Z",
     "metrics": {},
-    "collectedAt": "2026-11-23T11:01:01.503Z"
+    "collectedAt": "2026-11-25T08:24:57.736Z"
   },
   "threads:18124292917825612": {
     "platform": "threads",
@@ -7297,7 +7297,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:01:02.154Z"
+    "collectedAt": "2026-11-25T08:24:58.431Z"
   },
   "facebook:122131135869446391": {
     "platform": "facebook",
@@ -7306,7 +7306,7 @@
     "pattern": null,
     "publishedAt": "2026-11-15T00:24:23.622Z",
     "metrics": {},
-    "collectedAt": "2026-11-23T11:01:02.928Z"
+    "collectedAt": "2026-11-25T08:24:59.203Z"
   },
   "threads:18122698184079623": {
     "platform": "threads",
@@ -7321,7 +7321,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:01:03.680Z"
+    "collectedAt": "2026-11-25T08:24:59.823Z"
   },
   "facebook:122131067163446391": {
     "platform": "facebook",
@@ -7330,7 +7330,7 @@
     "pattern": null,
     "publishedAt": "2026-11-14T15:24:30.988Z",
     "metrics": {},
-    "collectedAt": "2026-11-23T11:01:04.483Z"
+    "collectedAt": "2026-11-25T08:25:00.561Z"
   },
   "threads:18175239910474490": {
     "platform": "threads",
@@ -7345,7 +7345,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:01:05.141Z"
+    "collectedAt": "2026-11-25T08:25:01.166Z"
   },
   "threads:18137435075495233": {
     "platform": "threads",
@@ -7360,7 +7360,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:01:05.767Z"
+    "collectedAt": "2026-11-25T08:25:01.813Z"
   },
   "threads:17998137453052291": {
     "platform": "threads",
@@ -7375,7 +7375,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:01:06.401Z"
+    "collectedAt": "2026-11-25T08:25:02.545Z"
   },
   "threads:18023009378730286": {
     "platform": "threads",
@@ -7390,7 +7390,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:01:07.114Z"
+    "collectedAt": "2026-11-25T08:25:03.276Z"
   },
   "facebook:122131334925446391": {
     "platform": "facebook",
@@ -7399,7 +7399,7 @@
     "pattern": null,
     "publishedAt": "2026-11-16T03:24:27.046Z",
     "metrics": {},
-    "collectedAt": "2026-11-23T11:01:07.867Z"
+    "collectedAt": "2026-11-25T08:25:04.011Z"
   },
   "threads:17982523353155662": {
     "platform": "threads",
@@ -7414,7 +7414,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:01:09.157Z"
+    "collectedAt": "2026-11-25T08:25:04.735Z"
   },
   "threads:18151999378603441": {
     "platform": "threads",
@@ -7429,7 +7429,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:01:09.813Z"
+    "collectedAt": "2026-11-25T08:25:05.420Z"
   },
   "threads:18253484752311051": {
     "platform": "threads",
@@ -7444,7 +7444,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:01:10.492Z"
+    "collectedAt": "2026-11-25T08:25:06.087Z"
   },
   "facebook:122131316097446391": {
     "platform": "facebook",
@@ -7453,7 +7453,7 @@
     "pattern": null,
     "publishedAt": "2026-11-16T00:24:25.510Z",
     "metrics": {},
-    "collectedAt": "2026-11-23T11:01:11.266Z"
+    "collectedAt": "2026-11-25T08:25:06.836Z"
   },
   "facebook:1288453561012463_122131357923446391": {
     "platform": "facebook",
@@ -7462,7 +7462,7 @@
     "pattern": null,
     "publishedAt": "2026-11-16T06:24:51.754Z",
     "metrics": {},
-    "collectedAt": "2026-11-23T11:01:11.942Z"
+    "collectedAt": "2026-11-25T08:25:07.493Z"
   },
   "threads:18136750249578047": {
     "platform": "threads",
@@ -7477,7 +7477,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:01:12.616Z"
+    "collectedAt": "2026-11-25T08:25:08.140Z"
   },
   "facebook:122131498083446391": {
     "platform": "facebook",
@@ -7486,7 +7486,7 @@
     "pattern": null,
     "publishedAt": "2026-11-16T18:24:31.896Z",
     "metrics": {},
-    "collectedAt": "2026-11-23T11:01:13.358Z"
+    "collectedAt": "2026-11-25T08:25:08.841Z"
   },
   "facebook:122131523583446391": {
     "platform": "facebook",
@@ -7495,7 +7495,7 @@
     "pattern": null,
     "publishedAt": "2026-11-16T21:24:28.667Z",
     "metrics": {},
-    "collectedAt": "2026-11-23T11:01:14.061Z"
+    "collectedAt": "2026-11-25T08:25:09.580Z"
   },
   "facebook:122131568607446391": {
     "platform": "facebook",
@@ -7504,7 +7504,7 @@
     "pattern": null,
     "publishedAt": "2026-11-17T03:24:37.146Z",
     "metrics": {},
-    "collectedAt": "2026-11-23T11:01:14.923Z"
+    "collectedAt": "2026-11-25T08:25:10.309Z"
   },
   "threads:18102305918187785": {
     "platform": "threads",
@@ -7519,7 +7519,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:01:15.615Z"
+    "collectedAt": "2026-11-25T08:25:10.900Z"
   },
   "facebook:122131380561446391": {
     "platform": "facebook",
@@ -7528,7 +7528,7 @@
     "pattern": null,
     "publishedAt": "2026-11-16T09:24:24.597Z",
     "metrics": {},
-    "collectedAt": "2026-11-23T11:01:16.356Z"
+    "collectedAt": "2026-11-25T08:25:11.681Z"
   },
   "threads:18127405957914657": {
     "platform": "threads",
@@ -7543,7 +7543,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:01:16.995Z"
+    "collectedAt": "2026-11-25T08:25:12.423Z"
   },
   "threads:17913670587306590": {
     "platform": "threads",
@@ -7558,7 +7558,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:01:17.622Z"
+    "collectedAt": "2026-11-25T08:25:13.011Z"
   },
   "facebook:122131473831446391": {
     "platform": "facebook",
@@ -7567,7 +7567,7 @@
     "pattern": null,
     "publishedAt": "2026-11-16T15:24:49.028Z",
     "metrics": {},
-    "collectedAt": "2026-11-23T11:01:18.368Z"
+    "collectedAt": "2026-11-25T08:25:13.757Z"
   },
   "threads:18400901173204502": {
     "platform": "threads",
@@ -7582,7 +7582,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:01:19.092Z"
+    "collectedAt": "2026-11-25T08:25:14.399Z"
   },
   "facebook:122131412847446391": {
     "platform": "facebook",
@@ -7591,7 +7591,7 @@
     "pattern": null,
     "publishedAt": "2026-11-16T12:57:45.964Z",
     "metrics": {},
-    "collectedAt": "2026-11-23T11:01:19.852Z"
+    "collectedAt": "2026-11-25T08:25:15.126Z"
   },
   "threads:18470256412191839": {
     "platform": "threads",
@@ -7606,7 +7606,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:01:21.248Z"
+    "collectedAt": "2026-11-25T08:25:16.472Z"
   },
   "threads:18199906045388012": {
     "platform": "threads",
@@ -7621,7 +7621,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:01:22.579Z"
+    "collectedAt": "2026-11-25T08:25:17.852Z"
   },
   "facebook:122131539645446391": {
     "platform": "facebook",
@@ -7630,7 +7630,7 @@
     "pattern": null,
     "publishedAt": "2026-11-17T00:24:33.272Z",
     "metrics": {},
-    "collectedAt": "2026-11-23T11:01:23.209Z"
+    "collectedAt": "2026-11-25T08:25:18.617Z"
   },
   "threads:18134676892688579": {
     "platform": "threads",
@@ -7645,7 +7645,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:01:20.520Z"
+    "collectedAt": "2026-11-25T08:25:15.756Z"
   },
   "threads:18039677354894493": {
     "platform": "threads",
@@ -7660,7 +7660,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:01:21.905Z"
+    "collectedAt": "2026-11-25T08:25:17.141Z"
   },
   "facebook:122131746999446391": {
     "platform": "facebook",
@@ -7669,7 +7669,7 @@
     "pattern": null,
     "publishedAt": "2026-11-17T22:53:43.059Z",
     "metrics": {},
-    "collectedAt": "2026-11-23T11:01:24.543Z"
+    "collectedAt": "2026-11-25T08:25:19.918Z"
   },
   "threads:18139142410710128": {
     "platform": "threads",
@@ -7684,7 +7684,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:01:25.761Z"
+    "collectedAt": "2026-11-25T08:25:21.075Z"
   },
   "facebook:122131727151446391": {
     "platform": "facebook",
@@ -7693,7 +7693,7 @@
     "pattern": null,
     "publishedAt": "2026-11-17T19:53:45.525Z",
     "metrics": {},
-    "collectedAt": "2026-11-23T11:01:26.514Z"
+    "collectedAt": "2026-11-25T08:25:21.718Z"
   },
   "threads:18359264434270805": {
     "platform": "threads",
@@ -7708,7 +7708,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:01:27.218Z"
+    "collectedAt": "2026-11-25T08:25:22.366Z"
   },
   "facebook:122131840275446391": {
     "platform": "facebook",
@@ -7717,7 +7717,7 @@
     "pattern": null,
     "publishedAt": "2026-11-18T04:53:34.743Z",
     "metrics": {},
-    "collectedAt": "2026-11-23T11:01:27.901Z"
+    "collectedAt": "2026-11-25T08:25:23.124Z"
   },
   "facebook:1288453561012463_122131633887446391": {
     "platform": "facebook",
@@ -7726,7 +7726,7 @@
     "pattern": null,
     "publishedAt": "2026-11-17T10:53:35.821Z",
     "metrics": {},
-    "collectedAt": "2026-11-23T11:01:28.612Z"
+    "collectedAt": "2026-11-25T08:25:23.767Z"
   },
   "bluesky:at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3n2kh5hgwbl2s": {
     "platform": "bluesky",
@@ -7740,7 +7740,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:01:30.740Z"
+    "collectedAt": "2026-11-25T08:25:25.901Z"
   },
   "mastodon:117635307940523888": {
     "platform": "mastodon",
@@ -7753,7 +7753,7 @@
       "replies": 1,
       "reposts": 0
     },
-    "collectedAt": "2026-11-23T11:01:31.567Z"
+    "collectedAt": "2026-11-25T08:25:26.663Z"
   },
   "facebook:122131697223446391": {
     "platform": "facebook",
@@ -7762,7 +7762,7 @@
     "pattern": null,
     "publishedAt": "2026-11-17T16:53:41.392Z",
     "metrics": {},
-    "collectedAt": "2026-11-23T11:01:32.848Z"
+    "collectedAt": "2026-11-25T08:25:27.991Z"
   },
   "bluesky:at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3n2je34swly2o": {
     "platform": "bluesky",
@@ -7776,7 +7776,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:01:33.381Z"
+    "collectedAt": "2026-11-25T08:25:28.600Z"
   },
   "mastodon:117632476744416219": {
     "platform": "mastodon",
@@ -7789,7 +7789,7 @@
       "replies": 1,
       "reposts": 0
     },
-    "collectedAt": "2026-11-23T11:01:34.307Z"
+    "collectedAt": "2026-11-25T08:25:29.346Z"
   },
   "bluesky:at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3n2kmcrz5be2r": {
     "platform": "bluesky",
@@ -7803,7 +7803,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:01:35.456Z"
+    "collectedAt": "2026-11-25T08:25:30.577Z"
   },
   "mastodon:117636085065193222": {
     "platform": "mastodon",
@@ -7816,7 +7816,7 @@
       "replies": 1,
       "reposts": 0
     },
-    "collectedAt": "2026-11-23T11:01:36.512Z"
+    "collectedAt": "2026-11-25T08:25:31.299Z"
   },
   "bluesky:at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3n2kxe74ndv22": {
     "platform": "bluesky",
@@ -7830,7 +7830,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:01:37.692Z"
+    "collectedAt": "2026-11-25T08:25:32.522Z"
   },
   "mastodon:117636085429760421": {
     "platform": "mastodon",
@@ -7843,7 +7843,7 @@
       "replies": 1,
       "reposts": 0
     },
-    "collectedAt": "2026-11-23T11:01:38.731Z"
+    "collectedAt": "2026-11-25T08:25:33.501Z"
   },
   "facebook:122131766907446391": {
     "platform": "facebook",
@@ -7852,7 +7852,7 @@
     "pattern": null,
     "publishedAt": "2026-11-18T01:53:40.608Z",
     "metrics": {},
-    "collectedAt": "2026-11-23T11:01:40.079Z"
+    "collectedAt": "2026-11-25T08:25:34.835Z"
   },
   "threads:17990704494122169": {
     "platform": "threads",
@@ -7867,7 +7867,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:01:42.244Z"
+    "collectedAt": "2026-11-25T08:25:37.546Z"
   },
   "facebook:122131865673446391": {
     "platform": "facebook",
@@ -7876,7 +7876,7 @@
     "pattern": null,
     "publishedAt": "2026-11-18T07:53:34.621Z",
     "metrics": {},
-    "collectedAt": "2026-11-23T11:01:42.971Z"
+    "collectedAt": "2026-11-25T08:25:38.242Z"
   },
   "threads:17918902827500388": {
     "platform": "threads",
@@ -7891,7 +7891,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:01:29.270Z"
+    "collectedAt": "2026-11-25T08:25:24.535Z"
   },
   "facebook:122132010759446391": {
     "platform": "facebook",
@@ -7900,7 +7900,7 @@
     "pattern": null,
     "publishedAt": "2026-11-18T16:53:40.880Z",
     "metrics": {},
-    "collectedAt": "2026-11-23T11:01:29.977Z"
+    "collectedAt": "2026-11-25T08:25:25.136Z"
   },
   "threads:18147734887570729": {
     "platform": "threads",
@@ -7915,7 +7915,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:01:34.925Z"
+    "collectedAt": "2026-11-25T08:25:29.965Z"
   },
   "threads:18483565972117954": {
     "platform": "threads",
@@ -7930,7 +7930,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:01:37.154Z"
+    "collectedAt": "2026-11-25T08:25:31.920Z"
   },
   "threads:18081067103734783": {
     "platform": "threads",
@@ -7945,7 +7945,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:01:40.736Z"
+    "collectedAt": "2026-11-25T08:25:35.537Z"
   },
   "facebook:122131917651446391": {
     "platform": "facebook",
@@ -7954,7 +7954,7 @@
     "pattern": null,
     "publishedAt": "2026-11-18T10:53:37.447Z",
     "metrics": {},
-    "collectedAt": "2026-11-23T11:01:41.482Z"
+    "collectedAt": "2026-11-25T08:25:36.239Z"
   },
   "threads:18060327254801355": {
     "platform": "threads",
@@ -7963,13 +7963,13 @@
     "pattern": null,
     "publishedAt": "2026-11-18T09:28:59.094Z",
     "metrics": {
-      "views": 58,
+      "views": 59,
       "likes": 0,
       "replies": 2,
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:01:43.639Z"
+    "collectedAt": "2026-11-25T08:25:38.924Z"
   },
   "threads:18134370580702768": {
     "platform": "threads",
@@ -7984,7 +7984,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:01:44.307Z"
+    "collectedAt": "2026-11-25T08:25:39.559Z"
   },
   "facebook:122131979061446391": {
     "platform": "facebook",
@@ -7993,7 +7993,7 @@
     "pattern": null,
     "publishedAt": "2026-11-18T13:53:35.945Z",
     "metrics": {},
-    "collectedAt": "2026-11-23T11:01:45.012Z"
+    "collectedAt": "2026-11-25T08:25:40.310Z"
   },
   "threads:18062980511643988": {
     "platform": "threads",
@@ -8008,7 +8008,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:01:47.769Z"
+    "collectedAt": "2026-11-25T08:25:42.943Z"
   },
   "bluesky:at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3n2nbruwui22s": {
     "platform": "bluesky",
@@ -8022,7 +8022,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:01:51.574Z"
+    "collectedAt": "2026-11-25T08:25:46.833Z"
   },
   "mastodon:117641322770804372": {
     "platform": "mastodon",
@@ -8035,7 +8035,7 @@
       "replies": 1,
       "reposts": 0
     },
-    "collectedAt": "2026-11-23T11:01:52.433Z"
+    "collectedAt": "2026-11-25T08:25:47.570Z"
   },
   "facebook:122132088507446391": {
     "platform": "facebook",
@@ -8044,7 +8044,7 @@
     "pattern": null,
     "publishedAt": "2026-11-19T06:06:11.267Z",
     "metrics": {},
-    "collectedAt": "2026-11-23T11:01:53.819Z"
+    "collectedAt": "2026-11-25T08:25:48.886Z"
   },
   "bluesky:at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3n2lukwsa3e2r": {
     "platform": "bluesky",
@@ -8058,7 +8058,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:01:54.354Z"
+    "collectedAt": "2026-11-25T08:25:49.495Z"
   },
   "mastodon:117638141014411670": {
     "platform": "mastodon",
@@ -8071,7 +8071,7 @@
       "replies": 1,
       "reposts": 0
     },
-    "collectedAt": "2026-11-23T11:01:55.411Z"
+    "collectedAt": "2026-11-25T08:25:50.180Z"
   },
   "facebook:122132033499446391": {
     "platform": "facebook",
@@ -8080,7 +8080,7 @@
     "pattern": null,
     "publishedAt": "2026-11-18T19:53:34.688Z",
     "metrics": {},
-    "collectedAt": "2026-11-23T11:01:56.858Z"
+    "collectedAt": "2026-11-25T08:25:51.578Z"
   },
   "facebook:1288453561012463_122132049165446391": {
     "platform": "facebook",
@@ -8089,7 +8089,7 @@
     "pattern": null,
     "publishedAt": "2026-11-18T22:53:36.320Z",
     "metrics": {},
-    "collectedAt": "2026-11-23T11:01:58.170Z"
+    "collectedAt": "2026-11-25T08:25:52.878Z"
   },
   "threads:18135648436748698": {
     "platform": "threads",
@@ -8104,7 +8104,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:01:45.694Z"
+    "collectedAt": "2026-11-25T08:25:40.974Z"
   },
   "facebook:1288453561012463_122132151615446391": {
     "platform": "facebook",
@@ -8113,7 +8113,7 @@
     "pattern": null,
     "publishedAt": "2026-11-19T12:24:22.538Z",
     "metrics": {},
-    "collectedAt": "2026-11-23T11:01:46.565Z"
+    "collectedAt": "2026-11-25T08:25:41.627Z"
   },
   "facebook:122132158425446391": {
     "platform": "facebook",
@@ -8131,7 +8131,7 @@
     "pattern": null,
     "publishedAt": "2026-11-19T09:24:33.104Z",
     "metrics": {},
-    "collectedAt": "2026-11-23T11:01:48.452Z"
+    "collectedAt": "2026-11-25T08:25:43.621Z"
   },
   "threads:18049116482821207": {
     "platform": "threads",
@@ -8146,7 +8146,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:01:49.123Z"
+    "collectedAt": "2026-11-25T08:25:44.214Z"
   },
   "threads:18103134836396168": {
     "platform": "threads",
@@ -8161,7 +8161,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:01:49.743Z"
+    "collectedAt": "2026-11-25T08:25:44.829Z"
   },
   "threads:18147925147681374": {
     "platform": "threads",
@@ -8176,7 +8176,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:01:50.422Z"
+    "collectedAt": "2026-11-25T08:25:45.529Z"
   },
   "facebook:1288453561012463_122132194263446391": {
     "platform": "facebook",
@@ -8185,7 +8185,7 @@
     "pattern": null,
     "publishedAt": "2026-11-19T15:24:44.101Z",
     "metrics": {},
-    "collectedAt": "2026-11-23T11:01:51.034Z"
+    "collectedAt": "2026-11-25T08:25:46.161Z"
   },
   "threads:18171951817485835": {
     "platform": "threads",
@@ -8200,7 +8200,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:01:53.114Z"
+    "collectedAt": "2026-11-25T08:25:48.211Z"
   },
   "threads:18136619938741243": {
     "platform": "threads",
@@ -8215,7 +8215,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:01:56.111Z"
+    "collectedAt": "2026-11-25T08:25:50.803Z"
   },
   "threads:18400220452207978": {
     "platform": "threads",
@@ -8224,13 +8224,13 @@
     "pattern": null,
     "publishedAt": "2026-11-19T23:03:08.248Z",
     "metrics": {
-      "views": 44,
+      "views": 45,
       "likes": 0,
       "replies": 2,
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:01:57.509Z"
+    "collectedAt": "2026-11-25T08:25:52.241Z"
   },
   "facebook:122132260635446391": {
     "platform": "facebook",
@@ -8248,7 +8248,7 @@
     "pattern": "B",
     "publishedAt": "2026-11-19T18:25:28.812Z",
     "metrics": {},
-    "collectedAt": "2026-11-23T11:02:03.161Z"
+    "collectedAt": "2026-11-25T08:25:57.361Z"
   },
   "bluesky:at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3n2oksjz45l27": {
     "platform": "bluesky",
@@ -8262,7 +8262,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:02:03.697Z"
+    "collectedAt": "2026-11-25T08:25:58.009Z"
   },
   "mastodon:117644209292182817": {
     "platform": "mastodon",
@@ -8275,7 +8275,7 @@
       "replies": 1,
       "reposts": 0
     },
-    "collectedAt": "2026-11-23T11:02:04.440Z"
+    "collectedAt": "2026-11-25T08:25:58.926Z"
   },
   "bluesky:at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3n2pxd7psmg23": {
     "platform": "bluesky",
@@ -8289,7 +8289,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:02:06.336Z"
+    "collectedAt": "2026-11-25T08:26:00.891Z"
   },
   "mastodon:117647342318798313": {
     "platform": "mastodon",
@@ -8302,7 +8302,7 @@
       "replies": 1,
       "reposts": 0
     },
-    "collectedAt": "2026-11-23T11:02:07.388Z"
+    "collectedAt": "2026-11-25T08:26:01.800Z"
   },
   "instagram:18487578655116597": {
     "platform": "instagram",
@@ -8314,7 +8314,7 @@
       "likes": 0,
       "replies": 0
     },
-    "collectedAt": "2026-11-23T11:02:11.257Z"
+    "collectedAt": "2026-11-25T08:26:05.643Z"
   },
   "instagram:18145715212526343": {
     "platform": "instagram",
@@ -8326,7 +8326,7 @@
       "likes": 0,
       "replies": 0
     },
-    "collectedAt": "2026-11-23T11:02:11.825Z"
+    "collectedAt": "2026-11-25T08:26:06.198Z"
   },
   "threads:18112092170628628": {
     "platform": "threads",
@@ -8341,7 +8341,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:00:18.474Z"
+    "collectedAt": "2026-11-25T08:24:18.043Z"
   },
   "facebook:122132358033446391": {
     "platform": "facebook",
@@ -8359,13 +8359,13 @@
     "pattern": "A",
     "publishedAt": "2026-11-20T21:28:32.445Z",
     "metrics": {
-      "views": 61,
+      "views": 62,
       "likes": 2,
       "replies": 6,
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:01:58.912Z"
+    "collectedAt": "2026-11-25T08:25:53.507Z"
   },
   "threads:17958261270319362": {
     "platform": "threads",
@@ -8374,13 +8374,13 @@
     "pattern": "C",
     "publishedAt": "2026-11-20T15:26:19.038Z",
     "metrics": {
-      "views": 206,
+      "views": 207,
       "likes": 3,
       "replies": 0,
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:01:59.569Z"
+    "collectedAt": "2026-11-25T08:25:54.154Z"
   },
   "facebook:122132414631446391": {
     "platform": "facebook",
@@ -8389,7 +8389,7 @@
     "pattern": "B",
     "publishedAt": "2026-11-20T18:24:34.727Z",
     "metrics": {},
-    "collectedAt": "2026-11-23T11:02:01.850Z"
+    "collectedAt": "2026-11-25T08:25:56.112Z"
   },
   "threads:18198680470394398": {
     "platform": "threads",
@@ -8404,7 +8404,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:02:02.487Z"
+    "collectedAt": "2026-11-25T08:25:56.735Z"
   },
   "bluesky:at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3n2qbf6om5q2a": {
     "platform": "bluesky",
@@ -8418,7 +8418,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:02:09.294Z"
+    "collectedAt": "2026-11-25T08:26:03.787Z"
   },
   "mastodon:117648050358565045": {
     "platform": "mastodon",
@@ -8431,7 +8431,7 @@
       "replies": 1,
       "reposts": 0
     },
-    "collectedAt": "2026-11-23T11:02:10.029Z"
+    "collectedAt": "2026-11-25T08:26:04.472Z"
   },
   "threads:18107485070334983": {
     "platform": "threads",
@@ -8446,7 +8446,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:02:12.514Z"
+    "collectedAt": "2026-11-25T08:26:06.803Z"
   },
   "threads:17941677444123265": {
     "platform": "threads",
@@ -8461,7 +8461,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:02:15.185Z"
+    "collectedAt": "2026-11-25T08:26:09.423Z"
   },
   "bluesky:at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3n2scpoe4jg2j": {
     "platform": "bluesky",
@@ -8475,7 +8475,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:02:18.082Z"
+    "collectedAt": "2026-11-25T08:26:12.385Z"
   },
   "mastodon:117652647442559062": {
     "platform": "mastodon",
@@ -8488,7 +8488,7 @@
       "replies": 1,
       "reposts": 0
     },
-    "collectedAt": "2026-11-23T11:02:19.140Z"
+    "collectedAt": "2026-11-25T08:26:13.281Z"
   },
   "threads:17947728051089521": {
     "platform": "threads",
@@ -8503,7 +8503,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:02:05.130Z"
+    "collectedAt": "2026-11-25T08:25:59.645Z"
   },
   "threads:17914543191487829": {
     "platform": "threads",
@@ -8512,13 +8512,13 @@
     "pattern": "A",
     "publishedAt": "2026-11-21T22:57:32.276Z",
     "metrics": {
-      "views": 98,
+      "views": 99,
       "likes": 2,
       "replies": 3,
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:02:08.038Z"
+    "collectedAt": "2026-11-25T08:26:02.479Z"
   },
   "threads:18123151514078098": {
     "platform": "threads",
@@ -8533,7 +8533,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:02:14.536Z"
+    "collectedAt": "2026-11-25T08:26:08.743Z"
   },
   "facebook:122132668335446391": {
     "platform": "facebook",
@@ -8542,7 +8542,7 @@
     "pattern": null,
     "publishedAt": "2026-11-22T04:53:33.166Z",
     "metrics": {},
-    "collectedAt": "2026-11-23T11:02:17.366Z"
+    "collectedAt": "2026-11-25T08:26:11.610Z"
   },
   "bluesky:at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3n2ut3aieaq2m": {
     "platform": "bluesky",
@@ -8556,7 +8556,7 @@
       "reposts": 0,
       "quotes": 0
     },
-    "collectedAt": "2026-11-23T11:02:21.869Z"
+    "collectedAt": "2026-11-25T08:26:17.245Z"
   },
   "mastodon:117658302272906939": {
     "platform": "mastodon",
@@ -8569,7 +8569,7 @@
       "replies": 1,
       "reposts": 0
     },
-    "collectedAt": "2026-11-23T11:02:22.636Z"
+    "collectedAt": "2026-11-25T08:26:17.997Z"
   },
   "facebook:1288453561012463_122132763117446391": {
     "platform": "facebook",
@@ -8578,7 +8578,7 @@
     "pattern": "E",
     "publishedAt": "2026-11-22T12:24:23.366Z",
     "metrics": {},
-    "collectedAt": "2026-11-23T11:02:13.139Z"
+    "collectedAt": "2026-11-25T08:26:07.454Z"
   },
   "facebook:1288453561012463_122132873475446391": {
     "platform": "facebook",
@@ -8587,7 +8587,7 @@
     "pattern": null,
     "publishedAt": "2026-11-23T00:10:54.283Z",
     "metrics": {},
-    "collectedAt": "2026-11-23T11:02:19.785Z"
+    "collectedAt": "2026-11-25T08:26:13.924Z"
   },
   "facebook:1288453561012463_122132859213446391": {
     "platform": "facebook",
@@ -8596,7 +8596,7 @@
     "pattern": "E",
     "publishedAt": "2026-11-22T21:24:20.506Z",
     "metrics": {},
-    "collectedAt": "2026-11-23T11:02:20.491Z"
+    "collectedAt": "2026-11-25T08:26:14.566Z"
   },
   "facebook:1288453561012463_122132913951446391": {
     "platform": "facebook",
@@ -8605,6 +8605,480 @@
     "pattern": "D",
     "publishedAt": "2026-11-23T06:24:21.471Z",
     "metrics": {},
-    "collectedAt": "2026-11-23T11:02:21.339Z"
+    "collectedAt": "2026-11-25T08:26:16.504Z"
+  },
+  "threads:18117446243150363": {
+    "platform": "threads",
+    "postId": "18117446243150363",
+    "topic": "The closed-on-Monday trap: how Korean palaces and museums schedule their days off",
+    "pattern": "A",
+    "publishedAt": "2026-11-23T18:52:45.377Z",
+    "metrics": {
+      "views": 109,
+      "likes": 2,
+      "replies": 4,
+      "reposts": 0,
+      "quotes": 0
+    },
+    "collectedAt": "2026-11-25T08:26:15.279Z"
+  },
+  "threads:18117722852125375": {
+    "platform": "threads",
+    "postId": "18117722852125375",
+    "topic": "The closed-on-Monday trap: how Korean palaces and museums schedule their days off",
+    "pattern": "D",
+    "publishedAt": "2026-11-23T21:51:26.111Z",
+    "metrics": {
+      "views": 65,
+      "likes": 0,
+      "replies": 2,
+      "reposts": 0,
+      "quotes": 0
+    },
+    "collectedAt": "2026-11-25T08:26:15.865Z"
+  },
+  "facebook:122133026871446391": {
+    "platform": "facebook",
+    "postId": "122133026871446391",
+    "topic": "Suwon Hwaseong Fortress",
+    "pattern": null,
+    "publishedAt": "2026-11-23T16:53:36.950Z",
+    "metrics": {},
+    "collectedAt": "2026-11-25T08:26:18.767Z"
+  },
+  "instagram:17926233387225123": {
+    "platform": "instagram",
+    "postId": "17926233387225123",
+    "topic": "Changdeokgung Secret Garden: how the timed Huwon tickets actually work",
+    "pattern": "B",
+    "publishedAt": "2026-11-23T17:37:22.528Z",
+    "metrics": {
+      "likes": 6,
+      "replies": 0
+    },
+    "collectedAt": "2026-11-25T08:26:19.364Z"
+  },
+  "threads:17894794260454472": {
+    "platform": "threads",
+    "postId": "17894794260454472",
+    "topic": "Changdeokgung Secret Garden: how the timed Huwon tickets actually work",
+    "pattern": "A",
+    "publishedAt": "2026-11-24T12:53:59.033Z",
+    "metrics": {
+      "views": 75,
+      "likes": 0,
+      "replies": 0,
+      "reposts": 0,
+      "quotes": 0
+    },
+    "collectedAt": "2026-11-25T08:26:19.988Z"
+  },
+  "instagram:18604460818070710": {
+    "platform": "instagram",
+    "postId": "18604460818070710",
+    "topic": "Changdeokgung Secret Garden: how the timed Huwon tickets actually work",
+    "pattern": "A",
+    "publishedAt": "2026-11-23T21:13:05.926Z",
+    "metrics": {
+      "likes": 0,
+      "replies": 0
+    },
+    "collectedAt": "2026-11-25T08:26:21.181Z"
+  },
+  "bluesky:at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3n32i4wde752b": {
+    "platform": "bluesky",
+    "postId": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3n32i4wde752b",
+    "topic": "Changdeokgung Secret Garden: how the timed Huwon tickets actually work",
+    "pattern": "A",
+    "publishedAt": "2026-11-24T10:53:39.165Z",
+    "metrics": {
+      "likes": 0,
+      "replies": 1,
+      "reposts": 0,
+      "quotes": 0
+    },
+    "collectedAt": "2026-11-25T08:26:21.778Z"
+  },
+  "mastodon:117671042844003319": {
+    "platform": "mastodon",
+    "postId": "117671042844003319",
+    "topic": "Changdeokgung Secret Garden: how the timed Huwon tickets actually work",
+    "pattern": "A",
+    "publishedAt": "2026-11-24T10:53:45.158Z",
+    "metrics": {
+      "likes": 0,
+      "replies": 1,
+      "reposts": 0
+    },
+    "collectedAt": "2026-11-25T08:26:22.520Z"
+  },
+  "threads:18131845019479481": {
+    "platform": "threads",
+    "postId": "18131845019479481",
+    "topic": "Everland vs. Lotte World theme parks",
+    "pattern": "C",
+    "publishedAt": "2026-11-24T00:50:54.423Z",
+    "metrics": {
+      "views": 33,
+      "likes": 0,
+      "replies": 4,
+      "reposts": 0,
+      "quotes": 0
+    },
+    "collectedAt": "2026-11-25T08:26:23.257Z"
+  },
+  "threads:18106430441629867": {
+    "platform": "threads",
+    "postId": "18106430441629867",
+    "topic": "Where Koreans actually buy everyday stuff: Daiso vs. Olive Young vs. hypermarkets vs. the traditional market",
+    "pattern": "C",
+    "publishedAt": "2026-11-24T15:52:59.585Z",
+    "metrics": {
+      "views": 114,
+      "likes": 0,
+      "replies": 3,
+      "reposts": 0,
+      "quotes": 0
+    },
+    "collectedAt": "2026-11-25T08:26:23.850Z"
+  },
+  "bluesky:at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3n2zozqn2iu2b": {
+    "platform": "bluesky",
+    "postId": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3n2zozqn2iu2b",
+    "topic": "Where Koreans actually buy everyday stuff: Daiso vs. Olive Young vs. hypermarkets vs. the traditional market",
+    "pattern": "C",
+    "publishedAt": "2026-11-24T03:24:28.279Z",
+    "metrics": {
+      "likes": 0,
+      "replies": 1,
+      "reposts": 0,
+      "quotes": 0
+    },
+    "collectedAt": "2026-11-25T08:26:24.449Z"
+  },
+  "mastodon:117669627358406152": {
+    "platform": "mastodon",
+    "postId": "117669627358406152",
+    "topic": "Where Koreans actually buy everyday stuff: Daiso vs. Olive Young vs. hypermarkets vs. the traditional market",
+    "pattern": "C",
+    "publishedAt": "2026-11-24T04:53:45.273Z",
+    "metrics": {
+      "likes": 0,
+      "replies": 1,
+      "reposts": 0
+    },
+    "collectedAt": "2026-11-25T08:26:25.271Z"
+  },
+  "bluesky:at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3n2ylrqb62n2f": {
+    "platform": "bluesky",
+    "postId": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3n2ylrqb62n2f",
+    "topic": "Luggage storage & forwarding services",
+    "pattern": null,
+    "publishedAt": "2026-11-23T16:53:38.204Z",
+    "metrics": {
+      "likes": 0,
+      "replies": 1,
+      "reposts": 0,
+      "quotes": 0
+    },
+    "collectedAt": "2026-11-25T08:26:25.866Z"
+  },
+  "mastodon:117666795942524502": {
+    "platform": "mastodon",
+    "postId": "117666795942524502",
+    "topic": "Luggage storage & forwarding services",
+    "pattern": null,
+    "publishedAt": "2026-11-23T16:53:40.891Z",
+    "metrics": {
+      "likes": 0,
+      "replies": 1,
+      "reposts": 0
+    },
+    "collectedAt": "2026-11-25T08:26:26.603Z"
+  },
+  "instagram:18361990714223795": {
+    "platform": "instagram",
+    "postId": "18361990714223795",
+    "topic": "Gyeongbokgung Palace",
+    "pattern": "A",
+    "publishedAt": "2026-11-24T00:51:27.990Z",
+    "metrics": {
+      "likes": 0,
+      "replies": 0
+    },
+    "collectedAt": "2026-11-25T08:26:27.181Z"
+  },
+  "instagram:17958609465269683": {
+    "platform": "instagram",
+    "postId": "17958609465269683",
+    "topic": "N Seoul Tower (Namsan)",
+    "pattern": "E",
+    "publishedAt": "2026-11-24T04:54:24.117Z",
+    "metrics": {
+      "likes": 0,
+      "replies": 0
+    },
+    "collectedAt": "2026-11-25T08:26:27.750Z"
+  },
+  "threads:17999460354059714": {
+    "platform": "threads",
+    "postId": "17999460354059714",
+    "topic": "Busan Haeundae Beach & Gamcheon Culture Village",
+    "pattern": "A",
+    "publishedAt": "2026-11-24T06:52:48.282Z",
+    "metrics": {
+      "views": 19,
+      "likes": 0,
+      "replies": 1,
+      "reposts": 0,
+      "quotes": 0
+    },
+    "collectedAt": "2026-11-25T08:26:28.357Z"
+  },
+  "threads:18115692116271597": {
+    "platform": "threads",
+    "postId": "18115692116271597",
+    "topic": "Hongdae nightlife and youth culture district",
+    "pattern": "A",
+    "publishedAt": "2026-11-24T03:35:54.336Z",
+    "metrics": {
+      "views": 16,
+      "likes": 0,
+      "replies": 3,
+      "reposts": 0,
+      "quotes": 0
+    },
+    "collectedAt": "2026-11-25T08:26:29.031Z"
+  },
+  "threads:17920436856265568": {
+    "platform": "threads",
+    "postId": "17920436856265568",
+    "topic": "Currency & card payments",
+    "pattern": null,
+    "publishedAt": "2026-11-24T09:34:47.932Z",
+    "metrics": {
+      "views": 142,
+      "likes": 1,
+      "replies": 2,
+      "reposts": 0,
+      "quotes": 0
+    },
+    "collectedAt": "2026-11-25T08:26:30.338Z"
+  },
+  "instagram:18152741572562916": {
+    "platform": "instagram",
+    "postId": "18152741572562916",
+    "topic": "Timing cherry blossoms and fall foliage in Korea without hitting peak crowds",
+    "pattern": "A",
+    "publishedAt": "2026-11-24T09:35:24.183Z",
+    "metrics": {
+      "likes": 7,
+      "replies": 0
+    },
+    "collectedAt": "2026-11-25T08:26:30.979Z"
+  },
+  "threads:18652815019014772": {
+    "platform": "threads",
+    "postId": "18652815019014772",
+    "topic": "Bukchon Hanok Village",
+    "pattern": null,
+    "publishedAt": "2026-11-25T03:52:06.237Z",
+    "metrics": {
+      "views": 79,
+      "likes": 1,
+      "replies": 2,
+      "reposts": 0,
+      "quotes": 0
+    },
+    "collectedAt": "2026-11-25T08:26:31.660Z"
+  },
+  "instagram:18121203610820392": {
+    "platform": "instagram",
+    "postId": "18121203610820392",
+    "topic": "Suwon Hwaseong Fortress",
+    "pattern": "D",
+    "publishedAt": "2026-11-24T22:53:56.814Z",
+    "metrics": {
+      "likes": 0,
+      "replies": 0
+    },
+    "collectedAt": "2026-11-25T08:26:32.242Z"
+  },
+  "threads:18120725993051032": {
+    "platform": "threads",
+    "postId": "18120725993051032",
+    "topic": "First-timer etiquette & common mistakes",
+    "pattern": null,
+    "publishedAt": "2026-11-24T18:53:46.478Z",
+    "metrics": {
+      "views": 39,
+      "likes": 1,
+      "replies": 2,
+      "reposts": 0,
+      "quotes": 0
+    },
+    "collectedAt": "2026-11-25T08:26:32.853Z"
+  },
+  "instagram:18124117450985289": {
+    "platform": "instagram",
+    "postId": "18124117450985289",
+    "topic": "KTX vs. SRT vs. intercity bus for long-distance travel",
+    "pattern": null,
+    "publishedAt": "2026-11-24T13:54:28.488Z",
+    "metrics": {
+      "likes": 0,
+      "replies": 0
+    },
+    "collectedAt": "2026-11-25T08:26:33.409Z"
+  },
+  "bluesky:at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3n34jkagxro2z": {
+    "platform": "bluesky",
+    "postId": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3n34jkagxro2z",
+    "topic": "KTX vs. SRT vs. intercity bus for long-distance travel",
+    "pattern": "B",
+    "publishedAt": "2026-11-25T06:24:18.193Z",
+    "metrics": {
+      "likes": 0,
+      "replies": 1,
+      "reposts": 0,
+      "quotes": 0
+    },
+    "collectedAt": "2026-11-25T08:26:34.064Z"
+  },
+  "mastodon:117675645905828223": {
+    "platform": "mastodon",
+    "postId": "117675645905828223",
+    "topic": "KTX vs. SRT vs. intercity bus for long-distance travel",
+    "pattern": "B",
+    "publishedAt": "2026-11-25T06:24:20.821Z",
+    "metrics": {
+      "likes": 0,
+      "replies": 1,
+      "reposts": 0
+    },
+    "collectedAt": "2026-11-25T08:26:34.813Z"
+  },
+  "bluesky:at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3n342g2ei272u": {
+    "platform": "bluesky",
+    "postId": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3n342g2ei272u",
+    "topic": "Namdaemun Market",
+    "pattern": "E",
+    "publishedAt": "2026-11-25T01:53:31.772Z",
+    "metrics": {
+      "likes": 0,
+      "replies": 1,
+      "reposts": 0,
+      "quotes": 0
+    },
+    "collectedAt": "2026-11-25T08:26:35.410Z"
+  },
+  "mastodon:117674581184415138": {
+    "platform": "mastodon",
+    "postId": "117674581184415138",
+    "topic": "Namdaemun Market",
+    "pattern": "E",
+    "publishedAt": "2026-11-25T01:53:34.608Z",
+    "metrics": {
+      "likes": 0,
+      "replies": 1,
+      "reposts": 0
+    },
+    "collectedAt": "2026-11-25T08:26:36.106Z"
+  },
+  "bluesky:at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3n34ehze7xg25": {
+    "platform": "bluesky",
+    "postId": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3n34ehze7xg25",
+    "topic": "DMZ and JSA tours",
+    "pattern": "A",
+    "publishedAt": "2026-11-25T04:53:34.972Z",
+    "metrics": {
+      "likes": 0,
+      "replies": 1,
+      "reposts": 0,
+      "quotes": 0
+    },
+    "collectedAt": "2026-11-25T08:26:36.704Z"
+  },
+  "mastodon:117675289190001800": {
+    "platform": "mastodon",
+    "postId": "117675289190001800",
+    "topic": "DMZ and JSA tours",
+    "pattern": "A",
+    "publishedAt": "2026-11-25T04:53:37.183Z",
+    "metrics": {
+      "likes": 0,
+      "replies": 1,
+      "reposts": 0
+    },
+    "collectedAt": "2026-11-25T08:26:37.412Z"
+  },
+  "threads:17907915681671206": {
+    "platform": "threads",
+    "postId": "17907915681671206",
+    "topic": "Shipping souvenirs home from a Korean post office: EMS, small packets, and sea mail",
+    "pattern": null,
+    "publishedAt": "2026-11-24T23:21:18.199Z",
+    "metrics": {
+      "views": 90,
+      "likes": 0,
+      "replies": 4,
+      "reposts": 0,
+      "quotes": 0
+    },
+    "collectedAt": "2026-11-25T08:26:38.034Z"
+  },
+  "threads:17957409510280129": {
+    "platform": "threads",
+    "postId": "17957409510280129",
+    "topic": "Gwangjang Market: what to eat, when stalls close, and how to avoid overpaying",
+    "pattern": "E",
+    "publishedAt": "2026-11-24T23:48:21.452Z",
+    "metrics": {
+      "views": 46,
+      "likes": 0,
+      "replies": 2,
+      "reposts": 0,
+      "quotes": 0
+    },
+    "collectedAt": "2026-11-25T08:26:38.674Z"
+  },
+  "instagram:18233502031334325": {
+    "platform": "instagram",
+    "postId": "18233502031334325",
+    "topic": "Gyeongbokgung Palace",
+    "pattern": null,
+    "publishedAt": "2026-11-24T17:29:51.454Z",
+    "metrics": {
+      "likes": 2,
+      "replies": 0
+    },
+    "collectedAt": "2026-11-25T08:26:39.267Z"
+  },
+  "instagram:18206722294377485": {
+    "platform": "instagram",
+    "postId": "18206722294377485",
+    "topic": "Timing cherry blossoms and fall foliage in Korea without hitting peak crowds",
+    "pattern": null,
+    "publishedAt": "2026-11-24T23:48:55.440Z",
+    "metrics": {
+      "likes": 2,
+      "replies": 0
+    },
+    "collectedAt": "2026-11-25T08:26:39.861Z"
+  },
+  "threads:17899851321420865": {
+    "platform": "threads",
+    "postId": "17899851321420865",
+    "topic": "Cafes as workspaces in Korea: unspoken rules of study cafes, franchise chains, and 'no-laptop' signs",
+    "pattern": "A",
+    "publishedAt": "2026-11-25T06:48:49.670Z",
+    "metrics": {
+      "views": 60,
+      "likes": 0,
+      "replies": 5,
+      "reposts": 0,
+      "quotes": 0
+    },
+    "collectedAt": "2026-11-25T08:26:40.470Z"
   }
 }
