@@ -57659,8 +57659,13 @@
       "bluesky"
     ],
     "scheduledAt": "2026-11-25T05:27:05.325Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3n34jkagxro2z",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3n34jkagxro2z"
+      }
+    },
     "createdAt": "2026-11-24T09:48:13.529Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -57677,7 +57682,8 @@
       "checkedAt": "2026-11-24T09:47:15.455Z",
       "pattern": "B"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-ktx-vs-srt-vs-intercity-bus-for-long-distance-travel.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-ktx-vs-srt-vs-intercity-bus-for-long-distance-travel.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-25T06:24:18.193Z"
   },
   {
     "id": "29739868-4f20-4443-9fe6-361af6b886d4",
@@ -57687,8 +57693,13 @@
       "mastodon"
     ],
     "scheduledAt": "2026-11-25T05:58:09.151Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "mastodon": {
+        "id": "117675645905828223",
+        "url": "https://mastodon.social/@landinkorea/117675645905828223"
+      }
+    },
     "createdAt": "2026-11-24T09:48:13.561Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -57705,7 +57716,8 @@
       "checkedAt": "2026-11-24T09:47:15.455Z",
       "pattern": "B"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-ktx-vs-srt-vs-intercity-bus-for-long-distance-travel.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-ktx-vs-srt-vs-intercity-bus-for-long-distance-travel.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-25T06:24:20.821Z"
   },
   {
     "id": "f5036354-fa26-4830-bc50-1263c9b157bb",
@@ -58749,8 +58761,12 @@
       "threads"
     ],
     "scheduledAt": "2026-11-24T21:28:54.710Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "17899851321420865"
+      }
+    },
     "createdAt": "2026-11-24T17:35:40.945Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -58767,7 +58783,8 @@
       "checkedAt": "2026-11-24T17:34:29.495Z",
       "pattern": "A"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-cafes-as-workspaces-in-korea-unspoken-rules-of-study-cafes-franchise-chains-and-no-laptop-signs.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-cafes-as-workspaces-in-korea-unspoken-rules-of-study-cafes-franchise-chains-and-no-laptop-signs.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-25T06:48:49.670Z"
   },
   {
     "id": "2e9948b2-5cab-40d7-b7ba-6caa0454c20d",
