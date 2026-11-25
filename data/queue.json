@@ -58975,5 +58975,102 @@
     },
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-25T02:07:08.041Z"
+  },
+  {
+    "id": "9e487b52-06c9-4c5b-a787-4cc9a541c330",
+    "text": "Don't get locked out of the jjimjilbang at Itaewon and Hongdae after midnight if you don't pay the ₩10,000-20,000 entry fee in cash. The check-in process is always the same: pay at the counter, get a locker key, and remove shoes into a separate locker before the main change area.\n\nYou'll often get a wristband with the locker key, which can be a convenient way to keep track of your belongings. However, be aware that some jjimjilbangs may have additional rules or restrictions, especially if you're a foreign visitor.\n\nHave you ever had a bad experience with a jjimjilbang in Korea?\n\n🇯🇵 イタウォンとホンデのジムジルバンで真夜中までロックアウトされないように、カッシュで10,000-20,000ウォンを支払え。\n\n🇨🇳 在伊川町和弘大的热水澡房（jjimjilbang）夜间入住时不要被锁外，支付10,000-20,000韩元的门票费用。\n\n🇹🇼 在伊川町和弘大的熱水澡房（jjimjilbang）夜間入住時不要被鎖外，支付10,000-20,000韓元的門票費用。",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-25T23:23:47.031Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-25T02:11:54.032Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Jjimjilbang etiquette",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스러우며 사실도 신뢰할 수 있어 여행자에게 유용합니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-25T02:11:20.289Z",
+      "pattern": "A"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-jjimjilbang-etiquette.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "fab89775-4c37-4d9b-af68-f3fc050e4e45",
+    "text": "Don't show up to Gyeongbokgung Palace whenever you want if you want to see the changing of the royal guard.\n\nThe ceremony runs at set times, usually between 11am and 3pm.\n\nOne of the best times to visit is around 2pm when the guard changes. Just be aware that the palace closes on Tuesdays, which trips up more first-timers than any other detail. Did this confuse you too? Open the Land in Korea link in the profile for more tips.\n\n🇯🇵 大観閣の行列の変化は11時から3時までの間で行われます。2時頃が最も良い時期です。ただし、火曜日は閉鎖されます。\n\n🇨🇳 大觀閣的衛兵更換儀式通常在11點至3點之間進行，2點左右是最好的時段。然而，星期二闭馆。\n\n🇹🇼 大觀閣的衛兵更換儀式通常在11點至3點之間進行，2點左右是最好的時段。然而，星期二閉館。",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795572836046-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795572836046-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-25T15:19:21.431Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-25T02:14:21.806Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g3881529bfef6b4cb0c982f0b2c235bcef1e282a3096971222b477e0d49d3eed8b4daa88f0208fbc2a772f06b0903a3ff74e5bc3c9a5313766a4f360b6fa8b0f9_1280.jpg#pixabay=7741339",
+      "https://pixabay.com/get/g350e891b9627a1539c083bba20f77f9f3a8b14281f9312d078e2207333a24dad168a44f62755eb8e46f72cdd5513954ddbbb575b4a03660c25cc418dfe7a13dc_1280.jpg#pixabay=4141535",
+      "https://pixabay.com/get/g9d0408919fc54856d416bc0d9c3e19cef5468ebb53db81b7388e337f8b577d05c269e768f9c26eac85c98f09c6a639e4d51442f5bfc35052efd8bd8b0f7b2c8b_1280.jpg#pixabay=1214975"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Gyeongbokgung Palace",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: facebook: missing reaction; no clear hook that promises or identifies a mistake, first line is a statement rather than a hook. | instagram: payoff incomplete; after hook, no details about ceremony times are provided.",
+      "failedPlatforms": [
+        "facebook",
+        "instagram"
+      ],
+      "model": "groq",
+      "pattern": "A",
+      "checkedAt": "2026-11-25T02:12:36.257Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-gyeongbokgung-palace.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "02f35904-9fc7-4235-b00f-54757fff19c6",
+    "text": "Don't walk loudly through Bukchon Hanok Village's residential alleys early morning or evening, or you might wake up a family. The neighborhood connects two major palaces, so most people visit it as a walk between Gyeongbokgung and Changdeokgung rather than a separate trip. Weekday mornings are the quietest time to actually see the alleys without a crowd in every photo. The hanok houses aren't a recreation — real families live behind those tiled roofs. If you want to see the alleys without the crowds, go on a weekday morning. I found this out when I tried to visit Bukchon on a Saturday afternoon. What's the most peaceful time you've visited a crowded place? Open the Land in Korea link in the profile.\n\nBukchon Hanok Village's alleys are less crowded on weekday mornings. If you go on a weekday morning, you can see the alleys without the crowds. I've visited Bukchon on a weekday morning and it was much quieter than on a weekend. If you visit Bukchon during peak hours, you'll probably see a lot of people taking photos. Try to avoid visiting during peak hours if you want a more peaceful experience. What's the most crowded place you've ever visited?\n\nI've visited Bukchon Hanok Village on a weekday morning and it was much quieter than on a weekend. The alleys are less crowded and you can take your time to appreciate the architecture. If you visit Bukchon during peak hours, you'll probably see a lot of people taking photos. Try to avoid visiting during peak hours if you want a more peaceful experience. If you want to see the alleys without the crowds, go on a weekday morning. If you visit Bukchon Hanok Village during peak hours, you'll probably see a lot of people taking photos. Try to avoid visiting during peak hours if you want a more peaceful experience. I've visited Bukchon on a weekday morning and it was much quieter than on a weekend. The alleys are less crowded and you can take your time to appreciate the architecture. What's the most peaceful time you've visited a crowded place?\n\n🇯🇵 早朝や夕方の時、不老村の住宅街を歩く音を小さくしてください。\n\n🇨🇳 不要在白鹿洞村的住宅街清晨或黄昏走动，以免惊扰居民。\n\n🇹🇼 不要在白鹿洞村的住宅街清晨或黃昏走動，以免驚扰居民。",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-25T04:59:08.894Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-25T02:17:04.701Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/gbd1243cbfe4e9d096fbfbd980d9788a0ac7067d168cf19c381da3c3415d7c6acf682fa13dca55ef791e8e4d13993a967ac23286cca1f36df9397368bcc1dd01e_1280.jpg#pixabay=4617977"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Bukchon Hanok Village",
+    "qualityGate": {
+      "pass": true,
+      "reason": "Bukchon Hanok Village 주제와 관련이 있고 문장이 자연스럽게 완성되어 있습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-25T02:15:40.318Z",
+      "pattern": "A"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-bukchon-hanok-village.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
