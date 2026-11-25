@@ -59153,5 +59153,95 @@
       ],
       "checkedAt": "2026-11-25T03:54:41.806Z"
     }
+  },
+  {
+    "id": "d3b1f20c-a787-4221-aa8a-b00ef140149e",
+    "text": "Most tourists lose their Tax Free refund before they even reach the airport — not from missing paperwork, but from where they packed the item.\n\nTourists spending over the minimum threshold at Tax Free-affiliated stores can reclaim VAT paid on purchases.\n\nAsk for a Tax Free receipt/form at checkout, keep the item unused, and process the refund at airport kiosks (self-service or counter) before checking in your luggage if the item goes in checked baggage.\n\nWorth knowing before you land? Reply with what surprised you.",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-25T19:44:12.811Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-25T03:57:37.909Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Tax refund (Tax Free) shopping",
+    "qualityGate": {
+      "pass": false,
+      "reason": "첫 줄 규칙 위반: threads: 최근 30일 안에 쓴 첫 줄 재사용",
+      "model": "rule",
+      "failedPlatforms": [
+        "threads"
+      ],
+      "checkedAt": "2026-11-25T03:57:34.210Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-25T03:57:37.895Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-tax-refund-tax-free-shopping.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "26bd2f7e-cab7-48de-b566-abb3041bc95b",
+    "text": "The weather, not the crime rate, is what actually disrupts trips to Korea — and most itineraries build in zero buffer for it.\n\nNatural events like typhoons (summer/early fall) or heavy snow (winter) can disrupt trains and flights with little warning — build a buffer day into your itinerary if traveling during those seasons.\n\nSave the emergency numbers 112 (police) and 119 (fire/medical) before you land; many operators have English support.\n\nDid this trip you up your first time too? Drop a comment.",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-25T13:24:03.061Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-25T03:57:45.753Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Travel advisories & safety notices",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq와 Cloudflare 둘 다 실패했습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-25T03:57:43.538Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-25T03:57:45.740Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-travel-advisories-safety-notices.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "a8a18c38-570f-4976-9584-a981ddabed09",
+    "text": "Insadong looks like a tourist strip until you realize it's Seoul's actual center for traditional Korean art, antiques, and hanji (traditional paper) — not a themed recreation.\n\nThe main street bans cars every Sunday, turning it into a full pedestrian zone with street performers and craft stalls.\n\nSsamziegil, a spiral-shaped shopping complex just off the main road, packs small design studios and craft shops into one building worth a dedicated stop.\n\nHow much did this actually cost you on your trip?",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-25T17:52:20.824Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-25T03:57:57.213Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Insadong traditional culture street",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq와 Cloudflare 둘 다 실패했습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-25T03:57:53.601Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-25T03:57:57.199Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-insadong-traditional-culture-street.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]

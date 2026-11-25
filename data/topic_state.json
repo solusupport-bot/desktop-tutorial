@@ -1,5 +1,5 @@
 {
-  "lastIndex": 7,
+  "lastIndex": 23,
   "history": [
     {
       "index": 22,
@@ -792,6 +792,24 @@
       "topic": "T-money transit card",
       "at": "2026-11-25T03:57:20.999Z",
       "source": "instagram-fill"
+    },
+    {
+      "index": 8,
+      "topic": "Tax refund (Tax Free) shopping",
+      "at": "2026-11-25T03:57:28.443Z",
+      "source": "threads-fill"
+    },
+    {
+      "index": 9,
+      "topic": "Travel advisories & safety notices",
+      "at": "2026-11-25T03:57:37.950Z",
+      "source": "threads-fill"
+    },
+    {
+      "index": 23,
+      "topic": "Insadong traditional culture street",
+      "at": "2026-11-25T03:57:45.791Z",
+      "source": "threads-fill"
     }
   ],
   "recentImageUrls": [
