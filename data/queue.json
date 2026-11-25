@@ -57877,8 +57877,12 @@
       "threads"
     ],
     "scheduledAt": "2026-11-25T00:43:57.704Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "17913028101597141"
+      }
+    },
     "createdAt": "2026-11-24T09:53:12.829Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -57895,7 +57899,8 @@
       "checkedAt": "2026-11-24T09:52:12.927Z",
       "pattern": "E"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-namdaemun-market.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-namdaemun-market.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-25T18:52:46.424Z"
   },
   {
     "id": "7d9548fa-7308-4832-8811-74ac1adb9488",
