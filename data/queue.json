@@ -60393,5 +60393,39 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-25T19:55:52.360Z",
     "blogUrl": "https://landinkorea.com/posts/korea-gyeongbokgung-palace.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "9da4e026-e7c4-4fa3-b1bc-df66e2272886",
+    "text": "Bukchon Hanok Village is a real residential area, not a museum.\nFamilies still live in the hanoks, so quiet‑please signs appear after certain hours.\nBest photo spot – the sloped alley near Gahoe‑dong – fills up fast in the morning.\n📖 Full guide: https://landinkorea.com/posts/korea-bukchon-hanok-village.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post\n\n🇯🇵 부촌한옥마을은 실제 주거 지역입니다. 가족들이 여전히 한옥에 살고 있으므로, 일정 시간 이후 조용히 하시오의 안내가 나타납니다. 가장 좋은 사진 찍는 장소는 가회동의 기울어진 골목입니다. 이곳은 아침에 빨리 가득 차서, 일찍 가보세요.\n\n🇨🇳 布成韩屋村是真正的住宅区，而不是博物馆。仍然有家庭住在韩屋里，所以晚上一定要安静的标志会出现。最佳拍照地点是靠近加会洞的斜坡小巷，早上会很快被占满。\n\n🇹🇼 布成韓屋村是真正的住宅區，而不是博物館。仍然有家庭住在韓屋里，所以晚上一定要安靜的標誌會出現。最佳拍照點是靠近加會洞的斜坡小巷，早上會很快被占滿。",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795643521036-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795643521036-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-26T00:06:57.352Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-25T21:52:21.354Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g1e8fc511a4f52e0c7e7fb6fda04633b474cbab6f25fc3c60dae54f00e36bfad4606679411a75127825377421884e120d509ffe310cbf63993949c6fc9c191f2f_1280.jpg#pixabay=2830016",
+      "https://pixabay.com/get/g56097e7e74e71f1a38cc67f85368e7d9ffcc50f107355dd2bc7d0bef33587ea728052bffa0fdd2590c39c06e223e0659f5a8b4704f97e289dcb0dab23f03f1ee_1280.jpg#pixabay=3905262"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Bukchon Hanok Village",
+    "qualityGate": {
+      "pass": true,
+      "reason": "캡션은 주제와 관련이 있고 문장이 자연스럽고 완성되어 있으며, 가격/시간/운영 여부 등 구체적 사실 주장이 과장되거나 의심스럽지 않습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-25T21:51:08.494Z",
+      "pattern": "C"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-bukchon-hanok-village.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]
