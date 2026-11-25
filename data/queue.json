@@ -58012,8 +58012,12 @@
       "threads"
     ],
     "scheduledAt": "2026-11-25T03:24:23.865Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18406385239201303"
+      }
+    },
     "createdAt": "2026-11-24T09:54:46.513Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -58030,7 +58034,8 @@
       "checkedAt": "2026-11-24T09:54:01.224Z",
       "pattern": "A"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-dmz-and-jsa-tours.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-dmz-and-jsa-tours.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-25T21:49:22.716Z"
   },
   {
     "id": "7aedec79-6bc0-440c-8c0e-ecdaab449dcf",
