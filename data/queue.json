@@ -58773,5 +58773,46 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-24T19:57:07.223Z",
     "blogUrl": "https://landinkorea.com/posts/korea-day-tripping-from-seoul-by-regular-train-mugunghwa-itx-saemaeul-and-the-gyeongui-jungang-line.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "0b88b1ec-bd48-4534-ba34-8bb75c94e4ed",
+    "text": "Planning a palace visit in Seoul? Don't go on a Monday if you want to see Gyeongbokgung Palace. Its days off are a trap for tourists.\n\nBut, Culture Day on the last Wednesday of each month offers free or discounted admission. Plus, palaces open free during Lunar New Year and Chuseok holidays.\n\nSave this for your Korea trip!\n\n📖 Open the Land in Korea link in our profile and search “The closed-on-Monday trap: how Korean palaces and museums schedule their days off”.\n\n #KoreaTravel #PalaceVisit #SeoulTrip #GyeongbokgungPalace #Hanbok\n\n🎵 \"Anima Pop - Ink\" by Vienna In Love is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.\n\n🇯🇵 韓国旅行の計画中？セウルで宮殿を訪れる？月曜日に行かないでください。月曜日の休日は観光客の罠です。\n\n文化の日（毎月末の水曜日）は無料または割引の入館料となります。さらに、旧正月と 추석の休日には宮殿が無料開放されます。\n\n来韓のための情報を保存してください！\n\n📖 プロフィールのリンクをクリックし、「宮殿と博物館の休日スケジュール：韓国宮殿と博物館の休日スケジュール」で検索してください。\n #KoreaTravel #PalaceVisit #SeoulTrip #GyeongbokgungPalace #Hanbok\n\n🇨🇳 计划在首尔参观宫殿？不要在星期一参观。星期一的休息日是为了游客设下的陷阱。\n\n每月最后一个星期三的文化日，宫殿和博物馆开放免费或打折入场。另外，宫殿在春节和中秋节期间也免费开放。\n\n保存这条信息，以便在韩国旅行！\n\n📖 点击我们的个人资料链接，搜索「韩国宫殿和博物馆的休息日：宫殿和博物馆的休息日安排」。\n #KoreaTravel #PalaceVisit #SeoulTrip #GyeongbokgungPalace #Hanbok\n\n🇹🇼 計畫在首爾參觀宮殿？不要在星期一參觀。星期一的休息日是為遊客設下的陷阱。\n\n每月最後一個星期三的文化日，宮殿和博物館免費或打折入場。另外，宮殿在春節和中秋節期間也免費開放。\n\n保存這條資訊，以便在韓國旅行！\n\n📖 點擊我們的個人資料連結，搜尋「韓國宮殿和博物館的休息日：宮殿和博物館的休息日安排」。\n #KoreaTravel #PalaceVisit #SeoulTrip #GyeongbokgungPalace #Hanbok",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1795566403594-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-11-25T23:50:16.818Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-25T00:26:47.335Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://images.pexels.com/photos/31593696/pexels-photo-31593696.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17035610/pexels-photo-17035610.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31660323/pexels-photo-31660323.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "The closed-on-Monday trap: how Korean palaces and museums schedule their days off",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: [object Object] | [object Object] | [object Object] | [object Object] | [object Object]",
+      "failedPlatforms": [
+        "facebook",
+        "instagram",
+        "bluesky",
+        "mastodon",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "A",
+      "checkedAt": "2026-11-25T00:25:48.876Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-25T00:26:47.308Z"
   }
 ]
