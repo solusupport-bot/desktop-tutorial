@@ -60250,5 +60250,37 @@
       "checkedAt": "2026-11-25T12:58:59.623Z"
     },
     "blogUrl": "https://landinkorea.com/index.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "45f498d1-5b7a-4a8d-b84c-f016c69ce150",
+    "text": "Changdeokgung is closed on Mondays and, from November to January, open 9 a.\n\nto 5:30 p.\n\nwith last entry at 4:30 p.\n\n📖 Full guide: https://landinkorea.com/posts/korea-changdeokgung-secret-garden-how-the-timed-huwon-tickets-actually-work.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post\n\n🎬 Video source: Pixabay\n\n🎵 \"Anima Pop - Ink\" by Vienna In Love is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.\n\n🇯🇵 창덕궁은 매주 월요일 휴관이며, 11월부터 1월까지는 오전 9시부터 오후 5시 30분까지 운영되며, 입장마감은 오후 4시 30분입니다. #Land in Korea #KoreaTravel #Seoul\n\n🇨🇳 长德宫每周一休馆，11月至1月期间开放时间为9:00至17:30，最后入场时间为16:30。 #Land in Korea #韩国旅行 #首尔\n\n🇹🇼 長德宮每週一休館，11月至1月期間開放時間為9:00至17:30，最後入場時間為16:30。 #Land in Korea #韓國旅行 #首爾",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1795614907796-instagram.mp4",
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-26T08:42:48.725Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-25T13:55:10.527Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g9a47dd4fbccef84862106cc3fe6b9dfd8decb6f45057b941764d509df928486ec42ed92d4a3c222010b5b679fe1b3275b2d93ba8fc8c8ab5972ccb40f167b71a_1280.jpg#pixabay=2682998"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2021/04/22/71901-540475451_large.mp4",
+    "videoAttribution": "Pixabay",
+    "topic": "Changdeokgung Secret Garden: how the timed Huwon tickets actually work",
+    "qualityGate": {
+      "pass": false,
+      "reason": "캡션은 주제와 관련이 없으며, 문장이 자연스럽지 않다.",
+      "model": "groq",
+      "checkedAt": "2026-11-25T13:54:48.722Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-25T13:55:10.502Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-changdeokgung-secret-garden-how-the-timed-huwon-tickets-actually-work.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]
