@@ -60354,5 +60354,39 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-25T15:39:25.077Z",
     "blogUrl": "https://landinkorea.com/index.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "394d8ace-b2b2-4fec-b89e-0b368d80f6d4",
+    "text": "Gyeongbokgung Palace: 20 minutes is not enough! 🏯 The royal guard-changing ceremony happens at scheduled times in the main courtyard. You can check the schedule online or at the palace information center. 🕰️ Renting a hanbok nearby gets you into the palace for free and makes for better photos. 📸 Full guide: 📖 https://landinkorea.com/posts/korea-gyeongbokgung-palace.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post\n\n🎵 \"Korean taste (146 bpm)\" by Prana Yama is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.\n\n🇯🇵 경복궁에 가면 20분은 충분하지 않습니다! 🏯 왕실의 경비병 교체 예식은 주간에 주요 사원에서 예정된 시간에 있습니다. 온라인이나 궁전 정보 센터에서 일정 확인하실 수 있습니다. 🕰️ 근처의 한복 대여로 궁전 입장료가 무료로 되며 사진도 더 좋습니다. 📸 자세한 정보: \n\n🇨🇳 景福宫: 20分钟是不够的! 🏯皇家卫队更换仪式在主院的预定时间举行。您可以在宫殿信息中心或在线查看时间表。 🕰️附近租用韩服可以免费进入宫殿，并且拍照更好。 📸全指南：\n\n🇹🇼 景福宮: 20分鐘是不夠的! 🏯皇家衛隊更換儀式在主院的預定時間舉行。您可以在宮殿資訊中心或網路上查看時間表。 🕰️附近租用韓服可以免費進入宮殿，並且拍照更好。 📸全指南：",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1795636549015-instagram.mp4",
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-26T09:47:33.985Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-25T19:55:52.389Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g487511f0f4d451ce6707939564378ccb5c88ea9c16853430a2efb6cb6bbc12a1f55eec20d2fe67d72ac0e62d19690d8260ec246799ec1b0cccf33e2ea2bc0597_1280.jpg#pixabay=1740483",
+      "https://pixabay.com/get/g0c7141c19a6cc4e0fd4df4e03ee8151a6581615408bd6bc54add39024ada4c6409b26296d5a8438378c1fbc90490ea20807c8a5533c26bcf2255931611ca8761_1280.jpg#pixabay=4141537",
+      "https://pixabay.com/get/g99277a584bbc3c9cbffea55e1ff0a22eaff8c6d65b958b8278eff4ecbe58b7c060abe35ece79c0ad8dd31367cf4e5c72_1280.jpg#pixabay=96640"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Gyeongbokgung Palace",
+    "qualityGate": {
+      "pass": false,
+      "reason": "가격/시간/운영 여부 등 구체적 사실 주장이 반복되고, 일부 내용은 엉뚱한 주제로 느껴진다.",
+      "model": "groq",
+      "checkedAt": "2026-11-25T19:55:05.710Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-25T19:55:52.360Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-gyeongbokgung-palace.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]
