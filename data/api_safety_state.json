@@ -147,15 +147,17 @@
     },
     "mastodon_comment": {
       "attempts": [
-        "2026-11-24T21:21:29.037Z"
+        "2026-11-24T21:21:29.037Z",
+        "2026-11-25T04:21:50.854Z"
       ],
       "successes": [
-        "2026-11-24T21:21:29.037Z"
+        "2026-11-24T21:21:29.037Z",
+        "2026-11-25T04:21:50.854Z"
       ],
       "consecutiveFailures": 0,
       "blockedUntil": null,
-      "lastAttemptAt": "2026-11-24T21:21:29.037Z",
-      "lastSuccessAt": "2026-11-24T21:21:29.037Z"
+      "lastAttemptAt": "2026-11-25T04:21:50.854Z",
+      "lastSuccessAt": "2026-11-25T04:21:50.854Z"
     },
     "threads_reply": {
       "attempts": [
