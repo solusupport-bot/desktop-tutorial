@@ -58814,5 +58814,91 @@
     },
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-25T00:26:47.308Z"
+  },
+  {
+    "id": "08e82799-fa06-4d96-ad08-fc6b2d045d98",
+    "text": "You're about to throw away your trash at a Seoul apartment complex and you're not sure what to use - and you're worried about getting fined. 1/5\nYou need to use an official district-specific bag (종량제 봉투) that's sold at local convenience stores and supermarkets.\nThis is crucial for general waste, not recyclables.\nDon't bother buying a bag from a different district, even if it looks identical - it won't be accepted.\nDid you know that this rule catches foreign residents and short-term renters more than tourists in hotels?\n\nOpen the Land in Korea link in our profile for the full guide.\n\nYou're about to throw away your trash at a Seoul apartment complex and you're not sure what to use - and you're worried about getting fined. 2/5\nThe district-specific bag is designed to cover the collection fee, which is built into its price.\nThis is why you can't just use any old bag - it has to be the official one.\nDon't risk it, get the right bag.\nDid you know that this rule is more strict than you think? Open the Land in Korea link in our profile for the full guide. You're about to throw away your trash at a Seoul apartment complex and you're not sure what to use - and you're worried about getting fined. 3/5\nForeign residents and short-term renters are more likely to get caught because they don't receive the local bag with their key.\nThis is a common mistake that can lead to fines.\nDon't make the same mistake, get the right bag.\nDid you know that this rule is enforced strictly in Seoul? Open the Land in Korea link in our profile for the full guide. You're about to throw away your trash at a Seoul apartment complex and you're not sure what to use - and you're worried about getting fined. 4/5\nThe official district-specific bag is sold at many convenience stores and supermarkets, making it easy to get.\nDon't rely on just any old bag, get the one designed for your district.\nDid you know that this rule is in place to keep Seoul clean? Open the Land in Korea link in our profile for the full guide. You're about to throw away your trash at a Seoul apartment complex and you're not sure what to use - and you're worried about getting fined. 5/5\nThe correct bag is a must for general waste, don't risk it and get the right one. Open the Land in Korea link in our profile for the full guide.\n\n🇯🇵 区の区別袋は、区内のコンビニやスーパーで売られています。\n\n🇨🇳 区内特定的袋子在当地便利店和超市都有出售。\n\n🇹🇼 區內特定袋子在當地便利店和超市都有出售。",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-25T20:26:10.907Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-25T00:40:32.645Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Trash and recycling rules for residents",
+    "qualityGate": {
+      "pass": false,
+      "reason": "자동 생성된 캡션은 자연스럽지 않으며, 반복적인 문구가 있어 완성되지 않은 느낌이 든다.",
+      "model": "groq",
+      "checkedAt": "2026-11-25T00:39:10.306Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-25T00:40:32.621Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-trash-and-recycling-rules-for-residents.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "ea4ffa58-54cd-457c-aa11-acb63c7fb6ec",
+    "text": "Tax Free shopping works differently at Namdaemun than at a department store — most first-timers assume the sticker system is universal and find out otherwise mid-purchase.\n\nSmaller independent stalls are far less likely to be affiliated with a refund network than bigger Myeongdong stores, so check for the sticker before buying if the refund matters.\n\nThe market sells far more than souvenirs: clothing, eyewear, kitchenware, imported goods, and food stalls serving hotteok, tteokbokki, and kalguksu with long-running local followings. Did this trip you up your first time too? Drop a comment.\n\n🇯🇵 ナムデムン市場では、百貨店と異なる税金免除の方法があることに注意してください。\n\n🇨🇳 在Namdaemun市场，税免购物方式与百货商店不同，独立的小店更不容易与退款网络相关联。\n\n🇹🇼 在Namdaemun市場，免稅購物方式與百貨商店不同，獨立的小店更不容易與退款網絡相關聯。",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-25T12:16:42.145Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-25T00:43:24.114Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Namdaemun Market",
+    "qualityGate": {
+      "pass": false,
+      "reason": "Tax Free shopping의 세부 정보는 일반적인 여행자에게 유용하지 않으며, 주제와 관련 있는 내용이지만 여행자에게 유용한 일반적인 정보가 부족하다.",
+      "model": "groq",
+      "checkedAt": "2026-11-25T00:42:27.389Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-25T00:43:24.090Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-namdaemun-market.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "f8a2710d-f7ba-42cb-a046-a260ea61c838",
+    "text": "Don't book a DMZ tour without knowing this crucial difference at the Joint Security Area/Panmunjom and you'll be stuck in line. The Joint Security Area/Panmunjom tour needs booking at least a week ahead with passport details submitted in advance for an eligibility check. You'll need a physical passport at the checkpoint – a photo or photocopy won't get you through. If you're planning to visit the Joint Security Area/Panmunjom, make sure you have all the necessary documents ready. I learned this the hard way. Open the Land in Korea link in the profile for more info.\n\nDon't book a DMZ tour without knowing this crucial difference at the Joint Security Area/Panmunjom and you'll be stuck in line. The Joint Security Area/Panmunjom tour needs booking at least a week ahead with passport details submitted in advance for an eligibility check. You'll need a physical passport at the checkpoint – a photo or photocopy won't get you through. If you're planning to visit the Joint Security Area/Panmunjom, make sure you have all the necessary documents ready. I learned this the hard way. Open the Land in Korea link in the profile for more info.\n\nA DMZ tour and a JSA tour are not the same trip, but many search results blur the lines. If you're planning a DMZ tour, don't assume you can just show up at the Joint Security Area/Panmunjom. The Joint Security Area/Panmunjom tour needs booking at least a week ahead with passport details submitted in advance for an eligibility check. A physical passport is required at the checkpoint – no photo or photocopy will do. Have you ever tried to book a DMZ tour last minute? If you're planning a DMZ tour, don't assume you can just show up at the Joint Security Area/Panmunjom. The Joint Security Area/Panmunjom tour needs booking at least a week ahead with passport details submitted in advance for an eligibility check. A physical passport is required at the checkpoint – no photo or photocopy will do. I've heard horror stories from tourists who tried to book a DMZ tour last minute. Open the Land in Korea link in the profile for more info.\n\n🇯🇵 DMZツアーを予約する前に知っておくべき重要な違いは、ジャンクションセキュリティエリア/パンムンジョムで予約が必要です。\n\n🇨🇳 不要再预订DMZ之旅前知道这个关键性的差别在联合安全区域/板门店，你会被卡在队伍中。\n\n🇹🇼 不要預訂DMZ之旅前知道這個關鍵性的差別在聯合安全區域/板門店，你會被卡在隊伍中。",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-25T10:44:48.687Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-25T00:45:59.319Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "DMZ and JSA tours",
+    "qualityGate": {
+      "pass": true,
+      "reason": "캡션은 주제와 관련이 있고 자연스럽게 구성된 내용이며, 사실 주장도 과장되지 않으며 유용한 여행 정보를 제공한다.",
+      "model": "groq",
+      "checkedAt": "2026-11-25T00:44:26.352Z",
+      "pattern": "A"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-dmz-and-jsa-tours.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
