@@ -1,5 +1,5 @@
 {
-  "lastIndex": 65,
+  "lastIndex": 66,
   "history": [
     {
       "index": 22,
@@ -1121,6 +1121,12 @@
       "index": 65,
       "topic": "Gyeongju from Seoul: the KTX, the bus to Bulguksa, and which tombs to see first",
       "at": "2026-11-25T15:38:01.874Z",
+      "source": "facebook-fill"
+    },
+    {
+      "index": 66,
+      "topic": "Ttareungyi, Seoul's public bike: buying a pass as a visitor and riding the Han River paths",
+      "at": "2026-11-25T16:54:32.775Z",
       "source": "facebook-fill"
     }
   ],
