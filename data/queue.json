@@ -60427,5 +60427,37 @@
       "pattern": "C"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-bukchon-hanok-village.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "e33bbecd-037f-4ab1-bcf7-257b807c94c9",
+    "text": "The N Seoul Tower elevator isn’t the only way up – a marked trail from Myeongdong is free.\nThe hike takes about 30–40 minutes and brings you to the free plaza with skyline views.\nGo at sunrise for fewer crowds, or sunset for dramatic colors.\n📖 Full guide: https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post\n\n🎵 \"Cinematic Hip Hop #5\" by Digital Content Project is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.\n\n🇯🇵 N 서울 타워 엘리베이터만 이용하는 것은 아닙니다 – 미용동에서 시작하는 트레일은 무료입니다. 트레일은 약 30–40분 정도 걸리고, 스카이라인 뷰를 즐길 수 있는 무료 플라자로 이어집니다. 일출 때 올라가면 더 혼잡하지 않습니다. 또는 일몰 때 올라가면 감동적인 색상이 보일 것입니다.\n\n🇨🇳 N서울타워的电梯不是唯一的上升方式 – 从明洞出发的标记路径是免费的。徒步旅行大约需要30–40分钟，带你到免费的广场，拥有城市天际线的美景。早上出发可以避免人群拥挤，晚上出发可以欣赏壮观的色彩效果。\n\n🇹🇼 N 仁寺洞塔的電梯不是唯一的上升方式 – 從明洞出發的標記路徑是免費的。徒步旅行大約需要30–40分鐘，帶你到免費的廣場，擁有城市天際線的美景。早上出發可以避免人群擠迫，晚上出發可以欣賞壯觀的色彩效果。",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1795645610181-instagram.mp4",
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-26T09:26:50.236Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-25T22:26:53.636Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g2ec21ddacf3250ca226b19011f43579bbc91b680310fcd4c25b6a6d41070d62b1c3fa036fa611e4173be9610be9025e29dadfa5783938c10077ee29a61ca58f4_1280.jpg#pixabay=7423574",
+      "https://pixabay.com/get/g598b8b41f3b3ef7a6408545d726dc961556465ef123ef2bb64e72ef629e37318d834583e2603d7196a3d38286f0c4f72bd1463fe8e43616f4047aa3e9715bea5_1280.jpg#pixabay=7741300",
+      "https://pixabay.com/get/g6165d53b153dee0a43c04b2f9d10224b7285cb14f573c15a47a5c24ed5dfa592546b1f7cbca8c2830c6501ced9437342dfbe148301b7883c4c4bc49b5d4ffa04_1280.jpg#pixabay=7143047"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "N Seoul Tower (Namsan)",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연하며 사실도 크게 문제 없고 여행 정보로 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-25T22:25:00.857Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
   }
 ]
