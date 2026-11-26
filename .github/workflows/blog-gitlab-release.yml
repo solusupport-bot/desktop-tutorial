@@ -26,7 +26,7 @@ jobs:
         with: { node-version: '22' }
       - run: npm ci --silent
       - run: node scripts/gitlab-patch-drafts.js
-      - run: sleep 60
+      - run: sleep 90
       - name: Wait for running pipeline
         run: |
           for i in $(seq 1 40); do
