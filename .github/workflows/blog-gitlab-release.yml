@@ -21,12 +21,15 @@ jobs:
       TOKEN: ${{ secrets.BLOG_REPO_PAT }}
       API: https://gitlab.com/api/v4/projects/land-in-korea%2Fland-in-korea-blog
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
-        with: { node-version: '22' }
-      - run: npm ci --silent
-      - name: Patch drafts with sources, hold conflicted drafts, run publish schedule
-        run: node scripts/gitlab-patch-drafts.js
+      - name: Wait for running pipeline
+        run: |
+          for i in $(seq 1 40); do
+            st=$(curl -s -H "PRIVATE-TOKEN: $TOKEN" "$API/pipelines?per_page=1" | jq -r '.[0] | "\(.id) \(.status) \(.created_at)"')
+            echo "$st"; case "$st" in *running*|*pending*|*created*) sleep 30;; *) break;; esac
+          done
+          pid=$(curl -s -H "PRIVATE-TOKEN: $TOKEN" "$API/pipelines?per_page=1" | jq -r '.[0].id')
+          jid=$(curl -s -H "PRIVATE-TOKEN: $TOKEN" "$API/pipelines/$pid/jobs" | jq -r '.[0].id')
+          curl -s -H "PRIVATE-TOKEN: $TOKEN" "$API/jobs/$jid/trace" | grep -v -E "section_|^\s*$" | tail -60
       - name: Drafts and recent posts
         run: |
           echo "== drafts =="
