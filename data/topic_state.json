@@ -1,5 +1,5 @@
 {
-  "lastIndex": 8,
+  "lastIndex": 26,
   "history": [
     {
       "index": 28,
@@ -720,6 +720,36 @@
       "topic": "Tax refund (Tax Free) shopping",
       "at": "2026-11-26T15:40:34.087Z",
       "source": "facebook-fill"
+    },
+    {
+      "index": 9,
+      "topic": "Travel advisories & safety notices",
+      "at": "2026-11-26T16:53:50.256Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 23,
+      "topic": "Insadong traditional culture street",
+      "at": "2026-11-26T16:54:16.012Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 24,
+      "topic": "Everland vs. Lotte World theme parks",
+      "at": "2026-11-26T16:56:01.752Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 25,
+      "topic": "Hongdae nightlife and youth culture district",
+      "at": "2026-11-26T16:57:55.721Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 26,
+      "topic": "Nami Island and Petite France day trip",
+      "at": "2026-11-26T16:58:00.784Z",
+      "source": "instagram-fill"
     }
   ],
   "recentImageUrls": [
