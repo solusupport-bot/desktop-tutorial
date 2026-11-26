@@ -1078,6 +1078,24 @@
         "hash": "631b4b7a3950961fd7ef45dbd7e4565e40c92c8ff645fe27bfc04b6c38b06116",
         "date": "2026-11-22T04:22:51.858Z"
       }
+    ],
+    "sources": [
+      {
+        "name": "Visit Seoul: Gwangjang Market",
+        "url": "https://english.visitseoul.net/area/Gwangjang-Market/ENP000286"
+      },
+      {
+        "name": "The Korea Times: serving-size rules at Gwangjang Market (Jan 2024)",
+        "url": "https://www.koreatimes.co.kr/southkorea/society/20240109/gwangjang-market-to-set-rules-on-sizes-of-servings-to-address-overcharging-accusations"
+      },
+      {
+        "name": "The Korea Herald: overcharging dispute and real-name stall system (Nov 2025)",
+        "url": "https://www.koreaherald.com/article/10621752"
+      },
+      {
+        "name": "The Chosun Daily: Seoul inspects Gwangjang Market prices (May 2026)",
+        "url": "https://www.chosun.com/english/national-en/2026/05/20/SWQAHKDDURH5DKFX6YQZQSXHCY/"
+      }
     ]
   },
   "Changdeokgung Secret Garden: how the timed Huwon tickets actually work": {
@@ -1111,6 +1129,20 @@
         "pass": true,
         "hash": "5ca8ed8d4bf005cfd989f595e32db5dc8ff228df4cc2c799fb3754825023372a",
         "date": "2026-11-22T04:22:51.858Z"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Visit Seoul: Changdeokgung Secret Garden",
+        "url": "https://english.visitseoul.net/attractions/2024-cdggarden/ENPl8f5md"
+      },
+      {
+        "name": "Korea Heritage Service Foundation: Changdeokgung Palace",
+        "url": "https://www.kh.or.kr/cms/content/view/1315"
+      },
+      {
+        "name": "Korea JoongAng Daily: Donhwamun restoration (Nov 2026)",
+        "url": "https://www.koreajoongangdaily.com/lifestyle/changdeok-palaces-donhwa-gate-to-undergo-first-major-restoration-in-29-years/12962965"
       }
     ]
   },
@@ -1146,6 +1178,24 @@
         "hash": "310f45337950d3f70ca39baaf9ac713848d5cd9c39be5e6708bbe4cf2e5a5ead",
         "date": "2026-11-23T12:13:39.343Z"
       }
+    ],
+    "sources": [
+      {
+        "name": "Hwacheon Sancheoneo Ice Festival official site",
+        "url": "https://www.narafestival.com/"
+      },
+      {
+        "name": "Official festival site: participation fees",
+        "url": "https://www.narafestival.com/01_icenara/?wr_id=89"
+      },
+      {
+        "name": "VISITKOREA festival listing",
+        "url": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=02a1c2ab-bce7-404a-9c8f-4eb4ac69acb3"
+      },
+      {
+        "name": "Yonhap: 2025 festival attendance record",
+        "url": "https://en.yna.co.kr/view/AEN20250202002600315"
+      }
     ]
   },
   "Christmas in Korea: a couples' holiday, light displays, and what stays open on December 25": {
@@ -1179,6 +1229,24 @@
         "pass": true,
         "hash": "e4a7026554a3b2300f459774702ca077ea9fa94d7af19ba45f8f9722a1a05693",
         "date": "2026-11-23T12:13:39.343Z"
+      }
+    ],
+    "sources": [
+      {
+        "name": "VISITKOREA: 2026 Christmas at Korea's department stores",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=219&vcontsId=1595981"
+      },
+      {
+        "name": "Visit Seoul: 2026 Seoul Lantern Festival",
+        "url": "https://english.visitseoul.net/events/2026SeoulLanternFestival/ENPi0rhml"
+      },
+      {
+        "name": "The Herald Business: Paris Baguette 2026 holiday cakes",
+        "url": "https://mbiz.heraldcorp.com/article/10931906"
+      },
+      {
+        "name": "The Asia Business Daily: Lotte 'Garden of Light' (Oct 2026)",
+        "url": "https://www.asiae.co.kr/en/visual-news/article/2026103015001207338"
       }
     ]
   },
@@ -1214,6 +1282,24 @@
         "hash": "6147e59fe43144f53f841334a65ef9f5c2de32d936fd03f155b183bf8785f362",
         "date": "2026-11-23T12:16:52.263Z"
       }
+    ],
+    "sources": [
+      {
+        "name": "VISITKOREA: Cheonmachong Tomb (Daereungwon)",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=112226"
+      },
+      {
+        "name": "The Korea Herald: Daereungwon free admission",
+        "url": "https://www.koreaherald.com/article/3049789"
+      },
+      {
+        "name": "Newsis: Singyeongju Station renamed Gyeongju Station",
+        "url": "https://mobile.newsis.com/view/NISX20231227_0002572940"
+      },
+      {
+        "name": "UNESCO: Seokguram Grotto and Bulguksa Temple",
+        "url": "https://whc.unesco.org/en/list/736/"
+      }
     ]
   },
   "Ttareungyi, Seoul's public bike: buying a pass as a visitor and riding the Han River paths": {
@@ -1247,6 +1333,24 @@
         "pass": true,
         "hash": "9b1a1eb865ffdad73bec3341cf7c740ef8a91cec56d2325f28eb54f59c47327a",
         "date": "2026-11-23T12:16:52.263Z"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Seoul Metropolitan Government: Seoul Public Bike costs",
+        "url": "https://english.seoul.go.kr/service/movement/seoul-public-bike/2-about-the-service/"
+      },
+      {
+        "name": "Seoul Metropolitan Government: Seoul Bike guide for international tourists",
+        "url": "https://english.seoul.go.kr/seoul-bike-instructions-and-chatbot-service-for-international-tourists/"
+      },
+      {
+        "name": "Visit Seoul: Explore Seoul on a Seoul Bike",
+        "url": "https://english.visitseoul.net/tours/Explore-Seoul-on-a-Seoul-Bike/ENN018249"
+      },
+      {
+        "name": "Seoul media hub: 20 km/h speed on Han River bike paths",
+        "url": "https://mediahub.seoul.go.kr/archives/2003277"
       }
     ]
   },
@@ -1282,6 +1386,24 @@
         "hash": "74ca6ef878579f25b95a1046b0a1f5731a6c911ad4857bd852cc7b627156e69e",
         "date": "2026-11-25T11:59:59.815Z"
       }
+    ],
+    "sources": [
+      {
+        "name": "Visit Seoul: 2026 Seoul Lantern Festival",
+        "url": "https://korean.visitseoul.net/eventsx/2026SeoulLanternFestival/KOPi0rhml"
+      },
+      {
+        "name": "Korea JoongAng Daily: Seoul Winter Festival returns Dec. 11",
+        "url": "https://www.koreajoongangdaily.com/korea/sauna-skates-and-lanterns-seoul-winter-festival-returns-dec-11/12989782"
+      },
+      {
+        "name": "The Asia Business Daily: 2026 Seoul Winter Festa",
+        "url": "https://www.asiae.co.kr/en/article/2026112509061298917"
+      },
+      {
+        "name": "The Korea Times: Seoul winter festival expands to Han River",
+        "url": "https://www.koreatimes.co.kr/amp/lifestyle/people-events/20261125/seoul-winter-festival-expands-to-han-river-with-52-days-of-lights-markets-and-celebrations"
+      }
     ]
   },
   "Jeonju Hanok Village from Seoul: KTX vs express bus, the station-to-village bus, and day trip vs hanok stay": {
@@ -1315,6 +1437,24 @@
         "pass": true,
         "hash": "355eaf3cd3f86fe736408136336b0f2b2f5e1abd9efce3d7aae41ac7c9b6fe07",
         "date": "2026-11-25T11:59:59.815Z"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Jeonju Hanok Village official site: map and directions",
+        "url": "https://hanok.jeonju.go.kr/contents/map"
+      },
+      {
+        "name": "Visit Jeonju: Gyeonggijeon Shrine",
+        "url": "https://tour.jeonju.go.kr/eng/board/view.jeonju?boardId=BBS_0000016&menuCd=DOM_000000201005001000&paging=ok&startPage=1&dataSid=10024"
+      },
+      {
+        "name": "VISITKOREA: Royal Portrait Museum",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=68942"
+      },
+      {
+        "name": "Visit Jeonju: Jeondong Catholic Cathedral",
+        "url": "https://tour.jeonju.go.kr/eng/board/view.jeonju?boardId=BBS_0000016&menuCd=DOM_000000201005001000&paging=ok&startPage=1&dataSid=10023"
       }
     ]
   },
@@ -1350,6 +1490,24 @@
         "hash": "26ce9c6d4848573872d2aa54ab285451d5df6857e0d0646431259f6646645f20",
         "date": "2026-11-25T11:59:59.815Z"
       }
+    ],
+    "sources": [
+      {
+        "name": "Templestay.com: Bongeunsa overnight program",
+        "url": "https://www.templestay.com/en/MI000000000000000062/reserve/view.do?templestaySeq=2339&templeBookMarkId=Bongeunsa"
+      },
+      {
+        "name": "Templestay.com: Jogyesa Always Templestay",
+        "url": "https://eng.templestay.com/en/MI000000000000000062/reserve/view.do?templestaySeq=4326&templeBookMarkId=Jogyesa"
+      },
+      {
+        "name": "Templestay.com: Geumsunsa program",
+        "url": "https://www.templestay.com/en/MI000000000000000062/reserve/view.do?templestaySeq=13224&templeBookMarkId=Geumsunsa"
+      },
+      {
+        "name": "Templestay.com: FAQ",
+        "url": "https://www.templestay.com/en/MI000000000000000063/board/BO00000071/list.do"
+      }
     ]
   },
   "Seoul City Wall (Hanyangdoseong): the six trail sections, Naksan at night, Baegak rules, and the free wall museum": {
@@ -1383,6 +1541,24 @@
         "pass": true,
         "hash": "68ff03665134ca5a27ff98b62dd1292b7ecfefd7bb1df52d18b297dc075c768f",
         "date": "2026-11-25T11:59:59.815Z"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Seoul City Wall official site: Naksan trail",
+        "url": "https://seoulcitywall.seoul.go.kr/en/wallcourse/2.do"
+      },
+      {
+        "name": "Seoul City Wall official site: Baegak trail",
+        "url": "https://seoulcitywall.seoul.go.kr/en/wallcourse/1.do"
+      },
+      {
+        "name": "Seoul Museum of History: Seoul City Wall Museum",
+        "url": "https://museum.seoul.go.kr/eng/about/annex/seoulCityWallMuseum.jsp"
+      },
+      {
+        "name": "Korea JoongAng Daily: Mount Baegak fully reopens",
+        "url": "https://www.koreajoongangdaily.com/lifestyle/mount-baegak-to-fully-reopen-to-public-after-nearly-six-decades/12919929"
       }
     ]
   }
