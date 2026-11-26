@@ -63,6 +63,16 @@ const buildFaqSection = (faq) => {
   return `\n\n## Frequently Asked Questions\n\n${items}`;
 };
 
+// 2026-11-26: land-in-korea-blog의 validate.py는 "## Official sources"(또는 "## Sources") 섹션이 없는 글을
+// 빌드에서 막는다. 이 섹션이 없어 11/20~11/26 GitLab 발행 파이프라인이 매번 실패했고 그동안 새 글이
+// 하나도 공개되지 않았다. 큐 항목의 sources([{name,url}], 검수자가 실제로 열어 본 출처)를 FAQ 앞에 넣는다.
+// sources는 contentHash에 포함되지 않으므로 기존 검수 기록은 그대로 유효하다.
+const buildSourcesSection = (sources) => {
+  if (!Array.isArray(sources) || !sources.length) return '';
+  const items = sources.map((s) => `- [${s.name}](${s.url})`).join('\n');
+  return `\n\n## Official sources\n\n${items}\n\nPrices, dates, and hours change. Check the pages above before you go.`;
+};
+
 const buildMarkdown = (slug, category, generated) => {
   const frontMatter = [
     '---',
@@ -75,7 +85,7 @@ const buildMarkdown = (slug, category, generated) => {
     '---',
     ''
   ].join('\n');
-  return frontMatter + generated.body.trim() + buildFaqSection(generated.faq) + '\n';
+  return frontMatter + generated.body.trim() + buildSourcesSection(generated.sources) + buildFaqSection(generated.faq) + '\n';
 };
 
 // 2026-09-11 사용자 요청: "매일 블로그 글이 중복없이 올라가도록" — 한 번의 실행에서
