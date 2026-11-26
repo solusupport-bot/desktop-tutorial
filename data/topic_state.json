@@ -1,5 +1,5 @@
 {
-  "lastIndex": 12,
+  "lastIndex": 15,
   "history": [
     {
       "index": 28,
@@ -426,6 +426,24 @@
       "topic": "Currency & card payments",
       "at": "2026-11-26T09:54:20.175Z",
       "source": "instagram-fill"
+    },
+    {
+      "index": 13,
+      "topic": "Emergency numbers & 24hr pharmacies",
+      "at": "2026-11-26T09:54:25.426Z",
+      "source": "threads-fill"
+    },
+    {
+      "index": 14,
+      "topic": "Useful travel apps",
+      "at": "2026-11-26T09:56:06.545Z",
+      "source": "threads-fill"
+    },
+    {
+      "index": 15,
+      "topic": "Convenience store hacks",
+      "at": "2026-11-26T09:56:13.420Z",
+      "source": "threads-fill"
     }
   ],
   "recentImageUrls": [

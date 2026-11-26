@@ -61600,5 +61600,99 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-26T08:13:30.192Z",
     "blogUrl": "https://landinkorea.com/posts/korea-timing-cherry-blossoms-and-fall-foliage-in-korea-without-hitting-peak-crowds.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "8d594ef4-9f9d-4818-82ac-d81a8e1c73dd",
+    "text": "24-hour convenience stores are everywhere in Korea.\n\n24-hour pharmacies are not — and most travelers only find out the hard way.\n\nLate-night pharmacies do exist but are far less common — look for a green cross sign, and ask staff or a hotel front desk for the nearest one open after hours. What would you add for someone landing tomorrow?\n\n🇯🇵 深夜の薬局は緑の十字マークを探し、スタッフやフロントに尋ねてください。\n\n🇨🇳 深夜药局请寻找绿色十字标志，并向工作人员或前台询问。\n\n🇹🇼 深夜藥局請尋找綠色十字標誌，並向工作人員或前台詢問。",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-26T14:36:34.067Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-26T09:56:06.463Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Emergency numbers & 24hr pharmacies",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq와 Cloudflare 둘 다 실패했습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-26T09:54:31.650Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-26T09:56:06.428Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-emergency-numbers-24hr-pharmacies.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "2e424abe-738c-46ae-be34-6f743bee152c",
+    "text": "Google Maps quietly stops being useful the moment you land in Korea — and most first-timers don't find out until they're already lost.\n\nNaver Map or KakaoMap work far better for walking/transit directions here, since Google's local data is limited.\n\nPapago handles Korean translation, including camera translation for menus and signs, more naturally than most general translation apps. Worth knowing before you land? Reply with what surprised you.\n\n🇯🇵 Googleマップは、韓国に到着した瞬間から静かに役に立たなくなります。初めて訪れる人のほとんどは、すでに迷子になってからそれに気づきます。Googleの現地データが限られているため、ここではNaver MapやKakaoMapの方が徒歩や公共交通機関のルート案内においてはるかに優れています。Papagoは、メニューや看板のカメラ翻訳を含む韓国語の翻訳を、一般的な翻訳アプリの多くよりも自然に行います。入国前に知っておくべきことはありますか？驚いたことをお聞かせください。\n\n🇨🇳 您抵达韩国的那一刻起，Google 地图就悄然失去了作用——大多数初来乍到的人直到迷路时才发现这一点。由于谷歌的本地数据有限，Naver地图或Kakao地图在这里的步行/公共交通路线指引效果要好得多。Papago 在处理韩语翻译方面比大多数通用翻译应用程序更自然，包括使用摄像头翻译菜单和标志。在抵达韩国之前，有哪些值得了解的信息？请回复让您感到意外的事情。\n\n🇹🇼 抵達韓國的那一刻起，Google 地圖就悄悄地不再好用了。大多數初次造訪的人直到迷路時才發現這一點。由於 Google 的當地資料有限，因此 Naver Map 或 KakaoMap 在這裡的步行／交通路線指引方面表現得更好。Papago 在處理韓文翻譯方面，包括使用相機翻譯菜單和標誌，都比大多數一般的翻譯應用程式更為自然。在抵達前值得知道的事有哪些？請回覆讓您感到驚訝的事情。",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-26T17:34:02.270Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-26T09:56:13.358Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Useful travel apps",
+    "qualityGate": {
+      "pass": false,
+      "reason": "첫 줄 규칙 위반: threads: 최근 30일 안에 쓴 첫 줄 재사용",
+      "model": "rule",
+      "failedPlatforms": [
+        "threads"
+      ],
+      "checkedAt": "2026-11-26T09:56:08.927Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-26T09:56:13.336Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-useful-travel-apps.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "78528544-bca8-4527-84a1-634753995d70",
+    "text": "The cheapest breakfast in Korea isn't a restaurant — it's the convenience store counter most tourists walk straight past.\n\nCoffee and toast/sandwich combos are a fast, cheap option when nothing else is open early.\n\nMany locations sell single-dose medicine (painkillers, cold medicine) since Korean pharmacy hours can be limited, though selection is basic. Did this trip you up your first time too? Drop a comment.\n\n🇯🇵 韓国で最も安い朝食はレストランではなく、ほとんどの観光客が素通りするコンビニのカウンターです。コーヒーとトースト/サンドイッチのセットは、朝早くに他のお店が開いていないときに、手早く安く済ませられる選択肢です。韓国の薬局の営業時間は限られているため、多くの店舗では単回投与の医薬品（鎮痛剤、風邪薬）を販売していますが、品揃えは基本的なものに限られています。初めての旅行でも、このことに戸惑いましたか？コメントをお寄せください。\n\n🇨🇳 韩国最便宜的早餐不是在餐厅，而是在大多数游客都会直接走过的便利店柜台。当其他地方都还没开门时，咖啡加吐司/三明治套餐是一种快捷又便宜的选择。由于韩国药店的营业时间可能有限，许多便利店都出售单剂量的药品（止痛药、感冒药），不过品种比较基本。您第一次来韩国时也遇到过这种情况吗？欢迎留言。\n\n🇹🇼 韓國最便宜的早餐不是在餐廳，而是在大多數遊客都會直接走過的便利商店櫃檯。當其他地方都還沒開門營業時，咖啡搭配吐司／三明治的組合就是又快又便宜的選擇。由於韓國藥局的營業時間可能有限，許多地方都有販售單劑量藥品（止痛藥、感冒藥），不過選擇較為基本。您第一次來韓國時，是不是也遇到這個問題？歡迎留言分享。",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-26T10:26:28.971Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-26T09:56:21.145Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Convenience store hacks",
+    "qualityGate": {
+      "pass": false,
+      "reason": "첫 줄 규칙 위반: threads: 최근 30일 안에 쓴 첫 줄 재사용, facebook: 최근 30일 안에 쓴 첫 줄 재사용",
+      "model": "rule",
+      "failedPlatforms": [
+        "threads",
+        "facebook"
+      ],
+      "checkedAt": "2026-11-26T09:56:16.514Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-26T09:56:21.123Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-convenience-store-hacks.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
