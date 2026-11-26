@@ -61891,5 +61891,92 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-26T13:09:04.838Z",
     "blogUrl": "https://landinkorea.com/posts/korea-cafes-as-workspaces-in-korea-unspoken-rules-of-study-cafes-franchise-chains-and-no-laptop-signs.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "8676be85-34eb-460c-8a35-3003a3d04c30",
+    "text": "For cheap household basics — hangers, slippers, kitchen tools, phone cables, travel bottles — Daiso is the default, with fixed low price tiers and big multi-floor branches near major stations.\n\nOlive Young is the drugstore chain for skincare, sunscreen, cosmetics, masks and basic over-the-counter items like hangover drinks and pain patches, and it runs frequent bundle promotions rather than everyday low pricing.\n\nNote that actual medicines still come from a pharmacy, not a drugstore chain, so Olive Young is for toiletries rather than treatment.\n\nHow much did this actually cost you on your trip?",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-26T23:50:26.689Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-26T13:55:40.931Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Where Koreans actually buy everyday stuff: Daiso vs. Olive Young vs. hypermarkets vs. the traditional market",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq와 Cloudflare 둘 다 실패했습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-26T13:55:33.081Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-26T13:55:40.913Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-where-koreans-actually-buy-everyday-stuff-daiso-vs-olive-young-vs-hypermarkets-vs-the-traditional-market.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "2d9d22d0-1642-4fa6-b3d6-eb25a263c67e",
+    "text": "Most travelers drag their bags through their entire last day in Korea without knowing forwarding services exist for exactly that problem.\n\nSame-day luggage forwarding can send your bags from your hotel straight to the airport (or another hotel) so you can spend your last day sightseeing hands-free — and avoid dragging bags through crowded transit during rush hour before an early flight.\n\nBook at least a day in advance, since same-day requests aren't always guaranteed.\n\nWhat surprised you the most when you landed?",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-26T23:16:52.128Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-26T13:55:48.188Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Luggage storage & forwarding services",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq와 Cloudflare 둘 다 실패했습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-26T13:55:45.622Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-26T13:55:48.172Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-luggage-storage-forwarding-services.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "ae801e44-9347-446c-a727-fea6958661e9",
+    "text": "For a Seoul-to-Busan-length trip, the real choice isn't just KTX vs.\n\nthe bus — it's KTX vs.\n\nSRT, and most first-timers don't even know SRT exists. Anyone else lose money on this mistake?\n\n🇯🇵 ソウルから釜山までの距離を移動する場合、本当の選択肢はKTXとバスの比較だけではありません。KTXとSRTの比較なのです。初めて利用する人の多くは、SRTの存在すら知りません。この間違いで損をした人は他にいますか？\n\n🇨🇳 对于首尔到釜山这样一段距离的行程，真正的选择不仅仅是KTX与巴士，而是KTX与SRT。大多数初次来韩国的人甚至都不知道有SRT这种列车。还有谁因为这个错误而损失了钱？\n\n🇹🇼 對於一趟從首爾到釜山的長途旅程來說，真正的選擇不只是 KTX 和巴士，而是 KTX 和 SRT。大多數初次搭乘的人甚至不知道有 SRT 這種選擇。還有其他人因為這個錯誤而損失金錢嗎？",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-26T23:56:47.358Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-26T13:55:59.865Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "KTX vs. SRT vs. intercity bus for long-distance travel",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq와 Cloudflare 둘 다 실패했습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-26T13:55:53.017Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-26T13:55:59.849Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-ktx-vs-srt-vs-intercity-bus-for-long-distance-travel.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
