@@ -1,12 +1,6 @@
 {
-  "lastIndex": 29,
+  "lastIndex": 30,
   "history": [
-    {
-      "index": 5,
-      "topic": "Jeju Island",
-      "at": "2026-11-24T03:36:08.116Z",
-      "source": "instagram-fill"
-    },
     {
       "index": 6,
       "topic": "eSIM & mobile data",
@@ -1200,6 +1194,12 @@
       "topic": "Seoul attraction pass comparison",
       "at": "2026-11-26T02:06:22.758Z",
       "source": "threads-fill"
+    },
+    {
+      "index": 30,
+      "topic": "Korean public holidays that disrupt travel plans",
+      "at": "2026-11-26T02:08:16.221Z",
+      "source": "facebook-fill"
     }
   ],
   "recentImageUrls": [
