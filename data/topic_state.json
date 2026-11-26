@@ -1,12 +1,6 @@
 {
-  "lastIndex": 31,
+  "lastIndex": 32,
   "history": [
-    {
-      "index": 27,
-      "topic": "Suwon Hwaseong Fortress",
-      "at": "2026-11-24T04:54:56.483Z",
-      "source": "instagram-fill"
-    },
     {
       "index": 28,
       "topic": "Domestic flights vs. KTX for Jeju and long-distance trips",
@@ -1200,6 +1194,12 @@
       "topic": "Hailing a taxi in Korea: Kakao T vs. street taxis vs. airport 'deluxe' cabs",
       "at": "2026-11-26T04:05:17.221Z",
       "source": "threads-fill"
+    },
+    {
+      "index": 32,
+      "topic": "Why Google Maps fails in Korea and how the road-name address system actually works",
+      "at": "2026-11-26T04:06:56.385Z",
+      "source": "facebook-fill"
     }
   ],
   "recentImageUrls": [
