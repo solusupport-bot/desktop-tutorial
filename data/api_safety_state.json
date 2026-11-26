@@ -3,19 +3,15 @@
   "platforms": {
     "facebook": {
       "attempts": [
-        "2026-11-23T16:53:36.949Z",
-        "2026-11-24T01:53:32.580Z",
-        "2026-11-24T10:53:35.333Z"
+        "2026-11-26T01:53:37.702Z"
       ],
       "successes": [
-        "2026-11-23T16:53:36.949Z",
-        "2026-11-24T01:53:32.580Z",
-        "2026-11-24T10:53:35.333Z"
+        "2026-11-26T01:53:37.702Z"
       ],
       "consecutiveFailures": 0,
       "blockedUntil": null,
-      "lastAttemptAt": "2026-11-24T10:53:35.333Z",
-      "lastSuccessAt": "2026-11-24T10:53:35.333Z"
+      "lastAttemptAt": "2026-11-26T01:53:37.702Z",
+      "lastSuccessAt": "2026-11-26T01:53:37.702Z"
     },
     "threads": {
       "attempts": [
