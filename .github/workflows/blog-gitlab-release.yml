@@ -1,0 +1,39 @@
+name: Blog GitLab release check
+
+# 2026-11-26: 블로그 초안(content/drafts)이 GitLab 저장소에 쌓였는데 landinkorea.com에 안 올라오는
+# 상황을 클라우드 세션에서 확인/조치하기 위한 수동 워크플로. 초안 목록, .gitlab-ci.yml 유무,
+# 최근 GitLab 파이프라인·스케줄을 출력하고, mode=trigger면 main에서 파이프라인을 한 번 실행한다.
+# 글을 직접 옮기거나 쓰지 않는다 — 발행 규칙(publish_queue.py 하루 상한)은 GitLab/로컬 쪽 그대로.
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'status = 확인만, trigger = GitLab main 파이프라인 1회 실행'
+        required: true
+        default: status
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    env:
+      TOKEN: ${{ secrets.BLOG_REPO_PAT }}
+      API: https://gitlab.com/api/v4/projects/land-in-korea%2Fland-in-korea-blog
+    steps:
+      - name: Drafts and recent posts
+        run: |
+          echo "== drafts =="
+          curl -sf -H "PRIVATE-TOKEN: $TOKEN" "$API/repository/tree?path=content/drafts&per_page=100" | jq -r '.[].name'
+          echo "== latest commits on main =="
+          curl -sf -H "PRIVATE-TOKEN: $TOKEN" "$API/repository/commits?ref_name=main&per_page=10" | jq -r '.[] | "\(.created_at) \(.title)"'
+      - name: GitLab CI config, pipelines, schedules
+        run: |
+          echo "== .gitlab-ci.yml =="
+          curl -s -H "PRIVATE-TOKEN: $TOKEN" "$API/repository/files/.gitlab-ci.yml/raw?ref=main" | head -80 || true
+          echo; echo "== pipelines =="
+          curl -s -H "PRIVATE-TOKEN: $TOKEN" "$API/pipelines?per_page=10" | jq -r '.[]? | "\(.created_at) \(.source) \(.status) \(.id)"' || true
+          echo "== schedules =="
+          curl -s -H "PRIVATE-TOKEN: $TOKEN" "$API/pipeline_schedules" | jq -r '.[]? | "\(.id) active=\(.active) cron=\(.cron) next=\(.next_run_at) \(.description)"' || true
+      - name: Trigger pipeline on main
+        if: inputs.mode == 'trigger'
+        run: |
+          curl -s -X POST -H "PRIVATE-TOKEN: $TOKEN" "$API/pipeline?ref=main" | jq '{id, status, web_url, message}'
