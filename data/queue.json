@@ -61978,5 +61978,92 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-26T13:55:59.849Z",
     "blogUrl": "https://landinkorea.com/posts/korea-ktx-vs-srt-vs-intercity-bus-for-long-distance-travel.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "ec552079-4c5c-470d-8901-3a600ca18f59",
+    "text": "Changdeokgung is closed on Mondays and, from November to January, open 9 a.\n\nm.\n\nto 5:30 p. What would you add for someone landing tomorrow?\n\n🇯🇵 昌徳宮は月曜日は休館で、11月から1月までは午前9時から午後5時30分まで開館しています。明日到着する人には、他にどんな情報を追加しますか？\n\n🇨🇳 昌德宫周一闭馆，11 月至次年 1 月期间的开放时间为上午 9 点至下午 5 点 30 分。对于明天就要抵达的人，您还会补充哪些信息？\n\n🇹🇼 昌德宮週一不開放，11 月至 1 月的開放時間為上午 9 點至下午 5 點 30 分。對於明天就要抵達的人，您還會補充哪些資訊？",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-26T19:01:30.209Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-26T15:00:58.498Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Changdeokgung Secret Garden: how the timed Huwon tickets actually work",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq와 Cloudflare 둘 다 실패했습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-26T15:00:40.546Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-26T15:00:58.482Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-changdeokgung-secret-garden-how-the-timed-huwon-tickets-actually-work.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "9328022c-ca18-4a21-a9c1-7e206e7b0d1e",
+    "text": "The KTX from Seoul Station reaches Gyeongju in about 2 hours 10 minutes, but the station is not the one older guides describe: Singyeongju was renamed Gyeongju Station on December 28, 2023, after the old downtown station closed in 2021.\n\nIt sits west of the city, so take bus 60 or 61 into the historic center, bus 50, 51, 70 or 710 to the bus terminal, or the infrequent 711 and 700 straight to Bulguksa.\n\nWorth knowing before you land? Reply with what surprised you.",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-26T22:46:08.023Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-26T15:01:25.646Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Gyeongju from Seoul: the KTX, the bus to Bulguksa, and which tombs to see first",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq와 Cloudflare 둘 다 실패했습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-26T15:01:09.210Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-26T15:01:25.630Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-gyeongju-from-seoul-the-ktx-the-bus-to-bulguksa-and-which-tombs-to-see-first.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "b4890472-c7df-4f42-a03f-2504080cfae7",
+    "text": "The Han River parks have continuous bike paths on both banks, with a requested speed of 20 km/h and raised crosswalks at busy spots like Yeouido, Banpo, Ttukseom and Nanji.\n\nSeoul's own suggested loop from Jamsugyo to Haengjudaegyo is about 50 km, longer than a 2-hour pass, so riders dock and re-rent.\n\nTo return a bike, pull the rear-wheel lock shut at any station and wait for the confirmation message.\n\nDid this trip you up your first time too? Drop a comment.",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-26T21:38:50.260Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-26T15:01:41.755Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Ttareungyi, Seoul's public bike: buying a pass as a visitor and riding the Han River paths",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq와 Cloudflare 둘 다 실패했습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-26T15:01:33.592Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-26T15:01:41.739Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-ttareungyi-seoul-s-public-bike-buying-a-pass-as-a-visitor-and-riding-the-han-river-paths.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
