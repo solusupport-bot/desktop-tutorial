@@ -61032,5 +61032,481 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-26T06:53:42.091Z",
     "blogUrl": "https://landinkorea.com/posts/korea-why-google-maps-fails-in-korea-and-how-the-road-name-address-system-actually-works.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "a3bbb52f-7453-476b-8dbe-19299501e2e8",
+    "text": "You're considering a stay in a guesthouse in Korea but have no idea what the difference is between a goshiwon and a share house.\n\nYou'll find a goshiwon is a very small private room rented by the month with no deposit and utilities included, originally built for exam-takers.\n\nThe main difference is that goshiwons are usually cheaper but often windowless and tight, while share houses and monthly-rent guesthouses sit a step above, with private or shared rooms and a lighter contract. You'll also find that short-term Airbnb-style rentals exist but the legal picture is messy: only certain registered categories are clearly permitted, so unregistered listings can get cancelled. Did this confuse you too?\n\n🇯🇵 学習者向けの小さな個室を月額に賃借りするのがゴシウォンです。\n\n🇨🇳 考生用的的小房子，月租，租金含水电费，窗户通常没有\n\n🇹🇼 考生用的小房子，月租，租金含水電費，窗戶通常沒有",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-27T02:40:34.231Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-26T08:08:13.227Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Short-term vs. long-term housing in Korea: guesthouse, goshiwon, officetel, and the deposit system",
+    "qualityGate": {
+      "pass": true,
+      "reason": "캡션은 주제와 관련이 있으며, 문장이 자연스럽고 완성되어 있으며, 가격/시간/운영 여부 등에 대한 구체적 사실 주장은 과장되지 않으며, 여행 콘텐츠로서 최소한의 유용성이 있다.",
+      "model": "groq",
+      "checkedAt": "2026-11-26T08:06:57.612Z",
+      "pattern": "A"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-short-term-vs-long-term-housing-in-korea-guesthouse-goshiwon-officetel-and-the-deposit-system.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "05b36e77-f274-4ab1-a2b6-b6339950345f",
+    "text": "You're considering a stay in Korea but don't know the difference between a goshiwon and a share house.\n\nGoshiwons are small private rooms with no deposit or utilities, originally for exam-takers, but often windowless and tight.\n\nThe main difference is that goshiwons are usually cheaper but share houses and guesthouses sit a step above, with private or shared rooms and a lighter contract.\n\nDid you know that short-term rentals exist but the legal picture is messy, so be cautious.\n#KoreaTravel #Goshiwon\n\n🇯🇵 韓国への滞在を考えているのですが、ゴシウォンとシェアハウスの違いを知りませんか。ゴシウォンは小さな個室で、初期費用や水電費が含まれていますが、窓がなくて狭いことが多く、シェアハウスやゲストハウスは一段上の物件です。短期レンタルも存在しますが、法律面では混乱があります。\n\n🇨🇳 韩国住宿的你，是否知道ゴシウォン和sharehouse之间的区别？ゴシウォン是小房间，月租，租金含水电费，窗户通常没有，但较便宜。sharehouse和guesthouse则是较好的物件，有私人或共享房间和较轻的合同。短期rental也存在，但法律面混乱。\n\n🇹🇼 韓國住宿的你，是否知道考生用的小房子和sharehouse之間的區別？考生用的小房子是小房間，月租，租金含水電費，窗戶通常沒有，但較便宜。sharehouse和guesthouse則是較好的物件，有私人或共享房間和較輕的合約。短期rental也存在，但法律面混亂。",
+    "imageUrl": null,
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-11-27T03:11:19.092Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-26T08:08:13.277Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Short-term vs. long-term housing in Korea: guesthouse, goshiwon, officetel, and the deposit system",
+    "qualityGate": {
+      "pass": true,
+      "reason": "캡션은 주제와 관련이 있으며, 문장이 자연스럽고 완성되어 있으며, 가격/시간/운영 여부 등에 대한 구체적 사실 주장은 과장되지 않으며, 여행 콘텐츠로서 최소한의 유용성이 있다.",
+      "model": "groq",
+      "checkedAt": "2026-11-26T08:06:57.612Z",
+      "pattern": "A"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-short-term-vs-long-term-housing-in-korea-guesthouse-goshiwon-officetel-and-the-deposit-system.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "f418a3d3-05a1-4cae-90cb-03dea61ba5d1",
+    "text": "You're planning a stay in Korea but don't know the difference between a goshiwon and a share house.\n\nGoshiwons are small private rooms with no deposit or utilities, originally for exam-takers, but often windowless and tight.\n\nThe main difference is that goshiwons are usually cheaper but share houses and guesthouses sit a step above, with private or shared rooms and a lighter contract.\n\nDid you know that short-term rentals exist but the legal picture is messy, so be cautious.\n#KoreaTravel #TravelTips #Seoul #Goshiwon\n\n🇯🇵 韓国への滞在を計画していますが、ゴシウォンとシェアハウスの違いを知りませんか。ゴシウォンは小さな個室で、初期費用や水電費が含まれていますが、窓がなくて狭いことが多く、シェアハウスやゲストハウスは一段上の物件です。短期レンタルも存在しますが、法律面では混乱があります。\n\n🇨🇳 韩国住宿的你，是否知道ゴシウォン和sharehouse之间的区别？ゴシウォン是小房间，月租，租金含水电费，窗户通常没有，但较便宜。sharehouse和guesthouse则是较好的物件，有私人或共享房间和较轻的合同。短期rental也存在，但法律面混乱。\n\n🇹🇼 韓國住宿的你，是否知道考生用的小房子和sharehouse之間的區別？考生用的小房子是小房間，月租，租金含水電費，窗戶通常沒有，但較便宜。sharehouse和guesthouse則是較好的物件，有私人或共享房間和較輕的合約。短期rental也存在，但法律面混亂。",
+    "imageUrl": null,
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-11-27T03:44:51.687Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-26T08:08:13.314Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Short-term vs. long-term housing in Korea: guesthouse, goshiwon, officetel, and the deposit system",
+    "qualityGate": {
+      "pass": true,
+      "reason": "캡션은 주제와 관련이 있으며, 문장이 자연스럽고 완성되어 있으며, 가격/시간/운영 여부 등에 대한 구체적 사실 주장은 과장되지 않으며, 여행 콘텐츠로서 최소한의 유용성이 있다.",
+      "model": "groq",
+      "checkedAt": "2026-11-26T08:06:57.612Z",
+      "pattern": "A"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-short-term-vs-long-term-housing-in-korea-guesthouse-goshiwon-officetel-and-the-deposit-system.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "891ed17b-66ba-4e1b-a2d9-c056328d1da0",
+    "text": "Planning a stay in Korea? Don't get confused between goshiwons and share houses.\n\n1. Goshiwons are small private rooms with no deposit or utilities, originally for exam-takers, but often windowless and tight.\n2. Share houses and guesthouses sit a step above, with private or shared rooms and a lighter contract.\n3. Short-term rentals exist but the legal picture is messy, so be cautious.\nSave this for your Korea trip!\n\n🇯🇵 韓国への滞在を計画している場合、ゴシウォンとシェアハウスの違いを知っておくことが大切です。\n1. ゴシウォンは小さな個室で、初期費用や水電費が含まれていますが、窓がなくて狭いことが多く、\n2. シェアハウスやゲストハウスは一段上の物件で、プライベートまたは共有のルームと軽い契約を提供します。\n3. 短期レンタルも存在しますが、法律面では混乱があります。\n\n🇨🇳 韩国住宿的你，是否知道ゴシウォン和sharehouse之间的区别？\n1. ゴシウォン是小房间，月租，租金含水电费，窗户通常没有，但较便宜。\n2. sharehouse和guesthouse则是较好的物件，有私人或共享房间和较轻的合同。\n3. 短期rental也存在，但法律面混乱。\n\n🇹🇼 韓國住宿的你，是否知道考生用的小房子和sharehouse之間的區別？\n1. 考生用的小房子是小房間，月租，租金含水電費，窗戶通常沒有，但較便宜。\n2. sharehouse和guesthouse則是較好的物件，有私人或共享房間和較輕的合約。\n3. 短期rental也存在，但法律面混亂。",
+    "imageUrl": null,
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-11-27T05:44:35.925Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-26T08:08:13.352Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Short-term vs. long-term housing in Korea: guesthouse, goshiwon, officetel, and the deposit system",
+    "qualityGate": {
+      "pass": true,
+      "reason": "캡션은 주제와 관련이 있으며, 문장이 자연스럽고 완성되어 있으며, 가격/시간/운영 여부 등에 대한 구체적 사실 주장은 과장되지 않으며, 여행 콘텐츠로서 최소한의 유용성이 있다.",
+      "model": "groq",
+      "checkedAt": "2026-11-26T08:06:57.612Z",
+      "pattern": "A"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-short-term-vs-long-term-housing-in-korea-guesthouse-goshiwon-officetel-and-the-deposit-system.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "5b52155a-fdf5-4aba-bebf-67334225b6d6",
+    "text": "Don't open a Korean bank account yet if your ARC and phone number don't match your passport spelling.\n\nThe reveal: most Korean digital life hangs off your bank account, so mismatched name spellings cause endless headaches.\n\nOne practical observation: mobile banking apps, simple-payment services, and government sites all rely on identity verification tied to your name, phone number, and ARC.\n\nOne caution: sending money abroad usually requires documentation of the source of funds once you pass certain annual thresholds, and banks may ask for a pay slip or contract.\n\nDid this confuse you too?",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-26T16:28:27.769Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-26T08:11:18.807Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Opening a Korean bank account as a foreigner — and why your ARC and phone number come first",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: facebook: hook is generic, should name a specific confusion/mistake (not a generic teaser). | instagram: payoff is missing a specific experience question or takeaway, and reaction is too generic. | mastodon: payoff is missing a specific experience question or takeaway, and reaction is too generic. | tumblr: hook is generic, should name a specific confusion/mistake (not a generic teaser). | bluesky: no failure, but pattern is O, not A",
+      "failedPlatforms": [
+        "facebook",
+        "instagram",
+        "mastodon",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "A",
+      "checkedAt": "2026-11-26T08:09:44.122Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-opening-a-korean-bank-account-as-a-foreigner-and-why-your-arc-and-phone-number-come-first.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "3338a180-3b5c-4b9d-b795-d950702e6ed8",
+    "text": "Don't open a Korean bank account yet if your ARC and phone number don't match your passport spelling.\n\nThe reveal: most Korean digital life hangs off your bank account, so mismatched name spellings cause endless headaches.\n\nOne practical observation: mobile banking apps, simple-payment services, and government sites all rely on identity verification tied to your name, phone number, and ARC.\n\nOne caution: sending money abroad usually requires documentation of the source of funds once you pass certain annual thresholds, and banks may ask for a pay slip or contract.\n\nDid this confuse you too?",
+    "imageUrl": null,
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-11-26T17:01:34.862Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-26T08:11:18.851Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Opening a Korean bank account as a foreigner — and why your ARC and phone number come first",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: facebook: hook is generic, should name a specific confusion/mistake (not a generic teaser). | instagram: payoff is missing a specific experience question or takeaway, and reaction is too generic. | mastodon: payoff is missing a specific experience question or takeaway, and reaction is too generic. | tumblr: hook is generic, should name a specific confusion/mistake (not a generic teaser). | bluesky: no failure, but pattern is O, not A",
+      "failedPlatforms": [
+        "facebook",
+        "instagram",
+        "mastodon",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "A",
+      "checkedAt": "2026-11-26T08:09:44.122Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-opening-a-korean-bank-account-as-a-foreigner-and-why-your-arc-and-phone-number-come-first.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "0bb267a7-b8d4-48b2-b747-4af059b9e0af",
+    "text": "Don't open a Korean bank account yet if your ARC and phone number don't match your passport spelling.\n\nThe reveal: most Korean digital life hangs off your bank account, so mismatched name spellings cause endless headaches.\n\nOne practical observation: mobile banking apps, simple-payment services, and government sites all rely on identity verification tied to your name, phone number, and ARC.\n\nOne caution: sending money abroad usually requires documentation of the source of funds once you pass certain annual thresholds, and banks may ask for a pay slip or contract.\n\nDid this confuse you too? #KoreaTravel #BanksInKorea #BankingInSeoul",
+    "imageUrl": null,
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-11-26T17:29:34.316Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-26T08:11:18.886Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Opening a Korean bank account as a foreigner — and why your ARC and phone number come first",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: facebook: hook is generic, should name a specific confusion/mistake (not a generic teaser). | instagram: payoff is missing a specific experience question or takeaway, and reaction is too generic. | mastodon: payoff is missing a specific experience question or takeaway, and reaction is too generic. | tumblr: hook is generic, should name a specific confusion/mistake (not a generic teaser). | bluesky: no failure, but pattern is O, not A",
+      "failedPlatforms": [
+        "facebook",
+        "instagram",
+        "mastodon",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "A",
+      "checkedAt": "2026-11-26T08:09:44.122Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-26T08:11:18.866Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-opening-a-korean-bank-account-as-a-foreigner-and-why-your-arc-and-phone-number-come-first.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "d9fe8f33-12d4-4868-b643-77d6104acee4",
+    "text": "Opening a Korean bank account and realizing your ARC and phone number don't match your passport spelling? Here are 3 things to keep in mind:\n1. Mobile banking apps, simple-payment services, and government sites all rely on identity verification tied to your name, phone number, and ARC.\n2. Sending money abroad usually requires documentation of the source of funds once you pass certain annual thresholds, and banks may ask for a pay slip or contract.\n3. Most Korean digital life hangs off your bank account, so mismatched name spellings cause endless headaches. Save this for your Korea trip!",
+    "imageUrl": null,
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-11-26T19:29:09.844Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-26T08:11:18.923Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Opening a Korean bank account as a foreigner — and why your ARC and phone number come first",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: facebook: hook is generic, should name a specific confusion/mistake (not a generic teaser). | instagram: payoff is missing a specific experience question or takeaway, and reaction is too generic. | mastodon: payoff is missing a specific experience question or takeaway, and reaction is too generic. | tumblr: hook is generic, should name a specific confusion/mistake (not a generic teaser). | bluesky: no failure, but pattern is O, not A",
+      "failedPlatforms": [
+        "facebook",
+        "instagram",
+        "mastodon",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "A",
+      "checkedAt": "2026-11-26T08:09:44.122Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-26T08:11:18.903Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-opening-a-korean-bank-account-as-a-foreigner-and-why-your-arc-and-phone-number-come-first.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "5b3ab56c-241f-43ba-93f5-e58dcb76d4f9",
+    "text": "A lot of Korean food is engineered for sharing, so a table for one can hit a wall.\n\nStews and braises like budae jjigae, dakgalbi, and jjimdak are usually cooked in one shared pot and sold with a two-serving minimum, and most Korean BBQ houses also require ordering meat for at least two people.\n\nThat's why you'll see the phrase '2인분부터' (from two servings) on menus, and why some small shops will politely turn a single diner away during a busy lunch rush.\n\nWorth knowing before you land? Reply with what surprised you.",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-27T02:36:37.864Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-26T08:12:54.714Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Eating alone in Korea: which restaurants refuse solo diners and where honbap works",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽고 사실도 과장되지 않아 여행 정보로 충분히 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-26T08:12:49.586Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-eating-alone-in-korea-which-restaurants-refuse-solo-diners-and-where-honbap-works.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "99f3fb86-2987-4972-bae9-1d56888128eb",
+    "text": "A lot of Korean food is engineered for sharing, so a table for one can hit a wall.\n\nStews and braises like budae jjigae, dakgalbi, and jjimdak are usually cooked in one shared pot and sold with a two-serving minimum, and most Korean BBQ houses also require ordering meat for at least two people.\n\nThat's why you'll see the phrase '2인분부터' (from two servings) on menus, and why some small shops will politely turn a single diner away during a busy lunch rush.\n\nWorth knowing before you land? Reply with what surprised you.",
+    "imageUrl": null,
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-11-27T03:02:38.909Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-26T08:12:54.751Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Eating alone in Korea: which restaurants refuse solo diners and where honbap works",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽고 사실도 과장되지 않아 여행 정보로 충분히 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-26T08:12:49.586Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-eating-alone-in-korea-which-restaurants-refuse-solo-diners-and-where-honbap-works.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "d5ad65df-6095-4fe6-a2e1-7b5bedc5bdad",
+    "text": "A lot of Korean food is engineered for sharing, so a table for one can hit a wall.\n\nStews and braises like budae jjigae, dakgalbi, and jjimdak are usually cooked in one shared pot and sold with a two-serving minimum, and most Korean BBQ houses also require ordering meat for at least two people.\n\nThat's why you'll see the phrase '2인분부터' (from two servings) on menus, and why some small shops will politely turn a single diner away during a busy lunch rush.\n\nWorth knowing before you land? Reply with what surprised you.",
+    "imageUrl": null,
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-11-27T03:34:45.763Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-26T08:12:54.787Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Eating alone in Korea: which restaurants refuse solo diners and where honbap works",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽고 사실도 과장되지 않아 여행 정보로 충분히 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-26T08:12:49.586Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-eating-alone-in-korea-which-restaurants-refuse-solo-diners-and-where-honbap-works.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "57c822a7-a3c4-4c3c-b554-41b58ae1f3ee",
+    "text": "A lot of Korean food is engineered for sharing, so a table for one can hit a wall.\n\n1. Stews and braises like budae jjigae, dakgalbi, and jjimdak are usually cooked in one shared pot and sold with a two-serving minimum, and most Korean BBQ houses also require ordering meat for at least two people.\n2. That's why you'll see the phrase '2인분부터' (from two servings) on menus, and why some small shops will politely turn a single diner away during a busy lunch rush.\n3. It isn't rudeness toward foreigners — locals get the same answer, which is exactly why the word 'honbap' (eating alone) exists as its own concept in Korea.",
+    "imageUrl": null,
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-11-27T05:33:45.686Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-26T08:12:54.823Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Eating alone in Korea: which restaurants refuse solo diners and where honbap works",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽고 사실도 과장되지 않아 여행 정보로 충분히 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-26T08:12:49.586Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-eating-alone-in-korea-which-restaurants-refuse-solo-diners-and-where-honbap-works.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "9609abea-5f1f-4ea2-a979-75b7bdb1c5ac",
+    "text": "Even with an account, the address and phone step trips people up.\n\nRiders frequently call or text to confirm a drop-off, so a number you can actually answer matters more than the app's language setting, and the free-text delivery memo is where you write things like the building name, floor, or 'leave at the door.\n\n' Hotels and guesthouses vary — some accept deliveries at the front desk, others don't, so ask before ordering.\n\nWhat surprised you the most when you landed?",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-27T01:30:52.365Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-26T08:13:02.122Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Food delivery apps in Korea: why signing up is harder than ordering",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq와 Cloudflare 둘 다 실패했습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-26T08:12:57.724Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-26T08:13:02.102Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-food-delivery-apps-in-korea-why-signing-up-is-harder-than-ordering.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "961f9aba-9d4c-4ac9-b75d-bb0d2c0c65db",
+    "text": "Even with an account, the address and phone step trips people up.\n\nRiders frequently call or text to confirm a drop-off, so a number you can actually answer matters more than the app's language setting, and the free-text delivery memo is where you write things like the building name, floor, or 'leave at the door.\n\n' Hotels and guesthouses vary — some accept deliveries at the front desk, others don't, so ask before ordering.\n\nWhat surprised you the most when you landed?",
+    "imageUrl": null,
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-11-27T02:00:06.344Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-26T08:13:02.158Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Food delivery apps in Korea: why signing up is harder than ordering",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq와 Cloudflare 둘 다 실패했습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-26T08:12:57.724Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-26T08:13:02.137Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-food-delivery-apps-in-korea-why-signing-up-is-harder-than-ordering.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "52a75dcc-a119-4934-a97f-03658c6c79ac",
+    "text": "Even with an account, the address and phone step trips people up.\n\nRiders frequently call or text to confirm a drop-off, so a number you can actually answer matters more than the app's language setting, and the free-text delivery memo is where you write things like the building name, floor, or 'leave at the door.\n\n' Hotels and guesthouses vary — some accept deliveries at the front desk, others don't, so ask before ordering.\n\nWhat surprised you the most when you landed?",
+    "imageUrl": null,
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-11-27T02:32:39.773Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-26T08:13:02.194Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Food delivery apps in Korea: why signing up is harder than ordering",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq와 Cloudflare 둘 다 실패했습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-26T08:12:57.724Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-26T08:13:02.173Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-food-delivery-apps-in-korea-why-signing-up-is-harder-than-ordering.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "4478a058-07fb-42c4-a646-f547affaf495",
+    "text": "Even with an account, the address and phone step trips people up.\n\n1. Riders frequently call or text to confirm a drop-off, so a number you can actually answer matters more than the app's language setting, and the free-text delivery memo is where you write things like the building name, floor, or 'leave at the door.\n2. ' Hotels and guesthouses vary — some accept deliveries at the front desk, others don't, so ask before ordering.\n3. Disposable cutlery is no longer included by default; you have to tick the option for chopsticks and spoons.",
+    "imageUrl": null,
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-11-27T04:30:13.283Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-26T08:13:02.229Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Food delivery apps in Korea: why signing up is harder than ordering",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq와 Cloudflare 둘 다 실패했습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-26T08:12:57.724Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-26T08:13:02.208Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-food-delivery-apps-in-korea-why-signing-up-is-harder-than-ordering.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
   }
 ]
