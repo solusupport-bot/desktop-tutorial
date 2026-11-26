@@ -39,3 +39,12 @@ jobs:
         if: inputs.mode == 'trigger'
         run: |
           curl -s -X POST -H "PRIVATE-TOKEN: $TOKEN" "$API/pipeline?ref=main" | jq '{id, status, web_url, message}'
+      - name: Latest failed job log
+        run: |
+          pid=$(curl -s -H "PRIVATE-TOKEN: $TOKEN" "$API/pipelines?per_page=1" | jq -r '.[0].id')
+          curl -s -H "PRIVATE-TOKEN: $TOKEN" "$API/pipelines/$pid/jobs" | jq -r '.[] | "\(.id) \(.name) \(.status) \(.failure_reason)"'
+          jid=$(curl -s -H "PRIVATE-TOKEN: $TOKEN" "$API/pipelines/$pid/jobs" | jq -r '.[0].id')
+          curl -s -H "PRIVATE-TOKEN: $TOKEN" "$API/jobs/$jid/trace" | tail -120
+          echo "== oldest failing pipelines =="
+          curl -s -H "PRIVATE-TOKEN: $TOKEN" "$API/pipelines?per_page=100" | jq -r '.[] | "\(.created_at) \(.status)"' | awk '{print $2}' | uniq -c
+          curl -s -H "PRIVATE-TOKEN: $TOKEN" "$API/pipelines?status=success&per_page=1" | jq -r '.[]? | "last success: \(.created_at)"'
