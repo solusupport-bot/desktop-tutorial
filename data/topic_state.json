@@ -1,5 +1,5 @@
 {
-  "lastIndex": 18,
+  "lastIndex": 20,
   "history": [
     {
       "index": 28,
@@ -606,6 +606,12 @@
       "topic": "KTX vs. SRT vs. intercity bus for long-distance travel",
       "at": "2026-11-26T13:55:48.241Z",
       "source": "threads-fill"
+    },
+    {
+      "index": 20,
+      "topic": "Trash and recycling rules for residents",
+      "at": "2026-11-26T13:56:01.671Z",
+      "source": "facebook-fill"
     }
   ],
   "recentImageUrls": [
