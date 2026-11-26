@@ -1,5 +1,5 @@
 {
-  "lastIndex": 36,
+  "lastIndex": 30,
   "history": [
     {
       "index": 28,
@@ -390,6 +390,24 @@
       "topic": "Seoul City Wall (Hanyangdoseong): the six trail sections, Naksan at night, Baegak rules, and the free wall museum",
       "at": "2026-11-25T12:58:38.715Z",
       "source": "facebook-fill"
+    },
+    {
+      "index": 28,
+      "topic": "Domestic flights vs. KTX for Jeju and long-distance trips",
+      "at": "2026-11-26T05:16:49.362Z",
+      "source": "threads-fill"
+    },
+    {
+      "index": 29,
+      "topic": "Seoul attraction pass comparison",
+      "at": "2026-11-26T05:16:55.656Z",
+      "source": "threads-fill"
+    },
+    {
+      "index": 30,
+      "topic": "Korean public holidays that disrupt travel plans",
+      "at": "2026-11-26T05:17:06.314Z",
+      "source": "threads-fill"
     }
   ],
   "recentImageUrls": [

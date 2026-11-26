@@ -60846,5 +60846,92 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-26T05:06:56.135Z",
     "blogUrl": "https://landinkorea.com/posts/korea-tipping-and-service-charges.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "a253b9a2-6883-4e65-8c99-4c528baf7884",
+    "text": "Booking a domestic flight to Jeju without comparing total door-to-door time against KTX-plus-onward-transit for mainland trips is the most common miscalculation first-timers make.\n\nDomestic terminals at Gimpo and Gimhae (Busan) are separate from the international terminals, so don't assume international arrival/departure procedures apply — domestic flights use lighter security and no passport control.\n\nPeak holiday periods sell out both flights and KTX seats fast, so book mainland long-distance and Jeju flights well ahead during Korean public holidays.\n\nWhat would you add for someone landing tomorrow?",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-26T08:16:12.800Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-26T05:16:55.620Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Domestic flights vs. KTX for Jeju and long-distance trips",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq와 Cloudflare 둘 다 실패했습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-26T05:16:53.908Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-26T05:16:55.609Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-domestic-flights-vs-ktx-for-jeju-and-long-distance-trips.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "7f705ff1-5c04-43df-9f83-1fe4aaa9e1d6",
+    "text": "Passes typically come in 24/48/72-hour versions activated from first use, not from purchase, so timing your first scan matters for getting full value.\n\nA Seoul attraction pass (bundling entry to multiple paid sites, sometimes with transit included) only pays off past a specific number of paid attractions per day — buy one for a light sightseeing day and you'll likely spend more than paying individually.\n\nWorth knowing before you land? Reply with what surprised you.",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-26T18:04:38.604Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-26T05:17:06.280Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Seoul attraction pass comparison",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq와 Cloudflare 둘 다 실패했습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-26T05:17:01.798Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-26T05:17:06.268Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-seoul-attraction-pass-comparison.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "32db52b6-654f-4ecb-968e-c42ac63452cd",
+    "text": "Many small restaurants, markets, and family-run shops close for several consecutive days around Chuseok and Seollal, while large attractions, chain stores, and hotels generally stay open — so a itinerary built around market food stalls can fall apart during these windows.\n\nIf travel dates land near either holiday, book intercity trains and any domestic flights as early as possible, and have backup restaurant options in mind since neighborhood favorites may simply be shuttered.\n\nDid this trip you up your first time too? Drop a comment.",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-26T15:06:10.767Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-26T05:17:20.774Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Korean public holidays that disrupt travel plans",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq와 Cloudflare 둘 다 실패했습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-26T05:17:12.877Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-26T05:17:20.763Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-korean-public-holidays-that-disrupt-travel-plans.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
