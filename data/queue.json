@@ -61508,5 +61508,92 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-26T08:13:02.208Z",
     "blogUrl": "https://landinkorea.com/posts/korea-food-delivery-apps-in-korea-why-signing-up-is-harder-than-ordering.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "3b78ddfd-4156-433e-88aa-5769d9763700",
+    "text": "The instinct to tip is hardest to suppress right after arrival, especially for visitors from the US.\n\nCard payment terminals in Korea don't even have a tip-entry step - the machine simply charges the listed price.\n\nIf you want to show appreciation, the better move is a verbal thank-you (\"jal meogeosseumnida\" after a meal) or returning to the same small restaurant again, which Korean regulars do far more than tipping culture ever would.\n\nWhat would you add for someone landing tomorrow?",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-26T13:23:45.484Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-26T08:13:04.372Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Tipping in Korea: why you shouldn't and what to do instead",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq와 Cloudflare 둘 다 실패했습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-26T08:13:01.063Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-26T08:13:04.356Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-tipping-and-service-charges.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "b6c2a6d5-0151-426e-b40f-7aeaf10c203f",
+    "text": "A noraebang is a private karaoke room, not a stage in front of strangers - you rent the room by the hour with your own group, which is the opposite of Western karaoke bars where everyone sings in front of the whole room.\n\nRooms are everywhere in Korea, open late, and cost surprisingly little split between a few people.\n\nSong machines have English-language search and thousands of English songs alongside Korean ones, so language isn't actually a barrier.\n\nWorth knowing before you land? Reply with what surprised you.",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-26T15:09:58.486Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-26T08:13:11.588Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Noraebang etiquette: how Korean karaoke actually works for first-timers",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq와 Cloudflare 둘 다 실패했습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-26T08:13:07.516Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-26T08:13:11.572Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-noraebang-etiquette-how-korean-karaoke-actually-works-for-first-timers.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "eeb3e252-bc46-4558-b434-070ac5833e55",
+    "text": "The bigger mistake is going on the wrong day rather than the wrong week.\n\nBlossoms only look their best for about a week, and one heavy rain or windy night can strip them, so flexibility beats a fixed date.\n\nMajor festivals — Jinhae's Gunhangje, Yeouido's riverside cherry blossom road, Gyeongju, Jeonju — concentrate enormous crowds onto one or two weekends, with road closures, shuttle-only access, and trains and intercity buses selling out well in advance.\n\nDid this trip you up your first time too? Drop a comment.",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-26T13:19:46.557Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-26T08:13:30.207Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Timing cherry blossoms and fall foliage in Korea without hitting peak crowds",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq와 Cloudflare 둘 다 실패했습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-26T08:13:22.497Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-26T08:13:30.192Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-timing-cherry-blossoms-and-fall-foliage-in-korea-without-hitting-peak-crowds.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
