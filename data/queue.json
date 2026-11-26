@@ -60469,5 +60469,105 @@
       "checkedAt": "2026-11-25T22:25:00.857Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "16e881dd-6816-495e-97a3-7c574d4ea39e",
+    "text": "Don't assume you can take the train to Jeju Island and its scenic spots like Hallasan, Seongsan Ilchulbong Peak, and Manjanggul Cave without a long ferry ride or flight.\n\n1/5\n\nThe ferry ride from Mokpo takes around 7 hours, but it's a scenic route that passes by the Geomunoreum Lava Tube and other volcanic landscapes. 2/5 However, the ferry schedule is limited, and the route is not as frequent as the KTX trains on the mainland. 3/5 Renting a car is the most practical option for getting around Jeju Island, especially since public transportation is less frequent than in Seoul or Busan. 4/5 The island's weather can change quickly, so be sure to pack a rain layer even in the summer. 5/5 Open the Land in Korea link in the profile to learn more about Jeju Island and plan your trip.\n\n🇯🇵 ジェジュ島の観光スポットに鉄道で行くのは長いフェリーボートの乗り物や飛行機の乗り物を必要とする。\n\n🇨🇳 不要去到济州岛的景点，需要乘坐长途的轮渡或飞机。\n\n🇹🇼 不要去到濟州島的景點，需要乘坐長途的輪渡或飛機。",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795654566023-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795654566023-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-26T15:47:45.970Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-26T00:56:07.445Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g548407f1e3f03e48c3be7e6b5c167cb9560c356a96641ce6bd7a9380f0b8de6a27bd2440b7123a951cda0830ae10fe5e190d7174c5852192495c98b31923168a_1280.jpg#pixabay=5131925"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Jeju Island",
+    "qualityGate": {
+      "pass": true,
+      "reason": "Relevant, well‑formed, factual and useful travel tips for Jeju Island",
+      "model": "groq",
+      "checkedAt": "2026-11-26T00:54:03.302Z",
+      "pattern": "A"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-jeju-island.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "c816e4e6-0c1a-476a-b1d4-fd7cebdb48bf",
+    "text": "Don't rent a Wi-Fi egg for the group without checking the return policy first at Incheon and Gimpo arrivals — reserve online for a discount and a shorter line. 24 hours at Incheon Airport's arrivals floor (1st floor) telecom counters are open if you need a physical prepaid USIM or a pocket Wi-Fi pickup on landing. The late fee for a returned router is a surprise to many. If you do rent, return the router at the same airport counter or a marked drop box before your flight. Did this confuse you too?\n\nReserve online for a discount and a shorter line.\n\nIncheon Airport's arrivals floor (1st floor) telecom counters are open 24 hours. If you return the router late, you'll be charged a fee. What would you ask before landing in Korea?\n\n🇯🇵 着陸前のWi-Fiエッグのレンタルは、返却ポリシーを確認することなく、 Gimpo と Incheon でのグループレンタルは避けましょう。\n\n🇨🇳 在机场WiFi租赁前请先确认返还政策，避免 Gimpo 和 Incheon 的租赁费用，\n\n🇹🇼 在機場WiFi租借前請先確認返還政策，避免 Gimpo 和 Incheon 的租借費用，",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-26T10:42:35.502Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-26T01:00:03.511Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "eSIM & mobile data",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: [object Object] | [object Object] | [object Object] | [object Object] | [object Object] | [object Object]",
+      "failedPlatforms": [
+        "threads",
+        "facebook",
+        "instagram",
+        "bluesky",
+        "mastodon",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "E",
+      "checkedAt": "2026-11-26T00:57:08.577Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-26T01:00:03.493Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-esim-mobile-data.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "6b2da39f-760e-4e71-8fc8-9c9a4b834175",
+    "text": "Don't buy a single-journey ticket at Incheon Airport if you plan to ride the subway daily. The TMONEY Travel Card costs ₩4,000 and an adult Seoul subway ride costs ₩1,550 by card. You'll save ₩1,550 per ride, and there are 10 subway lines to ride. What's the most you've spent on single-journey tickets in Korea?\n\nThe TMONEY Travel Card costs ₩4,000 and an adult Seoul subway ride costs ₩1,550 by card. You can buy the card at Incheon Airport or at convenience stores like GS25.\n\nIt's best to buy the TMONEY Travel Card instead of single-journey tickets if you plan to ride the subway daily. You'll save ₩1,550 per ride, and there are 10 subway lines to ride. You can buy a single-journey ticket, but you'll be spending ₩1,650 per ride. You can buy the TMONEY Travel Card at Incheon Airport or at convenience stores like GS25. Did this make you realize you've been wasting money on single-journey tickets in Korea?\n\n🇯🇵 インチョン空港で乗り物券を買うと、毎日地下鉄を乗りたい場合はTMONEYトラベルカードを買うのがおすすめです。\n\n🇨🇳 如果您每天要乘地铁，建议在仁川机场购买TMONEY旅行卡。\n\n🇹🇼 如果您每天要乘地鐵，建議在仁川機場購買TMONEY旅行卡。",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-26T04:13:12.640Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-26T01:02:37.620Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "T-money transit card",
+    "qualityGate": {
+      "pass": false,
+      "reason": "가격·절감액 계산이 사실과 달라 과장된 정보가 포함돼 있어 발행에 부적합합니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-26T01:02:27.612Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-26T01:02:37.603Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-t-money-transit-card.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
