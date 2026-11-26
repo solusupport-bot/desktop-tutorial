@@ -5,6 +5,8 @@ name: Blog GitLab release check
 # 최근 GitLab 파이프라인·스케줄을 출력하고, mode=trigger면 main에서 파이프라인을 한 번 실행한다.
 # 글을 직접 옮기거나 쓰지 않는다 — 발행 규칙(publish_queue.py 하루 상한)은 GitLab/로컬 쪽 그대로.
 on:
+  push:
+    branches: [blog-gitlab-release-check]
   workflow_dispatch:
     inputs:
       mode:
