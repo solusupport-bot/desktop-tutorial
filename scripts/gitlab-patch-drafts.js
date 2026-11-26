@@ -1,36 +1,22 @@
-// 2026-11-26 one-off: add "## Official sources" to queued GitLab drafts (validate.py blocks posts without it)
-// and park drafts with unresolved fact conflicts in content/drafts/_pending_review/.
+// 2026-11-26 one-off: Christmas post links to the held New Year's Eve draft -> unlink, then rerun publish schedule.
 const axios = require('axios');
 const API = 'https://gitlab.com/api/v4/projects/land-in-korea%2Fland-in-korea-blog';
 const H = { headers: { 'PRIVATE-TOKEN': process.env.TOKEN } };
-const sources = require('../data/blog_sources_patch.json');
-const links = require('../data/topic_blog_links.json');
-const PUBLISH = ['Gwangjang Market', 'Hwacheon Sancheoneo', 'Christmas in Korea', 'Gyeongju from Seoul', 'Ttareungyi'];
-const HOLD = ['korea-changdeokgung-secret-garden-how-the-timed-huwon-tickets-actually-work',
-  'korea-skiing-near-seoul-without-a-car-konjiam-elysian-gangchon-and-shuttle-buses',
-  'korea-new-year-s-eve-in-korea-the-bosingak-bell-late-subways-and-first-sunrise-spots',
-  'korea-shipping-souvenirs-home-from-a-korean-post-office-ems-small-packets-and-sea-mail',
-  'korea-korean-winter-street-food-bungeoppang-hotteok-and-where-the-stalls-went',
-  'korea-public-bathhouse-culture-in-korea-beyond-the-jjimjilbang-the-mogyoktang-rules'];
-const section = (list) => `## Official sources\n\n${list.map(([n, u]) => `- [${n}](${u})`).join('\n')}\n\nPrices, dates, and hours change. Check the pages above before you go.\n\n`;
+const HELD = 'korea-new-year-s-eve-in-korea-the-bosingak-bell-late-subways-and-first-sunrise-spots';
 (async () => {
-  const actions = [];
-  for (const p of PUBLISH) {
-    const topic = Object.keys(sources).find((t) => t.startsWith(p));
-    const slug = links[topic];
-    const path = `content/drafts/${slug}.md`;
-    const { data: md } = await axios.get(`${API}/repository/files/${encodeURIComponent(path)}/raw?ref=main`, H);
-    if (/^## (Official sources|Sources)/m.test(md)) { console.log('already has sources:', slug); continue; }
-    const i = md.indexOf('## Frequently Asked Questions');
-    const out = i >= 0 ? md.slice(0, i) + section(sources[topic]) + md.slice(i) : md.trimEnd() + '\n\n' + section(sources[topic]);
-    actions.push({ action: 'update', file_path: path, content: out });
-    console.log('patch', slug);
+  const { data: tree } = await axios.get(`${API}/repository/tree?path=content/posts&per_page=100&pagination=keyset`, H).catch(() => ({ data: [] }));
+  const path = 'content/posts/korea-christmas-in-korea-a-couples-holiday-light-displays-and-what-stays-open-on-december-25.md';
+  const { data: md } = await axios.get(`${API}/repository/files/${encodeURIComponent(path)}/raw?ref=main`, H);
+  const lines = md.split('\n');
+  const out = [];
+  for (const l of lines) {
+    if (!l.includes(HELD)) { out.push(l); continue; }
+    console.log('BEFORE:', l);
+    if (/^\s*[-*]\s*\[[^\]]*\]\([^)]*\)\s*$/.test(l)) { console.log('-> removed bullet'); continue; }
+    const n = l.replace(/\[([^\]]+)\]\([^)]*${HELD}[^)]*\)/g, '$1');
+    console.log('AFTER :', n); out.push(n);
   }
-  for (const slug of HOLD) actions.push({ action: 'move', previous_path: `content/drafts/${slug}.md`, file_path: `content/drafts/_pending_review/${slug}.md` });
-  const { data } = await axios.post(`${API}/repository/commits`, { branch: 'main', commit_message: 'chore: add official sources to queued drafts; hold 6 drafts with fact conflicts for correction', actions }, H);
-  console.log('commit', data.short_id);
-  try {
-    const r = await axios.post(`${API}/pipeline_schedules/4525847/play`, {}, H);
-    console.log('schedule play:', r.status, JSON.stringify(r.data));
-  } catch (e) { console.log('schedule play failed:', e.response && e.response.status, JSON.stringify(e.response && e.response.data)); }
+  await axios.post(`${API}/repository/commits`, { branch: 'main', commit_message: 'fix: unlink held New Year draft from Christmas post', actions: [{ action: 'update', file_path: path, content: out.join('\n') }] }, H);
+  const r = await axios.post(`${API}/pipeline_schedules/4525847/play`, {}, H);
+  console.log('schedule play:', r.status);
 })().catch((e) => { console.error(e.response ? JSON.stringify(e.response.data) : e.message); process.exit(1); });

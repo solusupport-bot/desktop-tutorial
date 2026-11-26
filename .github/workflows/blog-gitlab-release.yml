@@ -21,6 +21,12 @@ jobs:
       TOKEN: ${{ secrets.BLOG_REPO_PAT }}
       API: https://gitlab.com/api/v4/projects/land-in-korea%2Fland-in-korea-blog
     steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: '22' }
+      - run: npm ci --silent
+      - run: node scripts/gitlab-patch-drafts.js
+      - run: sleep 60
       - name: Wait for running pipeline
         run: |
           for i in $(seq 1 40); do
