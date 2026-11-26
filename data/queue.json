@@ -61699,5 +61699,100 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-26T09:56:21.123Z",
     "blogUrl": "https://landinkorea.com/posts/korea-convenience-store-hacks.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "8b3ad43a-f7ac-4631-b7af-2fb0ac3022ee",
+    "text": "A lot of Korean food is engineered for sharing, so a table for one can hit a wall.\n\nStews and braises like budae jjigae, dakgalbi, and jjimdak are usually cooked in one shared pot and sold with a two-serving minimum, and most Korean BBQ houses also require ordering meat for at least two people.\n\nThat's why you'll see the phrase '2인분부터' (from two servings) on menus, and why some small shops will politely turn a single diner away during a busy lunch rush.\n\nHow much did this actually cost you on your trip?",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-26T23:41:10.854Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-26T10:56:37.770Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Eating alone in Korea: which restaurants refuse solo diners and where honbap works",
+    "qualityGate": {
+      "pass": false,
+      "reason": "첫 줄 규칙 위반: threads: 최근 30일 안에 쓴 첫 줄 재사용, bluesky: 최근 30일 안에 쓴 첫 줄 재사용, mastodon: 최근 30일 안에 쓴 첫 줄 재사용",
+      "model": "rule",
+      "failedPlatforms": [
+        "threads",
+        "bluesky",
+        "mastodon"
+      ],
+      "checkedAt": "2026-11-26T10:56:33.025Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-26T10:56:37.749Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-eating-alone-in-korea-which-restaurants-refuse-solo-diners-and-where-honbap-works.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "ac4ec49b-c8e3-432b-ab25-b6bb77e9674f",
+    "text": "Even with an account, the address and phone step trips people up.\n\nRiders frequently call or text to confirm a drop-off, so a number you can actually answer matters more than the app's language setting, and the free-text delivery memo is where you write things like the building name, floor, or 'leave at the door.\n\n' Hotels and guesthouses vary — some accept deliveries at the front desk, others don't, so ask before ordering.\n\nWhat surprised you the most when you landed?",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-26T19:57:42.485Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-26T10:56:46.281Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Food delivery apps in Korea: why signing up is harder than ordering",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq와 Cloudflare 둘 다 실패했습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-26T10:56:41.435Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-26T10:56:46.262Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-food-delivery-apps-in-korea-why-signing-up-is-harder-than-ordering.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "a1f80054-0995-4669-8a94-61124fd09075",
+    "text": "Driving is a real upgrade for some trips and a liability for others.\n\nJeju, the Gangwon coast, rural temples, and small-town markets are much easier with a car because bus frequencies drop off sharply outside cities.\n\nSeoul is the opposite case: traffic is heavy, street parking is essentially nonexistent, paid lots are expensive, and the subway will beat you door-to-door almost every time. Anyone else lose money on this mistake?\n\n🇯🇵 運転は、ある旅行では大きなメリットになりますが、別の旅行ではデメリットになります。済州島、江原道の海岸、田舎の寺院、そして小さな町の市場へは、車で行く方がはるかに便利です。都市部を離れると、バスの本数が急激に減るからです。ソウルはその正反対です。交通渋滞がひどく、路上駐車は事実上不可能で、有料駐車場は高価であり、地下鉄ならほぼいつでも目的地まで直行できます。この間違いで損をした人は他にいますか？\n\n🇨🇳 对于某些行程来说，自驾游是一种真正的升级，但对于其他行程来说，自驾游却是一种负担。在济州岛、江原道海岸、乡村寺庙和小城镇市场，开车出行要方便得多，因为在城市以外，公交车的班次会骤减。首尔的情况则截然相反：交通拥堵，路边停车位几乎不存在，付费停车场价格昂贵，而且地铁几乎每次都能比您更快地将您送到目的地。还有谁因为这个错误而损失了钱？\n\n🇹🇼 對於某些行程來說，開車是個很好的選擇，但對其他行程來說卻是個負擔。有了車，前往濟州島、江原道海岸、鄉間寺廟和小鎮市場就方便多了，因為離開市區後，公車班次會驟減。首爾的情況則剛好相反：交通壅塞，路邊幾乎沒有停車位，付費停車場很貴，而且幾乎每次搭乘地鐵都能直達目的地。還有其他人因為這個錯誤而損失金錢嗎？",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-26T17:05:07.462Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-26T10:57:00.090Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Renting a car in Korea: when it's smart, when it's a waste, and what the rental desk will ask for",
+    "qualityGate": {
+      "pass": false,
+      "reason": "첫 줄 규칙 위반: threads: 최근 30일 안에 쓴 첫 줄 재사용",
+      "model": "rule",
+      "failedPlatforms": [
+        "threads"
+      ],
+      "checkedAt": "2026-11-26T10:56:52.108Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-26T10:57:00.072Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-renting-a-car-in-korea-when-it-s-smart-when-it-s-a-waste-and-what-the-rental-desk-will-ask-for.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
