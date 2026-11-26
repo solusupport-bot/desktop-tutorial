@@ -1,5 +1,5 @@
 {
-  "lastIndex": 3,
+  "lastIndex": 5,
   "history": [
     {
       "index": 22,
@@ -1158,6 +1158,12 @@
       "topic": "Myeongdong shopping district",
       "at": "2026-11-25T22:53:43.081Z",
       "source": "facebook-fill"
+    },
+    {
+      "index": 4,
+      "topic": "Busan Haeundae Beach & Gamcheon Culture Village",
+      "at": "2026-11-26T00:50:24.651Z",
+      "source": "instagram-fill"
     }
   ],
   "recentImageUrls": [
@@ -2505,7 +2511,13 @@
     "https://pixabay.com/get/g56097e7e74e71f1a38cc67f85368e7d9ffcc50f107355dd2bc7d0bef33587ea728052bffa0fdd2590c39c06e223e0659f5a8b4704f97e289dcb0dab23f03f1ee_1280.jpg#pixabay=3905262",
     "https://pixabay.com/get/g2ec21ddacf3250ca226b19011f43579bbc91b680310fcd4c25b6a6d41070d62b1c3fa036fa611e4173be9610be9025e29dadfa5783938c10077ee29a61ca58f4_1280.jpg#pixabay=7423574",
     "https://pixabay.com/get/g598b8b41f3b3ef7a6408545d726dc961556465ef123ef2bb64e72ef629e37318d834583e2603d7196a3d38286f0c4f72bd1463fe8e43616f4047aa3e9715bea5_1280.jpg#pixabay=7741300",
-    "https://pixabay.com/get/g6165d53b153dee0a43c04b2f9d10224b7285cb14f573c15a47a5c24ed5dfa592546b1f7cbca8c2830c6501ced9437342dfbe148301b7883c4c4bc49b5d4ffa04_1280.jpg#pixabay=7143047"
+    "https://pixabay.com/get/g6165d53b153dee0a43c04b2f9d10224b7285cb14f573c15a47a5c24ed5dfa592546b1f7cbca8c2830c6501ced9437342dfbe148301b7883c4c4bc49b5d4ffa04_1280.jpg#pixabay=7143047",
+    "https://pixabay.com/get/g8332f0601b8c0619eafba3caf2392d6db6cd6c60e8f839c4e8d0dcc6761d94b4ae6dbf6bb6f4c626dc735673dcb49232d751bca24c9f02f52b491f723cc08703_1280.jpg#pixabay=4385761",
+    "https://pixabay.com/get/g8017c6d18729a7b319db1c54fcc0c72c5238c208e2775f82c2f9cf816e790afbd6bd10540675b7ffc8e4f44ec3db67f6df4333085386cf0540822fd4909e5646_1280.jpg#pixabay=7531101",
+    "https://pixabay.com/get/g6691c64b468764d2ec46b63a03a4fd664c57f4996079dbefb1da5239b0a674ce0c8f4a1727a1a32e6df4c544a6f6e2c102e01e533e26ab39d7da34accce300d4_1280.jpg#pixabay=6591589",
+    "https://pixabay.com/get/gf2ee792cb81f253a726a1732dc70b3a76a4a233a43fb1c82e6b8598a70341b4addcf0443dd34171d2cd84be076d3186c525a640a2bd15df014a94a24160776fc_1280.jpg#pixabay=7086222",
+    "https://pixabay.com/get/g56efd07e75b350fd4dc866cd4aa7733d65e925b232e05a828390311dd0974621511bb4458077df1bc203f5116f95ad3bba2962aae2e51d76730824f92ba7189c_1280.jpg#pixabay=4810725",
+    "https://pixabay.com/get/ge9f1e31b239503695d40dcd1151fb3657dd758d2bc1590b672a1dd65b1240fe350ce8651a2a70f4ced7a9634652b8b12254d414083609689197c43cc37220091_1280.jpg#pixabay=7070351"
   ],
   "recentVideoUrls": [
     "https://videos.pexels.com/video-files/19577787/19577787-uhd_2160_3840_30fps.mp4",
