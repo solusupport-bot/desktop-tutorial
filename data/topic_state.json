@@ -1,24 +1,6 @@
 {
-  "lastIndex": 36,
+  "lastIndex": 52,
   "history": [
-    {
-      "index": 12,
-      "topic": "Currency & card payments",
-      "at": "2026-11-24T05:04:24.478Z",
-      "source": "threads-fill"
-    },
-    {
-      "index": 13,
-      "topic": "Emergency numbers & 24hr pharmacies",
-      "at": "2026-11-24T05:04:31.734Z",
-      "source": "threads-fill"
-    },
-    {
-      "index": 14,
-      "topic": "Useful travel apps",
-      "at": "2026-11-24T05:04:50.319Z",
-      "source": "facebook-fill"
-    },
     {
       "index": 15,
       "topic": "Convenience store hacks",
@@ -1200,6 +1182,24 @@
       "topic": "Eating alone in Korea: which restaurants refuse solo diners and where honbap works",
       "at": "2026-11-26T04:58:36.780Z",
       "source": "instagram-fill"
+    },
+    {
+      "index": 37,
+      "topic": "Food delivery apps in Korea: why signing up is harder than ordering",
+      "at": "2026-11-26T05:00:15.309Z",
+      "source": "threads-fill"
+    },
+    {
+      "index": 38,
+      "topic": "Renting a car in Korea: when it's smart, when it's a waste, and what the rental desk will ask for",
+      "at": "2026-11-26T05:02:41.092Z",
+      "source": "threads-fill"
+    },
+    {
+      "index": 52,
+      "topic": "Tipping in Korea: why you shouldn't and what to do instead",
+      "at": "2026-11-26T05:05:46.769Z",
+      "source": "threads-fill"
     }
   ],
   "recentImageUrls": [
