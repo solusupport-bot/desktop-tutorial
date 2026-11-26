@@ -21,6 +21,12 @@ jobs:
       TOKEN: ${{ secrets.BLOG_REPO_PAT }}
       API: https://gitlab.com/api/v4/projects/land-in-korea%2Fland-in-korea-blog
     steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: '22' }
+      - run: npm ci --silent
+      - name: Patch drafts with sources, hold conflicted drafts, run publish schedule
+        run: node scripts/gitlab-patch-drafts.js
       - name: Drafts and recent posts
         run: |
           echo "== drafts =="
@@ -39,11 +45,3 @@ jobs:
         if: inputs.mode == 'trigger'
         run: |
           curl -s -X POST -H "PRIVATE-TOKEN: $TOKEN" "$API/pipeline?ref=main" | jq '{id, status, web_url, message}'
-      - name: Validator source rule
-        run: |
-          curl -s -H "PRIVATE-TOKEN: $TOKEN" "$API/repository/files/automation%2Fvalidate.py/raw?ref=main" > validate.py
-          grep -n -i -B3 -A25 "sources section" validate.py | head -90
-          echo "== commits touching validate.py =="
-          curl -s -H "PRIVATE-TOKEN: $TOKEN" "$API/repository/commits?ref_name=main&path=automation/validate.py&per_page=5" | jq -r '.[] | "\(.created_at) \(.title)"'
-          echo "== example live post tail =="
-          curl -s -H "PRIVATE-TOKEN: $TOKEN" "$API/repository/files/content%2Fposts%2Fkorea-climate-card-seoul-tourist-guide.md/raw?ref=main" | tail -25
