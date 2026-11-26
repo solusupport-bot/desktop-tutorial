@@ -1,5 +1,5 @@
 {
-  "lastIndex": 15,
+  "lastIndex": 32,
   "history": [
     {
       "index": 28,
@@ -444,6 +444,24 @@
       "topic": "Convenience store hacks",
       "at": "2026-11-26T06:53:07.029Z",
       "source": "instagram-fill"
+    },
+    {
+      "index": 16,
+      "topic": "Seasonal packing & weather tips",
+      "at": "2026-11-26T06:53:12.438Z",
+      "source": "threads-fill"
+    },
+    {
+      "index": 31,
+      "topic": "Hailing a taxi in Korea: Kakao T vs. street taxis vs. airport 'deluxe' cabs",
+      "at": "2026-11-26T06:53:26.507Z",
+      "source": "threads-fill"
+    },
+    {
+      "index": 32,
+      "topic": "Why Google Maps fails in Korea and how the road-name address system actually works",
+      "at": "2026-11-26T06:53:34.493Z",
+      "source": "threads-fill"
     }
   ],
   "recentImageUrls": [
