@@ -1,5 +1,5 @@
 {
-  "lastIndex": 32,
+  "lastIndex": 33,
   "history": [
     {
       "index": 28,
@@ -462,6 +462,12 @@
       "topic": "Why Google Maps fails in Korea and how the road-name address system actually works",
       "at": "2026-11-26T06:53:34.493Z",
       "source": "threads-fill"
+    },
+    {
+      "index": 33,
+      "topic": "Seoul subway details nobody tells you: exit numbers, transfer walks, express trains, and the last train",
+      "at": "2026-11-26T06:53:43.641Z",
+      "source": "facebook-fill"
     }
   ],
   "recentImageUrls": [
