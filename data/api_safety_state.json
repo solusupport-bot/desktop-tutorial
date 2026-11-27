@@ -151,13 +151,16 @@
     },
     "threads_reply": {
       "attempts": [
-        "2026-11-27T03:12:48.744Z"
+        "2026-11-27T03:12:48.744Z",
+        "2026-11-27T13:02:20.703Z"
       ],
-      "successes": [],
-      "consecutiveFailures": 1,
+      "successes": [
+        "2026-11-27T13:02:20.703Z"
+      ],
+      "consecutiveFailures": 0,
       "blockedUntil": null,
-      "lastAttemptAt": "2026-11-27T03:12:48.744Z",
-      "lastSuccessAt": "2026-11-22T22:45:12.796Z",
+      "lastAttemptAt": "2026-11-27T13:02:20.703Z",
+      "lastSuccessAt": "2026-11-27T13:02:20.703Z",
       "lastFailureAt": "2026-11-27T03:12:48.744Z"
     },
     "facebook_reply": {
