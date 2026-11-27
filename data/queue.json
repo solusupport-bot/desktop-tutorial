@@ -63231,5 +63231,37 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-27T08:17:17.176Z",
     "blogUrl": "https://landinkorea.com/posts/korea-unmanned-kiosk-ordering-in-korea-why-humans-are-disappearing-from-the-counter.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "32d3b74f-72af-41ca-9c73-0cd83b226937",
+    "text": "Don't head to Changdeokgung's Secret Garden without checking the ticket limit first\nGuided tours cap at 100 people, with half sold online six days before at 10 a.m. KST.\nDid you get caught out by sold‑out slots? Save this for your Korea trip.\n\n📖 Open the Land in Korea link in our profile and search “Changdeokgung Secret Garden: how the timed Huwon tickets actually work”.\n\n#KoreaTravel #TravelKorea #SeoulTrip #Changdeokgung #SecretGarden\n\n🎵 \"Anima Pop - Save Me\" by Vienna In Love is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.\n\n🇯🇵 チョンソクゴン秘密の庭園へ行く前にチケットの制限を確認すること!\n\n🇨🇳 去看长德宫秘园前，先确认门票限制！\n\n🇹🇼 去看長德宮秘園前，先確認門票限制！",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1795794334180-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-11-28T00:04:46.149Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-27T15:45:37.016Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g5f4858b27c2710ec2d15be826dbebd3db2cb5bc0e8bdc690fa952ff9e196f82fb0fcedcc8455e1905f5a423b0aa12ccb42aa32c431041cc82997be1d34eae6d5_1280.jpg#pixabay=7490480",
+      "https://pixabay.com/get/g0ee960aa46b3f5a81efcf4f79b8437b3032fecaddb4a4038a992e86c02952bdb00244ada091ded9f243452dc77b23e224097c23fb9ee6b7e50f62ca6f1cf047d_1280.jpg#pixabay=5900902",
+      "https://pixabay.com/get/ga826bb7ced87a90d330fd938f59496adac1cca420e33573ac53862f83ccf3b7376e8cb5113d12cab9b35848d6b5d4c2db63996640bb067199262df78dfd51540_1280.jpg#pixabay=6888333"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Changdeokgung Secret Garden: how the timed Huwon tickets actually work",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련 있는 내용이고 문장이 자연스럽고 완성돼 있으며 가격/시간/운영 여부 등 구체적 사실 주장이 과장되거나 의심스럽지 않습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-27T15:45:00.624Z",
+      "pattern": "A"
+    }
   }
 ]
