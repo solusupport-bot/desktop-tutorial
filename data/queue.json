@@ -62208,5 +62208,95 @@
       "checkedAt": "2026-11-26T16:58:25.775Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-suwon-hwaseong-fortress.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "2c048ced-7b41-49c0-a896-484c196d308e",
+    "text": "Hiking is a mainstream national pastime, not a niche hobby, and several serious peaks sit at the end of a subway or city bus ride — Bukhansan, Dobongsan, Inwangsan and Gwanaksan are all reachable from central Seoul without a car.\n\nTrails are heavily signposted with distance to the summit and numbered emergency markers you can quote to rescue services if something goes wrong.\n\nWeekends, especially in October foliage season, bring serious crowds and queues at summit rock scrambles, so early starts are genuinely worth it.\n\nWorth knowing before you land? Reply with what surprised you.",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-27T06:10:19.812Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-27T00:54:45.699Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Hiking in Korea like a local: subway-accessible peaks, seasonal trail closures, and the gear culture",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq와 Cloudflare 둘 다 실패했습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-27T00:54:39.541Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-27T00:54:45.687Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-hiking-in-korea-like-a-local-subway-accessible-peaks-seasonal-trail-closures-and-the-gear-culture.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "c8a282ee-2b4d-4c27-83a3-3c97af6188ad",
+    "text": "Groceries split between hypermarkets like E-Mart, Homeplus and Lotte Mart, local supermarkets, and traditional markets.\n\nLarge hypermarkets are legally required to close a couple of days each month, historically the second and fourth Sunday, although a number of districts have shifted those closures to weekdays — so check the branch's posted schedule before making a big shopping trip.\n\nTraditional markets are usually cheaper for produce, dried goods and side dishes, often cash-friendly, and many stalls sell in bulk portions sized for families rather than solo shoppers.\n\nDid this trip you up your first time too? Drop a comment.",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-27T06:58:26.107Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-27T00:55:08.566Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Where Koreans actually buy everyday stuff: Daiso vs. Olive Young vs. hypermarkets vs. the traditional market",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq와 Cloudflare 둘 다 실패했습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-27T00:55:01.309Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-27T00:55:08.554Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-where-koreans-actually-buy-everyday-stuff-daiso-vs-olive-young-vs-hypermarkets-vs-the-traditional-market.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "a3f2ea10-5765-44a5-9e04-0bdca6ca8d0e",
+    "text": "Coin lockers at Korean subway stations look like the easy answer — until you actually try to find an empty one on a weekend.\n\nThey're available at most major stations and can be paid for with T-money, but fill up fast on weekends and holidays.\n\nLuggage storage counters near major stations and popular neighborhoods (Myeongdong, Hongdae) can hold bags for a full day at a flat rate. How much did this actually cost you on your trip?\n\n🇯🇵 韓国の駅のコインロッカーはTマネーで利用可ですが、週末はすぐ埋まります。\n\n🇨🇳 韩国地铁的投币柜可用T‑money付费，但周末很快满额。\n\n🇹🇼 韓國地鐵的投幣櫃可用T‑money付費，但週末很快滿額。",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-27T07:48:02.719Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-27T00:56:36.034Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Luggage storage & forwarding services",
+    "qualityGate": {
+      "pass": false,
+      "reason": "첫 줄 규칙 위반: threads: 최근 30일 안에 쓴 첫 줄 재사용",
+      "model": "rule",
+      "failedPlatforms": [
+        "threads"
+      ],
+      "checkedAt": "2026-11-27T00:55:12.258Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-27T00:56:36.022Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-luggage-storage-forwarding-services.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
