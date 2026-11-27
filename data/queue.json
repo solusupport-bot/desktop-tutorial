@@ -62253,8 +62253,12 @@
       "threads"
     ],
     "scheduledAt": "2026-11-26T17:28:45.765Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18127692172926212"
+      }
+    },
     "createdAt": "2026-11-26T16:58:29.755Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -62273,7 +62277,8 @@
       ],
       "checkedAt": "2026-11-26T16:58:25.775Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-suwon-hwaseong-fortress.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-suwon-hwaseong-fortress.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-27T21:37:06.912Z"
   },
   {
     "id": "2c048ced-7b41-49c0-a896-484c196d308e",
