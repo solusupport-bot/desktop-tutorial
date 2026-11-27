@@ -60660,7 +60660,7 @@
       "threads"
     ],
     "scheduledAt": "2026-11-26T05:18:13.173Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-26T02:06:22.683Z",
     "approved": true,
