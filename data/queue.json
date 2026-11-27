@@ -60622,8 +60622,12 @@
       "threads"
     ],
     "scheduledAt": "2026-11-26T05:32:17.593Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18201401098400430"
+      }
+    },
     "createdAt": "2026-11-26T02:05:36.193Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -60650,7 +60654,8 @@
       "pattern": "B",
       "checkedAt": "2026-11-26T02:04:47.597Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-suwon-hwaseong-fortress.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-suwon-hwaseong-fortress.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-27T03:52:03.588Z"
   },
   {
     "id": "c01517cb-de83-417c-8c35-c5c42c6b8a7e",
@@ -61361,8 +61366,13 @@
       "bluesky"
     ],
     "scheduledAt": "2026-11-27T03:02:38.909Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3n3bbxv63ks2i",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3n3bbxv63ks2i"
+      }
+    },
     "createdAt": "2026-11-26T08:12:54.751Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -61378,7 +61388,8 @@
       "model": "groq",
       "checkedAt": "2026-11-26T08:12:49.586Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-eating-alone-in-korea-which-restaurants-refuse-solo-diners-and-where-honbap-works.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-eating-alone-in-korea-which-restaurants-refuse-solo-diners-and-where-honbap-works.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-27T03:52:04.733Z"
   },
   {
     "id": "d5ad65df-6095-4fe6-a2e1-7b5bedc5bdad",
