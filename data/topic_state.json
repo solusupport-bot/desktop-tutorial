@@ -1,12 +1,6 @@
 {
-  "lastIndex": 17,
+  "lastIndex": 18,
   "history": [
-    {
-      "index": 17,
-      "topic": "Luggage storage & forwarding services",
-      "at": "2026-11-25T09:41:25.503Z",
-      "source": "threads-fill"
-    },
     {
       "index": 18,
       "topic": "KTX vs. SRT vs. intercity bus for long-distance travel",
@@ -1200,6 +1194,12 @@
       "topic": "Luggage storage & forwarding services",
       "at": "2026-11-27T12:52:27.107Z",
       "source": "instagram-fill"
+    },
+    {
+      "index": 18,
+      "topic": "KTX vs. SRT vs. intercity bus for long-distance travel",
+      "at": "2026-11-27T12:52:35.566Z",
+      "source": "facebook-fill"
     }
   ],
   "recentImageUrls": [
