@@ -62677,5 +62677,68 @@
     },
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-27T06:54:10.573Z"
+  },
+  {
+    "id": "fa96c2e5-369e-4915-8f26-f0895b1ee5c9",
+    "text": "Thinking of taking the AREX airport railway from Incheon to Seoul Station and wondering if it's really the cheapest option?\n\nIt's not always the best deal once you count your luggage - the AREX express train to Seoul Station costs ₩13,000 for adults and takes about 43 minutes from Terminal 1.\n\nBut if you're traveling with heavy bags, the Airport limousine bus might be a better choice, especially if you're headed to a specific neighborhood or hotel. And don't forget to check the AREX all-stop train, which costs roughly ₩4,150-4,750 with a transit card and takes about 59 minutes - less than a third of the express fare. Did you choose the AREX express train or the all-stop train for your last trip to Seoul?\n\n🇯🇵 AREX快速列車は実際には最安値ではありません。\n\n🇨🇳 AREX快速列车并不是最便宜的选项。\n\n🇹🇼 AREX快速列車並不是最便宜的選項。",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-27T07:30:14.207Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-27T07:09:17.925Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Airport transfer options",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련성이 높고 문장이 자연스럽으며 사실도 정확하고 여행자에게 유용합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-27T07:08:22.624Z",
+      "pattern": "B"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-airport-transfer-options.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "b2e3fca8-623d-4965-954c-3eef102c69b2",
+    "text": "Don't hand your card to an older Korean with one hand at a restaurant and a single finger pointing at the menu, and they might think you're being slightly rude. 1/5\n\nYou can avoid this by using both hands or supporting your arm when handing them your card. This small gesture is well received. In fact, it's common to pour drinks for others rather than yourself at a shared meal, and to wait for the eldest or host to start eating first.\n\nWhen on public transit, try to keep phone calls short or step off first to avoid disturbing others. This is a common courtesy in Korea. Have you ever been in a situation where you accidentally offended someone unintentionally? Open the Land in Korea link in our profile for more tips on first-timer etiquette and common mistakes.\n\n🇯🇵 手渡するときは両手で持って、手首を支えると丁寧な印象を与える\n\n🇨🇳 饭店里不要用一只手递卡片，指向菜单，可能会被误解为轻蔑\n\n🇹🇼 在餐廳不要用一隻手遞卡片，指向菜單，可能會被誤解為輕蔑",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-27T22:08:04.922Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-27T07:09:38.700Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "First-timer etiquette & common mistakes",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: [object Object] | [object Object] | [object Object] | [object Object] | [object Object] | [object Object] | [object Object]",
+      "failedPlatforms": [
+        "facebook",
+        "instagram",
+        "bluesky",
+        "mastodon",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "A",
+      "checkedAt": "2026-11-27T07:09:37.360Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-first-timer-etiquette-common-mistakes.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
