@@ -62641,5 +62641,41 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-27T05:04:39.006Z",
     "blogUrl": "https://landinkorea.com/posts/korea-christmas-in-korea-a-couples-holiday-light-displays-and-what-stays-open-on-december-25.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "405d228d-3c0b-48ac-94cb-25c2fb1bf745",
+    "text": "Bongeunsa's schedule has lights out at 9 p.\n\nOvernight stays follow the monastic day.\n\nDone any of these? Comment your story below.\n\n📖 Open the Land in Korea link in our profile and search “Templestay in Korea: booking on templestay.com, day vs overnight programs, and 108 bows at Seoul temples”.\n\n#KoreaTravel #SeoulTrip #KoreaTips #TravelKorea #VisitSeoul\n\n🎵 \"Anima Pop - Ink\" by Vienna In Love is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.\n\n🇯🇵 봉은사에서는 밤 9시부터 불이 꺼집니다. \n\n 체류 기간 동안 수도원 생활에 맞춰서 지내야 합니다.\n\n 이 경험을 한 적 있으세요? \n\n 아래에 댓글로 자신의 이야기 적어주세요!\n\n 📖 프로필에 있는 Land in Korea의 링크를 열고 \"Seoul의 사찰체험: templestay.com에서 예약, 일일 프로그램 vs 체류 프로그램, 서울 사찰의 108 번 절을\" 검색해 보세요.\n\n #KoreaTravel #SeoulTrip #KoreaTips #TravelKorea #VisitSeoul\n\n🇨🇳 奉恩寺的开放时间是9点后关灯。\n\n住宿期间，按照修道生活的日程进行。\n\n你有过这样的经历吗？\n\n在下面留言你的故事。\n\n 📖在我们账号里的Land in Korea的链接里，搜索\"韩国寺庙体验: templestay.com预订, 日间程序 vs 宿夜程序, 首尔寺庙的108个礼拜\"。\n\n #KoreaTravel #SeoulTrip #KoreaTips #TravelKorea #VisitSeoul\n\n🇹🇼 奉恩寺的開放時間是9點後關燈。\n\n住宿期間，按照修道生活的日程進行。\n\n你有過這樣的經歷嗎？\n\n在下面留言你的故事。\n\n 📖在我們帳號里的Land in Korea的連結里，搜尋\"韓國寺庙體驗: templestay.com預訂, 日間程序 vs 宿夜程序, 首爾寺庙的108個禮拜\"。\n\n #KoreaTravel #SeoulTrip #KoreaTips #TravelKorea #VisitSeoul",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1795762447448-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-11-27T07:43:02.500Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-27T06:54:10.590Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/gc02036e01fbf8f71a1cb5459d3e8e8e996b52938046075bba1e9ea2dd9e85935b9795fa391f3536eafd9ff0bb341c1d29542ac9c388ee0d79b6729f85bfad879_1280.jpg#pixabay=2473459",
+      "https://pixabay.com/get/g434c464e61de7762485bf2c62c865ae14fb0c813790fd975ad571b1b6dc2e2318231f76f8632b93f6431da4b6fcc2cd03872f547c4b2ac60a49eaefb989ba6aa_1280.jpg#pixabay=6539678",
+      "https://pixabay.com/get/g508a299b796b84430caa39fd09dcb659993fb75943d8ba28b743bdbe37965657cfee06f2acd7561319e40f5c05aa27638251e823fa1a8aecccd784038076e798_1280.jpg#pixabay=1757270"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Templestay in Korea: booking on templestay.com, day vs overnight programs, and 108 bows at Seoul temples",
+    "qualityGate": {
+      "pass": false,
+      "reason": "첫 줄 규칙 위반: instagram: 최근 30일 안에 쓴 첫 줄 재사용",
+      "model": "rule",
+      "failedPlatforms": [
+        "instagram"
+      ],
+      "checkedAt": "2026-11-27T06:53:04.088Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-27T06:54:10.573Z"
   }
 ]
