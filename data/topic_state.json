@@ -1,5 +1,5 @@
 {
-  "lastIndex": 7,
+  "lastIndex": 25,
   "history": [
     {
       "index": 28,
@@ -1104,6 +1104,36 @@
       "topic": "T-money transit card",
       "at": "2026-11-27T03:54:55.790Z",
       "source": "facebook-fill"
+    },
+    {
+      "index": 8,
+      "topic": "Tax refund (Tax Free) shopping",
+      "at": "2026-11-27T04:53:43.614Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 9,
+      "topic": "Travel advisories & safety notices",
+      "at": "2026-11-27T04:54:50.195Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 23,
+      "topic": "Insadong traditional culture street",
+      "at": "2026-11-27T04:55:28.854Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 24,
+      "topic": "Everland vs. Lotte World theme parks",
+      "at": "2026-11-27T04:56:11.919Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 25,
+      "topic": "Hongdae nightlife and youth culture district",
+      "at": "2026-11-27T04:58:37.950Z",
+      "source": "instagram-fill"
     }
   ],
   "recentImageUrls": [
