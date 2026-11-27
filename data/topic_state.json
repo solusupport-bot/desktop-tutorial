@@ -1,12 +1,6 @@
 {
-  "lastIndex": 31,
+  "lastIndex": 32,
   "history": [
-    {
-      "index": 13,
-      "topic": "Emergency numbers & 24hr pharmacies",
-      "at": "2026-11-26T06:52:33.668Z",
-      "source": "instagram-fill"
-    },
     {
       "index": 14,
       "topic": "Useful travel apps",
@@ -1200,6 +1194,12 @@
       "topic": "Hailing a taxi in Korea: Kakao T vs. street taxis vs. airport 'deluxe' cabs",
       "at": "2026-11-27T08:00:00.046Z",
       "source": "instagram-fill"
+    },
+    {
+      "index": 32,
+      "topic": "Why Google Maps fails in Korea and how the road-name address system actually works",
+      "at": "2026-11-27T08:01:17.026Z",
+      "source": "facebook-fill"
     }
   ],
   "recentImageUrls": [
