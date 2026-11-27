@@ -62253,7 +62253,7 @@
       "threads"
     ],
     "scheduledAt": "2026-11-26T17:28:45.765Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-26T16:58:29.755Z",
     "approved": true,
