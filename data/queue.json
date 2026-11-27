@@ -63263,5 +63263,37 @@
       "checkedAt": "2026-11-27T15:45:00.624Z",
       "pattern": "A"
     }
+  },
+  {
+    "id": "5959c2e4-fe9c-4766-93eb-49b421937e85",
+    "text": "Jeju Island isn't reachable by train or the KTX network at all — it's a flight or a long ferry, which surprises visitors used to mainland Korea's rail coverage.\n\nIt's a volcanic island known for Hallasan (South Korea's tallest mountain), black sand beaches, and a noticeably different local dialect.\n\nSave this guide — trust me on this one.\n\n📖 Open the Land in Korea link in our profile and search “Jeju Island”.\n\n#KoreaTravel #SeoulTrip #KoreaTips #TravelKorea #VisitSeoul\n\n🎵 \"Acoustic - NG4C\" by NG4C - Audio Production is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1795802908994-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-11-27T22:27:29.096Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-27T18:08:43.249Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g8449cdd02db324d3fc131b268da66b059dde6a0d2b4745a72868ff550d98beb3585421a2ec731b7531aee0225a2986b185e38123e64b738f0ef6700d3d5dfe0c_1280.jpg#pixabay=4886405",
+      "https://pixabay.com/get/g9453eb9a6db63e1638a891004e419f06f4335656dc729b3737b01ab0b9216dd38a65c3fd34b650078f1a4beea83e335258819f0fb40a7fda4086aaa92cdd811d_1280.jpg#pixabay=5969136"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Jeju Island",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq와 Cloudflare 둘 다 실패했습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-27T18:08:14.440Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-27T18:08:43.231Z"
   }
 ]
