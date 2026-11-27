@@ -1,12 +1,6 @@
 {
-  "lastIndex": 9,
+  "lastIndex": 23,
   "history": [
-    {
-      "index": 9,
-      "topic": "Travel advisories & safety notices",
-      "at": "2026-11-26T01:53:52.700Z",
-      "source": "instagram-fill"
-    },
     {
       "index": 23,
       "topic": "Insadong traditional culture street",
@@ -1200,6 +1194,12 @@
       "topic": "Travel advisories & safety notices",
       "at": "2026-11-27T18:08:59.907Z",
       "source": "instagram-fill"
+    },
+    {
+      "index": 23,
+      "topic": "Insadong traditional culture street",
+      "at": "2026-11-27T18:09:09.817Z",
+      "source": "facebook-fill"
     }
   ],
   "recentImageUrls": [
