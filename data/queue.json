@@ -60791,8 +60791,12 @@
       "threads"
     ],
     "scheduledAt": "2026-11-26T15:18:18.888Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18111748076300436"
+      }
+    },
     "createdAt": "2026-11-26T04:06:54.722Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -60809,7 +60813,8 @@
       "checkedAt": "2026-11-26T04:06:39.965Z",
       "pattern": "A"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-hailing-a-taxi-in-korea-kakao-t-vs-street-taxis-vs-airport-deluxe-cabs.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-hailing-a-taxi-in-korea-kakao-t-vs-street-taxis-vs-airport-deluxe-cabs.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-27T09:47:55.821Z"
   },
   {
     "id": "6de11bc9-3d4a-4e63-8fe9-42f7c50b7cf1",
@@ -61182,8 +61187,13 @@
       "tumblr"
     ],
     "scheduledAt": "2026-11-27T05:44:35.925Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "tumblr": {
+        "id": "834428339288735744",
+        "url": "https://landinkorea.tumblr.com/post/834428339288735744"
+      }
+    },
     "createdAt": "2026-11-26T08:08:13.352Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -61200,7 +61210,8 @@
       "checkedAt": "2026-11-26T08:06:57.612Z",
       "pattern": "A"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-short-term-vs-long-term-housing-in-korea-guesthouse-goshiwon-officetel-and-the-deposit-system.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-short-term-vs-long-term-housing-in-korea-guesthouse-goshiwon-officetel-and-the-deposit-system.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-27T09:47:56.294Z"
   },
   {
     "id": "5b52155a-fdf5-4aba-bebf-67334225b6d6",
