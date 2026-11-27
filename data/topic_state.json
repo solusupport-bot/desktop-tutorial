@@ -1,36 +1,6 @@
 {
-  "lastIndex": 66,
+  "lastIndex": 3,
   "history": [
-    {
-      "index": 66,
-      "topic": "Ttareungyi, Seoul's public bike: buying a pass as a visitor and riding the Han River paths",
-      "at": "2026-11-25T16:54:32.775Z",
-      "source": "facebook-fill"
-    },
-    {
-      "index": 22,
-      "topic": "Jjimjilbang etiquette",
-      "at": "2026-11-25T18:53:07.020Z",
-      "source": "facebook-fill"
-    },
-    {
-      "index": 0,
-      "topic": "Gyeongbokgung Palace",
-      "at": "2026-11-25T19:54:27.265Z",
-      "source": "facebook-fill"
-    },
-    {
-      "index": 1,
-      "topic": "Bukchon Hanok Village",
-      "at": "2026-11-25T21:49:57.488Z",
-      "source": "facebook-fill"
-    },
-    {
-      "index": 2,
-      "topic": "N Seoul Tower (Namsan)",
-      "at": "2026-11-25T22:24:22.935Z",
-      "source": "facebook-fill"
-    },
     {
       "index": 3,
       "topic": "Myeongdong shopping district",
@@ -1200,6 +1170,36 @@
       "topic": "Ttareungyi, Seoul's public bike: buying a pass as a visitor and riding the Han River paths",
       "at": "2026-11-27T15:48:17.628Z",
       "source": "facebook-fill"
+    },
+    {
+      "index": 22,
+      "topic": "Jjimjilbang etiquette",
+      "at": "2026-11-27T16:53:51.660Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 0,
+      "topic": "Gyeongbokgung Palace",
+      "at": "2026-11-27T16:55:00.023Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 1,
+      "topic": "Bukchon Hanok Village",
+      "at": "2026-11-27T16:55:15.541Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 2,
+      "topic": "N Seoul Tower (Namsan)",
+      "at": "2026-11-27T16:55:26.253Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 3,
+      "topic": "Myeongdong shopping district",
+      "at": "2026-11-27T16:55:44.720Z",
+      "source": "instagram-fill"
     }
   ],
   "recentImageUrls": [
