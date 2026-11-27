@@ -60622,7 +60622,7 @@
       "threads"
     ],
     "scheduledAt": "2026-11-26T05:32:17.593Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-26T02:05:36.193Z",
     "approved": true,
@@ -61361,7 +61361,7 @@
       "bluesky"
     ],
     "scheduledAt": "2026-11-27T03:02:38.909Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-26T08:12:54.751Z",
     "approved": true,
