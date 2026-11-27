@@ -1,36 +1,6 @@
 {
-  "lastIndex": 18,
+  "lastIndex": 60,
   "history": [
-    {
-      "index": 18,
-      "topic": "KTX vs. SRT vs. intercity bus for long-distance travel",
-      "at": "2026-11-25T09:41:38.707Z",
-      "source": "facebook-fill"
-    },
-    {
-      "index": 20,
-      "topic": "Trash and recycling rules for residents",
-      "at": "2026-11-25T10:54:24.671Z",
-      "source": "instagram-fill"
-    },
-    {
-      "index": 19,
-      "topic": "Namdaemun Market",
-      "at": "2026-11-25T10:59:25.803Z",
-      "source": "instagram-fill"
-    },
-    {
-      "index": 21,
-      "topic": "DMZ and JSA tours",
-      "at": "2026-11-25T11:02:21.099Z",
-      "source": "instagram-fill"
-    },
-    {
-      "index": 57,
-      "topic": "Korean winter street food: bungeoppang, hotteok, and where the stalls went",
-      "at": "2026-11-25T11:04:11.751Z",
-      "source": "instagram-fill"
-    },
     {
       "index": 60,
       "topic": "Shipping souvenirs home from a Korean post office: EMS, small packets, and sea mail",
@@ -1200,6 +1170,36 @@
       "topic": "KTX vs. SRT vs. intercity bus for long-distance travel",
       "at": "2026-11-27T12:52:35.566Z",
       "source": "facebook-fill"
+    },
+    {
+      "index": 20,
+      "topic": "Trash and recycling rules for residents",
+      "at": "2026-11-27T13:53:37.016Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 19,
+      "topic": "Namdaemun Market",
+      "at": "2026-11-27T13:55:55.655Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 21,
+      "topic": "DMZ and JSA tours",
+      "at": "2026-11-27T13:56:52.765Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 57,
+      "topic": "Korean winter street food: bungeoppang, hotteok, and where the stalls went",
+      "at": "2026-11-27T13:59:46.712Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 60,
+      "topic": "Shipping souvenirs home from a Korean post office: EMS, small packets, and sea mail",
+      "at": "2026-11-27T14:01:20.409Z",
+      "source": "instagram-fill"
     }
   ],
   "recentImageUrls": [
