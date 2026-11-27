@@ -1,12 +1,6 @@
 {
-  "lastIndex": 42,
+  "lastIndex": 43,
   "history": [
-    {
-      "index": 55,
-      "topic": "Mobile payments in Korea: Kakao Pay, Naver Pay, and why Apple Pay doesn’t work",
-      "at": "2026-11-25T07:56:52.408Z",
-      "source": "facebook-fill"
-    },
     {
       "index": 56,
       "topic": "Public bathhouse culture in Korea beyond the jjimjilbang: the mogyoktang rules",
@@ -1200,6 +1194,12 @@
       "topic": "Cafes as workspaces in Korea: unspoken rules of study cafes, franchise chains, and 'no-laptop' signs",
       "at": "2026-11-27T09:56:35.130Z",
       "source": "instagram-fill"
+    },
+    {
+      "index": 43,
+      "topic": "Bus travel inside Korean cities: color codes, tag-off transfers, and why you must flag the bus",
+      "at": "2026-11-27T09:57:18.034Z",
+      "source": "facebook-fill"
     }
   ],
   "recentImageUrls": [
