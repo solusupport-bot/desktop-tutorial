@@ -62514,5 +62514,109 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-27T03:54:53.699Z",
     "blogUrl": "https://landinkorea.com/posts/korea-esim-mobile-data.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "9779620c-af0f-4cb9-af46-6d7ae6bc011f",
+    "text": "Don't book Nami Island and Petite France as a combined tour yet if you're planning a weekday visit in spring or autumn.\n\nThe trip runs about 1 to 1.5 hours each way from central Seoul, making it a full-day commitment rather than a quick add-on.\n\nWeekday visits noticeably cut down on the crowds along the main paths. One thing to keep in mind: public transport connections between Nami Island and Petite France aren't direct. Did this confuse you too?\n\n🇯🇵 ナミアイランドとピッテ・フランスを合わせたツアーを予約する前に、週末ではなく、春または秋の平日を考慮すること。\n\n🇨🇳 如果您计划在春天或秋天的工作日前往，千万不要将纳米岛和小法国村作为一日游的组合包。\n\n🇹🇼 如果您計劃在春天或秋天的工作日前往，千萬不要將納米島和小法國村作為一日遊的合包。",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795755657443-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795755657443-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-27T17:16:23.317Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-27T05:00:59.048Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g53990b1ccbcde2a329cb1e1655beeda9c9bc35684a675c096d13dc64fa380e95404e35a550d176586ff2f616165194d138fedc2a8eec08ed3726aac8b1b2c7ea_1280.jpg#pixabay=3133735"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Nami Island and Petite France day trip",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: instagram: payoff - the post promises 'More tips on the blog' but doesn't deliver, the link is in the bio but that's not enough. | facebook: payoff - the post mentions a 'Full guide' but doesn't provide it, instead links to the guide. | mastodon: payoff - the post promises a 3-4 hour round trip but doesn't mention the time it takes each way, which is an important detail. | tumblr: payoff - the post mentions a 3-4 hour round trip but doesn't mention the time it takes each way, which is an important detail. | instagram: reaction - the 'Save this for your Korea trip!' is a generic engagement bait. | facebook: reaction - the '📖 Full guide: [LINK]' is a generic engagement bait. | mastodon: reaction - the 'Did this confuse you too?' is a generic engagement bait. | tumblr: reaction - the 'Save this for your Korea trip!' is a generic engagement bait. | bluesky: pattern - the hook is more of a contrarian take (C) rather than a warning that stops an action (A) | instagram: pattern - the hook is more of a planning question (O) rather than a warning that stops an action (A) | facebook: pattern - the hook is more of a planning question (O) rather than a warning that stops an action (A) | mastodon: pattern - the hook is more of a planning question (O) rather than a warning that stops an action (A) | tumblr: pattern - the hook is more of a planning question (O) rather than a warning that stops an action (A) | bluesky: payoff - the post promises a 1 to 1.5 hour one-way trip but doesn't deliver, it's an important detail. | instagram: payoff - the post promises a 3-4 hour round trip but doesn't deliver, it's an important detail. | facebook: payoff - the post promises a 3-4 hour round trip but doesn't deliver, it's an important detail. | mastodon: payoff - the post promises a 3-4 hour round trip but doesn't deliver, it's an important detail. | tumblr: payoff - the post promises a 3-4 hour round trip but doesn't deliver, it's an important detail.",
+      "failedPlatforms": [
+        "instagram",
+        "facebook",
+        "mastodon",
+        "tumblr",
+        "bluesky"
+      ],
+      "model": "groq",
+      "pattern": "A",
+      "checkedAt": "2026-11-27T05:00:08.309Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-nami-island-and-petite-france-day-trip.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "658413b1-f24a-4b70-bd7c-3310f0f35c8e",
+    "text": "Walking the Suwon Hwaseong Fortress wall and expecting to finish in under 2 hours, and then getting frustrated when you realize you've been walking for 4 hours already.\n\nThe full wall walk covers 5.7 kilometers with gates, command posts, and watchtowers along the way.\n\nOne practical tip is to check the Suwon Hwaseong Fortress map and plan your route in advance to avoid getting lost. Be aware that the fortress is a UNESCO World Heritage site and has strict rules against touching or damaging the walls and structures. Did this confuse you too?\n\n🇯🇵 Suwon Hwaseong Fortressの壁を歩きながら、2時間以内に終わると予想したが、実際には4時間も歩いていた。\n\n🇨🇳 在Suwon Hwaseong Fortress的长墙上散步，预计2小时内完成，但实际上走了4小时。\n\n🇹🇼 在水原壽城的城牆上散步，預計2小時內完成，但實際上走了4小時。",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795755835688-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795755835688-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-27T23:46:54.627Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-27T05:04:12.979Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g1680e365622a8505b0ea7f8b1f4a4c61bd257f2252e8ba8e92df7cbc38b5732fcc5f1d12f5f4117f13944d647910ea254a363d85825c53c1c1c01a9bd337a631_1280.jpg#pixabay=4334117",
+      "https://pixabay.com/get/g4df57a6bcfbbedd2764c21c5cc5619a61dbead06d4aa6a3d076f4d3e4788acee5a9044167ca7150e6694f9e30411eaa0b3c3e36e25f7933b1c84563b46894fdd_1280.jpg#pixabay=4593383",
+      "https://pixabay.com/get/g02f99568b14b59a3924364aff16b2d08fcceef7a1653fdda9ae518dcf22c412c391d69010530e2bb4dc925882e64277d158451c19f6d9915adc58c35fe741ddd_1280.jpg#pixabay=3407647"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Suwon Hwaseong Fortress",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련되고 문장이 자연스러우며 사실도 정확하고 유용한 정보가 포함돼 있다.",
+      "model": "groq",
+      "checkedAt": "2026-11-27T05:03:06.632Z",
+      "pattern": "A"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-suwon-hwaseong-fortress.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "2bb7714d-c68c-4a12-b789-3c5ab49d0ff8",
+    "text": "Are there any Christmas lights in Myeongdong on December 25?\n\nNo, every Seoul palace is open on December 25 since palace closing days are Monday or Tuesday.\n\nThis means you can visit Gyeongbokgung Palace or Changdeokgung Palace on Christmas Day. Make sure to check the palace hours before heading out. What's your favorite palace to visit in Seoul?\n\n🇯🇵 クリスマスに宮殿を訪れることができる!\n\n🇨🇳 12月25日宫殿开放，宫殿关闭日是周一或周二！\n\n🇹🇼 12月25日宮殿开放，宮殿關閉日是星期一或星期二！",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-27T08:27:27.424Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-27T05:04:39.020Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Christmas in Korea: a couples' holiday, light displays, and what stays open on December 25",
+    "qualityGate": {
+      "pass": false,
+      "reason": "캡션은 주제에 명확히 관련이 없으며, 자연스럽지 않다.",
+      "model": "groq",
+      "checkedAt": "2026-11-27T05:04:28.914Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-27T05:04:39.006Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-christmas-in-korea-a-couples-holiday-light-displays-and-what-stays-open-on-december-25.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
