@@ -62298,5 +62298,104 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-27T00:56:36.022Z",
     "blogUrl": "https://landinkorea.com/posts/korea-luggage-storage-forwarding-services.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "b53c1482-393b-4eae-87a4-a915f0337e70",
+    "text": "You're about to sit down at Gwangjang Market and order a platter, but how do you know what you're getting? and The problem is, some stalls don't even display the price before you sit down. and The worst part is, you might end up overpaying for a few pieces of food. and The fix is simple: always read the posted price before sitting down, and ask about portions on mixed platters. and Did this confuse you too? and The next time you're at Gwangjang, order dish by dish and check your bill. and Save this for your Korea trip. and Open the Land in Korea link in the profile for more tips.\n\n🇯🇵 食べ物を注文する前に価格を確認しましょう。\n\n🇨🇳 在座之前先确认价格，\n\n🇹🇼 在座之前先確認價格，",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-27T19:39:32.932Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-27T02:08:48.559Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Gwangjang Market: what to eat, when stalls close, and how to avoid overpaying",
+    "qualityGate": {
+      "pass": false,
+      "reason": "캡션은 주제에 관련이 있지만 문장이 자연스럽고 완성되지 않았으며, 가격/시간/운영 여부 등 구체적 사실 주장이 과장되거나 의심스럽지 않다",
+      "model": "groq",
+      "checkedAt": "2026-11-27T02:07:52.921Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-27T02:08:48.534Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-gwangjang-market-what-to-eat-when-stalls-close-and-how-to-avoid-overpaying.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "33938651-578c-46da-bc52-672a38fd707c",
+    "text": "Changdeokgung's Secret Garden (Huwon) can only be seen on guided, timed sessions capped at 100 people - half sold online, half on site on the day.\n\nOnline booking opens at 10 a.\n\nm. Anyone else lose money on this mistake?\n\n🇯🇵 昌徳宮秘苑(後園)はガイド付き、時間指定のセッションに限られ、100人以内に限定されます - オンラインで半分、当日現地で半分のチケットが販売されています。オンライン予約は10時から始まります。\n\n🇨🇳 昌德宫秘苑（后园）仅限导游时间指定的参观，人数限制在100人以内 - 在线销售半数，现场销售半数的票券。\n\n🇹🇼 昌德宮秘苑（後園）僅限導遊時間指定的參觀，人數限制在100人以內 - 線上銷售半數，現場銷售半數的票券。",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795745399436-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795745399436-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-27T19:10:05.724Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-27T02:10:21.973Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/gfa2bb82474eb3f72840e61c5a9837ccfacaebf3f9d0f7a50e0f36482a334949992ac0f9dd907283ff90f67bd850e861f929c6530af34f132ea06f7c3ab569bfc_1280.jpg#pixabay=7490473",
+      "https://pixabay.com/get/geaefcb1570dfbe25b8cd1b3cc4f254404b00a6ef062605c70aa197a78e10446bb4c3f020ebfa2d196e1ba8ed936c6e7b1538e5c97c7f0f81e0fb5ce8214348aa_1280.jpg#pixabay=599206",
+      "https://pixabay.com/get/g5b02778a3f826502fd6d21baa364dae9c6936b68fed148e5f1d4b624786ac9cb6272f4c602befc24e9a251b2da3d6c8b16000414e67485a3b70f1362410e30e1_1280.jpg#pixabay=7588619"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Changdeokgung Secret Garden: how the timed Huwon tickets actually work",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 관련이 있고 문장이 자연스럽게 완성돼 있으며 가격/시간/운영 여부 등 사실 주장이 과장되지 않습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-27T02:09:36.439Z",
+      "pattern": "E"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-changdeokgung-secret-garden-how-the-timed-huwon-tickets-actually-work.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "542d74a8-14ff-418b-8c9c-d7123db03efb",
+    "text": "Don't plan a Gyeongju day trip without knowing the free attractions first, and you might end up wasting ₩3,000 on a single tomb. The Daereungwon's park of 23 royal mounds is free, and Cheomseongdae observatory is just 670 meters away. The 890 meters to Donggung Palace and Wolji Pond is a bit of a hike, but it's worth it for the nighttime views. Don't forget to take the free bus to Bulguksa and Seokguram since May 2023. What's your favorite free attraction in Gyeongju?\n\n🇯🇵 Gyeongjuの1日旅行を計画する前に、無料のアトラクションを知っておきましょう。 ₩3,000を1つの墳墓に費やすのを避けるためです。\n\n🇨🇳 去吉州的1天旅行前，先了解吉州的免费景点吧。这样才能避免浪费3000元在一个墓碑上。\n\n🇹🇼 在計畫吉州的1天旅行之前，先了解吉州的免費景點吧。這樣才能避免浪費3000元在一個墓碑上。",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795745571005-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795745571005-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-27T21:55:33.134Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-27T02:13:05.051Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/gc7402c441309897fd7c8803e0186ff02a22fb23b461ee52d3ec3952681aa33b706a7ed47299ed563c3866a26827393ecadf6702f1e395247c492264ea7a1df6d_1280.jpg#pixabay=5213929",
+      "https://pixabay.com/get/g0a4bfdd29a40d63da139d02b0fc84fb1ea83b917bddace5297875a7cd6b5f101e15367353c3d58c289872137796bbd1bc72dfe914256bf1434d70a9eb227b574_1280.jpg#pixabay=1604633",
+      "https://pixabay.com/get/g2540b999a485cbb5016c67bd5bde341db24d23e83d41b3b35a4ecd51972aa149d0695bd533ecfd5ae83a3dd76dcd14daef8d2861a68ebd213a07643d25a5c938_1280.jpg#pixabay=6594754"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Gyeongju from Seoul: the KTX, the bus to Bulguksa, and which tombs to see first",
+    "qualityGate": {
+      "pass": true,
+      "reason": "캡션은 주제와 관련이 있고 자연스럽게 완성된 문장을 사용하고 있으며, 가격/시간/운영 여부 등 구체적 사실 주장을 과장하거나 의심스럽지 않습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-27T02:12:07.568Z",
+      "pattern": "E"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-gyeongju-from-seoul-the-ktx-the-bus-to-bulguksa-and-which-tombs-to-see-first.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
