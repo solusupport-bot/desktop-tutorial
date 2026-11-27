@@ -1,5 +1,5 @@
 {
-  "lastIndex": 6,
+  "lastIndex": 7,
   "history": [
     {
       "index": 28,
@@ -1098,6 +1098,12 @@
       "topic": "eSIM & mobile data",
       "at": "2026-11-27T03:54:43.145Z",
       "source": "threads-fill"
+    },
+    {
+      "index": 7,
+      "topic": "T-money transit card",
+      "at": "2026-11-27T03:54:55.790Z",
+      "source": "facebook-fill"
     }
   ],
   "recentImageUrls": [
