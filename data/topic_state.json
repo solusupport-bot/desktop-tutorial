@@ -1,5 +1,5 @@
 {
-  "lastIndex": 3,
+  "lastIndex": 6,
   "history": [
     {
       "index": 28,
@@ -1080,6 +1080,24 @@
       "topic": "Myeongdong shopping district",
       "at": "2026-11-27T03:53:52.438Z",
       "source": "instagram-fill"
+    },
+    {
+      "index": 4,
+      "topic": "Busan Haeundae Beach & Gamcheon Culture Village",
+      "at": "2026-11-27T03:53:58.435Z",
+      "source": "threads-fill"
+    },
+    {
+      "index": 5,
+      "topic": "Jeju Island",
+      "at": "2026-11-27T03:54:20.536Z",
+      "source": "threads-fill"
+    },
+    {
+      "index": 6,
+      "topic": "eSIM & mobile data",
+      "at": "2026-11-27T03:54:43.145Z",
+      "source": "threads-fill"
     }
   ],
   "recentImageUrls": [
