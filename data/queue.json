@@ -62732,7 +62732,7 @@
       "threads"
     ],
     "scheduledAt": "2026-11-27T07:30:14.207Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-27T07:09:17.925Z",
     "approved": true,
