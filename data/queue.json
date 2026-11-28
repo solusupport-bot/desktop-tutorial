@@ -62465,8 +62465,12 @@
       "threads"
     ],
     "scheduledAt": "2026-11-27T21:55:33.134Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18028056476941032"
+      }
+    },
     "createdAt": "2026-11-27T02:13:05.051Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -62487,7 +62491,8 @@
       "checkedAt": "2026-11-27T02:12:07.568Z",
       "pattern": "E"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-gyeongju-from-seoul-the-ktx-the-bus-to-bulguksa-and-which-tombs-to-see-first.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-gyeongju-from-seoul-the-ktx-the-bus-to-bulguksa-and-which-tombs-to-see-first.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-28T17:05:18.330Z"
   },
   {
     "id": "c4b81e75-09c5-4f2d-8b2d-c1534ca4b92f",
@@ -64450,8 +64455,12 @@
       "instagram"
     ],
     "scheduledAt": "2026-11-28T16:07:33.210Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "instagram": {
+        "id": "18115100435335267"
+      }
+    },
     "createdAt": "2026-11-28T15:26:30.467Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -64470,6 +64479,7 @@
       "model": "groq",
       "checkedAt": "2026-11-28T15:25:12.638Z",
       "pattern": "A"
-    }
+    },
+    "processedAt": "2026-11-28T17:05:47.231Z"
   }
 ]
