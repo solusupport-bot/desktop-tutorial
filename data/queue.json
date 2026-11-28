@@ -62425,8 +62425,12 @@
       "threads"
     ],
     "scheduledAt": "2026-11-27T19:10:05.724Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "threads": {
+        "id": "18018500939965140"
+      }
+    },
     "createdAt": "2026-11-27T02:10:21.973Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -62447,7 +62451,8 @@
       "checkedAt": "2026-11-27T02:09:36.439Z",
       "pattern": "E"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-changdeokgung-secret-garden-how-the-timed-huwon-tickets-actually-work.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-changdeokgung-secret-garden-how-the-timed-huwon-tickets-actually-work.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-28T14:02:59.446Z"
   },
   {
     "id": "542d74a8-14ff-418b-8c9c-d7123db03efb",
