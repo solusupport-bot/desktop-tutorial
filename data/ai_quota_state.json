@@ -3,5 +3,10 @@
     "until": "2026-11-28T03:35:51.861Z",
     "reason": "Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01kzzdmjzveggs757apxyanzes` service tier `on_demand` on tokens per day (TPD): Limit 200000,",
     "markedAt": "2026-11-28T02:35:51.862Z"
+  },
+  "groq:openai/gpt-oss-120b": {
+    "until": "2026-11-28T03:39:28.349Z",
+    "reason": "Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kzzdmjzveggs757apxyanzes` service tier `on_demand` on tokens per day (TPD): Limit 2000",
+    "markedAt": "2026-11-28T02:39:28.350Z"
   }
 }

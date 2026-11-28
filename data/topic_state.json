@@ -1,24 +1,6 @@
 {
-  "lastIndex": 39,
+  "lastIndex": 56,
   "history": [
-    {
-      "index": 39,
-      "topic": "Timing cherry blossoms and fall foliage in Korea without hitting peak crowds",
-      "at": "2026-11-26T12:51:54.453Z",
-      "source": "instagram-fill"
-    },
-    {
-      "index": 54,
-      "topic": "Unmanned kiosk ordering in Korea: why humans are disappearing from the counter",
-      "at": "2026-11-26T12:54:59.598Z",
-      "source": "instagram-fill"
-    },
-    {
-      "index": 55,
-      "topic": "Mobile payments in Korea: Kakao Pay, Naver Pay, and why Apple Pay doesn’t work",
-      "at": "2026-11-26T12:59:16.768Z",
-      "source": "instagram-fill"
-    },
     {
       "index": 56,
       "topic": "Public bathhouse culture in Korea beyond the jjimjilbang: the mogyoktang rules",
@@ -1200,6 +1182,24 @@
       "topic": "Timing cherry blossoms and fall foliage in Korea without hitting peak crowds",
       "at": "2026-11-28T02:35:16.453Z",
       "source": "instagram-fill"
+    },
+    {
+      "index": 54,
+      "topic": "Unmanned kiosk ordering in Korea: why humans are disappearing from the counter",
+      "at": "2026-11-28T02:39:11.501Z",
+      "source": "threads-fill"
+    },
+    {
+      "index": 55,
+      "topic": "Mobile payments in Korea: Kakao Pay, Naver Pay, and why Apple Pay doesn’t work",
+      "at": "2026-11-28T02:40:31.651Z",
+      "source": "threads-fill"
+    },
+    {
+      "index": 56,
+      "topic": "Public bathhouse culture in Korea beyond the jjimjilbang: the mogyoktang rules",
+      "at": "2026-11-28T02:41:02.352Z",
+      "source": "threads-fill"
     }
   ],
   "recentImageUrls": [
