@@ -1,30 +1,6 @@
 {
-  "lastIndex": 0,
+  "lastIndex": 4,
   "history": [
-    {
-      "index": 4,
-      "topic": "Busan Haeundae Beach & Gamcheon Culture Village",
-      "at": "2026-11-26T15:39:04.756Z",
-      "source": "instagram-fill"
-    },
-    {
-      "index": 5,
-      "topic": "Jeju Island",
-      "at": "2026-11-26T15:39:35.888Z",
-      "source": "threads-fill"
-    },
-    {
-      "index": 6,
-      "topic": "eSIM & mobile data",
-      "at": "2026-11-26T15:40:09.356Z",
-      "source": "threads-fill"
-    },
-    {
-      "index": 7,
-      "topic": "T-money transit card",
-      "at": "2026-11-26T15:40:21.977Z",
-      "source": "threads-fill"
-    },
     {
       "index": 8,
       "topic": "Tax refund (Tax Free) shopping",
@@ -1200,6 +1176,30 @@
       "topic": "Gyeongbokgung Palace",
       "at": "2026-11-28T07:02:13.263Z",
       "source": "facebook-fill"
+    },
+    {
+      "index": 1,
+      "topic": "Bukchon Hanok Village",
+      "at": "2026-11-28T07:38:38.397Z",
+      "source": "daily"
+    },
+    {
+      "index": 2,
+      "topic": "N Seoul Tower (Namsan)",
+      "at": "2026-11-28T07:39:41.829Z",
+      "source": "daily"
+    },
+    {
+      "index": 3,
+      "topic": "Myeongdong shopping district",
+      "at": "2026-11-28T07:44:18.913Z",
+      "source": "daily"
+    },
+    {
+      "index": 4,
+      "topic": "Busan Haeundae Beach & Gamcheon Culture Village",
+      "at": "2026-11-28T07:44:56.921Z",
+      "source": "daily"
     }
   ],
   "recentImageUrls": [
@@ -2595,7 +2595,11 @@
     "https://pixabay.com/get/g4a5ed20fedcbe63d1ec7596afd85861bf8646d46984adccf02af0bcaff637bc90af25fa460479499dca9b83dcf73caa9e7b7dcc4461483433cb826368574d78c_1280.jpg#pixabay=1269304",
     "https://pixabay.com/get/g89765cbdd25b74583df258c6db574e9cd6913efa559954b36c767feb3ae4c7290ee3a218c1a11a0fe86271d62447cfb12abbf757686d97849ae8237dfe4981b6_1280.jpg#pixabay=4595787",
     "https://pixabay.com/get/gbd737f13315905b287e80aeccafbc40d4df3b7db5af1bf1dc8770e21172ee412c2748a0b0d34e6033738cda19b18c19b487606bd5fb5b265f81fe3a1873d545a_1280.jpg#pixabay=3463658",
-    "https://pixabay.com/get/ge2e0495fba865336d2263a96cd3a2dbe854bdaf617db6c51e2ddaa2726d4e40c12f841998a3bb7338d6c763d5f54905f9304c9c6e8f738f9ce2b8f98a89ce120_1280.jpg#pixabay=1263139"
+    "https://pixabay.com/get/ge2e0495fba865336d2263a96cd3a2dbe854bdaf617db6c51e2ddaa2726d4e40c12f841998a3bb7338d6c763d5f54905f9304c9c6e8f738f9ce2b8f98a89ce120_1280.jpg#pixabay=1263139",
+    "https://pixabay.com/get/g6d35b0c9507ded55732c7c85519ffbab1d6fa14e78bd841863fa5ffc424e703ea621555e38142d4b2e76bfd18c8854f45427781418e6b7c8e535fa5ef3103e30_1280.jpg#pixabay=4809612",
+    "https://pixabay.com/get/gf1f2aa1a901d62bd1551aa08390f6e7da704d062668dee4fc4432179a009a41760b020cf78b6bfe30d7b0318bd8f4677b6cd7b2b9a522e80339ee03191bc8d85_1280.jpg#pixabay=5430311",
+    "https://pixabay.com/get/g4dc783d67e6fdb024f3f6b6e609172ab5bffe0fc6b6c29d6c66809d5c0172f48d3f73c47091e0cbd37103b6900f6db8c87f0a46fa78a0c75264e81f6610e8af5_1280.jpg#pixabay=5916667",
+    "https://pixabay.com/get/g5eac990e214c7f30b8365bdf41d6a477392a4008baa3bc075169697594641505a00206eff0fc3e988abf8279a1d70ae2eb126a11ed56522b7cc38196a500bf46_1280.jpg#pixabay=5286212"
   ],
   "recentVideoUrls": [
     "https://videos.pexels.com/video-files/19577787/19577787-uhd_2160_3840_30fps.mp4",

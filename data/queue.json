@@ -63755,5 +63755,674 @@
       "pattern": "A"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-jjimjilbang-etiquette.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "00122e44-f6e7-4d9e-8d55-74e293466c85",
+    "text": "Don't visit Bukchon Hanok Village at 9 am if you want a quiet photo experience, and 1/2\nThe sloped alley near Gahoe-dong gets crowded fast in the morning, and 2/2\nYou can avoid the crowds by visiting later in the day or taking a stroll through the quieter alleys, and 3/5\nBe respectful of the residents who live in these traditional hanok houses, and 4/5\nDid you visit Bukchon Hanok Village during peak hours?\n\n🇯🇵 9時から靴をずらさないように訪ねない方がいい\n\n🇨🇳 9点前不要去\n\n🇹🇼 早上9點前不要去",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795851575087-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795851575087-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-29T03:59:45.457Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-28T07:39:41.698Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g6d35b0c9507ded55732c7c85519ffbab1d6fa14e78bd841863fa5ffc424e703ea621555e38142d4b2e76bfd18c8854f45427781418e6b7c8e535fa5ef3103e30_1280.jpg#pixabay=4809612"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Bukchon Hanok Village",
+    "qualityGate": {
+      "pass": false,
+      "reason": "캡션의 문장과 연결이 끊겨 있으며, 일부 문장이 반복되거나 깨져 있습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-28T07:39:11.149Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-28T07:39:41.679Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-bukchon-hanok-village.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "cd3dd32a-994b-45c2-aa64-d97566e2bd2b",
+    "text": "Bukchon Hanok Village has 300 traditional hanok houses, and\nThe sloped alley near Gahoe-dong is a popular photo spot, and\nYou can avoid the crowds by visiting later in the day or taking a stroll through the quieter alleys, and\n📖 Full guide: landinkorea.com\n\n🇯🇵 「韓屋村」は300の伝統的な韓屋を擁しています。スロープのアレイは人気の写真スポットです。避難の方法としては、日中訪問するか、静かなアレイを散策することです。\n\n📖全ガイド：landinkorea.com\n\n🇨🇳 北村韩屋村有300座传统韩屋，并且\n嘉会洞附近的坡道小巷是一个热门的拍照地点，并且\n您可以选择在一天中较晚的时候来游览，或者在较僻静的小巷中漫步，以避开人潮，并且\n📖 完整指南：landinkorea.com\n\n🇹🇼 北村韓屋村有 300 座傳統韓屋，而且\n嘉會洞附近的斜坡小巷是熱門的拍照景點，而且\n您可以選擇在一天稍晚的時候來訪，或在較安靜的小巷中漫步，以避開人潮，而且\n📖 完整指南：landinkorea.com",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795851575087-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795851575087-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-28T23:55:44.438Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-28T07:39:41.734Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g6d35b0c9507ded55732c7c85519ffbab1d6fa14e78bd841863fa5ffc424e703ea621555e38142d4b2e76bfd18c8854f45427781418e6b7c8e535fa5ef3103e30_1280.jpg#pixabay=4809612"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Bukchon Hanok Village",
+    "qualityGate": {
+      "pass": false,
+      "reason": "캡션의 문장과 연결이 끊겨 있으며, 일부 문장이 반복되거나 깨져 있습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-28T07:39:11.149Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-28T07:39:41.719Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-bukchon-hanok-village.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "5a31f974-cf78-4973-b104-fe6608ff1d2b",
+    "text": "Don't visit Bukchon Hanok Village at 9 am if you want a quiet photo experience, and\nThe sloped alley near Gahoe-dong gets crowded fast in the morning, and\nYou can avoid the crowds by visiting later in the day or taking a stroll through the quieter alleys, and\nDid you visit Bukchon Hanok Village during peak hours?\n\n🇯🇵 9時から靴をずらさないように訪ねない方がいい。\n\n🇨🇳 9点前不要去。\n\n🇹🇼 早上9點前不要去。",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795851575087-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795851575087-v0-0.jpg"
+    ],
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-11-29T04:29:56.525Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-28T07:39:41.769Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g6d35b0c9507ded55732c7c85519ffbab1d6fa14e78bd841863fa5ffc424e703ea621555e38142d4b2e76bfd18c8854f45427781418e6b7c8e535fa5ef3103e30_1280.jpg#pixabay=4809612"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Bukchon Hanok Village",
+    "qualityGate": {
+      "pass": false,
+      "reason": "캡션의 문장과 연결이 끊겨 있으며, 일부 문장이 반복되거나 깨져 있습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-28T07:39:11.149Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-28T07:39:41.749Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-bukchon-hanok-village.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "f569cc6a-192a-4837-a9f6-b76ec68f3ed8",
+    "text": "Don't visit Bukchon Hanok Village at 9 am if you want a quiet photo experience, and\nThe sloped alley near Gahoe-dong gets crowded fast in the morning, and\nYou can avoid the crowds by visiting later in the day or taking a stroll through the quieter alleys, and\nBe respectful of the residents who live in these traditional hanok houses, and\n#KoreaTravel #BukchonHanokVillage #TravelTips\n\n🇯🇵 9時から靴をずらさないように訪ねない方がいい、スロープのアレイは朝早くに混雑する。避難の方法としては、日中訪問するか、静かなアレイを散策することです。\n\n#KoreaTravel #BukchonHanokVillage #TravelTips\n\n🇨🇳 如果您想在安静的环境中拍照，就不要在上午9点去北村韩屋村，而且\n嘉会洞附近的坡道小巷早上很快就会变得拥挤，并且\n您可以选择在一天中较晚的时候来游览，或者在更安静的小巷中漫步，以避开人潮，并且\n请尊重居住在这些传统韩屋中的居民，并且\n#韩国旅游 #北村韩屋村 #旅游小贴士\n\n🇹🇼 如果您想在安靜的環境中拍照，就不要在早上 9 點去北村韓屋村，而且\n嘉會洞附近的斜坡小巷早上很快就會變得擁擠，而且\n您可以選擇在稍晚的時候來訪，或在較安靜的小巷中漫步，以避開人潮，而且\n請尊重居住在這些傳統韓屋的居民，並且\n#韓國旅遊 #北村韓屋村 #旅遊小貼士",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795851575087-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795851575087-v0-0.jpg"
+    ],
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-11-29T05:04:07.628Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-28T07:39:41.793Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g6d35b0c9507ded55732c7c85519ffbab1d6fa14e78bd841863fa5ffc424e703ea621555e38142d4b2e76bfd18c8854f45427781418e6b7c8e535fa5ef3103e30_1280.jpg#pixabay=4809612"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Bukchon Hanok Village",
+    "qualityGate": {
+      "pass": false,
+      "reason": "캡션의 문장과 연결이 끊겨 있으며, 일부 문장이 반복되거나 깨져 있습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-28T07:39:11.149Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-28T07:39:41.779Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-bukchon-hanok-village.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "ad402d08-c8b2-4fe2-ba91-45fca33ebab2",
+    "text": "Don't visit Bukchon Hanok Village at 9 am if you want a quiet photo experience - visit the sloped alley near Gahoe-dong later in the day to avoid the crowds. Some practical tips: the village has 300 traditional hanok houses, and the quieter alleys are a great place to explore. Save this for your Korea trip!\n\n🇯🇵 「韓屋村」は300の伝統的な韓屋を擁しています。スロープのアレイは人気の写真スポットです。避難の方法としては、日中訪問するか、静かなアレイを散策することです。\n\n🇨🇳 「韓屋村」有300个传统的韩屋。坡道小巷是人气的摄影点。避难的方法是中午去参观或散步静僻的小巷。\n\n🇹🇼 「韓屋村」有300間傳統的韓屋。坡道小巷是人氣的攝影點。避難的方法是中午去參觀或散步靜僻的小巷。",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795851575087-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795851575087-v0-0.jpg"
+    ],
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-11-29T07:04:09.296Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-28T07:39:41.817Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g6d35b0c9507ded55732c7c85519ffbab1d6fa14e78bd841863fa5ffc424e703ea621555e38142d4b2e76bfd18c8854f45427781418e6b7c8e535fa5ef3103e30_1280.jpg#pixabay=4809612"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Bukchon Hanok Village",
+    "qualityGate": {
+      "pass": false,
+      "reason": "캡션의 문장과 연결이 끊겨 있으며, 일부 문장이 반복되거나 깨져 있습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-28T07:39:11.149Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-28T07:39:41.804Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-bukchon-hanok-village.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "ff56c3a3-6028-46b4-8e8b-8d6e11aaafd1",
+    "text": "The cable car up is optional too; a marked hiking trail from Myeongdong reaches the summit in about 30-40 minutes.\n\nYou don't need the paid observation deck at N Seoul Tower to get a great view of Seoul — the plaza around the tower already sits at the top of Namsan and is free.\n\nThe 'love locks' fence near the base is real and still growing. How much did this actually cost you on your trip?\n\n🇯🇵 ナンサン山の頂上は、無料の広場からも眺めることができます。\n\n🇨🇳 南山顶部的广场是免费的，同样可以看到很好的景色。\n\n🇹🇼 南山頂的廣場是免費的，同樣可以看到很好的景色。",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795851829253-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795851829253-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-28T14:32:25.985Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-28T07:44:18.776Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/gf1f2aa1a901d62bd1551aa08390f6e7da704d062668dee4fc4432179a009a41760b020cf78b6bfe30d7b0318bd8f4677b6cd7b2b9a522e80339ee03191bc8d85_1280.jpg#pixabay=5430311"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "N Seoul Tower (Namsan)",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: facebook: missing payoff, the link doesn't deliver the hiking trail information | instagram: missing payoff, the link doesn't deliver the hiking trail information | instagram: reaction is generic, 'Save this guide' is not tied to the content | bluesky: missing payoff, the link doesn't deliver the hiking trail information | mastodon: missing payoff, the link doesn't deliver the hiking trail information | tumblr: missing payoff, the link doesn't deliver the hiking trail information | instagram: fail generic engagement bait, 'Save this guide' is not tied to the content | bluesky: fail generic engagement bait, 'How much did this actually cost you on your trip?' is not tied to the content | mastodon: fail generic engagement bait, 'How much did this actually cost you on your trip?' is not tied to the content",
+      "failedPlatforms": [
+        "facebook",
+        "instagram",
+        "bluesky",
+        "mastodon",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "D",
+      "checkedAt": "2026-11-28T07:40:50.717Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "15c60c35-ff2c-4026-a472-768ab9225618",
+    "text": "The cable car up is optional too; a marked hiking trail from Myeongdong reaches the summit in about 30-40 minutes.\n\n📖 Full guide: https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post\n\n🇯🇵 ナンサン山の頂上は、無料の広場からも眺めることができます。コストは約₩5,000からですが、無料の広場で眺めることもできます。\n\n🇨🇳 南山顶部的广场是免费的，同样可以看到很好的景色。去南山顶部的费用约为5000韩元，但你可以在免费的广场上看到同样的景色。\n\n🇹🇼 南山頂的廣場是免費的，同樣可以看到很好的景色。去南山頂的費用約為5000韓元，但你可以在免費的廣場上看到同樣的景色。",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795851829253-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795851829253-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-28T10:46:48.419Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-28T07:44:18.814Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/gf1f2aa1a901d62bd1551aa08390f6e7da704d062668dee4fc4432179a009a41760b020cf78b6bfe30d7b0318bd8f4677b6cd7b2b9a522e80339ee03191bc8d85_1280.jpg#pixabay=5430311"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "N Seoul Tower (Namsan)",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: facebook: missing payoff, the link doesn't deliver the hiking trail information | instagram: missing payoff, the link doesn't deliver the hiking trail information | instagram: reaction is generic, 'Save this guide' is not tied to the content | bluesky: missing payoff, the link doesn't deliver the hiking trail information | mastodon: missing payoff, the link doesn't deliver the hiking trail information | tumblr: missing payoff, the link doesn't deliver the hiking trail information | instagram: fail generic engagement bait, 'Save this guide' is not tied to the content | bluesky: fail generic engagement bait, 'How much did this actually cost you on your trip?' is not tied to the content | mastodon: fail generic engagement bait, 'How much did this actually cost you on your trip?' is not tied to the content",
+      "failedPlatforms": [
+        "facebook",
+        "instagram",
+        "bluesky",
+        "mastodon",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "D",
+      "checkedAt": "2026-11-28T07:40:50.717Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-28T07:44:18.795Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "ae5a320d-7960-4989-83e5-2d419297e78b",
+    "text": "The cable car up is optional too; a marked hiking trail from Myeongdong reaches the summit in about 30-40 minutes.\n\nYou don't need the paid observation deck at N Seoul Tower to get a great view of Seoul — the plaza around the tower already sits at the top of Namsan and is free.\n\nThe 'love locks' fence near the base is real and still growing.\n\nHow much did this actually cost you on your trip?\n\n🇯🇵 ナンサン山の頂上は、無料の広場からも眺めることができます。コストは約₩5,000からですが、無料の広場で眺めることもできます。\n\n🇨🇳 南山顶部的广场是免费的，同样可以看到很好的景色。去南山顶部的费用约为5000韩元，但你可以在免费的广场上看到同样的景色。\n\n🇹🇼 南山頂的廣場是免費的，同樣可以看到很好的景色。去南山頂的費用約為5000韓元，但你可以在免費的廣場上看到同樣的景色。",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795851829253-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795851829253-v0-0.jpg"
+    ],
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-11-28T15:06:04.466Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-28T07:44:18.847Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/gf1f2aa1a901d62bd1551aa08390f6e7da704d062668dee4fc4432179a009a41760b020cf78b6bfe30d7b0318bd8f4677b6cd7b2b9a522e80339ee03191bc8d85_1280.jpg#pixabay=5430311"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "N Seoul Tower (Namsan)",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: facebook: missing payoff, the link doesn't deliver the hiking trail information | instagram: missing payoff, the link doesn't deliver the hiking trail information | instagram: reaction is generic, 'Save this guide' is not tied to the content | bluesky: missing payoff, the link doesn't deliver the hiking trail information | mastodon: missing payoff, the link doesn't deliver the hiking trail information | tumblr: missing payoff, the link doesn't deliver the hiking trail information | instagram: fail generic engagement bait, 'Save this guide' is not tied to the content | bluesky: fail generic engagement bait, 'How much did this actually cost you on your trip?' is not tied to the content | mastodon: fail generic engagement bait, 'How much did this actually cost you on your trip?' is not tied to the content",
+      "failedPlatforms": [
+        "facebook",
+        "instagram",
+        "bluesky",
+        "mastodon",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "D",
+      "checkedAt": "2026-11-28T07:40:50.717Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-28T07:44:18.826Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "0829ace3-295d-4536-9e3a-256d638fe5da",
+    "text": "The cable car up is optional too; a marked hiking trail from Myeongdong reaches the summit in about 30-40 minutes.\n\nYou don't need the paid observation deck at N Seoul Tower to get a great view of Seoul — the plaza around the tower already sits at the top of Namsan and is free.\n\nThe 'love locks' fence near the base is real and still growing.\n\nHow much did this actually cost you on your trip?\n\n🇯🇵 ナンサン山の頂上は、無料の広場からも眺めることができます。コストは約₩5,000からですが、無料の広場で眺めることもできます。\n\n🇨🇳 南山顶部的广场是免费的，同样可以看到很好的景色。去南山顶部的费用约为5000韩元，但你可以在免费的广场上看到同样的景色。\n\n🇹🇼 南山頂的廣場是免費的，同樣可以看到很好的景色。去南山頂的費用約為5000韓元，但你可以在免費的廣場上看到同樣的景色。",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795851829253-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795851829253-v0-0.jpg"
+    ],
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-11-28T15:36:40.935Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-28T07:44:18.872Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/gf1f2aa1a901d62bd1551aa08390f6e7da704d062668dee4fc4432179a009a41760b020cf78b6bfe30d7b0318bd8f4677b6cd7b2b9a522e80339ee03191bc8d85_1280.jpg#pixabay=5430311"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "N Seoul Tower (Namsan)",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: facebook: missing payoff, the link doesn't deliver the hiking trail information | instagram: missing payoff, the link doesn't deliver the hiking trail information | instagram: reaction is generic, 'Save this guide' is not tied to the content | bluesky: missing payoff, the link doesn't deliver the hiking trail information | mastodon: missing payoff, the link doesn't deliver the hiking trail information | tumblr: missing payoff, the link doesn't deliver the hiking trail information | instagram: fail generic engagement bait, 'Save this guide' is not tied to the content | bluesky: fail generic engagement bait, 'How much did this actually cost you on your trip?' is not tied to the content | mastodon: fail generic engagement bait, 'How much did this actually cost you on your trip?' is not tied to the content",
+      "failedPlatforms": [
+        "facebook",
+        "instagram",
+        "bluesky",
+        "mastodon",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "D",
+      "checkedAt": "2026-11-28T07:40:50.717Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-28T07:44:18.858Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "b5644b49-8972-45e1-8e9a-38c0d93d1767",
+    "text": "You don't need the paid observation deck at N Seoul Tower to get a great view of Seoul — the plaza around the tower already sits at the top of Namsan and is free.\n\n1. The cable car up is optional too; a marked hiking trail from Myeongdong reaches the summit in about 30-40 minutes.\n2. The 'love locks' fence near the base is real and still growing.\n3. Sunset is the busiest time, so early afternoon or right after opening avoids the worst of the crowd.\n\n🇯🇵 ナンサン山の無料の広場で眺めることができます。\n\n🇨🇳 南山顶部的免费广场同样可以看到很好的景色。\n\n🇹🇼 南山頂的免費廣場同樣可以看到很好的景色。",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795851829253-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795851829253-v0-0.jpg"
+    ],
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-11-28T17:34:07.448Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-28T07:44:18.901Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/gf1f2aa1a901d62bd1551aa08390f6e7da704d062668dee4fc4432179a009a41760b020cf78b6bfe30d7b0318bd8f4677b6cd7b2b9a522e80339ee03191bc8d85_1280.jpg#pixabay=5430311"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "N Seoul Tower (Namsan)",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: facebook: missing payoff, the link doesn't deliver the hiking trail information | instagram: missing payoff, the link doesn't deliver the hiking trail information | instagram: reaction is generic, 'Save this guide' is not tied to the content | bluesky: missing payoff, the link doesn't deliver the hiking trail information | mastodon: missing payoff, the link doesn't deliver the hiking trail information | tumblr: missing payoff, the link doesn't deliver the hiking trail information | instagram: fail generic engagement bait, 'Save this guide' is not tied to the content | bluesky: fail generic engagement bait, 'How much did this actually cost you on your trip?' is not tied to the content | mastodon: fail generic engagement bait, 'How much did this actually cost you on your trip?' is not tied to the content",
+      "failedPlatforms": [
+        "facebook",
+        "instagram",
+        "bluesky",
+        "mastodon",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "D",
+      "checkedAt": "2026-11-28T07:40:50.717Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-28T07:44:18.887Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-n-seoul-tower-namsan.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "dda726b2-35d7-4a12-8910-468cf9a27686",
+    "text": "Myeongdong's street food stalls mostly open in the late afternoon, so showing up at lunchtime expecting the famous street food scene is the single most common first-timer mistake.\n\nIt's Seoul's biggest shopping district for cosmetics and fashion, with staff at many stores speaking basic English, Japanese, or Chinese.\n\nTax Free shopping is everywhere here — look for the sticker before you buy. How much did this actually cost you on your trip?\n\n🇯🇵 昼食の時間に来ると、よくある初心者の間違いだ。\n\n🇨🇳 来到午餐时间，容易犯的一个错误是\n\n🇹🇼 來到午餐時間，容易犯的一个錯誤是",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-29T01:32:34.628Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-28T07:44:56.822Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Myeongdong shopping district",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq와 Cloudflare 둘 다 실패했습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-28T07:44:50.508Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-28T07:44:56.805Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-myeongdong-shopping-district.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "fc85918f-2f9d-478a-a129-90001c32038e",
+    "text": "Myeongdong's street food stalls mostly open in the late afternoon, so showing up at lunchtime expecting the famous street food scene is the single most common first-timer mistake.\n\nIt's Seoul's biggest shopping district for cosmetics and fashion, with staff at many stores speaking basic English, Japanese, or Chinese.\n\nTax Free shopping is everywhere here — look for the sticker before you buy.\n\nHow much did this actually cost you on your trip?\n\n🇯🇵 昼食の時間に来ると、よくある初心者の間違いだ。\n\nMyeongdongは化粧品やファッションのショッピングの名所で、多くの店では英語、日本語、中国語を話すスタッフがいる。\n\n税金の免除はここでもあるので、購入する前にステッカーを探してみる。\n\nあなたは旅行でどれくらい費やしたか？\n\n🇨🇳 来到午餐时间，容易犯的一个错误是\n\n明洞是化妆品和时尚购物的最大购物区，许多商店的员工会说基本的英语、中文或日语。\n\n税免购物在这里也很普遍，购买之前寻找贴纸。\n\n你在旅行中花费了多少钱？\n\n🇹🇼 來到午餐時間，容易犯的一个錯誤是\n\n明洞是化妝品和時尚購物的最大購物區，許多商店的員工會說基本的英語、中文或日文。\n\n免稅購物在這裡也很普遍，購買之前尋找貼紙。\n\n你在旅行中花費了多少錢？",
+    "imageUrl": null,
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-11-29T02:01:39.101Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-28T07:44:56.851Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Myeongdong shopping district",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq와 Cloudflare 둘 다 실패했습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-28T07:44:50.508Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-28T07:44:56.833Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-myeongdong-shopping-district.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "64f89f72-dc44-4fa6-aad0-dbffa5f93668",
+    "text": "Myeongdong's street food stalls mostly open in the late afternoon, so showing up at lunchtime expecting the famous street food scene is the single most common first-timer mistake.\n\nIt's Seoul's biggest shopping district for cosmetics and fashion, with staff at many stores speaking basic English, Japanese, or Chinese.\n\nTax Free shopping is everywhere here — look for the sticker before you buy.\n\nHow much did this actually cost you on your trip?\n\n🇯🇵 昼食の時間に来ると、よくある初心者の間違いだ。\n\nMyeongdongは化粧品やファッションのショッピングの名所で、多くの店では英語、日本語、中国語を話すスタッフがいる。\n\n税金の免除はここでもあるので、購入する前にステッカーを探してみる。\n\nあなたは旅行でどれくらい費やしたか？\n\n🇨🇳 来到午餐时间，容易犯的一个错误是\n\n明洞是化妆品和时尚购物的最大购物区，许多商店的员工会说基本的英语、中文或日语。\n\n税免购物在这里也很普遍，购买之前寻找贴纸。\n\n你在旅行中花费了多少钱？\n\n🇹🇼 來到午餐時間，容易犯的一个錯誤是\n\n明洞是化妝品和時尚購物的最大購物區，許多商店的員工會說基本的英語、中文或日文。\n\n免稅購物在這裡也很普遍，購買之前尋找貼紙。\n\n你在旅行中花費了多少錢？",
+    "imageUrl": null,
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-11-29T02:31:38.655Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-28T07:44:56.882Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Myeongdong shopping district",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq와 Cloudflare 둘 다 실패했습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-28T07:44:50.508Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-28T07:44:56.862Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-myeongdong-shopping-district.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "90e3a117-2a78-43da-af12-4621d3d40b63",
+    "text": "Myeongdong's street food stalls mostly open in the late afternoon, so showing up at lunchtime expecting the famous street food scene is the single most common first-timer mistake.\n\n1. It's Seoul's biggest shopping district for cosmetics and fashion, with staff at many stores speaking basic English, Japanese, or Chinese.\n2. Tax Free shopping is everywhere here — look for the sticker before you buy.\n3. It gets extremely crowded on weekends, so weekday visits are noticeably more walkable.\n\n🇯🇵 昼食の時間に来ると、よくある初心者の間違いだ。\n1. Myeongdongは化粧品やファッションのショッピングの名所で、\n多くの店では英語、日本語、中国語を話すスタッフがいる。\n2. 税金の免除はここでもあるので、購入する前にステッカーを探してみる。\n3. 週末は非常に混雑するので、平日訪問は歩きやすい\n\n🇨🇳 来到午餐时间，容易犯的一个错误是。\n1. 明洞是化妆品和时尚购物的最大购物区，\n许多商店的员工会说基本的英语、中文或日语。\n2. 税免购物在这里也很普遍，购买之前寻找贴纸。\n3. 周末非常拥挤，平日前往会更加舒适\n\n🇹🇼 來到午餐時間，容易犯的一个錯誤是。\n1. 明洞是化妝品和時尚購物的最大購物區，\n許多商店的員工會說基本的英語、中文或日文。\n2. 免稅購物在這裡也很普遍，購買之前尋找貼紙。\n3. 週末非常擠擁，平日前往會更加舒適",
+    "imageUrl": null,
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-11-29T04:31:01.299Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-28T07:44:56.908Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Myeongdong shopping district",
+    "qualityGate": {
+      "pass": false,
+      "reason": "추가 검증 호출 실패: Groq와 Cloudflare 둘 다 실패했습니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-28T07:44:50.508Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-28T07:44:56.893Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-myeongdong-shopping-district.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "e82dd7fb-ecec-447c-b6e4-de01ad523a73",
+    "text": "Don't plan a Busan day trip with Haeundae Beach and Gamcheon Culture Village as a quick hop if you're expecting to visit both in one day.\n\nBusan's most famous beach, Haeundae, is on one side of the city and Gamcheon Culture Village is on the opposite side, so budget real transit time.\n\nIn fact, Haeundae is backed by a dense strip of hotels and restaurants, busiest in summer, which means you'll want to pace yourself. Steep stairs throughout Gamcheon also mean comfortable shoes matter more than they look like they would. Did this confuse you too?\n\n🇯🇵 バスンの日帰り旅行で、海雲台海水浴場とガムチョン文化村を両方訪れるのは簡単ではない\n\n🇨🇳 不要在一天内到访两地的釜山日游\n\n🇹🇼 不要在一天內到訪兩地的釜山日遊",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795852130428-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795852130428-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-29T03:11:31.532Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-28T07:49:18.582Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g4dc783d67e6fdb024f3f6b6e609172ab5bffe0fc6b6c29d6c66809d5c0172f48d3f73c47091e0cbd37103b6900f6db8c87f0a46fa78a0c75264e81f6610e8af5_1280.jpg#pixabay=5916667",
+      "https://pixabay.com/get/g5eac990e214c7f30b8365bdf41d6a477392a4008baa3bc075169697594641505a00206eff0fc3e988abf8279a1d70ae2eb126a11ed56522b7cc38196a500bf46_1280.jpg#pixabay=5286212"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Busan Haeundae Beach & Gamcheon Culture Village",
+    "qualityGate": {
+      "pass": false,
+      "reason": "해운대 해변과 감천 문화마을은 한 도시 내에 위치하고 있어, 실제로 주제와 관련이 있으나, 여행객이 방문하기에 적합한 하루 여행일지에 대한 경고가 주제와 관련이 있는 주제에 대한 안내가 섞여 있는 혼동을 유발할 수 있음",
+      "model": "groq",
+      "checkedAt": "2026-11-28T07:46:26.992Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-28T07:49:18.562Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-busan-haeundae-beach-gamcheon-culture-village.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "3808d0bd-ce9f-4c02-8ee6-84c4984b4e07",
+    "text": "Haeundae Beach and Gamcheon Culture Village are on opposite sides of Busan.\n\nHaeundae is backed by a dense strip of hotels and restaurants, busiest in summer.\n\nGamcheon has steep stairs throughout, so comfortable shoes are a must.\n\n📖 Full guide: https://landinkorea.com/posts/korea-busan-haeundae-beach-gamcheon-culture-village.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post\n\n🇯🇵 釜山の海雲台海水浴場とガムチョン文化村は対岸の両方の場所にあります。海雲台は夏の最盛期にはホテルやレストランの密集した区域に囲まれています。ガムチョンには急な階段が多く、きつい靴が必要です。\n\n🇨🇳 釜山的海雲台海水浴场和甘村文化村位于对岸的两地。海雲台海水浴场被夏季最繁忙的酒店和餐厅环绕着。甘村文化村里有很多急峻的阶梯，穿着舒适的鞋子非常重要。\n\n🇹🇼 釜山的海雲台海水浴場和甘村文化村位於對岸的兩地。海雲台海水浴場被夏季最繁忙的酒店和餐廳環繞著。甘村文化村裡有很多急峻的階梯，穿著舒適的鞋子非常重要。",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795852130428-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795852130428-v0-0.jpg"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "scheduledAt": "2026-11-28T09:42:23.090Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-28T07:49:18.610Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g4dc783d67e6fdb024f3f6b6e609172ab5bffe0fc6b6c29d6c66809d5c0172f48d3f73c47091e0cbd37103b6900f6db8c87f0a46fa78a0c75264e81f6610e8af5_1280.jpg#pixabay=5916667",
+      "https://pixabay.com/get/g5eac990e214c7f30b8365bdf41d6a477392a4008baa3bc075169697594641505a00206eff0fc3e988abf8279a1d70ae2eb126a11ed56522b7cc38196a500bf46_1280.jpg#pixabay=5286212"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Busan Haeundae Beach & Gamcheon Culture Village",
+    "qualityGate": {
+      "pass": false,
+      "reason": "해운대 해변과 감천 문화마을은 한 도시 내에 위치하고 있어, 실제로 주제와 관련이 있으나, 여행객이 방문하기에 적합한 하루 여행일지에 대한 경고가 주제와 관련이 있는 주제에 대한 안내가 섞여 있는 혼동을 유발할 수 있음",
+      "model": "groq",
+      "checkedAt": "2026-11-28T07:46:26.992Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-28T07:49:18.594Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-busan-haeundae-beach-gamcheon-culture-village.html?utm_source=facebook&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "556c7960-8394-4dc9-a629-377824ef4d3d",
+    "text": "Don't plan a Busan day trip with Haeundae Beach and Gamcheon Culture Village as a quick hop if you're expecting to visit both in one day.\n\nBusan's most famous beach, Haeundae, is on one side of the city and Gamcheon Culture Village is on the opposite side, so budget real transit time.\n\nIn fact, Haeundae is backed by a dense strip of hotels and restaurants, busiest in summer.\n\nSteep stairs throughout Gamcheon also mean comfortable shoes matter more than they look like they would.\n\nDid this confuse you too?\n\n🇯🇵 釜山の日帰り旅行で、海雲台海水浴場とガムチョン文化村を両方訪れるのは簡単ではない。海雲台は夏の最盛期にはホテルやレストランの密集した区域に囲まれています。ガムチョンには急な階段が多く、きつい靴が必要です。\n\n🇨🇳 不要在一天内到访两地的釜山日游。海雲台海水浴场被夏季最繁忙的酒店和餐厅环绕着。甘村文化村里有很多急峻的阶梯，穿着舒适的鞋子非常重要。\n\n🇹🇼 不要在一天內到訪兩地的釜山日遊。海雲台海水浴場被夏季最繁忙的酒店和餐廳環繞著。甘村文化村裡有很多急峻的階梯，穿著舒適的鞋子非常重要。",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795852130428-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795852130428-v0-0.jpg"
+    ],
+    "platforms": [
+      "bluesky"
+    ],
+    "scheduledAt": "2026-11-29T03:43:04.727Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-28T07:49:18.641Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g4dc783d67e6fdb024f3f6b6e609172ab5bffe0fc6b6c29d6c66809d5c0172f48d3f73c47091e0cbd37103b6900f6db8c87f0a46fa78a0c75264e81f6610e8af5_1280.jpg#pixabay=5916667",
+      "https://pixabay.com/get/g5eac990e214c7f30b8365bdf41d6a477392a4008baa3bc075169697594641505a00206eff0fc3e988abf8279a1d70ae2eb126a11ed56522b7cc38196a500bf46_1280.jpg#pixabay=5286212"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Busan Haeundae Beach & Gamcheon Culture Village",
+    "qualityGate": {
+      "pass": false,
+      "reason": "해운대 해변과 감천 문화마을은 한 도시 내에 위치하고 있어, 실제로 주제와 관련이 있으나, 여행객이 방문하기에 적합한 하루 여행일지에 대한 경고가 주제와 관련이 있는 주제에 대한 안내가 섞여 있는 혼동을 유발할 수 있음",
+      "model": "groq",
+      "checkedAt": "2026-11-28T07:46:26.992Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-28T07:49:18.621Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-busan-haeundae-beach-gamcheon-culture-village.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "78c35df7-2aa7-4eb4-baaf-3a9203817112",
+    "text": "Don't plan a Busan day trip with Haeundae Beach and Gamcheon Culture Village as a quick hop if you're expecting to visit both in one day.\n\nBusan's most famous beach, Haeundae, is on one side of the city and Gamcheon Culture Village is on the opposite side, so budget real transit time.\n\nIn fact, Haeundae is backed by a dense strip of hotels and restaurants, busiest in summer.\n\nSteep stairs throughout Gamcheon also mean comfortable shoes matter more than they look like they would.\n\n#KoreaTravel #TravelTips #GamcheonCultureVillage\n\n🇯🇵 釜山の日帰り旅行で、海雲台海水浴場とガムチョン文化村を両方訪れるのは簡単ではない。海雲台は夏の最盛期にはホテルやレストランの密集した区域に囲まれています。ガムチョンには急な階段が多く、きつい靴が必要です。 #KoreaTravel #TravelTips #GamcheonCultureVillage\n\n🇨🇳 不要在一天内到访两地的釜山日游。海雲台海水浴场被夏季最繁忙的酒店和餐厅环绕着。甘村文化村里有很多急峻的阶梯，穿着舒适的鞋子非常重要。 #KoreaTravel #TravelTips #GamcheonCultureVillage\n\n🇹🇼 不要在一天內到訪兩地的釜山日遊。海雲台海水浴場被夏季最繁忙的酒店和餐廳環繞著。甘村文化村裡有很多急峻的階梯，穿著舒適的鞋子非常重要。 #KoreaTravel #TravelTips #GamcheonCultureVillage",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795852130428-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795852130428-v0-0.jpg"
+    ],
+    "platforms": [
+      "mastodon"
+    ],
+    "scheduledAt": "2026-11-29T04:11:39.823Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-28T07:49:18.665Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g4dc783d67e6fdb024f3f6b6e609172ab5bffe0fc6b6c29d6c66809d5c0172f48d3f73c47091e0cbd37103b6900f6db8c87f0a46fa78a0c75264e81f6610e8af5_1280.jpg#pixabay=5916667",
+      "https://pixabay.com/get/g5eac990e214c7f30b8365bdf41d6a477392a4008baa3bc075169697594641505a00206eff0fc3e988abf8279a1d70ae2eb126a11ed56522b7cc38196a500bf46_1280.jpg#pixabay=5286212"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Busan Haeundae Beach & Gamcheon Culture Village",
+    "qualityGate": {
+      "pass": false,
+      "reason": "해운대 해변과 감천 문화마을은 한 도시 내에 위치하고 있어, 실제로 주제와 관련이 있으나, 여행객이 방문하기에 적합한 하루 여행일지에 대한 경고가 주제와 관련이 있는 주제에 대한 안내가 섞여 있는 혼동을 유발할 수 있음",
+      "model": "groq",
+      "checkedAt": "2026-11-28T07:46:26.992Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-28T07:49:18.652Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-busan-haeundae-beach-gamcheon-culture-village.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "73e6a373-4585-4c51-9457-4b7d9fe8e4a5",
+    "text": "Planning a Busan day trip with Haeundae Beach and Gamcheon Culture Village? Think again if you're expecting to visit both in one day.\n\nHaeundae Beach is on one side of the city and Gamcheon Culture Village is on the opposite side, so budget real transit time.\n\n1. Haeundae Beach is backed by a dense strip of hotels and restaurants, busiest in summer.\n\n2. Gamcheon has steep stairs throughout, so comfortable shoes are a must.\n\n3. The KTX from Seoul to Busan takes around 2.5-3 hours.\n\nSave this for your Korea trip!\n\n🇯🇵 釜山の日帰り旅行で、海雲台海水浴場とガムチョン文化村を両方訪れるのは簡単ではない。海雲台は夏の最盛期にはホテルやレストランの密集した区域に囲まれています。ガムチョンには急な階段が多く、きつい靴が必要です。\n1. 海雲台は夏の最盛期にはホテルやレストランの密集した区域に囲まれています。\n2. ガムチョンには急な階段が多く、きつい靴が必要です。\n3. KTXでソウルから釜山までの所要時間は約2.5-3時間。\n釜山の日帰り旅行で、海雲台海水浴場とガムチョン文化村を両方訪れるのは簡単ではない。\n\n🇨🇳 不要在一天内到访两地的釜山日游。海雲台海水浴场被夏季最繁忙的酒店和餐厅环绕着。甘村文化村里有很多急峻的阶梯，穿着舒适的鞋子非常重要。\n1. 海雲台海水浴场被夏季最繁忙的酒店和餐厅环绕着。\n2. 甘村文化村里有很多急峻的阶梯，穿着舒适的鞋子非常重要。\n3. KTX从首尔到釜山的时间大约为2.5-3小时。\n不要在一天内到访两地的釜山日游。\n\n🇹🇼 不要在一天內到訪兩地的釜山日遊。海雲台海水浴場被夏季最繁忙的酒店和餐廳環繞著。甘村文化村裡有很多急峻的階梯，穿著舒適的鞋子非常重要。\n1. 海雲台海水浴場被夏季最繁忙的酒店和餐廳環繞著。\n2. 甘村文化村裡有很多急峻的階梯，穿著舒適的鞋子非常重要。\n3. KTX從首爾到釜山的時間約為2.5-3小時。\n不要在一天內到訪兩地的釜山日遊。",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795852130428-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795852130428-v0-0.jpg"
+    ],
+    "platforms": [
+      "tumblr"
+    ],
+    "scheduledAt": "2026-11-29T06:09:59.943Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-28T07:49:18.691Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g4dc783d67e6fdb024f3f6b6e609172ab5bffe0fc6b6c29d6c66809d5c0172f48d3f73c47091e0cbd37103b6900f6db8c87f0a46fa78a0c75264e81f6610e8af5_1280.jpg#pixabay=5916667",
+      "https://pixabay.com/get/g5eac990e214c7f30b8365bdf41d6a477392a4008baa3bc075169697594641505a00206eff0fc3e988abf8279a1d70ae2eb126a11ed56522b7cc38196a500bf46_1280.jpg#pixabay=5286212"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Busan Haeundae Beach & Gamcheon Culture Village",
+    "qualityGate": {
+      "pass": false,
+      "reason": "해운대 해변과 감천 문화마을은 한 도시 내에 위치하고 있어, 실제로 주제와 관련이 있으나, 여행객이 방문하기에 적합한 하루 여행일지에 대한 경고가 주제와 관련이 있는 주제에 대한 안내가 섞여 있는 혼동을 유발할 수 있음",
+      "model": "groq",
+      "checkedAt": "2026-11-28T07:46:26.992Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-28T07:49:18.677Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-busan-haeundae-beach-gamcheon-culture-village.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
   }
 ]
