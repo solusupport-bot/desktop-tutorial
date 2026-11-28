@@ -62822,7 +62822,7 @@
       "bluesky"
     ],
     "scheduledAt": "2026-11-28T01:53:36.018Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-27T08:16:46.919Z",
     "approved": true,
@@ -62852,7 +62852,7 @@
       "mastodon"
     ],
     "scheduledAt": "2026-11-28T02:22:46.688Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-27T08:16:46.952Z",
     "approved": true,
