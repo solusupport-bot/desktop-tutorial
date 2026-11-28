@@ -1,30 +1,6 @@
 {
-  "lastIndex": 21,
+  "lastIndex": 62,
   "history": [
-    {
-      "index": 62,
-      "topic": "Changdeokgung Secret Garden: how the timed Huwon tickets actually work",
-      "at": "2026-11-26T15:00:28.624Z",
-      "source": "threads-fill"
-    },
-    {
-      "index": 65,
-      "topic": "Gyeongju from Seoul: the KTX, the bus to Bulguksa, and which tombs to see first",
-      "at": "2026-11-26T15:00:58.550Z",
-      "source": "threads-fill"
-    },
-    {
-      "index": 66,
-      "topic": "Ttareungyi, Seoul's public bike: buying a pass as a visitor and riding the Han River paths",
-      "at": "2026-11-26T15:01:25.697Z",
-      "source": "threads-fill"
-    },
-    {
-      "index": 22,
-      "topic": "Jjimjilbang etiquette",
-      "at": "2026-11-26T15:01:43.631Z",
-      "source": "facebook-fill"
-    },
     {
       "index": 0,
       "topic": "Gyeongbokgung Palace",
@@ -1200,6 +1176,30 @@
       "topic": "DMZ and JSA tours",
       "at": "2026-11-28T05:05:00.693Z",
       "source": "facebook-fill"
+    },
+    {
+      "index": 57,
+      "topic": "Korean winter street food: bungeoppang, hotteok, and where the stalls went",
+      "at": "2026-11-28T06:53:18.138Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 60,
+      "topic": "Shipping souvenirs home from a Korean post office: EMS, small packets, and sea mail",
+      "at": "2026-11-28T06:54:16.108Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 61,
+      "topic": "Gwangjang Market: what to eat, when stalls close, and how to avoid overpaying",
+      "at": "2026-11-28T06:54:46.469Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 62,
+      "topic": "Changdeokgung Secret Garden: how the timed Huwon tickets actually work",
+      "at": "2026-11-28T06:55:40.390Z",
+      "source": "instagram-fill"
     }
   ],
   "recentImageUrls": [
@@ -2591,7 +2591,9 @@
     "https://pixabay.com/get/gefc8ca140ce9fe50aa089efa8bc8f111dbb5e525d521412319388bc666a5b113a4f91786eeda77a3d58e3b2de8f5e23b6db1c0d439d99808c1f9fc1aa7069c0e_1280.jpg#pixabay=7490474",
     "https://pixabay.com/get/g937f755eca6d1e3050b45886bff984f5441e08bd89d5faf47add276b47f43cd7ee4b021dc21bfce7f8b918a671a452433b83b1b6057a52f04d5ba0e6473b82a9_1280.jpg#pixabay=1052571",
     "https://pixabay.com/get/gfd01739520855c4f580e4950cc638bdd942bf79237abbd812782a44c986a35327e6ee4b7ab2bff197824f9b38ff24fc7e2c89f510462d6ef94a797d8fd8e21ac_1280.jpg#pixabay=1122171",
-    "https://pixabay.com/get/gaeeb4a783a24c768af7af2b89c60b028bc1b1361c83e6f57c7f3e25d2329d76cf79fe95a37bd1dfe6f1b70589aaf379a963637f1a77ac7ac920be4b74f384b66_1280.jpg#pixabay=4647402"
+    "https://pixabay.com/get/gaeeb4a783a24c768af7af2b89c60b028bc1b1361c83e6f57c7f3e25d2329d76cf79fe95a37bd1dfe6f1b70589aaf379a963637f1a77ac7ac920be4b74f384b66_1280.jpg#pixabay=4647402",
+    "https://pixabay.com/get/g4a5ed20fedcbe63d1ec7596afd85861bf8646d46984adccf02af0bcaff637bc90af25fa460479499dca9b83dcf73caa9e7b7dcc4461483433cb826368574d78c_1280.jpg#pixabay=1269304",
+    "https://pixabay.com/get/g89765cbdd25b74583df258c6db574e9cd6913efa559954b36c767feb3ae4c7290ee3a218c1a11a0fe86271d62447cfb12abbf757686d97849ae8237dfe4981b6_1280.jpg#pixabay=4595787"
   ],
   "recentVideoUrls": [
     "https://videos.pexels.com/video-files/19577787/19577787-uhd_2160_3840_30fps.mp4",
