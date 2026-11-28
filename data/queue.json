@@ -60863,7 +60863,7 @@
       "threads"
     ],
     "scheduledAt": "2026-11-27T00:00:45.631Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-26T05:05:46.703Z",
     "approved": true,
@@ -63251,7 +63251,7 @@
       "instagram"
     ],
     "scheduledAt": "2026-11-28T00:04:46.149Z",
-    "status": "pending",
+    "status": "claimed",
     "results": {},
     "createdAt": "2026-11-27T15:45:37.016Z",
     "approved": true,
