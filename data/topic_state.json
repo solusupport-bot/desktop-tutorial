@@ -1,36 +1,6 @@
 {
-  "lastIndex": 49,
+  "lastIndex": 17,
   "history": [
-    {
-      "index": 49,
-      "topic": "Where Koreans actually buy everyday stuff: Daiso vs. Olive Young vs. hypermarkets vs. the traditional market",
-      "at": "2026-11-26T13:55:16.392Z",
-      "source": "threads-fill"
-    },
-    {
-      "index": 17,
-      "topic": "Luggage storage & forwarding services",
-      "at": "2026-11-26T13:55:40.986Z",
-      "source": "threads-fill"
-    },
-    {
-      "index": 18,
-      "topic": "KTX vs. SRT vs. intercity bus for long-distance travel",
-      "at": "2026-11-26T13:55:48.241Z",
-      "source": "threads-fill"
-    },
-    {
-      "index": 20,
-      "topic": "Trash and recycling rules for residents",
-      "at": "2026-11-26T13:56:01.671Z",
-      "source": "facebook-fill"
-    },
-    {
-      "index": 19,
-      "topic": "Namdaemun Market",
-      "at": "2026-11-26T14:59:06.320Z",
-      "source": "instagram-fill"
-    },
     {
       "index": 21,
       "topic": "DMZ and JSA tours",
@@ -1200,6 +1170,36 @@
       "topic": "Where Koreans actually buy everyday stuff: Daiso vs. Olive Young vs. hypermarkets vs. the traditional market",
       "at": "2026-11-28T03:35:14.220Z",
       "source": "facebook-fill"
+    },
+    {
+      "index": 71,
+      "topic": "Korean drinking etiquette: soju pouring rules, pojangmacha tents, and year-end hoesik nights",
+      "at": "2026-11-28T04:53:48.289Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 72,
+      "topic": "National Museum of Korea: free entry, the galleries to see first, and the Room of Quiet Contemplation",
+      "at": "2026-11-28T04:55:28.990Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 73,
+      "topic": "Andong Hahoe Village from Seoul: the KTX-Eum, the bus to the village, and the mask dance schedule",
+      "at": "2026-11-28T04:56:14.513Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 74,
+      "topic": "Korean BBQ restaurants: two-portion minimums, who does the grilling, ssam wraps, and the fried rice finish",
+      "at": "2026-11-28T04:57:45.109Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 17,
+      "topic": "Luggage storage & forwarding services",
+      "at": "2026-11-28T05:00:19.756Z",
+      "source": "instagram-fill"
     }
   ],
   "recentImageUrls": [
@@ -2588,7 +2588,10 @@
     "https://pixabay.com/get/g2357785452a105d77edbee3400fe111c107d6c684a90a836df9e3e0573065480ef518858f6fd6d6e5bae198c86a862186add38419af12d0be8706b55fd00b533_1280.jpg#pixabay=2789234",
     "https://pixabay.com/get/g7b314937ef0148ee7d008a6af1bf35f63287c1401b9b7ca50747a1deaa26e273d33543dfc232dd1c1821a5d31032bab7446567f6acf620045a12dd886cf34f20_1280.jpg#pixabay=7490464",
     "https://pixabay.com/get/ge0715512243e74c2f7dbb4f2e4551d018f82d268324ff71105abbea6be9ea77a3990e25c9372f59ee0dae72959cdf8074e4cc65d64fc4c766a1c9750659bd8a3_1280.jpg#pixabay=1263133",
-    "https://pixabay.com/get/gefc8ca140ce9fe50aa089efa8bc8f111dbb5e525d521412319388bc666a5b113a4f91786eeda77a3d58e3b2de8f5e23b6db1c0d439d99808c1f9fc1aa7069c0e_1280.jpg#pixabay=7490474"
+    "https://pixabay.com/get/gefc8ca140ce9fe50aa089efa8bc8f111dbb5e525d521412319388bc666a5b113a4f91786eeda77a3d58e3b2de8f5e23b6db1c0d439d99808c1f9fc1aa7069c0e_1280.jpg#pixabay=7490474",
+    "https://pixabay.com/get/g937f755eca6d1e3050b45886bff984f5441e08bd89d5faf47add276b47f43cd7ee4b021dc21bfce7f8b918a671a452433b83b1b6057a52f04d5ba0e6473b82a9_1280.jpg#pixabay=1052571",
+    "https://pixabay.com/get/gfd01739520855c4f580e4950cc638bdd942bf79237abbd812782a44c986a35327e6ee4b7ab2bff197824f9b38ff24fc7e2c89f510462d6ef94a797d8fd8e21ac_1280.jpg#pixabay=1122171",
+    "https://pixabay.com/get/gaeeb4a783a24c768af7af2b89c60b028bc1b1361c83e6f57c7f3e25d2329d76cf79fe95a37bd1dfe6f1b70589aaf379a963637f1a77ac7ac920be4b74f384b66_1280.jpg#pixabay=4647402"
   ],
   "recentVideoUrls": [
     "https://videos.pexels.com/video-files/19577787/19577787-uhd_2160_3840_30fps.mp4",
@@ -3269,7 +3272,8 @@
     "https://prod-1.storage.jamendo.com/?trackid=665882&format=mp32",
     "https://prod-1.storage.jamendo.com/?trackid=665946&format=mp32",
     "https://prod-1.storage.jamendo.com/?trackid=665882&format=mp32",
-    "https://prod-1.storage.jamendo.com/?trackid=769892&format=mp32"
+    "https://prod-1.storage.jamendo.com/?trackid=769892&format=mp32",
+    "https://prod-1.storage.jamendo.com/?trackid=665882&format=mp32"
   ],
   "topicPhotographers": {
     "Why Google Maps fails in Korea and how the road-name address system actually works": [

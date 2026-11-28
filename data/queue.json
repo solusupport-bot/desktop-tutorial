@@ -63533,5 +63533,38 @@
       "checkedAt": "2026-11-28T03:33:10.224Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-hiking-in-korea-like-a-local-subway-accessible-peaks-seasonal-trail-closures-and-the-gear-culture.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "b2963042-511e-47ee-aaae-ff30ffe30c73",
+    "text": "Thinking you can order just one meat plate at a Korean BBQ?\nYou need at least two servings (2인분) before the grill lights up.\nSave this tip for your first solo dinner in Seoul!\n\n📖 Open the Land in Korea link in our profile and search “Korean BBQ restaurants: two-portion minimums, who does the grilling, ssam wraps, and the fried rice finish”.\n\n#KoreaTravel #TravelKorea #SeoulTrip #KoreanBBQ #BBQPolicy\n\n🎵 \"Anima Pop - Save Me\" by Vienna In Love is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.\n\n🇯🇵 韓国BBQでは、少なくとも2人分の肉を注文する必要があります。\n初めてソウルの夜を一人で過ごす時には、覚えておいてください!\n\n📖「韓国BBQの店: 2人分の最低限、焼き立て、サム、フライドライスの詳細」を探すには、プロフィール内のLand in Koreaのリンクを開いてください。\n#KoreaTravel #TravelKorea #SeoulTrip #KoreanBBQ #BBQPolicy\n\n🇨🇳 想在韩国BBQ店点一份肉吗? \n至少要点两份(2人份)才会点火。\n记下这个小贴士，下次你一个人在首尔吃饭时。\n\n📖打开我们的profile里的Land in Korea链接，搜索“韩国BBQ店：两份最低，谁烧烤，萨姆卷，最后是炒饭”。\n#KoreaTravel #TravelKorea #SeoulTrip #KoreanBBQ #BBQPolicy\n\n🇹🇼 想點韓國BBQ的肉嗎? \n至少要點兩份(2人份)才會點火。\n記下這個小貼士，下次你一個人在首爾吃飯時。\n\n📖打開我們的profile裡的Land in Korea連結，搜尋「韓國BBQ店：兩份最低，誰燒烤，三層肉卷，最後是炒飯」。\n#KoreaTravel #TravelKorea #SeoulTrip #KoreanBBQ #BBQPolicy",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1795842016986-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-11-28T17:01:08.339Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-28T05:00:19.679Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g937f755eca6d1e3050b45886bff984f5441e08bd89d5faf47add276b47f43cd7ee4b021dc21bfce7f8b918a671a452433b83b1b6057a52f04d5ba0e6473b82a9_1280.jpg#pixabay=1052571",
+      "https://pixabay.com/get/gfd01739520855c4f580e4950cc638bdd942bf79237abbd812782a44c986a35327e6ee4b7ab2bff197824f9b38ff24fc7e2c89f510462d6ef94a797d8fd8e21ac_1280.jpg#pixabay=1122171",
+      "https://pixabay.com/get/gaeeb4a783a24c768af7af2b89c60b028bc1b1361c83e6f57c7f3e25d2329d76cf79fe95a37bd1dfe6f1b70589aaf379a963637f1a77ac7ac920be4b74f384b66_1280.jpg#pixabay=4647402"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Korean BBQ restaurants: two-portion minimums, who does the grilling, ssam wraps, and the fried rice finish",
+    "qualityGate": {
+      "pass": false,
+      "reason": "주제와 관련은 하지만 구체적인 '그릴링 담당자', '쌈', '볶음밥' 언급이 없어 내용이 부족합니다",
+      "model": "groq",
+      "checkedAt": "2026-11-28T04:59:36.838Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-28T05:00:19.653Z"
   }
 ]
