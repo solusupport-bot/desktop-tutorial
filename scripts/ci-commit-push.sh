@@ -39,7 +39,7 @@ for attempt in 1 2 3; do
     exit 0
   fi
   echo "Push rejected (attempt ${attempt}/3) -- rebasing onto latest and retrying."
-  git pull --rebase origin "${GITHUB_REF_NAME}" || { echo "::error::rebase conflict could not be auto-merged"; git rebase --abort; exit 1; }
+  git pull --rebase --autostash origin "${GITHUB_REF_NAME}" || { echo "::error::rebase conflict could not be auto-merged"; git rebase --abort; exit 1; }
 done
 
 echo "::error::Push failed after 3 attempts -- giving up."
