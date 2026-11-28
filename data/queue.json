@@ -62822,8 +62822,13 @@
       "bluesky"
     ],
     "scheduledAt": "2026-11-28T01:53:36.018Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "bluesky": {
+        "id": "at://did:plc:sxnptqcsql7loey2hs3sfcb5/app.bsky.feed.post/3n3dqvn7i362v",
+        "url": "https://bsky.app/profile/landinkorea.bsky.social/post/3n3dqvn7i362v"
+      }
+    },
     "createdAt": "2026-11-27T08:16:46.919Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -62842,7 +62847,8 @@
       ],
       "checkedAt": "2026-11-27T08:16:39.711Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-tipping-and-service-charges.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-tipping-and-service-charges.html?utm_source=bluesky&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-28T03:24:35.280Z"
   },
   {
     "id": "02df315c-234b-4240-88ae-919d181c69e0",
@@ -62852,8 +62858,13 @@
       "mastodon"
     ],
     "scheduledAt": "2026-11-28T02:22:46.688Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "mastodon": {
+        "id": "117691926159624679",
+        "url": "https://mastodon.social/@landinkorea/117691926159624679"
+      }
+    },
     "createdAt": "2026-11-27T08:16:46.952Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -62872,7 +62883,8 @@
       ],
       "checkedAt": "2026-11-27T08:16:39.711Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-tipping-and-service-charges.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-tipping-and-service-charges.html?utm_source=mastodon&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-28T03:24:38.414Z"
   },
   {
     "id": "95c2ddc7-a74a-48dd-b4d5-9cc66c336394",
