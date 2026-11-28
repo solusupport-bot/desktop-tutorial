@@ -1,12 +1,6 @@
 {
-  "lastIndex": 19,
+  "lastIndex": 21,
   "history": [
-    {
-      "index": 61,
-      "topic": "Gwangjang Market: what to eat, when stalls close, and how to avoid overpaying",
-      "at": "2026-11-26T15:00:11.564Z",
-      "source": "instagram-fill"
-    },
     {
       "index": 62,
       "topic": "Changdeokgung Secret Garden: how the timed Huwon tickets actually work",
@@ -1200,6 +1194,12 @@
       "topic": "Namdaemun Market",
       "at": "2026-11-28T05:04:00.579Z",
       "source": "threads-fill"
+    },
+    {
+      "index": 21,
+      "topic": "DMZ and JSA tours",
+      "at": "2026-11-28T05:05:00.693Z",
+      "source": "facebook-fill"
     }
   ],
   "recentImageUrls": [
