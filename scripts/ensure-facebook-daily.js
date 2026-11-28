@@ -15,7 +15,8 @@ const { queueOneTopic } = require('../lib/scheduler/queue_topic');
 const TARGET_PER_DAY = 7;
 // daily-auto-post.js와 같은 이유로 실행당 1건만 — 한 번에 여러 건을 만들면 이미지/영상
 // 검색과 품질 검사가 길어져 다음 예약 실행이 기존 프로세스를 죽인다.
-const MAX_ATTEMPTS = 1;
+// 2026-11-28: 사진 없는 주제는 이제 캡션 생성 전에 바로 건너뛰어 시도 비용이 작다 — 스레드와 같은 3회로(15분 예산은 그대로).
+const MAX_ATTEMPTS = 3;
 
 const todayCount = () => {
   const queue = loadQueue();
