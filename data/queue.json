@@ -62894,8 +62894,13 @@
       "tumblr"
     ],
     "scheduledAt": "2026-11-28T04:25:52.525Z",
-    "status": "claimed",
-    "results": {},
+    "status": "published",
+    "results": {
+      "tumblr": {
+        "id": "834500414593466368",
+        "url": "https://landinkorea.tumblr.com/post/834500414593466368"
+      }
+    },
     "createdAt": "2026-11-27T08:16:46.982Z",
     "approved": true,
     "factCheckStatus": "pending",
@@ -62914,7 +62919,8 @@
       ],
       "checkedAt": "2026-11-27T08:16:39.711Z"
     },
-    "blogUrl": "https://landinkorea.com/posts/korea-tipping-and-service-charges.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+    "blogUrl": "https://landinkorea.com/posts/korea-tipping-and-service-charges.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post",
+    "processedAt": "2026-11-28T04:53:32.697Z"
   },
   {
     "id": "32fca9cb-7a42-4b67-9aa7-da75cecaa923",
