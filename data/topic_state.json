@@ -1,12 +1,6 @@
 {
-  "lastIndex": 9,
+  "lastIndex": 23,
   "history": [
-    {
-      "index": 26,
-      "topic": "Nami Island and Petite France day trip",
-      "at": "2026-11-26T16:58:00.784Z",
-      "source": "instagram-fill"
-    },
     {
       "index": 27,
       "topic": "Suwon Hwaseong Fortress",
@@ -1200,6 +1194,12 @@
       "topic": "Travel advisories & safety notices",
       "at": "2026-11-28T07:55:20.101Z",
       "source": "instagram-fill"
+    },
+    {
+      "index": 23,
+      "topic": "Insadong traditional culture street",
+      "at": "2026-11-28T07:55:41.777Z",
+      "source": "facebook-fill"
     }
   ],
   "recentImageUrls": [
