@@ -1,12 +1,6 @@
 {
-  "lastIndex": 31,
+  "lastIndex": 32,
   "history": [
-    {
-      "index": 35,
-      "topic": "Opening a Korean bank account as a foreigner — and why your ARC and phone number come first",
-      "at": "2026-11-26T21:39:41.411Z",
-      "source": "facebook-fill"
-    },
     {
       "index": 36,
       "topic": "Eating alone in Korea: which restaurants refuse solo diners and where honbap works",
@@ -1200,6 +1194,12 @@
       "topic": "Hailing a taxi in Korea: Kakao T vs. street taxis vs. airport 'deluxe' cabs",
       "at": "2026-11-28T14:07:24.565Z",
       "source": "instagram-fill"
+    },
+    {
+      "index": 32,
+      "topic": "Why Google Maps fails in Korea and how the road-name address system actually works",
+      "at": "2026-11-28T14:07:29.042Z",
+      "source": "facebook-fill"
     }
   ],
   "recentImageUrls": [
