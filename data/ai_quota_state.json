@@ -5,8 +5,8 @@
     "markedAt": "2026-11-28T04:56:01.802Z"
   },
   "groq:openai/gpt-oss-120b": {
-    "until": "2026-11-28T03:39:28.349Z",
+    "until": "2026-11-28T06:00:48.642Z",
     "reason": "Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kzzdmjzveggs757apxyanzes` service tier `on_demand` on tokens per day (TPD): Limit 2000",
-    "markedAt": "2026-11-28T02:39:28.350Z"
+    "markedAt": "2026-11-28T05:00:48.642Z"
   }
 }

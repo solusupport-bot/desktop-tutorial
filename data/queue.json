@@ -63566,5 +63566,98 @@
     },
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-28T05:00:19.653Z"
+  },
+  {
+    "id": "a83d9407-8ecb-49b4-a6d5-09affd6e698d",
+    "text": "Don't book a KTX ticket without checking if you can take the SRT instead at Suseo Station, and save this for your trip.\n\nThe SRT and KTX both depart from different stations in Seoul, and the right pick depends on which side of the city you're starting from.\n\nSince September 1, 2026, a standard-class KTX ticket from Seoul to Busan costs ₩54,400. Make sure to check which station your train is departing from before booking. Did this confuse you too? Open the Land in Korea link in the profile.\n\n🇯🇵 KTX券を購入する前に、Suseo駅からSRTに乗るかを確認しましょう。\n\n🇨🇳 在KTX券购前，务必检查你从哪个车站出发，是否可以选择SRT来省钱。\n\n🇹🇼 在購買KTX車票前，務必檢查你從哪個車站出發，是否可以選擇SRT來省錢。",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-28T13:32:46.112Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-28T05:01:51.736Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "KTX vs. SRT vs. intercity bus for long-distance travel",
+    "qualityGate": {
+      "pass": false,
+      "reason": "캡션에서 주제와 관련 있는 내용이 일부 있지만, 주제를 다루지 않고 개별적인 팁을 제공하고 있기 때문에 관련이 부족함",
+      "model": "groq",
+      "checkedAt": "2026-11-28T05:01:24.143Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-28T05:01:51.712Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-ktx-vs-srt-vs-intercity-bus-for-long-distance-travel.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "42b12b29-1f59-4f08-9008-a1dc5cc8b101",
+    "text": "1/5 I tried to throw away trash in the wrong bag at the wrong district and it got collected anyway. But that's not true. 1 in 5 foreign residents get fined for using the wrong trash bag in their district. You can buy the official district-specific bag at local convenience stores and supermarkets. It's cheaper to buy the right bag than to pay the fine. Be careful when moving into a new place in Korea - the district trash bag can be a surprise. Did you get fined for the wrong trash bag in Korea?\n\n🇯🇵 1/5 韓国在住外国人が誤ったごみ袋を使ったために罰金を受けたことがあるか？\n\n🇨🇳 1/5 在韩国居住的外国人中，1/5的人因为使用错误的垃圾袋而被罚款。\n\n🇹🇼 1/5 在韓國居住的外國人中，1/5的人因為使用錯誤的垃圾袋而被罰款。",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-28T08:36:35.728Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-28T05:04:00.509Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Trash and recycling rules for residents",
+    "qualityGate": {
+      "pass": false,
+      "reason": "캡션의 주제와 내용이 일치하지 않아, 주제와 관련이 없는 엉뚱한 주제로 새겼다.",
+      "model": "groq",
+      "checkedAt": "2026-11-28T05:02:52.719Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-28T05:04:00.482Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-trash-and-recycling-rules-for-residents.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "94a4d2b5-2c14-4109-b562-1f853de677c7",
+    "text": "Namdaemun sits a 10-minute walk from Myeongdong, and a lot of itineraries treat the two as one stop — they're not the same kind of shopping at all.\n\nNamdaemun has operated on this site since the early 1400s, making it Korea's largest traditional market.\n\nMany sections run on a wholesale schedule (some stalls open as late as 10 PM through 5 AM), not tourist hours, and Sundays are noticeably quieter. How much did this actually cost you on your trip?\n\n🇯🇵 ナムデムンの近くにメヨンゴンがあります。10分以内に歩く距離ですが、メヨンゴンと同じようにショッピングを楽しむと、違和感があります。ナムデムンは1400年代初頭からこの場所で営業しており、韓国の最大の伝統市場です。多くのセクションは、朝5時から夜10時までの間、営業時間が異なります。日曜日は明らかに静かです。\n\n🇨🇳 南大門距离明洞仅有10分钟步行距离，但很多行程会把两者作为一个站点——它们的购物体验截然不同。南大门已经在这个地方运营了1400年代初期，成为韩国最大的传统市场。许多部门的营业时间与游客时间不一致（有些店铺直到5点才开业，晚上10点才关门），周日更是人少。\n\n🇹🇼 南大門距離明洞僅有10分鐘步行距離，但很多行程會把兩者作為一個站點——它們的購物體驗截然不同。南大門已經在這個地方營業了1400年代初期，成為韓國最大傳統市場。許多部門的營業時間與遊客時間不一致（有些店鋪直到五點才開業，晚上十點才關門），星期日更是人少。",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-28T11:54:17.533Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-28T05:04:58.642Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Namdaemun Market",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: facebook: hook 'A' is present but payoff is missing the link to the full guide | instagram: hook 'D' is present but payoff is missing the specific information on the wholesale schedule and Sundays being quieter | instagram: reaction 'Save this guide — trust me on this one.' is generic engagement bait | bluesky: hook 'C' is present but payoff is missing the specific information on the wholesale schedule and Sundays being quieter | mastodon: hook 'C' is present but payoff is missing the specific information on the wholesale schedule and Sundays being quieter | tumblr: hook is missing a specific promise or names a specific confusion/mistake | instagram: pattern 'D' | bluesky: pattern 'C' | mastodon: pattern 'C'",
+      "failedPlatforms": [
+        "facebook",
+        "instagram",
+        "bluesky",
+        "mastodon",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "C",
+      "checkedAt": "2026-11-28T05:04:26.536Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-namdaemun-market.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
