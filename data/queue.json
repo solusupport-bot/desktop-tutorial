@@ -63430,5 +63430,102 @@
       "checkedAt": "2026-11-28T02:42:29.868Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-public-bathhouse-culture-in-korea-beyond-the-jjimjilbang-the-mogyoktang-rules.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "edc29f4e-7428-4452-a8f0-0b18781138d4",
+    "text": "Self-service coin laundries (코인빨래방) are everywhere in residential and university neighborhoods, usually unstaffed and open 24 hours.\n\nMachines are sorted by capacity rather than load type, and detergent and softener are typically dispensed automatically as part of the wash cycle, so you don't need to bring your own.\n\nPayment is often by card or mobile as well as coins, and most shops have large dryers — which matters, because dryers are still far from standard in Korean homes. Did this trip you up your first time too? Drop a comment.\n\n🇯🇵 自助式コインランドリーは、住宅街や大学周辺で数多くあり、24時間営業でスタッフがいないことが多い。\n\n🇨🇳 自助式洗衣店在住宅区和大学附近非常普遍，通常24小时营业无人值守。\n\n🇹🇼 自助式洗衣店在住宅區和大學附近非常普遍，通常24小時營業無人值守。",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-28T04:47:12.587Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-28T03:29:02.297Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Doing laundry in Korea: coin laundromats, the dryer problem, and neighborhood dry cleaners",
+    "qualityGate": {
+      "pass": true,
+      "reason": "캡션은 주제와 관련이 있고 문장도 자연스럽고 완성돼 있다.",
+      "model": "groq",
+      "checkedAt": "2026-11-28T03:27:38.437Z",
+      "pattern": "D"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-doing-laundry-in-korea-coin-laundromats-the-dryer-problem-and-neighborhood-dry-cleaners.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "bbc92524-b98f-48aa-841d-9697afa6a222",
+    "text": "Don't assume all Korean palaces close on the same day if you're planning a Monday in Seoul. Gyeongbokgung takes Tuesday off, while Changdeokgung, Changgyeonggung, Deoksugung and Jongmyo close on Mondays. This quiet switch can wreck a tightly planned itinerary. The gates at these palaces typically shut an hour after the last ticket is sold, and general entry to Jongmyo Shrine is restricted to timed guided tours most days. Save this for your trip. Open the Land in Korea link in our profile for more info.\n\nI've been to Gyeongbokgung on a Tuesday thinking it was a Monday. It's a mistake I won't make again.\n\nIf you're planning a Monday visit, check the palace websites for their closing days before heading out. What's the worst that could happen if you don't check the palace closing days on a Monday? I've heard some palaces have free-roaming access on designated days. Is that true? Does anyone else have a Gyeongbokgung Tuesday story to share?\n\n🇯🇵 月曜日を計画している場合、すべての韓国宮殿が同じ日を休みとしないことに注意してください。\n\n🇨🇳 如果你计划周一去韩国宫殿，千万别以为所有的宫殿都在周一休息。\n\n🇹🇼 如果你計劃星期一去韓國宮殿，千萬別以為所有的宮殿都在星期一休息。",
+    "imageUrl": "https://landinkorea.com/sns-media/images/1795836705650-v0-0.jpg",
+    "imageUrls": [
+      "https://landinkorea.com/sns-media/images/1795836705650-v0-0.jpg"
+    ],
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-28T17:25:56.219Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-28T03:32:05.422Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/g7b314937ef0148ee7d008a6af1bf35f63287c1401b9b7ca50747a1deaa26e273d33543dfc232dd1c1821a5d31032bab7446567f6acf620045a12dd886cf34f20_1280.jpg#pixabay=7490464",
+      "https://pixabay.com/get/ge0715512243e74c2f7dbb4f2e4551d018f82d268324ff71105abbea6be9ea77a3990e25c9372f59ee0dae72959cdf8074e4cc65d64fc4c766a1c9750659bd8a3_1280.jpg#pixabay=1263133",
+      "https://pixabay.com/get/gefc8ca140ce9fe50aa089efa8bc8f111dbb5e525d521412319388bc666a5b113a4f91786eeda77a3d58e3b2de8f5e23b6db1c0d439d99808c1f9fc1aa7069c0e_1280.jpg#pixabay=7490474"
+    ],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "The closed-on-Monday trap: how Korean palaces and museums schedule their days off",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: facebook: hook, the first line doesn't make a specific promise or name a specific confusion/mistake, and payoff, the rest doesn't deliver exactly what that hook promised,Gyeongbokgung takes Tuesdays off, while Changdeokgung, Changgyeonggung, Deoksugung, and Jongmyo close on Mondays. | instagram: payoff, the rest doesn't deliver exactly what that hook promised, and reaction, the closing doesn't give readers a real reason to comment, save, or share,Save this for your Korea trip and check the palace websites for their closing days before heading out. | bluesky: payoff, the rest doesn't deliver exactly what that hook promised, and reaction, the closing doesn't give readers a real reason to comment, save, or share,What's the worst that could happen if you don't check the palace closing days on a Monday? | mastodon: payoff, the rest doesn't deliver exactly what that hook promised, and reaction, the closing doesn't give readers a real reason to comment, save, or share,If you're planning a Monday visit, check the palace websites for their closing days before heading out. What's the best way to plan a Monday visit to these palaces? | tumblr: payoff, the rest doesn't deliver exactly what that hook promised, and reaction, the closing doesn't give readers a real reason to comment, save, or share,Save this for your Korea trip!",
+      "failedPlatforms": [
+        "facebook",
+        "instagram",
+        "bluesky",
+        "mastodon",
+        "tumblr"
+      ],
+      "model": "groq",
+      "pattern": "D",
+      "checkedAt": "2026-11-28T03:30:33.899Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-the-closed-on-monday-trap-how-korean-palaces-and-museums-schedule-their-days-off.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "630f751c-f946-4586-b45a-746099132d2c",
+    "text": "Hiking is a mainstream national pastime, not a niche hobby, and several serious peaks sit at the end of a subway or city bus ride — Bukhansan, Dobongsan, Inwangsan and Gwanaksan are all reachable from central Seoul without a car.\n\nTrails are heavily signposted with distance to the summit and numbered emergency markers you can quote to rescue services if something goes wrong.\n\nWeekends, especially in October foliage season, bring serious crowds and queues at summit rock scrambles, so early starts are genuinely worth it. Did this trip you up your first time too? Drop a comment.\n\n🇯🇵 初心者でもトラブルに巻き込まれないように、周辺の住民が整備したトレイルマークが便利です。\n\n🇨🇳 初学者也要注意，周围的居民打造的标志很有帮助。\n\n🇹🇼 初學者也要注意，週圍的居民打造的標誌很有幫助。",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-28T16:40:59.673Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-28T03:35:12.351Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Hiking in Korea like a local: subway-accessible peaks, seasonal trail closures, and the gear culture",
+    "qualityGate": {
+      "pass": true,
+      "reason": "캡션은 주제와 관련이 있으며 자연스럽고 완성된 문장으로 작성되어 있다.",
+      "model": "groq",
+      "checkedAt": "2026-11-28T03:33:10.224Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-hiking-in-korea-like-a-local-subway-accessible-peaks-seasonal-trail-closures-and-the-gear-culture.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
