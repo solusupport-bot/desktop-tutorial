@@ -63664,5 +63664,96 @@
       "checkedAt": "2026-11-28T05:04:26.536Z"
     },
     "blogUrl": "https://landinkorea.com/posts/korea-namdaemun-market.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "1f885c4c-2a87-4315-8364-f52f38da7e1f",
+    "text": "Don't get off at the wrong Gyeongju Station yet if you're headed to Bulguksa.\n\nThe KTX from Seoul Station reaches the new Gyeongju Station in about 2 hours 10 minutes.\n\nTake bus 50, 51, 70 or 710 to the bus terminal for a short ride to Bulguksa. Be aware that bus 60 and 61 will take you into the historic center, not directly to the temple. Did this confuse you too?\n\n🇯🇵 新しい京釜線の駅に注意！ソウル駅から京畿駅まで約2時間10分で着きます。バス50、51、70、710でバスターミナルまで短い距離で移動し、仏国寺へ行きます。注意してください。\n\n🇨🇳 京釜线的新站注意！从首尔站到庆州站大约2小时10分钟。可乘坐公交车50、51、70、710号线到达公交车站，然后短距离到达佛国寺。\n\n🇹🇼 注意！新京釜線的站台！從首爾站到慶州站大約2小時10分。可乘坐公車50、51、70、710號線到達公車站，然後短距離到達佛國寺。",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-28T09:41:21.587Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-28T06:59:37.198Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Gyeongju from Seoul: the KTX, the bus to Bulguksa, and which tombs to see first",
+    "qualityGate": {
+      "pass": false,
+      "reason": "후킹-마무리 불일치/반응 유도 부족: facebook: hook is missing, payoff is incomplete | instagram: payoff is incomplete, reaction is generic | bluesky: payoff is incomplete | mastodon: payoff is incomplete",
+      "failedPlatforms": [
+        "facebook",
+        "instagram",
+        "bluesky",
+        "mastodon"
+      ],
+      "model": "groq",
+      "pattern": "A",
+      "checkedAt": "2026-11-28T06:58:37.048Z"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-gyeongju-from-seoul-the-ktx-the-bus-to-bulguksa-and-which-tombs-to-see-first.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "b2fb3d37-6ffb-40d1-810a-31ad0334997b",
+    "text": "Ttareungyi (Seoul Bike) is Seoul's unmanned public bike, open 24 hours a day to anyone 13 or older.\n\nShort-term visitors buy a dedicated foreigner pass on bikeseoul.\n\ncom (English, Chinese or Japanese) or in the app by choosing the foreigner option, paying with an overseas-issued credit card, one pass per card. How much did this actually cost you on your trip?\n\n🇯🇵 旅行者は、ttareungyi(ソウルバイク)の24時間運営の無人自転車に乗ることができます。短期訪問者は、bikeseoul.com(英語、中国語または日本語)またはアプリの外国人オプションを選択して海外発行のクレジットカードで1枚あたり購入できます。\n\n🇨🇳 旅行者可以使用ttareungyi(首尔自行车)的24小时无人自行车。短期游客可以在bikeseoul.com(英文、中文或日文)或在app中选择外国人选项，使用海外发行的信用卡购买一张票。\n\n🇹🇼 旅行者可以使用ttareungyi(首爾自行車)的24小時無人自行車。短期旅遊者可以在bikeseoul.com(英文、中文或日文)或在app中選擇外國人選項，使用海外發行的信用卡購買一張票。",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-28T08:45:44.386Z",
+    "status": "rejected",
+    "results": {},
+    "createdAt": "2026-11-28T07:01:51.024Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Ttareungyi, Seoul's public bike: buying a pass as a visitor and riding the Han River paths",
+    "qualityGate": {
+      "pass": false,
+      "reason": "캡션은 주제와 관련이 있지만 가격에 대한 정보만 제공되어 유용성은 떨어진다.",
+      "model": "groq",
+      "checkedAt": "2026-11-28T07:00:46.783Z"
+    },
+    "rejectedBy": "auto-quality-gate",
+    "rejectedAt": "2026-11-28T07:01:50.991Z",
+    "blogUrl": "https://landinkorea.com/posts/korea-ttareungyi-seoul-s-public-bike-buying-a-pass-as-a-visitor-and-riding-the-han-river-paths.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "9928c144-4211-467b-bcb9-751e3ea98e54",
+    "text": "Don't get naked in the wrong part of the jjimjilbang, and you'll avoid a lot of confusion.\n\nYou'll need to take off your clothes in the gender-separated bathing area, but you'll be given a uniform t-shirt and shorts to wear in the co-ed common area.\n\nOne thing to keep in mind is that some older or more conservative jjimjilbangs still have rules against visible tattoos, so it's a good idea to check ahead of time if you have any large tattoos. Have you ever been to a jjimjilbang and gotten confused about the dress code?\n\n🇯🇵 男女別の入浴エリアで服を脱ぎ、ユニフォームのＴシャツと短パンを着用する必要があります。\n\n🇨🇳 脱衣所的位置不当，會引起很多误会。男女分開的入浴區域，需要脱掉衣服，但會提供一套制服的T恤和短裤，供共同使用區域穿著。\n\n🇹🇼 不小心走到錯的地方，會引起很多誤會。男女分開的入浴區域，需要脫掉衣服，但會提供一套制服的T恤和短褲，供共同使用區域穿著。",
+    "imageUrl": null,
+    "platforms": [
+      "threads"
+    ],
+    "scheduledAt": "2026-11-28T19:28:18.567Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-28T07:02:11.657Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [],
+    "sourceVideoUrl": null,
+    "videoAttribution": null,
+    "topic": "Jjimjilbang etiquette",
+    "qualityGate": {
+      "pass": true,
+      "reason": "캡션은 주제와 관련이 있고 문장이 자연스럽고 완성돼 있는 내용을 포함하고 있다.",
+      "model": "groq",
+      "checkedAt": "2026-11-28T07:02:04.676Z",
+      "pattern": "A"
+    },
+    "blogUrl": "https://landinkorea.com/posts/korea-jjimjilbang-etiquette.html?utm_source=threads&utm_medium=social&utm_campaign=auto_post"
   }
 ]
