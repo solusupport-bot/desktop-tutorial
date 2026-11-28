@@ -1,8 +1,8 @@
 {
   "groq-vision": {
-    "until": "2026-11-28T07:54:55.255Z",
+    "until": "2026-11-28T10:54:25.098Z",
     "reason": "Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01kzzdmjzveggs757apxyanzes` service tier `on_demand` on tokens per day (TPD): Limit 200000,",
-    "markedAt": "2026-11-28T06:54:55.255Z"
+    "markedAt": "2026-11-28T09:54:25.098Z"
   },
   "groq:openai/gpt-oss-120b": {
     "until": "2026-11-28T07:56:58.849Z",
