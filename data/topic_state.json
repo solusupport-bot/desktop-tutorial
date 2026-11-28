@@ -1,36 +1,6 @@
 {
-  "lastIndex": 53,
+  "lastIndex": 40,
   "history": [
-    {
-      "index": 56,
-      "topic": "Public bathhouse culture in Korea beyond the jjimjilbang: the mogyoktang rules",
-      "at": "2026-11-26T23:43:40.671Z",
-      "source": "instagram-fill"
-    },
-    {
-      "index": 40,
-      "topic": "Learning to read Hangul in a weekend — and why romanized signs still confuse you",
-      "at": "2026-11-26T23:43:59.325Z",
-      "source": "instagram-fill"
-    },
-    {
-      "index": 41,
-      "topic": "Hospital vs. clinic vs. pharmacy in Korea: where to actually go when you get sick",
-      "at": "2026-11-26T23:44:13.950Z",
-      "source": "instagram-fill"
-    },
-    {
-      "index": 42,
-      "topic": "Cafes as workspaces in Korea: unspoken rules of study cafes, franchise chains, and 'no-laptop' signs",
-      "at": "2026-11-26T23:44:26.503Z",
-      "source": "facebook-fill"
-    },
-    {
-      "index": 43,
-      "topic": "Bus travel inside Korean cities: color codes, tag-off transfers, and why you must flag the bus",
-      "at": "2026-11-27T00:53:10.210Z",
-      "source": "instagram-fill"
-    },
     {
       "index": 44,
       "topic": "Reserving restaurants and joining waitlists in Korea: Catch Table, Naver booking, and the Tabling tablet",
@@ -1200,6 +1170,36 @@
       "topic": "Noraebang etiquette: how Korean karaoke actually works for first-timers",
       "at": "2026-11-28T14:10:31.953Z",
       "source": "facebook-fill"
+    },
+    {
+      "index": 39,
+      "topic": "Timing cherry blossoms and fall foliage in Korea without hitting peak crowds",
+      "at": "2026-11-28T15:24:37.688Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 54,
+      "topic": "Unmanned kiosk ordering in Korea: why humans are disappearing from the counter",
+      "at": "2026-11-28T15:26:30.543Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 55,
+      "topic": "Mobile payments in Korea: Kakao Pay, Naver Pay, and why Apple Pay doesn’t work",
+      "at": "2026-11-28T15:26:42.004Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 56,
+      "topic": "Public bathhouse culture in Korea beyond the jjimjilbang: the mogyoktang rules",
+      "at": "2026-11-28T15:26:45.196Z",
+      "source": "instagram-fill"
+    },
+    {
+      "index": 40,
+      "topic": "Learning to read Hangul in a weekend — and why romanized signs still confuse you",
+      "at": "2026-11-28T15:27:05.025Z",
+      "source": "instagram-fill"
     }
   ],
   "recentImageUrls": [
@@ -2603,7 +2603,9 @@
     "https://pixabay.com/get/ga2523d66be9947ddf91e35f3ced45e4c3a8970317cabb4481a924a1d45e556504e82cb1986315fd7bfdd86f93e3d9dbb2cdcb1d2a57469dd51e732debf75bd18_1280.jpg#pixabay=5690728",
     "https://pixabay.com/get/g69c1c32bf39f374992c3ae26998d5a11953c9da5d03de45be71be4456e3ba75b3a69bdf0fd601e2aff095855673e2e5295da9fcb90f31c06138e065dab778451_1280.jpg#pixabay=200069",
     "https://pixabay.com/get/gf34f591f67e4d71a8423e9b7c0b31e3056f390ecf138df012a6708cdde8e7e2a877cf8c13001af43c615d33063c57921ab6bb7dfc572c3f4ef01d935e6b1c8f3_1280.jpg#pixabay=3723224",
-    "https://pixabay.com/get/g50cbca5fb6f80477550fce0ffac9c6b9fc0a1e017f7b453693421d5be7cd15cd35e819554a9a15fe1bb8896cc9a1982cf6e9047f94511ed98224600552949ceb_1280.jpg#pixabay=4674421"
+    "https://pixabay.com/get/g50cbca5fb6f80477550fce0ffac9c6b9fc0a1e017f7b453693421d5be7cd15cd35e819554a9a15fe1bb8896cc9a1982cf6e9047f94511ed98224600552949ceb_1280.jpg#pixabay=4674421",
+    "https://pixabay.com/get/gd58d4feb33cd22816889e59537c1820c839c2a94b254256b1ffcd1ffcb4fcf70896758bc2352de973d0c71413db4b2bb9ef0cef1d4ccc440721eb3f7c882b2e8_1280.jpg#pixabay=7289869",
+    "https://pixabay.com/get/g2252e1a70b88f82bd33a778141940c79e726981818496aa9c00d3b6c67f2802006bfc823e34af04801413f648d134231ea34ad120d52c1ff6cbaac176a24ce24_1280.jpg#pixabay=4689959"
   ],
   "recentVideoUrls": [
     "https://videos.pexels.com/video-files/19577787/19577787-uhd_2160_3840_30fps.mp4",
@@ -3142,7 +3144,8 @@
     "https://cdn.pixabay.com/video/2020/05/15/39179-420257120_large.mp4",
     "https://videos.pexels.com/video-files/41210913/17655150_1920_1080_30fps.mp4",
     "https://videos.pexels.com/video-files/41210912/17655095_1920_1080_30fps.mp4",
-    "https://cdn.pixabay.com/video/2021/04/22/71901-540475451_large.mp4"
+    "https://cdn.pixabay.com/video/2021/04/22/71901-540475451_large.mp4",
+    "https://cdn.pixabay.com/video/2022/03/27/112145-693362072_large.mp4"
   ],
   "recentMusicUrls": [
     "https://prod-1.storage.jamendo.com/?trackid=20237&format=mp32",
@@ -3285,6 +3288,7 @@
     "https://prod-1.storage.jamendo.com/?trackid=665946&format=mp32",
     "https://prod-1.storage.jamendo.com/?trackid=665882&format=mp32",
     "https://prod-1.storage.jamendo.com/?trackid=769892&format=mp32",
+    "https://prod-1.storage.jamendo.com/?trackid=665882&format=mp32",
     "https://prod-1.storage.jamendo.com/?trackid=665882&format=mp32"
   ],
   "topicPhotographers": {

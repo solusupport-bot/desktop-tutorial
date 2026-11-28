@@ -64440,5 +64440,36 @@
     "rejectedBy": "auto-quality-gate",
     "rejectedAt": "2026-11-28T07:49:18.677Z",
     "blogUrl": "https://landinkorea.com/posts/korea-busan-haeundae-beach-gamcheon-culture-village.html?utm_source=tumblr&utm_medium=social&utm_campaign=auto_post"
+  },
+  {
+    "id": "3d680844-d390-440e-8d3e-db3bf6e8225b",
+    "text": "Thinking you can catch Seoul’s cherry blossoms in late March? That’s a common mistake many first‑timers make. In reality, blooms start in the far south—Jeju, Busan, Changwon—around late March, then sweep north, reaching Seoul only in early April. Autumn colors do the opposite: they begin on northern peaks like Seoraksan in early‑mid October, hit Seoul late October‑early November, and finish southward afterward. Check the Korea Meteorological Administration’s forecast maps a couple weeks before you book to avoid the crowds. Have you ever missed a bloom because of timing? Save this for your Korea trip. #KoreaTravel #VisitKorea #KoreaTrip #CherryBlossomTiming #FallFoliageTiming\n\n📖 Open the Land in Korea link in our profile and search “Timing cherry blossoms and fall foliage in Korea without hitting peak crowds”.\n\n🎬 Video source: Pixabay\n\n🎵 \"Anima Pop - Save Me\" by Vienna In Love is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.\n\n🇯🇵 セオルのサクラを見に遅い3月末に来たことはありませんか？実際、南部のJeju、Busan、Changwonでは3月末に咲き始め、北に進み、4月初旬にSeoulに到達します。秋の紅葉は、北部の峰々で10月中旬に始まり、10月下旬-11月初旬にSeoulに到達し、以降は南下します。Korea Meteorological Administrationの予想地図を2週間前には確認して、混雑を避けることができます。時期を間違ってサクラを見逃したことはありますか？Korea旅行のために保存してください。 #KoreaTravel #VisitKorea #KoreaTrip #CherryBlossomTiming #FallFoliageTiming\n\n🇨🇳 你是否在3月末错过了去韩国看樱花的最佳时机？事实上，Jeju、Busan、Changwon等南部地区的樱花在3月末开始开放，然后向北移动，直到4月初旬才到达首尔。秋叶则从北部山峰开始10月中旬，10月下旬-11月初旬到达首尔，然后向南移动。两周前查看韩国气象局的预测地图可以避免人潮。 #KoreaTravel #VisitKorea #KoreaTrip #CherryBlossomTiming #FallFoliageTiming\n\n🇹🇼 你是否錯過了3月末去韓國看櫻花的最佳時間？事實上，濟州島、釜山、昌原等南部地區的櫻花在3月末開始開放，然後向北移動，直到4月初旬才到達首爾。秋葉則從北部山峰開始10月中旬，10月下旬-11月初旬到達首爾，然後向南移動。兩週前查看韓國氣象局的預測地圖可以避免人潮。 #KoreaTravel #VisitKorea #KoreaTrip #CherryBlossomTiming #FallFoliageTiming",
+    "imageUrl": null,
+    "videoUrl": "https://landinkorea.com/sns-media/videos/1795879586806-instagram.mp4",
+    "platforms": [
+      "instagram"
+    ],
+    "scheduledAt": "2026-11-28T16:07:33.210Z",
+    "status": "pending",
+    "results": {},
+    "createdAt": "2026-11-28T15:26:30.467Z",
+    "approved": true,
+    "factCheckStatus": "pending",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "sourceImageUrls": [
+      "https://pixabay.com/get/gd58d4feb33cd22816889e59537c1820c839c2a94b254256b1ffcd1ffcb4fcf70896758bc2352de973d0c71413db4b2bb9ef0cef1d4ccc440721eb3f7c882b2e8_1280.jpg#pixabay=7289869",
+      "https://pixabay.com/get/g2252e1a70b88f82bd33a778141940c79e726981818496aa9c00d3b6c67f2802006bfc823e34af04801413f648d134231ea34ad120d52c1ff6cbaac176a24ce24_1280.jpg#pixabay=4689959"
+    ],
+    "sourceVideoUrl": "https://cdn.pixabay.com/video/2022/03/27/112145-693362072_large.mp4",
+    "videoAttribution": "Pixabay",
+    "topic": "Timing cherry blossoms and fall foliage in Korea without hitting peak crowds",
+    "qualityGate": {
+      "pass": true,
+      "reason": "주제와 일치하고 문장이 자연스럽고 사실도 신뢰할 수 있어 여행자에게 유용합니다.",
+      "model": "groq",
+      "checkedAt": "2026-11-28T15:25:12.638Z",
+      "pattern": "A"
+    }
   }
 ]
