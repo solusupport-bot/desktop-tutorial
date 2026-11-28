@@ -1,12 +1,6 @@
 {
-  "lastIndex": 11,
+  "lastIndex": 12,
   "history": [
-    {
-      "index": 15,
-      "topic": "Convenience store hacks",
-      "at": "2026-11-26T19:54:20.317Z",
-      "source": "facebook-fill"
-    },
     {
       "index": 16,
       "topic": "Seasonal packing & weather tips",
@@ -1200,6 +1194,12 @@
       "topic": "First-timer etiquette & common mistakes",
       "at": "2026-11-28T10:55:25.567Z",
       "source": "instagram-fill"
+    },
+    {
+      "index": 12,
+      "topic": "Currency & card payments",
+      "at": "2026-11-28T10:55:30.445Z",
+      "source": "facebook-fill"
     }
   ],
   "recentImageUrls": [
